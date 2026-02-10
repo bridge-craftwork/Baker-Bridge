@@ -39,7 +39,7 @@
 %TSTReportShade Yes
 %Translate "Board %" "Deal %"
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-05 20:22:01
+%Created: 2026-02-10 08:09:04
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Transfers
 [Event "Baker Bridge - Jacoby Transfers"]
@@ -336,7 +336,7 @@ Here both partners understood the bid and North bid 6NT.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-2NT pass D pass 3H pass 3NT pass 4H pass pass pass
+2NT pass 3D pass 3H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]

@@ -23,3 +23,4 @@ ThirdHand-11 - Exchange SJ-SQ
 100Deals-4 - UseBBAAuction
 100Deals-6 - Exchange SJ-S8
 100Deals-7 - Exchange HQ-HJ
+Transfers-10 - FixBid 3 3D

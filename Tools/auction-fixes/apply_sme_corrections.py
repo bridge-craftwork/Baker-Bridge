@@ -8,6 +8,7 @@ AllowAuction entries are passed through for use by create_full_pbn.py.
 Correction types:
   - Dealer X       : Change dealer to specified seat (N/E/S/W)
   - Exchange XX-YY : Swap two cards between hands (e.g., DJ-DQ swaps Diamond Jack and Queen)
+  - FixBid N BID   : Replace the Nth bid (1-based) in the auction with BID
   - AllowAuction   : Ignored here (handled by create_full_pbn.py)
 
 Usage:
@@ -264,6 +265,7 @@ def main():
     # Count correction types
     dealer_count = 0
     exchange_count = 0
+    fixbid_count = 0
     allow_count = 0
 
     # Process CSV
@@ -293,7 +295,35 @@ def main():
                                 exchange_count += 1
                                 print(f"  {board_id}: Exchange {match.group(1)}-{match.group(2)}")
 
-                    elif correction.upper() == 'ALLOWAUCTION':
+                    elif correction.upper().startswith('FIXBID'):
+                        # FixBid N BID - replace Nth bid (1-based) with BID
+                        parts = correction.split()
+                        if len(parts) >= 3:
+                            try:
+                                bid_pos = int(parts[1])  # 1-based
+                                new_bid = parts[2]
+                                auction = row.get('Auction', '')
+                                if auction:
+                                    auction_parts = auction.replace('|', ' | ').split()
+                                    bids = [p for p in auction_parts if p != '|']
+                                    if 1 <= bid_pos <= len(bids):
+                                        old_bid = bids[bid_pos - 1]
+                                        bids[bid_pos - 1] = new_bid
+                                        # Reconstruct with pipe separators every 4 bids
+                                        new_auction_parts = []
+                                        for idx, bid in enumerate(bids):
+                                            if idx > 0 and idx % 4 == 0:
+                                                new_auction_parts.append('|')
+                                            new_auction_parts.append(bid)
+                                        row['Auction'] = ' '.join(new_auction_parts)
+                                        fixbid_count += 1
+                                        print(f"  {board_id}: FixBid position {bid_pos}: {old_bid} -> {new_bid}")
+                                    else:
+                                        print(f"Warning: Bid position {bid_pos} out of range for {board_id}", file=sys.stderr)
+                            except ValueError:
+                                print(f"Warning: Invalid bid position in: {correction}", file=sys.stderr)
+
+                    elif correction.upper() in ('ALLOWAUCTION', 'USEBBAAUCTION'):
                         allow_count += 1
                         # Handled by create_full_pbn.py
 
@@ -308,6 +338,7 @@ def main():
     print(f"\nApplied corrections:")
     print(f"  Dealer changes: {dealer_count}")
     print(f"  Card exchanges: {exchange_count}")
+    print(f"  Bid fixes: {fixbid_count}")
     print(f"  AllowAuction (for PBN): {allow_count}")
     print(f"\nOutput: {output_path}")
 
