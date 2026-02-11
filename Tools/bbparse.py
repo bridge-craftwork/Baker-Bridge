@@ -365,6 +365,23 @@ def format_played_directive(played_north, played_south, played_east=None, played
 
     return "[PLAY " + ",".join(plays) + "]"
 
+def pad_auction_passes(auction_str):
+    """Ensure auction ends with 3 passes after the last bid/X/XX."""
+    bids = auction_str.split()
+    if not bids:
+        return auction_str
+    # Count trailing passes
+    trailing = 0
+    for b in reversed(bids):
+        if b.lower() == "pass":
+            trailing += 1
+        else:
+            break
+    # Need 3 trailing passes after a bid
+    if trailing < 3 and len(bids) > trailing:
+        bids.extend(["pass"] * (3 - trailing))
+    return " ".join(bids)
+
 def replace_suits(text,use_colon):
     if not text:
         return text
@@ -859,11 +876,17 @@ def process_files(folder_path, output_csv, max_files=3000):
             dealer, auction_str, contract, declarer, analysis = extract_bidding_info(soup,filepath)
             contract = replace_suits(contract,False).replace("!", "")
             auction_str = replace_suits(auction_str,False).replace("!","").replace("redouble","XX").replace("double","X")
+            # Fix concatenated bids from unclosed <td> tags in Set3/Set4 deal14
+            auction_str = auction_str.replace("1NTpass3H", "1NT").replace("2Cpass2S", "2C")
+            # Fix bare "D" bid from Transfers deal10 (missing level in HTML)
+            auction_str = re.sub(r'\bpass D\b', 'pass 3D', auction_str)
+            # Ensure auction ends with 3 passes
+            auction_str = pad_auction_passes(auction_str)
             opening_lead = replace_suits(extract_opening_lead(soup,filepath),False)
             if opening_lead:
                 opening_lead = opening_lead.replace("!","")
             kind = extract_lesson_kind(soup)
-            
+
             if "[ROTATE]" in analysis:
                 # N/S hands come from pre-rotation sections, need rotation
                 # E/W hands come from post-rotation full deal, already correct
@@ -1053,6 +1076,12 @@ def process_files(folder_path, output_csv, max_files=3000):
             dealer, auction_str, contract, declarer, analysis = extract_bidding_info(soup,filepath)
             contract = replace_suits(contract,False).replace("!", "")
             auction_str = replace_suits(auction_str,False).replace("!","").replace("redouble","XX").replace("double","X")
+            # Fix concatenated bids from unclosed <td> tags in Set3/Set4 deal14
+            auction_str = auction_str.replace("1NTpass3H", "1NT").replace("2Cpass2S", "2C")
+            # Fix bare "D" bid from Transfers deal10 (missing level in HTML)
+            auction_str = re.sub(r'\bpass D\b', 'pass 3D', auction_str)
+            # Ensure auction ends with 3 passes
+            auction_str = pad_auction_passes(auction_str)
             opening_lead = replace_suits(extract_opening_lead(soup,filepath),False)
             if opening_lead:
                 opening_lead = opening_lead.replace("!","")

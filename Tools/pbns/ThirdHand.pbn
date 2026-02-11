@@ -1,46 +1,6 @@
-% PBN 2.1
-% EXPORT
-%Content-type: text/x-pbn; charset=UTF-8
-%BCOptions Float Justify NoHRStats STBorder STShade ShowHCP
-%BidAndCardSpacing Thin
-%BoardsPerPage 1
-%CardTableColors #008000,#ffffff,#aaaaaa
-%DDAFormat 0
-%DefaultPagination 0
-%Font:CardTable "Arial",11,400,0
-%Font:Commentary "Georgia",12,400,0
-%Font:Diagram "Georgia",12,400,0
-%Font:Event "Georgia",20,700,0
-%Font:FixedPitch "Courier New",10,400,0
-%Font:HandRecord "Georgia",11,400,0
-%GutterSize 500,500
-%HRTitleDate 2023.10.17
-%HRTitleSetID ""
-%HRTitleSetIDPrefix ""
-%HRTitleSite ""
-%HtmlClubs entity,"http://bridgecomposer.com/suitimg/c.gif"
-%HtmlDiamonds entity,"http://bridgecomposer.com/suitimg/d.gif"
-%HtmlHearts entity,"http://bridgecomposer.com/suitimg/h.gif"
-%HtmlNavBar 0.75,#cfe2f3
-%HtmlSpades entity,"http://bridgecomposer.com/suitimg/s.gif"
-%Margins 1000,1000,1000,1000
-%PaperSize 1,2159,2794,2
-%ParaIndent 0
-%PipColors #000000,#ff0000,#ff0000,#000000
-%PipFont "Cards Decorative","Cards",0,0x53,0x48,0x44,0x43
-%ScoreTableColors #e6e6e6,#000000
-%SectionSpacing 12,0,0
-%SelectedBoard 0
-%ShowBoardLabels 1
-%ShowCardTable 2
-%TSTCustomSortOrder Default
-%TSTReport List
-%TSTReportOrder ByNumber
-%TSTReportShade Yes
-%Translate "Board %" "Deal %"
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-10 08:09:04
-%sourcefilename BakerBridgeFull.csv
+%Created: 2026-02-10 12:01:05
+%sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
 [Board "1"]
@@ -51,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -117,7 +77,7 @@ Played this way you will defeat the contract by one trick. If you allow declarer
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -150,7 +110,7 @@ If instead you play the \CQ, figuring it makes no difference, you'd be right tha
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2C pass 2H pass 4H pass pass pass
+1H pass 2C pass 2H pass 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -187,7 +147,7 @@ For your side, 2 \S tricks and the two minor Aces spell defeat.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -261,7 +221,7 @@ The extra winner would permit South to discard 2 of dummy's \D losers, and this 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -296,7 +256,7 @@ It was a good thing you held the \HK rather than declarer, but it is a nuisance 
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1S pass 1NT pass 3NT pass pass pass
+1S pass 1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -333,7 +293,7 @@ If declarer played low on the first trick you would win the \HQ, then play the \
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 3NT pass pass pass
+1H pass 2NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -370,7 +330,7 @@ Note that if dummy's \S9 was played you would cover with your \SJ, leading to th
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -404,12 +364,12 @@ So what happens if you play the \HQ at trick one? South could still make the con
 [Board "11"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:K5.QJ972.AQ6.973 AJ83.T6.752.AKQ5 74.AK4.T984.T842 QT962.853.KJ3.J6"]
+[Deal "W:K5.QJ972.AQ6.973 AQ83.T6.752.AKQ5 74.AK4.T984.T842 JT962.853.KJ3.J6"]
 [Declarer "S"]
 [Contract "3S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S 2H 3S pass pass pass
+1C pass 1S 2H 3S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -444,7 +404,7 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1D pass 1H 1S 4H pass pass pass
+1D pass 1H 1S 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -516,7 +476,7 @@ Not today. Partner takes the \CK and returns his \H2 to your four winners.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 4S pass pass pass
+1NT pass 2C pass 2S pass 4S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -553,7 +513,7 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1H X pass 2C pass 2NT pass 3NT pass pass pass
+1H X pass 2C pass 2NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -586,7 +546,7 @@ Now suppose you duck the \HJ. Again South will push \Cs, and again you hold up u
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C 1S 2NT pass 3NT pass pass pass
+1C 1S 2NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -623,7 +583,7 @@ Notice that South will always make two \S tricks, so your overtake costs nothing
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C 2S 2NT pass 3NT pass pass pass
+1C 2S 2NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -732,7 +692,7 @@ If you have a partner who pays attention he will now play a \H for you to ruff. 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1NT pass 3NT pass pass pass
+1C pass 1H pass 1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]

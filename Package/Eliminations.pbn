@@ -1,46 +1,6 @@
-% PBN 2.1
-% EXPORT
-%Content-type: text/x-pbn; charset=UTF-8
-%BCOptions Float Justify NoHRStats STBorder STShade ShowHCP
-%BidAndCardSpacing Thin
-%BoardsPerPage 1
-%CardTableColors #008000,#ffffff,#aaaaaa
-%DDAFormat 0
-%DefaultPagination 0
-%Font:CardTable "Arial",11,400,0
-%Font:Commentary "Georgia",12,400,0
-%Font:Diagram "Georgia",12,400,0
-%Font:Event "Georgia",20,700,0
-%Font:FixedPitch "Courier New",10,400,0
-%Font:HandRecord "Georgia",11,400,0
-%GutterSize 500,500
-%HRTitleDate 2023.10.17
-%HRTitleSetID ""
-%HRTitleSetIDPrefix ""
-%HRTitleSite ""
-%HtmlClubs entity,"http://bridgecomposer.com/suitimg/c.gif"
-%HtmlDiamonds entity,"http://bridgecomposer.com/suitimg/d.gif"
-%HtmlHearts entity,"http://bridgecomposer.com/suitimg/h.gif"
-%HtmlNavBar 0.75,#cfe2f3
-%HtmlSpades entity,"http://bridgecomposer.com/suitimg/s.gif"
-%Margins 1000,1000,1000,1000
-%PaperSize 1,2159,2794,2
-%ParaIndent 0
-%PipColors #000000,#ff0000,#ff0000,#000000
-%PipFont "Cards Decorative","Cards",0,0x53,0x48,0x44,0x43
-%ScoreTableColors #e6e6e6,#000000
-%SectionSpacing 12,0,0
-%SelectedBoard 0
-%ShowBoardLabels 1
-%ShowCardTable 2
-%TSTCustomSortOrder Default
-%TSTReport List
-%TSTReportOrder ByNumber
-%TSTReportShade Yes
-%Translate "Board %" "Deal %"
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-10 08:09:04
-%sourcefilename BakerBridgeFull.csv
+%Created: 2026-02-10 12:01:05
+%sourcefilename BakerBridge.csv
 %HRTitleEvent Eliminations
 [Event "Baker Bridge - Elimination Plays"]
 [Board "1"]
@@ -113,7 +73,7 @@ With an elimination play you make it no matter who holds the Queen.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 4S pass pass pass
+1S pass 4S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -495,7 +455,7 @@ Decide for yourself!}
 [Contract "6D"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 3D pass 4D pass 6D pass pass pass
+2C pass 2D pass 3D pass 4D pass 6D pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -684,7 +644,7 @@ But never mind the percentages for a finesse, the end-play was a sure thing.}
 [Contract "5C"]
 [Result ""]
 [Auction "S"]
-1C 1S 2S pass 3C pass 5C pass pass pass
+1C 1S 2S pass 3C pass 5C pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -757,7 +717,7 @@ About the only way the elimination/throw-in could fail is if the \Cs split 3-0. 
 [Contract "6H"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 3H pass 4H pass 5C pass 6H pass pass pass
+pass 1NT pass 3H pass 4H pass 5C pass 6H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -838,7 +798,7 @@ If East just happens to hold both the \CK and \CJ you will make all thirteen tri
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -892,7 +852,7 @@ Wow! End-played at trick #6. }
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2NT pass 3C pass 3S pass 4S pass pass pass
+2NT pass 3C pass 3S pass 4S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1088,7 +1048,7 @@ Hopefully in the future you will be the one with the reputation!}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S 4H 4S pass pass pass
+1S 4H 4S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1218,7 +1178,7 @@ It is a pretty simple problem, but you are no doubt getting a lot better.}
 [Contract "4H"]
 [Result ""]
 [Auction "W"]
-1C pass pass X pass 1S pass 3H pass 4H pass pass pass
+1C pass pass X pass 1S pass 3H pass 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1281,7 +1241,7 @@ It was not a complete elimination since East still had a trump when you threw We
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 4S pass pass pass
+1S pass 4S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1413,7 +1373,7 @@ But if it had turned out that West DID have another \D, and led it, all would no
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2NT 3S 6NT pass pass pass
+2NT 3S 6NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1488,7 +1448,7 @@ In fact, it just kept you from making a losing play, (leading toward the \SQ), a
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C 2S 3H pass 4H pass pass pass
+1NT pass 2C 2S 3H pass 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1557,7 +1517,7 @@ In many hands an opponent who opens with a preemptive bid gives you the informat
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2H pass 2S pass 4S pass pass pass
+1NT pass 2H pass 2S pass 4S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1624,7 +1584,7 @@ This trickery would fail if West held the \DK, or if East held it and went up ri
 [Contract "6C"]
 [Result ""]
 [Auction "E"]
-2S 3C pass 4NT pass 5H pass 6C pass pass pass
+2S 3C pass 4NT pass 5H pass 6C pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]

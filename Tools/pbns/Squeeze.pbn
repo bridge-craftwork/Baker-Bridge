@@ -1,46 +1,6 @@
-% PBN 2.1
-% EXPORT
-%Content-type: text/x-pbn; charset=UTF-8
-%BCOptions Float Justify NoHRStats STBorder STShade ShowHCP
-%BidAndCardSpacing Thin
-%BoardsPerPage 1
-%CardTableColors #008000,#ffffff,#aaaaaa
-%DDAFormat 0
-%DefaultPagination 0
-%Font:CardTable "Arial",11,400,0
-%Font:Commentary "Georgia",12,400,0
-%Font:Diagram "Georgia",12,400,0
-%Font:Event "Georgia",20,700,0
-%Font:FixedPitch "Courier New",10,400,0
-%Font:HandRecord "Georgia",11,400,0
-%GutterSize 500,500
-%HRTitleDate 2023.10.17
-%HRTitleSetID ""
-%HRTitleSetIDPrefix ""
-%HRTitleSite ""
-%HtmlClubs entity,"http://bridgecomposer.com/suitimg/c.gif"
-%HtmlDiamonds entity,"http://bridgecomposer.com/suitimg/d.gif"
-%HtmlHearts entity,"http://bridgecomposer.com/suitimg/h.gif"
-%HtmlNavBar 0.75,#cfe2f3
-%HtmlSpades entity,"http://bridgecomposer.com/suitimg/s.gif"
-%Margins 1000,1000,1000,1000
-%PaperSize 1,2159,2794,2
-%ParaIndent 0
-%PipColors #000000,#ff0000,#ff0000,#000000
-%PipFont "Cards Decorative","Cards",0,0x53,0x48,0x44,0x43
-%ScoreTableColors #e6e6e6,#000000
-%SectionSpacing 12,0,0
-%SelectedBoard 0
-%ShowBoardLabels 1
-%ShowCardTable 2
-%TSTCustomSortOrder Default
-%TSTReport List
-%TSTReportOrder ByNumber
-%TSTReportShade Yes
-%Translate "Board %" "Deal %"
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-10 08:09:04
-%sourcefilename BakerBridgeFull.csv
+%Created: 2026-02-10 12:01:05
+%sourcefilename BakerBridge.csv
 %HRTitleEvent Squeeze
 [Event "Baker Bridge - Squeeze Plays"]
 [Board "1"]
@@ -161,7 +121,7 @@ If you discard the \HQ East will throw his \HA. If you discard dummy's fourth \D
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 6NT pass pass pass
+1NT pass 6NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -206,7 +166,7 @@ You will toss dummy's \C8 and East will have to decide whether it is better for 
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT 2H 6NT pass pass pass
+1NT 2H 6NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -259,7 +219,7 @@ But if he instead throws the \H9, both of dummy's \Hs will become winners.}
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1C 2H X pass 2NT pass 6NT all pass
+1C 2H X pass 2NT pass 6NT all pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -367,7 +327,7 @@ So he will discard the ! H10 instead. At this point you know that the \SQ is wor
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-1NT 2H pass 4H pass pass pass
+1NT 2H pass 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -532,7 +492,7 @@ If he throws the \CJ, you win. But if he throws a \S you also win. This is what 
 [Contract "6NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 2C pass 2S pass 6NT pass pass pass
+pass 1NT pass 2C pass 2S pass 6NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -634,7 +594,7 @@ East is squeezed. He can't throw his \CK without letting your \CQ become a winne
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 3C pass 3H pass 6H pass pass pass
+1H pass 3C pass 3H pass 6H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -677,7 +637,7 @@ East has no answer.}
 [Contract "7NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
+pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -866,7 +826,7 @@ So you play your \HA and West must give up one of his guards. If he holds on to 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2D pass 3NT pass pass pass
+1NT pass 2C pass 2D pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1000,7 +960,7 @@ And you take the last three tricks with the \H suit. There were only two defende
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-2C 4S pass pass 5H pass 6H pass pass pass
+2C 4S pass pass 5H pass 6H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1057,7 +1017,7 @@ Yet another slam, courtesy of the Squeeze Play!}
 [Contract "6H"]
 [Result ""]
 [Auction "W"]
-1S pass pass X 2D 2NT pass 4H pass 6H pass pass pass
+1S pass pass X 2D 2NT pass 4H pass 6H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]

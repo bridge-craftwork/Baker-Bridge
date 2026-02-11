@@ -1,46 +1,6 @@
-% PBN 2.1
-% EXPORT
-%Content-type: text/x-pbn; charset=UTF-8
-%BCOptions Float Justify NoHRStats STBorder STShade ShowHCP
-%BidAndCardSpacing Thin
-%BoardsPerPage 1
-%CardTableColors #008000,#ffffff,#aaaaaa
-%DDAFormat 0
-%DefaultPagination 0
-%Font:CardTable "Arial",11,400,0
-%Font:Commentary "Georgia",12,400,0
-%Font:Diagram "Georgia",12,400,0
-%Font:Event "Georgia",20,700,0
-%Font:FixedPitch "Courier New",10,400,0
-%Font:HandRecord "Georgia",11,400,0
-%GutterSize 500,500
-%HRTitleDate 2023.10.17
-%HRTitleSetID ""
-%HRTitleSetIDPrefix ""
-%HRTitleSite ""
-%HtmlClubs entity,"http://bridgecomposer.com/suitimg/c.gif"
-%HtmlDiamonds entity,"http://bridgecomposer.com/suitimg/d.gif"
-%HtmlHearts entity,"http://bridgecomposer.com/suitimg/h.gif"
-%HtmlNavBar 0.75,#cfe2f3
-%HtmlSpades entity,"http://bridgecomposer.com/suitimg/s.gif"
-%Margins 1000,1000,1000,1000
-%PaperSize 1,2159,2794,2
-%ParaIndent 0
-%PipColors #000000,#ff0000,#ff0000,#000000
-%PipFont "Cards Decorative","Cards",0,0x53,0x48,0x44,0x43
-%ScoreTableColors #e6e6e6,#000000
-%SectionSpacing 12,0,0
-%SelectedBoard 0
-%ShowBoardLabels 1
-%ShowCardTable 2
-%TSTCustomSortOrder Default
-%TSTReport List
-%TSTReportOrder ByNumber
-%TSTReportShade Yes
-%Translate "Board %" "Deal %"
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-10 08:09:04
-%sourcefilename BakerBridgeFull.csv
+%Created: 2026-02-10 12:01:05
+%sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
 [Board "1"]
@@ -51,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -84,7 +44,7 @@ So if you put on your \DA, South will have TWO \D winners established. If instea
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1S pass 3D pass 3H pass 3NT pass 4H pass 4NT pass 5H pass 6H all pass
+1S pass 3D pass 3H pass 3NT pass 4H pass 4NT pass 5H pass 6H all pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -121,7 +81,7 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 4H pass pass pass
+1H pass 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -195,7 +155,7 @@ However, with South holding the \SQ it would be very logical for him to go up wi
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 6NT pass pass pass
+2NT pass 6NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -234,7 +194,7 @@ South has no defense to this, but if you had played low he would have played the
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -310,7 +270,7 @@ By playing low you give him a guess to make. If he plays the \CK he will make th
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1NT pass 3NT pass pass pass
+1C pass 1H pass 1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -347,7 +307,7 @@ So the way to beat the contract is to go up with your \CA, then play \SK, \SQ an
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -497,7 +457,7 @@ Now visualize the result of playing the \HQ. Whether South takes this trick or n
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 6NT pass pass pass
+1NT pass 6NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -571,7 +531,7 @@ When you correctly play your small \C life becomes harder for South. Sometimes h
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -649,7 +609,7 @@ But if you take your \HA now, then exit with your \H2, South can win the \HK but
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 3D pass 3NT pass 6H pass pass pass
+1H pass 3D pass 3NT pass 6H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -688,7 +648,7 @@ If you cover the \HJ with your \HQ South will again win with one of his high one
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2H pass 4H pass pass pass
+2H pass 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -724,7 +684,7 @@ If you play low on South's \S play East will be forced to win the trick and he c
 [Board "19"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:J942.73.T75.QT65 6.KJ96.Q63.A7432 AT873.T4.KJ84.98 KQ5.AQ852.A92.KJ"]
+[Deal "W:J942.73.T75.QT65 6.QJ96.Q63.A7432 AT873.T4.KJ84.98 KQ5.AK852.A92.KJ"]
 [Declarer "S"]
 [Contract "6H"]
 [Result ""]
@@ -768,7 +728,7 @@ Now assume you play low. South will play the \SQ which will win the trick and he
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1NT pass 3S pass 6S pass pass pass
+1NT pass 3S pass 6S pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
