@@ -129,17 +129,17 @@ def parse_hand_to_cards(hand_str):
     """Convert a hand string like 'S:AK4 H:AT865 D:Q3 C:AJ4' to a set of cards like {'SA', 'SK', 'S4', 'HA', ...}"""
     if not hand_str:
         return set()
+    return set(_parse_hand_to_card_list(hand_str))
 
-    cards = set()
+def _parse_hand_to_card_list(hand_str):
+    """Convert a hand string to a list of cards preserving HTML order."""
+    if not hand_str:
+        return []
+
+    cards = []
     current_suit = None
 
     for part in hand_str.split():
-        if ':' in part:
-            suit_letter = part[0]  # S, H, D, or C
-            card_chars = part[2:]  # Everything after the colon
-        else:
-            card_chars = part
-
         if part.startswith('S:'):
             current_suit = 'S'
             card_chars = part[2:]
@@ -152,11 +152,13 @@ def parse_hand_to_cards(hand_str):
         elif part.startswith('C:'):
             current_suit = 'C'
             card_chars = part[2:]
+        else:
+            card_chars = part
 
         if current_suit:
             for c in card_chars:
                 if c in 'AKQJT98765432':
-                    cards.add(current_suit + c)
+                    cards.append(current_suit + c)
 
     return cards
 
@@ -224,14 +226,15 @@ def extract_hands_by_anchor(soup):
             visible_seats = []
             partial_cards = {}  # seat -> list of cards
 
-            for seat, cards_key in [("N", "north"), ("E", "east"), ("S", "south"), ("W", "west")]:
+            for seat, cards_key, raw_key in [("N", "north", "north_raw"), ("E", "east", "east_raw"),
+                                                ("S", "south", "south_raw"), ("W", "west", "west_raw")]:
                 cards = section[cards_key]
                 if cards:
                     if len(cards) >= MIN_FULL_HAND:
                         visible_seats.append(seat)
                     else:
-                        # Partial hand - just showing played cards
-                        partial_cards[seat] = sorted(cards)
+                        # Partial hand - preserve HTML order (play order)
+                        partial_cards[seat] = _parse_hand_to_card_list(section[raw_key])
 
             initial_show = None
             if visible_seats:
@@ -291,14 +294,16 @@ def extract_hands_by_anchor(soup):
             prev_full_visible = []
             curr_partial = {}
 
-            for seat, cards_key in [("N", "north"), ("E", "east"), ("S", "south"), ("W", "west")]:
+            for seat, cards_key, raw_key in [("N", "north", "north_raw"), ("E", "east", "east_raw"),
+                                                ("S", "south", "south_raw"), ("W", "west", "west_raw")]:
                 curr_cards = curr[cards_key]
                 prev_cards = prev[cards_key]
 
                 if curr_cards and len(curr_cards) >= MIN_FULL_HAND:
                     curr_full_visible.append(seat)
                 elif curr_cards and len(curr_cards) > 0:
-                    curr_partial[seat] = sorted(curr_cards)
+                    # Preserve HTML order (play order)
+                    curr_partial[seat] = _parse_hand_to_card_list(curr[raw_key])
 
                 if prev_cards and len(prev_cards) >= MIN_FULL_HAND:
                     prev_full_visible.append(seat)
@@ -397,6 +402,7 @@ def replace_suits(text,use_colon):
     # Match patterns like "S:10", "!S10", or within card sequences like "AKQ10"
     text = re.sub(r'([SHDC][:\!]?)10', r'\1T', text)
     text = re.sub(r'([AKQJ])10', r'\1T', text)  # Also handle 10 after other card ranks
+    text = re.sub(r'([2-9])10', r'\1T', text)   # Also handle 10 after numeric card ranks
     text = text.replace("--","")
 
     return text

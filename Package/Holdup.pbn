@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-10 12:01:05
+%Created: 2026-02-11 08:15:21
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Holdup
 [Event "Baker Bridge - Holdup Plays"]
@@ -517,7 +517,7 @@ West glares at you, (because he has no \H to lead), and plays the \CQ which you 
 
 Click NEXT. [NEXT]
 
-[showcards N:C7,C8,S6,ST S:CK,CT,SJ,SK]
+[showcards N:ST,S6,C8,C7 S:SK,SJ,CK,CT]
 
 [PLAY N:SQ,N:DQ,N:C5,N:C3,S:S7,S:HA,S:DT,S:CA]
 
@@ -668,7 +668,7 @@ You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, 
 
 Click . [NEXT]
 
-[showcards N:C4,C5,C7,S7 S:C6,CJ,CK,SK]
+[showcards N:S7,C7,C5,C4 S:SK,CK,CJ,C6]
 
 [PLAY N:SQ,N:S4,N:DK,N:DJ,N:DT,N:D3,S:SA,S:S5,S:DA,S:DQ,S:D6,S:D5]
 

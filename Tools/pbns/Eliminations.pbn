@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-10 12:01:05
+%Created: 2026-02-11 08:15:21
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Eliminations
 [Event "Baker Bridge - Elimination Plays"]
@@ -364,7 +364,7 @@ You are ready for the throw-in. Play a \S to East's \SQ.
 
 Click NEXT. [NEXT]
 
-[showcards N:C2,CK,CT,ST S:C7,CA,CJ,S8]
+[showcards N:ST,CK,CT,C2 S:S8,CA,CJ,C7]
 
 [PLAY N:S6,S:S7]
 
@@ -423,7 +423,7 @@ Eliminate \Ds by playing \DK, \DA, \DJ. If you are REALLY lucky the \DQ will fal
 
 Click NEXT. [NEXT]
 
-[showcards N:C2,CK,CT,H8 S:C4,CA,CJ,HJ]
+[showcards N:H8,CK,CT,C2 S:HJ,CA,CJ,C4]
 
 [PLAY N:DK,N:D9,N:D5,S:DA,S:DJ,S:D7]
 
@@ -770,7 +770,7 @@ Conveniently in dummy, you play a \C and insert the \CT if East plays low.
 
 Click NEXT. [NEXT]
 
-[showcards N:C6,C7,H6,HA S:CA,CQ,HK,HQ]
+[showcards N:HA,H6,C7,C6 S:HK,HQ,CA,CQ]
 
 [PLAY N:C3,S:CT]
 
@@ -897,7 +897,7 @@ Now you administer the coup de gras, you lead a trump.
 
 Click NEXT. [NEXT]
 
-[showcards N:D4,D5,DJ,ST S:D7,D8,DQ,SJ]
+[showcards N:ST,DJ,D5,D4 S:SJ,DQ,D8,D7]
 
 [PLAY N:S7,S:S6]
 
@@ -1286,7 +1286,7 @@ You are in dummy, just where you want to be. Play the \DK, and when East plays t
 
 Click NEXT. [NEXT]
 
-[showcards N:C3,C5,CK,SJ S:C6,C7,S3,S6]
+[showcards N:SJ,CK,C5,C3 S:S6,S3,C7,C6]
 
 [PLAY N:DK,S:C4]
 
@@ -1410,7 +1410,7 @@ Now play your 2 \D winners. East and West both follow.
 
 Click NEXT. [NEXT]
 
-[showcards N:S2,S7,SA S:S4,S9,SQ]
+[showcards N:SA,S7,S2 S:SQ,S9,S4]
 
 [PLAY N:D7,N:D5,S:DA,S:DQ]
 
@@ -1420,7 +1420,7 @@ Keeping your fingers crossed that West must win the next trick you play the \S9.
 
 Click NEXT. [NEXT]
 
-[showcards N:S7,SA S:S4,SQ]
+[showcards N:SA,S7 S:SQ,S4]
 
 [PLAY N:S2,S:S9]
 
@@ -1487,7 +1487,7 @@ So far East has followed suit to every trick, meaning he has not discarded a sin
 
 Click NEXT. [NEXT]
 
-[showcards N:D4,D5,HQ,S7 S:D7,HK,HT,S8]
+[showcards N:S7,HQ,D5,D4 S:S8,HK,HT,D7]
 
 [PLAY N:DA,S:D2]
 
