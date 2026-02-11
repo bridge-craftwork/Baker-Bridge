@@ -5,6 +5,10 @@
 # This replaces Convert_deal00_to_PDF.py and uses the Rust-based html2pdf tool
 # which leverages headless Chrome for rendering.
 #
+# Preprocessing:
+#   - Removes trailing "Deal 1" link (not useful in PDF)
+#   - Overrides body background to white for clean printing
+#
 # Usage:
 #   ./convert_html_to_pdf.sh [--source DIR] [--dest DIR]
 #
@@ -59,6 +63,10 @@ fi
 # Create destination folder
 mkdir -p "$DEST_FOLDER"
 
+# Create temp directory for preprocessed files
+TEMP_DIR=$(mktemp -d)
+trap "rm -rf $TEMP_DIR" EXIT
+
 echo "Converting HTML intro pages to PDF..."
 echo "  Source: $SOURCE_ROOT"
 echo "  Dest:   $DEST_FOLDER"
@@ -89,8 +97,39 @@ while IFS= read -r -d '' html_file; do
 
     echo "Converting: $rel_dir/deal00.html -> $pdf_name"
 
+    # Preprocess: copy to temp dir (preserving relative path for CSS references)
+    temp_subdir="$TEMP_DIR/$rel_dir"
+    mkdir -p "$temp_subdir"
+    temp_file="$temp_subdir/deal00.html"
+
+    # Resolve the CSS path to an absolute file:// URL
+    css_path="$(cd "$(dirname "$html_file")/.." && pwd)/deal.css"
+
+    # Inline SVG compass to replace t1.gif (full NESW compass box)
+    read -r -d '' COMPASS_SVG << 'SVGEOF' || true
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72"><rect width="72" height="72" rx="4" fill="#b8860b"/><text x="36" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="white">N</text><text x="12" y="44" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="white">W</text><text x="60" y="44" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="white">E</text><text x="36" y="64" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="white">S</text></svg>
+SVGEOF
+
+    # Inline SVG bar to replace tvs.gif (gold horizontal separator)
+    read -r -d '' BAR_SVG << 'SVGEOF' || true
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="16" viewBox="0 0 72 16"><rect width="72" height="16" rx="2" fill="#b8860b"/></svg>
+SVGEOF
+
+    # Copy the original, then apply fixes:
+    # 1. Remove trailing deal link (e.g., <a href="deal01.html#1">...Deal 1...</a>)
+    # 2. Inject CSS to override body background to white
+    # 3. Rewrite CSS href to absolute path
+    # 4. Replace t1.gif image with inline SVG compass
+    sed -E "
+        s|<a href=\"deal0?1\.html[^\"]*\">[^<]*<b>[^<]*Deal 1[^<]*</b>[^<]*</a>||g
+        s|</head>|<style>body { background-color: #ffffff !important; } table { break-inside: avoid; }</style></head>|
+        s|href=\"\.\./deal\.css\"|href=\"file://${css_path}\"|
+        s|<img src=\"\.\./t1\.gif\"[^/]*/?>|${COMPASS_SVG}|g
+        s|<img src=\"\.\./tvs\.gif\"[^/]*/?>|${BAR_SVG}|g
+    " "$html_file" > "$temp_file"
+
     # Convert using html2pdf with background printing enabled
-    if html2pdf "$html_file" -o "$pdf_path" --background --paper Letter 2>/dev/null; then
+    if html2pdf "$temp_file" -o "$pdf_path" --background --paper Letter 2>/dev/null; then
         converted=$((converted + 1))
     else
         echo "  Warning: Failed to convert $html_file"
