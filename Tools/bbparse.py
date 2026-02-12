@@ -568,17 +568,23 @@ def extract_progressive_analysis(soup,filepath):
     suit_symbols = {"♦", "♥", "♠", "♣"}
     for idx, bid in enumerate(all_bids):
         if bid in suit_symbols:
-            # Search earlier auction tables for the correct bid at this position
-            tables = soup.find_all('table')
-            for table in tables:
-                if any("WEST" in cell.get_text(strip=True) for cell in table.find_all("td")):
-                    rows = table.find_all("tr")
-                    table_bids = [cell.get_text(strip=True) or "" for row in rows[1:] for cell in row.find_all("td")]
-                    while table_bids and table_bids[-1].strip() == "":
-                        table_bids.pop()
-                    if idx < len(table_bids) and table_bids[idx] not in suit_symbols and table_bids[idx] not in ["", "BID", "pass"]:
-                        all_bids[idx] = table_bids[idx]
-                        break
+            # Search inner auction tables (no nested tables) for the correct bid at this position
+            for table in soup.find_all('table'):
+                if table.find('table'):
+                    continue  # skip outer layout tables
+                first_row_cells = [cell.get_text(strip=True) for cell in table.find('tr').find_all('td')]
+                if 'WEST' not in first_row_cells:
+                    continue  # not an auction table
+                rows = table.find_all("tr")
+                table_bids = [cell.get_text(strip=True) or "" for row in rows[1:] for cell in row.find_all("td")]
+                # Strip leading empties to match all_bids indexing (extract_auction_info strips these)
+                while table_bids and table_bids[0].strip() == "":
+                    table_bids.pop(0)
+                while table_bids and table_bids[-1].strip() == "":
+                    table_bids.pop()
+                if idx < len(table_bids) and table_bids[idx] not in suit_symbols and table_bids[idx] not in ["", "BID", "pass"]:
+                    all_bids[idx] = table_bids[idx]
+                    break
 
 #     print("auction_str:", auction_str)
 #     print("")
