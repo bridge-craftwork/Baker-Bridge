@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-11 08:15:21
+%Created: 2026-02-11 22:31:28
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Transfers
 [Event "Baker Bridge - Jacoby Transfers"]
@@ -305,7 +305,7 @@ Here both partners understood the bid and North bid 6NT.}
 {Baker Transfers 10}
 {[show S]
 
-North opens 2NT showing a balanced 20-21 point hand. What do you respond? [BID \D]
+North opens 2NT showing a balanced 20-21 point hand. What do you respond? [BID EAST]
 
 Jacoby Transfers work fine with 2NT openings also. You should bid 3\D as a transfer to \Hs. Partner complies by saying 3\H. What do you say now? [BID 3NT]
 

@@ -562,7 +562,24 @@ def extract_progressive_analysis(soup,filepath):
     
 #   all_bids = ["pass", "1♠", "pass", "2♠", "pass", "4♠"]
     all_bids = auction_str.split()
-    
+
+    # Fix bare suit symbols with no level (e.g., Transfers deal10 has "♦" instead of "3♦")
+    # Look for bids that are just a suit symbol and recover the level from the prior auction tables
+    suit_symbols = {"♦", "♥", "♠", "♣"}
+    for idx, bid in enumerate(all_bids):
+        if bid in suit_symbols:
+            # Search earlier auction tables for the correct bid at this position
+            tables = soup.find_all('table')
+            for table in tables:
+                if any("WEST" in cell.get_text(strip=True) for cell in table.find_all("td")):
+                    rows = table.find_all("tr")
+                    table_bids = [cell.get_text(strip=True) or "" for row in rows[1:] for cell in row.find_all("td")]
+                    while table_bids and table_bids[-1].strip() == "":
+                        table_bids.pop()
+                    if idx < len(table_bids) and table_bids[idx] not in suit_symbols and table_bids[idx] not in ["", "BID", "pass"]:
+                        all_bids[idx] = table_bids[idx]
+                        break
+
 #     print("auction_str:", auction_str)
 #     print("")
     # print("all_bids:", all_bids)
@@ -588,7 +605,7 @@ def extract_progressive_analysis(soup,filepath):
                 print("partial_auction_list:", partial_auction_list)
             else:
                 last_bid = all_bids[len(partial_auction_list)-1]
-        
+
         analysis = extract_analysis_text(str(td))
         analysis = clean_up_analysis(analysis,str(td),last_bid)
         analysis_lines.append(analysis)
