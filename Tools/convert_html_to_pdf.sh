@@ -1,13 +1,17 @@
 #!/bin/bash
 #
-# convert_html_to_pdf.sh - Convert deal00.html intro pages to PDF using html2pdf
+# convert_html_to_pdf.sh - Convert HTML lesson pages to PDF using html2pdf
 #
-# This replaces Convert_deal00_to_PDF.py and uses the Rust-based html2pdf tool
-# which leverages headless Chrome for rendering.
+# Generates three types of PDFs:
+#   1. Intro PDFs from deal00.html (lesson intro pages)
+#   2. Intro PDFs from Bidpractice review.html (partnership bidding intros)
+#   3. Deal PDFs from Bidpractice deal*.html (partnership bidding deal sheets)
 #
 # Preprocessing:
 #   - Removes trailing "Deal 1" link (not useful in PDF)
 #   - Overrides body background to white for clean printing
+#   - Replaces t1.gif/tvs.gif with inline SVGs
+#   - Fixes CSS/image paths to absolute file:// URLs
 #
 # Usage:
 #   ./convert_html_to_pdf.sh [--source DIR] [--dest DIR]
@@ -62,6 +66,25 @@ fi
 
 # Create destination folder
 mkdir -p "$DEST_FOLDER"
+
+# Bidpractice Set → Partnership name mapping (function for bash 3 compat)
+get_partnership_name() {
+    case "$1" in
+        Set1)  echo "Partnership-BasicNotrump" ;;
+        Set2)  echo "Partnership-BasicMajor" ;;
+        Set3)  echo "Partnership-BasicBidding" ;;
+        Set4)  echo "Partnership-StaymanTransfers" ;;
+        Set5)  echo "Partnership-WeakTwos" ;;
+        Set6)  echo "Partnership-TwoClub" ;;
+        Set7)  echo "Partnership-Blackwood" ;;
+        Set8)  echo "Partnership-RomanKeyCard" ;;
+        Set9)  echo "Partnership-Jacoby2NT" ;;
+        Set10) echo "Partnership-Overcalls" ;;
+        Set11) echo "Partnership-NegativeDoubles" ;;
+        Set12) echo "Partnership-AdvancedForcing" ;;
+        *)     echo "" ;;
+    esac
+}
 
 # Create temp directory for preprocessed files
 TEMP_DIR=$(mktemp -d)
@@ -139,7 +162,64 @@ SVGEOF
 done < <(find "$SOURCE_ROOT" -name "deal00.html" -type f -print0)
 
 echo ""
-echo "Conversion complete:"
+echo "Intro page conversion complete:"
 echo "  Total files: $total"
 echo "  Converted:   $converted"
 echo "  Failed:      $failed"
+
+# ============================================================
+# Section 2: Bidpractice review.html → Partnership Intro PDFs
+# ============================================================
+echo ""
+echo "Converting Bidpractice review pages to Intro PDFs..."
+
+bp_total=0
+bp_converted=0
+bp_failed=0
+
+BIDPRACTICE_DIR="$SOURCE_ROOT/Bidpractice"
+if [[ -d "$BIDPRACTICE_DIR" ]]; then
+    for set_dir in "$BIDPRACTICE_DIR"/Set*/; do
+        set_name=$(basename "$set_dir")
+        review_file="$set_dir/review.html"
+
+        if [[ ! -f "$review_file" ]]; then
+            continue
+        fi
+
+        partnership_name="$(get_partnership_name "$set_name")"
+        if [[ -z "$partnership_name" ]]; then
+            echo "  Warning: No mapping for $set_name, skipping"
+            continue
+        fi
+
+        bp_total=$((bp_total + 1))
+        pdf_name="${partnership_name}.pdf"
+        pdf_path="$DEST_FOLDER/$pdf_name"
+
+        echo "  Converting: Bidpractice/$set_name/review.html -> $pdf_name"
+
+        # Preprocess: white background, absolute CSS path
+        css_path="$(cd "$set_dir/.." && pwd)/cardhand.css"
+        temp_file="$TEMP_DIR/review_${set_name}.html"
+
+        sed -E "
+            s|</head>|<style>body { background-color: #ffffff !important; } .nav { display: none; } .space { display: none; } .hand { left: 0 !important; margin: 0 auto !important; }</style></head>|
+            s|bgcolor=\"#cccc99\"|bgcolor=\"#ffffff\"|
+            s|href=\"\.\./cardhand\.css\"|href=\"file://${css_path}\"|
+            s|Click any Deal to start\.||
+        " "$review_file" > "$temp_file"
+
+        if html2pdf "$temp_file" -o "$pdf_path" --background --paper Letter 2>/dev/null; then
+            bp_converted=$((bp_converted + 1))
+        else
+            echo "    Warning: Failed to convert $review_file"
+            bp_failed=$((bp_failed + 1))
+        fi
+    done
+fi
+
+echo ""
+echo "Bidpractice intro conversion complete:"
+echo "  Total: $bp_total  Converted: $bp_converted  Failed: $bp_failed"
+

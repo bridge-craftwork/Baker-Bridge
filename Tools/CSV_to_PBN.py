@@ -293,89 +293,89 @@ BAKER_BRIDGE_TAXONOMY = {
     },
 
     # PARTNERSHIP BIDDING
-    'Bidpractice/Set1': {
-        'path': 'partnership_bidding/set_01',
-        'name': 'Partnership Bidding Set 1',
+    'Partnership-BasicNotrump': {
+        'path': 'partnership_bidding/basic_notrump',
+        'name': 'Very Basic Notrump Bidding',
         'category': 'Partnership Bidding',
-        'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 1'
+        'difficulty': 'beginner',
+        'description': 'Very Basic Notrump Bidding'
     },
-    'Bidpractice/Set2': {
-        'path': 'partnership_bidding/set_02',
-        'name': 'Partnership Bidding Set 2',
+    'Partnership-BasicMajor': {
+        'path': 'partnership_bidding/basic_major',
+        'name': 'Very Basic Major Suit Bidding',
         'category': 'Partnership Bidding',
-        'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 2'
+        'difficulty': 'beginner',
+        'description': 'Very Basic Major Suit Bidding'
     },
-    'Bidpractice/Set3': {
-        'path': 'partnership_bidding/set_03',
-        'name': 'Partnership Bidding Set 3',
+    'Partnership-BasicBidding': {
+        'path': 'partnership_bidding/basic_bidding',
+        'name': 'Basic Bidding With No Conventions',
         'category': 'Partnership Bidding',
-        'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 3'
+        'difficulty': 'beginner',
+        'description': 'Basic Bidding With No Conventions'
     },
-    'Bidpractice/Set4': {
-        'path': 'partnership_bidding/set_04',
-        'name': 'Partnership Bidding Set 4',
+    'Partnership-StaymanTransfers': {
+        'path': 'partnership_bidding/stayman_transfers',
+        'name': 'Stayman and Jacoby Transfers',
         'category': 'Partnership Bidding',
         'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 4'
+        'description': 'Stayman and Jacoby Transfers'
     },
-    'Bidpractice/Set5': {
-        'path': 'partnership_bidding/set_05',
-        'name': 'Partnership Bidding Set 5',
+    'Partnership-WeakTwos': {
+        'path': 'partnership_bidding/weak_twos',
+        'name': 'Weak Two-bids and Preemptive Three Bids',
         'category': 'Partnership Bidding',
         'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 5'
+        'description': 'Weak Two-bids and Preemptive Three Bids'
     },
-    'Bidpractice/Set6': {
-        'path': 'partnership_bidding/set_06',
-        'name': 'Partnership Bidding Set 6',
+    'Partnership-TwoClub': {
+        'path': 'partnership_bidding/two_club',
+        'name': 'Strong Two-Club Openings',
         'category': 'Partnership Bidding',
         'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 6'
+        'description': 'Strong Two-Club Openings'
     },
-    'Bidpractice/Set7': {
-        'path': 'partnership_bidding/set_07',
-        'name': 'Partnership Bidding Set 7',
+    'Partnership-Blackwood': {
+        'path': 'partnership_bidding/blackwood',
+        'name': 'Blackwood and Gerber',
         'category': 'Partnership Bidding',
         'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 7'
+        'description': 'Blackwood and Gerber'
     },
-    'Bidpractice/Set8': {
-        'path': 'partnership_bidding/set_08',
-        'name': 'Partnership Bidding Set 8',
+    'Partnership-RomanKeyCard': {
+        'path': 'partnership_bidding/roman_key_card',
+        'name': 'Roman Key Card Blackwood',
         'category': 'Partnership Bidding',
-        'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 8'
+        'difficulty': 'advanced',
+        'description': 'Roman Key Card Blackwood'
     },
-    'Bidpractice/Set9': {
-        'path': 'partnership_bidding/set_09',
-        'name': 'Partnership Bidding Set 9',
+    'Partnership-Jacoby2NT': {
+        'path': 'partnership_bidding/jacoby_2nt',
+        'name': 'Jacoby 2NT and Splinter Bids',
         'category': 'Partnership Bidding',
-        'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 9'
+        'difficulty': 'advanced',
+        'description': 'Jacoby 2NT and Splinter Bids'
     },
-    'Bidpractice/Set10': {
-        'path': 'partnership_bidding/set_10',
-        'name': 'Partnership Bidding Set 10',
+    'Partnership-Overcalls': {
+        'path': 'partnership_bidding/overcalls',
+        'name': 'Overcalls and TakeOut Doubles',
         'category': 'Partnership Bidding',
         'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 10'
+        'description': 'Competitive Bidding: Overcalls and TakeOut Doubles'
     },
-    'Bidpractice/Set11': {
-        'path': 'partnership_bidding/set_11',
-        'name': 'Partnership Bidding Set 11',
+    'Partnership-NegativeDoubles': {
+        'path': 'partnership_bidding/negative_doubles',
+        'name': 'Negative Doubles and Cue-Bid Support',
         'category': 'Partnership Bidding',
         'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 11'
+        'description': 'Competitive Bidding: Negative Doubles and Cue-Bid Support'
     },
-    'Bidpractice/Set12': {
-        'path': 'partnership_bidding/set_12',
-        'name': 'Partnership Bidding Set 12',
+    'Partnership-AdvancedForcing': {
+        'path': 'partnership_bidding/advanced_forcing',
+        'name': 'Fourth Suit Forcing, NMF, Help Suit Game Try',
         'category': 'Partnership Bidding',
-        'difficulty': 'intermediate',
-        'description': 'Partnership bidding practice set 12'
+        'difficulty': 'advanced',
+        'description': 'Fourth Suit Forcing, New Minor Forcing, Help Suit Game Try'
     },
 }
 

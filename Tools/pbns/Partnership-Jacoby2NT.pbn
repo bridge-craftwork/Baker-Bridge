@@ -1,0 +1,670 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-12 18:52:43
+%sourcefilename BakerBridge.csv
+%HRTitleEvent Partnership-Jacoby2NT
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- A73.QJT82.K86.Q4 - K42.AK75.A2.8753"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2NT pass 4H pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 1}
+{[show NS]
+SOUTH's 2NT bid is Jacoby, showing a game-forcing \H raise.
+ 
+
+ 
+NORTH has a minimum opening hand with nothing extra to show, so signs off at 4\H.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- K854.KQ84.T52.KQ - AJT96.A62.AQ.T52"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3NT pass 4S pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 2}
+{[show NS]
+NORTH's 2NT response is Jacoby - a game forcing \S raise.
+ 
+
+ 
+SOUTH's 3NT bid shows extra strength, a 5-card trump suit and no singleton/void. This is 
+definitely NOT a suggestion to play Notrump - the trump suit is already agreed as \Ss.
+ 
+
+ 
+NORTH cannot make any positive move, so she bids 4\S which SOUTH passes.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- AJT762.KT.AJ6.J4 - KQ53.QJ5.KQ.9732"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2NT pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 3}
+{[show NS]
+Following SOUTH's Jacoby 2NT, NORTH bids 3\S. This is stronger than 4\S and 
+shows a 6-card suit.
+ 
+
+ 
+SOUTH has already bid the full strength of his hand so he signs off with 4\S which NORTH passes.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- K9652.A76.Q5.KQ8 - AQJ743.KQJ5.J3.7"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3C pass 3H pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 4}
+{[show NS]
+The 3\C bid shows a singleton / void in \Cs.
+ 
+
+ 
+NORTH doesn't have much strength above what she has already shown, but she takes advantage 
+of the bidding level to make a control-showing 3\H bid.
+ 
+
+ 
+SOUTH is concerned about the \D suit with a worthless doubleton, 
+and he knows that NORTH doesn't have first-round control. He bids 4\S and NORTH passes.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- K9652.A76.A5.Q98 - AQJ743.KQJ5.J3.7"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 5}
+{[show NS]
+This is the companion to Deal 4.
+ 
+
+ 
+After SOUTH bids 3\C to show shortage, NORTH makes a Control-showing bid 
+of 3\D.
+ 
+
+ 
+SOUTH no longer worries about losing two quick \Ds. He uses 
+Blackwood to check for Aces, then bids 6\S.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- KQ.K875.A9.KQT92 - A5.AJT962.KQ7.63"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 6}
+{[show NS]
+SOUTH's 3\H rebid shows better than average strength and six trumps.
+ 
+
+ 
+Just what NORTH was hoping for. She bids Blackwood - her plan is to bid 7\H 
+if SOUTH has three Aces, bid 6\H if he has two Aces, 
+and stop at 5\H if he has just one. If South has no Aces NORTH will get a new partner.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "7"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- AQT64.KQJ7.KJ.J5 - KJ972.A95.Q5.KQT"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2NT pass 3NT pass 4H pass 4S pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 7}
+{[show NS]
+NORTH indicates an above normal opening with five \Ss by her 3NT rebid.
+ 
+
+ 
+SOUTH also has some extra strength so he makes a Control showing bid of 4\H.
+ 
+
+ 
+Despite both partners showing extra strength North merely signs of at 4\S. Why? Because SOUTH's 
+Control bid of 4\H denied first-round control in both \Cs and 
+\Ds. NORTH realized she was off two Aces.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "8"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- A763.AQ84.94.KQ2 - KQJ85.KJ7.Q85.84"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 8}
+{[show NS]
+SOUTH has a minimum opening hand with no extra features to brag about.
+So after NORTH's Jacoby 2NT bid he merely signs off at 4\S.
+ 
+
+ 
+NORTH would have cooperated if SOUTH had made a slam try, but she doesn't have enough 
+to initiate the investigation herself.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "9"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- Q84.AK842.4.KJ95 - A765.QJT7.KQ75.4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 4C pass 4H pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 9}
+{[show NS]
+SOUTH's 4\C is a Splinter bid. 
+He promises 13+ points, at least four \Hs and a singleton or void in \Cs.
+ 
+
+ 
+NORTH is obviously forced to game, but she is not thrilled to hear about SOUTH's \C shortness. In fact, 
+it does nothing to help the value of her hand. So she bids the \H game.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "10"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- KJ75.K6.KQ98.J83 - AQ9864.QJ7.J2.KQ"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3S pass 4S pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 10}
+{[show NS]
+SOUTH bids 3\S to show the 6-card suit plus some extra strength.
+ 
+
+ 
+NORTH's failure to make a Control bid in either \Cs, \Ds 
+or \Hs, means just one thing - 
+She doesn't have any controls.
+ 
+
+ 
+So SOUTH settles for game.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "11"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- KQ.AJT976.97.A96 - A983.KQ83.AK4.72"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+1H pass 2NT pass 3H pass 3S pass 4C pass 4D pass 6H pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 11}
+{[show NS]
+NORTH's 3\H bid shows extra strength and a 6-trump hand.
+ 
+
+ 
+The next three bids are all Control-showing cue bids.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "12"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- K763.J83.KQ.AK83 - AQ984.AK4.98.QJ2"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT pass 5H pass 6S pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 12}
+{[show NS]
+SOUTH shows extra strength / five trumps. 
+4\C and 4\H are Control-showing bids. 
+ 
+
+ 
+NORTH knows they are missing the \DA, she uses 
+Blackwood just to make certain SOUTH holds the trump Ace.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "13"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- KQJ.KQJ84.94.J65 - 3.A953.AJT2.KQ94"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 3S pass 4H pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 13}
+{[show NS]
+SOUTH's 3\S bid, a double-jump, is a Splinter bid. It shows game-forcing strength, at 
+least four cards in partner's suit, and a singleton or void in the Splintered suit.
+ 
+
+ 
+NORTH has just 14 points and the \S shortness in SOUTH's hand doesn't improve her hand since 
+she had just one \S loser anyway. She signs off in 4\H.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "14"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- 764.KQJ84.K4.A65 - 3.A953.AJT2.KQ94"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+1H pass 3S pass 4C pass 4D pass 4NT pass 5H pass 6H pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 14}
+{[show NS]
+This is a companion hand to Deal 13.
+ 
+
+ 
+NORTH has 14 points, the same strength she had in Deal 13. But what a difference. 
+This time SOUTH's \S shortness complements her hand very well. She bids 4\C 
+to show her Control, and after SOUTH shows the \DA she 
+uses Blackwood to make sure SOUTH also has the trump Ace.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "15"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- A75.QJT76.J8.KQ3 - KQ.AK8.7543.JT65"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2C pass 2NT pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 15}
+{[show NS]
+SOUTH has 13 points and good 3-card support for NORTH's 1\H opening bid. 
+But he should not bid 2NT since that bid promises 4+ cards in support. South must still insure 
+they reach game, so he bids a forcing 2\C.
+ 
+When NORTH next says 2NT SOUTH can jump to 4\H.
+ 
+
+ 
+NOTE: if you used Jacoby 2NT and reached the 4\H game, give yourself credit anyway.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "16"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- KQJ.A873.62.AJ92 - 3.KJ9652.KQJ.KQ5"]
+[Declarer "S"]
+[Contract "5H"]
+[Result ""]
+[Auction "S"]
+1H pass 2NT pass 3S pass 4C pass 4NT pass 5H pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 16}
+{[show NS]
+SOUTH bids 3\S to show a strong hand with a singleton \S. 
+ 
+
+ 
+After NORTH shows her first-round \C control SOUTH decides he will bid slam if NORTH has three Aces.
+ 
+
+ 
+When Blackwood reveals just two Aces in NORTH, SOUTH stops at 5\H.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "17"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- 6.AK972.87.KQ865 - AQ9.QJ83.QJ96.J2"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2NT pass 4C pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 17}
+{[show NS]
+NORTH bids 4\C after SOUTH's Jacoby 2NT. The reason for this bid is just to describe 
+her hand as having a side 5-card \C suit. NORTH knows the eventual contract will 
+be some level of \Hs.
+ 
+
+ 
+SOUTH doesn't have a strong hand, but he would show \D control at 
+this time if he had the Ace. He isn't strong enough to go past game to show the \SA, so he 
+just bids 4\H.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "18"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- QJ84.K875.AJ4.64 - AK9765.J9.K75.AQ"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 18}
+{[show NS]
+NORTH should not be tempted to use Jacoby 2NT with this hand. There are only 12 points, and 
+the Limit Raise is a perfect way to show a 12 point support hand.
+ 
+
+ 
+SOUTH has more than enough strength to bid game after NORTH's limit raise. If NORTH had 
+mistakenly used a Jacoby 2NT response, SOUTH would probably have tried to reach slam, 
+and perhaps gotten too high.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "19"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- KQ954.AQ8.Q97.QJ - JT863.KJ7.AK3.K5"]
+[Declarer "N"]
+[Contract "5S"]
+[Result ""]
+[Auction "N"]
+1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5D pass 5S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 19}
+{[show NS]
+NORTH bids 3NT to show a good hand with five \Ss.
+ 
+
+ 
+SOUTH shows his \D control, and NORTH then shows her 
+\H control.
+ 
+
+ 
+A final check with Blackwood shows two Aces missing. Too bad.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "20"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- KJ96.KQ98.Q94.A5 - AQ8752.A3.J62.KQ"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3S pass 4C pass 4H pass 4S pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 20}
+{[show NS]
+SOUTH shows his 6-card \S suit by bidding 3\S.
+ 
+
+ 
+NORTH shows her \C control and SOUTH shows his \H control, 
+but it seems neither has a control in \Ds.
+ 
+
+ 
+So they stop in game.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "21"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- KJ84.AK943.A96.7 - AQ963.QJ75.KQ.QJ"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1H pass 2S pass 4NT pass 5D pass 6S pass pass pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 21}
+{[show NS]
+SOUTH might just use Jacoby 2NT since he has great \H support and 
+more than 13 points. But, he has so much more than 13 points that he should inform partner by 
+making a jump-shift. He plans to return to \Hs later.
+ 
+
+ 
+NORTH has different plans. Knowing partner has five \Ss and 17 or more points she pushes 
+straight to the \S slam.
+ 
+
+ 
+It didn't matter, slam is cold in either Major.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "22"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- K973.A42.AK82.K8 - AQJ86.85.3.AQ963"]
+[Declarer "S"]
+[Contract "7S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 4C pass 4NT pass 5H pass 7S all pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 22}
+{[show NS]
+NORTH might jump-shift, but with no 5-card suit prefers to use Jacoby 2NT.
+ 
+
+ 
+SOUTH shows some extra strength plus a 5-card \C suit with his 4\C bid. 
+ 
+
+ 
+When NORTH's Blackwood discovers two Aces in SOUTH's hand she goes right to 7\S. 
+She knows SOUTH has only three red cards and her \HA 
+\D A K will take care of them. She figures SOUTH can ruff 
+out any \C losers.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "23"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:- A95.KQJ72.AQ.964 - KQJ.AT93.K8754.8"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+1H pass 4C pass 4D pass 4H pass 4S pass 6H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 23}
+{[show NS]
+SOUTH bids 4\C, showing \H support, 13+ points and a singleton 
+or void in \Cs.
+ 
+
+ 
+NORTH first shows her \DA, then, when SOUTH signs off, 
+makes one more try by showing her \SA.
+ 
+
+ 
+SOUTH finally gets inspired and bids the slam.}
+
+
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Board "24"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:- AJ53.A6.KJ72.874 - KQ9762.KQJ2.A8.5"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3C pass 3H pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Baker Partnership-Jacoby2NT 24}
+{[show NS]
+NORTH has a very minimum 2NT bid, but when SOUTH shows \C shortness she can Control-bid 
+her \HA without showing extra values.
+ 
+
+ 
+SOUTH's hand became huge when he heard about NORTH's \HA. 
+When Blackwood shows they hold three Aces he bids what he expects to be a comfortable slam.}
+
+

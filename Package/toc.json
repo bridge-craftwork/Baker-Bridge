@@ -3,7 +3,7 @@
   "description": "Classic bridge lessons covering bidding conventions and play",
   "icon": "♠",
   "version": "1.04",
-  "generatedAt": "2026-02-11T22:40:32.461939",
+  "generatedAt": "2026-02-12T18:52:43.561062",
   "categories": [
     {
       "id": "basic_bidding",
@@ -274,75 +274,75 @@
       "name": "Partnership Bidding",
       "lessons": [
         {
-          "id": "Bidpractice/Set1",
-          "name": "Partnership Bidding Set 1",
-          "description": "Partnership bidding practice set 1",
+          "id": "Partnership-BasicBidding",
+          "name": "Basic Bidding With No Conventions",
+          "description": "Basic Bidding With No Conventions",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Partnership-Blackwood",
+          "name": "Blackwood and Gerber",
+          "description": "Blackwood and Gerber",
           "difficulty": "intermediate"
         },
         {
-          "id": "Bidpractice/Set10",
-          "name": "Partnership Bidding Set 10",
-          "description": "Partnership bidding practice set 10",
+          "id": "Partnership-AdvancedForcing",
+          "name": "Fourth Suit Forcing, NMF, Help Suit Game Try",
+          "description": "Fourth Suit Forcing, New Minor Forcing, Help Suit Game Try",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Partnership-Jacoby2NT",
+          "name": "Jacoby 2NT and Splinter Bids",
+          "description": "Jacoby 2NT and Splinter Bids",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Partnership-NegativeDoubles",
+          "name": "Negative Doubles and Cue-Bid Support",
+          "description": "Competitive Bidding: Negative Doubles and Cue-Bid Support",
           "difficulty": "intermediate"
         },
         {
-          "id": "Bidpractice/Set11",
-          "name": "Partnership Bidding Set 11",
-          "description": "Partnership bidding practice set 11",
+          "id": "Partnership-Overcalls",
+          "name": "Overcalls and TakeOut Doubles",
+          "description": "Competitive Bidding: Overcalls and TakeOut Doubles",
           "difficulty": "intermediate"
         },
         {
-          "id": "Bidpractice/Set12",
-          "name": "Partnership Bidding Set 12",
-          "description": "Partnership bidding practice set 12",
+          "id": "Partnership-RomanKeyCard",
+          "name": "Roman Key Card Blackwood",
+          "description": "Roman Key Card Blackwood",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Partnership-StaymanTransfers",
+          "name": "Stayman and Jacoby Transfers",
+          "description": "Stayman and Jacoby Transfers",
           "difficulty": "intermediate"
         },
         {
-          "id": "Bidpractice/Set2",
-          "name": "Partnership Bidding Set 2",
-          "description": "Partnership bidding practice set 2",
+          "id": "Partnership-TwoClub",
+          "name": "Strong Two-Club Openings",
+          "description": "Strong Two-Club Openings",
           "difficulty": "intermediate"
         },
         {
-          "id": "Bidpractice/Set3",
-          "name": "Partnership Bidding Set 3",
-          "description": "Partnership bidding practice set 3",
-          "difficulty": "intermediate"
+          "id": "Partnership-BasicMajor",
+          "name": "Very Basic Major Suit Bidding",
+          "description": "Very Basic Major Suit Bidding",
+          "difficulty": "beginner"
         },
         {
-          "id": "Bidpractice/Set4",
-          "name": "Partnership Bidding Set 4",
-          "description": "Partnership bidding practice set 4",
-          "difficulty": "intermediate"
+          "id": "Partnership-BasicNotrump",
+          "name": "Very Basic Notrump Bidding",
+          "description": "Very Basic Notrump Bidding",
+          "difficulty": "beginner"
         },
         {
-          "id": "Bidpractice/Set5",
-          "name": "Partnership Bidding Set 5",
-          "description": "Partnership bidding practice set 5",
-          "difficulty": "intermediate"
-        },
-        {
-          "id": "Bidpractice/Set6",
-          "name": "Partnership Bidding Set 6",
-          "description": "Partnership bidding practice set 6",
-          "difficulty": "intermediate"
-        },
-        {
-          "id": "Bidpractice/Set7",
-          "name": "Partnership Bidding Set 7",
-          "description": "Partnership bidding practice set 7",
-          "difficulty": "intermediate"
-        },
-        {
-          "id": "Bidpractice/Set8",
-          "name": "Partnership Bidding Set 8",
-          "description": "Partnership bidding practice set 8",
-          "difficulty": "intermediate"
-        },
-        {
-          "id": "Bidpractice/Set9",
-          "name": "Partnership Bidding Set 9",
-          "description": "Partnership bidding practice set 9",
+          "id": "Partnership-WeakTwos",
+          "name": "Weak Two-bids and Preemptive Three Bids",
+          "description": "Weak Two-bids and Preemptive Three Bids",
           "difficulty": "intermediate"
         }
       ]

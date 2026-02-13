@@ -3,6 +3,22 @@ import re
 import csv
 from bs4 import BeautifulSoup
 
+# Rename Bidpractice/SetN subfolders to descriptive Partnership-* names
+BIDPRACTICE_RENAMES = {
+    "Bidpractice/Set1":  "Partnership-BasicNotrump",
+    "Bidpractice/Set2":  "Partnership-BasicMajor",
+    "Bidpractice/Set3":  "Partnership-BasicBidding",
+    "Bidpractice/Set4":  "Partnership-StaymanTransfers",
+    "Bidpractice/Set5":  "Partnership-WeakTwos",
+    "Bidpractice/Set6":  "Partnership-TwoClub",
+    "Bidpractice/Set7":  "Partnership-Blackwood",
+    "Bidpractice/Set8":  "Partnership-RomanKeyCard",
+    "Bidpractice/Set9":  "Partnership-Jacoby2NT",
+    "Bidpractice/Set10": "Partnership-Overcalls",
+    "Bidpractice/Set11": "Partnership-NegativeDoubles",
+    "Bidpractice/Set12": "Partnership-AdvancedForcing",
+}
+
 def remove_voids_from_hands(hands_dict):
     return {seat: hand.replace("-", "") if hand else hand for seat, hand in hands_dict.items()}
 
@@ -789,24 +805,24 @@ def extract_bidding_info(soup,filepath):
             
         dealer, auction_str, contract, declarer, analysis_str = extract_auction_info(table,filepath)
 
-        analysis_start = False
-        analysis_lines = []
-        pass_count = 0
-
-        all_text = bidding_div.get_text(separator="\n").strip().split("\n")
-        for line in all_text:
-            stripped = line.strip()
-            if analysis_start:
-                if stripped:
-                    analysis_lines.append(stripped)
-            elif stripped and stripped != "pass":
-                pass_count = 0
-            elif stripped == "pass":
-                pass_count += 1
-                if pass_count >= 3:
-                    analysis_start = True
-
-        analysis_str = "\\n".join(analysis_lines)
+        # Extract analysis text after the auction table
+        # Remove the table from a copy so we only get the commentary
+        bidding_copy = BeautifulSoup(str(bidding_div), "html.parser")
+        for tbl in bidding_copy.find_all("table"):
+            tbl.decompose()
+        # Convert <br><br> to paragraph markers before extracting text
+        html_str = str(bidding_copy)
+        html_str = re.sub(r'<br\s*/?>\s*<br\s*/?>', ' \\\\n ', html_str)
+        html_str = re.sub(r'<br\s*/?>', ' ', html_str)
+        commentary = BeautifulSoup(html_str, "html.parser")
+        analysis_str = commentary.get_text()
+        # Clean up whitespace: collapse multiple spaces, trim
+        analysis_str = re.sub(r'[ \t]+', ' ', analysis_str).strip()
+        # Remove leading paragraph markers (from <br><br> before commentary starts)
+        while analysis_str.startswith('\\n'):
+            analysis_str = analysis_str[2:].strip()
+        # Apply suit symbol conversion
+        analysis_str = replace_suits(analysis_str, False)
         
         return dealer, auction_str, contract, declarer, analysis_str
 
@@ -895,10 +911,11 @@ def process_files(folder_path, output_csv, max_files=3000):
     for filepath in files[:max_files]:
         filename = os.path.basename(filepath)
         subfolder_path = os.path.relpath(os.path.dirname(filepath), folder_path)
-        
+        subfolder_path = BIDPRACTICE_RENAMES.get(subfolder_path, subfolder_path)
+
         match = re.search(r"deal(\d+)", filename)
         deal_number = int(match.group(1)) if match else None
-        
+
         with open(filepath, "r", encoding="utf-8") as file:
             soup = BeautifulSoup(file, "html.parser")
             hands = extract_hands(soup)
@@ -1091,6 +1108,7 @@ def process_files(folder_path, output_csv, max_files=3000):
     for filepath in files[:max_files]:
         filename = os.path.basename(filepath)
         subfolder_path = os.path.relpath(os.path.dirname(filepath), folder_path)
+        subfolder_path = BIDPRACTICE_RENAMES.get(subfolder_path, subfolder_path)
 
         match = re.search(r"deal(\d+)", filename)
         deal_number = int(match.group(1)) if match else None
