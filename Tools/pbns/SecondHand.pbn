@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-12 19:35:00
 %sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
@@ -26,7 +26,7 @@ You are East. The bidding has been as shown.
 
 Partner led the \SJ, won by dummy's \SQ. The \D5 is now played from dummy. What do you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card D2] [NEXT]
 
 [show NESW]
 
@@ -59,7 +59,7 @@ You are West. The bidding has been as shown.
 
 Your lead of the \CJ was won by South with the \CA. South then played the \H2 and you must decide whether to split your honors.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H4] [NEXT]
 
 [show NESW]
 
@@ -98,7 +98,7 @@ Partner led the \CK, and you played the \C9 to encourage him. He continued with 
 
 Declarer then calls for the \HJ. Do you cover with your \HQ or not?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H4] [NEXT]
 
 [show NESW]
 
@@ -135,7 +135,7 @@ You lead the \HJ, covered by dummy's \HQ and won by East's \HK. East wins the \H
 
 South then plays the \S4 from his hand. Do you play low? or play the \SJ to force dummy's \SA?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S3] [NEXT]
 
 [show NESW]
 
@@ -170,7 +170,7 @@ You are East. The bidding has been as shown.
 
 Partner led the \H9, taken by dummy's ! H10. The \S4 is then played from dummy. Do you play low? or split your honors?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card SJ] [NEXT]
 
 [show NESW]
 
@@ -211,7 +211,7 @@ You lead the \ST; low cards from North and East, won by South with the \SA.
 
 South next plays the \C3 and you must decide whether to split your \C K Q.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card C4] [NEXT]
 
 [show NESW]
 
@@ -250,7 +250,7 @@ South then pulls two rounds of trumps, (West discards on the second one), follow
 
 The \C6 is then played from dummy and you must make a decision - \CA or \C2?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card C2] [NEXT]
 
 Play the \C2.
 
@@ -285,7 +285,7 @@ You are West. The bidding has been as shown.
 
 You lead the \D5; \D3, ! D10 and won by South with \DK. South now leads the \C9 from his hand and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card CA] [NEXT]
 
 [show NESW]
 
@@ -324,7 +324,7 @@ Partner led the \H4, won by South's \H8.
 
 South enters dummy with the \SK and leads the ! D10. What do you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card DA] [NEXT]
 
 [show NESW]
 
@@ -363,7 +363,7 @@ You lead the \S7; \S3, \S2 and won by South with \SQ.
 
 South then plays the \C6 from his hand. Which \C should you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card CJ] [NEXT]
 
 [show NESW]
 
@@ -400,7 +400,7 @@ You are East. The bidding has been as shown. Partner led the \DQ, you signaled w
 
 South then played low to dummy's \SK, and led dummy's \S6. Your decision is not whether to play high or low, but whether to ruff or not, which amounts to the same thing.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card any:D8,D6,D3] [NEXT]
 
 [show NESW]
 
@@ -437,7 +437,7 @@ You are West. The bidding has been as shown.
 
 You lead the \CK and continue with the \CJ then \CQ, taken by South's \CA. To trick 4 South plays the \H4. What do you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HQ] [NEXT]
 
 [show NESW]
 
@@ -472,7 +472,7 @@ You are East. The bidding has been as shown.
 
 Partner led the ! H10, won by dummy's \HA. At trick 2 South calls for dummy's \C3. Which card do you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card C6] [NEXT]
 
 [show NESW]
 
@@ -511,7 +511,7 @@ You lead the \SJ, the \SK is played from dummy and holds the trick. Next come du
 
 At trick 4 South plays the \C2 from his hand and you must decide what to play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card C3] [NEXT]
 
 [show NESW]
 
@@ -548,7 +548,7 @@ Partner led the \S6. You won the \SA and returned the \S9, won by South's \SQ.
 
 South next played to dummy's \CA and led the \D2. What do you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card DA] [NEXT]
 
 [show NESW]
 
@@ -589,7 +589,7 @@ South pulls trumps in 2 rounds. He then takes the \DK, \DQ, \DA, discarding a \H
 
 Having done all this, South now plays a low \H from his hand. What do you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HA] [NEXT]
 
 Play the \HA.
 
@@ -626,7 +626,7 @@ West led the \SK, won by South's \SA. South played a small \C to dummy's \CA, th
 
 What do you play? \HQ or \H4? 
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H4] [NEXT]
 
 [show NESW]
 
@@ -665,7 +665,7 @@ You decide a trump lead is called for and lead the \H2. Your partner wins with t
 
 South's next play is the \S3 from his hand. Do you play your \SA or not?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card SA] [NEXT]
 
 [show NESW]
 
@@ -704,7 +704,7 @@ You are East. The bidding has been as shown.
 
 Partner led the \H3, you play ! H10 and South wins the \HA. South pulls the last two trumps by leading low to dummy's \HQ. He now calls for the \S6. Will you play your \SA or not?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S3] [NEXT]
 
 [show NESW]
 
@@ -743,7 +743,7 @@ You lead the \DJ and dummy's \DA wins the first trick. Declarer pulls trumps wit
 
 With all that completed South plays the \HA. What do you play?
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 Play the \HK.
 

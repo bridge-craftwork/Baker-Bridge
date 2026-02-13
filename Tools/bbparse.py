@@ -403,6 +403,78 @@ def pad_auction_passes(auction_str):
         bids.extend(["pass"] * (3 - trailing))
     return " ".join(bids)
 
+########## C H O O S E - C A R D   F O R   D E F E N S E   L E S S O N S ###########
+#
+#   Adds [choose-card XX] directives to defense lessons (OLead, SecondHand,
+#   ThirdHand, Signals) where the student must choose a card to play.
+#   Parses "Lead the !XX" / "Play the !XX" / "Overtake...!XX" from the answer
+#   text after [NEXT], and inserts the directive before that [NEXT].
+#   Hard-codes outlier deals where the pattern isn't cleanly parseable.
+#
+#####################################################################################
+
+# Hard-coded choose-card values for outlier deals
+CHOOSE_CARD_OVERRIDES = {
+    "OLead": {
+        6:  "any:S9,S4,S3",   # "Lead any spade"
+        10: "H9",             # "probably the H9" (process of elimination)
+        19: "any:D2,S9",      # "Lead the D2, or perhaps the S9"
+        20: "CA",             # "Lead the CA, then follow..."
+    },
+    "SecondHand": {
+        11: "any:D8,D6,D3",  # "Do not ruff" - discard a diamond
+    },
+    "ThirdHand": {
+        3:  "CJ",             # "you should play the CJ" (lowest of equals)
+        6:  "any:H9,H7,H4,H3", # "Play a small H"
+        12: "any:H7,H3,H2",  # Ruff with any small trump
+    },
+    "Signals": {
+        6:  "S7",             # "lead a low S"
+        9:  "any:D3,S2",      # "Play the D3 (or the S2)"
+        10: "any:C4,C3",      # "Play a low C"
+    },
+}
+
+def add_choose_card(analysis, subfolder, deal_number):
+    """Add [choose-card XX] to defense lessons before the [NEXT] that precedes the answer."""
+    if subfolder not in CHOOSE_CARD_OVERRIDES and subfolder not in ("OLead", "SecondHand", "ThirdHand", "Signals"):
+        return analysis
+
+    # Check for hard-coded override
+    overrides = CHOOSE_CARD_OVERRIDES.get(subfolder, {})
+    if deal_number in overrides:
+        card = overrides[deal_number]
+        if card is None:
+            return analysis  # No choose-card for this deal
+    else:
+        # Parse card from answer text after [NEXT]:
+        # "Lead the !HK" or "Play the !SQ" or "Overtake...!CA" or "Play the ! D10"
+        # The ! prefix marks suit symbols from replace_suits()
+        # Also handle "Play the ! D10" (space between ! and card)
+        next_idx = analysis.find("[NEXT]")
+        if next_idx < 0:
+            return analysis
+        after_next = analysis[next_idx:]
+        match = re.search(r'(?:Lead|Play|Overtake[^!]*?) (?:the |with (?:the |your )?)?!([SHDC])\s*(\w+)', after_next)
+        if not match:
+            return analysis
+        card = match.group(1) + match.group(2)
+
+    # Find the [NEXT] that precedes the answer
+    # For OLead deal 20, the answer follows the second [NEXT]
+    if subfolder == "OLead" and deal_number == 20:
+        first = analysis.find("[NEXT]")
+        insert_pos = analysis.find("[NEXT]", first + len("[NEXT]"))
+    else:
+        insert_pos = analysis.find("[NEXT]")
+
+    if insert_pos >= 0:
+        analysis = analysis[:insert_pos] + "[choose-card " + card + "] " + analysis[insert_pos:]
+
+    return analysis
+
+
 def replace_suits(text,use_colon):
     if not text:
         return text
@@ -1153,11 +1225,8 @@ def process_files(folder_path, output_csv, max_files=3000):
                 else:
                     student = "West"
 
-#         print()
-#         print(filepath, ":")
-#         print("Dealer:", dealer, "contract:", contract, "declarer:", declarer, "auction:", auction_str, "lead:", opening_lead)
-#         print()
-#         print("analysis:", analysis)
+            # Add [choose-card] directives to defense lessons
+            analysis = add_choose_card(analysis, subfolder_path, deal_number)
 
         results.append([
             subfolder_path, filename, deal_number, kind,

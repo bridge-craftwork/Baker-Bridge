@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-12 19:35:00
 %sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
@@ -24,7 +24,7 @@
 
 The bidding has been as shown. Partner led the \S2, dummy played the \S3 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card SQ] [NEXT]
 
 [show NESW]
 
@@ -55,7 +55,7 @@ If you do not put your \SQ on this trick declarer will get an undeserved winner 
 
 The bidding has been as shown. Partner led the \HQ, dummy played the \H4 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HA] [NEXT]
 
 [show NESW]
 
@@ -90,7 +90,7 @@ Played this way you will defeat the contract by one trick. If you allow declarer
 
 The bidding has been as shown. Partner led the \C4, dummy played the \C3 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card CJ] [NEXT]
 
 [show NESW]
 
@@ -123,7 +123,7 @@ If instead you play the \CQ, figuring it makes no difference, you'd be right tha
 
 The bidding has been as shown. Partner led the \S3, dummy played the \S4 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card ST] [NEXT]
 
 [show NESW]
 
@@ -160,7 +160,7 @@ For your side, 2 \S tricks and the two minor Aces spell defeat.}
 
 The bidding has been as shown. Partner led the \S7, dummy played the \S3 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S2] [NEXT]
 
 [show NESW]
 
@@ -199,7 +199,7 @@ The bidding has been as shown. North's 2\H bid shows good \S support with at lea
 
 Partner led the \H8, dummy played the \H6 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card any:H9,H7,H4,H3] [NEXT]
 
 [show NESW]
 
@@ -234,7 +234,7 @@ The extra winner would permit South to discard 2 of dummy's \D losers, and this 
 
 The bidding has been as shown. Partner led the \HQ, dummy played the \H4 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 [show NESW]
 
@@ -269,7 +269,7 @@ It was a good thing you held the \HK rather than declarer, but it is a nuisance 
 
 The bidding has been as shown. Partner led the \H2, dummy played the \HA and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HQ] [NEXT]
 
 [show NESW]
 
@@ -306,7 +306,7 @@ If declarer played low on the first trick you would win the \HQ, then play the \
 
 The bidding has been as shown. Partner led the \S5, dummy played the \S2 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S7] [NEXT]
 
 [show NESW]
 
@@ -343,7 +343,7 @@ Note that if dummy's \S9 was played you would cover with your \SJ, leading to th
 
 The bidding has been as shown. Partner led the \H5, dummy played the \H8 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HQ] [NEXT]
 
 [show NESW]
 
@@ -382,7 +382,7 @@ So what happens if you play the \HQ at trick one? South could still make the con
 
 The bidding has been as shown. Partner led the \HQ, dummy played the \H6 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 [show NESW]
 
@@ -417,7 +417,7 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 
 The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card any:H7,H3,H2] [NEXT]
 
 [show NESW]
 
@@ -452,7 +452,7 @@ To allow for this situation it will be better to play \Cs from your side of the 
 
 The bidding has been as shown. Partner led the \H8, dummy played the \HJ and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H9] [NEXT]
 
 [show NESW]
 
@@ -489,7 +489,7 @@ Not today. Partner takes the \CK and returns his \H2 to your four winners.}
 
 The bidding has been as shown. Partner led the \C9, dummy played the \CT and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card C6] [NEXT]
 
 [show NESW]
 
@@ -524,7 +524,7 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 
 The bidding has been as shown. Partner led the ! H10, dummy played the \HJ and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H6] [NEXT]
 
 [show NESW]
 
@@ -559,7 +559,7 @@ Now suppose you duck the \HJ. Again South will push \Cs, and again you hold up u
 
 The bidding has been as shown. Partner led the \SQ, a low card was played from dummy, and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card SK] [NEXT]
 
 [show NESW]
 
@@ -596,7 +596,7 @@ Notice that South will always make two \S tricks, so your overtake costs nothing
 
 The bidding has been as shown. Partner led the \S9, dummy played the \S6 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S8] [NEXT]
 
 [show NESW]
 
@@ -635,7 +635,7 @@ Just like the previous deal, South gets two \S tricks either way, but one way he
 
 The bidding has been as shown. Partner led the \CK, dummy played low and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card CK] [NEXT]
 
 [show NESW]
 
@@ -670,7 +670,7 @@ Partner loves it - whatever South does West takes the next two \Ss, then leads a
 
 The bidding has been as shown. Partner led the \CK, dummy played the \C7 and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card CA] [NEXT]
 
 [show NESW]
 
@@ -705,7 +705,7 @@ If you have a partner who pays attention he will now play a \H for you to ruff. 
 
 The bidding has been as shown. Partner led the \DK, dummy played low and it is your play.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card DJ] [NEXT]
 
 [show NESW]
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-12 19:35:00
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -22,7 +22,7 @@ pass pass 1NT pass 3NT pass pass pass pass pass
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 [show NESW]
 
@@ -53,7 +53,7 @@ South only has 7 winners unless he can establish the \C suit, and when you win y
 
 The bidding has been as shown. The contract is 4\S and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H2] [NEXT]
 
 [show NESW]
 
@@ -86,7 +86,7 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S4] [NEXT]
 
 [show NESW]
 
@@ -119,7 +119,7 @@ If you had led any card other than a low \S declarer would take 10 tricks.}
 
 The bidding has been as shown. The contract is 4\H and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card SK] [NEXT]
 
 [show NESW]
 
@@ -150,7 +150,7 @@ Notice that with any other lead declarer would have been able to discard a \S lo
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card SQ] [NEXT]
 
 [show NESW]
 
@@ -181,7 +181,7 @@ South will likely try the \C finesse, and when East wins the \CK he will return 
 
 The bidding has been as shown. The contract is 4\S and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card any:S9,S4,S3] [NEXT]
 
 [show NESW]
 
@@ -218,7 +218,7 @@ As you can imagine, declarer will be in a whole lot of trouble.}
 
 The bidding has been as shown. The contract is 6NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H6] [NEXT]
 
 [show NESW]
 
@@ -253,7 +253,7 @@ Declarer has 11 winners sitting there; if you had led a low \S you would have ha
 
 The bidding has been as shown. The contract is 6\D and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S4] [NEXT]
 
 [show NESW]
 
@@ -288,7 +288,7 @@ Without a \S lead declarer will have smooth sailing.}
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H4] [NEXT]
 
 [show NESW]
 
@@ -319,7 +319,7 @@ Leading a \H from your 5-card suit is riskier, but it has the potential of setti
 
 The bidding has been as shown. The contract is 4\H and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H9] [NEXT]
 
 [show NESW]
 
@@ -352,7 +352,7 @@ And when South plays \Cs, (preparing to ruff in dummy), you will win and play an
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S7] [NEXT]
 
 [show NESW]
 
@@ -387,7 +387,7 @@ There is another, more subtle, reason for leading partner's suit. If the lead tu
 
 The bidding has been as shown. The contract is 1\C doubled and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card C5] [NEXT]
 
 [show NESW]
 
@@ -420,7 +420,7 @@ With the trump lead South might not make more than three tricks.}
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H9] [NEXT]
 
 [show NESW]
 
@@ -455,7 +455,7 @@ Declarer must play \Ds to get some winners, and when East takes the \DA he will 
 
 The bidding has been as shown. The contract is 4\S doubled and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card SA] [NEXT]
 
 [show NESW]
 
@@ -494,7 +494,7 @@ So take the \SA and then play another \S. Declarer will still be able to ruff on
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H3] [NEXT]
 
 [show NESW]
 
@@ -529,7 +529,7 @@ But when you lead the \H3 it does not promote a \H winner for declarer, and left
 
 The bidding has been as shown. The contract is 6\S and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card H3] [NEXT]
 
 [show NESW]
 
@@ -562,7 +562,7 @@ It is important for your side to create a winner before your \DA is forced out. 
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card S4] [NEXT]
 
 [show NESW]
 
@@ -597,7 +597,7 @@ With any other lead declarer will make the contract.}
 
 The bidding has been as shown. The contract is 4\H and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card C8] [NEXT]
 
 [show NESW]
 
@@ -632,7 +632,7 @@ Declarer may still make the contract if he guesses the \HQ correctly, but maybe 
 
 The bidding has been as shown. The contract is 6NT and it is your lead.
 
-When you have made your choice click NEXT. [NEXT]
+When you have made your choice click NEXT. [choose-card any:D2,S9] [NEXT]
 
 [show NESW]
 
@@ -671,7 +671,7 @@ Did you choose the \HQ? I was afraid you would. That is wrong, but because this 
 
 Look at the bidding carefully, then ask yourself why you doubled.
 
-Now pick the opening lead that will set the contract, then click NEXT. [NEXT]
+Now pick the opening lead that will set the contract, then click NEXT. [choose-card CA] [NEXT]
 
 [show NESW]
 
