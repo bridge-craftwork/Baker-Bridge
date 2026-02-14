@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-13 16:37:20
+%Created: 2026-02-14 12:34:05
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-Blackwood
 [Event "Baker Bridge - Blackwood and Gerber"]
@@ -17,7 +17,9 @@
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!D] [BID 3!S] [BID 5!C] [BID Pass]
+[show NS]
 SOUTH's 3\S supporting bid is enough to convince NORTH to make a slam try.
  
 
@@ -41,7 +43,9 @@ when SOUTH bids 5\C NORTH settles for 5\S}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!C] [BID 4NT] [BID 6!H]
+[show NS]
 NORTH makes a positive 3\H response to SOUTH's 2\C opener. 
 This promises at least 8 points and a 5-card suit with two or more honors.
  
@@ -66,7 +70,9 @@ A Blackwood 4NT tells her the answer is one, so she bids 6\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 4!C] [BID 6NT]
+[show NS]
 When NORTH opens 1NT, point-count alone tells SOUTH that 6NT can surely be made. 
 NORTH is bound to hold at least two Aces. But SOUTH doesn't want to miss a Grand slam.
  
@@ -94,7 +100,9 @@ So SOUTH settles for the small slam.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!H] [BID 3!S] [BID 5!H] [BID Pass]
+[show NS]
 NORTH has a powerhouse and knows she will reach a slam somewhere. When SOUTH 
 supports the \Ss, it seems she has found her spot.
  
@@ -124,7 +132,9 @@ She bids 7NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!H] [BID 5!D] [BID Pass]
+[show NS]
 NORTH is tempted to go right to 6\H when she hears SOUTH's positive 
 response. BUT, she should use Blackwood first.
  
@@ -148,7 +158,9 @@ It's good thing she did because SOUTH admits to only one Ace - they are missing 
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!D] [BID 4!C] [BID 6NT]
+[show NS]
 SOUTH not only has 20 points, he also has a lot of winners. 
 So when NORTH jumps to 2NT, showing 13-15 points, SOUTH uses Gerber.
  
@@ -172,7 +184,9 @@ NORTH shows two Aces so SOUTH decides 6NT will be just right.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!S] [BID 4NT] [BID 5NT] [BID 6!S]
+[show NS]
 When NORTH gives immediate \S support, SOUTH's thoughts naturally 
 turn to slam. This is a good hand to use Blackwood on, so SOUTH bids 4NT.
  
@@ -197,7 +211,9 @@ SOUTH bids 6\S since NORTH has not bid strongly enough to think about 7.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!C] [BID 3!H] [BID 4NT] [BID 6!H]
+[show NS]
 SOUTH expects to bid 2NT at his second turn, but NORTH gives a positive 2\H 
 response and his thinking changes! First he supports \Hs, setting the 
 trump suit.
@@ -227,7 +243,9 @@ SOUTH bids 6\H, knowing they must lose the \DA.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 4!C] [BID 5NT] [BID Pass]
+[show NS]
 SOUTH's jump to 4\C is a Splinter bid, at least 4-card \H support, 
 at least opening hand, and a \C Singleton or Void.
  
@@ -259,7 +277,9 @@ NORTH counts thirteen tricks and bids 7\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!H] [BID 4NT] [BID Pass]
+[show NS]
 SOUTH figures that if NORTH holds two Aces he will bid the slam.
  
 
@@ -287,7 +307,9 @@ SOUTH manages to figure out that NORTH has a \S void and bids the slam anyway.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!S] [BID Pass]
+[show NS]
 NORTH may have a good hand but SOUTH merely gave a simple raise. 
 Even if SOUTH has a maximum there won't be a slam.}
 
@@ -307,7 +329,9 @@ Even if SOUTH has a maximum there won't be a slam.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!H] [BID 4!C] [BID 6!H]
+[show NS]
 SOUTH has a tough decision after the two Control-showing bids.
  
 
@@ -332,7 +356,9 @@ he bids 6\H, hoping that he can at least make that and that 7 isn't a laydown!}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 4!C] [BID 5!C] [BID 7NT]
+[show NS]
 SOUTH isn't sure just how much he can make, but surely 6\D isn't 
 too much to hope for. 
  
@@ -365,7 +391,9 @@ slam and bids 7NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2NT] [BID 4!H] [BID Pass]
+[show NS]
 NORTH has 13 points and can contribute six tricks so she figures that twelve tricks will be a slam (dunk).
  
 
@@ -393,7 +421,9 @@ would be tricky to get there. Very tricky.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 4NT]
+[show NS]
 Yes, this has nothing to do with Gerber or Blackwood, but everything to do with smart bidding.
  
 
@@ -423,7 +453,9 @@ were changed to the \HA she would bid 6NT and collect her twelve easy tricks.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1NT] [BID 4NT] [BID Pass]
+[show NS]
 When SOUTH opens 1NT NORTH hopes his hand includes all four Aces so she can bid 7NT. 
 So she uses Gerber to find out.
  
@@ -447,7 +479,9 @@ But, when she discovers they are missing an Ace she settles for 6NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!D] [BID 3!H] [BID 5!C] [BID 6!H] [BID Pass]
+[show NS]
 NORTH has a pretty good hand, and when SOUTH shows \H support she naturally 
 thinks about slam.
  
@@ -476,7 +510,9 @@ Finding SOUTH with two Kings was what she wanted.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!D] [BID 4!C] [BID 5!C] [BID 7NT]
+[show NS]
 SOUTH is just shy of a 2\C opening bid, and when NORTH shows 13-15 points SOUTH 
 wants to be in a slam.
  
@@ -505,7 +541,9 @@ Two Major Aces and two Minor Kings fill the holes in SOUTH's hand so he bids 7NT
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 3!D] [BID 4!S] [BID 5!D]
+[show NS]
 NORTH thinks slam may be possible, so she uses Blackwood.
  
 
@@ -529,7 +567,9 @@ missing two Aces!}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!S] [BID 3!H] [BID 5!H] [BID Pass]
+[show NS]
 NORTH knows SOUTH has at least five \Ss, and they might provide discards for two or three 
 of her minor suit losers.
  
@@ -558,7 +598,9 @@ so she bids 6\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!H] [BID 4NT] [BID 5NT] [BID Pass]
+[show NS]
 When NORTH answers Blackwood with one Ace SOUTH decides to bid 5NT to ask for Kings.
  
 
@@ -587,7 +629,9 @@ supply five tricks so she bids 7\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!H] [BID 4NT] [BID 5!H]
+[show NS]
 SOUTH thinks there might be slam if NORTH holds both minor Aces, so he tries Blackwood.
  
 
@@ -615,7 +659,9 @@ It turns out that SOUTH might make twelve tricks, depending on the \HK situation
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 1!H] [BID 4!C] [BID 5!C] [BID 7NT]
+[show NS]
 SOUTH might be tempted to blast into Blackwood with his first bid, pushing toward some slam 
 in \Hs. He chooses to temporize with a 1\H 
 response and is rewarded when NORTH jumps to 2NT (18-19 points).
@@ -641,7 +687,9 @@ When he discovers that NORTH holds three Aces and one King he can count thirteen
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{[show NS]
+{[show N]
+[BID 2!C] [BID 4!C] [BID 6NT]
+[show NS]
 NORTH responds 2NT, showing 8+ points with no 5-card suit. 
  
 

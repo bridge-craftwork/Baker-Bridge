@@ -570,7 +570,7 @@ def inject_final_show(analysis):
     return analysis
 
 # Function to process analysis field
-def process_analysis(analysis, student=None, declarer=None):
+def process_analysis(analysis, student=None, declarer=None, subfolder=None, auction_str=None, dealer=None):
     if analysis:
         # Convert suit symbols only when followed by card rank, space, punctuation, 's' (plural), or end of string
         # This prevents "that!South" from becoming "that\South" (spade symbol)
@@ -609,6 +609,17 @@ def process_analysis(analysis, student=None, declarer=None):
         # Inject final [show NESW] if there's a reveal trigger
         analysis = inject_final_show(analysis)
 
+        # For Partnership deals: prepend [show N] + [BID] tags, then [show NS] before commentary
+        if subfolder and subfolder.startswith('Partnership-') and auction_str and dealer:
+            south_bids = get_south_bids(auction_str, dealer)
+            if south_bids:
+                bid_tags = " ".join(f"[BID {b}]" for b in south_bids)
+                # Replace initial [show NS] with [show N] + bids + [show NS]
+                if analysis.startswith("[show NS]\n"):
+                    analysis = "[show N]\n" + bid_tags + "\n[show NS]\n" + analysis[len("[show NS]\n"):]
+                elif analysis.startswith("[show NS]"):
+                    analysis = "[show N]\n" + bid_tags + "\n[show NS]" + analysis[len("[show NS]"):]
+
         return "{" + analysis + "}"
     return ""
 
@@ -636,6 +647,36 @@ def process_auction(auction, dealer):
         auction = re.sub(r'\s+', ' ', auction).strip()  # Compress whitespace
         return auction
     return ""
+
+# Extract South's bids from an auction string
+def get_south_bids(auction_str, dealer):
+    """Parse auction and return list of South's bids formatted for [BID] tags."""
+    if not auction_str or not dealer:
+        return []
+    # Strip | separators and normalize whitespace
+    cleaned = re.sub(r'\s*\|\s*', ' ', auction_str)
+    bids = cleaned.split()
+    # Calculate South's offset from dealer
+    position_order = {"W": 0, "N": 1, "E": 2, "S": 3}
+    dealer_pos = position_order.get(dealer, 0)
+    south_offset = (3 - dealer_pos) % 4  # South is always position 3
+    # Collect South's bids
+    south_bids = []
+    for i, bid in enumerate(bids):
+        if i % 4 == south_offset:
+            # Format the bid for [BID] tag
+            bid_lower = bid.lower()
+            if bid_lower == "pass":
+                south_bids.append("Pass")
+            elif bid_lower in ("x", "double"):
+                south_bids.append("X")
+            elif bid_lower in ("xx", "redouble"):
+                south_bids.append("XX")
+            else:
+                # Add ! before suit letters for symbol conversion
+                formatted = re.sub(r'([SHDC])(?![a-z])', r'!\1', bid)
+                south_bids.append(formatted)
+    return south_bids
 
 # Function to format hand data
 def format_hand(hand):
@@ -674,7 +715,8 @@ def convert_csv_to_pbn(csv_filename, header_filename=None, source_filename=None)
             declarer = abbreviate_position(row.get("Declarer", ""))
             contract = row.get("Contract", "")
             student = abbreviate_position(row.get("Student", ""))
-            analysis = process_analysis(row.get("Analysis", ""), student, declarer)
+            analysis = process_analysis(row.get("Analysis", ""), student, declarer,
+                                       subfolder, row.get("Auction", ""), dealer)
             lead = process_lead(row.get("Lead", ""), declarer)
             
             if "/" in subfolder:
