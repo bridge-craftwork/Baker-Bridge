@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 12:34:05
+%Created: 2026-02-14 13:01:39
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-NegativeDoubles
 [Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
@@ -17,7 +17,7 @@
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID X] [BID 4!S]
 [show NS]
 SOUTH has both Majors and planned on bidding 1\H first, (up-the-line). 
@@ -48,7 +48,7 @@ SOUTH has 13 points and the \S fit so he bids game.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!C] [BID 1NT] [BID Pass]
 [show NS]
 NORTH has 13 points and four cards in both \Hs and \Ss. Rather 
@@ -79,7 +79,7 @@ NORTH happily bids 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 4!S]
 [show NS]
 SOUTH cannot respond with a Negative Double on this hand because he has only three 
@@ -110,7 +110,7 @@ has enough strength to bid game.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 2NT] [BID Pass]
 [show NS]
 NORTH has 15 points, and when West overcalls 2\H in front 
@@ -141,7 +141,7 @@ NORTH is more than happy to raise to 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID X] [BID Pass]
 [show NS]
 SOUTH would have responded 1\H if EAST had not overcalled. 
@@ -170,7 +170,7 @@ and NORTH would have jumped to game.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!C] [BID 1NT] [BID Pass]
 [show NS]
 NORTH has four \Ss, so instead of bidding them she makes a Negative Double.
@@ -200,7 +200,7 @@ NORTH has 9 points and with four \Cs she goes back to that suit and SOUTH passes
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!C] [BID 2!S]
 [show NS]
 Compare this hand with Deal 6. 
@@ -230,7 +230,7 @@ pass 1H 1S 2S pass 4H pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!S] [BID Pass]
 [show NS]
 SOUTH has 11/12 points, a Limit Raise in \Hs. So after the overcall 
@@ -261,7 +261,7 @@ pass 1H 1S 3H pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!H]
 [show NS]
 Compare this with Deal 8.
@@ -292,7 +292,7 @@ NORTH does know it and passes 3\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 3!S] [BID Pass]
 [show NS]
 NORTH has the strength for a raise to game in \Ss, but this could be dangerous since SOUTH 
@@ -322,7 +322,7 @@ With a weak overcall SOUTH would have just returned to 2\S which NORTH would pas
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 2!S]
 [show NS]
 Compare this to Deal 10.
@@ -352,7 +352,7 @@ SOUTH has very minimal overcall so he just bids 2\S which NORTH passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 4NT] [BID 6!H]
 [show NS]
 SOUTH has a maximum 1\H opening bid.
@@ -383,7 +383,7 @@ SOUTH bids the slam.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID X] [BID Pass]
 [show NS]
 SOUTH has 9 points a a \H suit - good enough to make a 
@@ -414,7 +414,7 @@ SOUTH should pass.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!D] [BID 2!S]
 [show NS]
 With five \Ss NORTH bids the suit rather than making a negative double.
@@ -443,7 +443,7 @@ NORTH doesn't have anything extra so she passes 2\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID X] [BID 4!H]
 [show NS]
 SOUTH has both Majors and planned on bidding 1\H first, (up-the-line). 
@@ -476,7 +476,7 @@ SOUTH has 13 points so he bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!D] [BID 2!S]
 [show NS]
 NORTH has 8 points and she makes a Negative Double of the \H overcall 
@@ -506,7 +506,7 @@ NORTH is happy to pass.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!S] [BID 4!H]
 [show NS]
 SOUTH's Support Cue-bid shows at least Limit Raise strength and \H support.
@@ -535,7 +535,7 @@ SOUTH actually has better than the 12 points he promised, so he now bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 3!C]
 [show NS]
 NORTH has a 11 points with both Minors and she doesn't want to sell out to WEST's 2\S. 
@@ -561,7 +561,7 @@ SOUTH has four \Cs so he bids the suit at the minimum level and NORTH passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!D] [BID 5!D] [BID Pass]
 [show NS]
 SOUTH makes a Support Cue-bid of 2\D to show his Limit Raise in \Ss.
@@ -590,7 +590,7 @@ SOUTH says he has one so NORTH bids the slam.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!C] [BID 3!H] [BID Pass]
 [show NS]
 NORTH can't bid 3\H because that would show a 5-card suit. 
@@ -620,7 +620,7 @@ NORTH has 13 points so she bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID X] [BID 3!S]
 [show NS]
 SOUTH makes a Negative Double rather than responding 1\S to indicate he has just a 4-card suit.
@@ -649,7 +649,7 @@ With 11 points SOUTH makes an invitational bid of 3\S but NORTH declines the inv
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!C] [BID 3!H] [BID Pass]
 [show NS]
 NORTH has 13 points and a 5-card \H suit so she should not use a Negative 
@@ -679,7 +679,7 @@ NORTH bids the \H game.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!C] [BID Pass]
 [show NS]
 SOUTH has a Limit Raise hand but after EAST's overcall a 3\H bid 
@@ -710,7 +710,7 @@ SOUTH doesn't have a real block-buster.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 3NT]
 [show NS]
 NORTH has 9 points and a stopper in \Ss so she responds 1NT.

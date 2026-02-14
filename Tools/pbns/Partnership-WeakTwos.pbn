@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 12:34:05
+%Created: 2026-02-14 13:01:39
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-WeakTwos
 [Event "Baker Bridge - Weak Two-bids and Preemptive Three Bids"]
@@ -17,7 +17,7 @@
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID Pass]
 [show NS]
 NORTH has a perfect hand for an opening bid of 2\S.
@@ -43,7 +43,7 @@ resist the temptation. To raise a Weak Two-bid to game you should have quick win
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 4!S]
 [show NS]
 NORTH has the same hand as in Deal 1 and again opens 2\S.
@@ -69,7 +69,7 @@ pair is nowhere close to having a slam. The will probably make just ten tricks.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 4!S]
 [show NS]
 Once more, NORTH has the same hand as Deals 1 and 2.
@@ -101,7 +101,7 @@ won't go down more than a couple of tricks.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!D]
 [show NS]
 SOUTH has a pretty normal preemptive 3\D bid.
@@ -136,7 +136,7 @@ best call - PASS.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 4!H]
 [show NS]
 Here SOUTH has the kind of hand you need to raise a preempt to game.
@@ -162,7 +162,7 @@ that is just enough for game. He bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 2!S] [BID Pass]
 [show NS]
 SOUTH has a 7-card \S suit but he is too strong to open with a preemptive bid. 
@@ -192,7 +192,7 @@ NORTH thinks there should be game and bids 4\S}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 4!H]
 [show NS]
 NORTH is too weak to open 1\H but just right for 2\H.
@@ -223,7 +223,7 @@ too strong for a Weak-two opening. So SOUTH just bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!H]
 [show NS]
 NORTH really hates that 2\H opening by SOUTH.
@@ -253,7 +253,7 @@ If you think 3NT has a chance you are delusional.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!S] [BID 4!S]
 [show NS]
 SOUTH expects to be better off in \Ss than NORTH would be in 2\H.
@@ -279,7 +279,7 @@ a hand this good. SOUTH then bids the \S game.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!H] [BID 5!D] [BID Pass]
 [show NS]
 SOUTH has a pretty normal 3\H opening bid.
@@ -308,7 +308,7 @@ When SOUTH shows one Ace NORTH can bid 6\H with confidence.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3NT]
 [show NS]
 NORTH doesn't have much of a 3\C opening bid.
@@ -335,7 +335,7 @@ but 5\C would go down 1.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!H] [BID 3!H] [BID Pass]
 [show NS]
 When SOUTH opens with a Weak 2\H bid, NORTH knows she will 
@@ -365,7 +365,7 @@ SOUTH returns to \Hs to show bare minimum so NORTH settles for game.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID 3!S]
 [show NS]
 SOUTH has one of those hands which might or might not be helpful to NORTH. He needs 
@@ -396,7 +396,7 @@ he signs off in 3\S}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!D] [BID 3!H] [BID Pass]
 [show NS]
 With four fast winners NORTH should think about game. The best approach is usually to 
@@ -425,7 +425,7 @@ she bids 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID Pass]
 [show NS]
 SOUTH is strong enough to be thinking about game, depending on how good NORTH's hand is. 
@@ -455,7 +455,7 @@ Game (and bidding) doesn't get much easier.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!S] [BID Pass]
 [show NS]
 NORTH assumes her partner can win six tricks. So she will need to contribute four more to 
@@ -481,7 +481,7 @@ Three of them are obvious, and she expects to get a \D ruff also.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!C] [BID 4!S]
 [show NS]
 NORTH's hand has the look of a Weak Two-bid, but it is one point too strong. So she opens 1\S.
@@ -510,7 +510,7 @@ SOUTH always knew there would be a game bid, so with an 8-card fit he bids 4\S}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!H]
 [show NS]
 NORTH may have an opening hand, but it is just the wrong kind of hand to respond to 
@@ -537,7 +537,7 @@ In other words, NORTH has the perfect hand with which to pass.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID 6NT]
 [show NS]
 The 2NT response to a Weak Two opening is a wonderful tool. You can learn a lot about 
@@ -568,7 +568,7 @@ When NORTH shows \D A K Q x x x SOUTH has an easy 6NT bid.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!S] [BID 3!H] [BID Pass]
 [show NS]
 NORTH is unsure whether to bid game or not. So she temporizes with 2NT.
@@ -597,7 +597,7 @@ NORTH is no longer unsure, so she bids 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID Pass]
 [show NS]
 SOUTH is unsure whether to bid game or not, so he bids 2NT to get more information about 
@@ -627,7 +627,7 @@ SOUTH passes and hopes for the best.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!C] [BID Pass]
 [show NS]
 NORTH has no way to tell whether SOUTH can provide one winner or not.
@@ -657,7 +657,7 @@ pass pass 1H pass 3H pass 4H pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 4!H]
 [show NS]
 Most good players have an extra restriction in their Weak Two-bid guidelines - they won't 
@@ -685,7 +685,7 @@ would be missed.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!D] [BID 3!C] [BID Pass]
 [show NS]
 NORTH responds 2NT, asking for more information. 

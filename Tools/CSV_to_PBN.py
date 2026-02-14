@@ -609,16 +609,16 @@ def process_analysis(analysis, student=None, declarer=None, subfolder=None, auct
         # Inject final [show NESW] if there's a reveal trigger
         analysis = inject_final_show(analysis)
 
-        # For Partnership deals: prepend [show N] + [BID] tags, then [show NS] before commentary
+        # For Partnership deals: prepend [show S] + [BID] tags, then [show NS] before commentary
         if subfolder and subfolder.startswith('Partnership-') and auction_str and dealer:
             south_bids = get_south_bids(auction_str, dealer)
             if south_bids:
                 bid_tags = " ".join(f"[BID {b}]" for b in south_bids)
-                # Replace initial [show NS] with [show N] + bids + [show NS]
+                # Replace initial [show NS] with [show S] + bids + [show NS]
                 if analysis.startswith("[show NS]\n"):
-                    analysis = "[show N]\n" + bid_tags + "\n[show NS]\n" + analysis[len("[show NS]\n"):]
+                    analysis = "[show S]\n" + bid_tags + "\n[show NS]\n" + analysis[len("[show NS]\n"):]
                 elif analysis.startswith("[show NS]"):
-                    analysis = "[show N]\n" + bid_tags + "\n[show NS]" + analysis[len("[show NS]"):]
+                    analysis = "[show S]\n" + bid_tags + "\n[show NS]" + analysis[len("[show NS]"):]
 
         return "{" + analysis + "}"
     return ""

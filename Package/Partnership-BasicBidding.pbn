@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 12:34:05
+%Created: 2026-02-14 13:01:39
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-BasicBidding
 [Event "Baker Bridge - Basic Bidding With No Conventions"]
@@ -17,7 +17,7 @@
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!H] [BID Pass]
 [show NS]
 SOUTH's 2\H raise shows 6-10 points and a least three trumps.
@@ -42,7 +42,7 @@ NORTH, with 19+ points, decides that game is almost a certainty and bids 4\H.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID Pass]
 [show NS]
 SOUTH has an ideal 1NT opening - 
@@ -69,7 +69,7 @@ but not enough to think about slam. Since NORTH has no 4-card Major suit she bid
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID Pass]
 [show NS]
 With 6 points, SOUTH must respond to NORTH's 1\C opening bid. 
@@ -99,7 +99,7 @@ With his minimum response hand SOUTH passes.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 3!H]
 [show NS]
 With 17 points SOUTH is not strong enough to insist on game after NORTH's raise, 
@@ -125,7 +125,7 @@ NORTH, however, doesn't have anything extra, so declines to go further.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID Pass]
 [show NS]
 This is a classic Notrump bidding sequence.
@@ -152,7 +152,7 @@ NORTH has a maximum, so she accepts the invitation.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!D] [BID 1!S] [BID Pass]
 [show NS]
 With two 4-card Majors NORTH should respond "up-the-line", bidding \Hs first.
@@ -177,7 +177,7 @@ Then, after SOUTH bids 1\S, NORTH has enough points to jump all the way to 4\S.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!S] [BID Pass]
 [show NS]
 NORTH has 17 points and might open 1NT. But with the 5-card Major suit she prefers 
@@ -205,7 +205,7 @@ enough to raise to game.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID Pass]
 [show NS]
 SOUTH has a powerful hand, but 21 points is not strong enough to start with a forcing 2\C bid. 
@@ -232,7 +232,7 @@ good \D suit to be useful to NORTH in Notrump so she bids 3NT.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT]
 [show NS]
 NORTH has a solid 1\H opening, 14 points and five trumps.
@@ -262,7 +262,7 @@ NORTH doesn't object to Notrump so she passes.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID Pass]
 [show NS]
 SOUTH has a normal 1\S opening bid, 14 points and five trumps.
@@ -294,7 +294,7 @@ the 11 points needed to bid a new suit at the 2-level.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 6NT]
 [show NS]
 With balanced distribution and 16 points NORTH should open 1NT rather than 1\D.
@@ -321,7 +321,7 @@ he bids 6NT.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 3NT]
 [show NS]
 SOUTH is right at the maximum for a 1\S opening bid - one more point and he would 
@@ -352,7 +352,7 @@ SOUTH is fine with Notrump so he bids 3NT.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 4NT] [BID 6!S]
 [show NS]
 NORTH has a minimum 1\S opening bid - 13 points and five trumps. She doesn't even suspect 
@@ -388,7 +388,7 @@ SOUTH has heard enough and bids 6\S.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 3!H] [BID Pass]
 [show NS]
 SOUTH has an above-minimum strength hand with a good 6-card suit. He opens 1\H.
@@ -418,7 +418,7 @@ NORTH raises to 4\H since two trumps is now adequate support.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 2!S]
 [show NS]
 NORTH has 14 points and opens her 4-card \C suit.
@@ -448,7 +448,7 @@ raises to 2\S, which NORTH happily passes.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID 6NT]
 [show NS]
 SOUTH has a maximum 17 point 1NT bid.
@@ -480,7 +480,7 @@ pass pass 1S pass 3S pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID Pass]
 [show NS]
 NORTH has just 11 points, not enough to open the bidding. 
@@ -507,7 +507,7 @@ SOUTH has just 13 points, and knowing NORTH has less than 13 he passes.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID Pass]
 [show NS]
 After SOUTH opens with 1\H, NORTH has a small "dilemma". 
@@ -535,7 +535,7 @@ with you should just jump right to game.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID Pass]
 [show NS]
 NORTH has 19 points, but no 5-card Major suit. With two 4-card minor suits she should start 
@@ -567,7 +567,7 @@ She bids 4\S.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 3!S] [BID Pass]
 [show NS]
 NOTE: There is a better way to bid this hand using special conventions.
@@ -595,7 +595,7 @@ NORTH has enough extra to accept the invitation, bids 4\S.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 4NT]
 [show NS]
 NORTH has a perfect 2NT opening hand, 20 points and 3-3-3-4 distribution.
@@ -625,7 +625,7 @@ With one more point NORTH might bid the slam, but here she just passes.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID Pass]
 [show NS]
 SOUTH opens 1NT with 15 points and a balanced hand.
@@ -655,7 +655,7 @@ SOUTH doesn't have maximum, he has minimum, so he passes.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 4!S]
 [show NS]
 NORTH is 1 point too strong to open 1NT, so opens 1\C.
@@ -684,7 +684,7 @@ NORTH now shows her 4-card support plus her extra strength by jumping to 3\S and
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID Pass]
 [show NS]
 SOUTH has a classic 2NT opening bid, 21 points and balanced distribution.

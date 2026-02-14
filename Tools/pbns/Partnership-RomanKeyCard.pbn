@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 12:34:05
+%Created: 2026-02-14 13:01:39
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-RomanKeyCard
 [Event "Baker Bridge - Roman Key Card Blackwood"]
@@ -17,7 +17,7 @@
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2NT] [BID 4!S] [BID 5!H] [BID Pass]
 [show NS]
 2NT shows a balanced hand with 8+ points, and when SOUTH then supports \Ss 
@@ -43,7 +43,7 @@ NORTH bids RKC Blackwood 4NT. SOUTH shows two Keycards (two Aces) and NORTH bids
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 4NT] [BID 5!H]
 [show NS]
 NORTH has a decent Limit Raise, and SOUTH tries RKC Blackwood.
@@ -74,7 +74,7 @@ are only five total. She must have zero and SOUTH signs off at 5\H.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!S] [BID 4NT] [BID 6!S]
 [show NS]
 NORTH jumps to 4\S, confident that SOUTH could make 10 tricks 
@@ -110,7 +110,7 @@ bids a confident 6\S, knowing NORTH has either three Aces or two Aces plus the \
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 4NT] [BID 6!H]
 [show NS]
 With eleven cards in the "round" suits SOUTH has a lot of playing strength. So when NORTH bids 
@@ -137,7 +137,7 @@ is practically a certainty.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!S] [BID 4!H] [BID Pass]
 [show NS]
 NORTH has interest in slam after she hears SOUTH's Limit Raise. 
@@ -172,7 +172,7 @@ NORTH stops at 4\S because neither partner controls \Ds.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 4NT] [BID 6!D]
 [show NS]
 SOUTH decides it is unlikely that NORTH is Aceless, so all he wants to know is the number of Aces NORTH does have. 
@@ -204,7 +204,7 @@ If NORTH had just one Key-card, SOUTH would bid 5\D over the 5\C reply.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 4NT] [BID Pass]
 [show NS]
 This is the companion to Deal 6. The cards are the same except that the 
@@ -235,7 +235,7 @@ That's what happens here.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID 4!S] [BID Pass]
 [show NS]
 NORTH needs to know how many Aces SOUTH holds.
@@ -268,7 +268,7 @@ The first way is probably better but we needed a Gerber example.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!S] [BID 6!D] [BID Pass]
 [show NS]
 SOUTH's positive response shows 8+ points and five or more cards headed by at least two honors.
@@ -302,7 +302,7 @@ NORTH readjusts her thinking and decides to bid the Grand.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID 4NT] [BID 6!H]
 [show NS]
 NORTH jumps in \Hs, showing a good suit and slam interest.
@@ -335,7 +335,7 @@ That is enough for SOUTH to bid the slam.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!S] [BID 4NT] [BID 5!H] [BID 7NT]
 [show NS]
 When NORTH agrees to \Ss, SOUTH will not stop short of a slam. 
@@ -367,7 +367,7 @@ SOUTH figures the \S suit will run, and this should be enough for Grand Slam. He
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID 4!S] [BID 5!S] [BID Pass]
 [show NS]
 NORTH knows there are enough points for slam, but she is worried about the trump suit. 
@@ -395,7 +395,7 @@ She bids 6\S (and hopes for a 3-2 trump split!).}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!S] [BID 4NT] [BID 6!S]
 [show NS]
 When SOUTH makes a slam try with a jump to 3\S, the best approach for NORTH is to agree on 
@@ -427,7 +427,7 @@ enough points for a Grand slam.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!H] [BID 5!H] [BID Pass]
 [show NS]
 It is usually not recommended to use any form of Blackwood when you have a suit with two quick 
@@ -459,7 +459,7 @@ She bids a confident 7NT (and hopes SOUTH didn't open 3\H with a 6-card suit.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 3!S] [BID 5!C] [BID Pass]
 [show NS]
 NORTH has 21 points, and when she hears SOUTH make a limit raise she tries for slam with RKCB.
@@ -489,7 +489,7 @@ Of course she didn't expect the two missing Key Cards to be the Ace and King of 
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!D] [BID 2NT] [BID Pass]
 [show NS]
 What is this doing here in the RKCB Practice Pages?
@@ -519,7 +519,7 @@ to bid 6NT if he felt his hand was a "maximum". He didn't, so he passed.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 4!C] [BID 6!C] [BID Pass]
 [show NS]
 When SOUTH makes a Splinter bid, showing \H support and \C shortness, 
@@ -549,7 +549,7 @@ Just what NORTH needed for the 6\H bid.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID 2!S] [BID 5!S] [BID Pass]
 [show NS]
 NORTH thinks they should be in slam, and uses Stayman to check for a 4-4 Major fit.
@@ -582,7 +582,7 @@ This fills the holes in NORTH's hand nicely, so she bids 6\S.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1NT] [BID 2!S] [BID 5!H] [BID Pass]
 [show NS]
 This is the companion hand to Deal 18.
@@ -613,7 +613,7 @@ in trumps. So she stops at 5\S.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!H] [BID 3NT]
 [show NS]
 The chances of a slam on this hand are very small, and if NORTH decides to use RKCB it will 
@@ -644,7 +644,7 @@ SOUTH cannot have as much as an extra Jack, so NORTH just passes 3NT.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!D] [BID 3!S] [BID 5!H] [BID Pass]
 [show NS]
 NORTH realizes SOUTH has fewer than 8 points, but the 3\S support bid is enough 
@@ -672,7 +672,7 @@ might possibly make all thirteen tricks with a finesse.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!C] [BID 2!H] [BID 4NT] [BID 5!D] [BID Pass]
 [show NS]
 NORTH's 3\H bid is "encouraging" so SOUTH bids 4NT.
@@ -704,7 +704,7 @@ to 6\H.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 2!C] [BID 2!H] [BID 4NT] [BID 5!D] [BID Pass]
 [show NS]
 This is the companion to Deal 22.
@@ -736,7 +736,7 @@ to 6\H anyway.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{[show N]
+{[show S]
 [BID 1!H] [BID 3!C] [BID 4!H] [BID 5!S] [BID Pass]
 [show NS]
 NORTH cannot use RKCB at her second bid because trumps have not been agreed. So she bids 
