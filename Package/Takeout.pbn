@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Takeout
 [Event "Baker Bridge - Takeout Doubles"]
@@ -17,7 +17,6 @@
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 1}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -48,7 +47,6 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 2}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -79,7 +77,6 @@ With 17 HCP and the singleton you are not strong enough to insist on game. On th
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 3}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -110,7 +107,6 @@ You need to make a strong invitation since partner needs very little for your si
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 4}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -141,7 +137,6 @@ Partner shows 9-11 points and a \S suit. However, he didn't force you to game, a
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 5}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -172,7 +167,6 @@ That extra 3 points makes all the difference. With that singleton \H your hand i
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 6}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -205,7 +199,6 @@ That was what partner needed to hear, he bids 4\S.}
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 7}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -236,7 +229,6 @@ With no suit fit you can't even count a point for your doubleton so you have jus
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 8}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -267,7 +259,6 @@ With no Major fit you are happy to play in notrump, knowing partner can stop the
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 9}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -298,7 +289,6 @@ You bid 2\H, describing your hand as a 1-suited hand, too strong to merely overc
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 10}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -331,7 +321,6 @@ pass 2S X pass 3H pass 4H pass pass pass
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 11}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -362,7 +351,6 @@ Some questions don't have a correct answer. If partner has \H Q x x x along with
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 12}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -393,7 +381,6 @@ You could not say 1NT on your first bid because that would show 15-18 points. Do
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 13}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -424,7 +411,6 @@ The pattern continues. Overcall 1NT with 15-18. Double, then bid notrump with 19
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 14}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 1\S]
@@ -455,7 +441,6 @@ Partner obviously has a good hand. Your response showed 0-8 points and he still 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 15}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 1\S]
@@ -486,7 +471,6 @@ Your first response showed 0-8 points. Knowing that, partner still invited you t
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 16}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3\H]
@@ -513,7 +497,6 @@ Your hand falls in the 9-11 point mid-range response where you make a jump bid. 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 17}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\C]
@@ -544,7 +527,6 @@ With both of you knowing you will reach game, partner has suggested \Hs. You don
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 18}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 4\H]
@@ -573,7 +555,6 @@ Notice that if you had made a cuebid, partner would probably end up playing 4\H 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 19}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 1\H]
@@ -604,7 +585,6 @@ You say pass. Despite partner showing you a big hand you just can't help him. }
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 20}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\C]
@@ -635,7 +615,6 @@ By doubling and then bidding his own suit, partner is showing a good hand, at le
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 21}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID pass]
@@ -670,7 +649,6 @@ You may be one too high, but that still might be a good score if they can make 2
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 22}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\H]
@@ -701,7 +679,6 @@ You bid 2\H and everybody passes.}
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 23}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 1\H]
@@ -732,7 +709,6 @@ On this deal your \H bid gets passed around to East who bids 2\D, the final cont
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 24}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID double]
@@ -767,7 +743,6 @@ You cannot stop short of game. Partner has apparently rejected your \S suggestio
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
-{Baker Takeout 25}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID pass]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Weak2
 [Event "Baker Bridge - Weak 2-Bids"]
@@ -17,7 +17,6 @@
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 1}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -48,7 +47,6 @@ This is not an invitation to bid game. If partner had game interest he would bid
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID pass]
@@ -75,7 +73,6 @@ You should pass. You have 15 points, and if partner has the maximum of 11 it see
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 3}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\S]
@@ -106,7 +103,6 @@ You say "pass". Partner has no interest in game since he didn't bid 2NT. This is
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\H]
@@ -133,7 +129,6 @@ You should bid 2\H. If partner has even one \H you will probably be better off t
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 5}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\H]
@@ -164,7 +159,6 @@ The 2NT bid is forcing. Your \DK is a feature, but your immediate priority is to
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4\S]
@@ -191,7 +185,6 @@ You should raise to 4\S. Not that you expect partner to make it, he probably can
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 7}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above.
@@ -226,7 +219,6 @@ Pass. When you have already described your hand perfectly, partner becomes the C
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4\S]
@@ -253,7 +245,6 @@ You should jump to 4\S, hoping to shut them out of their \H slam. As you can see
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 9}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -284,7 +275,6 @@ The 2NT bid is forcing and your suit is A K Q x x x. This is the standard guidel
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4\S]
@@ -311,7 +301,6 @@ You should raise to 4\S because that is what you expect partner to make. }
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 11}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\H]
@@ -342,7 +331,6 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 12}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
@@ -373,7 +361,6 @@ Well, you weren't sure whether to take partner to game or not, so when he says h
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 13}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -404,7 +391,6 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 14}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
@@ -435,7 +421,6 @@ You weren't sure whether to take partner to game or not. His 3\D bid tells you t
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 15}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\S]
@@ -466,7 +451,6 @@ Pass. Partner is in charge. If he had wanted you to bid again he could have forc
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 16}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
@@ -497,7 +481,6 @@ pass pass pass 1S pass 3S pass 4S pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 17}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID pass]
@@ -528,7 +511,6 @@ Well, we have passed out of the realm of Weak Twos and into Major Suit Raises! N
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 18}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4NT]
@@ -559,7 +541,6 @@ Partner has one Ace. Bid 6\S.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 19}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\H]
@@ -590,7 +571,6 @@ The 2\S bid is forcing for one round, but you want to bid again anyway. While yo
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{Baker Weak2 20}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\S]

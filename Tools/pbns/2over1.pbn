@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 2over1
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 1}
 {[show NS]
 
 After North's 1\H opening South counts 12 HCP plus one length point for the fifth \D. That is enough for a 2/1 response so South says 2\D.
@@ -44,7 +43,6 @@ Notice that you would bid this hand the same way whether or not you play 2/1.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 2}
 {[show NS]
 
 North opens 1\H and South, with 16 points,  responds 2\D, forcing the partnership to game.
@@ -71,7 +69,6 @@ The hand would have been bid the same with or without 2/1.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 3}
 {[show NS]
 
 With 16+ points and 3 \Hs, South will insist on a \H game at a minimum. But there is no need to start making jump bids, she starts with a simple 2\D bid. North also refrains from a jump, and rebids 2\H to show the 6-card suit.
@@ -96,7 +93,6 @@ North has heard enough. He bids 4NT, and when South admits to two Aces he bids t
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 4}
 {[show NS]
 
 North has a minimum 1\S opening bid. After East's 2\D overcall both North and South know that the 2/1 Game Force in no longer on. South can therefore bid 2\H, showing at least 11 points. This bid is forcing on North for 1 round, but not forcing to game.
@@ -121,7 +117,6 @@ South has nothing further to say so the partnership arrives in a safe contract.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 5}
 {[show NS]
 
 North opens 1\S, the higher ranking of the two 5-card suits.
@@ -150,7 +145,6 @@ pass 1S pass 2H pass 3H pass 4H pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 6}
 {[show NS]
 
 South opens 1\S and North, with 14 points, responds 2\H. Note that North is not permitted to make this bid without a 5-card or longer \H suit.
@@ -177,7 +171,6 @@ North has a minimum strength hand with no slam aspirations, so he uses Fast Arri
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 7}
 {[show NS]
 
 North has 13 points and naturally opens 1\S.
@@ -204,7 +197,6 @@ You can see why it is important for Opener to show a 4-card Major. Since South c
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 8}
 {[show NS]
 
 North opens 1\H, his 5-card Major. South, with 14 points, naturally responds 2\D, forcing the partnership to game.
@@ -231,7 +223,6 @@ North does not have either 6 \Hs or 5 \Ss so he just bids 3NT. Notice that North
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 9}
 {[show NS]
 
 North opens 1\S, his 5-card Major. South, with 14 points, responds 2\C, a 2/1 force to game.
@@ -258,7 +249,6 @@ North now must find a bid. His choices include rebidding the 5-card \Ss, support
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 10}
 {[show NS]
 
 South opens 1\S, her 5-card Major and North responds 2\H. South knows this is a 5-card suit, and bids 3\H, confirming the 8+card trump fit.
@@ -287,7 +277,6 @@ pass 1H pass 2C pass 2NT pass 3NT pass 4NT pass 6NT pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 11}
 {[show NS]
 
 North opens 1\H and South responds 2\C. Using standard bidding North would now jump to 3NT to show his 19 points, but in 2/1 this is not necessary since the partnership must not stop bidding until game is reached. So North just bids 2NT. South shows her minimum by bidding 3NT.
@@ -314,7 +303,6 @@ pass 1S pass 2D pass 2S pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 12}
 {[show NS]
 
 North opens 1\S and South responds 2\D. North has a pretty good hand, 17 points, but no stopping power in the minor suits. Also, North's \S suit is pretty ragged. Taking these points into consideration, North should just rebid his 6-card suit.
@@ -341,7 +329,6 @@ pass 1S pass 2H pass 3H pass 4NT pass 5H pass 5NT pass 6C pass 6H pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 13}
 {[show NS]
 
 North opens 1\S. South has a powerhouse, plenty strong enough to jump-shift. But playing 2/1 it's usually simpler when you make the 2/1 response, and save your jumping for later - if at all. So South bids just 2\H, knowing North must keep the bidding open.
@@ -370,7 +357,6 @@ This is a good slam, cold if West makes any opening lead other than a \C. With a
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 14}
 {[show NS]
 
 South opens 1\H and North responds 2\D.
@@ -397,7 +383,6 @@ South has some extra strength, but not enough to push on after North's weak bid.
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 15}
 {[show NS]
 
 North opens 1\S. South has 11 points, enough to respond 2\H in standard bidding, but not when using 2/1. So she bids 1NT.
@@ -424,7 +409,6 @@ This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding S
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 16}
 {[show NS]
 
 North opens 1\S. South has 11 points, enough to respond 2\C, (or 2\D), in standard bidding, but not when using 2/1. So she bids 1NT.
@@ -451,7 +435,6 @@ North is happy to play Notrump. He assumes South must have something useful in \
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 17}
 {[show NS]
 
 North opens 1\H. South responds 1NT, just as in standard bidding. The difference is that in this case the 1NT response is forcing on North.
@@ -476,7 +459,6 @@ Notice that this is the same bidding and same final contract that would have bee
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 18}
 {[show NS]
 
 South opens 1\S. North responds 2\D, a 2/1 force to game. 
@@ -503,7 +485,6 @@ North always intended to play a \S contract. He now bids 4\S, using Fast Arrival
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 19}
 {[show NS]
 
 North opens 1\H and East Doubles.
@@ -528,7 +509,6 @@ North also knows everything mentioned above so he passes.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 20}
 {[show NS]
 
 South opens 1\S. North responds 2\D, a 2/1 force to game. 
@@ -557,7 +537,6 @@ Notice that South did not fall into the Blackwood trap. If she HAD asked for Ace
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 21}
 {[show NS]
 
 North opens 1\S. South responds 2\D, a 2/1 force to game. 
@@ -582,7 +561,6 @@ South doesn't have 4 \Hs, nor does she have 3 \Ss. She does, however, have stopp
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 22}
 {[show NS]
 
 North opens 1\S. South responds 2\D, a 2/1 force to game. 
@@ -609,7 +587,6 @@ pass pass 1S pass 2D pass 2H pass 2S pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 23}
 {[show NS]
 
 North passes and South opens 1\S. 
@@ -636,7 +613,6 @@ Knowing that North does not have opening strength South passes 2\S.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 24}
 {[show NS]
 
 North opens 1\S. With 9 points and a doubleton \S South must respond 1NT. 
@@ -663,7 +639,6 @@ North happily passes and the pair lands in a reasonable contract, probably bette
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 25}
 {[show NS]
 
 South opens 1\S. North has a mountain, but there is seldom a need to jump-shift when using 2/1. He bids 2\H. 
@@ -692,7 +667,6 @@ North asks for Aces and gets two. He decides to find out about Kings, if South h
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 26}
 {[show NS]
 
 North opens 1\S. With 11 points South cannot respond 2\C. So she bids 1NT, which is forcing for 1 round. 
@@ -719,7 +693,6 @@ North has a little extra so he bids 4\S, which is a pretty good contract. }
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 27}
 {[show NS]
 
 North opens 1\S. Perhaps a little marginal, but you don't pass 13 point hands. South has a good 2/1 response of 2\C. 
@@ -744,7 +717,6 @@ North is not happy in notrump so rebids the 6-card major, 3\S. South's two \Ss a
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Student "S"]
-{Baker 2over1 28}
 {[show NS]
 
 South opens 1\S. North cannot say 2\H because he only has 11 points, and also because he only has 4 \Hs. So he bids 1NT (forcing for 1 round).

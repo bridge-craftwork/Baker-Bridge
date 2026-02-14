@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent NMF
 [Event "Baker Bridge - New Minor Forcing"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
@@ -50,7 +49,6 @@ Partner tells you he has 3 \Ss. You already know he has a minimum strength hand.
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 2}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
@@ -83,7 +81,6 @@ Do not support the \Cs if you have another decent bid. This is New Minor Forcing
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\H]
@@ -116,7 +113,6 @@ Partner tells you he has 3 \Hs. But he also tells you he has minimum strength - 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 4}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
@@ -151,7 +147,6 @@ This is New Minor Forcing and your first priority is to show a 4-card \H suit. Y
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\H]
@@ -184,7 +179,6 @@ Partner tells you he has only 2 \Hs. He also tells you he only has 12-13 points.
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 6}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\C]
@@ -219,7 +213,6 @@ This is New Minor Forcing. Partner wants to know if you have 3 \Hs. Not only do 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
@@ -254,7 +247,6 @@ Your 12 points just got upgraded! Bid 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 8}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
@@ -289,7 +281,6 @@ This is NMF, asking if you have 3 \Hs. You only have 2, but you have a great not
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\H]
@@ -324,7 +315,6 @@ Partner doesn't have 3 \Hs. That's what you wanted to know, you bid 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 10}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
@@ -357,7 +347,6 @@ This is NMF, asking you to further describe your hand. You do not have 3 \Ss. Yo
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 11}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
@@ -392,7 +381,6 @@ OK, partner has a 4-card \H suit - may or may not have 3 \Ss. Since you don't ha
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 12}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\C]
@@ -427,7 +415,6 @@ This is New Minor Forcing. Partner wants to know if you have 3 \Ss. Since you do
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 13}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
@@ -462,7 +449,6 @@ Partner does not have 3 \Ss. That was the information you needed, so you bid 6NT
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{Baker NMF 14}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Cue-bid
 [Event "Baker Bridge - Support Cue-bids"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -44,7 +43,6 @@ Instead, you cue-bid 3\H, promising at least 11 points and support for \Ss. Part
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\S]
@@ -71,7 +69,6 @@ With your 17 revalued points you know that your side has at least enough for gam
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -102,7 +99,6 @@ Pass. Partner indicates a minimum hand and you don't have enough extra to bid mo
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -129,7 +125,6 @@ But partner doesn't have a limit raise - if he did he would have cue-bid. So you
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\S]
@@ -158,7 +153,6 @@ The jump to 3 is based on the Law of Total Tricks - bidding to a trick level equ
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -185,7 +179,6 @@ You, however, have a bare-bones minimum. So you rebid a minimum 3\H, which partn
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -216,7 +209,6 @@ So you cue-bid 2\H, showing a good hand with support and forcing partner to bid 
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4NT]
@@ -247,7 +239,6 @@ You know you have a loser. Bid 6\S. }
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -278,7 +269,6 @@ Pass. Partner had a minimum overcall so he made a minimum rebid.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
 [Student "S"]
-{Baker Cue-bid 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]

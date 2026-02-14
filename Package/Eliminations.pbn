@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Eliminations
 [Event "Baker Bridge - Elimination Plays"]
@@ -17,7 +17,6 @@
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 1}
 {[show NS]
 
 North's 3\S bid is a limit raise showing 10-12 points and good trump support. South is to play 6\S. West leads the \HQ.
@@ -79,7 +78,6 @@ With an elimination play you make it no matter who holds the Queen.}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 2}
 {[show NS]
 
 South is to play 4\S. West leads the \HQ.
@@ -144,7 +142,6 @@ Only by forcing them to start the \Ds can you take a trick in the suit. }
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 3}
 {[show NS]
 
 South is to play 6\S. West leads the \HQ.
@@ -207,7 +204,6 @@ By forcing them to start the \Ds you make three tricks when the two outstanding 
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 4}
 {[show NS]
 
 South is to play 4\H. West leads the \DJ.
@@ -266,7 +262,6 @@ Here you were lucky the defense didn't start by taking their three \Ss. If they 
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 5}
 {[show NS]
 
 South is to play 4\S. West leads the \DJ, covered by the \DQ and \DA. East returns a \D to the \DK.  
@@ -323,7 +318,6 @@ In either case you will no longer have a \C loser.}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 6}
 {[show NS]
 
 North decides a limit raise is better than just jumping to game. South has heard enough and bids the slam. 
@@ -398,7 +392,6 @@ Here it took two ruffs, one in each hand.}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 7}
 {[show NS]
 
 North first transfers you to \Hs, then gives you a choice of which game to play.  Knowing you have an 9-card trump fit, you choose 4\H. 
@@ -461,7 +454,6 @@ Decide for yourself!}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 8}
 {[show NS]
 
 You naturally respond 2\D to North's strong 2\C opener. Before you know it you are playing a slam - with your mighty 2-point hand! South plays 6\D. West leads the \SQ.
@@ -524,7 +516,6 @@ As you see, A Q 9 actually works just as well.}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 9}
 {[show NS]
 
 South is to play 4\H. West leads the \DQ.  
@@ -587,7 +578,6 @@ pass 1D 1H 2H X 6D pass pass pass
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 10}
 {[show NS]
 
 North's 2\H bid showed a hand with limit raise or better in \Ds. South doesn't bother with Blackwood since he already knows about the Aces. He just bids the slam. South plays 6\D. West leads the \HK, won by you with the \HA.
@@ -650,7 +640,6 @@ But never mind the percentages for a finesse, the end-play was a sure thing.}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 11}
 {[show NS]
 
 North's cue-bid shows a limit raise or better (11 points) in \Cs. South is to play 5\C. West leads the \SQ, East takes the \SA and returns the \S6 to your \SK.  
@@ -723,7 +712,6 @@ pass 1NT pass 3H pass 4H pass 5C pass 6H pass pass pass pass pass
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 12}
 {[show NS]
 
 Your 3\H bid is a slam suggestion. After you show the \CA partner wastes no time in bidding it.
@@ -804,7 +792,6 @@ If East just happens to hold both the \CK and \CJ you will make all thirteen tri
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 13}
 {[show NS]
 
 South plays 3NT. West leads the \H2. East plays the \HJ which you win with the \HQ.
@@ -858,7 +845,6 @@ Wow! End-played at trick #6. }
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 14}
 {[show NS]
 
 South is to play 4\S after North's Stayman bid uncovered the 4-4 fit. West leads the \HJ which you win the your \HA.
@@ -934,7 +920,6 @@ You'd be no better off. Although you would avoid the \S loser you would now have
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 15}
 {[show NS]
 
 South considered Blackwood, then realized if North showed either 2 or 3 Aces he was going to bid slam. But if North showed just one Ace he would have to maneuver to play 5NT which might be worse than 6\C. So he just bid the slam. South plays 6\C. West leads the \SJ.
@@ -1003,7 +988,6 @@ Here you had two chances. First, West might have HAD to win the throw-in, either
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 16}
 {[show NS]
 
 The slam was easy to bid, now you just have to make it. South plays 6\C. West leads the \DQ.
@@ -1054,7 +1038,6 @@ Hopefully in the future you will be the one with the reputation!}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 17}
 {[show NS]
 
 When the bidding gets high in a hurry you sometimes have to guess what you can make. South plays 4\S. West leads the \HK.
@@ -1129,7 +1112,6 @@ pass 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 18}
 {[show NS]
 
 North's 3\S is a limit raise, 11-12 points in support of \Ss. When you discover that the raise includes two Aces you bid the slam. South plays 6\S. West leads the \DK, won by you with dummy's \DA.
@@ -1184,7 +1166,6 @@ It is a pretty simple problem, but you are no doubt getting a lot better.}
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 19}
 {[show NS]
 
 North realizes that to make a takeout double, then jump in your own suit you must have a very good hand. So he bids the game. South plays 4\H. West leads the \CK, which you take with the \CA.
@@ -1247,7 +1228,6 @@ It was not a complete elimination since East still had a trump when you threw We
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 20}
 {[show NS]
 
 South is to play 4\S. West leads the \DQ.  
@@ -1320,7 +1300,6 @@ It also depended upon the defenders not switching to \Cs at the second trick. If
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 21}
 {[show NS]
 
 After hearing a limit raise, South's leap to 6\H is, well, bold let's say. South plays 6\H. West leads the \S5, East plays the \SK.
@@ -1379,7 +1358,6 @@ But if it had turned out that West DID have another \D, and led it, all would no
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 22}
 {[show NS]
 
 Some bidding, huh? Well, what would you have bid in the North seat? South plays 6NT. West leads the \DJ.
@@ -1454,7 +1432,6 @@ In fact, it just kept you from making a losing play, (leading toward the \SQ), a
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 23}
 {[show NS]
 
 South is to play 4\H. West leads the \S6, taken by East with the \SA. East returns the \SQ, you play the \SK and West ruffs. West next leads the \DJ.   
@@ -1523,7 +1500,6 @@ In many hands an opponent who opens with a preemptive bid gives you the informat
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 24}
 {[show NS]
 
 North first transfers you to \Ss, then closes the auction with 4\S. 
@@ -1590,7 +1566,6 @@ This trickery would fail if West held the \DK, or if East held it and went up ri
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Baker Eliminations 25}
 {[show NS]
 
 South plays 6\C. West leads the \S8.

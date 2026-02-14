@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 1}
 {[show NE]
 
 [showcards W:SJ]
@@ -50,7 +49,6 @@ So if you put on your \DA, South will have TWO \D winners established. If instea
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 2}
 {[show NW]
 
 [showcards E:C2 S:H2,CA]
@@ -87,7 +85,6 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 3}
 {[show NE]
 
 [showcards S:DJ,CJ,C8,C6 W:D2,CK,CQ,C5]
@@ -124,7 +121,6 @@ Now that you have looked at the hands aren't you glad you didn't cover?}
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 4}
 {[show NW]
 
 [showcards E:HA,HK,H2 S:S4,S2,H9,H4]
@@ -161,7 +157,6 @@ However, with South holding the \SQ it would be very logical for him to go up wi
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 5}
 {[show NE]
 
 [showcards S:H4 W:H9]
@@ -200,7 +195,6 @@ South has no defense to this, but if you had played low he would have played the
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 6}
 {[show NW]
 
 [showcards E:S3 S:SA,C3]
@@ -239,7 +233,6 @@ If he does play this way East will win the \CT and your \C K Q will get one more
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 7}
 {[show NESW]
 
 You are East. The bidding has been as shown, (wild).
@@ -276,7 +269,6 @@ By playing low you give him a guess to make. If he plays the \CK he will make th
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 8}
 {[show NW]
 
 [showcards S:DK,C9]
@@ -313,7 +305,6 @@ So the way to beat the contract is to go up with your \CA, then play \SK, \SQ an
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 9}
 {[show NE]
 
 [showcards S:S6,H8 W:S2,H4]
@@ -352,7 +343,6 @@ As you see, this will defeat the contract. Had you played a low \D South would h
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 10}
 {[show NW]
 
 [showcards E:S2 S:SQ,C6]
@@ -391,7 +381,6 @@ East will win the \CA and return his \S through South's \S A Q. This allows you 
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 11}
 {[show NE]
 
 [showcards S:S4,DA W:S2,DQ]
@@ -428,7 +417,6 @@ Suppose you had ruffed the \S. South would have played his \S9, leaving himself 
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 12}
 {[show NW]
 
 [showcards E:S4,C5,C3 S:H4,CA,C6,C2]
@@ -463,7 +451,6 @@ Now visualize the result of playing the \HQ. Whether South takes this trick or n
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 13}
 {[show NE]
 
 [showcards S:H4]
@@ -500,7 +487,6 @@ Play low instead and South will win his \CQ. But now your \C K 10 sits behind du
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 14}
 {[show NW]
 
 [showcards E:S3,H7,H4 S:S5,HA,H2,C2]
@@ -537,7 +523,6 @@ When you correctly play your small \C life becomes harder for South. Sometimes h
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 15}
 {[show NE]
 
 [showcards S:SQ,SJ,C3 W:S6,S2,C6]
@@ -578,7 +563,6 @@ If you play low, West will have to take the \DK now, and although he can play a 
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 16}
 {[show NESW]
 
 You are West. The bidding has been as shown.
@@ -615,7 +599,6 @@ But if you take your \HA now, then exit with your \H2, South can win the \HK but
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 17}
 {[show NE]
 
 [showcards S:SA,C2 W:SK]
@@ -654,7 +637,6 @@ If you cover the \HJ with your \HQ South will again win with one of his high one
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 18}
 {[show NW]
 
 [showcards E:HA,H3,DJ S:S3,HK,H6,D6]
@@ -695,7 +677,6 @@ If you play low on South's \S play East will be forced to win the trick and he c
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{Baker SecondHand 19}
 {[show NE]
 
 [showcards S:HA,H2 W:H7,H3]
@@ -734,7 +715,6 @@ Now assume you play low. South will play the \SQ which will win the trick and he
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{Baker SecondHand 20}
 {[show NESW]
 
 You are West. The bidding has been as shown.

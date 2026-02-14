@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Ogust
 [Event "Baker Bridge - Ogust"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -44,7 +43,6 @@ pass 2H pass 2NT pass 3C pass 3H pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -75,7 +73,6 @@ Partner's 3\C bid shows a weak hand and a poor suit. So you reluctantly settle f
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\D]
@@ -102,7 +99,6 @@ pass 2S pass 2NT pass 3H pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -133,7 +129,6 @@ Partner's 3\H bid shows a maximum hand and a poor suit. Your \SK should be enoug
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -158,7 +153,6 @@ pass 2D pass 2NT pass 3D pass 3NT pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -189,7 +183,6 @@ Partner's 3\D bid shows a minimum hand but a good suit, which should mean two of
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -214,7 +207,6 @@ pass 2H pass 2NT pass 3NT pass 4H pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -243,7 +235,6 @@ Partner's 3NT bid describes his hand exactly; \H A K Q x x x and nothing else. Y
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\S]
@@ -268,7 +259,6 @@ pass 2S pass 2NT pass 3S pass 6S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
 [Student "S"]
-{Baker Ogust 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]

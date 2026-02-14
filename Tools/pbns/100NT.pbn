@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 100NT
 [Event "Baker Bridge - 100 Notrump Deals"]
@@ -17,7 +17,6 @@
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -68,7 +67,6 @@ Holding up twice can never hurt, and in this case it is the only way to make the
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -133,7 +131,6 @@ Usually you should not risk your contract for the sake of an overtrick.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -188,7 +185,6 @@ But if you hold up your \SK East will have no \S to put his partner in with. }
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -253,7 +249,6 @@ Good Bridge players like to take tricks, but they are not greedy.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\S]
@@ -307,7 +302,6 @@ If they had been 3-1 you would have had to leave the last trump undrawn until af
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -372,7 +366,6 @@ When the cards MUST lie in a particular way for the contract to be makeable, jus
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -425,7 +418,6 @@ It only fails if West holds 4 or more \Ss headed by A K.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -486,7 +478,6 @@ You would put on dummy's \DQ and East would win the \DK. But you aren't down yet
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\D]
@@ -549,7 +540,6 @@ But you are very lucky that you took the time to read this hand so you know how 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -614,7 +604,6 @@ But if she hadn't, you'd still have a 50% chance in \Hs.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 11}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -681,7 +670,6 @@ But in cases like this one, with a 4-2 split, you cannot afford to waste an entr
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 12}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -748,7 +736,6 @@ Here is an example of when that principle is NOT correct; when you need to get s
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 13}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -811,7 +798,6 @@ Or you could have made it whoever held the \SQ by using the "improved" plan.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 14}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID double]
@@ -854,7 +840,6 @@ Just play through the deal as you think it might go and see how many tricks you 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 15}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 6NT]
@@ -913,7 +898,6 @@ But not always. Sometimes they just happen, like this one. You were really hopin
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 16}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -976,7 +960,6 @@ But think about it. If East does in fact hold the singleton \HK, and if you clev
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 17}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -1035,7 +1018,6 @@ The key is your ability to choose which defender you want to duck the trick into
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 18}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -1102,7 +1084,6 @@ He would have been very, very sorry. You would have had no choice but to win the
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 19}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -1163,7 +1144,6 @@ So you use the duck instead.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 20}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -1228,7 +1208,6 @@ Did you notice that if the opening lead had been a \C instead of a \H you would 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 21}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -1287,7 +1266,6 @@ But if you had not made the correct plan your good fortune would have been waste
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 22}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -1350,7 +1328,6 @@ The only way this plan could go wrong is if West held the singleton \DJ. And if 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 23}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -1407,7 +1384,6 @@ This plan combines several chances.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 24}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -1468,7 +1444,6 @@ You sacrifice one sure \H winner to create a second dummy entry which creates tw
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 25}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -1527,7 +1502,6 @@ While the answer may depend on the opponent, usually you should take their openi
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 26}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -1596,7 +1570,6 @@ This Deal is unusual in that there are two master trumps, but the principle is t
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 27}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -1654,7 +1627,6 @@ Suppose you had not played the \HQ to trick one. East would have withheld the \H
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 28}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -1721,7 +1693,6 @@ But imagine that the \DJ is transposed to the West hand. He wins that \D trick b
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 29}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -1782,7 +1753,6 @@ Watch those spot cards. You may have to unblock them to stay in the hand you wan
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 30}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -1847,7 +1817,6 @@ Here, with only 2 trumps left out, you can afford the \SA.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 31}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -1900,7 +1869,6 @@ pass 1NT pass 2S pass 3C pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 32}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -1955,7 +1923,6 @@ But good players don't forget, they use every bit of information they can get to
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 33}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 6NT]
@@ -2008,7 +1975,6 @@ Ducking the \D was the correct play - not just because it worked, but because it
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 34}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -2077,7 +2043,6 @@ West could hold EITHER \H A J x OR\H K J x in which case finessing dummy's \HJ w
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 35}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1NT]
@@ -2132,7 +2097,6 @@ Don't give him the chance.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 36}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\H]
@@ -2185,7 +2149,6 @@ That was true, so instead you were able to discard it on a loser! }
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 37}
 {[show S]
 
 You are the Dealer. Decide what you would say, then click on BID above. [BID 2NT]
@@ -2236,7 +2199,6 @@ If you played your \D5 too early you would not have been able to enter dummy thr
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 38}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -2296,7 +2258,6 @@ You can only win 3 \S tricks however you play it, so you play to suit your entry
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 39}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -2357,7 +2318,6 @@ But, if you hold up your \SA until the third round, East will have no \S left wh
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 40}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -2419,7 +2379,6 @@ That meant you could pull trumps with two pulls, leaving that one important one 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 41}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -2474,7 +2433,6 @@ Finally, if West had only a 5-card \H suit, good defense would beat you. But the
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 42}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -2541,7 +2499,6 @@ By taking the SECOND \D trick with dummy's \DQ the 4-1 split is exposed at the r
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 43}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -2598,7 +2555,6 @@ But don't get too smug. A lot of the plays work in these practice deals because 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 44}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -2665,7 +2621,6 @@ Pretty much like this hand.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 45}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 6NT]
@@ -2726,7 +2681,6 @@ You were lucky it wasn't East with the 4 \Hs.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 46}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\S]
@@ -2789,7 +2743,6 @@ You pull trumps first, then play two top \Cs. When both defenders follow you giv
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 47}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -2848,7 +2801,6 @@ If you hold up on first trick luck won't come into it. It will no longer matter 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 48}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -2909,7 +2861,6 @@ Always keep in the back of your mind the possibility of an elimination play. In 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 49}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -2973,7 +2924,6 @@ This is called "trump elopement".}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 50}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 6NT]
@@ -3038,7 +2988,6 @@ But if only the \HK is in a favorable position, (with West), you can make the co
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 51}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -3095,7 +3044,6 @@ But there is no reason to go down once every seven times when you don't need to.
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 52}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -3153,7 +3101,6 @@ There was an alternate plan, just as good. After taking the two top trumps, run 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 53}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -3206,7 +3153,6 @@ So you have to play well and stay away from \Ds. }
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 54}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\C]
@@ -3269,7 +3215,6 @@ Did you notice that you started with 3 \C losers and no \D loser, but you ended 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 55}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -3328,7 +3273,6 @@ Then you will lose all those \C tricks in dummy.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 56}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -3395,7 +3339,6 @@ But if you don't pay attention on all 100 of them you will miss the one time whe
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 57}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -3456,7 +3399,6 @@ This hand is a perfect example - your only hope was for West to hold \D A x, so 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 58}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -3523,7 +3465,6 @@ And notice - no matter which way you play it you still end up with exactly 2 \H 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 59}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\S]
@@ -3591,7 +3532,6 @@ You now play the \H, eliminating that suit from both hands. Whichever defender w
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 60}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -3656,7 +3596,6 @@ In this case it was a double-duck.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 61}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -3725,7 +3664,6 @@ Obviously you couldn't afford to lose a trick so you would have to bang down the
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 62}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -3792,7 +3730,6 @@ The holdup would of course fail if West held both black Aces, but in this case n
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 63}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -3847,7 +3784,6 @@ It goes without saying that if your \SK holds the trick you immediately switch t
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 64}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 7NT]
@@ -3910,7 +3846,6 @@ This is an Automatic Squeeze, which just means you don't have to do any preparat
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 65}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -3975,7 +3910,6 @@ The method given here gives up the possibility of an overtrick for an improved c
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 66}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -4040,7 +3974,6 @@ It is unlikely that East would lead the \S8 from any holding containing one or b
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 67}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -4109,7 +4042,6 @@ Here that principle applied even though there were TWO master trumps out.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 68}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -4176,7 +4108,6 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 69}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -4245,7 +4176,6 @@ You can try the \S finesse then, but you will make the slam whether it works or 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 70}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -4308,7 +4238,6 @@ And you have to be careful to unblock so you don't inadvertently lose your place
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 71}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -4368,7 +4297,6 @@ But, if you finesse in \Cs first, West can win and establish the \H suit. But, w
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 72}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -4439,7 +4367,6 @@ This is much more obvious play when you are missing 5 trumps including the Queen
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 73}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -4500,7 +4427,6 @@ And just look at the EW hands. They can easily make 3\S.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 74}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -4561,7 +4487,6 @@ East could play a \C, knocking out one of your \C A K. When East won his first \
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 75}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -4614,7 +4539,6 @@ Even if East held both honors you would STILL have established one \S winner and
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 76}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -4677,7 +4601,6 @@ If he does that he hands you all four \D tricks!}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 77}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -4734,7 +4657,6 @@ West would have taken the second \S, then pulled your last \S. When the \C fines
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 78}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -4797,7 +4719,6 @@ But visualize the \SJ and \S7 transposed. If you don't make the safety play it i
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 79}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -4852,7 +4773,6 @@ Play the \HA on the first trick and East is hog-tied. If he plays low the suit b
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 80}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -4919,7 +4839,6 @@ East would have taken the two trump tricks, then West would have taken 5 \H tric
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 81}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\D]
@@ -4989,7 +4908,6 @@ So whenever you see your contract depending on a finesse, just look again and se
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 82}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -5042,7 +4960,6 @@ But it wouldn't matter, you would still play the same way. As long as you can st
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 83}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -5105,7 +5022,6 @@ It would be tough for West to come up with a \S lead from \S K 7 3, but it would
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 84}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -5168,7 +5084,6 @@ If East had not followed to the second \C you might not have been able to use th
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 85}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -5221,7 +5136,6 @@ Another time West will hold the \DQ and you will make the contract, but no overt
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 86}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -5288,7 +5202,6 @@ Another possibility, playing \CA first, should also be rejected. On the rare day
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 87}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1NT]
@@ -5346,7 +5259,6 @@ Sometimes you must try to visualize some possible distribution of the defender's
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 88}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -5410,7 +5322,6 @@ When you give up the \S to East he could play a \C, forcing you to use your last
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 89}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -5475,7 +5386,6 @@ But since they may be right you need to be on the lookout for ducking plays beca
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 90}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -5542,7 +5452,6 @@ By the way, if West had a 6-card suit this plan wouldn't work. But then, no othe
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 91}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -5600,7 +5509,6 @@ But the other 50% of the time West will have the \DK. On those Deals you get you
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 92}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -5663,7 +5571,6 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 93}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -5730,7 +5637,6 @@ If you stop with the \Ss and start running \Ds you will make your contract 100% 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 94}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -5799,7 +5705,6 @@ By the way, ruffing a card to purposely shorten your trump holding is called a T
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 95}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -5856,7 +5761,6 @@ Smart you, if you had played the \DJ you'd be down 2.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 96}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -5921,7 +5825,6 @@ The big exception is when you have a running suit in one hand but with no outsid
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 97}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\D]
@@ -5994,7 +5897,6 @@ But call it whatever you like, that's the way to make this Deal.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 98}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\C]
@@ -6057,7 +5959,6 @@ Of course if the \Ds were breaking 3-3 all the time you haven't lost anything by
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT 99}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -6120,7 +6021,6 @@ It was the fourth \S that was a loser, and you couldn't get rid of that one.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Baker 100NT }
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Signals
 [Event "Baker Bridge - Defensive Signals"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 1}
 {[show NW]
 
 [showcards E:S7 S:S5]
@@ -54,7 +53,6 @@ If you play the ! D10 East will win the \DA and return a \S, allowing you to dri
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 2}
 {[show NW]
 
 [showcards E:S7 S:S8]
@@ -91,7 +89,6 @@ There IS another possibility if South is a better than average Declarer. East ju
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 3}
 {[show NE]
 
 [showcards W:CA]
@@ -124,7 +121,6 @@ When he next plays the \CK dummy will ruff, but whatever card he ruffs with you 
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 4}
 {[show NW]
 
 [showcards E:DQ,D7,D3 S:D6,DT,DA,CQ]
@@ -157,7 +153,6 @@ If East is paying attention he will know to win the THIRD \C. This will kill dum
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 5}
 {[show NE]
 
 [showcards W:CA]
@@ -190,7 +185,6 @@ Much better to play low. Partner will surely switch to a \D, and South will prob
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 6}
 {[show NW]
 
 [showcards E:S9,S3 S:S5,S8]
@@ -223,7 +217,6 @@ The best procedure is to lead a low \S. East will ruff and South will over-ruff 
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 7}
 {[show NE]
 
 [showcards S:HA,DJ W:HQ,D2]
@@ -260,7 +253,6 @@ This defense holds South to one \D tricks, if you had let him win the second one
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 8}
 {[show NW]
 
 [showcards E:S2,HJ S:SJ,ST,HA]
@@ -295,7 +287,6 @@ South may now turn to the \D suit, but your side can win the first \D and drive 
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 9}
 {[show NE]
 
 [showcards W:H5]
@@ -330,7 +321,6 @@ South is one trick short and he sees he can easily get that trick in \Hs. So he 
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 10}
 {[show NW]
 
 [showcards E:HA,H3 S:H8,H5]
@@ -363,7 +353,6 @@ Partner takes the \CA and gives you a second \H ruff.}
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 11}
 {[show NE]
 
 You are East. The bidding has been as shown. Partner led the \DA, dummy played the \D3 and it is your play.
@@ -394,7 +383,6 @@ West looks at your signal, then looks at dummy, then looks at your signal. He kn
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 12}
 {[show NW]
 
 [showcards E:HQ S:H5]
@@ -427,7 +415,6 @@ East next plays the \DQ and however South tries it your side will take the next 
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 13}
 {[show NE]
 
 [showcards W:DA]
@@ -464,7 +451,6 @@ West next plays a small \D which you win with your \DJ. You return the \ST. This
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 14}
 {[show NW]
 
 [showcards S:SK]
@@ -499,7 +485,6 @@ Hopefully East will come to the conclusion that this is Suit Preference for a \H
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 15}
 {[show NE]
 
 [showcards S:S8,S5 W:SA,SQ,SK]
@@ -534,7 +519,6 @@ If you don't get your \C trick at trick 4 you will never get it. South will disc
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 16}
 {[show NE]
 
 [showcards W:CK]
@@ -571,7 +555,6 @@ West dutifully plays a \H and you take the next three tricks. Had he switched to
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 17}
 {[show NE]
 
 [showcards S:C5 W:DA,CA]
@@ -604,7 +587,6 @@ But this time you really want him to take his \CK. So play the discouraging \D2 
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 18}
 {[show NE]
 
 [showcards S:HA,DA,DJ,CQ W:H5,D2,D6,C4]
@@ -639,7 +621,6 @@ So grab your \CA and return partner's \H suit. }
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{Baker Signals 19}
 {[show NESW]
 
 You are East. The bidding has been as shown. The 2\H bid was a transfer. The 5NT bid meant to choose either 6\S or 6NT. South liked the suit. Partner led the \S5, won by South's \SQ. South pulls one more trump with his \SA, then wins three high \Ds. Next comes dummy's \HA on which he plays the \H3 and West plays the \H9. Then he leads dummy's \H6 which you win with the \HQ. On this trick South drops the \HJ and West the \H2. It is your play.
@@ -670,7 +651,6 @@ If you had not been paying attention to West's signal you might have decided to 
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{Baker Signals 20}
 {[show NW]
 
 [showcards E:C2 S:C9]

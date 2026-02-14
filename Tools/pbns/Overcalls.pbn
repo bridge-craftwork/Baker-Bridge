@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Overcalls
 [Event "Baker Bridge - Overcalls"]
@@ -17,7 +17,6 @@
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 1}
 {[show S]
 
 The bidding has been as shown. It is your turn. Decide what you would say, then click on "" above. [BID pass]
@@ -44,7 +43,6 @@ You have 14 points but so what. You have no 5-card suit to Overcall. You cannot 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 2}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3\H]
@@ -71,7 +69,6 @@ With four trumps and 12 points you have a text-book raise to 3\H. Partner had a 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 3}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 1\H]
@@ -102,7 +99,6 @@ Partner is showing 6-10 points and three trumps. Your hand revalues to 14 at mos
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 4}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID pass]
@@ -129,7 +125,6 @@ You really don't like partner's \Ss, and you do have 8 points. But 8 points is n
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 5}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 2\H]
@@ -160,7 +155,6 @@ No matter how many times you check this hand you cannot revalue it any more than
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 6}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\S]
@@ -189,7 +183,6 @@ You might look at the Law of Total Tricks lesson for more on this subject.}
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 7}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 1\S]
@@ -222,7 +215,6 @@ With your minimum it's going to have to be better than that to get you excited. 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 8}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 4\S]
@@ -251,7 +243,6 @@ Looking at the hands you can see that partner is going to go down 1 at 4\S. Howe
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 9}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 1\H]
@@ -282,7 +273,6 @@ The jump raise promises 11-14 points. Your 17 plus partner's 11 or so takes you 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 10}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2NT]
@@ -309,7 +299,6 @@ Partner has at least 11 points for his 2-level overcall. He might have as many a
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 11}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 1NT]
@@ -344,7 +333,6 @@ This is just a plain old 1NT/Stayman sequence. Partner is inviting, and since yo
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 12}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\D]
@@ -375,7 +363,6 @@ Partner has not made a strong bid and it is possible that 10 tricks will be too 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 13}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 2\S]
@@ -402,7 +389,6 @@ If you had been the dealer you would have opened 2\S. The situation is no differ
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 14}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 1\S]
@@ -433,7 +419,6 @@ You expect partner to have three trumps, but he has made a minimum bid. So you t
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 15}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 1\H]
@@ -464,7 +449,6 @@ Whether you play a change of suit as forcing or not, your hand certainly qualifi
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 16}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\C]
@@ -495,7 +479,6 @@ You have 9 points, an invitational strength hand. You bid 3\H, inviting partner 
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 17}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 2\C]
@@ -526,7 +509,6 @@ Partner's cue-bid obviously forces you to bid. Partner's hand might be very dist
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 18}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2NT]
@@ -553,7 +535,6 @@ Balanced hand, poor support for partner's suit, stoppers in their suit and 13 po
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 19}
 {[show S]
 
 The bidding has been as shown. It is your bid. [BID 2\D]
@@ -586,7 +567,6 @@ That was apparently the missing link for partner, he now says 3NT.}
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
-{Baker Overcalls 20}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2NT]

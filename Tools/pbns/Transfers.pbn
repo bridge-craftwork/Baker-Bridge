@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Transfers
 [Event "Baker Bridge - Jacoby Transfers"]
@@ -17,7 +17,6 @@
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 1}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\D]
@@ -46,7 +45,6 @@ As you can see from partner's hand you made the right call. Played in \Hs your h
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 2}
 {[show S]
 
 North's 1NT opening shows 15-17 points. What is your bid? [BID 2\H]
@@ -79,7 +77,6 @@ As you can see, a 4\S contract would have no chance, losing 1 trick in each side
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 3}
 {[show S]
 
 North's 1NT opening shows 15-17 points. What is your bid? [BID 2\H]
@@ -112,7 +109,6 @@ A 4\S contract is definitely the place to be. }
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 4}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\D]
@@ -147,7 +143,6 @@ As you can see, making even 9 tricks is going to be a challenge.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 5}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\D]
@@ -174,7 +169,6 @@ You know you have at least an 8-card \H fit. You know you have at least 26 point
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 6}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\D]
@@ -205,7 +199,6 @@ Note that you must have at least one Major suit fit since partner cannot have a 
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 7}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\H]
@@ -238,7 +231,6 @@ If you held an even stronger hand and wished to move toward a slam you would sta
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 8}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\H]
@@ -267,7 +259,6 @@ Having made the try, you accept whatever partner decides. In this case, with a 1
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 9}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\H]
@@ -302,7 +293,6 @@ Here both partners understood the bid and North bid 6NT.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 10}
 {[show S]
 
 North opens 2NT showing a balanced 20-21 point hand. What do you respond? [BID 3\D]
@@ -333,7 +323,6 @@ Notice that when partner opens 2NT the invitation to game option is no longer av
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 11}
 {[show S]
 
 You open 1NT and partner responds 2\D. What do you bid? [BID 2\H]
@@ -364,7 +353,6 @@ So you pass.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 12}
 {[show S]
 
 You open 1NT and partner responds 2\H. What do you bid? [BID 2\S]
@@ -395,7 +383,6 @@ So you bid 3NT.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 13}
 {[show S]
 
 You open 1NT and partner responds 2\D. What do you bid? [BID 2\H]
@@ -428,7 +415,6 @@ With your 3-3-3-4 distribution you might have been tempted to bid 3NT instead of
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 14}
 {[show S]
 
 You open 1NT and partner responds 2\H. What do you bid? [BID 2\S]
@@ -461,7 +447,6 @@ You pass. And you're going to have to play great to make even 9 tricks!}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 15}
 {[show S]
 
 You open 1NT and partner responds 2\D. What do you bid? [BID 2\H]
@@ -490,7 +475,6 @@ Partner has 9 points and 6 \Hs. You have 17 points and 3 \Hs. That adds up to 26
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 16}
 {[show S]
 
 You open 1NT and partner responds 2\H. What do you bid? [BID 2\S]
@@ -519,7 +503,6 @@ Since you have 17 points you accept the invitation, but with only 2 \Ss you choo
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 17}
 {[show S]
 
 You open 1NT and partner responds 2\D. What do you bid? [BID 2\H]
@@ -550,7 +533,6 @@ Despite your \Ss being so beautiful there are only two of them so you pick \Hs. 
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 18}
 {[show S]
 
 You open 1NT and partner responds 2\H. What do you bid? [BID 2\S]
@@ -581,7 +563,6 @@ What does matter is those minor suits. If the opening lead is a \C or \D, which 
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 19}
 {[show S]
 
 You open 1NT and partner responds 2\D. What do you bid? [BID 3\H]
@@ -616,7 +597,6 @@ That was all partner needed to hear, he jumps straight to 6\H.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 20}
 {[show S]
 
 You open 2NT and partner responds 3\H. What do you bid? [BID 3\S]
@@ -647,7 +627,6 @@ One hand doesn't mean it will always be like this, but usually if you have an 8-
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 21}
 {[show S]
 
 You open 1NT and partner responds 2\D. What do you bid? [BID 2\H]
@@ -678,7 +657,6 @@ Once you understand partner's bid, your next move is simple. You have a maximum 
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 22}
 {[show S]
 
 You open 1NT and partner responds 2\D. What do you bid? [BID 2\H]
@@ -709,7 +687,6 @@ He is interested in slam and wants help from you in either of his suits. You hav
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 23}
 {[show S]
 
 You open 1NT and partner responds 2\D. However, your Right Hand Opponent injects a 2\S overcall.
@@ -742,7 +719,6 @@ You have a minimum, but with 3 \Hs you prefer the suit game to 3NT so you bid 4\
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 24}
 {[show S]
 
 You open 1NT and partner responds 2\D. However, your Right Hand Opponent injects a 2\S overcall.
@@ -771,7 +747,6 @@ However, in this case you know that your side has at least 9 \Hs, and you are we
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{Baker Transfers 25}
 {[show S]
 
 You open 1NT and partner responds 2\D. However, your Right Hand Opponent injects a 2\S overcall. What do you bid? [BID pass]

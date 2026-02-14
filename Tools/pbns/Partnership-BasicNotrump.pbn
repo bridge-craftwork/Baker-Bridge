@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-BasicNotrump
 [Event "Baker Bridge - Very Basic Notrump Bidding"]
@@ -17,7 +17,6 @@ pass 1NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 1}
 {[show NS]
 NORTH has a perfect 1NT opener; a balanced hand with 16 points.
  
@@ -42,7 +41,6 @@ Since this is below the 26 point game requirement he passes.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 2}
 {[show NS]
 SOUTH has an ideal 1NT opening - 
 16 points and balanced distribution.
@@ -68,7 +66,6 @@ pass 1NT pass 3NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 3}
 {[show NS]
 NORTH has 16 points and balanced distribution. 
 She naturally opens 1NT.
@@ -100,7 +97,6 @@ SOUTH just bids 3NT, knowing NORTH will respect his decision and pass.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 4}
 {[show NS]
 When SOUTH opens 1NT, NORTH knows that he cannot have more 
 than 17 points. So with her 7 points, she knows there is no reason to respond.}
@@ -121,7 +117,6 @@ pass 1NT pass 2NT pass 3NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 5}
 {[show NS]
 NORTH has a maximum 17 point 1NT opener.
  
@@ -151,7 +146,6 @@ NORTH has a maximum 17 point hand so she accepts the invitation.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 6}
 {[show NS]
 With 9 points NORTH is unable to decide the final contract. If SOUTH has 17 points then the partnership 
 should be playing 3NT. If SOUTH opened with just 15 points then 3NT will be too high..
@@ -177,7 +171,6 @@ pass 1NT pass 2NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 7}
 {[show NS]
 This time NORTH has a minimum 1NT opener; a balanced hand with 15 points.
  
@@ -206,7 +199,6 @@ NORTH, with a minimum, declines the invitation by passing.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 8}
 {[show NS]
 SOUTH has a strong hand, 20 points and balanced distribution. 
 It is just right to open 2NT (20-21 points).
@@ -232,7 +224,6 @@ pass 1NT pass 2NT pass 3NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 9}
 {[show NS]
 NORTH has an mid-range 1NT opener; a balanced hand with 16 points.
  
@@ -263,7 +254,6 @@ and bids 3NT.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 10}
 {[show NS]
 SOUTH has 20 points and 4-4-3-2 distribution, so he opens 2NT.
  
@@ -288,7 +278,6 @@ pass 1NT pass 4NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 11}
 {[show NS]
 NORTH has a low-range 1NT opener; a balanced hand with 15 points.
  
@@ -318,7 +307,6 @@ her to bid 6NT if she is at the top of her range. It is clear to NORTH, but with
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 12}
 {[show NS]
 SOUTH has a minimum 1NT opening hand - balanced distribution with 15 points.
  
@@ -347,7 +335,6 @@ pass 1NT pass 6NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 13}
 {[show NS]
 NORTH has 17 points, counting 1 for the fifth Club. She has a balanced distribution 
 so she opens 1NT.
@@ -374,7 +361,6 @@ below the 37 points needed for Grand Slam so he bids 6NT.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 14}
 {[show NS]
 The partner who is first sure what the final contract should be should just go ahead and bid it. 
 This is called "She who knows, goes."
@@ -404,7 +390,6 @@ pass 2NT pass 3NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 15}
 {[show NS]
 NORTH has a balanced 20 point hand - ideal to open 2NT.
  
@@ -428,7 +413,6 @@ SOUTH has 7 points; he knows the partnership has either 27 or 28 points so he bi
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 16}
 {[show NS]
 This is another example of "She who knows, goes."
  
@@ -457,7 +441,6 @@ pass 2NT pass 3NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 17}
 {[show NS]
 NORTH has 20 points, counting one extra for the fifth Diamond. Just right to open 2NT.
  
@@ -482,7 +465,6 @@ pass pass 1NT pass 2NT pass 3NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 18}
 {[show NS]
 After SOUTH passes initially, NORTH opens 1NT.
  
@@ -512,7 +494,6 @@ pass 1NT pass 4NT pass 6NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 19}
 {[show NS]
 NORTH has a great 1NT hand - 17 points and 4-3-3-3 shape.
  
@@ -542,7 +523,6 @@ He figured right - NORTH had 17 points so she bid 6NT.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 20}
 {[show NS]
 NORTH definitely does NOT have a balanced hand. She has two doubletons and a 
 6-card Club suit. 
@@ -572,7 +552,6 @@ pass 2NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 21}
 {[show NS]
 With 21 points and 4-3-3-3 distribution, NORTH opens 2NT.
  
@@ -597,7 +576,6 @@ total cannot be more than 24. So he just passes 2NT.}
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 22}
 {[show NS]
 This is an easy one to bid.
  
@@ -630,7 +608,6 @@ pass 2NT pass 6NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 23}
 {[show NS]
 Notrump bidding really is easy, you just add your points to partner's points and then 
 bid according to that answer.
@@ -656,7 +633,6 @@ pass pass 1NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{Baker Partnership-BasicNotrump 24}
 {[show NS]
 SOUTH cannot open with only 8 points.
  

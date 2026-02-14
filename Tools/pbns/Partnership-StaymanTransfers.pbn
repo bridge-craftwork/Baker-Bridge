@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-StaymanTransfers
 [Event "Baker Bridge - Stayman and Jacoby Transfers"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 1}
 {[show NS]
 SOUTH's 2\C bid is Stayman, asking for a 4-card Major.
  
@@ -46,7 +45,6 @@ so he bids 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 2}
 {[show NS]
 NORTH, with 11 points and six \Ss, knows immediately that the final contract will be 4\S 
 since the partners must have at least eight \Ss and at least 26 points.
@@ -73,7 +71,6 @@ closes the auction with SOUTH as Declarer.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 3}
 {[show NS]
 SOUTH knows the partnership has a fit in \Hs since NORTH 
 must have at least a doubleton. He also knows the partnership holds at least 27 points.
@@ -103,7 +100,6 @@ The contract might go down if played by SOUTH, but is odds on when played by NOR
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 4}
 {[show NS]
 NORTH, with 9 points and a 4-card \H suit is just strong 
 enough to use Stayman.
@@ -132,7 +128,6 @@ SOUTH has a maximum 1NT opening and bids 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 5}
 {[show NS]
 SOUTH has 11 points and five \Hs, so she responds 
 2\D as a Jacoby Transfer.
@@ -162,7 +157,6 @@ Since NORTH has only a doubleton \H she passes 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 6}
 {[show NS]
 SOUTH, with a balanced 17 point hand naturally opens 1NT.
  
@@ -187,7 +181,6 @@ So she uses Jacoby Transfer, and when SOUTH bids 2\S she passes!}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 7}
 {[show NS]
 SOUTH has four cards in each Major suit - this is an ideal situation for Stayman.
  
@@ -211,7 +204,6 @@ NORTH shows a \H suit and SOUTH immediately bids game in that suit.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 8}
 {[show NS]
 Stayman convention works just fine after a 2NT opening, just at a higher level.
  
@@ -236,7 +228,6 @@ needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 9}
 {[show NS]
 SOUTH has five cards in each Major and NORTH opens 1NT.
  
@@ -266,7 +257,6 @@ NORTH prefers \Ss, so she corrects the contract to 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 10}
 {[show NS]
 With 12 points and five \Ss, when NORTH hears her partner open 1NT she knows 
 there is a game - either 3NT or 4\S.
@@ -295,7 +285,6 @@ SOUTH has three \Ss, so he chooses 4\S, taking the 8-card Major fit.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 11}
 {[show NS]
 After NORTH opens 2NT, SOUTH is pretty sure there will be a slam in \Hs. 
 But, the contract should be played from the NORTH side so the opening lead doesn't go through any vulnerable 
@@ -322,7 +311,6 @@ off two Aces. Missing one Ace he settles for 6\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 12}
 {[show NS]
 NORTH has an invitational hand, (9 points), after SOUTH's 1NT opening. 
 With a 4-card \S suit she uses Stayman.
@@ -352,7 +340,6 @@ SOUTH declines.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 13}
 {[show NS]
 Because SOUTH holds a 4-card Major suit, (\Hs), he starts his 
 responses with Stayman.
@@ -383,7 +370,6 @@ With three trumps NORTH chooses 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 14}
 {[show NS]
 NORTH has a poor 9 points, but does have two 4-card Majors. So he uses Stayman.
  
@@ -412,7 +398,6 @@ SOUTH has a full 17 points so he accepts the invitation.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 15}
 {[show NS]
 SOUTH, with 9 points and a 6-card suit, knows they should play in \Ss. 
 The question is: how high? 
@@ -442,7 +427,6 @@ So she bids the \S game.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 16}
 {[show NS]
 NORTH, with a 5-card AND a 4-card Major first uses Stayman.
  
@@ -472,7 +456,6 @@ she bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 17}
 {[show NS]
 This is a companion hand to Deal 16.
  
@@ -501,7 +484,6 @@ an 8-card Major suit fit. With the fit her hand now revalues to 11 points so she
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 18}
 {[show NS]
 This is companion #3 to Deal 16 and 17.
  
@@ -531,7 +513,6 @@ chooses to play 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 19}
 {[show NS]
 Even with a 6-card \S suit SOUTH uses Stayman because he also has a 4-card 
 \H suit. Given a choice, playing a 4-4 Major fit is usually 
@@ -558,7 +539,6 @@ the game where he knows the partnership holds eight trumps.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 20}
 {[show NS]
 SOUTH breaks the expected Transfer sequence by jumping to 3\H instead 
 of bidding just 2\H. This is called the "Super Accept" and it shows 
@@ -585,7 +565,6 @@ round control of the suit that was bid.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 21}
 {[show NS]
 SOUTH uses Stayman because he has a 4-card \S suit.
  
@@ -616,7 +595,6 @@ So NORTH bids 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 22}
 {[show NS]
 NORTH has a rotten hand, and many players would just pass 1NT.
  
@@ -646,7 +624,6 @@ either 2\S or 2\D also.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 23}
 {[show NS]
 Just having a 4-card Major doesn't mean you must automatically use Stayman.
  
@@ -676,7 +653,6 @@ a \S contract because neither hand can ruff any losers.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{Baker Partnership-StaymanTransfers 24}
 {[show NS]
 NORTH has an invitational (9 point) hand with five \Ss.
  

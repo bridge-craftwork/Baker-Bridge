@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-AdvancedForcing
 [Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
@@ -17,7 +17,6 @@
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 1}
 {[show NS]
 SOUTH's 2\D bid is New Minor Forcing.
  
@@ -42,7 +41,6 @@ SOUTH's 2\D bid is New Minor Forcing.
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 2}
 {[show NS]
 SOUTH is unlikely to win 10 tricks if NORTH has three \C losers.
  
@@ -68,7 +66,6 @@ not enough to think of game, so NORTH signs off in 3\H.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 3}
 {[show NS]
 SOUTH's 3\D bid is Fourth Suit Forcing and 
 does NOT show a \D stopper.
@@ -94,7 +91,6 @@ NORTH does not have a rebiddable suit, but does have \Ds stopped so she bids 3NT
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 4}
 {[show NS]
 NORTH cannot rebid the 5-card \S suit, cannot support SOUTH's \Ds, 
 and cannot bid Notrump without a \H stopper.
@@ -125,7 +121,6 @@ enough to bid game so she passes.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 5}
 {[show NS]
 NORTH's 3\D bid is a Help Suit Game Try.
  
@@ -150,7 +145,6 @@ so with 8 points he bids the game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 6}
 {[show NS]
 NORTH has no reason to consider New Minor Forcing with this hand.
  
@@ -179,7 +173,6 @@ So NORTH should bid the Notrump game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 7}
 {[show NS]
 SOUTH might well bid 3NT at his second turn, and this may turn out to be the 
 final contract anyway.
@@ -205,7 +198,6 @@ see if NORTH happens to have three \Ss. She does, so 4\S becomes the better game
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 8}
 {[show NS]
 SOUTH isn't strong enough to make a Reverse bid of 2\H at his second turn.
  
@@ -234,7 +226,6 @@ pass pass 1S pass 2S pass 3H pass 4S pass pass pass pass pass
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 9}
 {[show NS]
 SOUTH's 3\H bid is a Help Suit Game Try.
  
@@ -260,7 +251,6 @@ raise to game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 10}
 {[show NS]
 NORTH has no reason to consider Fourth Suit Forcing with this hand.
  
@@ -288,7 +278,6 @@ So NORTH should bid the Notrump game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 11}
 {[show NS]
 NORTH should pass 2\H. She is not strong enough to 
 try for game.}
@@ -309,7 +298,6 @@ try for game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 12}
 {[show NS]
 NORTH knows there should be game, but doesn't know whether it will be 4\S, 
 4\H or 3NT. To find out which she uses NMF and 
@@ -336,7 +324,6 @@ three \Ss, but he does have \Cs stopped so he bids 2NT, which North raises to 3N
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 13}
 {[show NS]
 NORTH cannot see a game unless SOUTH has help in \Cs so she makes a Help Suit Game Try.
  
@@ -360,7 +347,6 @@ SOUTH has 8 points and the doubleton \C K Q so he bids the game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 14}
 {[show NS]
 NORTH has a perfect hand on which to use Fourth Suit Forcing. If South can stop 
 \Ss, then 3NT would be a great contract.
@@ -390,7 +376,6 @@ SOUTH, win a fine \S stopper, bids 3NT.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 15}
 {[show NS]
 SOUTH's 2\D bid is a perfect example of NMF. 
 It provides NORTH with the opportunity to show either a 4-card \H suit, 
@@ -417,7 +402,6 @@ first priority.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 16}
 {[show NS]
 NORTH's 1\S bid is definitely forcing, but it is not FSF. In this one instance, all 
 bids at the one level, the \S bid shows a real suit.
@@ -442,7 +426,6 @@ So SOUTH shows the 4-card support and NORTH bids game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 17}
 {[show NS]
 NORTH could make a Help Suit Game Try in either \Ss or \Cs. 
 But she doesn't need the \S help as much as she does in \Cs, so she chooses \Cs.
@@ -468,7 +451,6 @@ so he bids the game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 18}
 {[show NS]
 Could NORTH bid 2\H, (FSF), even though she actually has the suit?
  
@@ -497,7 +479,6 @@ NORTH should ignore the \H suit and bid 3NT.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 19}
 {[show NS]
 SOUTH cannot bid 2\H at his second turn; that would be 
 Fourth Suit Forcing and wouldn't show the \H suit at all.
@@ -523,7 +504,6 @@ NORTH recognizes that SOUTH must hold five \Ss and bids the \S game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 20}
 {[show NS]
 NORTH bids 2\C as New Minor Forcing, hoping SOUTH has three \Hs.
  
@@ -553,7 +533,6 @@ NORTH has nowhere to go, so passes.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 21}
 {[show NS]
 SOUTH should not use Fourth Suit Forcing to see if NORTH holds three \Ss because 
 that information is irrelevant.
@@ -579,7 +558,6 @@ points to be in game so he bids it.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 22}
 {[show NS]
 SOUTH thinks there might be game if NORTH can help with the three \H 
 losers. So he bids 3\H as a Help Suit Game Try.
@@ -604,7 +582,6 @@ NORTH cannot provide any help at all, so quickly signs off in 3\S which SOUTH pa
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 23}
 {[show NS]
 SOUTH bids 2\C as New Minor Forcing, hoping NORTH will show three \Ss.
  
@@ -628,7 +605,6 @@ NORTH does show three \Ss, but also shows a minimum hand so South passes.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{Baker Partnership-AdvancedForcing 24}
 {[show NS]
 NORTH wants to be in game but doesn't know which one. 
 If SOUTH holds three \Hs she would prefer 4\H, 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -17,7 +17,6 @@ pass pass 1NT pass 3NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 1}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -48,7 +47,6 @@ South only has 7 winners unless he can establish the \C suit, and when you win y
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 2}
 {[show W]
 
 The bidding has been as shown. The contract is 4\S and it is your lead.
@@ -81,7 +79,6 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 3}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -114,7 +111,6 @@ If you had led any card other than a low \S declarer would take 10 tricks.}
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 4}
 {[show W]
 
 The bidding has been as shown. The contract is 4\H and it is your lead.
@@ -145,7 +141,6 @@ Notice that with any other lead declarer would have been able to discard a \S lo
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 5}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -176,7 +171,6 @@ South will likely try the \C finesse, and when East wins the \CK he will return 
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 6}
 {[show W]
 
 The bidding has been as shown. The contract is 4\S and it is your lead.
@@ -213,7 +207,6 @@ As you can imagine, declarer will be in a whole lot of trouble.}
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 7}
 {[show W]
 
 The bidding has been as shown. The contract is 6NT and it is your lead.
@@ -248,7 +241,6 @@ Declarer has 11 winners sitting there; if you had led a low \S you would have ha
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 8}
 {[show W]
 
 The bidding has been as shown. The contract is 6\D and it is your lead.
@@ -283,7 +275,6 @@ Without a \S lead declarer will have smooth sailing.}
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 9}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -314,7 +305,6 @@ Leading a \H from your 5-card suit is riskier, but it has the potential of setti
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 10}
 {[show W]
 
 The bidding has been as shown. The contract is 4\H and it is your lead.
@@ -347,7 +337,6 @@ And when South plays \Cs, (preparing to ruff in dummy), you will win and play an
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 11}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -382,7 +371,6 @@ There is another, more subtle, reason for leading partner's suit. If the lead tu
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 12}
 {[show W]
 
 The bidding has been as shown. The contract is 1\C doubled and it is your lead.
@@ -415,7 +403,6 @@ With the trump lead South might not make more than three tricks.}
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 13}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -450,7 +437,6 @@ Declarer must play \Ds to get some winners, and when East takes the \DA he will 
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 14}
 {[show W]
 
 The bidding has been as shown. The contract is 4\S doubled and it is your lead.
@@ -489,7 +475,6 @@ So take the \SA and then play another \S. Declarer will still be able to ruff on
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 15}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -524,7 +509,6 @@ But when you lead the \H3 it does not promote a \H winner for declarer, and left
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 16}
 {[show W]
 
 The bidding has been as shown. The contract is 6\S and it is your lead.
@@ -557,7 +541,6 @@ It is important for your side to create a winner before your \DA is forced out. 
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 17}
 {[show W]
 
 The bidding has been as shown. The contract is 3NT and it is your lead.
@@ -592,7 +575,6 @@ With any other lead declarer will make the contract.}
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 18}
 {[show W]
 
 The bidding has been as shown. The contract is 4\H and it is your lead.
@@ -627,7 +609,6 @@ Declarer may still make the contract if he guesses the \HQ correctly, but maybe 
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 19}
 {[show W]
 
 The bidding has been as shown. The contract is 6NT and it is your lead.
@@ -660,7 +641,6 @@ With any lead other than a \H honor he cannot come to 12 tricks.}
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{Baker OLead 20}
 {[show W]
 
 The bidding has been as shown. The contract is 4\S and it is your lead.

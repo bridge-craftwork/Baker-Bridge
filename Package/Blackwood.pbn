@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Blackwood
 [Event "Baker Bridge - Blackwood"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 1}
 {[show S]
 
 The bidding has gone as shown. Your 3\H bid showed 11-12 points. Decide how you would answer partner's Blackwood 4NT, then click on BID above. [BID 5\D]
@@ -44,7 +43,6 @@ pass 1NT pass 4C pass 4S pass 6NT pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 2}
 {[show S]
 
 The bidding has gone as shown. Your 1NT bid showed 15-17 points and a balanced hand. Decide how you would answer partner's Gerber 4\C, then click on BID above. [BID 4\S]
@@ -71,7 +69,6 @@ The Gerber response to show 2 Aces is 4\S. So you bid 4\S and partner jumps to 6
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\C]
@@ -104,7 +101,6 @@ pass 2NT pass 4C pass 4S pass 6NT pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -135,7 +131,6 @@ The 4\C bid is Gerber and your correct response with 2 Aces is 4\S. Partner now 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4NT]
@@ -166,7 +161,6 @@ That makes it simple, with 2 Aces you bid a confident 6\H. If he had 1 Ace you w
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\H]
@@ -201,7 +195,6 @@ Partner shows 2 Aces so you bid 6\H.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 7}
 {[show S]
 
 You dealt this hand. Decide what you would say, then click on BID above. [BID 1\D]
@@ -236,7 +229,6 @@ Easy, missing one Ace you bid 6NT.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 8}
 {[show S]
 
 You dealt this hand. Decide what you would say, then click on BID above. [BID 1\S]
@@ -275,7 +267,6 @@ You have no King. So you reply 6\C and partner bids 6NT (safer than 6\S).}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4NT]
@@ -306,7 +297,6 @@ Partner has shown one Ace and a \D void. As to what you bid, that's easy. You ha
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -337,7 +327,6 @@ With 2 Aces your response is 4\S. Partner bids 6NT and you pass.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 11}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -372,7 +361,6 @@ The 4\D reply says either zero or all four. Put your money on all four and bid 7
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 12}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
@@ -407,7 +395,6 @@ Partner has 1 Ace so you can go no higher than 6. Although you can't tell for su
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 13}
 {[show S]
 
 You dealt this hand. Decide what you would say, then click on BID above. [BID 1\S]
@@ -442,7 +429,6 @@ pass 1NT pass 4NT pass 6NT pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 14}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 1NT]
@@ -473,7 +459,6 @@ THIS IS NOT BLACKWOOD. Partner's bid is the Quantitative 4NT. He has 16 points a
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 15}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4NT]
@@ -504,7 +489,6 @@ Missing one Ace you bid 6\H.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 16}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 1\S]
@@ -539,7 +523,6 @@ You are missing one Ace but 6\S should be a good slam.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 17}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\D]
@@ -574,7 +557,6 @@ Tempting though it may be it is too dangerous to try 6NT. So you bid 6\D which t
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 18}
 {[show S]
 
 You dealt this hand. Decide what you would say, then click on BID above. [BID 3\S]
@@ -605,7 +587,6 @@ With 1 Ace and a void in a lower-ranking suit you should bid 6 of that suit. So 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 19}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\C]
@@ -636,7 +617,6 @@ Partner has only a single Ace in his 2NT opener. No slam for your team. You pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Baker Blackwood 20}
 {[show S]
 
 The bidding has gone as shown. Your 4\C bid is a Splinter Bid, showing an opening hand with good \H support and either a singleton or a void in \Cs. Decide what you would reply to partner's 4NT, then click on BID above. [BID 5NT]

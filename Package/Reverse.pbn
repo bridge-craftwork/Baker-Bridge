@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Reverse
 [Event "Baker Bridge - Reverse Bids"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
@@ -46,7 +45,6 @@ Partner now takes control and bids the \S game.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1NT]
@@ -73,7 +71,6 @@ So with your minimum hand you bid 1NT which partner raises to 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 3}
 {[show S]
 
 The bidding has gone as shown. At your first turn you bid your \H suit, up-the-line. Decide what you would say next, then click on BID above. [BID 2NT]
@@ -102,7 +99,6 @@ Instead you bid 2NT. Partner has a bare 17 so he passes.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -129,7 +125,6 @@ Partner's jump bid shows a 6-card suit and enough points to insist on game. You 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\H]
@@ -158,7 +153,6 @@ Since you know of an 8-card \H fit and at least 27 points you bid 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 6}
 {[show S]
 
 You are the dealer. Decide what you would say, then click on BID above. [BID 1\S]
@@ -191,7 +185,6 @@ Things would have gotten confusing, to say the least.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -222,7 +215,6 @@ Mercifully he passes.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -247,7 +239,6 @@ When partner shows 17+ points with his Reverse you are sure you belong in game. 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -276,7 +267,6 @@ So you pass. It's a good thing, too.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -301,7 +291,6 @@ You have 7 points, and basically nothing but s\H. You must make a minimum bid, a
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 11}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -332,7 +321,6 @@ There are no guarantees here, but you should probably try 5\D.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 12}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -363,7 +351,6 @@ Be very glad that you did.3NT would go down with a \H opening lead while 4\S is 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 13}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\D]
@@ -388,7 +375,6 @@ With partner showing 17 or more points, your 13 brings you to game level. You wa
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{Baker Reverse 14}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1NT]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Trumpmgmt
 [Event "Baker Bridge - Trump Management"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 1}
 {[show NS]
 
 South is to play 4\S. West leads the \DK. East overtakes with the \DA and returns the \C4.
@@ -66,7 +65,6 @@ pass pass 1S pass 2S pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 2}
 {[show NS]
 
 South is to play 4\S. West leads the \CQ.
@@ -111,7 +109,6 @@ So you must stay a jump ahead of them. In this Deal the only way they could have
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 3}
 {[show NS]
 
 South is to play 4\H. West leads the \H7.
@@ -154,7 +151,6 @@ Here there was no realistic hope of making this contract without playing twice t
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 4}
 {[show NS]
 
 South is to play 5\D. West leads the \CT. You play dummy's \CJ and East puts on the \CK.
@@ -205,7 +201,6 @@ In other words, with one of these opening leads a mediocre player, one who had n
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 5}
 {[show NS]
 
 The 4\C and 4\H bids were control-showing. South is to play 6\D. West leads the \CJ.
@@ -268,7 +263,6 @@ Needing just three more tricks, and with two trumps in each hand you just cross-
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 6}
 {[show NS]
 
 South's 2\D bid was New Minor Forcing, asking if North has 3 \Ss. North's 2\S response said "Yes, I have."South is to play 4\S. West leads the \HQ.
@@ -317,7 +311,6 @@ But you don't have to lose anything else as long as you don't lose trump control
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 7}
 {[show NS]
 
 South is to play 6\S. West leads the \DQ.
@@ -368,7 +361,6 @@ So you give up a trump trick and gain two \H tricks in return. What a deal.}
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 8}
 {[show NS]
 
 South is to play 5\C. West leads the \SJ.
@@ -415,7 +407,6 @@ So you couldn't pull that one round of trumps because you couldn't waste either 
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 9}
 {[show NS]
 
 South is to play 4\H. West leads the \DK.
@@ -460,7 +451,6 @@ He would have ruffed the third \C, before you could discard a \S loser from your
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 10}
 {[show NS]
 
 South is to play 4\S. West leads the \CJ.
@@ -507,7 +497,6 @@ When you need to do something else first - in this case, to establish a \Ds winn
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 11}
 {[show NS]
 
 South is to play 4\H. West leads the \SK, taken by dummy's \SA.
@@ -558,7 +547,6 @@ For a Dummy Reversal to work you usually have to have a decent trump split.}
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 12}
 {[show NS]
 
 South is to play 4\H. West leads the \DK.
@@ -605,7 +593,6 @@ Playing a \C from your hand at the second trick WILL work.}
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 13}
 {[show NS]
 
 South is to play 4\H. West leads the \CK which you win with dummy's \CA.
@@ -654,7 +641,6 @@ Did you notice that West is a pretty good defender? Playing the \DQ on the third
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 14}
 {[show NS]
 
 South is to play 4\S. West leads the \HA, then the \HK, then ! H10.
@@ -697,7 +683,6 @@ But, it was a good plan because dummy held the \S9. Keep that in mind when you l
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 15}
 {[show NS]
 
 This is identical to Deal 14 except dummy has the \S4 in place of the \S9. South is to play 4\S. West leads the \HA, then the \HK, then ! H10.
@@ -744,7 +729,6 @@ But you also had to be extremely clever to pull it off. This is probably the har
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 16}
 {[show NS]
 
 South is to play 4\S. West leads the \CK.
@@ -795,7 +779,6 @@ pass 1H pass 2H pass 4H pass pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 17}
 {[show NS]
 
 South is to play 4\H. West leads the \H3.
@@ -842,7 +825,6 @@ pass 1S pass 1NT pass 4S pass pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 18}
 {[show NS]
 
 
@@ -881,7 +863,6 @@ Just remember to always pull trumps immediately . . .
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 19}
 {[show NS]
 
 North's 6\H response to Blackwood showed one Ace and a \S void. South is to play 6\H. West leads the \SQ.
@@ -928,7 +909,6 @@ When you have a trump loser but still need to pull their trumps, it may be bette
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Baker Trumpmgmt 20}
 {[show NS]
 
 Agreed that the bidding wasn't much. The final contract is still a good one. South is to play 6\H. West leads the \SJ.

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-TwoClub
 [Event "Baker Bridge - Strong Two-Club Openings"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 1}
 {[show NS]
 NORTH has a perfect hand for an opening bid of 2\C. 
 23 points and balanced distribution is just fine.
@@ -48,7 +47,6 @@ SOUTH does not have to bid the double negative over a 2NT bid, so he passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 2}
 {[show NS]
 SOUTH has a balanced hand with 22 points. He opens 2\C.
  
@@ -78,7 +76,6 @@ NORTH bids 3NT, knowing that the partnership holds at least 27 points.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 3}
 {[show NS]
 NORTH opens 2\C with her balanced 22 points.
  
@@ -112,7 +109,6 @@ bids 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 4}
 {[show NS]
 SOUTH has 23 points and opens 2\C.
  
@@ -145,7 +141,6 @@ bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 5}
 {[show NS]
 NORTH has lots of points - 26 to be exact. She opens 2\C. 
 In the old days this hand would have been opened 3NT.
@@ -178,7 +173,6 @@ SOUTH knows there is no slam, so he passes 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 6}
 {[show NS]
 SOUTH has 22 points and opens 2\C.
  
@@ -214,7 +208,6 @@ SOUTH rebids his suit, 3\H, and NORTH passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 7}
 {[show NS]
 NORTH has a nice 2\C opening hand.
  
@@ -247,7 +240,6 @@ When SOUTH shows one Ace NORTH bids 6\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 8}
 {[show NS]
 SOUTH opens 2\C and is pleased when NORTH makes a positive response of 2\S. 
 His first step is to set the trump suit by bidding 3\S. There is NO chance that NORTH will pass.
@@ -278,7 +270,6 @@ bids 7\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 9}
 {[show NS]
 NORTH has a minimum 2\C opening.
  
@@ -312,7 +303,6 @@ to 4\S which NORTH passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 10}
 {[show NS]
 SOUTH, with 22 points and balanced, opens 2\C, expecting to rebid 2NT.
  
@@ -340,7 +330,6 @@ SOUTH bids what his hand is worth, 3NT and NORTH passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 11}
 {[show NS]
 NORTH opens 2\C and SOUTH responds 2\D showing fewer than 8 points.
  
@@ -373,7 +362,6 @@ So NORTH shows her 4-card \H suit and SOUTH bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 12}
 {[show NS]
 NORTH has a balanced hand with 11 points, so she responds 2NT to SOUTH's 2\C opening bid.
  
@@ -401,7 +389,6 @@ NORTH knows the side has at least 33 points, but no more than 35 so she bids 6NT
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 13}
 {[show NS]
 NORTH has both Majors and enough points to open 2\C. 
 SOUTH, with 4 points, responds with a negative 2\D.
@@ -435,7 +422,6 @@ SOUTH is happy to bid the game in \Hs.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 14}
 {[show NS]
 SOUTH has a balanced hand with 23 points. He opens 2\C and expects to rebid 2NT.
  
@@ -468,7 +454,6 @@ NORTH bids 6NT, knowing that the partnership holds at least 34 points.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 15}
 {[show NS]
 SOUTH, with 9 points and a 5-card suit, should make a positive response, 2\S.
  
@@ -498,7 +483,6 @@ NORTH thinks there is a slam, so she invokes Blackwood. Hearing that SOUTH holds
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 16}
 {[show NS]
 NORTH has 5 points, so she responds 2\D to SOUTH's opening 2\C bid.
  
@@ -530,7 +514,6 @@ SOUTH doesn't have enough to think about slam, so he signs off at 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 17}
 {[show NS]
 NORTH opens 2\C with her balanced 25 points.
  
@@ -559,7 +542,6 @@ NORTH figures SOUTH for 8 points and bids 6NT. If SOUTH has significantly more t
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 18}
 {[show NS]
 SOUTH opens 2\C and NORTH, with 8 points should bid 2\H. 
  
@@ -592,7 +574,6 @@ good, he might bid 6NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 19}
 {[show NS]
 After NORTH's 2\C opening, SOUTH bids 2NT, showing a balanced hand of at least 8 points. SOUTH 
 actually has 12 points, but the time to show the extra strength will be later.
@@ -622,7 +603,6 @@ Now SOUTH adds his 12 points to NORTH's 22 minimum and gets 34. He bids 6\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 20}
 {[show NS]
 NORTH has 3 points, so she responds 2\D to SOUTH's opening 2\C bid, 
 then bids 3\C as a second-negative when SOUTH bids 2\S.
@@ -648,7 +628,6 @@ and bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 21}
 {[show NS]
 NORTH expected to open 2\C, then bid 2NT at her second turn.
  
@@ -677,7 +656,6 @@ Since NORTH has just the 8 points minimum that he promised, he passes 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 22}
 {[show NS]
 SOUTH has a balanced 23-point hand. He opens 2\C.
  
@@ -713,7 +691,6 @@ When SOUTH shows his \S suit NORTH bids 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 23}
 {[show NS]
 NORTH opens 2\C.
  
@@ -747,7 +724,6 @@ Next NORTH should ask for Kings, and when SOUTH shows one King NORTH should bid 
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{Baker Partnership-TwoClub 24}
 {[show NS]
 When SOUTH opens 2\C NORTH has enough strength (9 points) for a positive response. But, 
 because her suit is \Ds, she must jump to 3\D.

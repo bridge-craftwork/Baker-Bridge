@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Stayman
 [Event "Baker Bridge - Stayman"]
@@ -17,7 +17,6 @@
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 1}
 {[show S]
 
 North opens 1NT. What do you respond? [BID pass]
@@ -46,7 +45,6 @@ It is far too risky to play for that possibility. So you just pass.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 2}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -79,7 +77,6 @@ He has a maximum and he bids 3NT.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 3}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -112,7 +109,6 @@ There is really no right or wrong here, between 3\S and 4\S. Those extra 10's an
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 4}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -143,7 +139,6 @@ Partner doesn't have a 4-card Major so your side doesn't have an 8-card Major fi
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 5}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -176,7 +171,6 @@ You bid 4\S.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 6}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -209,7 +203,6 @@ There is a lot to be said for bidding 6NT immediately. You could ask for Aces if
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 7}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -244,7 +237,6 @@ Missing one Ace you bid 6\H.}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 8}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -275,7 +267,6 @@ That is why you used Stayman - to uncover a 4-4 Major suit fit. Having done so y
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 9}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -308,7 +299,6 @@ If partner had just 2 \Ss he would have bid 3NT. Since he has 3 \Ss he bids 4\S.
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 10}
 {[show S]
 
 North opens 1NT. What do you say? [BID 2\C]
@@ -341,7 +331,6 @@ Yes, but you already knew you had an 8-card \H fit since partner's 1NT promised 
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 11}
 {[show S]
 
 This is the follow-up to Deal 10. North opens 1NT. What do you respond? [BID 2\C]
@@ -374,7 +363,6 @@ In this case the strong hand does not become declarer, but the contract is the r
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 12}
 {[show S]
 
 You open 1NT and partner responds 2\C. What do you bid? [BID 2\S]
@@ -405,7 +393,6 @@ Partner evidently has 4 \Hs. He also evidently has about 9 points since he is IN
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 13}
 {[show S]
 
 You open 1NT and partner responds 2\C. What do you bid? [BID 2\D]
@@ -436,7 +423,6 @@ Partner seems to have about 9 points and is inviting you to say 3NT. Since you h
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 14}
 {[show S]
 
 You open 1NT and partner responds 2\C. What do you bid? [BID 2\S]
@@ -467,7 +453,6 @@ Considering the bidding you have done so far you couldn't have a worse hand. Wit
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 15}
 {[show S]
 
 You open 1NT and partner responds 2\C. What do you bid? [BID 2\H]
@@ -498,7 +483,6 @@ Partner has told you he has 4 \Hs and approximately 9 points. Add that to your 4
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 16}
 {[show S]
 
 You open 1NT and partner responds 2\C. What do you bid? [BID 2\H]
@@ -529,7 +513,6 @@ Partner would never bid Stayman without a 4-card Major. Since he did not like yo
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 17}
 {[show S]
 
 You open 1NT and partner responds 2\C. What do you bid? [BID 2\D]
@@ -560,7 +543,6 @@ Partner has described a hand with 4 \Ss and 5 \Hs. You don't know his strength b
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 18}
 {[show S]
 
 You open 1NT and partner responds 2\C. What do you bid? [BID 2\D]
@@ -591,7 +573,6 @@ Partner knows you do not have 4 \Hs, but he bid the suit anyway. He must have 5 
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 19}
 {[show S]
 
 With a balanced 20 points you open 2NT and partner responds 3\C. What do you bid? [BID 3\D]
@@ -622,7 +603,6 @@ Partner is showing 5 \Ss and 4 \Hs. In neither case would you have the 8-card fi
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 20}
 {[show S]
 
 You open 2NT and partner responds 3\C. What do you bid? [BID 3\H]
@@ -655,7 +635,6 @@ If you want to make yourself happy you use Stayman, just imagine playing 3NT aft
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 21}
 {[show S]
 
 North opens 2NT. What do you respond? [BID 3\C]
@@ -688,7 +667,6 @@ Good thing it's being played by North, right?}
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 22}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 2\C]
@@ -719,7 +697,6 @@ What's next is your PASS. And if he had bid 2\S you also would have passed. And 
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 23}
 {[show S]
 
 North opens 1NT. What do you respond? [BID 3NT]
@@ -748,7 +725,6 @@ pass 1NT pass 2C 2S pass pass 3NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 24}
 {[show S]
 
 After you open 1NT partner bids 2\C, then East says 2\S. What do you say next? [BID pass]
@@ -779,7 +755,6 @@ Pass, then "Thank you partner" when dummy comes down. The thing to remember is t
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{Baker Stayman 25}
 {[show S]
 
 North opens 1NT and East overcalls 2\D. What do you say? [BID 3\D]

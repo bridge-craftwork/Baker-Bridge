@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Leben
 [Event "Baker Bridge - Lebensohl"]
@@ -17,7 +17,6 @@
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -44,7 +43,6 @@ With lebensohl you can do the same thing, so you bid 2\S and partner passes.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\S]
@@ -71,7 +69,6 @@ With 3-card support you are happy to bid 4\S.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -98,7 +95,6 @@ Partner has 3-card support and is happy to bid game in that suit.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -125,7 +121,6 @@ So even with your great support and maximum hand, you pass.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -156,7 +151,6 @@ With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -185,7 +179,6 @@ Partner then bids 4\H which you pass.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -216,7 +209,6 @@ NOW you can bid 3\D, which partner passes.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -247,7 +239,6 @@ How about . . . . pass? Partner just signed off with this sequence. He couldn't 
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\S]
@@ -274,7 +265,6 @@ Partner says 4\H and you pass.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -299,7 +289,6 @@ Partner has promised at least a 5-card \D suit, and game-forcing strength. With 
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 11}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -330,7 +319,6 @@ NOW you cue-bid 3\S. This is Stayman, but with a \S stopper, (SLOW SHOWS). Partn
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 12}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -363,7 +351,6 @@ With no 4-card Major of your own, you pick 3NT.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 13}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
@@ -392,7 +379,6 @@ Partner does have them stopped so he passes.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 14}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
@@ -423,7 +409,6 @@ Partner's bidding shows a hand with which he would have bid 3NT without the over
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 15}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -454,7 +439,6 @@ You now complete the picture of your hand by bidding 3NT. (SLOW SHOWS). Partner 
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 16}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -481,7 +465,6 @@ Since you trust your partner, you pass.}
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 17}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
@@ -512,7 +495,6 @@ Now you bid 3\H. Partner will realize you have better than a sign-off, but were 
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 18}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\C]
@@ -539,7 +521,6 @@ You don't have 4 \Ss, nor can you stop \Hs. You have no choice but to bid one of
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 19}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID double]
@@ -566,7 +547,6 @@ However you should look for an even bigger reward by doubling. East is in seriou
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Baker Leben 20}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]

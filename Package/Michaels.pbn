@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Michaels
 [Event "Baker Bridge - Michaels / Unusual NT"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 1}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\D]
@@ -48,7 +47,6 @@ You have a rather minimum Michaels type hand and you asked partner to choose a M
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 2}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\H]
@@ -75,7 +73,6 @@ You have a fair hand with a guaranteed 8-card fit in either Major. You are not, 
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 3}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2NT]
@@ -106,7 +103,6 @@ As mentioned, you have a pretty good hand, but partner only bid because you forc
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 4}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3\D]
@@ -133,7 +129,6 @@ Your best suit is \Hs. But partner didn't ask you to bid \Hs, he asked you to pi
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 5}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\S]
@@ -164,7 +159,6 @@ Partner's jump might indicate he has a really good hand, or he might just have a
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 6}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3NT]
@@ -191,7 +185,6 @@ You have no idea what you can make with this hand. Slam in one of the minors may
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 7}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2NT]
@@ -224,7 +217,6 @@ As you can see, IF they open the lead with a \C, and IF the \H finesse then work
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 8}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3\S]
@@ -255,7 +247,6 @@ You will surely make this game if trumps split 2-2. If they don't then you will 
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 9}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\S]
@@ -286,7 +277,6 @@ Is it possible that partner wants to play Notrump? Not at all. He hates \Hs and 
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 10}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3\D]
@@ -317,7 +307,6 @@ If you say to yourself "I only have 7 HCP" then you might pass. But if you say "
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 11}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 1\S]
@@ -348,7 +337,6 @@ Partner's cue-bid shows a limit-raise or better in \Ss. So you bid 4\S without t
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 12}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2NT]
@@ -379,7 +367,6 @@ Partner only made a minimum bid, so you have no choice but to pass.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 13}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\D]
@@ -410,7 +397,6 @@ Yes, you have a high-level Michaels hand but don't get carried away. Remember th
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 14}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3\S]
@@ -437,7 +423,6 @@ Partner wants you to bid \Hs or \Ds. You figure that in either of the red suits 
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 15}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\C]
@@ -470,7 +455,6 @@ Will you look at that. Partner has only 2 points, but what great ones to have!}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 16}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 4\H]
@@ -497,7 +481,6 @@ Partner has 5 of each Major suit so you know of a good 9-card \H fit. You have a
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 17}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2NT]
@@ -528,7 +511,6 @@ Partner apparently has a big hand. His cue-bid is forcing, and probably means he
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 18}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID pass]
@@ -555,7 +537,6 @@ Many times at Bridge you want to fight for the contract. This isn't one of them.
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 19}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 2\D]
@@ -586,7 +567,6 @@ This wasn't according to your script. Partner was supposed to choose a Major. Th
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
-{Baker Michaels 20}
 {[show S]
 
 The bidding has been as shown. It is your bid. What do you say? [BID 3\S]

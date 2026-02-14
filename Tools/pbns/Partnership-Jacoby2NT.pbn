@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-Jacoby2NT
 [Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
@@ -17,7 +17,6 @@
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 1}
 {[show NS]
 SOUTH's 2NT bid is Jacoby, showing a game-forcing \H raise.
  
@@ -41,7 +40,6 @@ NORTH has a minimum opening hand with nothing extra to show, so signs off at 4\H
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 2}
 {[show NS]
 NORTH's 2NT response is Jacoby - a game forcing \S raise.
  
@@ -70,7 +68,6 @@ NORTH cannot make any positive move, so she bids 4\S which SOUTH passes.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 3}
 {[show NS]
 Following SOUTH's Jacoby 2NT, NORTH bids 3\S. This is stronger than 4\S and 
 shows a 6-card suit.
@@ -95,7 +92,6 @@ SOUTH has already bid the full strength of his hand so he signs off with 4\S whi
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 4}
 {[show NS]
 The 3\C bid shows a singleton / void in \Cs.
  
@@ -125,7 +121,6 @@ and he knows that NORTH doesn't have first-round control. He bids 4\S and NORTH 
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 5}
 {[show NS]
 This is the companion to Deal 4.
  
@@ -155,7 +150,6 @@ Blackwood to check for Aces, then bids 6\S.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 6}
 {[show NS]
 SOUTH's 3\H rebid shows better than average strength and six trumps.
  
@@ -181,7 +175,6 @@ and stop at 5\H if he has just one. If South has no Aces NORTH will get a new pa
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 7}
 {[show NS]
 NORTH indicates an above normal opening with five \Ss by her 3NT rebid.
  
@@ -211,7 +204,6 @@ Control bid of 4\H denied first-round control in both \Cs and
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 8}
 {[show NS]
 SOUTH has a minimum opening hand with no extra features to brag about.
 So after NORTH's Jacoby 2NT bid he merely signs off at 4\S.
@@ -237,7 +229,6 @@ to initiate the investigation herself.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 9}
 {[show NS]
 SOUTH's 4\C is a Splinter bid. 
 He promises 13+ points, at least four \Hs and a singleton or void in \Cs.
@@ -263,7 +254,6 @@ it does nothing to help the value of her hand. So she bids the \H game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 10}
 {[show NS]
 SOUTH bids 3\S to show the 6-card suit plus some extra strength.
  
@@ -293,7 +283,6 @@ So SOUTH settles for game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 11}
 {[show NS]
 NORTH's 3\H bid shows extra strength and a 6-trump hand.
  
@@ -317,7 +306,6 @@ The next three bids are all Control-showing cue bids.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 12}
 {[show NS]
 SOUTH shows extra strength / five trumps. 
 4\C and 4\H are Control-showing bids. 
@@ -343,7 +331,6 @@ Blackwood just to make certain SOUTH holds the trump Ace.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 13}
 {[show NS]
 SOUTH's 3\S bid, a double-jump, is a Splinter bid. It shows game-forcing strength, at 
 least four cards in partner's suit, and a singleton or void in the Splintered suit.
@@ -369,7 +356,6 @@ she had just one \S loser anyway. She signs off in 4\H.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 14}
 {[show NS]
 This is a companion hand to Deal 13.
  
@@ -396,7 +382,6 @@ uses Blackwood to make sure SOUTH also has the trump Ace.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 15}
 {[show NS]
 SOUTH has 13 points and good 3-card support for NORTH's 1\H opening bid. 
 But he should not bid 2NT since that bid promises 4+ cards in support. South must still insure 
@@ -424,7 +409,6 @@ NOTE: if you used Jacoby 2NT and reached the 4\H game, give yourself credit anyw
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 16}
 {[show NS]
 SOUTH bids 3\S to show a strong hand with a singleton \S. 
  
@@ -452,7 +436,6 @@ When Blackwood reveals just two Aces in NORTH, SOUTH stops at 5\H.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 17}
 {[show NS]
 NORTH bids 4\C after SOUTH's Jacoby 2NT. The reason for this bid is just to describe 
 her hand as having a side 5-card \C suit. NORTH knows the eventual contract will 
@@ -480,7 +463,6 @@ just bids 4\H.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 18}
 {[show NS]
 NORTH should not be tempted to use Jacoby 2NT with this hand. There are only 12 points, and 
 the Limit Raise is a perfect way to show a 12 point support hand.
@@ -507,7 +489,6 @@ and perhaps gotten too high.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 19}
 {[show NS]
 NORTH bids 3NT to show a good hand with five \Ss.
  
@@ -536,7 +517,6 @@ A final check with Blackwood shows two Aces missing. Too bad.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 20}
 {[show NS]
 SOUTH shows his 6-card \S suit by bidding 3\S.
  
@@ -565,7 +545,6 @@ So they stop in game.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 21}
 {[show NS]
 SOUTH might just use Jacoby 2NT since he has great \H support and 
 more than 13 points. But, he has so much more than 13 points that he should inform partner by 
@@ -596,7 +575,6 @@ It didn't matter, slam is cold in either Major.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 22}
 {[show NS]
 NORTH might jump-shift, but with no 5-card suit prefers to use Jacoby 2NT.
  
@@ -627,7 +605,6 @@ out any \C losers.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 23}
 {[show NS]
 SOUTH bids 4\C, showing \H support, 13+ points and a singleton 
 or void in \Cs.
@@ -657,7 +634,6 @@ SOUTH finally gets inspired and bids the slam.}
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{Baker Partnership-Jacoby2NT 24}
 {[show NS]
 NORTH has a very minimum 2NT bid, but when SOUTH shows \C shortness she can Control-bid 
 her \HA without showing extra values.

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 100Deals
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
@@ -17,7 +17,6 @@
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 1}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -69,7 +68,6 @@ But even with this type of hand you should make sure you take them in the right 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 2}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -122,7 +120,6 @@ pass 1NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 3}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -176,7 +173,6 @@ This wasn't one of those times.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 4}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -225,7 +221,6 @@ pass 1NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 5}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -270,7 +265,6 @@ You can see what could have happened if you had tried to sneak even one \S trick
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 6}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID pass]
@@ -323,7 +317,6 @@ What would you try next? A \S finesse? Whether West took his \SK right then or l
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 7}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 4\H]
@@ -374,7 +367,6 @@ pass 1C pass 1D pass 1NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 8}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID pass]
@@ -429,7 +421,6 @@ You might think if you could just sneak one \C through you wouldn't have to depe
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 9}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 3\H]
@@ -490,7 +481,6 @@ Using the correct Plan guarantees the contract however \Hs split.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 10}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -551,7 +541,6 @@ pass 1NT pass 2NT pass 3NT pass pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 11}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -600,7 +589,6 @@ As you can see your plan was the only way to make the contract.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 12}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\C]
@@ -659,7 +647,6 @@ If you had just played the \Cs from the top you would have made an overtrick whe
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 13}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -716,7 +703,6 @@ But if your second \S play is a small \S East will win the \SK and you will be l
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 14}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID.
@@ -771,7 +757,6 @@ As you can see, if you don't play the \Hs as suggested East can prevent you from
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 15}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -820,7 +805,6 @@ Make sure you visualize how the play would have gone if you had played a trump t
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 16}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\C]
@@ -885,7 +869,6 @@ pass 1C pass 1S pass 2NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 17}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\C]
@@ -936,7 +919,6 @@ Notice that if West was the one who had the \DA then you would go down despite y
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 18}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -987,7 +969,6 @@ This was a perfect example. After the opening lead it was easy to deduce that al
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 19}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -1046,7 +1027,6 @@ But that would have been all for nothing if South had not found the PLAN to make
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 20}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID pass]
@@ -1103,7 +1083,6 @@ pass 2C pass 2D pass 2S pass 2NT pass 3S pass 4S pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 21}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\C]
@@ -1164,7 +1143,6 @@ You would have played \CA, \C K, then a small \C to dummy's \CJ. East would ruff
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 22}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -1219,7 +1197,6 @@ You were a little lucky that the defender who got the ruff, East, was the one wh
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 23}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\D]
@@ -1268,7 +1245,6 @@ The best thing about this plan is that when you test the \Ds, if it turns out th
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 24}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -1327,7 +1303,6 @@ A slightly different Plan would also have worked. At trick two you could have pl
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 25}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID pass]
@@ -1374,7 +1349,6 @@ East would have used his master \SQ to ruff the second \C, before you had taken 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 26}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID pass]
@@ -1429,7 +1403,6 @@ Only if you establish your \Hs can you set up a winner for YOU without giving th
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 27}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -1480,7 +1453,6 @@ Notice this. You cannot fault West for his opening lead, top of an honor sequenc
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 28}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -1531,7 +1503,6 @@ pass 1D pass 1H pass 1NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 29}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\D]
@@ -1586,7 +1557,6 @@ Suppose you held up until the third \C. When East won the \DK  here he had a fou
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 30}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -1643,7 +1613,6 @@ But did you notice that West made a bad play? He should have cashed his \HA befo
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 31}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -1704,7 +1673,6 @@ pass 1NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 32}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -1753,7 +1721,6 @@ pass 1C pass 3C pass 5C pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 33}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\C]
@@ -1810,7 +1777,6 @@ pass 1H pass 3H pass 4NT pass 5C pass 5H pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 34}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -1861,7 +1827,6 @@ Imagine what the defense will do if you lead a round of trumps. Then imagine wha
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 35}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\D]
@@ -1910,7 +1875,6 @@ When East holds the \SK you can always get 3 \S tricks if you play correctly. }
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 36}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 4\S]
@@ -1965,7 +1929,6 @@ This is untrue for a very classy-named reason - The Principle of Restricted Choi
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 37}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -2022,7 +1985,6 @@ Since you would only have one more honor you'd be bound to lose a trick.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 38}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -2073,7 +2035,6 @@ With the holdup it didn't matter which red suit you established first.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 39}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID pass]
@@ -2126,7 +2087,6 @@ It costs nothing to make a careful play. Most of the time it doesn't matter, but
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 40}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID pass]
@@ -2179,7 +2139,6 @@ Some contracts are impossible. So you just play to keep the damage as low as pos
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 41}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2NT]
@@ -2228,7 +2187,6 @@ East would have won and played a \H, removing your second stopper. When \Cs did 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 42}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -2275,7 +2233,6 @@ Some would go down on this hand when they ruffed the first \S with dummy's \H3 a
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 43}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\C]
@@ -2330,7 +2287,6 @@ pass 1D pass 1H pass 2NT pass 3D pass 3NT pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 44}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\D]
@@ -2391,7 +2347,6 @@ Correctly played you would lead a \H honor to establish one trick in the suit an
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 45}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -2438,7 +2393,6 @@ Ruffing with the \SQ might cost a trick if the \Ss split 4-1 and East did not ha
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 46}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\D]
@@ -2487,7 +2441,6 @@ pass 1D pass 2C pass 2NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 47}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\D]
@@ -2536,7 +2489,6 @@ pass pass pass 1S 2H 4S pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 48}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -2581,7 +2533,6 @@ You have to listen to the bidding and draw conclusions from what is bid - and no
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 49}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -2634,7 +2585,6 @@ You cannot make 10 tricks unless West's opening lead is a \S. }
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 50}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -2701,7 +2651,6 @@ In this hand you could not be defeated unless the \Ds split 5-1.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 51}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 4\H]
@@ -2760,7 +2709,6 @@ But did you see there is another way to reach your hand? You could play \SA then
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 52}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\S]
@@ -2821,7 +2769,6 @@ Look at what would have happened if you had led a trump at trick 2. East could h
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 53}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\C]
@@ -2872,7 +2819,6 @@ If you did not have the \SJ you would never consider doing anything except hold 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 54}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -2929,7 +2875,6 @@ In this deal pulling trumps is secondary to finding a place for that slow \D los
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 55}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -2976,7 +2921,6 @@ But you should still ask yourself if there is some distribution that will allow 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 56}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -3027,7 +2971,6 @@ Be on the lookout for this type of situation because many times you have a fines
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 57}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 3\H]
@@ -3076,7 +3019,6 @@ To make sure the \SA didn't disappear you had to hold it until East no longer ha
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 58}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2NT]
@@ -3131,7 +3073,6 @@ You must abandon \Cs temporarily and take the \D finesse. You take your good \Ds
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 59}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 6NT]
@@ -3188,7 +3129,6 @@ Here the \D finesse was one possibility, but by ducking a \H you could test the 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 60}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -3242,7 +3182,6 @@ But in this deal the ruffing finesse is the only Plan that works. }
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 61}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\C]
@@ -3307,7 +3246,6 @@ To prove that only the original \H9 play will work . . VISUALIZE:
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 62}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2NT]
@@ -3360,7 +3298,6 @@ All else being equal, it's a good guideline. But sometimes all else ISN'T equal,
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 63}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\D]
@@ -3419,7 +3356,6 @@ So you couldn't ruff the third \C at all, you had to discard it on something. An
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 64}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\C]
@@ -3478,7 +3414,6 @@ It made no difference in tricks whether you ruffed the third or fourth \C so tha
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 65}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 3\C]
@@ -3541,7 +3476,6 @@ The second part is figuring out that the \S suit could provide them.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 66}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -3598,7 +3532,6 @@ Notice that the Danger Hand WAS on lead at one point - the opening lead. If West
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 67}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2NT]
@@ -3661,7 +3594,6 @@ In this case dummy had a certain entry in the \D suit so you take advantage of t
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 68}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\H]
@@ -3724,7 +3656,6 @@ Often, like in this deal, you can discard a loser instead.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 69}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 3\C]
@@ -3789,7 +3720,6 @@ The choice between a single finesse and a double finesse is one that you will fa
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 70}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 5\C]
@@ -3850,7 +3780,6 @@ The key play was dumping the \S on your \DK rather than a \H.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 71}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -3907,7 +3836,6 @@ And you couldn't get the \D ruff until after you had forced out the \DA.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 72}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\S]
@@ -3958,7 +3886,6 @@ If you tried that East would have won his \SQ, then played another \S. That woul
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 73}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -4011,7 +3938,6 @@ Any other plan that was based on West holding the \DK would work ALMOST 50% of t
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 74}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 3\H]
@@ -4068,7 +3994,6 @@ Set up the \D winner before you take the \H finesse and you will always be able 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 75}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -4125,7 +4050,6 @@ West's lead of the \D2 should have made you pretty sure that he had led from a 4
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 76}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -4182,7 +4106,6 @@ If you decided to play for trumps to split 2-2 so you could use the \S8 as an en
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 77}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -4235,7 +4158,6 @@ Then think about how to keep East from getting the lead - in this case holding u
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 78}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 3\S]
@@ -4294,7 +4216,6 @@ A very important part of this Plan was where you chose to win the first trick. S
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 79}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -4347,7 +4268,6 @@ pass 1NT pass 2NT pass 3NT pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 80}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -4410,7 +4330,6 @@ Notice that West cannot prevent you from reaching dummy with the \S Q J.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 81}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -4465,7 +4384,6 @@ If you hadn't been able to find that extra entry you would have had no choice bu
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 82}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -4518,7 +4436,6 @@ The percentages are right but the logic is wrong. If you are going to benefit fr
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 83}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -4581,7 +4498,6 @@ This deal is a good example of that principle.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 84}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -4648,7 +4564,6 @@ The same general plan, but with slightly different details, applies with all ope
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 85}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\D]
@@ -4717,7 +4632,6 @@ But there was no other choice so you have to try it. }
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 86}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -4768,7 +4682,6 @@ The problem is that East would have over-ruffed the \H9 and then played another 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 87}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -4827,7 +4740,6 @@ This will happen about 75% of the time, so the double finesse is a good Plan. An
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 88}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -4888,7 +4800,6 @@ So you won that trick and still had your \CQ to use after you pulled trumps.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 89}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 4\H]
@@ -4939,7 +4850,6 @@ Fortunately that occurs a high percentage of the time. In any case, there was no
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 90}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 4NT]
@@ -5000,7 +4910,6 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 91}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -5057,7 +4966,6 @@ With the \S Q J instead you just have to take care with entries. (Make that entr
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 92}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]
@@ -5112,7 +5020,6 @@ And with any cross-ruff it is best to pull as many trumps as you can spare befor
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 93}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\H]
@@ -5173,7 +5080,6 @@ The only time it is a mistake is when West holds the \H K Q and East holds the !
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 94}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\H]
@@ -5232,7 +5138,6 @@ pass 1C pass 1S pass 1NT pass 3NT pass pass pass pass pass
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 95}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\C]
@@ -5281,7 +5186,6 @@ This was a very difficult hand.}
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 96}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 2\C]
@@ -5342,7 +5246,6 @@ If instead you decide to lead a \S to dummy's \SJ and lead a \H toward your \HK 
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 97}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 4\H]
@@ -5395,7 +5298,6 @@ You must modify the Plan a little bit. Now your only hope is that West still hol
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 98}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 3\H]
@@ -5446,7 +5348,6 @@ But you don't want to get into the habit of doing what is USUALLY good without t
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 99}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1NT]
@@ -5497,7 +5398,6 @@ Notice how strange this game can be. If your holding was \S K 2 rather than \S K
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Baker 100Deals 100}
 {[show S]
 
 You are South and it is your bid. Decide what you would say, then click on BID. [BID 1\S]

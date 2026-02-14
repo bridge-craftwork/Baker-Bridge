@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 2Club
 [Event "Baker Bridge - Strong 2C Bids"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 1}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -48,7 +47,6 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -79,7 +77,6 @@ This isn't as clear-cut a decision as you might think at first. Partner is showi
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 3}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -110,7 +107,6 @@ You have 26 points and no 5-card suit. Since your hand is balanced you bid 3NT. 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -141,7 +137,6 @@ True, 4 points isn't much. But added to partner's 22-24 it becomes enough for a 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 5}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -176,7 +171,6 @@ Partner has between 3 and 7 points. Somewhere in those points might be the one t
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -207,7 +201,6 @@ For someone who made an initial Negative response you have quite a good hand. Yo
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 7}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -238,7 +231,6 @@ You have 22 points and 5-card Major suit. Your rebid is therefore 2\S. Partner r
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -273,7 +265,6 @@ Knowing of the 4-4 fit you bid 4\H. By the way: Partner knew your 3\C bid was no
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 9}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -308,7 +299,6 @@ Partner's 2NT shows scattered values and fewer than 3 \Hs. He has 3 or more poin
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
@@ -339,7 +329,6 @@ Hmmm, 22-24 balanced, plus 11 balanced equals 33-35 balanced. It makes you think
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 11}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -374,7 +363,6 @@ No, you still may not pass. First, because partner's bid of a new suit is forcin
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 12}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -409,7 +397,6 @@ You definitely pass. Good thing he has 9 cold tricks in his hand!}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 13}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -448,7 +435,6 @@ You now say 6\H and lay down a great dummy.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 14}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\S]
@@ -479,7 +465,6 @@ You told him that you have 8 or more points, now you must tell him that it is on
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 15}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -510,7 +495,6 @@ You show your balanced minimum by bidding 3NT, leaving further moves to partner.
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 16}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
@@ -541,7 +525,6 @@ Hmmm, 22-24 points added to your 16 comes to 38-40 points. Looking apologeticall
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 17}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -576,7 +559,6 @@ Partner is not introducing a new suit here, you have already agreed on \Hs. He i
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 18}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
@@ -611,7 +593,6 @@ You know there are enough points for game so you must keep bidding. You should b
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 19}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
@@ -646,7 +627,6 @@ Obviously you could bid 7\S. But in fact you can count that there will be thirte
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{Baker 2Club 20}
 {[show S]
 
 The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]

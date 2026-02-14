@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Finesse
 [Event "Baker Bridge - Finessing"]
@@ -17,7 +17,6 @@
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 1}
 {[show NS]
 
 South is to play 3NT. West leads the \HQ.
@@ -73,7 +72,6 @@ A Simple Finesse has only a 50% success rate. That's why we only take finesses a
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 2}
 {[show NS]
 
 South is to play 3NT. West leads the \D3.
@@ -118,7 +116,6 @@ pass pass 2NT pass 3C pass 3D pass 3NT pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 3}
 {[show NS]
 
 South is to play 3NT. West leads the \HQ.
@@ -165,7 +162,6 @@ Welcome to the real world.}
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 4}
 {[show NS]
 
 South is to play 4\H. West leads the \SK.
@@ -214,7 +210,6 @@ The risk was worthwhile though since it gave you your only chance of making the 
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 5}
 {[show NS]
 
 South is to play 6NT. West leads the \S3.
@@ -274,7 +269,6 @@ The double \C finesse is much better because its success depends on West holding
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 6}
 {[show NS]
 
 South is to play 4\S. West leads the \DK.
@@ -321,7 +315,6 @@ But as you can see, only the \C finesse will actually save you a trick.}
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 7}
 {[show NS]
 
 South is to play 6\S. West leads the \HK.
@@ -370,7 +363,6 @@ But they are easy to overlook, mainly because we don't use them often.}
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 8}
 {[show NS]
 
 South is to play 3NT. West leads the \DK.
@@ -421,7 +413,6 @@ Sometimes that may be right. But there are other times when information from the
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 9}
 {[show NS]
 
 South is to play 4\S. West leads the \H5. The defense wins 3 \H tricks, then switches to a \D.
@@ -470,7 +461,6 @@ pass 1H pass 1NT pass 4H pass pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 10}
 {[show NS]
 
 South is to play 4\H. West leads the \DA. The defenders take two \D tricks, then switch to a trump.
@@ -521,7 +511,6 @@ pass 1D pass 2D pass 3H pass 5D pass 6D pass pass pass
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 11}
 {[show NS]
 
 South is to play 6\D. West leads the \CK.
@@ -576,7 +565,6 @@ This method of play gave you two chances instead of just one.}
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 12}
 {[show NS]
 
 South is to play 7NT. West leads the \ST.
@@ -631,7 +619,6 @@ Why not try to drop the \HQ and keep the finesse for the \CQ in reserve? Because
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 13}
 {[show NS]
 
 South is to play 3NT. West leads the \H3.
@@ -680,7 +667,6 @@ So it is basically a 50% chance.}
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 14}
 {[show NS]
 
 South is to play 4\S. West leads the \D2. The defenders win 3 \D tricks, then play a \C.
@@ -737,7 +723,6 @@ And the rewards are great.}
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 15}
 {[show NS]
 
 South is to play 3NT. West leads the \H7. East takes the \HA and returns the \H2.
@@ -792,7 +777,6 @@ But at Match Point Pairs the reward would be much greater, a probable very high 
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 16}
 {[show NS]
 
 South is to play 3NT. West leads the \HQ.
@@ -849,7 +833,6 @@ You could also have gotten 3 \S winners with this distribution.}
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 17}
 {[show NS]
 
 South is to play 3NT. West leads the \CA, then \CK, \C2. East follows once, then discards a \S and a \H.
@@ -898,7 +881,6 @@ The problem is that you might run into this very distribution. You would establi
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 18}
 {[show NS]
 
 South is to play 3NT. West leads the \DK.
@@ -951,7 +933,6 @@ pass 1NT pass 3NT pass pass pass pass pass pass
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 19}
 {[show NS]
 
 South is to play 3NT. West leads the \S5, East plays the \SQ.
@@ -1010,7 +991,6 @@ But in a situation like this you don't play odds. By finessing West you guarante
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{Baker Finesse 20}
 {[show NS]
 
 South is to play 6\S after North's Stayman bid. West leads the \HQ.

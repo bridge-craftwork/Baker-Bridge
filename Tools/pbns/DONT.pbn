@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent DONT
 [Event "Baker Bridge - DONT"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -48,7 +47,6 @@ Don't get carried away, partner isn't really bidding a \H suit as much as he is 
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 2}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -79,7 +77,6 @@ You didn't want to bid the first time, this time you definitely pass.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
@@ -110,7 +107,6 @@ Partner prefers \Ss to \Hs. Since you were bare minimum you pass.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 4}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -143,7 +139,6 @@ Since you can tolerate \Ds your safest call is pass.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID double]
@@ -174,7 +169,6 @@ Now you follow procedure by showing your 6-card suit. You bid 2\H and everybody 
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 6}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -201,7 +195,6 @@ But you don't want him to bid his 6-card suit, your hand is useless unless \Ss a
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID double]
@@ -232,7 +225,6 @@ You bid your suit, 2\H, and everybody passes. Notice that partner had a decent h
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 8}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -265,7 +257,6 @@ Your premonition came true. Partner passes and you are left playing 2\C with a s
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 9}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID double]
@@ -296,7 +287,6 @@ There is a reason partner didn't say 2\C (which you were going to pass). And the
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 10}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -325,7 +315,6 @@ So you bid 3\H and partner says 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 11}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -358,7 +347,6 @@ You bid 2\S and everybody passes.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 12}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -391,7 +379,6 @@ Still, you know he has a 6-card suit and you also know that every finesse is goi
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 13}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID double]
@@ -422,7 +409,6 @@ You say pass, of course.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 14}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -451,7 +437,6 @@ Partner corrects to 2\S, his "something else" and you pass.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 15}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -484,7 +469,6 @@ So you pass.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 16}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -517,7 +501,6 @@ You like \Hs better and don't have enough strength to think about game so you pa
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 17}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -544,7 +527,6 @@ But with the weak hand you bid 2\S instead of double. Everybody passes.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 18}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
@@ -573,7 +555,6 @@ So you pass.}
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 19}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -600,7 +581,6 @@ You do bid just 2\S though, rather than a double followed by 2\S, which would sh
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{Baker DONT 20}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]

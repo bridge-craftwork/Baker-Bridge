@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-Overcalls
 [Event "Baker Bridge - Overcalls and TakeOut Doubles"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 1}
 {[show NS]
 NORTH has an opening hand, 15 points, and a 5-card \S suit. Unfortunately WEST beat her to 
 the punch by opening 1\H.
@@ -48,7 +47,6 @@ the Overcall will not be made with more than 16 points, SOUTH just passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 2}
 {[show NS]
 SOUTH has an opening hand, 15 points and five \Ss. But EAST beat him to the punch, 
 so he overcalls 1\S. 
@@ -82,7 +80,6 @@ SOUTH actually has a strong Overcall so he bids 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 3}
 {[show NS]
 This time NORTH has just 10 points, nowhere near an opening hand. Still, when WEST opens 
 1\H NORTH should Overcall 1\S. This shows a good \S suit 
@@ -110,7 +107,6 @@ minimum type hand by passing.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 4}
 {[show NS]
 SOUTH has 15 points, a singleton in the opponent's suit and 4-card support for any suit 
 partner might name. In other words, a perfect Takeout Double.
@@ -140,7 +136,6 @@ SOUTH's hand is now worth 17 points because of the singleton. Since he is quite 
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 5}
 {[show NS]
 NORTH has 14 points, a doubleton in the opponent's \S suit and at least three cards in 
 each of the other suits. This is a normal Takeout Double.
@@ -174,7 +169,6 @@ Mercifully NORTH also passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 6}
 {[show NS]
 With 14 points, \C shortage, and support for the other suits SOUTH makes a Takeout Double.
  
@@ -205,7 +199,6 @@ SOUTH agrees with \Ss and bids game, 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 7}
 {[show NS]
 WEST's 1\H opening is passed around to SOUTH. He is 
 tempted to overcall 1\S, but with 18 points is a little strong for a mere overcall. 
@@ -240,7 +233,6 @@ NORTH raises to 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 8}
 {[show NS]
 SOUTH has 18 points, a balanced hand, and a good stopper in their suit. He should overcall 1NT. 
 For 1NT overcalls, the range is increased to 15-18 points.
@@ -267,7 +259,6 @@ since SOUTH promised he had the suit controlled.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 9}
 {[show NS]
 NORTH has 20 points, excellent \D stoppers and a balanced hand. 
 She is two points too strong to overcall 1NT. Instead, she doubles.
@@ -297,7 +288,6 @@ NORTH now bids 1NT, showing the balanced 19-21 point hand. SOUTH passes, of cour
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 10}
 {[show NS]
 SOUTH has a 19 point balanced hand, including a stop in \Hs. 
 He plans to double, then bid NT. (see Deal 9)
@@ -327,7 +317,6 @@ go ahead and bid 3NT instead.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 11}
 {[show NS]
 With a 5-card \S suit and 13 points NORTH should overcall 1\S.
  
@@ -356,7 +345,6 @@ NORTH has better than a minimum overcall so she accepts the invitation and bids 
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 12}
 {[show NS]
 SOUTH has a very minimum Takeout Double of 1\D. But what it lacks 
 in strength, it makes up for with perfect distribution.
@@ -385,7 +373,6 @@ SOUTH passes happily.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 13}
 {[show NS]
 NORTH has 18 points, a doubleton in the opponent's suit, and at least three cards in the unbid suits. 
 This is an ideal hand for a Takeout Double. 
@@ -416,7 +403,6 @@ so she bids 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 14}
 {[show NS]
 SOUTH has an opening hand, 14 points and five \Ss. But EAST beat him to the punch, 
 so he overcalls 1\S. 
@@ -448,7 +434,6 @@ he happily bids 3NT.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 15}
 {[show NS]
 NORTH has 15 points and all the requirements for a Takeout Double of 1\S.
  
@@ -478,7 +463,6 @@ makes it easy for SOUTH - he bids 4\H.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 16}
 {[show NS]
 There is only one reason that SOUTH should not overcall with 1\S. He is too strong. 
 The maximum strength of an overcall is 16 points. Above that you should double.
@@ -508,7 +492,6 @@ NORTH has fine trump support and 8 points so she bids a confident 4\S.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 17}
 {[show NS]
 NORTH has 13 points but has no bid over 1\D. 
 SOUTH can make a Takeout Double, so he does.
@@ -539,7 +522,6 @@ SOUTH shows his \C suit, NORTH likes it fine, but decides 3NT will be easier tha
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 18}
 {[show NS]
 SOUTH would have had a great opening 1\S bid. But when EAST opened 1\S 
 in front of him he was hornswaggled. He couldn't bid any other suit, he couldn't bid 1NT 
@@ -565,7 +547,6 @@ And so does everybody else pass.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 19}
 {[show NS]
 If West had passed, NORTH would have opened with a preemptive 3\S.
  
@@ -595,7 +576,6 @@ In this case, SOUTH passes.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 20}
 {[show NS]
 SOUTH has 12 points, but with two 5-card suits worthy of an overcall. There isn't really a 
 right and wrong here, but it usually works out best to overcall in the higher-ranking suit. That 
@@ -622,7 +602,6 @@ everybody should pass.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 21}
 {[show NS]
 NORTH has 13 points but she has to pass. 
 She cannot Double without support for \Hs. 
@@ -649,7 +628,6 @@ And SOUTH of course must also pass.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 22}
 {[show NS]
 SOUTH obviously has to pass when EAST opens 1\S.
  
@@ -680,7 +658,6 @@ Penalty Double.}
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 23}
 {[show NS]
 NORTH has a normal overcall of 1\S.
  
@@ -705,7 +682,6 @@ not have more than 16 points. So he just bids what he thinks NORTH can make, 4\S
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{Baker Partnership-Overcalls 24}
 {[show NS]
 SOUTH has 12 points and a good enough suit to overcall 1\H.
  

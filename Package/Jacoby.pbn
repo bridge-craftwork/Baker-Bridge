@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Jacoby
 [Event "Baker Bridge - Jacoby 2NT / Splinters"]
@@ -17,7 +17,6 @@ pass 1S pass 2NT pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 1}
 {[show S]
 
 The bidding has gone as shown. It is your bid. Decide what you would say, then click on BID above. [BID 1\S]
@@ -48,7 +47,6 @@ With a minimum hand and no singletons you bid the game immediately. Partner has 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 2}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -79,7 +77,6 @@ You couldn't hear much worse news. Partner has a singleton \H so your \H K J are
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 3}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 3\C]
@@ -112,7 +109,6 @@ You could equally have just bid 4\S yourself.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 4}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -143,7 +139,6 @@ North has some extra strength and a 5-card \S suit. This is the point in the bid
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 5}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 3\S]
@@ -174,7 +169,6 @@ Partner would have shown a red Ace if he had one. Since he doesn't have one, all
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 6}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -205,7 +199,6 @@ Partner's rebid of 4\H is not strong. He is using the Principle of Fast Arrival 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 7}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 4\D]
@@ -236,7 +229,6 @@ Partner signed off, showing a minimum, so you have nothing further to say.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 8}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -267,7 +259,6 @@ The news that partner has a singleton \D does NOT excite you. In fact it causes 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 9}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 4\C]
@@ -298,7 +289,6 @@ There isn't really anything else you want to know. You think you can make slam s
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 10}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -333,7 +323,6 @@ This is Blackwood. You respond 5\H for two Aces and partner bids the slam.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 11}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 4NT]
@@ -364,7 +353,6 @@ The three Aces does it for you. You can count 7 \S tricks, 3 \H tricks, 2 \D tri
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 12}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 3\S]
@@ -397,7 +385,6 @@ As you can see, North should make 12 tricks by discarding one \C loser on your \
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 13}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 3\S]
@@ -426,7 +413,6 @@ But he definitely has \S support. You show your minimum hand by bidding 3\S and 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 14}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -455,7 +441,6 @@ Note that in this hand the three points you credited for your \SK are completely
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 15}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 4NT]
@@ -482,7 +467,6 @@ When partner Splinters his singleton \C you should realize that the only thing t
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 16}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -513,7 +497,6 @@ Your partner has a better than minimum hand with 6 \Ss. However, you have an ave
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 17}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 4\H]
@@ -544,7 +527,6 @@ Partner is definitely showing slam interest. If you had a first round control in
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 18}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 4\H]
@@ -575,7 +557,6 @@ Partner has the \CA. Good. You are pretty worried about \Ds and also your 11 hig
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 19}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 3NT]
@@ -610,7 +591,6 @@ You are being Blackwooded, and with three Aces you reply 5\S. That was apparentl
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 20}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2\S]
@@ -641,7 +621,6 @@ Partner didn't have enough to bid game, not knowing if you had more than 11 poin
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 21}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 4NT]
@@ -672,7 +651,6 @@ If partner can take care of your three \C losers you will have just one \S loser
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 22}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -703,7 +681,6 @@ Your \H holding hasn't been enhanced by partner's singleton. You feel like just 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 23}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 3\H]
@@ -738,7 +715,6 @@ Oops. Despite all the points you are missing two Aces. So you thank Mr. Blackwoo
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 24}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 2NT]
@@ -773,7 +749,6 @@ He has two Aces so you bid 6\S.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Baker Jacoby 25}
 {[show S]
 
 The bidding has gone as shown. It is your bid. [BID 3NT]

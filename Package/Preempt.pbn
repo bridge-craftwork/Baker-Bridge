@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 18:52:43
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Preempt
 [Event "Baker Bridge - Preemptive Bids"]
@@ -17,7 +17,6 @@
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 1}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\D]
@@ -44,7 +43,6 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 2}
 {[show S]
 
 The bidding has been as shown. Decide what you would bid, then click on BID above. [BID pass]
@@ -73,7 +71,6 @@ Here's a pretty good tip:When partner opens with a 3-bid and you are trying to d
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 3}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\H]
@@ -104,7 +101,6 @@ When you preempted 3\H you described your hand perfectly. You have nothing more 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 4}
 {[show S]
 
 The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 4\H]
@@ -133,7 +129,6 @@ Fortune favors the bold so you bid 4\H . . . and live happily ever after.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 5}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 4\S]
@@ -164,7 +159,6 @@ This is what preempting is all about.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 6}
 {[show S]
 
 The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 6\S]
@@ -193,7 +187,6 @@ Did you think about bidding 6NT instead? Ugh, they would have led a \C.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 7}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\H]
@@ -224,7 +217,6 @@ Do not preempt the same hand twice. The idea of a preemptive bid is that you bid
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 8}
 {[show S]
 
 The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 4\D]
@@ -251,7 +243,6 @@ You do not have the 4 fast winners you need to raise partner to the 4-level. But
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 9}
 {[show S]
 
 You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\D]
@@ -284,7 +275,6 @@ It is partner's decision, not yours, whether to continue to 5\D as a sacrifice.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 10}
 {[show S]
 
 The bidding has been as shown. Decide what you would bid, then click on BID above. [BID pass]
@@ -315,7 +305,6 @@ Somewhere in some of these lessons there should be a guideline that says:}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 11}
 {[show S]
 
 The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 3\S]
@@ -344,7 +333,6 @@ This time everybody passes.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
 [Student "S"]
-{Baker Preempt 12}
 {[show S]
 
 The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 4\H]

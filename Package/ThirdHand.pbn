@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
@@ -17,7 +17,6 @@
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 1}
 {[show NE]
 
 [showcards W:S2]
@@ -48,7 +47,6 @@ If you do not put your \SQ on this trick declarer will get an undeserved winner 
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 2}
 {[show NE]
 
 [showcards W:HQ]
@@ -83,7 +81,6 @@ Played this way you will defeat the contract by one trick. If you allow declarer
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 3}
 {[show NE]
 
 [showcards W:C4]
@@ -116,7 +113,6 @@ If instead you play the \CQ, figuring it makes no difference, you'd be right tha
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 4}
 {[show NE]
 
 [showcards W:S3]
@@ -153,7 +149,6 @@ For your side, 2 \S tricks and the two minor Aces spell defeat.}
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 5}
 {[show NE]
 
 [showcards W:S7]
@@ -190,7 +185,6 @@ If you play ANY card except your \S2 on the first trick you will not be able to 
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 6}
 {[show NE]
 
 [showcards W:H8]
@@ -227,7 +221,6 @@ The extra winner would permit South to discard 2 of dummy's \D losers, and this 
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 7}
 {[show NE]
 
 [showcards W:HQ]
@@ -262,7 +255,6 @@ It was a good thing you held the \HK rather than declarer, but it is a nuisance 
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 8}
 {[show NE]
 
 [showcards W:H2]
@@ -299,7 +291,6 @@ If declarer played low on the first trick you would win the \HQ, then play the \
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 9}
 {[show NE]
 
 [showcards W:S5]
@@ -336,7 +327,6 @@ Note that if dummy's \S9 was played you would cover with your \SJ, leading to th
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 10}
 {[show NE]
 
 [showcards W:H5]
@@ -375,7 +365,6 @@ So what happens if you play the \HQ at trick one? South could still make the con
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 11}
 {[show NE]
 
 [showcards W:HQ]
@@ -410,7 +399,6 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 12}
 {[show NE]
 
 [showcards W:SA,SK]
@@ -445,7 +433,6 @@ To allow for this situation it will be better to play \Cs from your side of the 
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 13}
 {[show NE]
 
 [showcards W:H8]
@@ -482,7 +469,6 @@ Not today. Partner takes the \CK and returns his \H2 to your four winners.}
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 14}
 {[show NE]
 
 [showcards W:C9]
@@ -519,7 +505,6 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 15}
 {[show NE]
 
 The bidding has been as shown. Partner led the ! H10, dummy played the \HJ and it is your play.
@@ -552,7 +537,6 @@ Now suppose you duck the \HJ. Again South will push \Cs, and again you hold up u
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 16}
 {[show NE]
 
 [showcards W:SQ]
@@ -589,7 +573,6 @@ Notice that South will always make two \S tricks, so your overtake costs nothing
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 17}
 {[show NE]
 
 [showcards W:S9]
@@ -628,7 +611,6 @@ Just like the previous deal, South gets two \S tricks either way, but one way he
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 18}
 {[show NE]
 
 [showcards W:CK]
@@ -663,7 +645,6 @@ Partner loves it - whatever South does West takes the next two \Ss, then leads a
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 19}
 {[show NE]
 
 [showcards W:CK]
@@ -698,7 +679,6 @@ If you have a partner who pays attention he will now play a \H for you to ruff. 
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{Baker ThirdHand 20}
 {[show NE]
 
 [showcards W:DK]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-12 19:35:00
+%Created: 2026-02-13 16:37:20
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Drury
 [Event "Baker Bridge - Reverse Drury"]
@@ -17,7 +17,6 @@ pass pass 1H pass 2C pass 2H pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 1}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -48,7 +47,6 @@ pass pass 1S pass 2C pass 2S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 2}
 {[show S]
 
 You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID 2\S]
@@ -75,7 +73,6 @@ pass pass 1S pass 2C pass 2D pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 3}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -106,7 +103,6 @@ pass pass 1H pass 2C pass 2D pass 3H pass 4H pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 4}
 {[show S]
 
 You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID 2\D]
@@ -135,7 +131,6 @@ pass pass 1H pass 3H pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 5}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
@@ -162,7 +157,6 @@ pass pass 1S pass 2C pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 6}
 {[show S]
 
 You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID 4\S]
@@ -189,7 +183,6 @@ pass pass 1S pass 2C pass 2D pass 2S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 7}
 {[show S]
 
 The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
@@ -220,7 +213,6 @@ pass pass 1S pass 3S pass pass pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{Baker Drury 8}
 {[show S]
 
 You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID pass]

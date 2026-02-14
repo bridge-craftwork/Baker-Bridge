@@ -725,7 +725,6 @@ def convert_csv_to_pbn(csv_filename, header_filename=None, source_filename=None)
                 pbn_content.append(f"[Student \"{student}\"]")
 
             # Commentary and play
-            pbn_content.append(f"{{Baker {subfolder} {board}}}")
             pbn_content.append(analysis)
             pbn_content.append(lead)
             pbn_content.append("")
