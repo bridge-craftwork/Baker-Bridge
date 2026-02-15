@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Trumpmgmt
 [Event "Baker Bridge - Trump Management"]
@@ -517,7 +517,7 @@ If you don't see a better Plan than these two, just put yourself in Dummy's seat
 
 Aha! From dummy's viewpoint you have no \D losers! You still have the 3 \C losers, but now you also have 3 \S losers. How does this help you?
 
-You can now ruff all 3 of those \S losers in the South hand. Like this:Win the \SA and ruff a \S with the \HA. Play a small \H to dummy's \H9. Ruff another \S with the \HK. Play a small \H to dummy's ! H10. Ruff dummy's last \S with your last trump, the \HJ. Enter dummy with a \D and pull the last trump with the \HQ.
+You can now ruff all 3 of those \S losers in the South hand. Like this:Win the \SA and ruff a \S with the \HA. Play a small \H to dummy's \H9. Ruff another \S with the \HK. Play a small \H to dummy's \H10. Ruff dummy's last \S with your last trump, the \HJ. Enter dummy with a \D and pull the last trump with the \HQ.
 
 You win 3 \Ds, 3 \Hs in dummy, the \SA and 3 \S ruffs in your hand. Total: 10 tricks.
 
@@ -643,7 +643,7 @@ Did you notice that West is a pretty good defender? Playing the \DQ on the third
 [Student "S"]
 {[show NS]
 
-South is to play 4\S. West leads the \HA, then the \HK, then ! H10.
+South is to play 4\S. West leads the \HA, then the \HK, then \H10.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -685,7 +685,7 @@ But, it was a good plan because dummy held the \S9. Keep that in mind when you l
 [Student "S"]
 {[show NS]
 
-This is identical to Deal 14 except dummy has the \S4 in place of the \S9. South is to play 4\S. West leads the \HA, then the \HK, then ! H10.
+This is identical to Deal 14 except dummy has the \S4 in place of the \S9. South is to play 4\S. West leads the \HA, then the \HK, then \H10.
 
 Make a Plan, then click NEXT. [NEXT]
 

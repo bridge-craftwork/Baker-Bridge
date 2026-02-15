@@ -574,8 +574,8 @@ def process_analysis(analysis, student=None, declarer=None, subfolder=None, auct
     if analysis:
         # Convert suit symbols only when followed by card rank, space, punctuation, 's' (plural), or end of string
         # This prevents "that!South" from becoming "that\South" (spade symbol)
-        # Pattern: !S followed by card rank (AKQJT98765432), space, punctuation, 's', or end
-        suit_pattern = r'!([SHDC])(?=[AKQJTakqjt98765432s\s\.,;:!\?\)\]\-]|$)'
+        # Pattern: !S followed by card rank (AKQJT98765432), '1' (for 10), space, punctuation, 's', or end
+        suit_pattern = r'!([SHDC])(?=[AKQJTakqjt987654321s\s\.,;:!\?\)\]\-]|$)'
         analysis = re.sub(suit_pattern, r'\\\1', analysis)
         # Fix lost spacing: add space after ! when followed by capital letter (start of sentence)
         # This handles cases like "that!South" -> "that! South"

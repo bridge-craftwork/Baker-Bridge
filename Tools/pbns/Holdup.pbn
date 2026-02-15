@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Holdup
 [Event "Baker Bridge - Holdup Plays"]
@@ -35,7 +35,7 @@ Click NEXT. [NEXT]
 
 
 
-Next you start on \Hs by playing \HK, then overtaking the ! H10. Assume that East wins the second \H.
+Next you start on \Hs by playing \HK, then overtaking the \H10. Assume that East wins the second \H.
 
 Click NEXT. [NEXT]
 
@@ -364,7 +364,7 @@ This might have turned out even better. If West had decided to play his partner 
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \H4. East plays the ! H10.
+South is to play 3NT. West leads the \H4. East plays the \H10.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -382,7 +382,7 @@ Click NEXT. [NEXT]
 
 
 
-Yes, it could hurt real bad! Suppose East has nothing in his hand but the \H K Q J 10 8 7 6 that you already know about. When you let his ! H10 win the first trick he will realize that his hand is dead. And he may be smart enough, (or lucky enough), to switch to a \S. 
+Yes, it could hurt real bad! Suppose East has nothing in his hand but the \H K Q J 10 8 7 6 that you already know about. When you let his \H10 win the first trick he will realize that his hand is dead. And he may be smart enough, (or lucky enough), to switch to a \S. 
 
 Click NEXT to see why you should definitely win the first trick, then enter dummy with the \DA and take the \C finesse. [NEXT]
 
@@ -392,7 +392,7 @@ The purpose of the hold-up play is to cut communications between the two defende
 
 But one of the important considerations you have to think about is the possibility that the Defense will switch to another suit - where you might be in even more trouble.
 
-You'd feel bad on this hand if you let East hold the ! H10 only to see him next lay down the \SJ.}
+You'd feel bad on this hand if you let East hold the \H10 only to see him next lay down the \SJ.}
 [Play "W"]H4
 
 [Event "Baker Bridge - Holdup Plays"]
@@ -438,7 +438,7 @@ Click NEXT. [NEXT]
 
 
 
-Pull trumps in two rounds. Then play the ! D10 and let it ride.
+Pull trumps in two rounds. Then play the \D10 and let it ride.
 
 Click NEXT. [NEXT]
 
@@ -478,7 +478,7 @@ Of course if West had been clever enough to lead a \H originally this Deal would
 [Student "S"]
 {[show NS]
 
-South's 2NT overcall shows a 1NT opening hand with \Hs stopped. South is to play 3NT. West leads the \H7. East plays the ! H10.
+South's 2NT overcall shows a 1NT opening hand with \Hs stopped. South is to play 3NT. West leads the \H7. East plays the \H10.
 
 Make a Plan, then click NEXT. [NEXT]
 

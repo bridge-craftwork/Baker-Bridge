@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
@@ -341,7 +341,7 @@ Play the \HQ.
 
 The Rule of Eleven tells you there are 6 cards in North, East and South that are higher than the \H5. You can see 5 of them, so that leaves just one of them for South.
 
-West cannot have all three of the outstanding honors, because from \H K J 10 x x his correct lead would be the Jack. So you can deduce that South must hold exactly one of \HK, \HJ, or ! H10.
+West cannot have all three of the outstanding honors, because from \H K J 10 x x his correct lead would be the Jack. So you can deduce that South must hold exactly one of \HK, \HJ, or \H10.
 
 If his honor is not the \HK then it won't matter whether you play \HA or \HQ to the first trick; you will win your two top cards and then play your small one back to West.
 
@@ -381,7 +381,7 @@ Your side needs to take 5 tricks to defeat this contract. Two of them will be \H
 
 That means you need to win 3 \D tricks and the only way that can happen is if you play \Ds from your side.
 
-So win the first \HK (so partner will know you also have the \HA), and play the ! D10. Presumably South will play an honor, but West will take the trick and put you back on lead with your \HA. You play the \D9 and your side will collect 3 \D tricks to go with your 2\Hs.}
+So win the first \HK (so partner will know you also have the \HA), and play the \D10. Presumably South will play an honor, but West will take the trick and put you back on lead with your \HA. You play the \D9 and your side will collect 3 \D tricks to go with your 2\Hs.}
 [Play "W"]HQ
 
 [Event "Baker Bridge - Third Hand Play"]
@@ -507,7 +507,7 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 [Student "E"]
 {[show NE]
 
-The bidding has been as shown. Partner led the ! H10, dummy played the \HJ and it is your play.
+The bidding has been as shown. Partner led the \H10, dummy played the \HJ and it is your play.
 
 When you have made your choice click NEXT. [choose-card H6] [NEXT]
 

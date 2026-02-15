@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Signals
 [Event "Baker Bridge - Defensive Signals"]
@@ -29,13 +29,13 @@ When you have made your choice click NEXT. [choose-card D10] [NEXT]
 
 [show NESW]
 
-Play the ! D10, NOT another \S.
+Play the \D10, NOT another \S.
 
 You can see the \S6, \S5, \S4, \S3 and \S2. So the \S7 is East's lowest \S, he is doing his best to discourage you from leading the suit again.
 
 South held up with \S A J x, hoping you would play the suit again and give him two tricks.
 
-If you play the ! D10 East will win the \DA and return a \S, allowing you to drive out South's \SA while you still have the \CA for an entry.}
+If you play the \D10 East will win the \DA and return a \S, allowing you to drive out South's \SA while you still have the \CA for an entry.}
 [Play "W"]SK
 
 [Event "Baker Bridge - Defensive Signals"]
@@ -291,7 +291,7 @@ South may now turn to the \D suit, but your side can win the first \D and drive 
 
 [showcards W:H5]
 
-You are East. The bidding has been as shown. Partner led the \H5, dummy played the ! H10 and it is your play.
+You are East. The bidding has been as shown. Partner led the \H5, dummy played the \H10 and it is your play.
 
 When you have made your choice click NEXT. [choose-card any:D3,S2] [NEXT]
 

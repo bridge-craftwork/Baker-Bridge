@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -487,7 +487,7 @@ Lead the \H3, fourth highest in an attacking suit.
 
 Sometimes it comes down to just this kind of choice. Do you lead fourth down from \S K 8 7 3 or from \H Q 10 7 3.
 
-The presence of the ! H10 bolsters the \H suit enough to give it the edge.
+The presence of the \H10 bolsters the \H suit enough to give it the edge.
 
 The suits could be arranged something like shown at left. With a \S lead the presence of the \ST in dummy allows declarer to make a second \S trick, which happens to be declarer's ninth trick.
 
@@ -551,7 +551,7 @@ When you have made your choice click NEXT. [choose-card S4] [NEXT]
 
 Lead the \S4.
 
-If partner had not doubled the contract you would probably have started with the ! H10, or possibly the \C2.
+If partner had not doubled the contract you would probably have started with the \H10, or possibly the \C2.
 
 But partner DID double, and most good players play that doubling 3NT is lead-directing as follows:If you have bid a suit, lead it. If doubler has bid a suit, lead it. If neither of you has bid, lead dummy's first bid suit.
 

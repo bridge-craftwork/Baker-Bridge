@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Establishment
 [Event "Baker Bridge - Suit Establishment"]
@@ -547,7 +547,7 @@ You need two more winners. They cannot possibly come from \Ss, \Hs, or \Cs since
 
 There is no reason to hold up on the \S since the \H and \C suits also have just two stoppers. You win the \SA.
 
-You best play next is to finesse the ! D10. This may gain a trick by virtue of the finesse if West happens to hold the \DJ, but primarily you are working to establish the \D suit. Assume East wins the \DJ and returns a \S.
+You best play next is to finesse the \D10. This may gain a trick by virtue of the finesse if West happens to hold the \DJ, but primarily you are working to establish the \D suit. Assume East wins the \DJ and returns a \S.
 
 Again don't hold up. Take the \SK and lead another small \D, finessing with dummy's \DQ. Happily this time the finesse works, and even more happily both defenders follow suit. That means the rest of the \Ds are good and you make an overtrick.
 
@@ -803,7 +803,7 @@ The good news is that you only have one loser to get rid of. The bad news is tha
 
 Unlikely as it seems, your best candidate for establishment is dummy's \S8. West is marked with 3 \Ss, and having led the \ST there is a good chance that he also has the \S9. If so you can ruff it out.
 
-Cover the \ST with dummy's \SJ, and when East plays one of his honors ruff in your hand. Play a trump to the ! D10, East showing out. Lead the \SQ. East will be forced to play his other high honor, (if he doesn't you would discard a loser), and you ruff again. 
+Cover the \ST with dummy's \SJ, and when East plays one of his honors ruff in your hand. Play a trump to the \D10, East showing out. Lead the \SQ. East will be forced to play his other high honor, (if he doesn't you would discard a loser), and you ruff again. 
 
 Back to dummy with the \DQ and ruff the \S2 with a high trump just to be safe. West drops the \S9 on this trick.
 

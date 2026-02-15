@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Eliminations
 [Event "Baker Bridge - Elimination Plays"]
@@ -404,7 +404,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 In addition to the two \Ss already lost you have a potential loser in each minor suit. On the plus side, you have a finesse position in \Ds and a two-way finesse in \Cs. If you work both finesses successfully you make an overtrick - if both fail you will be down 1. Or, you could try for a 100% sure end-play.
 
-Ruff the \SA with dummy's ! H10 and pull trumps (three rounds).
+Ruff the \SA with dummy's \H10 and pull trumps (three rounds).
 
 Click NEXT. [NEXT]
 
@@ -462,7 +462,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 If the contract appears to depend upon a finesse, try to find another way. Here, you can always try the \C finesse, but maybe you can eliminate \Ss and see what happens.
 
-Win the \SA, play the \D4 to the ! D10, and ruff a \S with the \DQ. Both opponents followed to the trump. 
+Win the \SA, play the \D4 to the \D10, and ruff a \S with the \DQ. Both opponents followed to the trump. 
 
 Click NEXT. [NEXT]
 
@@ -738,7 +738,7 @@ Click NEXT. [NEXT]
 
 
 
-Play another \H to dummy's ! H10 and ruff the last \S.
+Play another \H to dummy's \H10 and ruff the last \S.
 
 Click NEXT. [NEXT]
 
@@ -962,7 +962,7 @@ Click NEXT. [NEXT]
 
 
 
-DO NOT PLAY THE JACK! If the finesse is going to work now it will still work one trick later. By playing low you take advantage of the possibility that East held the ! D10 and West will have to put on the \DQ to prevent you taking a trick with dummy's \D9.
+DO NOT PLAY THE JACK! If the finesse is going to work now it will still work one trick later. By playing low you take advantage of the possibility that East held the \D10 and West will have to put on the \DQ to prevent you taking a trick with dummy's \D9.
 
 Click to see the Deal. [NEXT]
 
@@ -1068,7 +1068,7 @@ Click NEXT. [NEXT]
 
 
 
-You've done all you can do. Now play the ! H10 to West's high \H. 
+You've done all you can do. Now play the \H10 to West's high \H. 
 
 Click NEXT. [NEXT]
 
@@ -1324,7 +1324,7 @@ Click NEXT. [NEXT]
 
 
 
-Back in dummy, ruff a \D with the \HQ, then lead the ! H10 to dummy's \HK, pulling the last trump as you enter dummy.
+Back in dummy, ruff a \D with the \HQ, then lead the \H10 to dummy's \HK, pulling the last trump as you enter dummy.
 
 Click NEXT. [NEXT]
 

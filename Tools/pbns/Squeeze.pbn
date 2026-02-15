@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Squeeze
 [Event "Baker Bridge - Squeeze Plays"]
@@ -251,7 +251,7 @@ East will follow to all three \Ds.  [NEXT]
 
 [PLAY N:DK,N:DQ,N:D7,E:D8,E:D6,E:D5,S:DA,S:D9,S:D3,W:H6,W:DT,W:D4]
 
-Now for the squeeze. Play dummy's \DJ and discard your ! H10.
+Now for the squeeze. Play dummy's \DJ and discard your \H10.
 
 If East discards the \SJ you will cash dummy's \S6, then win the last 3 \C tricks. 
 
@@ -309,7 +309,7 @@ But when you play the \D7 he is squeezed.
 
 He cannot dump his \SK because you would throw the \H8 and dummy would be high.
 
-So he will discard the ! H10 instead. At this point you know that the \SQ is worthless so you discard it. You win the final two tricks with the \HA and \HJ.}
+So he will discard the \H10 instead. At this point you know that the \SQ is worthless so you discard it. You win the final two tricks with the \HA and \HJ.}
 [Play "W"]HK
 
 [Event "Baker Bridge - Squeeze Plays"]
@@ -521,9 +521,9 @@ It is time.
 
 Play your \SJ and watch what West discards.
 
-If he holds on to the ! D10 you will discard dummy's useless \D9 and hope the \Hs all fall under the \H A K.
+If he holds on to the \D10 you will discard dummy's useless \D9 and hope the \Hs all fall under the \H A K.
 
-If he discards the ! D10 then you throw dummy's small \H and dummy wins the last three tricks.}
+If he discards the \D10 then you throw dummy's small \H and dummy wins the last three tricks.}
 [Play "W"]DJ
 
 [Event "Baker Bridge - Squeeze Plays"]
@@ -673,7 +673,7 @@ When you play the \D5 East must keep both \Ss to guard against your \S7. So he d
 
 Your \S7 is now worthless so you throw it.
 
-West has no problem, (yet), he discards the ! H10. [NEXT]
+West has no problem, (yet), he discards the \H10. [NEXT]
 
 [showcards N:S5,HJ,CK,C7 E:SJ,ST,CQ,CT S:SK,CA,C8,C4 W:HQ,CJ,C9,C5]
 
@@ -783,7 +783,7 @@ Of course you ruffed the \SK.
 
 The big problem with trying to squeeze West in the black suits right now is that East actually holds a \S guard. But you can fix that.
 
-Play dummy's \HQ and ! H10, then ruff a \S, then pull the last trump.  [NEXT]
+Play dummy's \HQ and \H10, then ruff a \S, then pull the last trump.  [NEXT]
 
 [PLAY N:S8,N:HQ,N:HT,N:C5,E:SQ,E:H7,E:H5,E:H2,S:HK,S:HJ,S:H9,S:H8,W:S9,W:S4,W:H6,W:H4]
 
@@ -969,7 +969,7 @@ So you play a low \D from each hand. [NEXT]
 
 [PLAY N:D5,E:D4,S:D3,W:DT]
 
-It doesn't matter which defender takes the \D, since either one is going to do the same thing. Assume West wins the ! D10.
+It doesn't matter which defender takes the \D, since either one is going to do the same thing. Assume West wins the \D10.
 
 He will then play the \SK, which you must ruff in your hand. [NEXT]
 

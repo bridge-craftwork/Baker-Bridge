@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-14 13:01:39
+%Created: 2026-02-15 09:43:27
 %sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
@@ -67,7 +67,7 @@ Play the \H4, do not split your Honors.
 
 South's bidding showed at least 5 \Hs, so assuming he holds both the \H A Q, it would be silly for him to finesse the \H9 on the first trump play.
 
-As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls and you now have 2 trump tricks. If you had played the ! H10 you would have tossed away the setting trick.}
+As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls and you now have 2 trump tricks. If you had played the \H10 you would have tossed away the setting trick.}
 [Play "W"]CJ
 
 [Event "Baker Bridge - Second Hand Play"]
@@ -91,7 +91,7 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 
 You are East. The bidding has been as shown.
 
-Partner led the \CK, and you played the \C9 to encourage him. He continued with the \CQ, then a small card to your \CA. You then exit with the ! D10, taken by dummy's \DK.
+Partner led the \CK, and you played the \C9 to encourage him. He continued with the \CQ, then a small card to your \CA. You then exit with the \D10, taken by dummy's \DK.
 
 Declarer then calls for the \HJ. Do you cover with your \HQ or not?
 
@@ -163,7 +163,7 @@ However, with South holding the \SQ it would be very logical for him to go up wi
 
 You are East. The bidding has been as shown.
 
-Partner led the \H9, taken by dummy's ! H10. The \S4 is then played from dummy. Do you play low? or split your honors?
+Partner led the \H9, taken by dummy's \H10. The \S4 is then played from dummy. Do you play low? or split your honors?
 
 When you have made your choice click NEXT. [choose-card SJ] [NEXT]
 
@@ -275,7 +275,7 @@ By playing low you give him a guess to make. If he plays the \CK he will make th
 
 You are West. The bidding has been as shown.
 
-You lead the \D5; \D3, ! D10 and won by South with \DK. South now leads the \C9 from his hand and it is your play.
+You lead the \D5; \D3, \D10 and won by South with \DK. South now leads the \C9 from his hand and it is your play.
 
 When you have made your choice click NEXT. [choose-card CA] [NEXT]
 
@@ -313,7 +313,7 @@ You are East. The bidding has been as shown.
 
 Partner led the \H4, won by South's \H8.
 
-South enters dummy with the \SK and leads the ! D10. What do you play?
+South enters dummy with the \SK and leads the \D10. What do you play?
 
 When you have made your choice click NEXT. [choose-card DA] [NEXT]
 
@@ -457,7 +457,7 @@ Now visualize the result of playing the \HQ. Whether South takes this trick or n
 
 You are East. The bidding has been as shown.
 
-Partner led the ! H10, won by dummy's \HA. At trick 2 South calls for dummy's \C3. Which card do you play?
+Partner led the \H10, won by dummy's \HA. At trick 2 South calls for dummy's \C3. Which card do you play?
 
 When you have made your choice click NEXT. [choose-card C6] [NEXT]
 
@@ -619,7 +619,7 @@ Remember that South opened 1\H, so he has 5 of them. With only 3 trumps out he h
 
 If you play low he will win with one of his high \Hs and then you will have a sure \H winner. Along with the \S winner West has you will defeat the slam.
 
-If you cover the \HJ with your \HQ South will again win with one of his high ones. But now the position will be clear to South and he will return to dummy and play another \H, finessing your ! H10. With no trump loser he will make the slam. }
+If you cover the \HJ with your \HQ South will again win with one of his high ones. But now the position will be clear to South and he will return to dummy and play another \H, finessing your \H10. With no trump loser he will make the slam. }
 [Play "W"]SK
 
 [Event "Baker Bridge - Second Hand Play"]
@@ -683,7 +683,7 @@ If you play low on South's \S play East will be forced to win the trick and he c
 
 You are East. The bidding has been as shown.
 
-Partner led the \H3, you play ! H10 and South wins the \HA. South pulls the last two trumps by leading low to dummy's \HQ. He now calls for the \S6. Will you play your \SA or not?
+Partner led the \H3, you play \H10 and South wins the \HA. South pulls the last two trumps by leading low to dummy's \HQ. He now calls for the \S6. Will you play your \SA or not?
 
 When you have made your choice click NEXT. [choose-card S3] [NEXT]
 
