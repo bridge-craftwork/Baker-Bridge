@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 05:59:54
+%Created: 2026-02-17 06:18:24
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Establishment
 [Event "Baker Bridge - Suit Establishment"]
@@ -51,6 +51,8 @@ Click NEXT to see the complete deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Establishing the \Ds is the straightforward way to make the contract.
 
@@ -114,6 +116,8 @@ Clickfor the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 You had to establish the \Ds to make 10 tricks. And once again you had to pay close attention to entries.}
 [Play "W"]S6
 
@@ -160,6 +164,8 @@ Clickfor the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 If you had played the \Cs from the top you would have come up one trick short.}
 [Play "W"]DJ
 
@@ -197,6 +203,8 @@ for the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Ducking a \C is the only way to make the contract and you might as well do it at the second trick.}
 [Play "W"]H5
@@ -240,6 +248,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 You had to have the defender's \Ss split 4-3. But in fact you were pretty sure they were going to do so. Since West's \S2 was probably his fourth-down then he couldn't have a fifth-down.}
 [Play "W"]S2
 
@@ -278,6 +288,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 None of the other suits were sitting well so overtaking the \H was the way to go.}
 [Play "W"]S2
 
@@ -313,6 +325,8 @@ Clickfor the full Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As long as the \Cs were no worse than 4-2 you can establish the suit.}
 [Play "W"]HK
@@ -351,6 +365,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you finessed the \H you would have gone down with the defenders winning 4 \Ds, 1 \H and 2 \Ss.
 
@@ -394,6 +410,8 @@ Clickfor the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 As you see, you couldn't set up a \D trick so the \C overtake was necessary to make the contract.}
 [Play "W"]S9
 
@@ -432,6 +450,8 @@ Click NEXT to see the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This time you were lucky and the \Ss split evenly. Next time they probably won't and you'll go down.}
 [Play "W"]CK
@@ -473,6 +493,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 It took a 2-2 trump split and a 4-3 \S split. But that was your best shot.}
 [Play "W"]CK
 
@@ -512,6 +534,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It may have seemed too risky to play \Hs before pulling trumps. In fact, there was no risk at all. If the \Hs were splitting 5-1 then you had absolutely no chance of making the contract.
 
@@ -556,6 +580,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This was just a normal suit-establishment Deal.
 
@@ -605,6 +631,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 You were prepared to lose that \C finesse to East so you could establish the suit in dummy.
 
 West's play of the \CK may have made you want to jump up with the \CA, but you must stick to the original play of ducking one trick.}
@@ -644,6 +672,8 @@ Click NEXT to see the full Deal and whether you made the contract or not. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Ducking the first \H and finessing the second could let you wind up with no tricks at all in the \H suit.
 
@@ -688,6 +718,8 @@ Click NEXT to see the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 If East does not take the second \D you continue the suit, and whether you ruff or discard a loser you still make the contract.}
 [Play "W"]SK
 
@@ -726,6 +758,8 @@ Click NEXT to see the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Suppose you allow dummy's \S9 to hold the first trick, then start on \Hs. East will hold up the \HA for 1 or 2 rounds. When he does win it he will return a \S and whether you play the \SA or a low \S West will be able to prevent you from reaching dummy.
 
@@ -768,6 +802,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 West is almost certain to hold the \SQ because his \S2 opening lead promises an honor and the \SQ is the only one you don't have.
 
@@ -814,6 +850,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 When your only hope of making a contract is for the defender's cards to be a certain way, just assume that they lie perfectly for you and barge ahead.
 
@@ -864,6 +902,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Notice that this Plan would also succeed if the \Cs had split 3-3.
 

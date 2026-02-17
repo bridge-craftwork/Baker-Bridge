@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 05:59:54
+%Created: 2026-02-17 06:18:24
 %sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
@@ -26,6 +26,8 @@ The bidding has been as shown. Partner led the \S2, dummy played the \S3 and it 
 When you have made your choice click NEXT. [choose-card SQ] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \SQ. This is a perfect example of why you should USUALLY play Third-hand-high.
 
@@ -56,6 +58,8 @@ The bidding has been as shown. Partner led the \HQ, dummy played the \H4 and it 
 When you have made your choice click NEXT. [choose-card HA] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \HA. You dare not play low for fear declarer might win a singleton \HK.
 
@@ -91,6 +95,8 @@ When you have made your choice click NEXT. [choose-card CJ] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Third-hand-high is usually a good plan to follow, certainly that is true in this deal. But that doesn't mean you should blindly play your HIGHEST card, rather you should play the LOWEST of high-equals.
 
 In other words, in this case you should play the \CJ, which is equal to the \CQ.
@@ -122,6 +128,8 @@ The bidding has been as shown. Partner led the \S3, dummy played the \S4 and it 
 When you have made your choice click NEXT. [choose-card ST] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \ST.
 
@@ -158,6 +166,8 @@ The bidding has been as shown. Partner led the \S7, dummy played the \S3 and it 
 When you have made your choice click NEXT. [choose-card S2] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \S2.
 
@@ -197,6 +207,8 @@ When you have made your choice click NEXT. [choose-card any:H9,H7,H4,H3] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play a small \H.
 
 Partner's \H8 lead is a high spot card, either top-of-nothing, or a singleton or doubleton. He definitely does not have an honor, which means that South holds \H A Q J.
@@ -231,6 +243,8 @@ When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \HK.
 
 Admittedly you have a terrible hand. But that's no reason to be careless. <b>YOU</b> can beat this contract, but you have to do it right now by unblocking the \HK. If declarer holds up you will continue with your \H7 and partner will establish his suit while he still has the \CA for an entry. If declarer doesn't hold up it will be just as bad for him.
@@ -264,6 +278,8 @@ The bidding has been as shown. Partner led the \H2, dummy played the \HA and it 
 When you have made your choice click NEXT. [choose-card HQ] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \HQ (or \HK).
 
@@ -301,6 +317,8 @@ When you have made your choice click NEXT. [choose-card S7] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \S7.
 
 Partner's low \S lead tells you he has an honor in the suit, so it must be either the \SQ or the \ST. South's jump to 2NT makes it almost certain that he holds the \SQ, so you can figure partner probably led from \S 10 x x 5.
@@ -336,6 +354,8 @@ The bidding has been as shown. Partner led the \H5, dummy played the \H8 and it 
 When you have made your choice click NEXT. [choose-card HQ] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \HQ.
 
@@ -375,6 +395,8 @@ When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Overtake with the \HK.
 
 Your side needs to take 5 tricks to defeat this contract. Two of them will be \Hs, but it doesn't look like you can win any \Cs or \Ss.
@@ -409,6 +431,8 @@ When you have made your choice click NEXT. [choose-card any:H7,H3,H2] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Ruff partner's \SK.
 
 It is obvious that your side can only get 2 \S tricks. And assuming that South has the Ace of trumps you will not make a single trick in the red suits. So you need to make 2 \C tricks.
@@ -442,6 +466,8 @@ The bidding has been as shown. Partner led the \H8, dummy played the \HJ and it 
 When you have made your choice click NEXT. [choose-card H9] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \H9. South played dummy's \HJ to tempt you to cover. Don't fall for it.
 
@@ -479,6 +505,8 @@ When you have made your choice click NEXT. [choose-card C6] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \C6.
 
 Partner's \C9 is likely from a short suit. If it is a singleton, you should take the \CA immediately and return the suit for a ruff. If it is a doubleton, you should NOT take your \CA now, but should hope partner can get the lead and play his second \C to your Ace so you can give him the ruff.
@@ -513,6 +541,8 @@ When you have made your choice click NEXT. [choose-card H6] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \H6.
 
 Declarer gets two \H winners whether you play one of your honors on this trick or not. So why does it matter what you do?
@@ -546,6 +576,8 @@ The bidding has been as shown. Partner led the \SQ, a low card was played from d
 When you have made your choice click NEXT. [choose-card SK] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \SK.
 
@@ -582,6 +614,8 @@ The bidding has been as shown. Partner led the \S9, dummy played the \S6 and it 
 When you have made your choice click NEXT. [choose-card S8] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \S8 (to signal encouragement).
 
@@ -621,6 +655,8 @@ When you have made your choice click NEXT. [choose-card CK] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Overtake partner's \CK with the \CA.
 
 You are pretty sure partner would not have supported your \Cs unless he had 4 of them, which means it is very likely that South has a singleton. (he might even be void)
@@ -655,6 +691,8 @@ When you have made your choice click NEXT. [choose-card CA] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Overtake with your \CA.
 
 As soon as you see the opening lead and dummy you should start figuring out just how you can defeat the contract. Hopefully this plan came to your mind.
@@ -688,6 +726,8 @@ The bidding has been as shown. Partner led the \DK, dummy played low and it is y
 When you have made your choice click NEXT. [choose-card DJ] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \DJ.
 

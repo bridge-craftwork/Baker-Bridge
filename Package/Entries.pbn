@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 05:59:54
+%Created: 2026-02-17 06:18:24
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Entries
 [Event "Baker Bridge - Entry Management"]
@@ -46,6 +46,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Hasty play to the first trick is one of the weaknesses of losing bridge players.
 
@@ -94,6 +96,8 @@ Click NEXT to see the full Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It goes against the grain to put your \DA on a trick that dummy has already won with the \D9. It seems like you are wasting a trick.
 
@@ -147,6 +151,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Once again notice that playing the \CA at trick one doesn't cost a thing, you get two \C tricks however you play it.}
 [Play "W"]C4
 
@@ -191,6 +197,8 @@ Click NEXT to see it all. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 If you ruffed with the \H8 that is a good sign. But remember, this is the fourth Deal of a set where you are watching entries carefully.
 
 Ask yourself if you would have done the correct thing at the table, say playing for the Bermuda Bowl championship.}
@@ -234,6 +242,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If the \C5 and \C6 were swapped around the contract could not be made.
 
@@ -283,6 +293,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 The more you make a point of looking for entries the easier they are to find.
 
 You'd have to be very careless to miss this one.}
@@ -328,6 +340,8 @@ Clickfor the full Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Suppose the opening lead had been a \D rather than a \C.
 
@@ -378,6 +392,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If the \Ds split 4-1 you would have found out when you cashed the \D K Q.
 
@@ -430,6 +446,8 @@ Click NEXT to see the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Just in case you were wondering about the chances of that singleton \CT, here is how you would figure it out.
 
 When you are missing 4 cards the probability of a 3-1 split is about 50%.
@@ -479,6 +497,8 @@ Click NEXT to see the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 It is an important concept. When you have to use a trump as a later entry you could thwart your own plan by ruffing.}
 [Play "W"]SA
 
@@ -522,6 +542,8 @@ Click NEXT to see the full Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As soon as East put up the \CA you knew you could win 2 \C tricks.
 
@@ -573,6 +595,8 @@ for the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 You started with 3 \H winners, but had to sacrifice one of them to get the second entry to dummy.
 
 Since it gave you all 6 \C tricks the sacrifice was well worth it.}
@@ -619,6 +643,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 On these pages there have been many deals where you had to win the opening lead with an unnecessarily high card in order to create a later entry to dummy.
 
 Here's a question: How many times at the table have situations like this presented themselves but you didn't realize it? And of course, at the table there is no second page popping up to tell you what you should have done.}
@@ -660,6 +686,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Yet another variation on the theme.
 
@@ -711,6 +739,8 @@ Clickfor the full Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Suppose a defender showed out on the second \D.
 
 With only one outside entry to dummy your choices are limited.
@@ -758,6 +788,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This is another twist on the them of winning with a higher card than necessary.
 
@@ -807,6 +839,8 @@ Clickfor the full Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 The biggest problem with this great play is that East probably doesn't know for sure what you are doing to him.
 
 Maybe after the hand is over he will appreciate it more and congratulate you.}
@@ -855,6 +889,8 @@ Clickfor the full Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Isn't it nice to have a finesse that wins if it wins but also wins if it loses?}
 [Play "W"]D2
 
@@ -902,6 +938,8 @@ Click NEXT to see the full Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The making of a Plan is a very important step in being a good Declarer.
 
@@ -953,6 +991,8 @@ Click NEXT to see the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The first time I ever saw this type of play in a book I fell in love with it.
 

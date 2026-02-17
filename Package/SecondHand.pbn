@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 05:59:54
+%Created: 2026-02-17 06:18:24
 %sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
@@ -28,6 +28,8 @@ Partner led the \SJ, won by dummy's \SQ. The \D5 is now played from dummy. What 
 When you have made your choice click NEXT. [choose-card D2] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \D2. Considering that South opened 1NT, he must have the \DQ for this play to make sense. 
 
@@ -62,6 +64,8 @@ When you have made your choice click NEXT. [choose-card H4] [NEXT]
 [show NESW]
 
 [PLAY E:C2]
+
+[clear-commentary]
 
 Play the \H4, do not split your Honors.
 
@@ -99,6 +103,8 @@ When you have made your choice click NEXT. [choose-card H4] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \H4.
 
 North has 5 \Hs and South must have at least 5. The reason you cover an Honor is that you hope to establish a lower card in either your hand or partner's hand. But your partner has one \H at the most so there is no hope of establishment.
@@ -135,6 +141,8 @@ When you have made your choice click NEXT. [choose-card S3] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \S3.
 
 If South decides to finesse the \ST then you will still win the one \S trick which you are entitled to win. 
@@ -168,6 +176,8 @@ Partner led the \H9, taken by dummy's \H10. The \S4 is then played from dummy. D
 When you have made your choice click NEXT. [choose-card SJ] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \SJ (or \SQ).
 
@@ -209,6 +219,8 @@ When you have made your choice click NEXT. [choose-card C4] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \C4.
 
 If you split your Honors, playing the \CQ perhaps, dummy's \CA will take the trick and South will later play through your \CK toward dummy's \C J 9 5. Played in this way he will establish 3 \C winners (which he needs for the contract).
@@ -245,6 +257,8 @@ The \C6 is then played from dummy and you must make a decision - \CA or \C2?
 
 When you have made your choice click NEXT. [choose-card C2] [NEXT]
 
+[clear-commentary]
+
 Play the \C2.
 
 You have a full count on South's hand. He started with 2 \Ss, 7 \Hs, and no \Ds. His other 4 cards must have been \Cs, and he has discarded 2 of them.
@@ -280,6 +294,8 @@ You lead the \D5; \D3, \D10 and won by South with \DK. South now leads the \C9 f
 When you have made your choice click NEXT. [choose-card CA] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \CA.
 
@@ -319,6 +335,8 @@ When you have made your choice click NEXT. [choose-card DA] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \DA.
 
 You don't have much in your hand, but you do have the \DA, and you also have the responsibility to help West set up his suit.
@@ -357,6 +375,8 @@ When you have made your choice click NEXT. [choose-card CJ] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \CJ.
 
 You should not allow yourself to be misled by South winning the first trick with the \SQ. East does not hold either the \SA or the \SJ or he would have played it. South is just trying to be deceptive.
@@ -392,6 +412,8 @@ South then played low to dummy's \SK, and led dummy's \S6. Your decision is not 
 When you have made your choice click NEXT. [choose-card any:D8,D6,D3] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Do not ruff.
 
@@ -429,6 +451,8 @@ When you have made your choice click NEXT. [choose-card HQ] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \HQ.
 
 To see why you should play the \HQ, just visualize the result if you play low. South will finesse with dummy's \H8. If East wins his \HJ on this trick there will be 4 good \H tricks in dummy. If East withholds his \HJ then Declarer will have 3 \H winners.
@@ -462,6 +486,8 @@ Partner led the \H10, won by dummy's \HA. At trick 2 South calls for dummy's \C3
 When you have made your choice click NEXT. [choose-card C6] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \C6.
 
@@ -501,6 +527,8 @@ When you have made your choice click NEXT. [choose-card C3] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \C3 (smoothly).
 
 South has 2 small \Cs and faces a choice of dummy plays in the suit. He must decide whether to play you for the \CA or the \CQ. If you play your \CA you make the decision very easy for him.
@@ -536,6 +564,8 @@ South next played to dummy's \CA and led the \D2. What do you play?
 When you have made your choice click NEXT. [choose-card DA] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \DA.
 
@@ -575,6 +605,8 @@ Having done all this, South now plays a low \H from his hand. What do you play?
 
 When you have made your choice click NEXT. [choose-card HA] [NEXT]
 
+[clear-commentary]
+
 Play the \HA.
 
 If you followed what South was doing you will realize that he has eliminated both the \Ds and \Cs from both his hand and dummy. If it isn't clear that he is now out of \Cs, just remember the bidding - he must have had 5 \Ss and 4 \Hs.
@@ -612,6 +644,8 @@ What do you play? \HQ or \H4?
 When you have made your choice click NEXT. [choose-card H4] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Play the \H4.
 
@@ -653,6 +687,8 @@ When you have made your choice click NEXT. [choose-card SA] [NEXT]
 
 [PLAY S:D6]
 
+[clear-commentary]
+
 Play the \SA.
 
 Even if South doesn't have the \SK he can establish a \S winner just by leading twice toward the \S Q J. That winner will take care of whatever black-suit loser he may have.
@@ -689,6 +725,8 @@ When you have made your choice click NEXT. [choose-card S3] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Play the \S3.
 
 When a singleton in dummy is led through your Ace it is more often better to play low than to go up with the Ace. Declarer might not even have the King, or he may have the King Jack combination and guess wrong.
@@ -724,6 +762,8 @@ You lead the \DJ and dummy's \DA wins the first trick. Declarer pulls trumps wit
 With all that completed South plays the \HA. What do you play?
 
 When you have made your choice click NEXT. [choose-card HK] [NEXT]
+
+[clear-commentary]
 
 Play the \HK.
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 05:59:54
+%Created: 2026-02-17 06:18:24
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -24,6 +24,8 @@ The bidding has been as shown. The contract is 3NT and it is your lead.
 When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead the \HK, the top of an honor sequence. Leading an honor sequence is always good strategy against a notrump contract. It is attacking, threatening to set up several winners for you, and there is little risk that you will give away a trick.
 
@@ -54,6 +56,8 @@ The bidding has been as shown. The contract is 4\S and it is your lead.
 When you have made your choice click NEXT. [choose-card H2] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead the \H2.
 
@@ -87,6 +91,8 @@ When you have made your choice click NEXT. [choose-card S4] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \S4, fourth down in a good suit with broken honors (no sequence).
 
 The only suit you have worth attacking with is your \Ss. Leading fourth down is standard with this type of holding, but it does have some risk. You are hoping to find partner with the \SQ or, even better, the \SA.
@@ -119,6 +125,8 @@ When you have made your choice click NEXT. [choose-card SK] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \SK, the top of a 2-card honor sequence.
 
 Against a suit contract you want to try to set up a quick winner in the suit.
@@ -149,6 +157,8 @@ When you have made your choice click NEXT. [choose-card SQ] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \SQ, the top of a broken honor sequence.
 
 The top of a solid 3-card honor sequence is best, but as you can see, a broken 3-card sequence may work out just as good.
@@ -178,6 +188,8 @@ The bidding has been as shown. The contract is 4\S and it is your lead.
 When you have made your choice click NEXT. [choose-card any:S9,S4,S3] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead any \S.
 
@@ -215,6 +227,8 @@ When you have made your choice click NEXT. [choose-card H6] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \H6.
 
 You held this identical hand in Deal 3. The declarer was playing 3NT and the best lead was the \S4, fourth down.
@@ -248,6 +262,8 @@ The bidding has been as shown. The contract is 6\D and it is your lead.
 When you have made your choice click NEXT. [choose-card S4] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead the \S4.
 
@@ -283,6 +299,8 @@ When you have made your choice click NEXT. [choose-card H4] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \H4.
 
 This is a close call. The top of your \S honor sequence is very tempting, but even when you find partner with the \SK you can still only establish three \S winners to go with your \CA. Unfortunately, that's not enough to defeat the contract.
@@ -312,6 +330,8 @@ The bidding has been as shown. The contract is 4\H and it is your lead.
 When you have made your choice click NEXT. [choose-card H9] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Underleading an Ace against a suit contract is the absolute worst opening lead in Bridge. A careful look at this hand shows just how bad it can turn out.
 
@@ -344,6 +364,8 @@ The bidding has been as shown. The contract is 3NT and it is your lead.
 When you have made your choice click NEXT. [choose-card S7] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead the \S7, the suit your partner overcalled.
 
@@ -379,6 +401,8 @@ When you have made your choice click NEXT. [choose-card C5] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \C5.
 
 There is only one reason partner would pass your takeout double - he has a great \C suit and he expects to inflict a large penalty.
@@ -410,6 +434,8 @@ The bidding has been as shown. The contract is 3NT and it is your lead.
 When you have made your choice click NEXT. [choose-card H9] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead the \H9, the top of nothing.
 
@@ -447,6 +473,8 @@ When you have made your choice click NEXT. [choose-card SA] [NEXT]
 
 [PLAY W:D9]
 
+[clear-commentary]
+
 Lead the \SA.
 
 South's 2\S bid is a Weak-jump Overcall, based on a 6-card \S suit and a weak hand.
@@ -483,6 +511,8 @@ When you have made your choice click NEXT. [choose-card H3] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \H3, fourth highest in an attacking suit.
 
 Sometimes it comes down to just this kind of choice. Do you lead fourth down from \S K 8 7 3 or from \H Q 10 7 3.
@@ -517,6 +547,8 @@ When you have made your choice click NEXT. [choose-card H3] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \H3.
 
 The \CT would probably be a very safe lead. But you don't want "safe", you want "attack".
@@ -548,6 +580,8 @@ The bidding has been as shown. The contract is 3NT and it is your lead.
 When you have made your choice click NEXT. [choose-card S4] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead the \S4.
 
@@ -583,6 +617,8 @@ When you have made your choice click NEXT. [choose-card C8] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \C8.
 
 If partner had not doubled North's Stayman 2\C bid you would probably have started with one of your Jacks.
@@ -617,6 +653,8 @@ When you have made your choice click NEXT. [choose-card any:D2,S9] [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Lead the \D2, or perhaps the \S9. Admittedly the \HQ looks very tempting, but resist the temptation.
 
 Since dummy bid \Hs, don't help declarer by leading the suit. Declarer has 11 tricks, and will hope to pick up one more in \Cs, but that won't happen.
@@ -647,6 +685,8 @@ The bidding has been as shown. The contract is 4\S and it is your lead.
 
 When you have made your choice click NEXT. [NEXT]
 
+[clear-commentary]
+
 Did you choose the \HQ? I was afraid you would. That is wrong, but because this is the last Deal I'm going to give you another chance.
 
 Look at the bidding carefully, then ask yourself why you doubled.
@@ -654,6 +694,8 @@ Look at the bidding carefully, then ask yourself why you doubled.
 Now pick the opening lead that will set the contract, then click NEXT. [choose-card CA] [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Lead the \CA, then follow with a small \C.
 

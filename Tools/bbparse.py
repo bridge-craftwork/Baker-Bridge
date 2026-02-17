@@ -688,6 +688,7 @@ def extract_progressive_analysis(soup,filepath):
 #   in the inner table, then analysis following in the outer table:
 
     table_tds = [td for td in all_tds if td.find('table')]
+    prev_had_next = False
     for td in table_tds:
         partial_dealer, partial_auction_str, partial_contract, partial_declarer, partial_analysis_str = extract_auction_info(td,filepath)
         partial_auction_str = partial_auction_str.replace(" |", "")
@@ -702,18 +703,29 @@ def extract_progressive_analysis(soup,filepath):
             else:
                 last_bid = all_bids[len(partial_auction_list)-1]
 
-        analysis = extract_analysis_text(str(td))
-        analysis = clean_up_analysis(analysis,str(td),last_bid)
+        td_str = str(td)
+        analysis = extract_analysis_text(td_str)
+        analysis = clean_up_analysis(analysis,td_str,last_bid)
+        # Detect clear-commentary: prior section ended with [NEXT] and
+        # current TD has no grey <font> tags (not a continuation)
+        if prev_had_next and '<font' not in td_str:
+            analysis = "[clear-commentary]\\n" + analysis
         analysis_lines.append(analysis)
+        prev_had_next = analysis.endswith("[NEXT]")
 #   Now iterate TDs which do not contain an inner table, but do contain the text "NEXT"
-        
+
     non_table_tds = [td for td in all_tds if not td.find('table')]
     for td in non_table_tds:
 #        print("td:", str(td))
         if "3" in td.get("rowspan",""):
-            analysis = extract_analysis_text(str(td))
-            analysis = clean_up_analysis(analysis,str(td),"")
+            td_str = str(td)
+            analysis = extract_analysis_text(td_str)
+            analysis = clean_up_analysis(analysis,td_str,"")
+            # Detect clear-commentary for non-table sections too
+            if prev_had_next and '<font' not in td_str:
+                analysis = "[clear-commentary]\\n" + analysis
             analysis_lines.append(analysis)
+            prev_had_next = analysis.endswith("[NEXT]")
 
 #         print(analysis)
 #         print()

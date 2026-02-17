@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 05:59:54
+%Created: 2026-02-17 06:18:24
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Eliminations
 [Event "Baker Bridge - Elimination Plays"]
@@ -22,6 +22,8 @@
 North's 3\S bid is a limit raise showing 10-12 points and good trump support. South is to play 6\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 This \D holding is the first example shown in the introduction.
 
@@ -58,6 +60,8 @@ Click NEXT to see all the hands. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 If you finesse East for the \DQ you make the contract, but if you finesse West for that card you go down.
 
 With an elimination play you make it no matter who holds the Queen.}
@@ -83,6 +87,8 @@ With an elimination play you make it no matter who holds the Queen.}
 South is to play 4\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 This \D holding is the second example shown in the introduction.
 
@@ -122,6 +128,8 @@ Click to see the full deal. [NEXT]
 
 [PLAY S:D6]
 
+[clear-commentary]
+
 If you try to make a \D trick on your own you will fail. The first defender will play "second-hand-low" and the other defender will take your \DQ (or \DJ).
 
 Only by forcing them to start the \Ds can you take a trick in the suit. }
@@ -147,6 +155,8 @@ Only by forcing them to start the \Ds can you take a trick in the suit. }
 South is to play 6\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 This \D holding is the third example shown in the introduction.
 
@@ -184,6 +194,8 @@ Click NEXT to see the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Against good defenders there is no way you can make all three \D tricks if you make the first play in the suit. This assumes that if one defender held both the \DQ and \DJ he would "split" the honors if you tried to lead through them. 
 
 By forcing them to start the \Ds you make three tricks when the two outstanding honors are divided. }
@@ -209,6 +221,8 @@ By forcing them to start the \Ds you make three tricks when the two outstanding 
 South is to play 4\H. West leads the \DJ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 With three unavoidable \S losers you cannot afford to lose a \C. So you either have to guess the location of the\CQ or (DRUMROLL) pull off an elimination play! Win the \DK, then pull trumps, it takes two rounds.
 
@@ -241,6 +255,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Using elimination plays makes you a better player. But in Bridge, no matter how skillful you are, there will always be a luck factor.
 
@@ -296,6 +312,8 @@ Click to see all four hands. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 If East is the one who has to play a \C you just let it ride around to dummy's \C K J 10 3.  
 
 If West is the one who has to play a \C you need to insert the \CT or \CJ from dummy.
@@ -325,6 +343,8 @@ North decides a limit raise is better than just jumping to game. South has heard
 South is to play 6\S. West leads the \DQ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 Your first thought is probably that if you can guess the \CQ you will make all thirteen tricks.
 
@@ -372,6 +392,8 @@ Click NEXT to see the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Most elimination plays work on the same principle. The biggest difference is usually the technique you have to use to complete the eliminations. 
 
 Here it took two ruffs, one in each hand.}
@@ -402,6 +424,8 @@ Make a Plan, then click NEXT. [NEXT]
 
 [PLAY N:S8,N:S3,S:ST,S:S5]
 
+[clear-commentary]
+
 In addition to the two \Ss already lost you have a potential loser in each minor suit. On the plus side, you have a finesse position in \Ds and a two-way finesse in \Cs. If you work both finesses successfully you make an overtrick - if both fail you will be down 1. Or, you could try for a 100% sure end-play.
 
 Ruff the \SA with dummy's \H10 and pull trumps (three rounds).
@@ -429,6 +453,8 @@ Clickfor the complete deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 On this Deal an elimination play will guarantee that you make your contract.
 
@@ -459,6 +485,8 @@ Decide for yourself!}
 You naturally respond 2\D to North's strong 2\C opener. Before you know it you are playing a slam - with your mighty 2-point hand! South plays 6\D. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 If the contract appears to depend upon a finesse, try to find another way. Here, you can always try the \C finesse, but maybe you can eliminate \Ss and see what happens.
 
@@ -496,6 +524,8 @@ Click for the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 The A Q 9 combination is interesting. Obviously if you have A Q 10 it works very well in an end-play situation. 
 
 As you see, A Q 9 actually works just as well.}
@@ -521,6 +551,8 @@ As you see, A Q 9 actually works just as well.}
 South is to play 4\H. West leads the \DQ.  
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 You have two \D losers that you can't escape, as well as the \SA. So you must arrange your play so you don't lose a trick to the \SJ. That could mean you will finesse one defender for that card, but it would be a lot better if you could make the defense play \Ss first.
 
@@ -556,6 +588,8 @@ Clickfor the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Assume West is on lead for the first \S play.
 
 If he leads the \SA it sets up both the \SK and \SQ so you only have one \S loser. If he leads low you also play low from dummy and East must play the \SJ to prevent you getting a trick with the \ST. Again you only lose one \S.
@@ -585,6 +619,8 @@ North's 2\H bid showed a hand with limit raise or better in \Ds. South doesn't b
 Make a Plan, then click NEXT. [NEXT]
 
 [PLAY N:H3,S:HA]
+
+[clear-commentary]
 
 The good news is that you have no losers in \Ss, \H, or \Ds. The bad news is that you have two losers in \Cs. The good news is that missing the \C K Q you could try two finesses. The bad news is that West overcalled, so he probably has both honors. The best news of all is that you know how to pull off an elimination play!. Play a trump to dummy's \DK (West discards a \H) and ruff the \H5.
 
@@ -618,6 +654,8 @@ Clickfor the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 When you are missing the K Q of a suit, as in the \Cs on this hand, taking two finesses gives you a 75% chance of success - <b>all things being equal</b>.  
 
 In this case though, West's overcall means all things are not equal, so your chances are lower than 75%.
@@ -647,6 +685,8 @@ North's cue-bid shows a limit raise or better (11 points) in \Cs. South is to pl
 Make a Plan, then click NEXT. [NEXT]
 
 [PLAY N:S3,N:S2,S:SK,S:S4]
+
+[clear-commentary]
 
 You have lost one trick already and have a possible loser in trumps and another possible loser in \Hs. Both loserscan be avoided with successful finesses. The problem with the \C finesse is that West made an overcall so he is more likely to hold the \CK. If you don't try the \C finesse you may be able to throw a defender in with the \CK at a time when he will have to help you with his next play.
 
@@ -690,6 +730,8 @@ Clickfor the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 If you had finessed for the \CK West would have won the trick and been able to make a safe exit, probably with his other \C.
 
 You would then have been forced to rely on the \H finesse, and with West being the defender who showed some strength, you would likely have finessed through him.
@@ -719,6 +761,8 @@ Your 3\H bid is a slam suggestion. After you show the \CA partner wastes no time
 South is to play 6\H. West leads the \SK.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 This is a good slam. You have only two possible \C losers, and by taking two \C finesses you have an excellent chance of success. But by using an elimination play you will have a sure thing. 
 
@@ -772,6 +816,8 @@ Clickfor the complete Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 You probably noticed that you could have finessed your \CQ on the first \C play and pulled off the end-play just as effectively. But there is an advantage to making the first finesse with the \CT.
 
 If East just happens to hold both the \CK and \CJ you will make all thirteen tricks if your first finesse is with the \CT!}
@@ -800,6 +846,8 @@ Make a Plan, then click NEXT. [NEXT]
 
 [PLAY N:H5,S:HQ]
 
+[clear-commentary]
+
 You have one trick already in the bag, four more to come in \Cs, and three other Aces. So all you have to do it get one of those finesse positions to come through. By now, though, you must have figured that nothing is going to work! Even your best shot, East holding at least one of \S K Q will not happen. The answer (again) is to eliminate, then throw in.
 
 This time there is only one suit you can eliminate, \Cs. So play all four \Cs, ending in dummy. They split 3-2.
@@ -827,6 +875,8 @@ Click NEXT to see the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Wow! End-played at trick #6. }
 [Play "W"]H2
 
@@ -852,6 +902,8 @@ South is to play 4\S after North's Stayman bid uncovered the 4-4 fit. West leads
 Make a Plan, then click NEXT. [NEXT]
 
 [PLAY N:H6,S:HA]
+
+[clear-commentary]
 
 With three possible losers in \Ds you might first think that you will have to finesse one of the defenders for the trump Queen. But anytime you see an unsupported Jack opposite an unsupported Queen you should start thinking about a throw-in play. And what better card to use for the throw-in than the Queen of trumps.
 
@@ -898,6 +950,8 @@ Click NEXT to see the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 It is clear that the elimination play saved you having to guess the finesse for the \SQ.  
 
 But what if you considered yourself a really good guesser? So good that you felt confident in taking the finesse, and so good that you pulled it off successfully. 
@@ -925,6 +979,8 @@ You'd be no better off. Although you would avoid the \S loser you would now have
 South considered Blackwood, then realized if North showed either 2 or 3 Aces he was going to bid slam. But if North showed just one Ace he would have to maneuver to play 5NT which might be worse than 6\C. So he just bid the slam. South plays 6\C. West leads the \SJ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 You wish, you hope, you may even pray, but when you play the \SQ East covers with the \SK. So you know you have a \S loser. And unless East holds the \DQ you might have a \D loser also.
 
@@ -968,6 +1024,8 @@ Click to see the Deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Many elimination endings give you a sure thing. Others just improve your chances.  
 
 Here you had two chances. First, West might have HAD to win the throw-in, either because he had all of the high \Ss, or more likely because he messed up. The second chance paid off when East took the throw-in but you found a fortunate position with the \Ds.}
@@ -994,6 +1052,8 @@ The slam was easy to bid, now you just have to make it. South plays 6\C. West le
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 You have one certain \D loser, and a two-way finesse for the \SQ. That should make you start thinking about elimination and throw-in. So win the \DA and pull trumps, West having a singleton.
 
 Click NEXT. [NEXT]
@@ -1015,6 +1075,8 @@ Click NEXT. [NEXT]
 Click for the Deal. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Among Bridge players you often hear about someone (usually Aunt Harriet) who is amazingly lucky at guessing the location of missing Queens.  
 
@@ -1090,6 +1152,8 @@ Click to see all the hands. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Incredible isn't it.  
 
 You just wonder how many bridge players would have just conceded down 2 on this hand.
@@ -1120,6 +1184,8 @@ Make a Plan, then click NEXT. [NEXT]
 
 [PLAY N:DA,S:D5]
 
+[clear-commentary]
+
 Is this a really easy elimination play showing up this late in the group? Or are you just getting better at seeing them? In any case, you should see that a successful \H finesse will land your contract, but you should also remember that there aren't many finesses working on these 25 deals.
 
 So rather than finesse, eliminate! Pull trumps in two rounds, ending in dummy.
@@ -1143,6 +1209,8 @@ So here you are in dummy. Do you finesse the \H now? Of course not. You play the
 Clickfor a view of all four hands. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 The answer to the question posed above is:
 
@@ -1173,6 +1241,8 @@ North realizes that to make a takeout double, then jump in your own suit you mus
 Make a Plan, then click NEXT. [NEXT]
 
 [PLAY N:C3,S:CA]
+
+[clear-commentary]
 
 You have four losers. If you are thinking about leading toward your \DK you are delusionary. West has the \DA and you know it. Your best hope is to end-play West with the \CT and force him to break the \Ds. 
 
@@ -1208,6 +1278,8 @@ Click to see all hands. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Some problems are tougher than others, this being a tough one.  
 
 It was not a complete elimination since East still had a trump when you threw West in. However, it worked because West was out of both \Ss and \Hs.}
@@ -1233,6 +1305,8 @@ It was not a complete elimination since East still had a trump when you threw We
 South is to play 4\S. West leads the \DQ.  
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 Unless West is real beginner East will hold the \DA so you should not try the \DK on this trick. And when West continues with the \DJ you should again duck in dummy, ruffing with an honor in your hand.
 
@@ -1280,6 +1354,8 @@ Click for the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 This was the toughest hand so far and the end-play depended upon your correct reading that East must hold the \DA.
 
 It also depended upon the defenders not switching to \Cs at the second trick. If West had decided to switch to the \CQ you would have had no chance at all. }
@@ -1305,6 +1381,8 @@ It also depended upon the defenders not switching to \Cs at the second trick. If
 After hearing a limit raise, South's leap to 6\H is, well, bold let's say. South plays 6\H. West leads the \S5, East plays the \SK.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 Very bold in fact. The opening lead has exposed a \S loser in addition to your two \C losers. On the plus side dummy has an extra \D trick. You are going to have to try to throw West in with the \C suit, but you will have to be very careful with dummy's entries.
 
@@ -1338,6 +1416,8 @@ Click to see if you made the slam. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 You were lucky, West had only three \Ds so your partial elimination worked.  
 
 But if it had turned out that West DID have another \D, and led it, all would not be lost. You would ruff in your hand, play a trump to dummy, then take a second \C finesse. If it turned out the \CK and \CQ were in different hands you would make the slam.}
@@ -1363,6 +1443,8 @@ But if it had turned out that West DID have another \D, and led it, all would no
 Some bidding, huh? Well, what would you have bid in the North seat? South plays 6NT. West leads the \DJ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 Mirror distributions! So you can only make ten tricks in \Hs, \Ds and \Cs. 
 
@@ -1411,6 +1493,8 @@ Clickfor the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 West no doubt thought his 3\S bid was a good idea. 
 
@@ -1478,6 +1562,8 @@ Clickfor the complete deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 This is called a Partial Elimination because all of the \Ds were not eliminated.  
 
 However, the key is that you could tell they were eliminated from the East hand, and East was going to be the throw-in target because of his long \Ss. 
@@ -1541,6 +1627,8 @@ In other words, played this way you make the contract whenever West holds the \D
 Click to see all the hands.. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 With the cards as shown the elimination play works.
 
@@ -1607,6 +1695,8 @@ Click to see the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 A fairly complex elimination play to finish off the set. 
 

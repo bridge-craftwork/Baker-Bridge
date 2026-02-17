@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 05:59:54
+%Created: 2026-02-17 06:18:24
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 100Deals
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
@@ -31,6 +31,8 @@ South plays 1NT. West leads the \S4. East wins the \SA, then plays the \S9. West
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 1NT. West leads the \S4. East wins the \SA, then plays the \S9. West takes his \SK and leads another \S, East discarding a \H.</b>
 
 To make a PLAN for a Notrump contract you should count your winners.
@@ -47,6 +49,8 @@ Click NEXT to see the complete deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This is an example of a straightforward hand where you should take your winners.
 
@@ -84,6 +88,8 @@ South plays 4\H. West leads the \D10.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \D10.</b>
 
 To make a PLAN for a suit contract you should count your losers.
@@ -97,6 +103,8 @@ You can take care of this possibility by discarding a \C from dummy <b>BEFORE</b
 Click NEXT to see the Deal that could have set you. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Visualize what would have happened if you had taken the first trick and immediately tried to pull trumps.
 
@@ -134,6 +142,8 @@ South plays 3NT. West leads the \S4.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \S4.</b>
 
 Winners: \S 1 : \H 0 : \D 4 : \C 4 : Total = 9
@@ -152,6 +162,8 @@ Click NEXT to see the complete Deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 There are times when you have to take finesses - like when you just have to find one more winner. 
 
@@ -187,6 +199,8 @@ South plays 4\S. West leads the \D5 on which you play dummy's \D3. East wins \DJ
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \D5 on which you play dummy's \D3. East wins \DJ, plays \DA, then \D2.</b>
 
 Losers: \S 1 : \H 0 : \D 2 : \C 1 : Total = 4
@@ -200,6 +214,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You were lucky that the \CQ was with East.
 
@@ -233,6 +249,8 @@ South plays 3NT. West leads the \HJ. You hopefully put on the \HQ, but East play
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \HJ. You hopefully put on the \HQ, but East plays the \HK.</b>
 
 Winners: \S 0 : \H 1 : \D 1 : \C 4 : Total = 6
@@ -246,6 +264,8 @@ Click for the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You can see what could have happened if you had tried to sneak even one \S trick. East would have grabbed the \SA and played a small \H. West would have happily taken 4 \H tricks and you would be down 1.}
 [Play "W"]HJ
@@ -283,6 +303,8 @@ South plays 1NT. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 1NT. West leads the \HQ.</b>
 
 Winners: \S 1 : \H 2 : \D 1 : \C 1 : Total = 5
@@ -296,6 +318,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Imagine what would have happened if you had taken the first trick with dummy's \HA.
 
@@ -333,6 +357,8 @@ South plays 4\H. West leads \SA, then switches to \H2.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads \SA, then switches to \H2.</b>
 
 Losers: \S 2 : \H 0 : \D 1 : \C 1 : Total = 4
@@ -346,6 +372,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This PLAN was not difficult.
 
@@ -387,6 +415,8 @@ South plays 3NT. West leads the \SQ. East puts on the \SK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \SQ. East puts on the \SK.</b>
 
 Winners: \S 1 : \H 2 : \D 5 : \C 0 : Total = 8
@@ -402,6 +432,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You might think if you could just sneak one \C through you wouldn't have to depend on the \H finesse. But put yourself in West's chair. Do you really think he will let you win a \C when he sees he can defeat you by taking his \CA and leading \S winners?}
 [Play "W"]SQ
@@ -443,6 +475,8 @@ South plays 4\H. The defense takes the first three \S tricks, then switches to a
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. The defense takes the first three \S tricks, then switches to a \C.</b>
 
 Losers: \S 3 : \H ?? : \D 0 : \C 0 : Total = 3+??
@@ -456,6 +490,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Visualize the situation if your first play was the \HA. West would show out and you would learn that East held \H J 8 6 3 but you couldn't do anything about it.
 
@@ -497,6 +533,8 @@ South plays 4\S. The defense quickly takes three \H tricks, then switches to a \
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. The defense quickly takes three \H tricks, then switches to a \D.</b>
 
 Losers: \S 0? : \H 3 : \D 0 : \C 0 : Total = 3?
@@ -513,6 +551,8 @@ Click NEXT to see the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 When West holds four trumps you can pick them up if your first \S play is the \SA.
 
 If your first \S was \SK or \SQ then it would be too late.
@@ -520,6 +560,8 @@ If your first \S was \SK or \SQ then it would be too late.
 Click NEXT to see an alternate deal. [NEXT]
 
 [PLAY E:H4,E:DQ,E:C6,E:C4,W:SJ,W:ST,W:S6,W:S3]
+
+[clear-commentary]
 
 When East holds four trumps there is no way to avoid a loser. As soon as you lead the first small \S from dummy East will play the \ST. That will force your \SA and leave him with \S J 6 3 behind dummy's \S K Q 9.
 
@@ -557,6 +599,8 @@ South plays 3NT. West leads the \C2.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \C2.</b>
 
 Winner count: \S 2 : \H 1 : \D 2 : \C 1 : Total = 6
@@ -570,6 +614,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As you can see your plan was the only way to make the contract.}
 [Play "W"]C2
@@ -611,6 +657,8 @@ South plays 3NT. West leads \DJ, East plays \DK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads \DJ, East plays \DK.</b>
 
 Winners: \S 2 : \H 1 : \D 2 : \C 3 : Total = 8
@@ -624,6 +672,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Ducking the first \C is the only way to make the contract.
 
@@ -667,6 +717,8 @@ South plays 4\S. West leads the \HK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HK.</b>
 
 Losers: \S ? : \H 0 : \D 1 : \C 0 : Total = ?
@@ -682,6 +734,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If your second \S play is the \SJ East will win the \SK and West will be able to take two more tricks with his \S Q 9 because you have the \S 10 7 left.
 
@@ -725,6 +779,8 @@ South plays 3NT. West leads the \SJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \SJ.</b>
 
 Winner count: \S 2 : \H 0 : \D 2 : \C 1 : Total = 5
@@ -738,6 +794,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As you can see, if you don't play the \Hs as suggested East can prevent you from reaching Dummy in either \Cs or \Ds.}
 [Play "W"]SJ
@@ -771,6 +829,8 @@ South plays 2\H. West leads the \SK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 2\H. West leads the \SK.</b>
 
 Losers: \S 2 : \H 2 : \D 0 : \C 2 : Total = 6
@@ -784,6 +844,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It shouldn't have come as a surprise that West held both \H A Q, after all he is the one who overcalled.
 
@@ -827,6 +889,8 @@ South plays 4\H. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SQ.</b>
 
 Losers: \S 0 : \H 1 or 2 : \D 1 : \C 0 : Total = 2 or 3
@@ -836,6 +900,8 @@ This PLAN looks awfully simple. Win the \S, play \HA, \HK, then give up a \H. Wh
 But when you play the second high \H East shows out.
 
 Make another Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 <b>South plays 4\H. West leads the \SQ.</b>
 
@@ -848,6 +914,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 When you have pulled a couple of rounds of trumps and the defenders hold a master trump it is usually good technique to leave it out. No sense using two of yours to get one of theirs.
 
@@ -885,6 +953,8 @@ South plays 3NT. West leads the \H5. East plays the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \H5. East plays the \HQ.</b>
 
 Winner count: \S 2 : \H 1 : \D 0 : \C 4 : Total = 7
@@ -898,6 +968,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Visualize what would happen if you played the \HA on the first or second trick. When you tried to establish \D tricks East would take the \DA and play a \H to West and you would go down 1. By waiting until the third round to take the \HA you exhaust East of his \Hs.
 
@@ -933,6 +1005,8 @@ South plays 4\H. West leads the \DA and the defense wins two high \Ds then switc
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \DA and the defense wins two high \Ds then switches to a trump.</b>
 
 Losers: \S 0 : \H 0 : \D 2 : \C 2 : Total = 4
@@ -948,6 +1022,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you separate the bidding from the play in your mind you will too often miss clues that should be telling you that certain plans will or won't work.
 
@@ -985,11 +1061,15 @@ What do you bid next?
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 Partner shows 2 Aces so you bid 6\S.
 
 South plays 6\S. West leads the \DK.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 <b>South plays 6\S. West leads the \DK.</b>
 
@@ -1006,6 +1086,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It was very bold to bid this slam and North/South were fortunate to find a distribution where it could be made.
 
@@ -1049,6 +1131,8 @@ South plays 3NT. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \HQ.</b>
 
 Winner count: \S 0 : \H 2 : \D 2 : \C 3 : Total = 7
@@ -1062,6 +1146,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Sometimes good play is just visualizing what bad thing might happen.
 
@@ -1099,6 +1185,8 @@ Make a Plan, then click NEXT. [NEXT]
 
 [show NS]
 
+[clear-commentary]
+
 Always keep in mind that you don't need to bid the same values twice. Partner knows that you have 22 or more points and knows that you have a good \S suit. So all you do at this point is rebid your \Ss to show that it is a 6-card suit.
 
 You bid 3\S and partner raises you to game.
@@ -1106,6 +1194,8 @@ You bid 3\S and partner raises you to game.
 South plays 4\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 <b>South plays 4\S. West leads the \HQ.</b>
 
@@ -1122,6 +1212,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Imagine you had NOT driven out the \SQ.
 
@@ -1161,6 +1253,8 @@ South plays 2\S. West leads the \DK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 2\S. West leads the \DK.</b>
 
 Losers: \S 3? : \H 1 : \D 2 : \C 0 : Total = 6?
@@ -1176,6 +1270,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 When the defenders have a lot of high trumps you have to try to make sure they fall on the same tricks.
 
@@ -1213,6 +1309,8 @@ South plays 3NT. West leads the \H7 East wins \HA and returns \H9.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \H7 East wins \HA and returns \H9.</b>
 
 Winner count: \S 3 : \H 1 : \D 3 : \C 1 : Total = 8
@@ -1224,6 +1322,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you try the \C finesse you will go down, losing 1 \C and 4 \Hs. If you take your 4 \D tricks and refuse to try the \C finesse you will make the contract.
 
@@ -1261,6 +1361,8 @@ South plays 4\S. West leads the \HK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HK.</b>
 
 Losers: \S 2 : \H 0 : \D 0 : \C 0 : Total = 2
@@ -1268,6 +1370,8 @@ Losers: \S 2 : \H 0 : \D 0 : \C 0 : Total = 2
 You expect trumps to split 3-2 so you would lose 2 trumps. You have no other losers so you decide to pull trumps. You win the \HA and play the \SA. East plays the \SK!
 
 Do you change your Plan? Click? [NEXT]
+
+[clear-commentary]
 
 Do you change your <b>PLAN</b>?
 
@@ -1280,6 +1384,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The risk of leading a second trump was too great.
 
@@ -1317,6 +1423,8 @@ South plays 4\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HQ.</b>
 
 Losers: \S 1 : \H 1 : \D 2 : \C 0 : Total = 4
@@ -1328,6 +1436,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Think through what would have happened if you had not forced out the \SQ.
 
@@ -1367,6 +1477,8 @@ South plays 1NT. West leads the \C4. East plays the \CQ, then the \CK , West pla
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 1NT. West leads the \C4. East plays the \CQ, then the \CK , West playing the \C3 on the second trick. East then plays the \C2 which you win with your \CA.</b>
 
 Winners: \S 2 : \H 0 : \D 3 : \C 1 : Total = 6
@@ -1380,6 +1492,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you try to get a winner by taking the \S finesse you will give <b>THEM</b> a winner and you will go down.
 
@@ -1419,6 +1533,8 @@ South plays 4\S. West leads the \CQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \CQ.</b>
 
 Losers: \S 0 : \H 2 : \D 1 : \C 1 : Total = 4
@@ -1430,6 +1546,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It's easy to decide whether to draw trumps or not.
 
@@ -1467,6 +1585,8 @@ South plays 2\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 2\S. West leads the \HQ, East plays \H9.</b>
 
 Losers: \S 0 : \H 1 : \D 3 : \C 2 : Total = 6
@@ -1482,6 +1602,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As you see, the \C A Q were sitting badly and you could not win a \C trick.
 
@@ -1517,6 +1639,8 @@ South plays 3NT. West leads the \CK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \CK.</b>
 
 Winners: \S 3 : \H 2 : \D 1 : \C 1 : Total = 7
@@ -1531,6 +1655,8 @@ Click NEXT to see the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Imagine that you had won either the first or second \C. When East won the \DK he would still have had a \C to return to West's hand. You would have lost 4 \C tricks and the \DK.
 
 But what if East <b>DID</b> have another \C when he won the \DK?
@@ -1538,6 +1664,8 @@ But what if East <b>DID</b> have another \C when he won the \DK?
 Click NEXT to see different East/West hands. [NEXT]
 
 [PLAY E:S4,W:C4]
+
+[clear-commentary]
 
 Suppose you held up until the third \C. When East won the \DK  here he had a fourth \C to return to West's hand. That means the \C suit split 4-4 so you would have lost only 3 \C tricks and the \DK.}
 [Play "W"]CK
@@ -1579,6 +1707,8 @@ South plays 4\S. West leads the \DA, then \DK, then \DJ. East discards on the se
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \DA, then \DK, then \DJ. East discards on the second \D and ruffs the third one with the \ST.</b>
 
 Losers: \S 0? : \H 1 : \D 2? : \C 0 : Total = 3?
@@ -1592,6 +1722,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Discarding the \H loser instead of over-ruffing was the winning Plan. If you had over-ruffed you would have lost the \H, but you would also have to lose a trump. You made a good play.
 
@@ -1637,6 +1769,8 @@ South plays 4\S. West leads the \D2. East plays \DJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 South plays 4\S. West leads the \D2. East plays \DJ.
 
 Losers: \S 1 : \H 0 : \D 2 : \C 2 : Total = 5
@@ -1650,6 +1784,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This is another example of the general principle to leave a master trump out.
 
@@ -1685,6 +1821,8 @@ South plays 3NT. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \HQ.</b>
 
 Winner count: \S 1 : \H 2 : \D 1 : \C 2 : Total = 6
@@ -1700,6 +1838,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You can see that with \Cs splitting 3-2 the Duck insures the contract.
 
@@ -1739,6 +1879,8 @@ South plays 5\C. West leads the \DQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 5\C. West leads the \DQ.</b>
 
 Losers: \S 1 : \H 0 : \D 1 : \C 1 : Total = 3
@@ -1756,6 +1898,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Pulling trumps is very important, but sometimes there is something you must do <b>BEFORE</b> you play trumps.
 
@@ -1793,6 +1937,8 @@ South plays 5\H. West leads the \ST. You put on dummy's \SJ, East plays the \SK 
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 5\H. West leads the \ST. You put on dummy's \SJ, East plays the \SK and you win the \SA.</b>
 
 Losers: \S 1 : \H 1 : \D 0 : \C 1 : Total = 3
@@ -1806,6 +1952,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The way you decide whether to start pulling trumps right away is to use your imagination.
 
@@ -1841,6 +1989,8 @@ South plays 3NT. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \HQ.</b>
 
 Winners: \S 1 : \H 2 : \D 1 : \C 3 : Total = 7
@@ -1856,6 +2006,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 When East holds the \SK you can always get 3 \S tricks if you play correctly. }
 [Play "W"]HQ
@@ -1887,6 +2039,8 @@ South plays 4\S. West leads the \DJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \DJ.</b>
 
 Losers: \S 2/3 : \H 0 : \D 1 : \C 0 : Total = 3/4
@@ -1900,6 +2054,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Leading twice toward the \S Q J gives you a guarantee on this layout because East held a doubleton high honor.
 
@@ -1947,6 +2103,8 @@ South plays 4\S. West leads the \HK. The defense takes the first three \H tricks
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HK. The defense takes the first three \H tricks, then switch to a \C.</b>
 
 Losers: \S ? : \H 3 : \D 0 : \C 0 : Total = 3?
@@ -1964,6 +2122,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The reason you must not lead the \SQ is that West will always cover and that  will force you to use two of your honors on one trick.
 
@@ -1999,6 +2159,8 @@ South plays 3NT. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \SQ.</b>
 
 Winner count: \S 2 : \H 0 : \D 0 : \C 2 : Total = 4
@@ -2014,6 +2176,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Without the holdup you could still have made the contract, but only if you had established the \H winners first. That would have been a total guess.
 
@@ -2053,6 +2217,8 @@ Click [ROTATE]
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>North plays 2\S. East leads \HA, then \HK.</b>
 
 Losers: \S 1/2 : \H 1 : \D 0 : \C 3 : Total = 5/6
@@ -2066,6 +2232,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you had led your \SK East would have won the \SA and you would later have to give up a \S trick to West's \ST.
 
@@ -2107,6 +2275,8 @@ South plays 3\H. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3\H. West leads the \SQ.</b>
 
 It turns out there was a fourth reason not to bid 3\S - the opponents might lead the suit.
@@ -2120,6 +2290,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Some contracts are impossible. So you just play to keep the damage as low as possible.}
 [Play "W"]SQ
@@ -2153,6 +2325,8 @@ South plays 3NT. West leads the \HJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \HJ.</b>
 
 Winner count: \S 1 : \H 3 : \D 0 : \C 3 : Total = 7
@@ -2166,6 +2340,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you had taken an early \S finesse you would have gone down.
 
@@ -2203,6 +2379,8 @@ South plays 4\H. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SQ.</b>
 
 Losers: \S 2 : \H 0 : \D 1 : \C 2 : Total = 5
@@ -2214,6 +2392,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Some would go down on this hand when they ruffed the first \S with dummy's \H3 and East over-ruffed. It is pretty clear that you should ruff with one of the higher cards, but sometimes the thought comes too late.}
 [Play "W"]SQ
@@ -2255,6 +2435,8 @@ South plays 3\H. West leads the \CJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3\H. West leads the \CJ.</b>
 
 Losers: \S 2 : \H 2 : \D 1 : \C 1 : Total = 6
@@ -2268,6 +2450,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The play for this hand was not straightforward at all, and might have taken a different path had the East/West cards been arranged differently. However, the general approach of ruffing a \S in dummy and setting up the \D suit would bring the best result with most arrangements.}
 [Play "W"]CJ
@@ -2309,6 +2493,8 @@ South plays 3NT. West leads the \S5. East plays the \S9.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \S5. East plays the \S9.</b>
 
 Winner count: \S 2 : \H 0 : \D 2 : \C 4? : Total = 8?
@@ -2324,6 +2510,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As you can see, with this layout a \D finesse would be fatal.
 
@@ -2363,6 +2551,8 @@ South plays 4\S. West leads the \HQ, East playing \H9.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HQ, East playing \H9.</b>
 
 Losers: \S 0 : \H 1 : \D 1 : \C 2 : Total = 4
@@ -2374,6 +2564,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Ruffing with the \SQ might cost a trick if the \Ss split 4-1 and East did not have a doubleton \H.  But you need to stay flexible and make your  decisions based on what you see happening at the table. In this deal, after East signalled high-low in \Hs it was logical to play him for a doubleton.}
 [Play "W"]HQ
@@ -2411,6 +2603,8 @@ South plays 4\S. West leads \DA, \DK, \DQ. East plays \D8 then \D2.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads \DA, \DK, \DQ. East plays \D8 then \D2.</b>
 
 Losers: \S 0 : \H 0 : \D 3 : \C 1 : Total = 4
@@ -2422,6 +2616,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you had ruffed, East would have over-ruffed. And you would still have a \C loser. You don't have to worry about a fourth \D lead because you can ruff in your hand higher than any card East might ruff with.}
 [Play "W"]DA
@@ -2455,6 +2651,8 @@ South plays 3NT. West leads the \H2, East wins the \HA and returns the \H5. West
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \H2, East wins the \HA and returns the \H5. West takes the \HK and plays the \H7.</b>
 
 Winner count: \S 2 : \H 2 : \D 2 : \C 2 : Total = 8
@@ -2470,6 +2668,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As you see, this time the \Ss didn't split so you had to make the \CJ to succeed. }
 [Play "W"]H2
@@ -2501,6 +2701,8 @@ South plays 4\S. West leads \HA, \HK, \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads \HA, \HK, \HQ.</b>
 
 Losers: \S 1 : \H 2 : \D 1 : \C 0 : Total = 4
@@ -2514,6 +2716,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You have to listen to the bidding and draw conclusions from what is bid - and not bid. Because he passed originally you could figure out that West could not hold the \SK. Or, if you had needed to know, he could also not have had the \DA.}
 [Play "W"]HA
@@ -2551,6 +2755,8 @@ South plays 4\H. West leads the \SK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SK.</b>
 
 Losers: \S 1 : \H 0 : \D 1 : \C 2 : Total = 4
@@ -2564,6 +2770,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It is extra nice when the opponents hand you a contract.
 
@@ -2617,6 +2825,8 @@ South plays 6\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 6\S. West leads the \HQ.</b>
 
 Losers: \S 0 : \H 1 : \D 0 : \C 1 : Total = 2
@@ -2630,6 +2840,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Establishing a long side suit in dummy is one of the basic ways to eliminate a loser.
 
@@ -2671,6 +2883,8 @@ South plays 4\H. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SQ.</b>
 
 Losers: \S 0 : \H 0 : \D 1 : \C 3 : Total = 4
@@ -2686,6 +2900,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You can see that playing a \C from dummy will guarantee the contract.
 
@@ -2733,6 +2949,8 @@ South plays 3\S. West leads the \DK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3\S. West leads the \DK.</b>
 
 Losers: \S 1 : \H 2 : \D 1 : \C 1 : Total = 5
@@ -2746,6 +2964,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The defenders may not lead trumps to try to stop your ruff.
 
@@ -2783,6 +3003,8 @@ South plays 3NT. West leads \S6. East plays \SK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads \S6. East plays \SK.</b>
 
 Winners: \S 1 : \H 2 : \D 1 : \C 2 : Total = 6
@@ -2798,6 +3020,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This is one of those hands where your thinking would be clearer if you had less strength.
 
@@ -2837,6 +3061,8 @@ South plays 4\H. West leads the \DQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \DQ.</b>
 
 Losers: \S 2 : \H 1 : \D 1 : \C 1 : Total = 5
@@ -2852,6 +3078,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Declarers in suit contracts tend to focus on trumps, they want to pull them right away. And for good reason, that is usually the best Plan.
 
@@ -2887,6 +3115,8 @@ South plays 4\H. West leads the \CQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \CQ.</b>
 
 Losers: \S 2 : \H 0 : \D 2 : \C 1 : Total = 5
@@ -2900,6 +3130,8 @@ Or, if West holds the \SQ and East the \SA then leading up to the \SJ would also
 Click NEXT to see a miracle. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 Some times you don't really expect to make a contract - this is one of those times.
 
@@ -2935,6 +3167,8 @@ South plays 3NT. West leads \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads \SQ.</b>
 
 Winners: \S 2 : \H 0 : \D 4 : \C 2 : Total = 8
@@ -2950,6 +3184,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This is another hand where you want to keep a particular defender off lead. In this hand it is West who is the Danger hand.
 
@@ -2983,6 +3219,8 @@ South plays 4\H. West leads the \SK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SK.</b>
 
 Losers: \S 1 : \H 1 : \D 0 : \C 1 : Total = 3
@@ -2998,6 +3236,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You always had 10 winners in this hand, as long as one of them didn't disappear.
 
@@ -3039,6 +3279,8 @@ South to play 6NT. West leads the \SJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South to play 6NT. West leads the \SJ.</b>
 
 Winners: \S 3 : \H 2 : \D 3 : \C 0 : Total = 8
@@ -3052,6 +3294,8 @@ Clickfor the full Deal - and an auxiliary plan. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 What if you had carried out the plan up to the point when you led a \C toward your hand and the defense didn't take their \CA?
 
@@ -3093,6 +3337,8 @@ South plays 6NT. West leads the \SJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 6NT. West leads the \SJ.</b>
 
 Winners: \S 3 : \H 2 : \D 2 : \C 4 : Total = 11
@@ -3108,6 +3354,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Always be on the lookout for situations where there are two possible routes to success.
 
@@ -3149,6 +3397,8 @@ South plays 4\S. West leads the \DK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \DK.</b>
 
 Losers: \S 0 : \H 2 : \D 2 : \C 0 : Total = 4
@@ -3161,6 +3411,8 @@ Win the \DA and play the \C6 to your \CA. Play \SA, then a small \S to dummy's \
 Click NEXT to see all four hands. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 In some hands there is more than one way to make the conrract.
 
@@ -3208,6 +3460,8 @@ South plays 4\H. West leads the \C2. The defense takes three \C tricks, then pla
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \C2. The defense takes three \C tricks, then plays a small \D.</b>
 
 Losers: \S 0 : \H 1 : \D 0 : \C 3 : Total = 4
@@ -3223,6 +3477,8 @@ Enter dummy with the \SK. Lead the \H9 and let it ride. Assuming it wins, lead t
 Click NEXT to see why. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 To prove that only the original \H9 play will work . . <b>VISUALIZE</b>:
 
@@ -3262,6 +3518,8 @@ South plays 3NT. West leads \H7, East plays \H10 and you win \HJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads \H7, East plays \H10 and you win \HJ.</b>
 
 Winners: \S 2 : \H 1 : \D 2 : \C 2 : Total = 7
@@ -3275,6 +3533,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 <b>EIGHT EVER, NINE NEVER ???</b>.
 
@@ -3318,6 +3578,8 @@ South plays 5\D. West leads the \CJ and East plays the \CK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 5\D. West leads the \CJ and East plays the \CK.</b>
 
 Losers: \S 1 : \H 1 : \D 0 : \C 1 : Total = 3
@@ -3333,6 +3595,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As you can see, if you ruffed the third \C with a low \D East would over-ruff.
 
@@ -3380,6 +3644,8 @@ South plays 6\S. West leads the \CJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 6\S. West leads the \CJ.</b>
 
 Losers: \S 0 : \H 1 : \D 0 : \C 1 : Total = 2
@@ -3393,6 +3659,8 @@ First take two rounds of trumps with the \SA and \SK. Then play two top \Cs. Onl
 Clickfor proof that this elaborate Plan was the best. [NEXT]
 
 [show NESW]
+
+[clear-commentary]
 
 You only needed one trump in dummy to ruff your one \C loser, so that made it right to pull two rounds of trumps first.
 
@@ -3438,6 +3706,8 @@ South plays 4\S. West leads \DA, \DK, \D4. East wins the third trick with \DQ an
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads \DA, \DK, \D4. East wins the third trick with \DQ and plays a \H.</b>
 
 Losers: \S 0 : \H 0 : \D 3 : \C 1 : Total = 4
@@ -3453,6 +3723,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This was not an easy plan. 
 
@@ -3492,6 +3764,8 @@ South plays 4\H. West leads the \S2, East playing the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \S2, East playing the \SQ.</b>
 
 Losers: \S 1 : \H 0 : \D 2 : \C 1 : Total = 4
@@ -3507,6 +3781,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You usually think of a hold-up play in a Notrump contract, trying to exhaust one defender of his partner's suit. 
 
@@ -3556,6 +3832,8 @@ South plays 6NT. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 6NT. West leads the \SQ.</b>
 
 Winners: \S 2 : \H 6? : \D 0 : \C 1 : Total = 9
@@ -3571,6 +3849,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 A 4-1 split isn't as likely as a 3-2 split. 
 
@@ -3620,6 +3900,8 @@ South plays 3\H. West leads \DA, \DK, \DJ. East plays first the \D10, then \D2.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3\H. West leads \DA, \DK, \DJ. East plays first the \D10, then \D2.</b>
 
 Losers: \S 2 : \H 1 : \D 3 : \C 0 : Total = 6
@@ -3635,6 +3917,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Be ever watchful for situations where you may be over-ruffed. 
 
@@ -3684,6 +3968,8 @@ South plays 6NT. West leads the \D10.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 6NT. West leads the \D10.</b>
 
 Winner count: \S 1 : \H 1 : \D 4 : \C 5 : Total = 11
@@ -3699,6 +3985,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Sometimes you will have two or three possible ways to try for a contract. You need to evaluate them as to which is the most likely to succeed. There are times when this can be very difficult to analyze, but fortunately some choices are pretty easy to make.
 
@@ -3742,6 +4030,8 @@ South plays 5\C. West leads \DA, then \D2.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 5\C. West leads \DA, then \D2.</b>
 
 Losers: \S 2 : \H 1 : \D 1 : \C 0 : Total = 4
@@ -3757,6 +4047,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It's always nice to give yourself two chances. 
 
@@ -3802,6 +4094,8 @@ South plays 4\H. West leads the \CA, \CK, \CQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \CA, \CK, \CQ.</b>
 
 Losers: \S 0 : \H 0 : \D 2 : \C 2 : Total = 4
@@ -3815,6 +4109,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 As you see you couldn't afford to pull trumps until after the \D ruff. 
 
@@ -3850,6 +4146,8 @@ South plays 4\S. West leads the \HK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HK.</b>
 
 Losers: \S 1 : \H 3? : \D 0 : \C 1 : Total = 5?
@@ -3865,6 +4163,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You may have been tempted to play the \SK, then finesse West for the \SQ. 
 
@@ -3904,6 +4204,8 @@ South plays 4\H. West leads the \C4, East plays the \CK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \C4, East plays the \CK.</b>
 
 Losers: \S 3 : \H 0 : \D 2 : \C 1 : Total = 6
@@ -3917,6 +4219,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This plan would work 50% of the time, whenever West was dealt the \DK. 
 
@@ -3958,6 +4262,8 @@ South plays 4\H. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SQ.</b>
 
 Losers: \S 1 : \H 1 : \D 1 : \C 1 : Total = 4
@@ -3973,6 +4279,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Take the \H finesse before you set up a \D trick and you will be just fine if the finesse wins. But if it loses you will lose a tempo and the defense will get to your \S loser before you can set up a \D. 
 
@@ -4012,6 +4320,8 @@ South plays 3NT. West leads the \D2. East plays \DQ. You hold up on this trick a
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \D2. East plays \DQ. You hold up on this trick and East returns the \D3.</b>
 
 Winners: \S 1 : \H 4 : \D 1 : \C 0 : Total = 6
@@ -4029,6 +4339,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 In this layout the \S finesse fails, as it would do half the time.
 
@@ -4070,6 +4382,8 @@ South plays 4\S. West leads the \DJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \DJ.</b>
 
 Losers: \S 0 : \H 1 : \D 1 : \C 2 : Total = 4
@@ -4085,6 +4399,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You are only going to be in dummy that one time so you must make sure to do whatever you need to do right then.
 
@@ -4124,6 +4440,8 @@ South to play 4\S. West leads the \CQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South to play 4\S. West leads the \CQ. East plays \C6.</b>
 
 Losers: \S 1 : \H 0 : \D 2 : \C 1 : Total = 4
@@ -4137,6 +4455,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Recognize that East is the Danger Hand because he can lead a \D.
 
@@ -4178,6 +4498,8 @@ South plays 4\S. West leads the \HQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HQ.</b>
 
 Losers: \S 1 : \H 1 : \D 1 : \C 1 : Total = 4
@@ -4195,6 +4517,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It was wise to choose to set up your \D rather than dummy's \CK because the \D play did not depend on a fortunate placement of the cards. 
 
@@ -4234,6 +4558,8 @@ South plays 4\H. West leads the \CQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \CQ.</b>
 
 Losers: \S 1 : \H 0 : \D 1 : \C 2 : Total = 4
@@ -4247,6 +4573,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It was important to start on \Ds at the second trick because you were conveniently in your hand and your hand didn't have other entries outside the trump suit. Not knowing how trumps would split you needed to make the first \D play right then. 
 
@@ -4282,6 +4610,8 @@ South plays 3NT. West leads the \S6, East plays \S2.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads the \S6, East plays \S2.</b>
 
 Winner count: \S 2 : \H 2 : \D 0 : \C 1 : Total = 5
@@ -4298,9 +4628,13 @@ Click NEXT to see the full deal. [NEXT]
 
 [show NESW]
 
+[clear-commentary]
+
 Here are the initial hands. Click NEXT to see the effect of your play to the first trick. [NEXT]
 
 [PLAY N:S5,N:H4,N:DQ,N:DT,N:D3,E:S2,E:H3,E:DA,E:D9,E:D2,S:S8,S:HK,S:DJ,S:D8,S:D7,W:S6,W:H5,W:H2,W:D5,W:D4]
+
+[clear-commentary]
 
 This shows the hands after five tricks have been played in the case where you took the first trick with your \S8. You have just won trick 5 with your \HK.
 
@@ -4309,6 +4643,8 @@ Notice that no matter what you try West can prevent you from reaching dummy.
 Click NEXT to see how the correct play works. [NEXT]
 
 [PLAY S:SA]
+
+[clear-commentary]
 
 This shows the hands after five tricks have been played in the case where you took the first trick with your \SA. You have just won trick 5 with your \HK.
 
@@ -4350,6 +4686,8 @@ South plays 4\H. West leads the \SA then the \S8.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SA then the \S8.</b>
 
 Losers: \S 1 : \H 0 : \D 2 : \C 2 : Total = 5
@@ -4363,6 +4701,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 When entries are scarce look at the suits where you have a fit. Sometimes you can find an extra entry by unblocking high spot cards in one hand. 
 
@@ -4400,6 +4740,8 @@ South plays 4\S. West leads \HA, \HK, \H3 and East follows to all three.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads \HA, \HK, \H3 and East follows to all three.</b>
 
 Losers: \S 0 : \H 2 : \D 2 : \C 1 : Total = 5
@@ -4415,6 +4757,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You might have thought it was better to discard the \CQ rather than a \D because the \C finesse was only a 50% chance while the chance of a 3-2 \D split was much better than that. 
 
@@ -4458,6 +4802,8 @@ South plays 4\H. West leads the \SQ and the defense plays three high \Ss.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SQ and the defense plays three high \Ss.</b>
 
 Losers: \S 2 : \H 0/1 : \D 0 : \C 1 : Total = 3/4
@@ -4468,6 +4814,8 @@ So you ruff the third \S and play \HA, \HK. East shows out.
 
 Decide whether to revise the Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SQ and the defense plays three high \Ss.</b>
 
 Don't change plans, the old one was doing fine. Pull one more trump with the \HQ. That leaves West with \HJ and you with \H7. Don't panic, just don't lead any more \Hs. Start playing \D winners, then \C winners. Let West ruff with his \HJ any time he wants to, your \H7 will then be able to take care of a \S return and let you get back to minor suit winners.
@@ -4477,6 +4825,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 When you have pulled some trumps and one defender has the master trump left, it is usually correct to leave it out and start on your side suits. He can ruff with if he wants to, but then you will have trump control again. 
 
@@ -4526,6 +4876,8 @@ South plays 4\S. West leads the \HK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \HK.</b>
 
 Losers: \S 0 : \H 2 : \D 1 : \C 1 : Total = 4
@@ -4539,6 +4891,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 With the \H lead you first take the \HA, then establish a \C to discard your \D loser, using the \SQ as an entry. 
 
@@ -4584,6 +4938,8 @@ South plays 3NT. West leads \SJ. East plays \SK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads \SJ. East plays \SK.</b>
 
 Winner count: \S 2 : \H 1 : \D 3 : \C 1 : Total = 7
@@ -4595,6 +4951,8 @@ So you win the \SA and lead the \D3, planning to duck.
 <b>West shows out</b>.
 
 Make <b>PLAN B</b>, then click NEXT. [NEXT]
+
+[clear-commentary]
 
 So you win the \SA and lead the \D3, planning to duck. 
 
@@ -4609,6 +4967,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Sometimes you have to change your plan.
 
@@ -4648,6 +5008,8 @@ South plays 4\H. West leads the \SQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \SQ.</b>
 
 Losers: \S 2 : \H 1 : \D 2 : \C 0 : Total = 5
@@ -4661,6 +5023,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It is tempting to ruff the first \S with dummy's \H9, hoping to sneak that through then ruff the second one with \HK. 
 
@@ -4704,6 +5068,8 @@ South plays 4\H. West leads the \CK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \CK.</b>
 
 Losers: \S 0 : \H 0 : \D 2 : \C 2 : Total = 4
@@ -4719,6 +5085,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Taking two finesses in \Ds will be successful whenever East holds the \DK <b>OR</b> the \DQ <b>OR</b> both the \D K Q. 
 
@@ -4766,6 +5134,8 @@ South plays 4\H. West leads \CA, \CK, \C4. East plays \C8 then \C2.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads \CA, \CK, \C4. East plays \C8 then \C2.</b>
 
 Losers: \S 0 : \H 0 : \D 1 : \C 3 : Total = 4
@@ -4779,6 +5149,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 The prayer was answered, East did not hold the \HJ. 
 
@@ -4820,6 +5192,8 @@ South plays 4\H. East leads the \DK.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 Things look grim. The defense has exposed your \D losers already and those two \S losers seem pretty obvious also. If you are to make this contract you must do so before you lose the lead. That means you must establish the \C suit <b>NOW</b>.
 
 Win the \DA, play \CA and ruff the \C2 with a high trump. Play a \H to the \H10 and ruff the \C4 with a high trump. Play a \H to the \HJ and ruff the \C8 with a high trump. Play a \H to the \HA and discard a loser on the good \C9.
@@ -4829,6 +5203,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 It took a 4-3 \C split to make this contract. 
 
@@ -4870,6 +5246,8 @@ South plays 6NT. West leads the \S3.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 6NT. West leads the \S3.</b>
 
 Winner count: \S 0 : \H 3 : \D 4 : \C 4 : Total = 11
@@ -4889,6 +5267,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 If you think West has \S A 9 7 3 then you should play the \SK from dummy. But if you think West has \S Q 9 7 3 you should play low from dummy.
 
@@ -4930,6 +5310,8 @@ South plays 4\H. West leads the \CQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \CQ.</b>
 
 Losers: \S 1 : \H 0 : \D 2 : \C 1 : Total = 4
@@ -4945,6 +5327,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Admittedly it would have been simpler if North held the \SK. 
 
@@ -4984,6 +5368,8 @@ South plays 4\S. West leads the \CJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \CJ.</b>
 
 Losers: \S 0 : \H 3 : \D 2 : \C 0 : Total = 5
@@ -4999,6 +5385,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This is really a cross-ruff type plan. 
 
@@ -5044,6 +5432,8 @@ South plays 4\S. West leads the \CJ. They play two more high \Cs.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \CJ. They play two more high \Cs.</b>
 
 Losers: \S 0 : \H 2 : \D 0 : \C 2 : Total = 4
@@ -5059,6 +5449,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 This is called a Deep Finesse. 
 
@@ -5102,6 +5494,8 @@ South plays 4\H. West leads the \CJ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \CJ.</b>
 
 Losers: \S 2 : \H 1 : \D 1 : \C 0 : Total = 4
@@ -5117,6 +5511,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Leading even one round of trumps would be a mistake. 
 
@@ -5152,6 +5548,8 @@ South plays 3NT. It turns out partner can't stop \Hs either and the defenders re
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. The defenders win 4 \H tricks, then play a small \D.</b>
 
 Winners: \S 2 : \H 0 : \D 2 : \C 3 : Total = 7
@@ -5165,6 +5563,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Suppose you had incorrectly discarded dummy's \C3 on one of those \Hs. You would have played the \Cs by first leading small to the \CK (West following) then the \C7 back toward your hand. It is true that you <b>COULD</b> finesse now but you wouldn't know that you <b>SHOULD</b> since you wouldn't know that West was now void.
 
@@ -5210,6 +5610,8 @@ South plays 4\S. West leads the \DQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \DQ.</b>
 
 Losers: \S 0 : \H 3 : \D 0 : \C 1 : Total = 4
@@ -5225,6 +5627,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You cannot be defeated if you play \Hs at the second trick. 
 
@@ -5262,6 +5666,8 @@ South plays 4\H. West leads the \DQ.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads the \DQ.</b>
 
 Losers: \S 3 : \H 0 : \D 0 : \C 1 : Total = 4
@@ -5277,6 +5683,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You can see that the deep finesse would indeed force East's \SA. However, West played his \SQ to the trick, forcing you to go up with dummy's \SK, which was taken by East's \SA. 
 
@@ -5312,6 +5720,8 @@ South plays 4\H. West leads \SA, then \H8.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\H. West leads \SA, then \H8.</b>
 
 Losers: \S 2 : \H 1 : \D 0 : \C 1 : Total = 4
@@ -5327,6 +5737,8 @@ Clickfor the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 Usually it is a good play to let a lead come up to your Queen. It's like a free finesse.
 
@@ -5362,6 +5774,8 @@ South plays 3NT. West leads \S5. You put on dummy's \S6 and East plays the \S8.
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 3NT. West leads \S5. You put on dummy's \S6 and East plays the \S8.</b>
 
 Winner count: \S 2 : \H 0 : \D 1 : \C 5 : Total = 8
@@ -5377,6 +5791,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 With the unfortunate placement of red cards the only way you can enjoy 3 \S tricks is to take your \SK on the first trick and later finesse West for the \SQ.
 
@@ -5416,6 +5832,8 @@ South plays 4\S. West leads the \D10, you cover and East plays the three high \D
 
 Make a Plan, then click NEXT. [NEXT]
 
+[clear-commentary]
+
 <b>South plays 4\S. West leads the \D10, you cover and East plays the three high \Ds.</b>
 
 Losers: \S 0 : \H 1 : \D 2 : \C 1 : Total = 4
@@ -5429,6 +5847,8 @@ Click NEXT to see the full deal. [NEXT]
 [RESET]
 
 [show NESW]
+
+[clear-commentary]
 
 You will always make the contract when \Hs split 3-3.
 
