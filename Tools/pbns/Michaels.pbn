@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Michaels
 [Event "Baker Bridge - Michaels / Unusual NT"]
@@ -29,7 +29,7 @@ A perfect Michaels example; 5-5 in the Majors and 9 points. You bid 2\D and part
 
 
 
-You have a rather minimum Michaels type hand and you asked partner to choose a Major suit. He chose \Ss. But don't start thinking about what great support you have for his \S suit, he doesn't HAVE a \S suit, he is just supporting yours. In other words, you pass.}
+You have a rather minimum Michaels type hand and you asked partner to choose a Major suit. He chose \Ss. But don't start thinking about what great support you have for his \S suit, he doesn't <b>HAVE</b> a \S suit, he is just supporting yours. In other words, you pass.}
 
 
 [Event "Baker Bridge - Michaels / Unusual NT"]
@@ -199,7 +199,7 @@ With the two lowest unbid suits you bid 2NT. Partner jumps to 4\D. What do you b
 
 Partner probably has a good hand, but he might just be preempting. Assuming he is inviting you to bid game you have a tough decision. You are not very strong but you might have been a couple of points weaker. It is strictly a judgement call and we decide to pass.
 
-As you can see, IF they open the lead with a \C, and IF the \H finesse then works, you can make 5\D.}
+As you can see, <b>IF</b> they open the lead with a \C, and <b>IF</b> the \H finesse then works, you can make 5\D.}
 
 
 [Event "Baker Bridge - Michaels / Unusual NT"]
@@ -435,7 +435,7 @@ You have 20 points and two good 5-card Majors so you bid a Michaels 2\C. Partner
 
 
 
-Partner may have as few as zero points and as many as 13 or so. You COULD bid an invitational 3\S, but if he has only 5 or 6 points he will pass. Looking at your hand you only need to find partner with \S J x x to have a good shot at game. So go ahead and bid 4\S.
+Partner may have as few as zero points and as many as 13 or so. You <b>COULD</b> bid an invitational 3\S, but if he has only 5 or 6 points he will pass. Looking at your hand you only need to find partner with \S J x x to have a good shot at game. So go ahead and bid 4\S.
 
 Will you look at that. Partner has only 2 points, but what great ones to have!}
 
@@ -575,7 +575,7 @@ The bidding has been as shown. It is your bid. What do you say? [BID 3\S]
 
 
 
-You don't have a great hand but you DO have 4 \Ss. So don't let the opponents have a 3-level contract when your side has 9 \Ss. Bid 3\S.
+You don't have a great hand but you <b>DO</b> have 4 \Ss. So don't let the opponents have a 3-level contract when your side has 9 \Ss. Bid 3\S.
 
 Note: See the Law of Total Tricks Lesson on this topic.}
 

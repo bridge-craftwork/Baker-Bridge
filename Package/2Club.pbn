@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 2Club
 [Event "Baker Bridge - Strong 2C Bids"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -49,7 +49,7 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -79,7 +79,7 @@ This isn't as clear-cut a decision as you might think at first. Partner is showi
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -109,7 +109,7 @@ You have 26 points and no 5-card suit. Since your hand is balanced you bid 3NT. 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -139,7 +139,7 @@ True, 4 points isn't much. But added to partner's 22-24 it becomes enough for a 
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -173,7 +173,7 @@ Partner has between 3 and 7 points. Somewhere in those points might be the one t
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -203,7 +203,7 @@ For someone who made an initial Negative response you have quite a good hand. Yo
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -233,7 +233,7 @@ You have 22 points and 5-card Major suit. Your rebid is therefore 2\S. Partner r
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -267,7 +267,7 @@ Knowing of the 4-4 fit you bid 4\H. By the way: Partner knew your 3\C bid was no
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -301,7 +301,7 @@ Partner's 2NT shows scattered values and fewer than 3 \Hs. He has 3 or more poin
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
 
 
 
@@ -331,7 +331,7 @@ Hmmm, 22-24 balanced, plus 11 balanced equals 33-35 balanced. It makes you think
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -365,7 +365,7 @@ No, you still may not pass. First, because partner's bid of a new suit is forcin
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -399,7 +399,7 @@ You definitely pass. Good thing he has 9 cold tricks in his hand!}
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -437,7 +437,7 @@ You now say 6\H and lay down a great dummy.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\S]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\S]
 
 
 
@@ -467,7 +467,7 @@ You told him that you have 8 or more points, now you must tell him that it is on
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -497,7 +497,7 @@ You show your balanced minimum by bidding 3NT, leaving further moves to partner.
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
 
 
 
@@ -527,7 +527,7 @@ Hmmm, 22-24 points added to your 16 comes to 38-40 points. Looking apologeticall
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -561,7 +561,7 @@ Partner is not introducing a new suit here, you have already agreed on \Hs. He i
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -595,7 +595,7 @@ You know there are enough points for game so you must keep bidding. You should b
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\C]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\C]
 
 
 
@@ -629,7 +629,7 @@ Obviously you could bid 7\S. But in fact you can count that there will be thirte
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 

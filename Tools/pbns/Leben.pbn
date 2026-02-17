@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Leben
 [Event "Baker Bridge - Lebensohl"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
 
 [show NS]
 
@@ -45,7 +45,7 @@ With lebensohl you can do the same thing, so you bid 2\S and partner passes.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -71,7 +71,7 @@ With 3-card support you are happy to bid 4\S.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
 
 [show NS]
 
@@ -97,7 +97,7 @@ Partner has 3-card support and is happy to bid game in that suit.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 
@@ -123,7 +123,7 @@ So even with your great support and maximum hand, you pass.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
 
 With 11 points opposite partner's 15-17, this is a forcing-to-game hand, and it is possible that a jump to 3NT (which says you have no \C stopper) would work. However, with two 4-card Major suits you should use the lebensohl equivalent of Stayman, which is a cue-bid of 3\C.
 
@@ -153,7 +153,7 @@ With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
 
 [show NS]
 
@@ -181,7 +181,7 @@ Partner then bids 4\H which you pass.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
 
 With your hand you'd like to sign off in 3\D. But you cannot actually bid 3\D because that would show a forcing-to-game hand. So you bid a lebensohl 2NT.
 
@@ -211,7 +211,7 @@ NOW you can bid 3\D, which partner passes.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
 
 Partner's 2NT bid is lebensohl, asking you to bid 3\C. You bid 3\C. Partner says 3\H.
 
@@ -241,7 +241,7 @@ How about . . . . pass? Partner just signed off with this sequence. He couldn't 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\S]
 
 [show NS]
 
@@ -267,7 +267,7 @@ Partner says 4\H and you pass.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
 
 [show NS]
 
@@ -291,7 +291,7 @@ Partner has promised at least a 5-card \D suit, and game-forcing strength. With 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
 
 With your 12 point hand you need to force to game. It would also be nice to find out if partner has a 4-card \H suit. Since you have East's \S suit stopped, you first bid a lebensohl 2NT.
 
@@ -321,7 +321,7 @@ NOW you cue-bid 3\S. This is Stayman, but with a \S stopper, (SLOW SHOWS). Partn
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
 
 Partner's 2NT bid requests that you bid 3\C, so you do.
 
@@ -353,7 +353,7 @@ With no 4-card Major of your own, you pick 3NT.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
 
 [show NS]
 
@@ -381,7 +381,7 @@ Partner does have them stopped so he passes.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
 
 Partner's 2NT bid requests that you bid 3\C, so you do.
 
@@ -411,7 +411,7 @@ Partner's bidding shows a hand with which he would have bid 3NT without the over
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
 
 With your 12 point balanced hand you know you are going to play in game. Since you have no interest in looking for a 4-4 Major suit fit you also know that game is going to be 3NT. But you can't actually BID 3NT, because partner would almost surely take you out to a minor suit. Remember, a DIRECT 3NT bid DENIES a stopper in their suit. Since you have East's \S suit stopped, you first bid a lebensohl 2NT.
 
@@ -441,7 +441,7 @@ You now complete the picture of your hand by bidding 3NT. (SLOW SHOWS). Partner 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 
@@ -467,7 +467,7 @@ Since you trust your partner, you pass.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
 
 With 9 points you don't want to sign-off with 2\H. But you aren't strong enough to force to game with a 3\H bid either. So you start an invitational sequence by bidding 2NT.
 
@@ -497,7 +497,7 @@ Now you bid 3\H. Partner will realize you have better than a sign-off, but were 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\C]
 
 [show NS]
 
@@ -523,7 +523,7 @@ You don't have 4 \Ss, nor can you stop \Hs. You have no choice but to bid one of
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID double]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID double]
 
 [show NS]
 
@@ -549,7 +549,7 @@ However you should look for an even bigger reward by doubling. East is in seriou
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
 
 Partner's 2NT bid requests that you bid 3\C, so you do. He next says 3\D. What do you bid now? [BID 3\H]
 

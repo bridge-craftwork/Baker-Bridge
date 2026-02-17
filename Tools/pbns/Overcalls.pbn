@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Overcalls
 [Event "Baker Bridge - Overcalls"]
@@ -223,7 +223,7 @@ The bidding has been as shown. It is your bid. What do you say? [BID 4\S]
 
 
 
-You have 10 points, but in cases like this points don't matter that much. They MIGHT be able to make 4\H. Partner MIGHT be able to make 4\S. This preemptive jump takes the decision away from them.
+You have 10 points, but in cases like this points don't matter that much. They <b>MIGHT</b> be able to make 4\H. Partner <b>MIGHT</b> be able to make 4\S. This preemptive jump takes the decision away from them.
 
 Looking at the hands you can see that partner is going to go down 1 at 4\S. However, that is an excellent result since they appear to be cold for 5\H.}
 
@@ -305,7 +305,7 @@ The bidding has been as shown. It is your bid. [BID 1NT]
 
 
 
-This hand would be one point too strong to Open 1NT, but it fits the 15-18 range to Overcall 1NT. Partner responds 2\C. What do you bid? [BID 2\D]
+This hand would be one point too strong to <b>Open</b> 1NT, but it fits the 15-18 range to <b>Overcall</b> 1NT. Partner responds 2\C. What do you bid? [BID 2\D]
 
 
 

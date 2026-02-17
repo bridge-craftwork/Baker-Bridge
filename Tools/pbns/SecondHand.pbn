@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
@@ -173,7 +173,7 @@ Play the \SJ (or \SQ).
 
 You should always make a point count check as soon as you see dummy. South's 2NT promises 20 or 21 points, North has 14 and you have 3; total = 37 or 38. Therefore West must have either 2 or 3 points. He cannot have two Jacks because you can see all four of them. Likewise he cannot have a Queen because you can see three of them and his \H lead (top of nothing) denied that Queen.
 
-It follows that West MUST have a King, and it must be \Cs or \Ds since he has denied any \H Honor.
+It follows that West <b>MUST</b> have a King, and it must be \Cs or \Ds since he has denied any \H Honor.
 
 Since West will definitely win his King, you need to take one trick yourself, and the best way to do that is to split your Honors to establish one \S winner.
 
@@ -213,7 +213,7 @@ Play the \C4.
 
 If you split your Honors, playing the \CQ perhaps, dummy's \CA will take the trick and South will later play through your \CK toward dummy's \C J 9 5. Played in this way he will establish 3 \C winners (which he needs for the contract).
 
-If you play low, he MIGHT finesse the \CJ and again establish 3 \C winners. But South's correct play would be to put on dummy's \C9, finessing West for the \CT. This is because \C K 10 or \C Q 10 are twice as likely as \C K Q.
+If you play low, he <b>MIGHT</b> finesse the \CJ and again establish 3 \C winners. But South's correct play would be to put on dummy's \C9, finessing West for the \CT. This is because \C K 10 <b>or</b> \C Q 10 are twice as likely as \C K Q.
 
 If he does play this way East will win the \CT and your \C K Q will get one more trick.}
 [Play "W"]ST
@@ -285,7 +285,7 @@ Play the \CA.
 
 First ask yourself "Where are the \DA and \DQ?"East doesn't have either one or he would have played it at the first trick. So South has both of them. So with those 3 tricks and the 5 \Hs in dummy South only needs to find one more winner. Assuming he has the \CK, (or why play the suit), if you play low he will find that one more winner whichever high \C he plays.
 
-Next ask yourself "Where is the \SA?"Clearly East DOES have this card; otherwise South has his 9 tricks.
+Next ask yourself "Where is the \SA?"Clearly East <b>DOES</b> have this card; otherwise South has his 9 tricks.
 
 So the way to beat the contract is to go up with your \CA, then play \SK, \SQ and a third \S, hoping East holds \S A x x x.}
 [Play "W"]D5
@@ -657,7 +657,7 @@ Play the \SA.
 
 Even if South doesn't have the \SK he can establish a \S winner just by leading twice toward the \S Q J. That winner will take care of whatever black-suit loser he may have.
 
-If East has a \C trick it is important to get it established soon. So go up with the \SA and play a \C through dummy's \C A Q. When South tries the \S suit again EAST can win and cash his \CK for the setting trick.
+If East has a \C trick it is important to get it established soon. So go up with the \SA and play a \C through dummy's \C A Q. When South tries the \S suit again <b>EAST</b> can win and cash his \CK for the setting trick.
 
 If you play low on South's \S play East will be forced to win the trick and he cannot profitably attack the \C suit from his side.}
 [Play "W"]H2
@@ -697,7 +697,7 @@ Here it works out best to play low even though South has the \S K Q 5.
 
 Assume you play your \SA. South will play his loser, of course, and later will be able to discard two of dummy's \Ds on the \S K Q. He can then ruff his two \D losers and make the contract.
 
-Now assume you play low. South will play the \SQ which will win the trick and he will no longer have a \S loser. BUT - now he will have no way to dispose of the two \D losers and will go down 1.}
+Now assume you play low. South will play the \SQ which will win the trick and he will no longer have a \S loser.<b>BUT</b> - now he will have no way to dispose of the two \D losers and will go down 1.}
 [Play "W"]H3
 
 [Event "Baker Bridge - Second Hand Play"]

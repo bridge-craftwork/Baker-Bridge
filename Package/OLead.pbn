@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -587,7 +587,7 @@ Lead the \C8.
 
 If partner had not doubled North's Stayman 2\C bid you would probably have started with one of your Jacks.
 
-But partner DID double, and the double of a conventional bid clearly means that the doubler would like you to lead that suit.
+But partner <b>DID</b> double, and the double of a conventional bid clearly means that the doubler would like you to lead that suit.
 
  So lead a \C, and partner will take three \C tricks. With any other lead declarer would quickly discard a \C from dummy on a high \D, easily making the contract.
 

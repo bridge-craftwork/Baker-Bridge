@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Roman
 [Event "Baker Bridge - Roman Key Card Blackwood"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 5\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 5\S]
 
 [show NS]
 
@@ -47,11 +47,11 @@ So you have two Key-Cards (\SA and \HK, along with the \HQ). You therefore bid 5
 [Student "S"]
 {[show S]
 
-Partner's jump to 4\S indicates he is prepared to play at game even if you have as few as 6 points. So he must have 20 points or so. With your 14 that puts you in slam range. Decide what you would say next, then click on BID above. [BID 5\C]
+Partner's jump to 4\S indicates he is prepared to play at game even if you have as few as 6 points. So he must have 20 points or so. With your 14 that puts you in slam range. Decide what you would say next, then click on <b>BID</b> above. [BID 5\C]
 
 
 
-Despite your conviction that this hand is going to slam you should NOT ask for Key-Cards holding a worthless doubleton. Instead, you make a slam try by bidding your cheapest control, 5\C. Partner says 5\H. What is your next bid? [BID 5\S]
+Despite your conviction that this hand is going to slam you should <b>NOT</b> ask for Key-Cards holding a worthless doubleton. Instead, you make a slam try by bidding your cheapest control, 5\C. Partner says 5\H. What is your next bid? [BID 5\S]
 
 [show NS]
 
@@ -79,7 +79,7 @@ Yes, partner should probably have opened 2NT. Sometimes partners don't make the 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 5\D]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 5\D]
 
 [show NS]
 
@@ -105,7 +105,7 @@ You have 3 Key-Cards so you bid 5\D. Partner bids 6\S.}
 [Student "S"]
 {[show S]
 
-Your partnership plays Jacoby 2NT convention, so partner's 2NT shows a game-forcing raise in \Ss. Your 3NT bid indicates a 5-card suit and "extra values". Partner's 4\H is a control-bid showing the \HA. Decide what you would say next, then click on BID above. [BID 4NT]
+Your partnership plays Jacoby 2NT convention, so partner's 2NT shows a game-forcing raise in \Ss. Your 3NT bid indicates a 5-card suit and "extra values". Partner's 4\H is a control-bid showing the \HA. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
 
 
 
@@ -135,7 +135,7 @@ Partner's response says 2 Key-Cards and the \SQ. So you are missing either the t
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\D]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\D]
 
 
 
@@ -165,7 +165,7 @@ You have 2 Key-Cards, the \SA and \DK. But you don't have the \DQ so you answer 
 [Student "S"]
 {[show S]
 
-Your partner's 3\H is a limit-raise, 11-12 points with \H support. Decide what you would say next, then click on BID above. [BID pass]
+Your partner's 3\H is a limit-raise, 11-12 points with \H support. Decide what you would say next, then click on <b>BID</b> above. [BID pass]
 
 
 
@@ -199,7 +199,7 @@ It was a lot of work but you have figured out that partner holds 11-12 points in
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Your 4\D bid is a Splinter Bid, showing opening hand strength, at least 4 \Ss, and a singleton or void in \Ds. Partner bids 4NT. Decide what you would say, then click on BID above. [BID 5NT]
+The bidding has gone as shown. Your 4\D bid is a Splinter Bid, showing opening hand strength, at least 4 \Ss, and a singleton or void in \Ds. Partner bids 4NT. Decide what you would say, then click on <b>BID</b> above. [BID 5NT]
 
 [show NS]
 
@@ -207,7 +207,7 @@ The bidding has gone as shown. Your 4\D bid is a Splinter Bid, showing opening h
 
 You have 2 Key-Cards, the \SK and the \CA. So do you bid 5\H?
 
-No. You have two Key-Cards AND a void. So you bid 5NT. Partner bids 6\S.}
+No. You have two Key-Cards <b>AND</b> a void. So you bid 5NT. Partner bids 6\S.}
 
 
 [Event "Baker Bridge - Roman Key Card Blackwood"]
@@ -227,7 +227,7 @@ No. You have two Key-Cards AND a void. So you bid 5NT. Partner bids 6\S.}
 [Student "S"]
 {[show S]
 
-Your partner's 2NT opener is 20-21 points and the 3\C bid is Stayman. Decide what you would say next, then click on BID above. [BID 4NT]
+Your partner's 2NT opener is 20-21 points and the 3\C bid is Stayman. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
 
 
 
@@ -257,7 +257,7 @@ You say "Darn!" You are missing just one Key-Card, but you are also missing the 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
 
 
 
@@ -287,7 +287,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, so you bid 5\C.
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would say next, then click on BID above. [BID 4NT]
+The bidding has been as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
 
 
 
@@ -317,7 +317,7 @@ Partner has two Aces and the \SQ. That should be all he needs to make slam so yo
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
 
 
 
@@ -347,7 +347,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, but you also ha
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would say next, then click on BID above. [BID 4NT]
+The bidding has been as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
 
 
 
@@ -381,7 +381,7 @@ pass 1D pass 1S pass 2H pass 4NT pass 5C pass 5D pass 5H pass 6H pass pass pass 
 [Student "S"]
 {[show S]
 
-Your 2\H bid is a Reverse, showing 17+ points. Decide what you would say, then click on BID above. [BID 5\C]
+Your 2\H bid is a Reverse, showing 17+ points. Decide what you would say, then click on <b>BID</b> above. [BID 5\C]
 
 
 
@@ -411,7 +411,7 @@ There has been no agreement on trumps, so you assume that North has implicitly a
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Yes, you could have jump-shifted on your first bid. Decide what you would say next, then click on BID above. [BID 4NT]
+The bidding has been as shown. Yes, you could have jump-shifted on your first bid. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
 
 
 
@@ -445,7 +445,7 @@ Partner has 1 King, the only one left, the \DK. You can count about 17 high-card
 [Student "S"]
 {[show S]
 
-Your 3\S bid is a Splinter, agreeing \Hs as trump, and showing opening hand strength with a singleton or void in \Ss. Decide what you would say next, then click on BID above. [BID 6\H]
+Your 3\S bid is a Splinter, agreeing \Hs as trump, and showing opening hand strength with a singleton or void in \Ss. Decide what you would say next, then click on <b>BID</b> above. [BID 6\H]
 
 [show NS]
 
@@ -471,7 +471,7 @@ pass 1S pass 4D pass 4NT pass 6D pass 7S pass pass pass
 [Student "S"]
 {[show S]
 
-Partner's 4\D bid is a Splinter Bid. It shows opening hand strength, at least 4-card \S support, and a singleton or void in \Ds. Decide what you would say next, then click on BID above. [BID 4NT]
+Partner's 4\D bid is a Splinter Bid. It shows opening hand strength, at least 4-card \S support, and a singleton or void in \Ds. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
 
 
 
@@ -501,7 +501,7 @@ WOW! Partner has one Key-Card and a \D void. So the Key-Card is the \SA. You don
 [Student "S"]
 {[show S]
 
-Your 2NT response shows 8+ points, with no 5-card biddable suit. Decide what you would say next, then click on BID above. [BID 4\D]
+Your 2NT response shows 8+ points, with no 5-card biddable suit. Decide what you would say next, then click on <b>BID</b> above. [BID 4\D]
 
 
 
@@ -535,7 +535,7 @@ pass 2C pass 2H pass 3H pass 3S pass 4NT pass 6H all pass pass pass
 [Student "S"]
 {[show S]
 
-Partner's 2\H is a positive response, 8+ points with a 5+ card suit. Decide what you would say next, then click on BID above. [BID 3\H]
+Partner's 2\H is a positive response, 8+ points with a 5+ card suit. Decide what you would say next, then click on <b>BID</b> above. [BID 3\H]
 
 
 
@@ -565,7 +565,7 @@ Partner promises first round \S control so NOW you can bid RCKB. When you bid 4N
 [Student "S"]
 {[show S]
 
-Your 2\H response shows 8+ points, with at least 5 \Hs. Decide what you would say next, then click on BID above. [BID 3\S]
+Your 2\H response shows 8+ points, with at least 5 \Hs. Decide what you would say next, then click on <b>BID</b> above. [BID 3\S]
 
 
 
@@ -599,7 +599,7 @@ pass 1S pass 3S pass 4C pass 4H pass 6S pass pass pass
 [Student "S"]
 {[show S]
 
-Partner's 3\S is a limit raise, 11-12 points and good \S support. Decide what you would say next, then click on BID above. [BID 4\C]
+Partner's 3\S is a limit raise, 11-12 points and good \S support. Decide what you would say next, then click on <b>BID</b> above. [BID 4\C]
 
 
 
@@ -609,6 +609,6 @@ What you DO NOT say next is 4NT. If partner answered 1 Key-Card you would not kn
 
 
 
-Partner's bidding is like the Sherlock Holmes tale <u>Silver Blaze</u>, about the dog that didn't bark. Partner's \H bid shows that he DOES have the \HA, but equally important it shows that he DOES NOT have the \DA. So you know you don't have a \H loser but do have a \D loser. You bid 6\S.}
+Partner's bidding is like the Sherlock Holmes tale <u>Silver Blaze</u>, about the dog that didn't bark. Partner's \H bid shows that he <b>DOES</b> have the \HA, but equally important it shows that he <b>DOES NOT</b> have the \DA. So you know you don't have a \H loser but do have a \D loser. You bid 6\S.}
 
 

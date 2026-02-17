@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Jacoby
 [Event "Baker Bridge - Jacoby 2NT / Splinters"]
@@ -19,7 +19,7 @@ pass 1S pass 2NT pass 4S pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. It is your bid. Decide what you would say, then click on BID above. [BID 1\S]
+The bidding has gone as shown. It is your bid. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
 
 
 
@@ -241,7 +241,7 @@ Opening hand with 4-card trump support. You bid 2NT. Partner rebids 3\D. What do
 
 
 
-The news that partner has a singleton \D does NOT excite you. In fact it causes your hand to devalue a lot. So you use the Principle of Fast Arrival and bid 4\H.}
+The news that partner has a singleton \D does <b>NOT</b> excite you. In fact it causes your hand to devalue a lot. So you use the Principle of Fast Arrival and bid 4\H.}
 
 
 [Event "Baker Bridge - Jacoby 2NT / Splinters"]
@@ -761,6 +761,6 @@ With 18 points you want to show your extra strength. Since you have only 5 trump
 
 
 
-Now is the time when YOU would make a control bid. And if you had either red Ace you would do so. Since you don't have one, you have no option but to say 4\S. Partner recognizes that you are off those two Aces and passes.}
+Now is the time when <b>YOU</b> would make a control bid. And if you had either red Ace you would do so. Since you don't have one, you have no option but to say 4\S. Partner recognizes that you are off those two Aces and passes.}
 
 

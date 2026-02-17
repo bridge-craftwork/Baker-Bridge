@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Finesse
 [Event "Baker Bridge - Finessing"]
@@ -240,7 +240,7 @@ Click NEXT. [NEXT]
 
 
 
-DO NOT FINESSE THE \H. Stick with your original 75% plan. Take the \HA and play your small \C, finessing the \CJ. This is why you couldn't discard a \C earlier.
+<b>DO NOT FINESSE THE \H.</b>Stick with your original 75% plan. Take the \HA and play your small \C, finessing the \CJ. This is why you couldn't discard a \C earlier.
 
 [show NESW]
 Click NEXT to see the complete Deal. [NEXT]
@@ -251,7 +251,7 @@ Click NEXT to see the complete Deal. [NEXT]
 
 The single \H finesse is an inferior play because its success depends on East holding a specific card, the \HK.
 
-The double \C finesse is much better because its success depends on West holding either of two cards, the \CQ OR the \CK.}
+The double \C finesse is much better because its success depends on West holding either of two cards, the \CQ <b>OR</b> the \CK.}
 [Play "W"]S3
 
 [Event "Baker Bridge - Finessing"]
@@ -475,7 +475,7 @@ Losers:   \S = 0    \H = 0  \D = 2    \C = 2 Total = 4
 
 The status is pretty clear, you've already lost the 2 \Ds so you have to keep your \C losers to just one. You have a good chance of pulling that off by playing for the \CK and \CQ to lie in different hands and taking two finesses.
 
-But you will only be in dummy once more so you MUST make the first finesse right now. Play a small \C from dummy and play the \CT. West wins with the \CQ and plays another trump.
+But you will only be in dummy once more so you <b>MUST</b> make the first finesse right now. Play a small \C from dummy and play the \CT. West wins with the \CQ and plays another trump.
 
   Click NEXT. [NEXT]
 
@@ -1001,13 +1001,13 @@ Make a Plan, then click NEXT. [NEXT]
 
 Losers:   \S = 0    \H = 1  \D = 0    \C = 1 Total = 2
 
-This looks like a very simple plan. Since the hands have mirrored distribution there will be no discards anywhere. That means the \CK MUST be in West's hand or you will go down. But is that all there is to it?
+This looks like a very simple plan. Since the hands have mirrored distribution there will be no discards anywhere. That means the \CK <b>MUST</b> be in West's hand or you will go down. But is that all there is to it?
 
 Click NEXT. [NEXT]
 
 
 
-If West has \C K x or \C K x x then yes, that's all there is to it. But if he has \C K x x x then you won't have enough entries to your hand unless you take the first \C finesse BEFORE you start on trumps.
+If West has \C K x or \C K x x then yes, that's all there is to it. But if he has \C K x x x then you won't have enough entries to your hand unless you take the first \C finesse <b>BEFORE</b> you start on trumps.
 
 So win the \HA and immediately play a \C to dummy's \CJ, which holds the trick. Then pull trumps, (it takes 4 rounds), ending in your hand.
 

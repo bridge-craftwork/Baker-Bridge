@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Notrump
 [Event "Baker Bridge - Notrump Openings"]
@@ -121,7 +121,7 @@ You open 1NT. Again. This time partner jumps to 4NT. What do you bid? [BID pass]
 
 
 
-Partner's bid is not Blackwood. It is called a Quantitative 4NT and he is telling you he has a balanced 16-17 point hand. He is inviting you to bid 6NT.
+Partner's bid is <b>not</b> Blackwood. It is called a Quantitative 4NT and he is telling you he has a balanced 16-17 point hand. He is inviting you to bid 6NT.
 
 With 17 you accept invitations, with 15 you decline. You have 15 so you pass.
 
@@ -373,7 +373,7 @@ The bidding has been as shown. It is your bid. What do you say? [BID 1NT]
 
 
 
-A 1NT overcall is almost the same as a 1NT opening. The range is increased to 15-18, but the main difference is that you must have the opponent's suit adequately stopped. Here you certainly have the stopper so you bid 1NT. Partner responds 2\H. What do you bid next? [BID pass]
+A 1NT overcall is almost the same as a 1NT opening. The range is increased to 15-18, but the main difference is that you <b>must</b> have the opponent's suit adequately stopped. Here you certainly have the stopper so you bid 1NT. Partner responds 2\H. What do you bid next? [BID pass]
 
 [show NS]
 

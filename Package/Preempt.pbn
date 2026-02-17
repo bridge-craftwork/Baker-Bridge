@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Preempt
 [Event "Baker Bridge - Preemptive Bids"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\D]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\D]
 
 [show NS]
 
@@ -45,7 +45,7 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on BID above. [BID pass]
+The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 
@@ -73,7 +73,7 @@ Here's a pretty good tip:When partner opens with a 3-bid and you are trying to d
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\H]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\H]
 
 
 
@@ -103,7 +103,7 @@ When you preempted 3\H you described your hand perfectly. You have nothing more 
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 4\H]
+The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\H]
 
 [show NS]
 
@@ -131,7 +131,7 @@ Fortune favors the bold so you bid 4\H . . . and live happily ever after.}
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 4\S]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -161,7 +161,7 @@ This is what preempting is all about.}
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 6\S]
+The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 6\S]
 
 [show NS]
 
@@ -189,7 +189,7 @@ Did you think about bidding 6NT instead? Ugh, they would have led a \C.}
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\H]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\H]
 
 
 
@@ -219,7 +219,7 @@ Do not preempt the same hand twice. The idea of a preemptive bid is that you bid
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 4\D]
+The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\D]
 
 [show NS]
 
@@ -245,7 +245,7 @@ You do not have the 4 fast winners you need to raise partner to the 4-level. But
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 3\D]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\D]
 
 
 
@@ -277,7 +277,7 @@ It is partner's decision, not yours, whether to continue to 5\D as a sacrifice.}
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on BID above. [BID pass]
+The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 
@@ -307,13 +307,13 @@ Somewhere in some of these lessons there should be a guideline that says:}
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 3\S]
+The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 3\S]
 
 [show NS]
 
 
 
-The fact that East opened doesn't change your hand at all. You had planned on Opening 3\S, now you make a Weak Jump Overcall of 3\S. If partner has some "stuff" you might get to a makeable contract, and if he doesn't you may keep the opponents out of a \H game.
+The fact that East opened doesn't change your hand at all. You had planned on <b>Opening</b> 3\S, now you make a <b>Weak Jump Overcall</b> of 3\S. If partner has some "stuff" you might get to a makeable contract, and if he doesn't you may keep the opponents out of a \H game.
 
 This time everybody passes.}
 
@@ -335,7 +335,7 @@ This time everybody passes.}
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on BID above. [BID 4\H]
+The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\H]
 
 [show NS]
 

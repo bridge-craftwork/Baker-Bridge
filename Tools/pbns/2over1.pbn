@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 2over1
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -413,7 +413,7 @@ This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding S
 
 North opens 1\S. South has 11 points, enough to respond 2\C, (or 2\D), in standard bidding, but not when using 2/1. So she bids 1NT.
 
-North is forced to bid again, but unlike the previous hand, here he wants to keep bidding. He bids 2\C. South knows North doesn't have \Hs, so she shows her above-minimum hand by bidding 2NT.
+North is forced to bid again, but unlike the previous hand, here he <b>wants</b> to keep bidding. He bids 2\C. South knows North doesn't have \Hs, so she shows her above-minimum hand by bidding 2NT.
 
 North is happy to play Notrump. He assumes South must have something useful in \Ds and bids 3NT.
 
@@ -489,7 +489,7 @@ North always intended to play a \S contract. He now bids 4\S, using Fast Arrival
 
 North opens 1\H and East Doubles.
 
-After the intervening Takeout Double 2/1 is OFF. If South had 10 or more points she would Redouble. So even with only 9 points South can bid 2\C without fear that North will think she has a strong hand.
+After the intervening Takeout Double <b>2/1 is OFF</b>. If South had 10 or more points she would Redouble. So even with only 9 points South can bid 2\C without fear that North will think she has a strong hand.
 
 North also knows everything mentioned above so he passes.}
 
@@ -591,7 +591,7 @@ pass pass 1S pass 2D pass 2H pass 2S pass pass pass pass pass
 
 North passes and South opens 1\S. 
 
-North now bids 2\D. Since North originally passed this is NOT 2/1 Game Force. Instead, it is forcing for one round and shows 11 or more points. 
+North now bids 2\D. Since North originally passed this is <b>NOT</b> 2/1 Game Force. Instead, it is forcing for one round and shows 11 or more points. 
 
 South next shows her 4-card \H suit. North gives a preference to 2\S.
 
@@ -645,7 +645,7 @@ South opens 1\S. North has a mountain, but there is seldom a need to jump-shift 
 
 South's priority on her first rebid is to agree trumps if possible. Knowing North has at least a 5-card suit, she bids 3\H.
 
-North naturally feels slammish, and shows it with a control-showing cue-bid, 4\C. Do not even THINK this might be Gerber.
+North naturally feels slammish, and shows it with a control-showing cue-bid, 4\C. Do not even <b>THINK</b> this might be Gerber.
 
 South doesn't have any extra strength, but that doesn't matter. With South making a slam try she should cooperate by showing her \D control. It is important to realize that South isn't showing any extra strength, she is merely going along with North. 
 

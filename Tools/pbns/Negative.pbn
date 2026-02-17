@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Negative
 [Event "Baker Bridge - Negative Doubles"]
@@ -449,7 +449,7 @@ The bidding has been as shown. It is your bid. What do you say? [BID 1\S]
 
 
 
-The general guideline for a Negative Double when both Majors are unbid is that you must have 4+ cards in at least ONE of the Majors. But for this specific sequence, 1\C - 1\D, you do not double unless you have BOTH Majors. When you have only one of them you just bid it. Like this hand. You bid 1\S. Partner rebids 1NT. What do you say? [BID pass]
+The general guideline for a Negative Double when both Majors are unbid is that you must have 4+ cards in at least <b>ONE</b> of the Majors. But for this specific sequence, 1\C - 1\D, you do not double unless you have <b>BOTH</b> Majors. When you have only one of them you just bid it. Like this hand. You bid 1\S. Partner rebids 1NT. What do you say? [BID pass]
 
 [show NS]
 
@@ -563,7 +563,7 @@ The bidding has been as shown. It is your bid. What do you say? [BID pass]
 
 
 
-First let's agree on what you DON'T say. You don't say "double" because that would a Negative Double showing at least one 4-card Major. You don't support partner's \Ds with just two of them. You probably don't bid 1NT with no honor in either Major. So you pass. This is called a "Trap Pass". Partner re-opens with a double. What do you say? [BID pass]
+First let's agree on what you <b>DON'T</b> say. You don't say "double" because that would a Negative Double showing at least one 4-card Major. You don't support partner's \Ds with just two of them. You probably don't bid 1NT with no honor in either Major. So you pass. This is called a "Trap Pass". Partner re-opens with a double. What do you say? [BID pass]
 
 [show NS]
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
@@ -163,7 +163,7 @@ Play the \S2.
 
 Partner has led a small card, so it is surely fourth-down. That means you should automatically apply the Rule of Eleven.
 
-11 minus 7 equals 4, so there are just 4 cards higher than the 7 between dummy, you, and declarer. AND YOU CAN SEE ALL FOUR OF THEM.
+11 minus 7 equals 4, so there are just 4 cards higher than the 7 between dummy, you, and declarer.<b>AND YOU CAN SEE ALL FOUR OF THEM</b>.
 
 Declarer has no card that can beat the \S7, and the only way you can beat this contract is to let partner's \S7 hold the trick. He will continue the suit, allowing you to pick up dummy's \SK and four \S winners. Along with the \DA you will defeat the contract.
 
@@ -233,7 +233,7 @@ When you have made your choice click NEXT. [choose-card HK] [NEXT]
 
 Play the \HK.
 
-Admittedly you have a terrible hand. But that's no reason to be careless. YOU can beat this contract, but you have to do it right now by unblocking the \HK. If declarer holds up you will continue with your \H7 and partner will establish his suit while he still has the \CA for an entry. If declarer doesn't hold up it will be just as bad for him.
+Admittedly you have a terrible hand. But that's no reason to be careless. <b>YOU</b> can beat this contract, but you have to do it right now by unblocking the \HK. If declarer holds up you will continue with your \H7 and partner will establish his suit while he still has the \CA for an entry. If declarer doesn't hold up it will be just as bad for him.
 
 But suppose you say "Well, partner's \HQ is just as good as my \HK so I'll just save the King for later" as you play low. Declarer will love you. He will hold up on the \HQ, then again on trick two when you play the \HK. AND HE WILL STILL HAVE HIS \HA when you switch to another suit. He will have time to drive out the \CA while he still has \Hs stopped.
 
@@ -347,7 +347,7 @@ If his honor is not the \HK then it won't matter whether you play \HA or \HQ to 
 
 So assume South actually holds the \HK x x. If you play the \HA to trick one, then lead \HQ, South will hold up on the second trick, and win the third \H. Then, when you win your \CK you will not have a \H to return to partner and declarer will make the contract.
 
-So what happens if you play the \HQ at trick one? South could still make the contract by holding up, but he will be afraid to do so. After all, from his perspective it looks like West probably holds the \HA and he will be afraid of losing the first 5 \H tricks, perhaps even when the \CK finessing is working!}
+So what happens if you play the \HQ at trick one? South could still make the contract by holding up, <b>but he will be afraid to do so</b>. After all, from his perspective it looks like West probably holds the \HA and he will be afraid of losing the first 5 \H tricks, perhaps even when the \CK finessing is working!}
 [Play "W"]H5
 
 [Event "Baker Bridge - Third Hand Play"]

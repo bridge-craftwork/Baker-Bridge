@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Weak2
 [Event "Baker Bridge - Weak 2-Bids"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\D]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -49,7 +49,7 @@ This is not an invitation to bid game. If partner had game interest he would bid
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID pass]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 
@@ -75,7 +75,7 @@ You should pass. You have 15 points, and if partner has the maximum of 11 it see
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\S]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\S]
 
 
 
@@ -105,7 +105,7 @@ You say "pass". Partner has no interest in game since he didn't bid 2NT. This is
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\H]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
 
 [show NS]
 
@@ -131,7 +131,7 @@ You should bid 2\H. If partner has even one \H you will probably be better off t
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\H]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
 
 
 
@@ -161,7 +161,7 @@ The 2NT bid is forcing. Your \DK is a feature, but your immediate priority is to
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4\S]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -187,7 +187,7 @@ You should raise to 4\S. Not that you expect partner to make it, he probably can
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above.
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above.
 
 
 
@@ -221,7 +221,7 @@ Pass. When you have already described your hand perfectly, partner becomes the C
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4\S]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -247,7 +247,7 @@ You should jump to 4\S, hoping to shut them out of their \H slam. As you can see
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\D]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -277,7 +277,7 @@ The 2NT bid is forcing and your suit is A K Q x x x. This is the standard guidel
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4\S]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -303,7 +303,7 @@ You should raise to 4\S because that is what you expect partner to make. }
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\H]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
 
 
 
@@ -333,7 +333,7 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
 
 
 
@@ -363,7 +363,7 @@ Well, you weren't sure whether to take partner to game or not, so when he says h
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\D]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
 
 
 
@@ -393,7 +393,7 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
 
 
 
@@ -423,7 +423,7 @@ You weren't sure whether to take partner to game or not. His 3\D bid tells you t
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\S]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\S]
 
 
 
@@ -453,7 +453,7 @@ Pass. Partner is in charge. If he had wanted you to bid again he could have forc
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2NT]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
 
 
 
@@ -483,7 +483,7 @@ pass pass pass 1S pass 3S pass 4S pass pass pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID pass]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
 
 
 
@@ -513,7 +513,7 @@ Well, we have passed out of the realm of Weak Twos and into Major Suit Raises! N
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 4NT]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4NT]
 
 
 
@@ -543,7 +543,7 @@ Partner has one Ace. Bid 6\S.}
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on BID above. [BID 2\H]
+You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
 
 
 
@@ -573,7 +573,7 @@ The 2\S bid is forcing for one round, but you want to bid again anyway. While yo
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on BID above. [BID 2\S]
+The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\S]
 
 
 

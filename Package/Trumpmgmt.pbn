@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Trumpmgmt
 [Event "Baker Bridge - Trump Management"]
@@ -35,7 +35,7 @@ What could go wrong is that West could win the \CK and return a \C which East ru
 
 
 
-Now, what should go right. Just because the lesson had many examples where you delayed pulling trumps, it is still true that MOST OF THE TIME you should pull trumps immediately. And this is one of those times.
+Now, what should go right. Just because the lesson had many examples where you delayed pulling trumps, it is still true that <b>MOST OF THE TIME</b> you should pull trumps immediately. And this is one of those times.
 
 So grab your \CA at trick 2, pull trumps no matter how many pulls it takes, then establish the \Cs. The contract is cold.
 
@@ -323,11 +323,11 @@ Losers:   \S = 0 or 1    \H = 0  \D = 1    \C = 1 Total = 2 or 3
 
 You probably do not have a trump loser because they will probably split 3-2. Still, a 4-1 split is certainly not out of the question.
 
-But those two minor suit losers are definite UNLESS you can somehow get to dummy's \H K Q. Can you? [NEXT]
+But those two minor suit losers are definite <b>UNLESS</b> you can somehow get to dummy's \H K Q. Can you? [NEXT]
 
 
 
-Yes you can get to dummy, in the trump suit. Win the opening \D lead. Unblock the \HA before touching trumps. Play a SMALL trump toward dummy. A defender will surely take his \SJ here, and play another \D. Win that trick and play another small \S. This one will get you into dummy. And by the way, West discards a \D so it turns out you were going to lose a trump in any case. Play dummy's \H K Q, discarding your two minor losers. Ruff a \H to return to your hand, pull trumps and claim.
+Yes you can get to dummy, in the trump suit. Win the opening \D lead. Unblock the \HA before touching trumps. Play a <b>SMALL</b> trump toward dummy. A defender will surely take his \SJ here, and play another \D. Win that trick and play another small \S. This one will get you into dummy. And by the way, West discards a \D so it turns out you were going to lose a trump in any case. Play dummy's \H K Q, discarding your two minor losers. Ruff a \H to return to your hand, pull trumps and claim.
 
 to see the full deal. [NEXT]
 
@@ -575,7 +575,7 @@ Leading a \S to dummy for a \C finesse might have worked.
 
 Trying to sneak into dummy with a trump might have worked.
 
-Playing a \C from your hand at the second trick WILL work.}
+Playing a \C from your hand at the second trick <b>WILL</b> work.}
 [Play "W"]DK
 
 [Event "Baker Bridge - Trump Management"]
@@ -875,7 +875,7 @@ Losers:   \S = ??    \H = 1  \D = 0    \C = 0 Total = 1 ??
 
 Of course you ruff the \S in dummy. West wouldn't underlead an Ace at a slam contract, and since you have a certain trump loser you cannot afford to lose a trick to East's \SA.
 
-Dummy has some great \Ds, but you can't expect to run them unless you have pulled all the trumps. But if you play \H A K 4 the defenders will take their trump trick and immediately set the contract with the \SA. There IS a way around the problem.  [NEXT]
+Dummy has some great \Ds, but you can't expect to run them unless you have pulled all the trumps. But if you play \H A K 4 the defenders will take their trump trick and immediately set the contract with the \SA. There <b>IS</b> a way around the problem.  [NEXT]
 
 
 

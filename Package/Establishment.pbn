@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Establishment
 [Event "Baker Bridge - Suit Establishment"]
@@ -190,7 +190,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Winners:   \S = 2     \H = 2  \D = 1    \C = 2 Total = 7
 
-You are very lucky. Apparently West led from \H K Q so you won an undeserved \H trick. Now, if \Cs split 2-2 you can make 12 tricks! But hold it a minute. If you play dummy's two top \Cs and they DON'T split 2-2 you will only  win two \C tricks and the contract will fail. Instead you should play a small \C from dummy right now. The defenders will win the trick easily, but you will win their return and you will still have a \C to get to dummy's 6 \C winners!
+You are very lucky. Apparently West led from \H K Q so you won an undeserved \H trick. Now, if \Cs split 2-2 you can make 12 tricks! But hold it a minute. If you play dummy's two top \Cs and they <b>DON'T</b> split 2-2 you will only  win two \C tricks and the contract will fail. Instead you should play a small \C from dummy right now. The defenders will win the trick easily, but you will win their return and you will still have a \C to get to dummy's 6 \C winners!
 
 for the complete Deal. [NEXT]
 
@@ -226,7 +226,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Winners:   \S = 2     \H = 2  \D = 1    \C = 2 Total = 7
 
-You need two more winners and dummy's \Dsuit is your only hope. IF \Ds split 3-2 and IF the defenders don't take too many winners in their suit(s) you can establish \Ds by ducking twice.
+You need two more winners and dummy's \Dsuit is your only hope. <b>IF</b> \Ds split 3-2 and <b>IF</b> the defenders don't take too many winners in their suit(s) you can establish \Ds by ducking twice.
 
 Win the first \S. If you hold up they might pocket the \S trick and switch to another suit where you only have two stoppers.
 
@@ -501,7 +501,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Losers:   \S = 1     \H = 0  \D = 0    \C = 0Total = 1
 
-It should be very clear that the only way to get rid of that \S loser is to discard it on dummy's \H suit. So after taking the first trick with dummy's \DA you could pull trumps, then play \HA, \HK and ruff a \H. IF the \Hs split 3-3 you could then enter dummy with the \DK and discard your loser.
+It should be very clear that the only way to get rid of that \S loser is to discard it on dummy's \H suit. So after taking the first trick with dummy's \DA you could pull trumps, then play \HA, \HK and ruff a \H. <b>IF</b> the \Hs split 3-3 you could then enter dummy with the \DK and discard your loser.
 
 The problem is that the \Hs are much more likely to split 4-2, in which case you will need to ruff twice to establish a winner. That means you will need an extra entry to dummy. 
 
@@ -597,7 +597,7 @@ You win the second \S and play your \CQ. West covers with the \CK. What do you d
 
 
 
- You DUCK. If you take the \CA now you will never get back to dummy to enjoy those other \Cs. So let West have the \CK. You win his return, (probably a \S), and play \CJ, then \C9 to dummy's \CA. As long as \Cs split 3-2 you will get the three winners you need.
+ You <b>DUCK</b>. If you take the \CA now you will never get back to dummy to enjoy those other \Cs. So let West have the \CK. You win his return, (probably a \S), and play \CJ, then \C9 to dummy's \CA. As long as \Cs split 3-2 you will get the three winners you need.
 
 Clickfor the complete Deal. [NEXT]
 
@@ -718,7 +718,7 @@ Winners:   \S = 2     \H = 0  \D = 1    \C = 2Total = 5
 
 The math is easy - you need 4 \H tricks. And you should be able to manage that by driving out the \HA. But the defenders will probably hold up one or two rounds when you play on \Hs, so you must have an outside entry to dummy. 
 
-The \S Q J will provide that entry IF you make sure to win the first trick with your \SA as an unblocking move. If you don't do so then West will be able to keep you out of the dummy and away from those good \Hs.
+The \S Q J will provide that entry <b>IF</b> you make sure to win the first trick with your \SA as an unblocking move. If you don't do so then West will be able to keep you out of the dummy and away from those good \Hs.
 
 [show NESW]
 Click NEXT to see the complete Deal. [NEXT]
@@ -761,7 +761,7 @@ Needing just two more winners it looks straightforward to establish dummy's \H s
 
 This won't work against good defenders, who will hold up on the first \H trick and win the second. Then when they continue \Ss you won't have another \H to return to dummy, so while you can use the \SK as an entry to establish the \Hs you will never get back to use the good ones.
 
-Instead you should win the first trick with your \SA. Now when you attack \Hs a defensive holdup won't hurt you because you have TWO \S entries, the \SJ by a finesse and the \SK.
+Instead you should win the first trick with your \SA. Now when you attack \Hs a defensive holdup won't hurt you because you have <b>TWO</b> \S entries, the \SJ by a finesse and the \SK.
 
 Clickfor the complete Deal. [NEXT]
 
@@ -807,7 +807,7 @@ Cover the \ST with dummy's \SJ, and when East plays one of his honors ruff in yo
 
 Back to dummy with the \DQ and ruff the \S2 with a high trump just to be safe. West drops the \S9 on this trick.
 
-Pull West's last trump and enter dummy with the \HA and FINALLY discard a loser on the now established \S8.
+Pull West's last trump and enter dummy with the \HA and <b>FINALLY</b> discard a loser on the now established \S8.
 
 Clickfor the complete Deal. [NEXT]
 

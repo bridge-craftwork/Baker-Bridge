@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Signals
 [Event "Baker Bridge - Defensive Signals"]
@@ -197,7 +197,7 @@ When you have made your choice click NEXT. [choose-card S7] [NEXT]
 
 You know that both East and South are now void of \Ss. You might just switch suits, but you have a better choice.
 
-If you play your \SQ, East won't bother ruffing, South WILL ruff and dummy's \SJ will be established as a winner.
+If you play your \SQ, East won't bother ruffing, South <b>WILL</b> ruff and dummy's \SJ will be established as a winner.
 
 The best procedure is to lead a low \S. East will ruff and South will over-ruff but by playing this way you stop the establishment of North's \SJ. As you can see, South would have been able to discard a loser on that \SJ if you hadn't played this way.}
 [Play "W"]SA

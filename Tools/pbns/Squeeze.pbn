@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Squeeze
 [Event "Baker Bridge - Squeeze Plays"]
@@ -33,7 +33,7 @@ You win the \CK and play \H A K Q to test the \H suit, but West discards a \C on
 
 [PLAY N:H5,N:H4,N:H3,N:C2,E:HT,E:H9,E:H8,E:C5,S:HA,S:HK,S:HQ,S:CK,W:H7,W:H6,W:CQ,W:C7]
 
-Your \H2 is not a winner but is a THREAT to become one. East holds the \HJ which is a GUARD against that happening.
+Your \H2 is not a winner but is a <b>THREAT</b> to become one. East holds the \HJ which is a <b>GUARD</b> against that happening.
 
 Next play your 4 \D winners, discarding a \C from dummy. East follows twice, then starts to feel the pressure. He cannot discard the \HJ because it is guarding your \H2, and since he can see those 4 \Ss in dummy he doesn't want to discard a \S. He discards both his \Cs, trusting West to guard that suit. [NEXT]
 
@@ -47,7 +47,7 @@ You just executed a Squeeze Play and you didn't even have to try. [NEXT]
 
 [PLAY E:SJ,E:ST,E:S9,E:S8,E:HJ,W:S7,W:S6,W:CJ,W:C9,W:C8]
 
-This type of squeeze is called an <i>automatic squeeze</i> because it operates equally well against either defender. Suppose the EW hands were switched. Of course the opening lead would have been different, but when you were ready to play your ninth winner the hands would have looked like this.
+This type of squeeze is called an <i><b>automatic squeeze</b></i> because it operates equally well against either defender. Suppose the EW hands were switched. Of course the opening lead would have been different, but when you were ready to play your ninth winner the hands would have looked like this.
 
 This time it is West who holds the only Guards in both \Ss and \Hs.
 
@@ -101,11 +101,11 @@ Since he still has the \HA you know dummy's \HQ is useless so you discard it. Du
 
 [PLAY E:SQ,E:HJ,E:H9,E:D8,E:D6,W:HA,W:DJ,W:DT,W:D9,W:D3]
 
-This type of squeeze is called a <i>positional squeeze</i> because it only operates against one of the defenders. Suppose the EW hands were switched as shown below. When you were ready to play the Squeeze Card the hands would have looked like this.
+This type of squeeze is called a <i><b>positional squeeze</b></i> because it only operates against one of the defenders. Suppose the EW hands were switched as shown below. When you were ready to play the Squeeze Card the hands would have looked like this.
 
 East holds the only Guards in both red suits, but he cannot be squeezed.
 
-You must play from dummy BEFORE East plays, so he just matches whatever you do.
+You must play from dummy <b>BEFORE</b> East plays, so he just matches whatever you do.
 
 If you discard the \HQ East will throw his \HA. If you discard dummy's fourth \D, East will throw his fourth \D.}
 [Play "W"]HK
@@ -137,7 +137,7 @@ You have 11 winners, 3 \Ss, 4 \Hs, 3 \Ds and 1 \C. If either \Ss or \Ds split 3-
 
 As you see, neither of them splits. However since one defender, East in this case, holds both Guards you should be able to squeeze him. 
 
-Visualize what would happen, though, if you win the first trick and then play your 4 \H winners. East would play his 3 \Cs and 2 \Hs on those 5 tricks and he would not be squeezed. The problem is that you have to RECTIFY THE COUNT. [NEXT]
+Visualize what would happen, though, if you win the first trick and then play your 4 \H winners. East would play his 3 \Cs and 2 \Hs on those 5 tricks and he would not be squeezed. The problem is that you have to <b>RECTIFY THE COUNT</b>. [NEXT]
 
 To rectify the count you have to lose all the tricks you can afford to lose, which in this hand is exactly one trick. So you duck the \CK and win the next trick when West continues with the \CQ. [NEXT]
 
@@ -365,7 +365,7 @@ East is now looking a little nervous, like he has a big target on his back!
 
 Play the \H6 and throw dummy's \D6.
 
-East can choose his fate. If he throws the \S9 you will know that his \SQ will drop since his third card MUST be the \DK. So you would just play to the high \Ss and the \SJ would be good.
+East can choose his fate. If he throws the \S9 you will know that his \SQ will drop since his third card <b>MUST</b> be the \DK. So you would just play to the high \Ss and the \SJ would be good.
 
 Or, he can throw his \DK which makes your \DQ a winner. [NEXT]
 
@@ -457,7 +457,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Nice hand. You have 12 high card tricks and either a 3-2 \S split or a 3-3 \C split will land this Grand Slam. But even if neither suit splits nicely you can STILL make it if the same defender holds 4 cards in both suits; in that case you will squeeze for the thirteenth trick.
 
-Win the \DK and (IMPORTANT!) test the \Cs first by playing \C A K Q. Darn. West discards a \D on the \CQ. [NEXT]
+Win the \DK and (<b>IMPORTANT!</b>) test the \Cs first by playing \C A K Q. Darn. West discards a \D on the \CQ. [NEXT]
 
 [PLAY N:S2,N:D5,N:C6,N:C3,E:D8,E:C9,E:C8,E:C4,S:DK,S:CA,S:CK,S:CQ,W:DQ,W:D2,W:CT,W:C7]
 
@@ -599,7 +599,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Of course you have noticed that in most of these hands you are exactly one trick short. No coincidence - it's when you are one trick short and can't find another likely plan that you start to look for a squeeze.
 
-In this hand dummy's fourth \C is an obvious Threat, so you should ask yourself if you can find another Threat for when \Cs don't split 3-3. Another thing you have probably noticed is that although 3-3 splits happen about 40% of the time in real life, they NEVER happen in these pages! [NEXT]
+In this hand dummy's fourth \C is an obvious Threat, so you should ask yourself if you can find another Threat for when \Cs don't split 3-3. Another thing you have probably noticed is that although 3-3 splits happen about 40% of the time in real life, they <b>NEVER</b> happen in these pages! [NEXT]
 
 [PLAY N:S3,N:DA,E:SA,E:DK,S:S7,S:D5,W:SQ,W:D2]
 
@@ -833,7 +833,7 @@ But how can you squeeze him? [NEXT]
 
 [PLAY N:ST,E:S5,S:S4,W:S3]
 
-The answer to that question is that YOU cannot squeeze him.
+The answer to that question is that <b>YOU</b> cannot squeeze him.
 
 But maybe you can make his partner do the job for you.
 
@@ -865,7 +865,7 @@ In your hand with the \CK, you now play the \CA.
 
 East is truly squeezed. If he discards a \H, dummy's \H5 will become a winner. but if he discards a \D then you will get a third \D trick and the contract.
 
-Since it was West who started the squeeze by cashing his last \S, this is called a Suicide Squeeze. BUT, what if West had not cashed that \S? [NEXT]
+Since it was West who started the squeeze by cashing his last \S, this is called a Suicide Squeeze.<b>BUT</b>, what if West had not cashed that \S? [NEXT]
 
 ***Here is the position you were supposed to remember***
 
@@ -1115,7 +1115,7 @@ And now the moment you have been waiting for all these 20 Deals.
 
 Play your \S2 and discard dummy's \C4.
 
-Poor East will squirm and try to figure out which discard is best because he doesn't actually KNOW what two cards you have left.
+Poor East will squirm and try to figure out which discard is best because he doesn't actually <b>KNOW</b> what two cards you have left.
 
 But you aren't squirming because you know that whichever card he throws it will give you your contract.}
 [Play "W"]HA

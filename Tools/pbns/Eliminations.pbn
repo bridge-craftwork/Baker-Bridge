@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Eliminations
 [Event "Baker Bridge - Elimination Plays"]
@@ -328,7 +328,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Your first thought is probably that if you can guess the \CQ you will make all thirteen tricks.
 
-So you win the \DK and play a \S to your \SK. When West discards a \D your second thought is probably that you MUST guess the \CQ just to make twelve tricks.
+So you win the \DK and play a \S to your \SK. When West discards a \D your second thought is probably that you <b>MUST</b> guess the \CQ just to make twelve tricks.
 
 Hopefully your third thought is that if you use an elimination play you won't have to guess.
 
@@ -434,7 +434,7 @@ On this Deal an elimination play will guarantee that you make your contract.
 
 However, it also guarantees that you will not make an overtrick.
 
-If you try the two finesses instead you MIGHT make an overtrick, but you also might go down 1.
+If you try the two finesses instead you <b>MIGHT</b> make an overtrick, but you also might go down 1.
 
 Decide for yourself!}
 [Play "W"]SK
@@ -540,7 +540,7 @@ Click NEXT. [NEXT]
 
 
 
-The stage is now set for the throw-in. Be SURE to lead a \D for the throw-in, not a \S.
+The stage is now set for the throw-in. Be <b>SURE</b> to lead a \D for the throw-in, not a \S.
 
 Click NEXT. [NEXT]
 
@@ -618,7 +618,7 @@ Clickfor the full deal. [NEXT]
 
 [show NESW]
 
-When you are missing the K Q of a suit, as in the \Cs on this hand, taking two finesses gives you a 75% chance of success - all things being equal.  
+When you are missing the K Q of a suit, as in the \Cs on this hand, taking two finesses gives you a 75% chance of success - <b>all things being equal</b>.  
 
 In this case though, West's overcall means all things are not equal, so your chances are lower than 75%.
 
@@ -818,7 +818,7 @@ Click NEXT. [NEXT]
 
 
 
-HE IS ENDPLAYED!. He has no \Cs, and whichever other suit he plays will give you your ninth trick! 
+<b>HE IS ENDPLAYED!</b>. He has no \Cs, and whichever other suit he plays will give you your ninth trick! 
 
 [show NESW]
 Click NEXT to see the complete deal. [NEXT]
@@ -954,7 +954,7 @@ Click NEXT. [NEXT]
 
 
 
-Now execute the throw-in by leading a \S. If West wins the trick he will have to play \Ds for you or give you a ruff-sluff. So if these are competent defenders they will make sure that it is EAST who wins the \S trick. So he does, and he plays a small \D.
+Now execute the throw-in by leading a \S. If West wins the trick he will have to play \Ds for you or give you a ruff-sluff. So if these are competent defenders they will make sure that it is <b>EAST</b> who wins the \S trick. So he does, and he plays a small \D.
 
 Click NEXT. [NEXT]
 
@@ -962,7 +962,7 @@ Click NEXT. [NEXT]
 
 
 
-DO NOT PLAY THE JACK! If the finesse is going to work now it will still work one trick later. By playing low you take advantage of the possibility that East held the \D10 and West will have to put on the \DQ to prevent you taking a trick with dummy's \D9.
+<b>DO NOT PLAY THE JACK!</b> If the finesse is going to work now it will still work one trick later. By playing low you take advantage of the possibility that East held the \D10 and West will have to put on the \DQ to prevent you taking a trick with dummy's \D9.
 
 Click to see the Deal. [NEXT]
 
@@ -1002,7 +1002,7 @@ Click NEXT. [NEXT]
 
 
 
-Now eliminate \Hs from your hand and dummy by playing \HK, \HA, \HJ. BUT BE CAREFUL! On the \HJ you must discard a \D from dummy so both of you will be out of \Ds at the throw-in.
+Now eliminate \Hs from your hand and dummy by playing \HK, \HA, \HJ.<b>BUT BE CAREFUL!</b> On the \HJ you must discard a \D from dummy so both of you will be out of \Ds at the throw-in.
 
 Click NEXT. [NEXT]
 
@@ -1010,7 +1010,7 @@ Click NEXT. [NEXT]
 
 
 
-NOW you can execute the throw-in. Play your \D, which eliminates \Ds from both you and dummy and at the same time throws in one of the defenders. Whoever it is will be forced to lead a \S and eliminate your guess for the \SQ or else give you a ruff-sluff, allowing you to ruff in dummy and discard a \S loser from your hand.
+<b>NOW</b> you can execute the throw-in. Play your \D, which eliminates \Ds from both you and dummy and at the same time throws in one of the defenders. Whoever it is will be forced to lead a \S and eliminate your guess for the \SQ or else give you a ruff-sluff, allowing you to ruff in dummy and discard a \S loser from your hand.
 
 Click for the Deal. [NEXT]
 
@@ -1084,7 +1084,7 @@ Click NEXT. [NEXT]
 
 
 
-Now, West is still on lead, and he has nothing in his hand but good \Hs. So he leads one of them, and you DO NOT RUFF. Instead you discard a \C from dummy and a \D from your own hand. West has now taken his side's third trick. He plays another good \H, and you ruff in dummy and discard the last \D loser from your hand. You can now cross-ruff for the rest of the tricks.
+Now, West is still on lead, and he has nothing in his hand but good \Hs. So he leads one of them, and you <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your own hand. West has now taken his side's third trick. He plays another good \H, and you ruff in dummy and discard the last \D loser from your hand. You can now cross-ruff for the rest of the tricks.
 
 Click to see all the hands. [NEXT]
 
@@ -1536,7 +1536,7 @@ If it is West who won the \DK you are home free. His \H play will give you two \
 
 If it is East who won the \DK you still have a chance. He will lead a \H and you will finesse the \HQ.
 
-In other words, played this way you make the contract whenever West holds the \DK OR East holds the \HK.
+In other words, played this way you make the contract whenever West holds the \DK <b>OR</b> East holds the \HK.
 
 Click to see all the hands.. [NEXT]
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Help
 [Event "Baker Bridge - Help Suit Game Try"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID pass]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 
@@ -45,7 +45,7 @@ There is no doubt that you could use some help in \Ds. But you need more than th
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on  BID  above. [BID 4\S]
+The bidding has gone as shown. Decide what you would say next, then click on  <b>BID</b>  above. [BID 4\S]
 
 [show NS]
 
@@ -71,7 +71,7 @@ This is not a great hand by any means. If partner had invited with a 3\S bid you
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 4\S]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -97,7 +97,7 @@ You might make a Help Suit Game Try in \Cs, but with 19/20 points in your own ha
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 3\H]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\H]
 
 [show NS]
 
@@ -127,7 +127,7 @@ But he has asked you to use judgement based on your \D holding, which is awful. 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\C]
 
 
 
@@ -157,7 +157,7 @@ When you ask partner to make a judgement call and he does so, you don't then ove
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 4\S]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -183,7 +183,7 @@ Partner is worried about his \H losers and you can certainly take care of some o
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 3\D]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\D]
 
 [show NS]
 
@@ -211,7 +211,7 @@ So you bid 3\D and partner puts you right to 4\S.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 4\H]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4\H]
 
 [show NS]
 
@@ -239,7 +239,7 @@ Since you have to make a judgement one way or the other you should decide that a
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 2\S]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 2\S]
 
 [show NS]
 
@@ -267,7 +267,7 @@ So you bid 2\S and partner bids 4\H. Sometimes it is easy.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on BID above. [BID 3\H]
+The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\H]
 
 [show NS]
 

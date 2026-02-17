@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Drury
 [Event "Baker Bridge - Reverse Drury"]
@@ -19,7 +19,7 @@ pass pass 1H pass 2C pass 2H pass pass pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
 
 With 11 points in support of \Hs you would generally make a limit raise with this hand. But since partner is in third seat you need to go carefully in case he has opened light. So you bid a Reverse Drury 2\C.
 
@@ -49,7 +49,7 @@ pass pass 1S pass 2C pass 2S pass pass pass
 [Student "S"]
 {[show S]
 
-You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID 2\S]
+You open in third seat and the bidding continues as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
 
 [show NS]
 
@@ -75,7 +75,7 @@ pass pass 1S pass 2C pass 2D pass 4S pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
 
 Bold bidders might have opened with this hand, so when partner opens in third seat you naturally want to show your strength. If you play Reverse Drury there is only one way to do that, so you bid 2\C.
 
@@ -105,7 +105,7 @@ pass pass 1H pass 2C pass 2D pass 3H pass 4H pass pass pass
 [Student "S"]
 {[show S]
 
-You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID 2\D]
+You open in third seat and the bidding continues as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
 
 Partner has a limit raise in \Hs and wonders if you have a full strength opening bid. Your 13 point hand qualifies as a decent opening bid, but certainly not enough extra to just jump to game. You bid 2\D, confirming the legitimate opener. Partner jumps to 3\H. What do you bid? [BID 4\H]
 
@@ -133,7 +133,7 @@ pass pass 1H pass 3H pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
 
 [show NS]
 
@@ -159,7 +159,7 @@ pass pass 1S pass 2C pass 4S pass pass pass
 [Student "S"]
 {[show S]
 
-You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID 4\S]
+You open in third seat and the bidding continues as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -185,7 +185,7 @@ pass pass 1S pass 2C pass 2D pass 2S pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
 
 With 11 points in support of \Ss you need to let partner know. The way to do it is to bid 2\C.
 
@@ -215,7 +215,7 @@ pass pass 1S pass 3S pass pass pass pass pass
 [Student "S"]
 {[show S]
 
-You open in third seat and the bidding continues as shown. Decide what you would say, then click on BID above. [BID pass]
+You open in third seat and the bidding continues as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 

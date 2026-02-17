@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Reverse
 [Event "Baker Bridge - Reverse Bids"]
@@ -19,13 +19,13 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
 
 [show NS]
 
 If you thought you couldn't bid 1\S because it would have been a Reverse just think again.
 
-A Reverse is when you bid a higher-ranking second suit at the 2-level. This is just normal bidding of suits up the line.
+A Reverse is when you bid a higher-ranking second suit <b>at the 2-level</b>. This is just normal bidding of suits up the line.
 
 Partner now takes control and bids the \S game.}
 
@@ -47,7 +47,7 @@ Partner now takes control and bids the \S game.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1NT]
 
 [show NS]
 
@@ -73,7 +73,7 @@ So with your minimum hand you bid 1NT which partner raises to 3NT.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. At your first turn you bid your \H suit, up-the-line. Decide what you would say next, then click on BID above. [BID 2NT]
+The bidding has gone as shown. At your first turn you bid your \H suit, up-the-line. Decide what you would say next, then click on <b>BID</b> above. [BID 2NT]
 
 [show NS]
 
@@ -101,7 +101,7 @@ Instead you bid 2NT. Partner has a bare 17 so he passes.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
 
 With 18 points you have enough to make a Reverse. So you bid 2\D. Partner now says 3\S. What do you bid? [BID 3NT]
 
@@ -127,7 +127,7 @@ Partner's jump bid shows a 6-card suit and enough points to insist on game. You 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\H]
 
 [show NS]
 
@@ -155,7 +155,7 @@ Since you know of an 8-card \H fit and at least 27 points you bid 4\H.}
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\S]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
 
 It may be tempting to open 1\H, planning on Reversing in \S at your second turn to show your big hand.
 
@@ -187,7 +187,7 @@ Things would have gotten confusing, to say the least.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
 
 [show NS]
 
@@ -217,7 +217,7 @@ Mercifully he passes.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
 
 [show NS]
 
@@ -241,7 +241,7 @@ When partner shows 17+ points with his Reverse you are sure you belong in game. 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
 
 With 17 points you have a perfect hand for a Reverse. So you bid 2\D. Partner then says 3\C. What do you say? [BID pass]
 
@@ -269,7 +269,7 @@ So you pass. It's a good thing, too.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
 
 [show NS]
 
@@ -293,7 +293,7 @@ You have 7 points, and basically nothing but s\H. You must make a minimum bid, a
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
 
 You have an ideal hand for a Reverse, so you bid 2\H.
 
@@ -323,7 +323,7 @@ There are no guarantees here, but you should probably try 5\D.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\D]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
 
 With 18 points you have enough to make a Reverse. So you bid 2\D. Partner now says 3\S. What do you bid? [BID 4\S]
 
@@ -353,7 +353,7 @@ Be very glad that you did.3NT would go down with a \H opening lead while 4\S is 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\D]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\D]
 
 [show NS]
 
@@ -377,7 +377,7 @@ With partner showing 17 or more points, your 13 brings you to game level. You wa
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1NT]
 
 [show NS]
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Cue-bid
 [Event "Baker Bridge - Support Cue-bids"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
 
 [show NS]
 
@@ -45,7 +45,7 @@ Instead, you cue-bid 3\H, promising at least 11 points and support for \Ss. Part
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\S]
 
 [show NS]
 
@@ -71,7 +71,7 @@ With your 17 revalued points you know that your side has at least enough for gam
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
 
 You have a limit raise in \Hs; if East had not overcalled you would have bid 3\H. 
 
@@ -101,7 +101,7 @@ Pass. Partner indicates a minimum hand and you don't have enough extra to bid mo
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID pass]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
 
 [show NS]
 
@@ -127,7 +127,7 @@ But partner doesn't have a limit raise - if he did he would have cue-bid. So you
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\S]
 
 [show NS]
 
@@ -155,7 +155,7 @@ The jump to 3 is based on the Law of Total Tricks - bidding to a trick level equ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
 
 [show NS]
 
@@ -181,7 +181,7 @@ You, however, have a bare-bones minimum. So you rebid a minimum 3\H, which partn
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
 
 You have 14 points in support of \Ss; however, partner's overcall does not promise more than 9 points or so. 
 
@@ -211,7 +211,7 @@ So you cue-bid 2\H, showing a good hand with support and forcing partner to bid 
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 4NT]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4NT]
 
 Partner has a limit raise or better  in \Ss, 11 points or more. 
 
@@ -241,7 +241,7 @@ You know you have a loser. Bid 6\S. }
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
 
 You have 12 points in support of \Hs; however, partner's overcall does not promise more than 9 points or so. 
 
@@ -271,7 +271,7 @@ Pass. Partner had a minimum overcall so he made a minimum rebid.}
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 3\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
 
 You have about 15 points in support of \Hs so you cue-bid 3\C, showing a limit raise or better and forcing partner to bid again. Partner bids 4\H. What do you say? [BID 5\C]
 

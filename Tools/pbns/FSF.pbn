@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent FSF
 [Event "Baker Bridge - Fourth Suit Forcing"]
@@ -19,7 +19,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
 
 With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\H. Partner rebids 1\S. What do you bid now? [BID 2\D]
 
@@ -51,7 +51,7 @@ Partner tells you he has 3 \Hs. You bid the \H game.}
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
 
 With 13 points you open 1\D. Partner responds 1\H. What do you bid now? [BID 1\S]
 
@@ -83,7 +83,7 @@ This is Fourth Suit Forcing and partner may or may not have a \C suit. You do no
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\H]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
 
 With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\H. Partner rebids 1\S. What do you bid now? [BID 2\D]
 
@@ -115,7 +115,7 @@ Partner does not have 3 \Hs, but he does have \Ds stopped. So you bid 3NT.}
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
 
 You open your 5-card suit, 1\D. Partner responds 1\S. What do you bid now? [BID 2\C]
 
@@ -149,7 +149,7 @@ This is Fourth Suit Forcing and partner is fishing for more information. You cer
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
 
 You show your 4-card Major. Bid 1\S. Partner rebids 2\C. What do you say next? [BID 3NT]
 
@@ -179,7 +179,7 @@ With 13 points, bid what you expect to make, 3NT. Partner passes.}
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\H]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
 
 You open 1\H. As expected, partner responds 1\S. What do you bid now? [BID 2\C]
 
@@ -213,7 +213,7 @@ Partner's bid is FSF. He wants to know if you have 3 \Ss, (you don't), or if you
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
 
 You have 15 points and you respond 1\S. Partner rebids 2\D. What do you say next? [BID 3\C]
 
@@ -243,7 +243,7 @@ So you say 3\C (FSF) to find out if either possibility exists. Partner does have
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
 
 With both 4-card minors you open 1\D. Partner responds 1\S. What do you bid next? [BID 2\C]
 
@@ -257,7 +257,7 @@ Partner jumps to 3\H. What do you bid? [BID 4\H]
 
 
 
-Since partner jumped this is NOT FSF. Partner has a \H suit and a pretty good hand to go with it. You also have a \H suit so you bid 4\H.}
+Since partner jumped this is <b>NOT</b> FSF. Partner has a \H suit and a pretty good hand to go with it. You also have a \H suit so you bid 4\H.}
 
 
 [Event "Baker Bridge - Fourth Suit Forcing"]
@@ -277,7 +277,7 @@ Since partner jumped this is NOT FSF. Partner has a \H suit and a pretty good ha
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
 
 You have a totally square 13 points. Still, you don't want to ignore a 4-card \S suit so you respond 1\S. Partner rebids 2\D. What do you say next? [BID 4\H]
 
@@ -305,7 +305,7 @@ You COULD bid 3\C, FSF, to find out if partner has a \C stopper but that would b
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\D]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
 
 With both 4-card minors you open 1\D. Partner responds 1\S. What do you bid now? [BID 2\C]
 
@@ -337,7 +337,7 @@ This is FSF, asking you to further describe your hand, and you have a problem. Y
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 2\C]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
 
 You respond 2\C. Partner rebids 2\D. What is your next bid? [BID 2\S]
 
@@ -371,7 +371,7 @@ It couldn't have worked out better. Notrump played from partner's side. You bid 
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\C]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\C]
 
 There is only one possibility; you open 1\C. Partner responds 1\D. What do you bid now? [BID 1\H]
 
@@ -403,7 +403,7 @@ Be careful! This is NOT Fourth Suit Forcing. It is true that you are forced to b
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on BID above. [BID 1\S]
+The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
 
 You have 13 points and you respond 1\S. Partner rebids 2\C. What is your next bid? [BID 2\D]
 
@@ -433,7 +433,7 @@ Partner says 2\S, telling you he has three of them, and you bid 4\S.}
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on BID above. [BID 1\C]
+You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\C]
 
 You have 15 points and you open 1\C. Partner responds 1\H. What do you bid now? [BID 1\S]
 

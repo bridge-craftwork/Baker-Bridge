@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-15 09:43:27
+%Created: 2026-02-17 05:59:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Minor
 [Event "Baker Bridge - Minor Suit Openings"]
@@ -61,7 +61,7 @@ You are not strong enough to open 1NT, but too strong to pass. You bid 1\D. Part
 
 You are not strong enough to open 1NT, but too strong to pass. You bid 1\D. Partner responds 1NT. What do you say next?
 
-With that small doubleton in \Cs it is very tempting to rescue partner from 1NT by bidding 2\S. There are three good reasons why you don't. First, bidding 1\D followed by 2\S is a REVERSE, which shows a strong hand, perhaps 16-17 points or more. Second, and even more important, partner's 1NT bid DENIES a 4-card Major suit. And third, partner probably has something in \Cs since he has no 4-card Major and also didn't feel like supporting your \Ds.
+With that small doubleton in \Cs it is very tempting to rescue partner from 1NT by bidding 2\S. There are three good reasons why you don't. First, bidding 1\D followed by 2\S is a <b>REVERSE</b>, which shows a strong hand, perhaps 16-17 points or more. Second, and even more important, partner's 1NT bid <b>DENIES</b> a 4-card Major suit. And third, partner probably has something in \Cs since he has no 4-card Major and also didn't feel like supporting your \Ds.
 
 So you pass and hope for the best.}
 
@@ -291,7 +291,7 @@ This would be an ideal hand to open 1NT - well, it would be with one less point.
 
 
 
-DO NOT fall into the trap of supporting partner's \Ss just because you have such nice help for him. He might have a 4-card suit. Instead, just describe your hand by jumping to 2NT, showing a balanced hand with 18-19 points. Partner now bids 3NT and you play it there.}
+<b>DO NOT</b> fall into the trap of supporting partner's \Ss just because you have such nice help for him. He might have a 4-card suit. Instead, just describe your hand by jumping to 2NT, showing a balanced hand with 18-19 points. Partner now bids 3NT and you play it there.}
 
 
 [Event "Baker Bridge - Minor Suit Openings"]

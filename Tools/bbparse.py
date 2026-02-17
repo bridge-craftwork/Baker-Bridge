@@ -579,7 +579,9 @@ def clean_up_analysis(analysis,td_str,last_bid):
     analysis = re.sub(r'</?span.*?>', '', analysis, flags=re.DOTALL)
     # Remove <a>...</a> tags and their contents
     analysis = re.sub(r'<a.*?>.*?</a>', '', analysis, flags=re.DOTALL)
-    analysis = analysis.replace("<b>","").replace("</b>","")
+    # Normalize <strong>/<em> to <b>/<i> (BridgeComposer formatting)
+    analysis = analysis.replace("<strong>", "<b>").replace("</strong>", "</b>")
+    analysis = analysis.replace("<em>", "<i>").replace("</em>", "</i>")
     analysis = re.sub(r'\.([A-Za-z])', r'. \1', analysis)   # Add space after periods, when text is following
     analysis = re.sub(r'\?([A-Za-z])', r'? \1', analysis)   # Add space after periods, when text is following
     analysis = analysis.strip()
