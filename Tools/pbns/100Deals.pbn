@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 100Deals
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
@@ -279,7 +279,7 @@ You can see what could have happened if you had tried to sneak even one \S trick
 [Contract "1NT"]
 [Result ""]
 [Auction "S"]
-1NT pass pass pass pass pass pass
+1NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -335,7 +335,7 @@ What would you try next? A \S finesse? Whether West took his \SK right then or l
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2H pass 4H pass pass pass pass pass pass
+1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -577,7 +577,7 @@ To summarize: If you are missing <b>J x x x</b> your first play should be from t
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 2NT pass 3NT pass pass pass pass pass pass
+pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1103,7 +1103,7 @@ But that would have been all for nothing if South had not found the PLAN to make
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D 1S pass 1NT pass 3NT pass pass pass pass pass
+1D pass 1S pass 1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1111,11 +1111,11 @@ But that would have been all for nothing if South had not found the PLAN to make
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID pass]
+You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
 
 With 13 points and 4 of partner's minor suit you may be tempted to say 2NT or 3\D. Both these temptations should be resisted - your first obligation is to show a 4-card Major if you have one. As poor as the suit is, you still respond 1\S. 
 
-Partner comes back with 1NT. What do you bid now? (Hint: don't rebid the \Ss.) [BID pass]
+Partner comes back with 1NT. What do you bid now? (Hint: don't rebid the \Ss.) [BID 3NT]
 
 [show NS]
 
@@ -4534,7 +4534,7 @@ A very important part of this Plan was where you chose to win the first trick. S
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1C pass 1H pass 3H pass 4H pass pass pass pass pass pass
+1C pass 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]

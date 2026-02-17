@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Minor
 [Event "Baker Bridge - Minor Suit Openings"]
@@ -241,7 +241,7 @@ Blackwood did its job. You are missing one Ace so all thoughts of a Grand are pu
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 3D pass 3NT pass pass pass pass pass pass
+1D pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -339,7 +339,7 @@ Bidding 4\S was a good choice. It makes easily, yet 3NT might have gone down.}
 [Contract "2S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 2S pass pass pass pass pass
+1C pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]

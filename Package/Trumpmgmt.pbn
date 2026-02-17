@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Trumpmgmt
 [Event "Baker Bridge - Trump Management"]
@@ -469,7 +469,7 @@ He would have ruffed the third \C, before you could discard a \S loser from your
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 3S pass 4S pass pass pass pass pass pass
+1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -569,7 +569,7 @@ For a Dummy Reversal to work you usually have to have a decent trump split.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2H pass 4H pass pass pass pass pass pass
+1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -617,7 +617,7 @@ Playing a \C from your hand at the second trick <b>WILL</b> work.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2H pass 4H pass pass pass pass pass pass
+2H pass 4H pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -667,7 +667,7 @@ Did you notice that West is a pretty good defender? Playing the \DQ on the third
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2S pass 4S pass pass pass pass pass pass
+1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -711,7 +711,7 @@ But, it was a good plan because dummy held the \S9. Keep that in mind when you l
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2S pass 4S pass pass pass pass pass pass
+1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -759,7 +759,7 @@ But you also had to be extremely clever to pull it off. This is probably the har
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1D pass 1S pass 2S pass 4S pass pass pass pass pass pass
+1D pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -811,7 +811,7 @@ This time it worked, another time it might not.}
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-pass 1H pass 2H pass 4H pass pass pass pass pass pass
+pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -859,7 +859,7 @@ Just the fact that you had to use the trump suit for entries to dummy, and there
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-pass 1S pass 1NT pass 4S pass pass pass pass pass pass
+pass 1S pass 1NT pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]

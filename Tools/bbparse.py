@@ -793,9 +793,18 @@ def extract_auction_info(auction_table,filepath):
 #   all_bids = ["pass", "1♠", "pass", "2♠", "pass", "4♠", "pass", "pass", "pass"]
 
     all_bids = [bid for round_bids in auction for bid in round_bids]
-    
+
     while all_bids and all_bids[-1].strip() == "":
         all_bids.pop()
+
+    # Convert empty cells after the first real bid to "pass"
+    # Leading empties (before dealer's bid) stay empty for position tracking
+    seen_bid = False
+    for i in range(len(all_bids)):
+        if all_bids[i].strip():
+            seen_bid = True
+        elif seen_bid:
+            all_bids[i] = "pass"
 
 #   dealer is first non-blank:
     dealer = next((positions[i % 4] for i, bid in enumerate(all_bids) if bid.lower() not in [""]), None)
@@ -853,7 +862,10 @@ def extract_auction_info(auction_table,filepath):
     pass_count = 0
 
     analysis_str = "\\n".join(analysis_lines)
-    auction_str = " | ".join([" ".join(bid_row) for bid_row in auction])
+    # Build auction_str from all_bids (which has empty cells converted to "pass")
+    # Group into rounds of 4, skipping leading empties (pre-dealer positions)
+    auction_rounds = [all_bids[i:i+4] for i in range(0, len(all_bids), 4)]
+    auction_str = " | ".join([" ".join(bid_row) for bid_row in auction_rounds])
     auction_str = ' '.join(auction_str.split())
 
     contract = contract + suffix

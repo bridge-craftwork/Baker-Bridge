@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Establishment
 [Event "Baker Bridge - Suit Establishment"]
@@ -465,7 +465,7 @@ This time you were lucky and the \Ss split evenly. Next time they probably won't
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4H pass pass pass pass pass pass
+1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -551,7 +551,7 @@ And if they had split 3-3 this Plan would still have worked.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D pass 1H pass 2C pass 3NT pass pass pass pass pass pass
+1D pass 1H pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -597,7 +597,7 @@ If looked different because of the two finesses you took.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-pass pass 1C pass 2C pass 3NT pass pass pass pass pass pass
+pass pass 1C pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -689,7 +689,7 @@ But, it is your only chance to make the contract.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4H pass pass pass pass pass pass pass
+1H pass 3H pass 4H pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]

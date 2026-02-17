@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -77,7 +77,7 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -143,7 +143,7 @@ Notice that with any other lead declarer would have been able to discard a \S lo
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]

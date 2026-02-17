@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Entries
 [Event "Baker Bridge - Entry Management"]
@@ -511,7 +511,7 @@ It is an important concept. When you have to use a trump as a later entry you co
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 3NT pass pass pass pass pass pass
+2NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -659,7 +659,7 @@ Here's a question: How many times at the table have situations like this present
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D 1NT pass 2NT pass 3NT pass pass pass
+1D pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -705,7 +705,7 @@ It looks a little different, but the theme is the same. PROTECT YOUR ENTRY.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2NT pass 3NT pass pass pass pass pass pass
+1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -759,7 +759,7 @@ Or you might try leading the \CQ hoping that East will see this as a time to "co
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -855,7 +855,7 @@ Maybe after the hand is over he will appreciate it more and congratulate you.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2S pass 3H pass 3NT pass pass pass pass pass pass
+2C pass 2S pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]

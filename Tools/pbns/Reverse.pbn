@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Reverse
 [Event "Baker Bridge - Reverse Bids"]
@@ -161,7 +161,7 @@ It may be tempting to open 1\H, planning on Reversing in \S at your second turn 
 
 Don't. A Reverse should always show an unbalanced hand with the first suit longer. So you open 1\S and partner replies 2\S.
 
-What do you bid? [BID pass]
+What do you bid? [BID 4\S]
 
 [show NS]
 

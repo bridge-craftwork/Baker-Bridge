@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 100NT
 [Event "Baker Bridge - 100 Notrump Deals"]
@@ -1578,7 +1578,7 @@ You sacrifice one sure \H winner to create a second dummy entry which creates tw
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2609,7 +2609,7 @@ That meant you could pull trumps with two pulls, leaving that one important one 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT 2H 3D pass 3NT pass pass pass pass pass pass
+1NT 2H 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3011,7 +3011,7 @@ You pull trumps first, then play two top \Cs. When both defenders follow you giv
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-2H 2NT pass 3NT pass pass pass pass pass pass
+2H 2NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4793,7 +4793,7 @@ This is much more obvious play when you are missing 5 trumps including the Queen
 [Contract "3H"]
 [Result ""]
 [Auction "N"]
-1NT 2S 2NT pass 3C pass 3H pass pass pass pass pass pass
+1NT 2S 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5914,7 +5914,7 @@ But since they may be right you need to be on the lookout for ducking plays beca
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1S pass pass 1NT pass 2NT pass 3NT pass pass pass pass pass pass
+1S pass pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]

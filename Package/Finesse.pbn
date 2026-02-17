@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 06:18:24
+%Created: 2026-02-17 12:00:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Finesse
 [Event "Baker Bridge - Finessing"]
@@ -162,7 +162,7 @@ Welcome to the real world.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2H pass 4H pass pass pass pass pass pass
+1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -371,7 +371,7 @@ But they are easy to overlook, mainly because we don't use them often.}
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1D pass pass 1NT pass 3NT pass pass pass pass pass pass
+1D pass pass 1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -423,7 +423,7 @@ Sometimes that may be right. But there are other times when information from the
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 2S pass 4S pass pass pass pass pass pass
+1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -473,7 +473,7 @@ The only hope is to try to drop the \SK without wasting an extra honor.}
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-pass 1H pass 1NT pass 4H pass pass pass pass pass pass
+pass 1H pass 1NT pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -637,7 +637,7 @@ Why not try to drop the \HQ and keep the finesse for the \CQ in reserve? Because
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass pass
+1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -745,7 +745,7 @@ And the rewards are great.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 2C pass 3NT pass pass pass pass pass pass
+1D pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -801,7 +801,7 @@ But at Match Point Pairs the reward would be much greater, a probable very high 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 2D pass 3NT pass pass pass pass pass pass
+1D pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -861,7 +861,7 @@ You could also have gotten 3 \S winners with this distribution.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C pass 2NT pass 3NT pass pass pass pass pass pass
+1C pass 2NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -913,7 +913,7 @@ The problem is that you might run into this very distribution. You would establi
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1D pass pass 1NT pass 3NT pass pass pass pass pass pass
+1D pass pass 1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -967,7 +967,7 @@ By the way. Those of you with great short-term memories might think they have se
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 3NT pass pass pass pass pass pass
+pass 1NT pass 3NT pass pass pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
