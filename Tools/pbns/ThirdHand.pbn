@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 12:00:15
+%Created: 2026-02-18 07:46:36
 %sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
@@ -534,6 +534,8 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
 {[show NE]
+
+[showcards W:HT]
 
 The bidding has been as shown. Partner led the \H10, dummy played the \HJ and it is your play.
 

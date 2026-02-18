@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 12:00:15
+%Created: 2026-02-18 07:46:36
 %sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
@@ -53,7 +53,7 @@ So if you put on your \DA, South will have TWO \D winners established. If instea
 [Student "W"]
 {[show NW]
 
-[showcards E:C2 S:H2,CA]
+[showcards W:CJ E:C2 S:H2,CA]
 
 You are West. The bidding has been as shown.
 
@@ -91,7 +91,7 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 [Student "E"]
 {[show NE]
 
-[showcards S:DJ,CJ,C8,C6 W:D2,CK,CQ,C5]
+[showcards W:CK S:DJ,CJ,C8,C6 W:D2,CK,CQ,C5]
 
 You are East. The bidding has been as shown.
 
@@ -129,7 +129,7 @@ Now that you have looked at the hands aren't you glad you didn't cover?}
 [Student "W"]
 {[show NW]
 
-[showcards E:HA,HK,H2 S:S4,S2,H9,H4]
+[showcards W:HJ E:HA,HK,H2 S:S4,S2,H9,H4]
 
 You are West. The bidding has been as shown.
 
@@ -207,7 +207,7 @@ South has no defense to this, but if you had played low he would have played the
 [Student "W"]
 {[show NW]
 
-[showcards E:S3 S:SA,C3]
+[showcards W:ST E:S3 S:SA,C3]
 
 You are West. The bidding has been as shown.
 
@@ -247,6 +247,8 @@ If he does play this way East will win the \CT and your \C K Q will get one more
 [Student "E"]
 {[show NESW]
 
+[showcards W:DJ]
+
 You are East. The bidding has been as shown, (wild).
 
 Partner led the \DJ; \DQ from dummy, \DK from you and ruffed by South.
@@ -285,7 +287,7 @@ By playing low you give him a guess to make. If he plays the \CK he will make th
 [Student "W"]
 {[show NW]
 
-[showcards S:DK,C9]
+[showcards W:D5 S:DK,C9]
 
 You are West. The bidding has been as shown.
 
@@ -323,7 +325,7 @@ So the way to beat the contract is to go up with your \CA, then play \SK, \SQ an
 [Student "E"]
 {[show NE]
 
-[showcards S:S6,H8 W:S2,H4]
+[showcards W:H4 S:S6,H8 W:S2,H4]
 
 You are East. The bidding has been as shown.
 
@@ -363,7 +365,7 @@ As you see, this will defeat the contract. Had you played a low \D South would h
 [Student "W"]
 {[show NW]
 
-[showcards E:S2 S:SQ,C6]
+[showcards W:S7 E:S2 S:SQ,C6]
 
 You are West. The bidding has been as shown.
 
@@ -403,7 +405,7 @@ East will win the \CA and return his \S through South's \S A Q. This allows you 
 [Student "E"]
 {[show NE]
 
-[showcards S:S4,DA W:S2,DQ]
+[showcards W:DQ S:S4,DA W:S2,DQ]
 
 You are East. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and South won the \DA.
 
@@ -441,7 +443,7 @@ Suppose you had ruffed the \S. South would have played his \S9, leaving himself 
 [Student "W"]
 {[show NW]
 
-[showcards E:S4,C5,C3 S:H4,CA,C6,C2]
+[showcards W:CK E:S4,C5,C3 S:H4,CA,C6,C2]
 
 You are West. The bidding has been as shown.
 
@@ -477,7 +479,7 @@ Now visualize the result of playing the \HQ. Whether South takes this trick or n
 [Student "E"]
 {[show NE]
 
-[showcards S:H4]
+[showcards W:HT S:H4]
 
 You are East. The bidding has been as shown.
 
@@ -515,7 +517,7 @@ Play low instead and South will win his \CQ. But now your \C K 10 sits behind du
 [Student "W"]
 {[show NW]
 
-[showcards E:S3,H7,H4 S:S5,HA,H2,C2]
+[showcards W:SJ E:S3,H7,H4 S:S5,HA,H2,C2]
 
 You are West. The bidding has been as shown.
 
@@ -595,6 +597,8 @@ If you play low, West will have to take the \DK now, and although he can play a 
 [Student "W"]
 {[show NESW]
 
+[showcards W:CQ]
+
 You are West. The bidding has been as shown.
 
 You lead the \CQ, East plays low and South wins the \CA.
@@ -673,7 +677,7 @@ If you cover the \HJ with your \HQ South will again win with one of his high one
 [Student "W"]
 {[show NW]
 
-[showcards E:HA,H3,DJ S:S3,HK,H6,D6]
+[showcards W:H2 E:HA,H3,DJ S:S3,HK,H6,D6]
 
 You are West. The bidding has been as shown.
 
@@ -715,7 +719,7 @@ If you play low on South's \S play East will be forced to win the trick and he c
 [Student "E"]
 {[show NE]
 
-[showcards S:HA,H2 W:H7,H3]
+[showcards W:H3 S:HA,H2 W:H7,H3]
 
 You are East. The bidding has been as shown.
 
@@ -754,6 +758,8 @@ Now assume you play low. South will play the \SQ which will win the trick and he
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
 {[show NESW]
+
+[showcards W:DJ]
 
 You are West. The bidding has been as shown.
 

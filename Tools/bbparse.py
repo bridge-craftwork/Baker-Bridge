@@ -1049,13 +1049,7 @@ def process_files(folder_path, output_csv, max_files=3000):
                     student = "East"
                 else:
                     student = "West"
-            
-#         print()
-#         print(filepath, ":")
-#         print("Dealer:", dealer, "contract:", contract, "declarer:", declarer, "auction:", auction_str, "lead:", opening_lead)
-#         print()
-#         print("analysis:", analysis)
-        
+
         results.append([
             subfolder_path, filename, deal_number, kind,
             hands["North"], hands["East"], hands["South"], hands["West"],
@@ -1063,7 +1057,7 @@ def process_files(folder_path, output_csv, max_files=3000):
         ])
 
     results.sort(key=lambda x: (x[0], x[1]))
-    
+
     with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
         csvwriter = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
         csvwriter.writerow([
@@ -1253,6 +1247,26 @@ def process_files(folder_path, output_csv, max_files=3000):
 
             # Add [choose-card] directives to defense lessons
             analysis = add_choose_card(analysis, subfolder_path, deal_number)
+
+            # Ensure opening lead has a [showcards] directive if not already present
+            if opening_lead and declarer and subfolder_path in ("SecondHand", "ThirdHand", "Signals"):
+                leader_map = {"North": "N", "East": "E", "South": "S", "West": "W",
+                              "N": "N", "E": "E", "S": "S", "W": "W"}
+                lho_map = {"N": "E", "E": "S", "S": "W", "W": "N"}
+                decl_abbr = leader_map.get(declarer, "")
+                leader = lho_map.get(decl_abbr, "")
+                lead_card = opening_lead.replace("!", "")
+                if leader and lead_card and "[showcards" in analysis:
+                    # Check if the leader's lead card is already in a showcards directive
+                    if leader + ":" + lead_card not in analysis:
+                        # Prepend the lead card to the existing first showcards
+                        analysis = analysis.replace("[showcards ", "[showcards " + leader + ":" + lead_card + " ", 1)
+                elif leader and lead_card and "[showcards" not in analysis:
+                    # Inject showcards after the first [show] directive
+                    show_match = re.search(r'\[show [^\]]+\]', analysis)
+                    if show_match:
+                        insert_pos = show_match.end()
+                        analysis = analysis[:insert_pos] + "\\n[showcards " + leader + ":" + lead_card + "]" + analysis[insert_pos:]
 
         results.append([
             subfolder_path, filename, deal_number, kind,

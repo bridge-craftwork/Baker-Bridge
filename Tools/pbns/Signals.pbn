@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-17 12:00:15
+%Created: 2026-02-18 07:46:36
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Signals
 [Event "Baker Bridge - Defensive Signals"]
@@ -19,7 +19,7 @@
 [Student "W"]
 {[show NW]
 
-[showcards E:S7 S:S5]
+[showcards W:SK E:S7 S:S5]
 
 You are West. The bidding has been as shown. You led the \SK, East played the \S7 and South the \S5.
 
@@ -57,7 +57,7 @@ If you play the \D10 East will win the \DA and return a \S, allowing you to driv
 [Student "W"]
 {[show NW]
 
-[showcards E:S7 S:S8]
+[showcards W:SK E:S7 S:S8]
 
 You are West. The bidding has been as shown. You led the \SK, East played the \S7 and South the \S8.
 
@@ -129,7 +129,7 @@ When he next plays the \CK dummy will ruff, but whatever card he ruffs with you 
 [Student "W"]
 {[show NW]
 
-[showcards E:DQ,D7,D3 S:D6,DT,DA,CQ]
+[showcards W:D5 E:DQ,D7,D3 S:D6,DT,DA,CQ]
 
 You are West. The bidding has been as shown. You led the \D5, East wins the \DQ and returns the \D7. South holds up his \DA until the third round. He then plays the \CQ and it is your play. 
 
@@ -197,7 +197,7 @@ Much better to play low. Partner will surely switch to a \D, and South will prob
 [Student "W"]
 {[show NW]
 
-[showcards E:S9,S3 S:S5,S8]
+[showcards W:SA E:S9,S3 S:S5,S8]
 
 You are West. The bidding has been as shown. You led the \SA, East plays the \S9, South the \S5. You assume East has signaled you to continue \Ss, so you play the \SQ. On this trick East plays the \S3 and South the \S8. How will you continue? 
 
@@ -269,7 +269,7 @@ This defense holds South to one \D tricks, if you had let him win the second one
 [Student "W"]
 {[show NW]
 
-[showcards E:S2,HJ S:SJ,ST,HA]
+[showcards W:H4 E:S2,HJ S:SJ,ST,HA]
 
 You are West. The bidding has been as shown. You led the \H4, East plays the \HJ, won by South with \HA.
 
@@ -341,7 +341,7 @@ South is one trick short and he sees he can easily get that trick in \Hs. So he 
 [Student "W"]
 {[show NW]
 
-[showcards E:HA,H3 S:H8,H5]
+[showcards W:H4 E:HA,H3 S:H8,H5]
 
 You are West. The bidding has been as shown. You led the \H4, East takes the \HA and returns the \H3. You ruff and then play what??? 
 
@@ -375,6 +375,8 @@ Partner takes the \CA and gives you a second \H ruff.}
 [Student "E"]
 {[show NE]
 
+[showcards W:DA]
+
 You are East. The bidding has been as shown. Partner led the \DA, dummy played the \D3 and it is your play.
 
 When you have made your choice click NEXT. [choose-card D2] [NEXT]
@@ -407,7 +409,7 @@ West looks at your signal, then looks at dummy, then looks at your signal. He kn
 [Student "W"]
 {[show NW]
 
-[showcards E:HQ S:H5]
+[showcards W:HA E:HQ S:H5]
 
 You are West. The bidding has been as shown. You led the \HA, East puts on the \HQ. It's your play. 
 
@@ -479,7 +481,7 @@ West next plays a small \D which you win with your \DJ. You return the \ST. This
 [Student "W"]
 {[show NW]
 
-[showcards S:SK]
+[showcards W:S5 S:SK]
 
 You are West. The bidding has been as shown. You led the \S5, East plays the \ST and South wins the \SK. To the second trick South plays the \CT and you must discard something. 
 
@@ -589,7 +591,7 @@ West dutifully plays a \H and you take the next three tricks. Had he switched to
 [Student "E"]
 {[show NE]
 
-[showcards S:C5 W:DA,CA]
+[showcards W:CA S:C5 W:DA,CA]
 
 You are East. The bidding has been as shown. Partner led the \CA. Seeing your \C3 he next played the \DA. What will you play on this trick?
 
@@ -659,6 +661,8 @@ So grab your \CA and return partner's \H suit. }
 [Student "E"]
 {[show NESW]
 
+[showcards W:S5]
+
 You are East. The bidding has been as shown. The 2\H bid was a transfer. The 5NT bid meant to choose either 6\S or 6NT. South liked the suit. Partner led the \S5, won by South's \SQ. South pulls one more trump with his \SA, then wins three high \Ds. Next comes dummy's \HA on which he plays the \H3 and West plays the \H9. Then he leads dummy's \H6 which you win with the \HQ. On this trick South drops the \HJ and West the \H2. It is your play.
 
 When you have made your choice click NEXT. [choose-card HK] [NEXT]
@@ -691,7 +695,7 @@ If you had not been paying attention to West's signal you might have decided to 
 [Student "W"]
 {[show NW]
 
-[showcards E:C2 S:C9]
+[showcards W:CA E:C2 S:C9]
 
 You are West. The bidding has been as shown. You led the \CA, East played the \C2 and South the \C9. What should you play to the second trick?
 
