@@ -30,12 +30,13 @@ Notice that you would bid this hand the same way whether or not you play 2/1.
 1H Pass 2D Pass 2H Pass 3H Pass 4H Pass Pass Pass
 {[show S]
 North opens 1\H.  What do you respond?[bid 2D]
-With 16 points,  responds 2\D, forcing the partnership to game.
+With 16 points,  you respond 2\D, forcing the partnership to game.
 North rebids 2\H.  In our style of 2/1 this promises a 6th heart.
 What do you rebid now?[bid 3h]
 [show NS]
-Opposite North's 6-card suit, South's doubleton is adequate support. If South had a minimum for her 2/1 response she might just jump to 4\H to show no interest in slam. With a little extra she bids 3\H since she knows the bidding cannot stop until game is reached. From South's perspective North might have a big hand; his 2-level rebid shows suit length but does not say anything about strength. This is one of the beauties of 2/1, the bidding can be kept low while you look for the best place to play. However, this time North merely bids the game and South passes.
-The hand is harder to bid in standard bidding - South couldn't bid 3\H to show slam interest.}
+Opposite North's 6-card suit, your doubleton is adequate support. If you had a minimum for your 2/1 response you might just jump to 4\H to show no interest in slam. With a little extra you bid 3\H since she knows the bidding cannot stop until game is reached. From your perspective North might have a big hand; his 2-level rebid shows suit length but does not say anything about strength. This is one of the beauties of 2/1, the bidding can be kept low while you look for the best place to play. However, this time North merely bids the game and you pass.
+
+The hand is harder to bid in standard bidding - you couldn't bid 3\H to show slam interest.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "3"]
@@ -91,10 +92,10 @@ North opens 1\S.  So far you know you belong in game, but you don't know which g
 You respond 2\C, natural and forcing the partnership to game.
 North now bids his \H suit.
 At this point you figurer North for 5 \Ss and 4 \Hs. What should you rebid?[BID 2NT]
-South cannot support either of North's Majors, but with a good stopper in the fourth suit bids 2NT. The game force is still on and North may not pass this bid.
+You cannot support either of North's Majors, but with a good stopper in the fourth suit you bid 2NT. The game force is still on and North may not pass this bid.
 North bids 3\H, indicating that this is also a 5-card suit. What do you rebid now? [BID 4H]
 [show NS]
-Now South can bid the \H game, knowing there is an 8-card fit.}
+Now you can bid the \H game, knowing there is an 8-card fit.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "6"]
@@ -111,11 +112,12 @@ Pass 1S Pass 2H Pass 3H Pass 4H Pass Pass Pass
 What do you open with this hand?[BID 1S]
 You opens 1\S and North, responds 2\H. Note that this promises a 5-card or longer \H suit.  (2 of a minor only promises 4+).
 What do you rebid?[BID 3H]
-South, knowing that North has 5, bids 3\H to confirm the trump suit.
+Knowing that North has 5, you bid 3\H to confirm the trump suit.
 North bids 4\h.  What do you bid now?[BID pass]
 [show NS]
 North went straight to game, showing a minimum opener and no slam interest.
-South is also satisfied to just play at game.
+You are also satisfied to just play at game.
+
 2/1 is a good bidding method, and here, 4\H is a good contract. But you can see that it is not a laydown - there is no bidding system that will always reach 100% contracts. In this hand a 3-3 \D split will provide the 10th trick, or if that fails, taking 2 \S finesses provides a 75% chance of success.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -131,6 +133,7 @@ South is also satisfied to just play at game.
 1S Pass 2C Pass 2H Pass 3H Pass 4H Pass Pass Pass
 {[show S]
 North opens 1\S.  What do you respond?[BID 2C]
+
 You have 15 HCP, but you only have 4\hs, so you can't bid 2\H (this would promise a 5-card suit).  So instead you bid clubs.  This is natural and game-forcing, but only promises 4+ clubs.
 Note that holding two 4-card minors you bid them up-the-line, just as in standard bidding.
 North rebids 2\h.  This shows at least 4 hearts.  What do you rebid now?[BID 3H]
@@ -556,13 +559,9 @@ Your two \Ss are enough support so you bid the \S game.}
 1S Pass 1NT Pass 2C Pass 3S Pass Pass Pass
 {[show S]
 How do you start the bidding on this hand? [bid 1s]
-
 You open 1\s.  Partner responds 1NT, forcing for one round.  What do you rebid? [bid 2c]
-
 You rebid 2\C, a 3-card suit. North now jumps to 3\S, showing limit-raise strength. This sequence is the way to show a limit-raise with only 3 trumps; an immediate jump-raise to the 3-level shows a limit-raise with 4 trumps.
-
 What do you bid now? [bid pass]
-
 In any case you have a bare minimum and pass the invitation.
 [show NS]}
 
