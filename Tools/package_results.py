@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import os
+import re
 import shutil
 import glob
 
@@ -54,3 +55,37 @@ copy_files(os.path.join(pbn_dir, "**", "*.pdf"), package_dir)
 
 # Copy all .pdf files from the pdfs directory (including subfolders) to the package directory, appending _Intro to the filename
 copy_pdf_with_intro(os.path.join(pdf_dir, "**", "*.pdf"), package_dir)
+
+# Overlay curated PBN files (board-by-board merge, curated wins on collisions)
+def parse_pbn_boards(filepath):
+    """Parse a PBN file into {board_number: board_text}."""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
+    boards = {}
+    parts = re.split(r'(?=\[Event ")', content)
+    for part in parts:
+        part = part.strip()
+        if not part:
+            continue
+        match = re.search(r'\[Board "(\d+)"\]', part)
+        if match:
+            boards[int(match.group(1))] = part
+    return boards
+
+curated_dir = os.path.join(base_dir, "../Curated")
+if os.path.isdir(curated_dir):
+    for curated_file in sorted(glob.glob(os.path.join(curated_dir, "*.pbn"))):
+        filename = os.path.basename(curated_file)
+        package_file = os.path.join(package_dir, filename)
+        if os.path.exists(package_file):
+            pkg_boards = parse_pbn_boards(package_file)
+            cur_boards = parse_pbn_boards(curated_file)
+            pkg_boards.update(cur_boards)  # Curated wins
+            with open(package_file, 'w', encoding='utf-8') as f:
+                for num in sorted(pkg_boards.keys()):
+                    f.write(pkg_boards[num] + '\n\n')
+            print(f"Merged {len(cur_boards)} curated boards into {filename}"
+                  f" ({len(pkg_boards)} total boards)")
+        else:
+            shutil.copy2(curated_file, package_file)
+            print(f"Copied curated file {filename} to Package")
