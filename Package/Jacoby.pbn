@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Jacoby
 [Event "Baker Bridge - Jacoby 2NT / Splinters"]
@@ -71,7 +71,7 @@ You couldn't hear much worse news. Partner has a singleton \H so your \H K J are
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3C pass 3H pass 3S pass 4S pass pass pass pass pass
+1S pass 2NT pass 3C pass 3H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -133,7 +133,7 @@ North has some extra strength and a 5-card \S suit. This is the point in the bid
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3S pass 4S pass pass pass pass pass
+1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -163,7 +163,7 @@ Partner would have shown a red Ace if he had one. Since he doesn't have one, all
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 4H pass pass pass pass pass
+1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -193,7 +193,7 @@ Partner's rebid of 4\H is not strong. He is using the Principle of Fast Arrival 
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2NT pass 4D pass 4H pass pass pass pass pass
+1H pass 2NT pass 4D pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -283,7 +283,7 @@ There isn't really anything else you want to know. You think you can make slam s
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 3H pass 3S pass 4NT pass 5H pass 6H pass pass pass pass pass
+1H pass 2NT pass 3H pass 3S pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -347,7 +347,7 @@ The three Aces does it for you. You can count 7 \S tricks, 3 \H tricks, 2 \D tri
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H pass 3S pass 4C pass 4D pass 6H pass pass pass pass pass
+1H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -407,7 +407,7 @@ But he definitely has \S support. You show your minimum hand by bidding 3\S and 
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 4H pass pass pass pass pass
+1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -521,7 +521,7 @@ Partner is definitely showing slam interest. If you had a first round control in
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1S pass 4H pass 5C pass 5H pass 6S pass pass pass pass pass
+1S pass 4H pass 5C pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -551,7 +551,7 @@ Partner has the \CA. Good. You are pretty worried about \Ds and also your 11 hig
 [Contract "7S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5S pass 7S pass pass pass pass pass
+1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5S pass 7S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -645,7 +645,7 @@ If partner can take care of your three \C losers you will have just one \S loser
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1S pass 2NT pass 3H pass 4D pass 4S pass pass pass pass pass
+1S pass 2NT pass 3H pass 4D pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

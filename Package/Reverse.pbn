@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Reverse
 [Event "Baker Bridge - Reverse Bids"]
@@ -11,7 +11,7 @@
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1S pass 4S pass pass pass pass pass
+1C pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -233,7 +233,7 @@ When partner shows 17+ points with his Reverse you are sure you belong in game. 
 [Contract "3C"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 2D pass 3C pass pass pass pass pass
+1C pass 1H pass 2D pass 3C pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -345,7 +345,7 @@ Be very glad that you did.3NT would go down with a \H opening lead while 4\S is 
 [Contract "5D"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 2D pass 4D pass 5D pass pass pass pass pass
+1C pass 1S pass 2D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

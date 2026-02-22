@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent NMF
 [Event "Baker Bridge - New Minor Forcing"]
@@ -75,7 +75,7 @@ Do not support the \Cs if you have another decent bid. This is New Minor Forcing
 [Contract "2H"]
 [Result ""]
 [Auction "N"]
-1D pass 1H pass 1NT pass 2C pass 2H pass pass pass pass pass
+1D pass 1H pass 1NT pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -141,7 +141,7 @@ This is New Minor Forcing and your first priority is to show a 4-card \H suit. Y
 [Contract "2NT"]
 [Result ""]
 [Auction "N"]
-1D pass 1H pass 1NT pass 2C pass 2NT pass pass pass pass pass
+1D pass 1H pass 1NT pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

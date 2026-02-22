@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Signals
 [Event "Baker Bridge - Defensive Signals"]
@@ -121,7 +121,7 @@ When he next plays the \CK dummy will ruff, but whatever card he ruffs with you 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2NT pass 3NT pass pass pass pass pass
+2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -223,7 +223,7 @@ The best procedure is to lead a low \S. East will ruff and South will over-ruff 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 3NT pass pass pass pass pass
+2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -261,7 +261,7 @@ This defense holds South to one \D tricks, if you had let him win the second one
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 2NT pass 3NT pass pass pass pass pass
+1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -297,7 +297,7 @@ South may now turn to the \D suit, but your side can win the first \D and drive 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -435,7 +435,7 @@ East next plays the \DQ and however South tries it your side will take the next 
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D pass 2H pass 4H pass pass pass pass pass
+1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -473,7 +473,7 @@ West next plays a small \D which you win with your \DJ. You return the \ST. This
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -545,7 +545,7 @@ If you don't get your \C trick at trick 4 you will never get it. South will disc
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 4S pass pass pass pass pass
+1S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -583,7 +583,7 @@ West dutifully plays a \H and you take the next three tricks. Had he switched to
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-3S pass 4S pass pass pass pass pass
+3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -617,7 +617,7 @@ But this time you really want him to take his \CK. So play the discouraging \D2 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 3NT pass pass pass pass pass
+2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]

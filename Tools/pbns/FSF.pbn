@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent FSF
 [Event "Baker Bridge - Fourth Suit Forcing"]
@@ -205,7 +205,7 @@ Partner's bid is FSF. He wants to know if you have 3 \Ss, (you don't), or if you
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1H pass 1S pass 2D pass 3C pass 3NT pass pass pass pass pass
+1H pass 1S pass 2D pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

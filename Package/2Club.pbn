@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 2Club
 [Event "Baker Bridge - Strong 2C Bids"]
@@ -11,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2NT pass 3NT pass pass pass pass pass
+2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -41,7 +41,7 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 [Contract "2NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2NT pass pass pass pass pass
+2C pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -165,7 +165,7 @@ Partner has between 3 and 7 points. Somewhere in those points might be the one t
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2H pass 3D pass 3NT pass pass pass pass pass
+2C pass 2D pass 2H pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -195,7 +195,7 @@ For someone who made an initial Negative response you have quite a good hand. Yo
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2S pass 4S pass pass pass pass pass
+2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -357,7 +357,7 @@ No, you still may not pass. First, because partner's bid of a new suit is forcin
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 3C pass 3D pass 3NT pass pass pass pass pass
+2C pass 2D pass 3C pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -459,7 +459,7 @@ You told him that you have 8 or more points, now you must tell him that it is on
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2NT pass 3NT pass 6NT pass pass pass pass pass
+2C pass 2NT pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -621,7 +621,7 @@ Obviously you could bid 7\S. But in fact you can count that there will be thirte
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2S pass 3H pass 3NT pass pass pass pass pass
+2C pass 2D pass 2S pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

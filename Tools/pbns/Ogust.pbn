@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Ogust
 [Event "Baker Bridge - Ogust"]
@@ -11,7 +11,7 @@
 [Contract "3H"]
 [Result ""]
 [Auction "S"]
-2H pass 2NT pass 3C pass 3H pass pass pass pass pass
+2H pass 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -67,7 +67,7 @@ Partner's 3\C bid shows a weak hand and a poor suit. So you reluctantly settle f
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
-2S pass 2NT pass 3D pass 3S pass pass pass pass pass
+2S pass 2NT pass 3D pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -123,7 +123,7 @@ Partner's 3\H bid shows a maximum hand and a poor suit. Your \SK should be enoug
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2S pass 2NT pass 3H pass 4S pass pass pass pass pass
+2S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -229,7 +229,7 @@ Partner's 3NT bid describes his hand exactly; \H A K Q x x x and nothing else. Y
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2H pass 2NT pass 3S pass 4H pass pass pass pass pass
+2H pass 2NT pass 3S pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

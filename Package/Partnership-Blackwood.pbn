@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-Blackwood
 [Event "Baker Bridge - Blackwood and Gerber"]
@@ -11,7 +11,7 @@
 [Contract "5S"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2S pass 3S pass 4NT pass 5C pass 5S pass pass pass pass pass
+2C pass 2D pass 2S pass 3S pass 4NT pass 5C pass 5S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -94,7 +94,7 @@ So SOUTH settles for the small slam.}
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-1H pass 2S pass 3S pass 4NT pass 5H pass 7NT pass pass pass pass pass
+1H pass 2S pass 3S pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -126,7 +126,7 @@ She bids 7NT.}
 [Contract "5H"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 4NT pass 5D pass 5H pass pass pass pass pass
+2C pass 2H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -237,7 +237,7 @@ SOUTH bids 6\H, knowing they must lose the \DA.}
 [Contract "7H"]
 [Result ""]
 [Auction "N"]
-1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass pass pass
+1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -271,7 +271,7 @@ NORTH counts thirteen tricks and bids 7\H.}
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4NT pass 6H pass pass pass pass pass
+1H pass 3H pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -301,7 +301,7 @@ SOUTH manages to figure out that NORTH has a \S void and bids the slam anyway.}
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1S pass 2S pass 4S pass pass pass pass pass
+1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -385,7 +385,7 @@ slam and bids 7NT.}
 [Contract "4NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 4C pass 4H pass 4NT pass pass pass pass pass
+2NT pass 4C pass 4H pass 4NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -447,7 +447,7 @@ were changed to the \HA she would bid 6NT and collect her twelve easy tricks.}
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 4C pass 4NT pass 6NT pass pass pass pass pass
+1NT pass 4C pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -561,7 +561,7 @@ missing two Aces!}
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1S pass 2H pass 3H pass 4NT pass 5H pass 6H pass pass pass pass pass
+1S pass 2H pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -592,7 +592,7 @@ so she bids 6\H.}
 [Contract "7H"]
 [Result ""]
 [Auction "N"]
-1C pass 1H pass 3H pass 4NT pass 5D pass 5NT pass 7H pass pass pass pass pass
+1C pass 1H pass 3H pass 4NT pass 5D pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]

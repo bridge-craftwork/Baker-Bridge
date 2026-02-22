@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Finesse
 [Event "Baker Bridge - Finessing"]
@@ -11,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -68,7 +68,7 @@ A Simple Finesse has only a 50% success rate. That's why we only take finesses a
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1H pass 1NT pass 3NT pass pass pass pass pass
+1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -114,7 +114,7 @@ But remember, finesses only work half the time. The other half they lose.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-pass pass 2NT pass 3C pass 3D pass 3NT pass pass pass pass pass
+pass pass 2NT pass 3C pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -212,7 +212,7 @@ The risk was worthwhile though since it gave you your only chance of making the 
 [Contract "6NT"]
 [Result ""]
 [Auction "N"]
-1C pass 2NT pass 6NT pass pass pass pass pass
+1C pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -371,7 +371,7 @@ But they are easy to overlook, mainly because we don't use them often.}
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1D pass pass 1NT pass 3NT pass pass pass pass pass
+1D pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -581,7 +581,7 @@ This method of play gave you two chances instead of just one.}
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 4C pass 4NT pass 7NT pass pass pass pass pass
+2NT pass 4C pass 4NT pass 7NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -637,7 +637,7 @@ Why not try to drop the \HQ and keep the finesse for the \CQ in reserve? Because
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -687,7 +687,7 @@ So it is basically a 50% chance.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2NT pass 3C pass 3S pass 4S pass pass pass pass pass
+2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -861,7 +861,7 @@ You could also have gotten 3 \S winners with this distribution.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C pass 2NT pass 3NT pass pass pass pass pass
+1C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -913,7 +913,7 @@ The problem is that you might run into this very distribution. You would establi
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1D pass pass 1NT pass 3NT pass pass pass pass pass
+1D pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -967,7 +967,7 @@ By the way. Those of you with great short-term memories might think they have se
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 3NT pass pass pass pass pass
+pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
@@ -1027,7 +1027,7 @@ But in a situation like this you don't play odds. By finessing West you guarante
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 3C pass 3S pass 4NT pass 5D pass 6S pass pass pass pass pass
+2C pass 2NT pass 3C pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]

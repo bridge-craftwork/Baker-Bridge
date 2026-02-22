@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent SecondHand
 [Event "Baker Bridge - Second Hand Play"]
@@ -11,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -83,7 +83,7 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 4H pass pass pass pass pass
+1H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -159,7 +159,7 @@ However, with South holding the \SQ it would be very logical for him to go up wi
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 6NT pass pass pass pass pass
+2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -199,7 +199,7 @@ South has no defense to this, but if you had played low he would have played the
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -279,7 +279,7 @@ By playing low you give him a guess to make. If he plays the \CK he will make th
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1NT pass 3NT pass pass pass pass pass
+1C pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -317,7 +317,7 @@ So the way to beat the contract is to go up with your \CA, then play \SK, \SQ an
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -471,7 +471,7 @@ Now visualize the result of playing the \HQ. Whether South takes this trick or n
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 6NT pass pass pass pass pass
+1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -547,7 +547,7 @@ When you correctly play your small \C life becomes harder for South. Sometimes h
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -629,7 +629,7 @@ But if you take your \HA now, then exit with your \H2, South can win the \HK but
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 3D pass 3NT pass 6H pass pass pass pass pass
+1H pass 3D pass 3NT pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -669,7 +669,7 @@ If you cover the \HJ with your \HQ South will again win with one of his high one
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2H pass 4H pass pass pass pass pass
+2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -751,7 +751,7 @@ Now assume you play low. South will play the \SQ which will win the trick and he
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1NT pass 3S pass 6S pass pass pass pass pass
+1NT pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]

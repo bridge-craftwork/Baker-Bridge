@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 100Deals
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
@@ -122,7 +122,7 @@ Making a PLAN is a necessary part of being a good Declarer and Visualizing what 
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 3NT pass pass pass pass pass
+pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -179,7 +179,7 @@ This wasn't one of those times.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2H pass 2S pass 4S pass pass pass pass pass
+1S pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -231,7 +231,7 @@ It's never great when the success of your contract depends on a finesse, but som
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 3NT pass pass pass pass pass
+pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -389,7 +389,7 @@ Only a real beginner would have pulled all the trumps and not been able to ruff 
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1C pass 1D pass 1NT pass 3NT pass pass pass pass pass
+pass 1C pass 1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -629,7 +629,7 @@ As you can see your plan was the only way to make the contract.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 3NT pass pass pass pass pass
+1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -809,7 +809,7 @@ As you can see, if you don't play the \Hs as suggested East can prevent you from
 [Contract "2H"]
 [Result ""]
 [Auction "S"]
-1H 1S 2H pass pass pass pass pass
+1H 1S 2H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -861,7 +861,7 @@ Make sure you visualize how the play would have gone if you had played a trump t
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2H pass 4H pass pass pass pass pass
+1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -931,7 +931,7 @@ This hand is much rarer - leaving TWO master trumps out. But you can see that it
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1C pass 1S pass 2NT pass 3NT pass pass pass pass pass
+pass 1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -985,7 +985,7 @@ Notice that if West was the one who had the \DA then you would go down despite y
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-1D 1H pass 4H pass pass pass pass pass
+1D 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1103,7 +1103,7 @@ But that would have been all for nothing if South had not found the PLAN to make
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 1NT pass 3NT pass pass pass pass pass
+1D pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1163,7 +1163,7 @@ Here the bad thing would be for East to get the lead and play a \S. In this case
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-pass 2C pass 2D pass 2S pass 2NT pass 3S pass 4S pass pass pass pass pass
+pass 2C pass 2D pass 2S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1229,7 +1229,7 @@ You would have played \CA, \C K, then a small \C to dummy's \CJ. East would ruff
 [Contract "2S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 2S pass pass pass pass pass
+1C pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1403,7 +1403,7 @@ A slightly different Plan would also have worked. At trick two you could have pl
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2C pass 3S pass 4S pass pass pass pass pass
+1S pass 2C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1511,7 +1511,7 @@ Only if you establish your \Hs can you set up a winner for <b>YOU</b> without gi
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 1NT pass 3S pass 4S pass pass pass pass pass
+1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1565,7 +1565,7 @@ Notice this. You cannot fault West for his opening lead, top of an honor sequenc
 [Contract "2S"]
 [Result ""]
 [Auction "S"]
-1S pass 2S pass pass pass pass pass
+1S pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1619,7 +1619,7 @@ The only way to make the contract was to ruff a \H in dummy. }
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1D pass 1H pass 1NT pass 3NT pass pass pass pass pass
+pass 1D pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -1803,7 +1803,7 @@ If East ruffs the fourth \H with his master \SQ South just discards a \D loser a
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 3NT pass pass pass pass pass
+pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2305,7 +2305,7 @@ Some contracts are impossible. So you just play to keep the damage as low as pos
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D pass 2NT pass 3NT pass pass pass pass pass
+1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2407,7 +2407,7 @@ Some would go down on this hand when they ruffed the first \S with dummy's \H3 a
 [Contract "3H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2D pass 2H pass 3H pass pass pass pass pass
+1NT pass 2C pass 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2529,7 +2529,7 @@ Correctly played you would lead a \H honor to establish one trick in the suit an
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 1NT pass 3S pass 4S pass pass pass pass pass
+1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2579,7 +2579,7 @@ Ruffing with the \SQ might cost a trick if the \Ss split 4-1 and East did not ha
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-1D dbl pass 2D pass 2H pass 2S pass 4S pass pass pass pass pass
+1D dbl pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2631,7 +2631,7 @@ If you had ruffed, East would have over-ruffed. And you would still have a \C lo
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1D pass 2C pass 2NT pass 3NT pass pass pass pass pass
+pass 1D pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2683,7 +2683,7 @@ As you see, this time the \Ss didn't split so you had to make the \CJ to succeed
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-pass pass pass 1S 2H 4S pass pass pass pass pass
+pass pass pass 1S 2H 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2731,7 +2731,7 @@ You have to listen to the bidding and draw conclusions from what is bid - and no
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2H pass 3C pass 4H pass pass pass pass pass
+1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2857,7 +2857,7 @@ In this hand you could not be defeated unless the \Ds split 5-1.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2H pass 4H pass pass pass pass pass
+2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2919,7 +2919,7 @@ But did you see there is another way to reach your hand? You could play \SA then
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
-1S pass 2S pass 3D pass 3S pass pass pass pass pass
+1S pass 2S pass 3D pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -2983,7 +2983,7 @@ Look at what would have happened if you had led a trump at trick 2. East could h
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1D pass 1NT pass 3NT pass pass pass pass pass
+1C pass 1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3097,7 +3097,7 @@ In this deal pulling trumps is secondary to finding a place for that slow \D los
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 4H pass pass pass pass pass
+1H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3147,7 +3147,7 @@ But you should still ask yourself if there is some distribution that will allow 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2D pass 3NT pass pass pass pass pass
+1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3201,7 +3201,7 @@ Be on the lookout for this type of situation because many times you have a fines
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-3H 3S 4H pass pass pass pass pass
+3H 3S 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3253,7 +3253,7 @@ To make sure the \SA didn't disappear you had to hold it until East no longer ha
 [Contract "6NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 4C pass 4D pass 6NT pass pass pass pass pass
+2C pass 2NT pass 4C pass 4D pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3311,7 +3311,7 @@ You must abandon \Cs temporarily and take the \D finesse. You take your good \Ds
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 6NT pass pass pass pass pass
+1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3428,7 +3428,7 @@ But in this deal the ruffing finesse is the only Plan that works. }
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2NT pass 3C pass 3H pass 4H pass pass pass pass pass
+2C pass 2D pass 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3496,7 +3496,7 @@ To prove that only the original \H9 play will work . . <b>VISUALIZE</b>:
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C pass 2NT pass 3NT pass pass pass pass pass
+1C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3676,7 +3676,7 @@ It made no difference in tricks whether you ruffed the third or fourth \C so tha
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2NT pass 3C pass 3S pass 4S pass pass pass pass pass
+2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -3868,7 +3868,7 @@ In this case dummy had a certain entry in the \D suit so you take advantage of t
 [Contract "3H"]
 [Result ""]
 [Auction "S"]
-1H 2D 2H 2S pass pass 3H pass pass pass pass pass
+1H 2D 2H 2S pass pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4002,7 +4002,7 @@ The choice between a single finesse and a double finesse is one that you will fa
 [Contract "5C"]
 [Result ""]
 [Auction "S"]
-1C pass 5C pass pass pass pass pass
+1C pass 5C pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4066,7 +4066,7 @@ The key play was dumping the \S on your \DK rather than a \H.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2H pass 3D pass 4H pass pass pass pass pass
+1H pass 2H pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4126,7 +4126,7 @@ And you couldn't get the \D ruff until after you had forced out the \DA.}
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-1H dbl pass 2S pass 4S pass pass pass pass pass
+1H dbl pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4296,7 +4296,7 @@ Set up the \D winner before you take the \H finesse and you will always be able 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 3NT pass pass pass pass pass
+1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4416,7 +4416,7 @@ If you decided to play for trumps to split 2-2 so you could use the \S8 as an en
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2S pass 3H pass 4S pass pass pass pass pass
+1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4774,7 +4774,7 @@ The percentages are right but the logic is wrong. If you are going to benefit fr
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2D pass 2H pass 4H pass pass pass pass pass
+1H pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4842,7 +4842,7 @@ This deal is a good example of that principle.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 1NT pass 3S pass 4S pass pass pass pass pass
+1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4912,7 +4912,7 @@ The same general plan, but with slightly different details, applies with all ope
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2D pass 2NT pass 3NT pass pass pass pass pass
+2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -4986,7 +4986,7 @@ But there was no other choice so you have to try it. }
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H 1S pass pass 3H pass 4H pass pass pass pass pass
+1H 1S pass pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5040,7 +5040,7 @@ The problem is that East would have over-ruffed the \H9 and then played another 
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 1S pass 3H pass 4H pass pass pass pass pass
+1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5102,7 +5102,7 @@ This will happen about 75% of the time, so the double finesse is a good Plan. An
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 1S pass 3H pass 4H pass pass pass pass pass
+1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5166,7 +5166,7 @@ So you won that trick and still had your \CQ to use after you pulled trumps.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-3H pass 4H pass pass pass pass pass
+3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5344,7 +5344,7 @@ With the \S Q J instead you just have to take care with entries. (Make that entr
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2C pass 2D pass 4S pass pass pass pass pass
+1S pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5402,7 +5402,7 @@ And with any cross-ruff it is best to pull as many trumps as you can spare befor
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2H pass 2S pass 4S pass pass pass pass pass
+1S pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5466,7 +5466,7 @@ The only time it is a mistake is when West holds the \H K Q and East holds the \
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2H pass 3C pass 4H pass pass pass pass pass
+1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5528,7 +5528,7 @@ Suppose when you led toward your \SQ it held the trick. Would you be convinced t
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1C pass 1S pass 1NT pass 3NT pass pass pass pass pass
+pass 1C pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5580,7 +5580,7 @@ This was a very difficult hand.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2S pass 4S pass pass pass pass pass
+2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -5700,7 +5700,7 @@ You must modify the Plan a little bit. Now your only hope is that West still hol
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-3H pass 4H pass pass pass pass pass
+3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]

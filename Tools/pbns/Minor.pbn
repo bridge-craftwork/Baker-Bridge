@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Minor
 [Event "Baker Bridge - Minor Suit Openings"]
@@ -41,7 +41,7 @@ Partner's response is forcing. He might have anywhere from 6 points to about 17.
 [Contract "1NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1NT pass pass pass pass pass
+1D pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -171,7 +171,7 @@ Partner's bid shows 13-16 points, balanced. And most importantly, it denies hold
 [Contract "3C"]
 [Result ""]
 [Auction "S"]
-1D pass 1NT pass 2C pass 3C pass pass pass pass pass
+1D pass 1NT pass 2C pass 3C pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -273,7 +273,7 @@ Partner suggests that \Ds is your suit, and he may be right. But you would much 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 2NT pass 3NT pass pass pass pass pass
+1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -435,7 +435,7 @@ Perfect bidding isn't always rewarded. They can win three \D tricks and the Ace 
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D pass 2NT pass 3NT pass pass pass pass pass
+1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -497,7 +497,7 @@ Partner doesn't have 4 \Hs so you go back to thinking this is an ideal notrump h
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D pass 3D pass 3NT pass pass pass pass pass
+1D pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -529,7 +529,7 @@ You described your hand very well with your first bid. Partner heard the descrip
 [Contract "3S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 3S pass pass pass pass pass
+1C pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Trumpmgmt
 [Event "Baker Bridge - Trump Management"]
@@ -107,7 +107,7 @@ So you must stay a jump ahead of them. In this Deal the only way they could have
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 1NT pass 3H pass 4H pass pass pass pass pass
+1H pass 1NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -151,7 +151,7 @@ Here there was no realistic hope of making this contract without playing twice t
 [Contract "5D"]
 [Result ""]
 [Auction "S"]
-1D pass 2NT pass 3D pass 5D pass pass pass pass pass
+1D pass 2NT pass 3D pass 5D pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -423,7 +423,7 @@ So you couldn't pull that one round of trumps because you couldn't waste either 
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2C pass 3H pass 4H pass pass pass pass pass
+1H pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -617,7 +617,7 @@ Playing a \C from your hand at the second trick <b>WILL</b> work.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2H pass 4H pass pass pass pass pass
+2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -899,7 +899,7 @@ Just remember to always pull trumps immediately . . .
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1S pass 2D pass 3H pass 4H pass 4NT pass 6H pass pass pass pass pass
+1S pass 2D pass 3H pass 4H pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -947,7 +947,7 @@ When you have a trump loser but still need to pull their trumps, it may be bette
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1D pass 1H pass 4NT pass 5D pass 6H pass pass pass pass pass
+1D pass 1H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]

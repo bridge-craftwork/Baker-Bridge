@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-BasicNotrump
 [Event "Baker Bridge - Very Basic Notrump Bidding"]
@@ -11,7 +11,7 @@
 [Contract "1NT"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass pass pass pass pass
+pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -37,7 +37,7 @@ Since this is below the 26 point game requirement he passes.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -119,7 +119,7 @@ than 17 points. So with her 7 points, she knows there is no reason to respond.}
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 2NT pass 3NT pass pass pass pass pass
+pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -234,7 +234,7 @@ magic game number of 26 points she just passes.}
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 2NT pass 3NT pass pass pass pass pass
+pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -266,7 +266,7 @@ and bids 3NT.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 3NT pass pass pass pass pass
+2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -323,7 +323,7 @@ her to bid 6NT if she is at the top of her range. It is clear to NORTH, but with
 [Contract "2NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2NT pass pass pass pass pass
+1NT pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -381,7 +381,7 @@ below the 37 points needed for Grand Slam so he bids 6NT.}
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 6NT pass pass pass pass pass
+2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -437,7 +437,7 @@ SOUTH has 7 points; he knows the partnership has either 27 or 28 points so he bi
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 6NT pass pass pass pass pass
+1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -493,7 +493,7 @@ SOUTH has 6 points, just enough to bid 3NT.
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-pass pass 1NT pass 2NT pass 3NT pass pass pass pass pass
+pass pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -524,7 +524,7 @@ she bids 3NT. If those 10's and 9's had been 4's and 3's she would have passed.}
 [Contract "6NT"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 4NT pass 6NT pass pass pass pass pass
+pass 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -555,7 +555,7 @@ He figured right - NORTH had 17 points so she bid 6NT.}
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 6NT pass pass pass pass pass
+1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -586,7 +586,7 @@ Notice how easy this will be to play once that Club suit is established.}
 [Contract "2NT"]
 [Result ""]
 [Auction "W"]
-pass 2NT pass pass pass pass pass
+pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -612,7 +612,7 @@ total cannot be more than 24. So he just passes 2NT.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -673,7 +673,7 @@ total will come to 34 or 35 so he bids 6NT.}
 [Contract "1NT"]
 [Result ""]
 [Auction "S"]
-pass pass 1NT pass pass pass pass pass
+pass pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]

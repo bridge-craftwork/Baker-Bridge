@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-NegativeDoubles
 [Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
@@ -42,7 +42,7 @@ SOUTH has 13 points and the \S fit so he bids game.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C 1D X pass 1NT pass 3NT pass pass pass pass pass
+1C 1D X pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -104,7 +104,7 @@ has enough strength to bid game.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1S 2H X pass 2NT pass 3NT pass pass pass pass pass
+1S 2H X pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -135,7 +135,7 @@ NORTH is more than happy to raise to 3NT.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1C 1S X pass 4H pass pass pass pass pass
+1C 1S X pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -164,7 +164,7 @@ and NORTH would have jumped to game.}
 [Contract "2C"]
 [Result ""]
 [Auction "S"]
-1C 1H X pass 1NT pass 2C pass pass pass pass pass
+1C 1H X pass 1NT pass 2C pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -224,7 +224,7 @@ NORTH has 10 points so she passes.}
 [Contract "4H"]
 [Result ""]
 [Auction "W"]
-pass 1H 1S 2S pass 4H pass pass pass pass pass
+pass 1H 1S 2S pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -286,7 +286,7 @@ NORTH does know it and passes 3\H.}
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1D 1S pass 2D pass 3S pass 4S pass pass pass pass pass
+1D 1S pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -377,7 +377,7 @@ SOUTH bids the slam.}
 [Contract "1NT"]
 [Result ""]
 [Auction "N"]
-1D 1S X pass 1NT pass pass pass pass pass
+1D 1S X pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -555,7 +555,7 @@ SOUTH has four \Cs so he bids the suit at the minimum level and NORTH passes.}
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1S 2D 3D pass 4NT pass 5D pass 6S pass pass pass pass pass
+1S 2D 3D pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -584,7 +584,7 @@ SOUTH says he has one so NORTH bids the slam.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1C 2S X pass 3H pass 4H pass pass pass pass pass
+1C 2S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -643,7 +643,7 @@ With 11 points SOUTH makes an invitational bid of 3\S but NORTH declines the inv
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1C 1S 2H pass 3H pass 4H pass pass pass pass pass
+1C 1S 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -673,7 +673,7 @@ NORTH bids the \H game.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H 2C 3C pass 4H pass pass pass pass pass
+1H 2C 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]

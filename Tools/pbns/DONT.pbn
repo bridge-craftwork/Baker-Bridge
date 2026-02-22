@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent DONT
 [Event "Baker Bridge - DONT"]
@@ -11,7 +11,7 @@
 [Contract "2H"]
 [Result ""]
 [Auction "E"]
-1NT 2D pass 2H pass pass pass pass pass
+1NT 2D pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -41,7 +41,7 @@ Don't get carried away, partner isn't really bidding a \H suit as much as he is 
 [Contract "2H"]
 [Result ""]
 [Auction "W"]
-1NT X pass 2C pass 2H pass pass pass pass pass
+1NT X pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -71,7 +71,7 @@ You didn't want to bid the first time, this time you definitely pass.}
 [Contract "2S"]
 [Result ""]
 [Auction "W"]
-1NT pass pass 2H pass 2S pass pass pass pass pass
+1NT pass pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -101,7 +101,7 @@ Partner prefers \Ss to \Hs. Since you were bare minimum you pass.}
 [Contract "2D"]
 [Result ""]
 [Auction "E"]
-1NT pass pass 2D pass pass pass pass pass
+1NT pass pass 2D pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -251,7 +251,7 @@ Your premonition came true. Partner passes and you are left playing 2\C with a s
 [Contract "2H"]
 [Result ""]
 [Auction "E"]
-1NT X pass 2H pass pass pass pass pass
+1NT X pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -281,7 +281,7 @@ There is a reason partner didn't say 2\C (which you were going to pass). And the
 [Contract "4H"]
 [Result ""]
 [Auction "W"]
-1NT 2H pass 3H pass 4H pass pass pass pass pass
+1NT 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -373,7 +373,7 @@ Still, you know he has a 6-card suit and you also know that every finesse is goi
 [Contract "2C"]
 [Result ""]
 [Auction "E"]
-1NT X pass 2C pass pass pass pass pass
+1NT X pass 2C pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -403,7 +403,7 @@ You say pass, of course.}
 [Contract "2S"]
 [Result ""]
 [Auction "W"]
-1NT 2C pass 2D pass 2S pass pass pass pass pass
+1NT 2C pass 2D pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -431,7 +431,7 @@ Partner corrects to 2\S, his "something else" and you pass.}
 [Contract "2H"]
 [Result ""]
 [Auction "W"]
-1NT pass pass 2C pass 2H pass pass pass pass pass
+1NT pass pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -463,7 +463,7 @@ So you pass.}
 [Contract "2H"]
 [Result ""]
 [Auction "E"]
-1NT pass pass 2H pass pass pass pass pass
+1NT pass pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -521,7 +521,7 @@ But with the weak hand you bid 2\S instead of double. Everybody passes.}
 [Contract "1NT"]
 [Result ""]
 [Auction "E"]
-1NT pass pass pass pass
+1NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]

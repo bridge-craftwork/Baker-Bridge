@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-StaymanTransfers
 [Event "Baker Bridge - Stayman and Jacoby Transfers"]
@@ -41,7 +41,7 @@ so he bids 3NT.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2H pass 2S pass 4S pass pass pass pass pass
+1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -212,7 +212,7 @@ NORTH shows a \H suit and SOUTH immediately bids game in that suit.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2NT pass 3C pass 3S pass 4S pass pass pass pass pass
+2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -238,7 +238,7 @@ needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 4H pass 4S pass pass pass pass pass
+1NT pass 2H pass 2S pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -327,7 +327,7 @@ off two Aces. Missing one Ace he settles for 6\H.}
 [Contract "2NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2H pass 2NT pass pass pass pass pass
+1NT pass 2C pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -358,7 +358,7 @@ SOUTH declines.}
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2D pass 3S pass 4S pass pass pass pass pass
+1NT pass 2C pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -420,7 +420,7 @@ SOUTH has a full 17 points so he accepts the invitation.}
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 3S pass 4S pass pass pass pass pass
+1NT pass 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -482,7 +482,7 @@ she bids 4\H.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 4S pass pass pass pass pass
+1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -571,7 +571,7 @@ the game where he knows the partnership holds eight trumps.}
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D pass 3H pass 4C pass 4D pass 6H pass pass pass pass pass
+1NT pass 2D pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -599,7 +599,7 @@ round control of the suit that was bid.}
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2H pass 3NT pass 4S pass pass pass pass pass
+1NT pass 2C pass 2H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]

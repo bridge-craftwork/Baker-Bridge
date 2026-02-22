@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -11,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-pass pass 1NT pass 3NT pass pass pass pass pass
+pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -43,7 +43,7 @@ South only has 7 winners unless he can establish the \C suit, and when you win y
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 4S pass pass pass pass pass
+1C pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -111,7 +111,7 @@ If you had led any card other than a low \S declarer would take 10 tricks.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2C pass 2H pass 4H pass pass pass pass pass
+1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -175,7 +175,7 @@ South will likely try the \C finesse, and when East wins the \CK he will return 
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1D pass 1H pass 1S pass 4S pass pass pass pass pass
+1D pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -213,7 +213,7 @@ As you can imagine, declarer will be in a whole lot of trouble.}
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 6NT pass pass pass pass pass
+2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -249,7 +249,7 @@ Declarer has 11 winners sitting there; if you had led a low \S you would have ha
 [Contract "6D"]
 [Result ""]
 [Auction "S"]
-1D pass 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass pass pass
+1D pass 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -285,7 +285,7 @@ Without a \S lead declarer will have smooth sailing.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -317,7 +317,7 @@ Leading a \H from your 5-card suit is riskier, but it has the potential of setti
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 1S pass 2C pass 4H pass pass pass pass pass
+1H pass 1S pass 2C pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -351,7 +351,7 @@ And when South plays \Cs, (preparing to ruff in dummy), you will win and play an
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C 1S 2NT pass 3NT pass pass pass pass pass
+1C 1S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -421,7 +421,7 @@ With the trump lead South might not make more than three tricks.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D pass 2NT pass 3NT pass pass pass pass pass
+1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -497,7 +497,7 @@ So take the \SA and then play another \S. Declarer will still be able to ruff on
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -567,7 +567,7 @@ It is important for your side to create a winner before your \DA is forced out. 
 [Contract "3NTX"]
 [Result ""]
 [Auction "N"]
-1S pass 2NT pass 3NT X pass pass pass pass
+1S pass 2NT pass 3NT X pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -603,7 +603,7 @@ With any other lead declarer will make the contract.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C X 2H pass 4H pass pass pass pass pass
+1NT pass 2C X 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -639,7 +639,7 @@ Declarer may still make the contract if he guesses the \HQ correctly, but maybe 
 [Contract "6NT"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 6NT pass pass pass pass pass
+1H pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]

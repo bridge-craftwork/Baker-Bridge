@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Cue-bid
 [Event "Baker Bridge - Support Cue-bids"]
@@ -11,7 +11,7 @@
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1S 2H 3H pass 4S pass pass pass pass pass
+1S 2H 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -63,7 +63,7 @@ With your 17 revalued points you know that your side has at least enough for gam
 [Contract "3H"]
 [Result ""]
 [Auction "N"]
-1H 1S 2S pass 3H pass pass pass pass pass
+1H 1S 2S pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -93,7 +93,7 @@ Pass. Partner indicates a minimum hand and you don't have enough extra to bid mo
 [Contract "3H"]
 [Result ""]
 [Auction "S"]
-1H 1S 3H pass pass pass pass pass
+1H 1S 3H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -233,7 +233,7 @@ You know you have a loser. Bid 6\S. }
 [Contract "2H"]
 [Result ""]
 [Auction "W"]
-1C 1H 1S 2C pass 2H pass pass pass pass pass
+1C 1H 1S 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -263,7 +263,7 @@ Pass. Partner had a minimum overcall so he made a minimum rebid.}
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H 2C 3C pass 4H pass 5C pass 6H pass pass pass pass pass
+1H 2C 3C pass 4H pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
@@ -11,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -79,7 +79,7 @@ Played this way you will defeat the contract by one trick. If you allow declarer
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -113,7 +113,7 @@ If instead you play the \CQ, figuring it makes no difference, you'd be right tha
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2C pass 2H pass 4H pass pass pass pass pass
+1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -151,7 +151,7 @@ For your side, 2 \S tricks and the two minor Aces spell defeat.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -227,7 +227,7 @@ The extra winner would permit South to discard 2 of dummy's \D losers, and this 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -263,7 +263,7 @@ It was a good thing you held the \HK rather than declarer, but it is a nuisance 
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1S pass 1NT pass 3NT pass pass pass pass pass
+1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -301,7 +301,7 @@ If declarer played low on the first trick you would win the \HQ, then play the \
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 3NT pass pass pass pass pass
+1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -339,7 +339,7 @@ Note that if dummy's \S9 was played you would cover with your \SJ, leading to th
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -379,7 +379,7 @@ So what happens if you play the \HQ at trick one? South could still make the con
 [Contract "3S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S 2H 3S pass pass pass pass pass
+1C pass 1S 2H 3S pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -415,7 +415,7 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1D pass 1H 1S 4H pass pass pass pass pass
+1D pass 1H 1S 4H pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -489,7 +489,7 @@ Not today. Partner takes the \CK and returns his \H2 to your four winners.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 4S pass pass pass pass pass
+1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -527,7 +527,7 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1H X pass 2C pass 2NT pass 3NT pass pass pass pass pass
+1H X pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -563,7 +563,7 @@ Now suppose you duck the \HJ. Again South will push \Cs, and again you hold up u
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C 1S 2NT pass 3NT pass pass pass pass pass
+1C 1S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -601,7 +601,7 @@ Notice that South will always make two \S tricks, so your overtake costs nothing
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1C 2S 2NT pass 3NT pass pass pass pass pass
+1C 2S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -713,7 +713,7 @@ If you have a partner who pays attention he will now play a \H for you to ruff. 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1NT pass 3NT pass pass pass pass pass
+1C pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]

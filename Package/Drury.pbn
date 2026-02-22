@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Drury
 [Event "Baker Bridge - Reverse Drury"]
@@ -11,7 +11,7 @@
 [Contract "2H"]
 [Result ""]
 [Auction "S"]
-pass pass 1H pass 2C pass 2H pass pass pass pass pass
+pass pass 1H pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -207,7 +207,7 @@ You've told partner you had at least a limit raise, now you need to tell him tha
 [Contract "3S"]
 [Result ""]
 [Auction "N"]
-pass pass 1S pass 3S pass pass pass pass pass
+pass pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

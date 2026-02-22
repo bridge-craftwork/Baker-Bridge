@@ -10,16 +10,12 @@
 [Auction "N"]
 1H Pass 2D Pass 2NT Pass 3NT Pass Pass Pass
 {[show S]
-
 After North's 1\H opening South counts 12 HCP plus one length point for the fifth \D. What do you bid?[BID 2D]
 That is enough for a 2/1 response so South says 2\D.
-
 The partnership is now forced to reach game so North bids 2NT. This describes a balanced hand with exactly 5 \Hs and no 4-card \S suit.  What should you bid now?[BID 3NT]
-
 South is happy to play in Notrump, and with no extra strength above the 13 points already promised, uses Quick Arrival and bids 3NT. North passes and a reasonable game contract is reached.
-Notice that you would bid this hand the same way whether or not you play 2/1. [NEXT]
-
-[show NESW]}
+Notice that you would bid this hand the same way whether or not you play 2/1.
+[show NS]}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "2"]
@@ -31,13 +27,15 @@ Notice that you would bid this hand the same way whether or not you play 2/1. [N
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1H Pass 2D Pass 2H Pass 3H Pass 4H Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\H and South, with 16 points,  responds 2\D, forcing the partnership to game.
-North has a minimum strength hand, but with a 6-card suit he rebids 2\H.
+1H Pass 2D Pass 2H Pass 3H Pass 4H Pass Pass Pass
+{[show S]
+North opens 1\H.  What do you respond?[bid 2D]
+With 16 points,  responds 2\D, forcing the partnership to game.
+North rebids 2\H.  In our style of 2/1 this promises a 6th heart.
+What do you rebid now?[bid 3h]
+[show NS]
 Opposite North's 6-card suit, South's doubleton is adequate support. If South had a minimum for her 2/1 response she might just jump to 4\H to show no interest in slam. With a little extra she bids 3\H since she knows the bidding cannot stop until game is reached. From South's perspective North might have a big hand; his 2-level rebid shows suit length but does not say anything about strength. This is one of the beauties of 2/1, the bidding can be kept low while you look for the best place to play. However, this time North merely bids the game and South passes.
-The hand would have been bid the same with or without 2/1.}
+The hand is harder to bid in standard bidding - South couldn't bid 3\H to show slam interest.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "3"]
@@ -50,11 +48,14 @@ The hand would have been bid the same with or without 2/1.}
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
 1H Pass 2D Pass 2H Pass 3H Pass 4C Pass 4D Pass 4NT Pass 5H Pass 6H Pass Pass Pass
-{[show NS]
-
-With 16+ points and 3 \Hs, South will insist on a \H game at a minimum. But there is no need to start making jump bids, she starts with a simple 2\D bid. North also refrains from a jump, and rebids 2\H to show the 6-card suit.
-South now says 3\H to set the trump suit. At this point North reveals some slam interest, making a control-showing bid of 4\C. South continues the process, and bids 4\D, showing the \DA.
-North has heard enough. He bids 4NT, and when South admits to two Aces he bids the slam.}
+{[show S]
+How do you respond with this nice hand?[BID 2D]
+With 16+ points and 3 \Hs, you will insist on a \H game at a minimum. But there is no need to start making jump bids, so start with a simple 2\D bid.  This is natural and game forcing.  North rebids 2\H to show a 6-card suit.  What do you rebid now?[BID 3H]
+Now you say 3\H to set the trump suit, and show slam interest.  At this point North also shows slam interest, making a control-showing bid of 4\C. Do you cooperate? [BID 4D]
+Yes, you have an easy, 4\D bid, showing the \DA.
+North has heard enough. He bids 4NT.  What do you respond, playing standard Blackwood?[BID 5H]
+[show NS]
+When partner hears about your two aces, he bids the slam.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "4"]
@@ -66,12 +67,13 @@ North has heard enough. He bids 4NT, and when South admits to two Aces he bids t
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S 2D 2H Pass 2S Pass Pass Pass Pass Pass
-{[show NS]
-
-North has a minimum 1\S opening bid. After East's 2\D overcall both North and South know that the 2/1 Game Force in no longer on. South can therefore bid 2\H, showing at least 11 points. This bid is forcing on North for 1 round, but not forcing to game.
-North next rebids his \Ss, promising a 6-card suit, but also indicating a minimum strength hand! Since the Game Force is not on, North would have to make a jump bid to show extra strength.
-South has nothing further to say so the partnership arrives in a safe contract.}
+1S 2D 2H Pass 2S Pass Pass Pass
+{[show S]
+North opens 1\S. East overcalls 2\d.  What do you bid?[BID 2H]
+After East's 2\D overcall both North and South know that the 2/1 Game Force in no longer on. South can therefore bid 2\H, showing at least 11 points. This bid is forcing on North for 1 round, but not forcing to game.
+North next rebids his \Ss, promising a 6-card suit, but also indicating a minimum strength hand. Since the Game Force is not on, North would have to make a jump bid to show extra strength.  What do you bid now?[BID pass]
+[show NS]
+You have nothing further to say so the partnership arrives in a safe contract.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "5"]
@@ -84,13 +86,15 @@ South has nothing further to say so the partnership arrives in a safe contract.}
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
 1S Pass 2C Pass 2H Pass 2NT Pass 3H Pass 4H Pass Pass Pass
-{[show NS]
-
-North opens 1\S, the higher ranking of the two 5-card suits.
-South, with 14 points, responds 2\C, forcing the partnership to game.
+{[show S]
+North opens 1\S.  So far you know you belong in game, but you don't know which game.  What do you bid first?[BID 2C]
+You respond 2\C, natural and forcing the partnership to game.
 North now bids his \H suit.
-At this point South figures North for 5 \Ss and 4 \Hs. South cannot support either of North's Majors, but with a good stopper in the fourth suit bids 2NT. The game force is still on and North may not pass this bid.
-North bids 3\H, indicating that this is also a 5-card suit. Now South can bid the \H game, knowing there is an 8-card fit.}
+At this point you figurer North for 5 \Ss and 4 \Hs. What should you rebid?[BID 2NT]
+South cannot support either of North's Majors, but with a good stopper in the fourth suit bids 2NT. The game force is still on and North may not pass this bid.
+North bids 3\H, indicating that this is also a 5-card suit. What do you rebid now? [BID 4H]
+[show NS]
+Now South can bid the \H game, knowing there is an 8-card fit.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "6"]
@@ -102,12 +106,16 @@ North bids 3\H, indicating that this is also a 5-card suit. Now South can bid th
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "E"]
-Pass 1S Pass 2H Pass 3H Pass 4H Pass Pass Pass Pass Pass
-{[show NS]
-
-South opens 1\S and North, with 14 points, responds 2\H. Note that North is not permitted to make this bid without a 5-card or longer \H suit.
+Pass 1S Pass 2H Pass 3H Pass 4H Pass Pass Pass
+{[show S]
+What do you open with this hand?[BID 1S]
+You opens 1\S and North, responds 2\H. Note that this promises a 5-card or longer \H suit.  (2 of a minor only promises 4+).
+What do you rebid?[BID 3H]
 South, knowing that North has 5, bids 3\H to confirm the trump suit.
-North has a minimum strength hand with no slam aspirations, so he uses Fast Arrival and bids 4\H. South is also satisfied to just play at game.
+North bids 4\h.  What do you bid now?[BID pass]
+[show NS]
+North went straight to game, showing a minimum opener and no slam interest.
+South is also satisfied to just play at game.
 2/1 is a good bidding method, and here, 4\H is a good contract. But you can see that it is not a laydown - there is no bidding system that will always reach 100% contracts. In this hand a 3-3 \D split will provide the 10th trick, or if that fails, taking 2 \S finesses provides a 75% chance of success.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -120,13 +128,17 @@ North has a minimum strength hand with no slam aspirations, so he uses Fast Arri
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 2C Pass 2H Pass 3H Pass 4H Pass Pass Pass Pass Pass
-{[show NS]
-
-North has 13 points and naturally opens 1\S.
-South, with 15 points, would bid 2\H in standard bidding, but with 2/1 this promises a 5-card suit. So instead, South responds 2\C, forcing the partnership to game. Note that holding two 4-card minors South bids them up-the-line, just as in standard bidding.
-North has a nice 6-card \S suit, so you might think he would rebid them. But Opener's first responsibility with his second bid is to show a 4-card Major if he has one. This isn't much of a suit, but North still bids 2\H.
-You can see why it is important for Opener to show a 4-card Major. Since South couldn't bid \Hs in her first response the fit would have been lost if North had not mentioned the suit. South now confirms the trump suit with a 3\H bid, and North shows his minimum by just bidding the game.}
+1S Pass 2C Pass 2H Pass 3H Pass 4H Pass Pass Pass
+{[show S]
+North opens 1\S.  What do you respond?[BID 2C]
+You have 15 HCP, but you only have 4\hs, so you can't bid 2\H (this would promise a 5-card suit).  So instead you bid clubs.  This is natural and game-forcing, but only promises 4+ clubs.
+Note that holding two 4-card minors you bid them up-the-line, just as in standard bidding.
+North rebids 2\h.  This shows at least 4 hearts.  What do you rebid now?[BID 3H]
+Your 3\h bid confirms hearts as trump.  There's no worry partner might pass - we are in a game forcing auction.
+North raises to 4\h, showing no slam interest.  What do you bid now?[BID pass]
+[show NS]
+We don't have enough for slam opposite a minimum opener, so we just pass.
+Note North's decision to show the poor 4-card heart suit for their second bid, instead of showing the 6th spade.  In a GF sequence, it's more important to tell about 4 more cards then 1 more card.  North will always have the chance to rebid spades later if there is no heart fit.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "8"]
@@ -138,13 +150,14 @@ You can see why it is important for Opener to show a 4-card Major. Since South c
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1H Pass 2D Pass 2S Pass 2NT Pass 3NT Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\H, his 5-card Major. South, with 14 points, naturally responds 2\D, forcing the partnership to game.
-North next bids 2\S, showing the other Major suit. In standard bidding North would not be able to bid the \Ss since that would be a Reverse and North is far too weak to Reverse. But after a 2/1 Response the concept of a Reverse does not apply, and the priority of showing a 4-card Major certainly does apply.
-South assumes North to be 4-5 in the Majors, so she cannot support either. She bids 2NT. If North actually has 6 \Hs (or 5 \Ss) he will rebid the suit. South's 2NT bid guarantees a stopper in the fourth suit.
-North does not have either 6 \Hs or 5 \Ss so he just bids 3NT. Notice that North never once considered the possibility of passing what might be a misfit - the initial 2/1 response unconditionally forced the partnership to reach a game somewhere.}
+1H Pass 2D Pass 2S Pass 2NT Pass 3NT Pass Pass Pass
+{[show S]
+North opens 1\H - how do you respond?[BID 2D]
+North next bids 2\S, showing the other Major suit.  In standard bidding this is a Reverse, showing a strong hand with 5\hs and 4\ss.  But after a 2/1 GF response, North doesn't need extra values to show their 4-card spade suit.  What should you rebid?[BID 2NT]
+You assume North to be 4-5 in the Majors, and since you can't support either one, you bid 2NT.
+If North actually has 6 \Hs (or 5 \Ss) he would rebid the suit. Your 2NT bid guarantees a stopper in the fourth suit.
+[show NS]
+North does not have either 6 \Hs or 5 \Ss so he just bids 3NT.  Notice that North never once considered the possibility of passing what might be a misfit - the initial 2/1 response unconditionally forced the partnership to reach a game somewhere.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "9"]
@@ -156,12 +169,15 @@ North does not have either 6 \Hs or 5 \Ss so he just bids 3NT. Notice that North
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 2C Pass 2H Pass 3D Pass 3NT Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\S, his 5-card Major. South, with 14 points, responds 2\C, a 2/1 force to game.
-North next bids 2\H, showing the other Major suit.
-South assumes North to be 5-4 in the Majors, so she cannot support either. She cannot bid 2NT without a stopper in \Ds. So South bids the fourth suit, 3\D, telling North she knows she must make a bid, but can't find anything appropriate.
+1S Pass 2C Pass 2H Pass 3D =1= Pass 3NT Pass Pass Pass
+[Note "1:4th suit"]
+{[show S]
+North opens 1\S- how do you respond?[BID 2C]
+With 14 points, you respond 2\C, a natural 2/1 force to game.
+North next bids 2\H, showing the other Major suit.  What do you rebid now?[BID 3D]
+You assume North to be 5-4 in the Majors, so you cannot support either.  You cannot bid 2NT without a stopper in \Ds. So you bid the fourth suit, 3\D, telling North you knows you must make a bid, but can't find anything appropriate.  This is an artificial bid, and normally denies a diamond stopper (otherwise you would have bid 2NT).
+North rebids 3NT - what do you do now?[BID pass]
+[show NS]
 North now must find a bid. His choices include rebidding the 5-card \Ss, supporting South's \Cs with a doubleton Queen, or bidding 3NT with the \D K 6 as a stopper. He chooses this last option. It appears that 3NT is the best game for these two hands.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -174,13 +190,18 @@ North now must find a bid. His choices include rebidding the 5-card \Ss, support
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-1S Pass 2H Pass 3H Pass 3S Pass 4C Pass 4NT Pass 5H Pass 6H all Pass Pass Pass
-{[show NS]
-
-South opens 1\S, her 5-card Major and North responds 2\H. South knows this is a 5-card suit, and bids 3\H, confirming the 8+card trump fit.
-Once the trump fit is known, North revalues his hand to about 19 points. He makes a slam try with  a control-showing bid of 3\S. He knows South won't take this as \S support since the partnership has agreed that \Hs are going to be trumps.
-South now shows her control by bidding 4\C.
-That was what North needed to hear; when Blackwood uncovers two Aces he bids 6\H.
+1S Pass 2H Pass 3H Pass 3S =1= Pass 4C =2= Pass 4NT Pass 5S =3= Pass 6H Pass Pass Pass
+[Note "1:control"]
+[Note "2:control"]
+[Note "3:2 keycards + trump Q"]
+{[show S]
+How do you open the bidding?[BID 1S]
+With 18 HCP and a balanced hand, you open 1\S.  Partner responds  2\H. What do you rebid?[BID 3H]
+You know this is a 5-card suit, and bid 3\H, confirming the 8+card trump fit and sets the trump suit.
+Partner rebids 3\S, a control bid, showing first or second round control.  (Some will play this as showing 3-card support for spades, but I recommend playing this as a control bid.). What do you bid now? [BID 4C]
+You bid 4C, also a control bid, showing first or second round control in clubs.  Partner bids 4NT, a keycard request using 1430.  What do you respond? [BID 5S]
+[show NS]
+You bid 5\s, showing two keycards and the trump queen.  Partner bids the slam.
 The slam is a good one. If either the \SQ or \CK is right there are 12 tricks by way of a finesse. But the best way to play the hand would be to try to establish a \S in the South hand, and if that fails try the \C finesse.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -195,7 +216,6 @@ The slam is a good one. If either the \SQ or \CK is right there are 12 tricks by
 [Auction "W"]
 Pass 1H Pass 2C Pass 2NT Pass 3NT Pass 4NT Pass 6NT Pass Pass Pass
 {[show NS]
-
 North opens 1\H and South responds 2\C. Using standard bidding North would now jump to 3NT to show his 19 points, but in 2/1 this is not necessary since the partnership must not stop bidding until game is reached. So North just bids 2NT. South shows her minimum by bidding 3NT.
 North will now disclose his extra strength. He bids 4NT. This is not Blackwood, but rather a quantitative raise in Notrump, and an invitation to slam.
 South has 15 points, and they are good ones. She accepts the invitation and bids 6NT.
@@ -212,10 +232,11 @@ There are 11 top tricks. A 3-3 \H split would provide the 12th winner, but this 
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "W"]
 Pass 1S Pass 2D Pass 2S Pass 4S Pass Pass Pass
-{[show NS]
-
-North opens 1\S and South responds 2\D. North has a pretty good hand, 17 points, but no stopping power in the minor suits. Also, North's \S suit is pretty ragged. Taking these points into consideration, North should just rebid his 6-card suit.
-South should now jump to 4\S. This is Fast Arrival, indicating a minimum hand with no particular interest in slam.
+{[show S]
+North opens 1\S - what do you respond? [bid 2D]
+You responds 2\D, natural and game forcing.  North rebids 2\s.  In our style of 2/1, this promises 6+ cards in spades, and denies a side 4-card suit.  What should we bid now? [bid 4s]
+[show NS]
+You should jump to 4\S. This is Fast Arrival, indicating a minimum hand with no particular interest in slam.
 North is happy to rest in the game contract.
 Even with a combined 30 points, 10 tricks are certainly not a sure thing. North must hope that West holds the trump King.}
 
@@ -229,13 +250,17 @@ Even with a combined 30 points, 10 tricks are certainly not a sure thing. North 
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "W"]
-Pass 1S Pass 2H Pass 3H Pass 4NT Pass 5H Pass 5NT Pass 6C Pass 6H Pass Pass Pass
-{[show NS]
-
-North opens 1\S. South has a powerhouse, plenty strong enough to jump-shift. But playing 2/1 it's usually simpler when you make the 2/1 response, and save your jumping for later - if at all. So South bids just 2\H, knowing North must keep the bidding open.
-North knows South has at least 5 \Hs, so his first priority is to agree on the trump suit. He bids 3\H.
-South now makes the slam try. She knows North has at least three trumps, and all she wants to find out is how many Aces/Kings North holds. So she bids Blackwood and North confesses to two Aces.
-Still hoping for the Grand, South bids 5NT. Oops, North doesn't have any kings so South settles for a small slam.
+Pass 1S Pass 2H Pass 3H Pass 4NT Pass 5H =1= Pass 5NT =2= Pass 6H =3= Pass Pass Pass
+[Note "1:2 keycards, no trump Q"]
+[Note "2:king ask"]
+[Note "3:no kings lower than hearts"]
+{[show S]
+North opens 1\S.  What do you respond with? [bid 2h]
+You have a powerhouse, plenty strong enough to jump-shift. But playing 2/1 it's usually simpler when you make the 2/1 response, and save your jumping for later - if at all. So just bid 2\H, knowing North must keep the bidding open.
+North responds 3\h, setting the trump suit.  What do you bid now? [bid 4NT]
+Now you are definitely  interested in slam.  Since you have controls in all the side suits, you go right to keycard Blackwood, using the 1430 system.  Partner responds 5\H.  What do you bid now? [BID 5NT]
+[show NS]
+Partner's 5\H shows two keycards without the trump queen.  But we have the other 3 keycards, and the trump queen.  If partner has the two minor kings we might have a grand.  We ask about these with our 5NT bid.  Unfortunately, partner responds 6\H (playing specific kings, this denies any kings lower than hearts).  We will pass and play there.
 This is a good slam, cold if West makes any opening lead other than a \C. With a \C lead, South will have to pull trumps and play to discard a loser on the \ST.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -248,13 +273,15 @@ This is a good slam, cold if West makes any opening lead other than a \C. With a
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-1H Pass 2D Pass 2H Pass 4H Pass Pass Pass Pass Pass
-{[show NS]
-
-South opens 1\H and North responds 2\D.
-South has a good-looking hand, but needs to find a trump suit before she starts showing her extra strength, so she bids just 2\H.
-Knowing that South holds 6 \Hs, North can support with the honor doubleton so he agrees the trump suit with a Fast Arrival bid of 4\H.
-South has some extra strength, but not enough to push on after North's weak bid. Notice that if South DID try a 4\S Control bid North would just bid 5\H and the pair might be one trick too high.}
+1H Pass 2D Pass 2H Pass 4H Pass Pass Pass
+{[show S]
+How do you start this action? [Bid 1H]
+You open 1\H and partner responds 2\D.  What do you rebid? [bid 2h]
+Partner's 2 over 1 bid sets up a game force.
+You have a good-looking hand, but you need to find a trump suit before showing extra strength, so she bids just 2\H.  You are in a game forcing auction, so partner won't pass you.
+Partner now jumps to 4\h.  What do you do now? [bid pass]
+[show NS]
+Partner's jump to 4\h is Fast Arrival - showing a minimum game forcing hand.  Even though we have extra values, this won't be enough for slam opposite 13 or so points.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "15"]
@@ -267,10 +294,11 @@ South has some extra strength, but not enough to push on after North's weak bid.
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
 1S Pass 1NT Pass 2C Pass 2H Pass Pass Pass
-{[show NS]
-
-North opens 1\S. South has 11 points, enough to respond 2\H in standard bidding, but not when using 2/1. So she bids 1NT.
-North would love to pass 1NT but is not permitted to do so. He has no good bid, so he must bid a 3-card suit. When holding two 3-card minors, usually bid \Cs. South now shows the \H suit that she could not bid first round.
+{[show S]
+North opens 1\S. What do you respond? [bid 1NT]
+You have 11 points, enough to respond 2\H in standard bidding, but not when using 2/1. So we use the forcing 1NT.  North rebids 2\c.   This only promises 3 clubs, so is really just there so we can better describe our hand with our second bid.  What do we bid now? [bid 2h]
+[show NS]
+Now we can bid 2H, and it shows 6+\hs and only 6-10 points. 
 North was forced to reply to 1NT, but he is not forced to bid again. With his minimum hand and a tolerance for partner's suit he just passes and the partnership ends up in a reasonable contract.
 This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding South's first response would be 2\H, and North would have to bid again, probably 2NT. The partnership might go even higher but in any case would probably not reach a good contract.}
 
@@ -284,12 +312,15 @@ This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding S
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 1NT Pass 2C Pass 2NT Pass 3NT Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\S. South has 11 points, enough to respond 2\C, (or 2\D), in standard bidding, but not when using 2/1. So she bids 1NT.
-North is forced to bid again, but unlike the previous hand, here he <b>wants</b> to keep bidding. He bids 2\C. South knows North doesn't have \Hs, so she shows her above-minimum hand by bidding 2NT.
-North is happy to play Notrump. He assumes South must have something useful in \Ds and bids 3NT.
+1S Pass 1NT Pass 2C Pass 2NT Pass 3NT Pass Pass Pass
+{[show S]
+North opens 1\S. What should you bid? [bid 1NT]
+You have 11 points, enough to respond 2\C, (or 2\D), in standard bidding, but not when using 2/1. So you bid 1NT, showing 6-12 points.
+North rebids 2\c.  Again, this doesn't promise more than 3\c - it's just leaving room for us to describe our hand with our second bid.  What do we bid now? [bid 2NT]
+[show NS]
+We know North doesn't have 4 \Hs, so we show our above-minimum hand by bidding 2NT.
+North has extra values and raises to 3NT.
+North is happy to play Notrump. He assumes we must have something useful in \Ds and bids 3NT.
 3NT seems to be a good contract. There are 8 top tricks and possibilities for a ninth winner in either \Ss, \Ds, or, (the best chance), \Cs.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -302,11 +333,13 @@ North is happy to play Notrump. He assumes South must have something useful in \
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1H Pass 1NT Pass 2H Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\H. South responds 1NT, just as in standard bidding. The difference is that in this case the 1NT response is forcing on North.
-North has an easy second bid, he rebids his 6-card suit. South has nothing to say over 2\H except pass.
+1H Pass 1NT Pass 2H Pass Pass Pass
+{[show S]
+North opens 1\H. What should we bid? [bid 1NT]
+We respond 1NT, just as in standard bidding. The difference is that in this case the 1NT response is forcing on North.
+North rebids \hs, promising at least a 6-card suit. What do you bid now? [bid pass]
+[show NS]
+You have nothing to say over 2\H except pass.
 Notice that this is the same bidding and same final contract that would have been reached with standard bidding. Using 2/1 is often like that.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -319,13 +352,14 @@ Notice that this is the same bidding and same final contract that would have bee
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-1S Pass 2D Pass 3D Pass 4S Pass Pass Pass Pass Pass
-{[show NS]
-
-South opens 1\S. North responds 2\D, a 2/1 force to game. 
-South cannot rebid her \Ss, but has decent support for partner's \Ds. So she bids 3\D.
+1S Pass 2D Pass 3D Pass 4S Pass Pass Pass
+{[show S]
+How do you open the bidding? [bid 1s]
+You open 1\S. North responds 2\D, a natural 2/1 force to game.  What do you rebid? [bid 3d]
+[show NS]
+You cannot rebid your \ss, but you have have decent support for partner's \ds, so raise to 3\d.  You are in a game forcing auction so it won't end there.
 North always intended to play a \S contract. He now bids 4\S, using Fast Arrival to indicate he has no slam aspirations.
-4\S is cold, and if the defenders don't take their \H tricks immediately South will make an overtrick.}
+4\S is cold, and if the defenders don't take their \H tricks immediately you will make an overtrick.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "19"]
@@ -337,11 +371,12 @@ North always intended to play a \S contract. He now bids 4\S, using Fast Arrival
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1H Dbl 2C Pass Pass Pass
-{[show NS]
-
-North opens 1\H and East Doubles.
-After the intervening Takeout Double <b>2/1 is OFF</b>. If South had 10 or more points she would Redouble. So even with only 9 points South can bid 2\C without fear that North will think she has a strong hand.
+1H Dbl 2C =1= Pass Pass Pass
+[Note "1:6+ \cs, fewer than 10 points"]
+{[show S]
+North opens 1\H and East Doubles.  What do you bid now? [bid 2c]
+[show NS]
+After the intervening Takeout Double <b>2/1 is OFF</b>. If you had 10 or more points you would Redouble. So even with only 9 points you can bid 2\C without fear that North will think you have a strong hand.
 North also knows everything mentioned above so he passes.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -354,14 +389,16 @@ North also knows everything mentioned above so he passes.}
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-1S Pass 2D Pass 2S Pass 3S Pass 4C Pass 4S all Pass Pass Pass
-{[show NS]
-
-South opens 1\S. North responds 2\D, a 2/1 force to game. 
-South has a big hand, perhaps in the slam range, but first priority is to set a trump suit. So she contents herself with a rebid of 2\S.  North agrees on trumps by bidding 3\S (not Fast Arrival).
-South now makes her slam try by using a Control-showing cue-bid. She bids 4\C, showing first round control of the suit (Ace or Void).
-North's next bid would be a control-showing bid of her own - IF SHE HAD ONE. Since she cannot win the first round of either red suit she just returns to 4\S. South realizes that they are off two red Aces and passes.
-Notice that South did not fall into the Blackwood trap. If she HAD asked for Aces, North would have shown one Ace and South wouldn't know what to do next. She might have figured the odds favored that one Ace being a red one and tried the slam. Moral: Don't use Blackwood when you have a void.}
+1S Pass 2D Pass 2S Pass 3S Pass 4C Pass 4S Pass Pass Pass
+{[show S]
+You have a great hand - how will you start the bidding? [bid 1s]
+You open 1\S. North responds 2\D, a 2/1 force to game.  What do you bid now? [bid 2s]
+You have a big hand, perhaps in the slam range, but first priority is to set a trump suit. So you contend yourself with a rebid of 2\S.  North agrees on trumps by bidding 3\S (not Fast Arrival).  What do you do now? [bid 4\c]
+Now you make your slam try by using a Control-showing cue-bid. She bids 4\C, showing first or second round control of the suit (Ace or king, or singleton or void).
+North bids 4\s.  What do you do now? [bid pass]
+[show NS]
+North's next bid would be a control-showing bid of her own - IF SHE HAD ONE. Since she cannot win the first or second round of either red suit she just returns to 4\S. South realizes that they are off two red Aces and passes.
+Notice that South did not fall into the Blackwood trap. If you HAD asked for Aces, North would have shown one Ace and South wouldn't know what to do next. She might have figured the odds favored that one Ace being a red one and tried the slam. Moral: Don't use Blackwood when you have a void.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "21"]
@@ -373,12 +410,14 @@ Notice that South did not fall into the Blackwood trap. If she HAD asked for Ace
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 2D Pass 2H Pass 2NT Pass 3NT Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\S. South responds 2\D, a 2/1 force to game. 
-North's priority is to now show the 4-card \H suit. Remember that South might also have 4 \Hs.
-South doesn't have 4 \Hs, nor does she have 3 \Ss. She does, however, have stoppers in \Cs so she bids 2NT. North happily says 3NT.}
+1S Pass 2D Pass 2H Pass 2NT Pass 3NT Pass Pass Pass
+{[show S]
+North opens 1\S. What do you bid? [bid 2d]
+You respond 2\D, a 2/1 force to game.  Partner rebids 2\h, showing a 4-card side suit.
+What do you bid now? [bid 2nt]
+[show NS]
+You don't have 4 \Hs, nor do you have have 3 \Ss. You do, however, have stoppers in \Cs so you bid 2NT. 
+North happily says 3NT.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "22"]
@@ -390,12 +429,12 @@ South doesn't have 4 \Hs, nor does she have 3 \Ss. She does, however, have stopp
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 2D Pass 2H Pass 3C Pass 3NT Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\S. South responds 2\D, a 2/1 force to game. 
-North's priority is to now show the 4-card \H suit. Remember that South might also have 4 \Hs.
-South doesn't have 4 \Hs, nor does she have 3 \Ss. Furthermore,  she does not have stoppers in \Cs so she cannot bid NT. Since she has to keep bidding, but has no reasonable bid she can make, she bids the fourth suit, 3\C. Compare this Deal with Deal 21.
+1S Pass 2D Pass 2H Pass 3C Pass 3NT Pass Pass Pass
+{[show S]
+North opens 1\S. How do you respond? [bid 2d]
+You bid 2\d, a 2/1 force to game.  North rebids 2\h, showing a 4-card heart suit.  What do you bid now? [bid 3c]
+[show NS]
+You don't have 4 \Hs, nor do you have 3 \Ss. Furthermore,  you don't have stoppers in \Cs so you cannot bid NT. Since you have to keep bidding, but have no reasonable bid you can make, you bid the fourth suit, 3\C. Compare this Deal with Deal 21.
 North understands that South's \C bid is Fourth-Suit-Forcing, and does not actually show \Cs. However since North does have a \C stopper he bids 3NT. In this case this turns out to be the best game contract.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -408,13 +447,14 @@ North understands that South's \C bid is Fourth-Suit-Forcing, and does not actua
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-Pass Pass 1S Pass 2D Pass 2H Pass 2S Pass Pass Pass Pass Pass
-{[show NS]
-
-North passes and South opens 1\S. 
-North now bids 2\D. Since North originally passed this is <b>NOT</b> 2/1 Game Force. Instead, it is forcing for one round and shows 11 or more points. 
-South next shows her 4-card \H suit. North gives a preference to 2\S.
-Knowing that North does not have opening strength South passes 2\S.}
+Pass Pass 1S Pass 2D Pass 2H Pass 2S Pass Pass Pass
+{[show S]
+North passes - what should you open? [bid 1s]
+North now bids 2\D. What do you bid now? [bid 2h]
+Since North originally passed this is <b>NOT</b> 2/1 Game Force. Instead, it is non-forcing and shows 11 or more points. 
+You should show your 4-card \H suit. North gives a preference to 2\S.  What do you do now? [bid pass]
+[show NS]
+Knowing that North does not have opening strength you pass 2\S.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "24"]
@@ -427,10 +467,10 @@ Knowing that North does not have opening strength South passes 2\S.}
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
 1S Pass 1NT Pass 2C Pass 2S Pass Pass Pass
-{[show NS]
-
-North opens 1\S. With 9 points and a doubleton \S South must respond 1NT. 
-In standard bidding North would happily pass a 1NT response. But in 2/1 the 1NT response is forcing for 1 round. North is forced to bid a 3-card minor so he says 2\C. 
+{[show S]
+North opens 1\S. What do you respond? [bid 1nt]
+With 9 points and a doubleton \S you must respond 1NT.   Partner rebids 2\c.  What do you bid now? [bid 2s]
+[show NS]
 South prefers \C over \S but must allow for the possibility that North has bid a 3-card suit. So South gives a preference to 2\S. This is called a "false preference", but it assures the team of being in at least a 7-card fit. 
 North happily passes and the pair lands in a reasonable contract, probably better than 1NT.}
 
@@ -444,14 +484,24 @@ North happily passes and the pair lands in a reasonable contract, probably bette
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-1S Pass 2H Pass 3H Pass 4C Pass 4D Pass 4NT Pass 5H Pass 5NT Pass 6D Pass 6H all Pass Pass Pass
-{[show NS]
-
-South opens 1\S. North has a mountain, but there is seldom a need to jump-shift when using 2/1. He bids 2\H. 
-South's priority on her first rebid is to agree trumps if possible. Knowing North has at least a 5-card suit, she bids 3\H.
-North naturally feels slammish, and shows it with a control-showing cue-bid, 4\C. Do not even <b>THINK</b> this might be Gerber.
-South doesn't have any extra strength, but that doesn't matter. With South making a slam try she should cooperate by showing her \D control. It is important to realize that South isn't showing any extra strength, she is merely going along with North. 
-North asks for Aces and gets two. He decides to find out about Kings, if South happens to have three he will bid 7NT. When South shows just one North settles for 6\H. This should be a good slam, needing only a decent \S break.}
+1S Pass 2H Pass 3H Pass 4C =1= Pass 4D =2= Pass 4NT =3= Pass 5H =4= Pass 5NT =5= Pass 6H =6= Pass Pass Pass
+[Note "1:control"]
+[Note "2:control"]
+[Note "3:keycard ask for \h s"]
+[Note "4:2 no Q"]
+[Note "5:Specific kings ask"]
+[Note "6:none below \H s"]
+{[show S]
+How do you start the bidding? [bid 1s]
+You opens 1\S. Partner bids 2\H.   What do you bid now? [bid 3h]
+Your priority on your first rebid is to agree trumps if possible. Knowing North has at least a 5-card suit, you raise to 3\H.  You are in a Game Forcing auction, so you know partner will continue bidding.
+North now bids 4\c.  What do you bid? [4D]
+North's 4\c bid shows first or second round control in clubs, and shows slam interest.  You cooperate by bidding your next control up suit order - 4\d.  This doesn't promise extra values, it's just following partner's path.
+North asks for keycards using 1430.  What is your reply? [bid 5H]
+You show two keycards without the trump queen.  Partner is excited about this and bids 5NT - what's your bid now? [bid 6H]
+Partner's 5NT is asking for specific kings.  Since we don't have any kings lower than the trump suit, we have to bid 6\h.
+ and gets two. He decides to find out about Kings, if South happens to have three he will bid 7NT. When South shows just one North settles for 6\H. This should be a good slam, needing only a decent \S break.
+[show NS]}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "26"]
@@ -463,12 +513,14 @@ North asks for Aces and gets two. He decides to find out about Kings, if South h
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 1NT Pass 2S Pass 3S Pass 4S Pass Pass Pass Pass Pass
-{[show NS]
-
-North opens 1\S. With 11 points South cannot respond 2\C. So she bids 1NT, which is forcing for 1 round. 
-North's first priority is to show a 4-card \H suit. Since he doesn't have one his next priority is to rebid the 6-card \Ss.
-South is strong enough to invite, and with the known 8-card fit she says 3\S.
+1S Pass 1NT Pass 2S Pass 3S Pass 4S Pass Pass Pass
+{[show S]
+North opens 1\S. What do you respond? [bid 1NT]
+With 11 points you cannot respond 2\C. So you bid 1NT, which is forcing for 1 round. 
+North rebids 2\s, promising at least 6 \ss and denying a 4-card side suit.
+What do you bid now? [bid 3s]
+[show NS]
+You are strong enough to invite to game, and with the known 8-card fit you say 3\S.
 North has a little extra so he bids 4\S, which is a pretty good contract.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -482,11 +534,14 @@ North has a little extra so he bids 4\S, which is a pretty good contract.}
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
 1S Pass 2C Pass 2H Pass 2NT Pass 3S Pass 4S Pass Pass Pass
-{[show NS]
-
-North opens 1\S. Perhaps a little marginal, but you don't pass 13 point hands. South has a good 2/1 response of 2\C. 
-North's first priority is to show a 4-card \H suit, so he does. South wouldn't dare support \Hs with only three cards, but has a good 2NT bid.
-North is not happy in notrump so rebids the 6-card major, 3\S. South's two \Ss are enough support so she bids the \S game.}
+{[show S]
+North opens 1\S. What do you respond? [bid 2c]
+Perhaps a little marginal, but you don't pass 13 point hands. You have a good 2/1 response of 2\C. 
+North rebids 4\h, showing a 4-card second suit.  What do you bid now? [bid 2nt]
+You wouldn't dare support \Hs with only three cards, but you have a good 2NT bid.
+North is not happy in notrump so rebids the 6-card major, 3\S. What do you do now? [bid 4s]
+[show NS]
+Your two \Ss are enough support so you bid the \S game.}
 
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Board "28"]
@@ -498,9 +553,15 @@ North is not happy in notrump so rebids the 6-card major, 3\S. South's two \Ss a
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-1S Pass 1NT Pass 2C Pass 3S Pass Pass Pass Pass Pass
-{[show NS]
+1S Pass 1NT Pass 2C Pass 3S Pass Pass Pass
+{[show S]
+How do you start the bidding on this hand? [bid 1s]
 
-South opens 1\S. North cannot say 2\H because he only has 11 points, and also because he only has 4 \Hs. So he bids 1NT (forcing for 1 round).
-South rebids 2\C, a 3-card suit. North now jumps to 3\S, showing limit-raise strength. This sequence is the way to show a limit-raise with only 3 trumps; an immediate jump-raise to the 3-level shows a limit-raise with 4 trumps.
-In any case South has a bare minimum and passes the invitation.}
+You open 1\s.  Partner responds 1NT, forcing for one round.  What do you rebid? [bid 2c]
+
+You rebid 2\C, a 3-card suit. North now jumps to 3\S, showing limit-raise strength. This sequence is the way to show a limit-raise with only 3 trumps; an immediate jump-raise to the 3-level shows a limit-raise with 4 trumps.
+
+What do you bid now? [bid pass]
+
+In any case you have a bare minimum and pass the invitation.
+[show NS]}

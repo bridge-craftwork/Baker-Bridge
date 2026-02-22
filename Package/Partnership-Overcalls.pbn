@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-Overcalls
 [Event "Baker Bridge - Overcalls and TakeOut Doubles"]
@@ -11,7 +11,7 @@
 [Contract "1S"]
 [Result ""]
 [Auction "W"]
-1H 1S pass pass pass pass pass
+1H 1S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -205,7 +205,7 @@ SOUTH agrees with \Ss and bids game, 4\S.}
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-1H pass pass X pass 2C pass 2S pass 4S pass pass pass pass pass
+1H pass pass X pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -241,7 +241,7 @@ NORTH raises to 4\S.}
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1S 1NT pass 2C pass 2D pass 3NT pass pass pass pass pass
+1S 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -269,7 +269,7 @@ since SOUTH promised he had the suit controlled.}
 [Contract "1NT"]
 [Result ""]
 [Auction "W"]
-1D X pass 1S pass 1NT pass pass pass pass pass
+1D X pass 1S pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -331,7 +331,7 @@ go ahead and bid 3NT instead.}
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-1H 1S pass 3S pass 4S pass pass pass pass pass
+1H 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -361,7 +361,7 @@ NORTH has better than a minimum overcall so she accepts the invitation and bids 
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-1D X pass 4H pass pass pass pass pass
+1D X pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -391,7 +391,7 @@ SOUTH passes happily.}
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1D X pass 1NT pass 3NT pass pass pass pass pass
+1D X pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -487,7 +487,7 @@ makes it easy for SOUTH - he bids 4\H.}
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1H X pass 2C pass 2S pass 4S pass pass pass pass pass
+1H X pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -518,7 +518,7 @@ NORTH has fine trump support and 8 points so she bids a confident 4\S.}
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1D pass pass X pass 2D pass 2H pass 2S pass 3C pass 3NT pass pass pass pass pass
+1D pass pass X pass 2D pass 2H pass 2S pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -550,7 +550,7 @@ SOUTH shows his \C suit, NORTH likes it fine, but decides 3NT will be easier tha
 [Contract "1S"]
 [Result ""]
 [Auction "E"]
-1S pass pass pass pass
+1S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -577,7 +577,7 @@ And so does everybody else pass.}
 [Contract "3S"]
 [Result ""]
 [Auction "W"]
-1C 3S pass pass pass pass pass
+1C 3S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -664,7 +664,7 @@ And SOUTH of course must also pass.}
 [Contract "1S"]
 [Result ""]
 [Auction "E"]
-1S pass pass X pass pass pass pass pass
+1S pass pass X pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -722,7 +722,7 @@ not have more than 16 points. So he just bids what he thinks NORTH can make, 4\S
 [Contract "1NT"]
 [Result ""]
 [Auction "E"]
-1D 1H pass 1NT pass pass pass pass pass
+1D 1H pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]

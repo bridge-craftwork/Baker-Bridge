@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Negative
 [Event "Baker Bridge - Negative Doubles"]
@@ -11,7 +11,7 @@
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H 1S 2S pass 4H pass pass pass pass pass
+1H 1S 2S pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -39,7 +39,7 @@ Partner now bids 4\H which you pass.}
 [Contract "2H"]
 [Result ""]
 [Auction "N"]
-1D 1S X pass 2H pass pass pass pass pass
+1D 1S X pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -95,7 +95,7 @@ Partner is showing you a \H suit with at least 6 points. With 4 \Hs in a minimum
 [Contract "2S"]
 [Result ""]
 [Auction "N"]
-1D 1H X pass 2S pass pass pass pass pass
+1D 1H X pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -125,7 +125,7 @@ Partner's jump is inviting but it takes more than just a simple jump to get you 
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1D 1H X pass 2S pass 4S pass pass pass pass pass
+1D 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -181,7 +181,7 @@ Partner has 4 \Hs and an opening hand. You have 4 \Hs and an opening hand. That 
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C 1D X pass 2NT pass 3NT pass pass pass pass pass
+1C 1D X pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -237,7 +237,7 @@ Partner's jump shows a Medium hand, 16 - 18 points. Add your 11 and you have eno
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D 1S X pass 2S pass 3NT pass pass pass pass pass
+1D 1S X pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -263,7 +263,7 @@ You have a very good hand but only 2 of partner's \H suit. You are actually too 
 [Contract "2H"]
 [Result ""]
 [Auction "N"]
-1H 1S X pass 2H pass pass pass pass pass
+1H 1S X pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -293,7 +293,7 @@ Well let's see. Partner shows no interest in your two Minors or notrump. And he 
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H 1S X pass 3H pass 4H pass pass pass pass pass
+1H 1S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -319,7 +319,7 @@ Partner is showing both Minors but you are not interested in either one. Bidding
 [Contract "3D"]
 [Result ""]
 [Auction "N"]
-1S 2H X pass 3D pass pass pass pass pass
+1S 2H X pass 3D pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -381,7 +381,7 @@ Once partner confirms he has the \Hs you can revalue your hand to 17 points. Thi
 [Contract "1S"]
 [Result ""]
 [Auction "N"]
-1C 1D X pass 1S pass pass pass pass pass
+1C 1D X pass 1S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -437,7 +437,7 @@ Sometimes using Negative Doubles seems like you can read minds. You know for sur
 [Contract "1NT"]
 [Result ""]
 [Auction "N"]
-1C 1D 1S pass 1NT pass pass pass pass pass
+1C 1D 1S pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -467,7 +467,7 @@ Partner has a minimum hand and fewer than 4 \Ss. A good time for you to pass.}
 [Contract "2DX"]
 [Result ""]
 [Auction "S"]
-1H 2D X pass pass pass pass pass
+1H 2D X pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -523,7 +523,7 @@ Partner doesn't have 4 of either Major. But he does have 13 points and \Ds stopp
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1D 1H 1S pass 2S pass 4S pass pass pass pass pass
+1D 1H 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -551,7 +551,7 @@ But that is not the case here. If partner had only 4 \Ss he would not have bid t
 [Contract "2C"]
 [Result ""]
 [Auction "N"]
-1D 2C pass pass X pass pass pass pass pass
+1D 2C pass pass X pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]

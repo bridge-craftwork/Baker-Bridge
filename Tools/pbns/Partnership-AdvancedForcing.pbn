@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-AdvancedForcing
 [Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
@@ -37,7 +37,7 @@ SOUTH's 2\D bid is New Minor Forcing.
 [Contract "3H"]
 [Result ""]
 [Auction "S"]
-1H pass 2H pass 3C pass 3H pass pass pass pass pass
+1H pass 2H pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -64,7 +64,7 @@ not enough to think of game, so NORTH signs off in 3\H.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1S pass 2C pass 2H pass 3D pass 3NT pass pass pass pass pass
+1S pass 2C pass 2H pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -149,7 +149,7 @@ so with 8 points he bids the game.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1H pass 1NT pass 3NT pass pass pass pass pass
+1D pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -206,7 +206,7 @@ see if NORTH happens to have three \Ss. She does, so 4\S becomes the better game
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 1NT pass 2D pass 2H pass 4H pass pass pass pass pass
+1C pass 1S pass 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -236,7 +236,7 @@ Change SOUTH's \H9 to the \S9 and the contract would be 4\S.}
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-pass pass 1S pass 2S pass 3H pass 4S pass pass pass pass pass
+pass pass 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -263,7 +263,7 @@ raise to game.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1H pass 1S pass 2D pass 3NT pass pass pass pass pass
+1H pass 1S pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -314,7 +314,7 @@ try for game.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass pass pass
+1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -426,7 +426,7 @@ first priority.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1C pass 1D pass 1H pass 1S pass 2S pass 4S pass pass pass pass pass
+1C pass 1D pass 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -479,7 +479,7 @@ so he bids the game.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1D pass 1S pass 3NT pass pass pass pass pass
+1C pass 1D pass 1S pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -509,7 +509,7 @@ NORTH should ignore the \H suit and bid 3NT.}
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1D pass 1S pass 2C pass 3H pass 4S pass pass pass pass pass
+1D pass 1S pass 2C pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -594,7 +594,7 @@ points to be in game so he bids it.}
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
-1S pass 2S pass 3H pass 3S pass pass pass pass pass
+1S pass 2S pass 3H pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -620,7 +620,7 @@ NORTH cannot provide any help at all, so quickly signs off in 3\S which SOUTH pa
 [Contract "2S"]
 [Result ""]
 [Auction "N"]
-1D pass 1S pass 1NT pass 2C pass 2S pass pass pass pass pass
+1D pass 1S pass 1NT pass 2C pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -645,7 +645,7 @@ NORTH does show three \Ss, but also shows a minimum hand so South passes.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1H pass 2C pass 2S pass 2NT pass 3NT pass pass pass pass pass
+1D pass 1H pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-Jacoby2NT
 [Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
@@ -11,7 +11,7 @@
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 4H pass pass pass pass pass
+1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -36,7 +36,7 @@ NORTH has a minimum opening hand with nothing extra to show, so signs off at 4\H
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3NT pass 4S pass pass pass pass pass
+1S pass 2NT pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -154,7 +154,7 @@ Blackwood to check for Aces, then bids 6\S.}
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass pass pass
+1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -181,7 +181,7 @@ and stop at 5\H if he has just one. If South has no Aces NORTH will get a new pa
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1S pass 2NT pass 3NT pass 4H pass 4S pass pass pass pass pass
+1S pass 2NT pass 3NT pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -239,7 +239,7 @@ to initiate the investigation herself.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 4C pass 4H pass pass pass pass pass
+1H pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -266,7 +266,7 @@ it does nothing to help the value of her hand. So she bids the \H game.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3S pass 4S pass pass pass pass pass
+1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -297,7 +297,7 @@ So SOUTH settles for game.}
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 3H pass 3S pass 4C pass 4D pass 6H pass pass pass pass pass
+1H pass 2NT pass 3H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -322,7 +322,7 @@ The next three bids are all Control-showing cue bids.}
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT pass 5H pass 6S pass pass pass pass pass
+1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -349,7 +349,7 @@ Blackwood just to make certain SOUTH holds the trump Ace.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 3S pass 4H pass pass pass pass pass
+1H pass 3S pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -376,7 +376,7 @@ she had just one \S loser anyway. She signs off in 4\H.}
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H pass 3S pass 4C pass 4D pass 4NT pass 5H pass 6H pass pass pass pass pass
+1H pass 3S pass 4C pass 4D pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -433,7 +433,7 @@ NOTE: if you used Jacoby 2NT and reached the 4\H game, give yourself credit anyw
 [Contract "5H"]
 [Result ""]
 [Auction "S"]
-1H pass 2NT pass 3S pass 4C pass 4NT pass 5H pass pass pass pass pass
+1H pass 2NT pass 3S pass 4C pass 4NT pass 5H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -549,7 +549,7 @@ A final check with Blackwood shows two Aces missing. Too bad.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3S pass 4C pass 4H pass 4S pass pass pass pass pass
+1S pass 2NT pass 3S pass 4C pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -579,7 +579,7 @@ So they stop in game.}
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1H pass 2S pass 4NT pass 5D pass 6S pass pass pass pass pass
+1H pass 2S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]

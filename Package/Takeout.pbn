@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Takeout
 [Event "Baker Bridge - Takeout Doubles"]
@@ -11,7 +11,7 @@
 [Contract "1H"]
 [Result ""]
 [Auction "E"]
-1D X pass 1H pass pass pass pass pass
+1D X pass 1H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -41,7 +41,7 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1D X pass 1S pass 2S pass 4S pass pass pass pass pass
+1D X pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -101,7 +101,7 @@ You need to make a strong invitation since partner needs very little for your si
 [Contract "2S"]
 [Result ""]
 [Auction "E"]
-1H X pass 2S pass pass pass pass pass
+1H X pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -161,7 +161,7 @@ That extra 3 points makes all the difference. With that singleton \H your hand i
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1D X pass 2D 3D 3S pass 4S pass pass pass pass pass
+1D X pass 2D 3D 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -193,7 +193,7 @@ That was what partner needed to hear, he bids 4\S.}
 [Contract "1NT"]
 [Result ""]
 [Auction "E"]
-1S X pass 1NT pass pass pass pass pass
+1S X pass 1NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -253,7 +253,7 @@ With no Major fit you are happy to play in notrump, knowing partner can stop the
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-1S X pass 2C pass 2H pass 4H pass pass pass pass pass
+1S X pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -283,7 +283,7 @@ You bid 2\H, describing your hand as a 1-suited hand, too strong to merely overc
 [Contract "2D"]
 [Result ""]
 [Auction "W"]
-1C pass 1S X pass 2D pass pass pass pass pass
+1C pass 1S X pass 2D pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -345,7 +345,7 @@ Some questions don't have a correct answer. If partner has \H Q x x x along with
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1D X pass 1S pass 1NT pass 3NT pass pass pass pass pass
+1D X pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -375,7 +375,7 @@ You could not say 1NT on your first bid because that would show 15-18 points. Do
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1C X pass 1D pass 2NT pass 3NT pass pass pass pass pass
+1C X pass 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -405,7 +405,7 @@ The pattern continues. Overcall 1NT with 15-18. Double, then bid notrump with 19
 [Contract "2S"]
 [Result ""]
 [Auction "W"]
-1D X pass 1S pass 2S pass pass pass pass pass
+1D X pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -465,7 +465,7 @@ Your first response showed 0-8 points. Knowing that, partner still invited you t
 [Contract "4H"]
 [Result ""]
 [Auction "W"]
-1S X pass 3H pass 4H pass pass pass pass pass
+1S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -491,7 +491,7 @@ Your hand falls in the 9-11 point mid-range response where you make a jump bid. 
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-1C X pass 2C pass 2H pass 2S pass 4S pass pass pass pass pass
+1C X pass 2C pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -549,7 +549,7 @@ Notice that if you had made a cuebid, partner would probably end up playing 4\H 
 [Contract "2S"]
 [Result ""]
 [Auction "W"]
-1D X pass 1H pass 2S pass pass pass pass pass
+1D X pass 1H pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -579,7 +579,7 @@ You say pass. Despite partner showing you a big hand you just can't help him. }
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-1H X pass 2C 2H 2S pass 3S pass 4S pass pass pass pass pass
+1H X pass 2C 2H 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -673,7 +673,7 @@ You bid 2\H and everybody passes.}
 [Contract "2D"]
 [Result ""]
 [Auction "W"]
-1D X XX 1H pass pass 2D pass pass pass pass
+1D X XX 1H pass pass 2D pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -737,7 +737,7 @@ You cannot stop short of game. Partner has apparently rejected your \S suggestio
 [Contract "1CX"]
 [Result ""]
 [Auction "W"]
-1C X pass pass pass pass pass
+1C X pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]

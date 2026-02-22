@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Overcalls
 [Event "Baker Bridge - Overcalls"]
@@ -11,7 +11,7 @@
 [Contract "1D"]
 [Result ""]
 [Auction "E"]
-1D pass pass pass pass
+1D pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -63,7 +63,7 @@ With four trumps and 12 points you have a text-book raise to 3\H. Partner had a 
 [Contract "2H"]
 [Result ""]
 [Auction "E"]
-1C 1H pass 2H pass pass pass pass pass
+1C 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -93,7 +93,7 @@ Partner is showing 6-10 points and three trumps. Your hand revalues to 14 at mos
 [Contract "1S"]
 [Result ""]
 [Auction "W"]
-1D 1S pass pass pass pass pass
+1D 1S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -119,7 +119,7 @@ You really don't like partner's \Ss, and you do have 8 points. But 8 points is n
 [Contract "3H"]
 [Result ""]
 [Auction "E"]
-1S 2H pass 3H pass pass pass pass pass
+1S 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -177,7 +177,7 @@ You might look at the Law of Total Tricks lesson for more on this subject.}
 [Contract "3S"]
 [Result ""]
 [Auction "E"]
-1D 1S pass 3S pass pass pass pass pass
+1D 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -267,7 +267,7 @@ The jump raise promises 11-14 points. Your 17 plus partner's 11 or so takes you 
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1S 2C pass 2NT pass 3NT pass pass pass pass pass
+1S 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -383,7 +383,7 @@ If you had been the dealer you would have opened 2\S. The situation is no differ
 [Contract "2S"]
 [Result ""]
 [Auction "W"]
-1D 1H pass 1S pass 2S pass pass pass pass pass
+1D 1H pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -503,7 +503,7 @@ Partner's cue-bid obviously forces you to bid. Partner's hand might be very dist
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1C 1S pass 2NT pass 3NT pass pass pass pass pass
+1C 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Michaels
 [Event "Baker Bridge - Michaels / Unusual NT"]
@@ -11,7 +11,7 @@
 [Contract "2S"]
 [Result ""]
 [Auction "E"]
-1D 2D pass 2S pass pass pass pass pass
+1D 2D pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -67,7 +67,7 @@ You have a fair hand with a guaranteed 8-card fit in either Major. You are not, 
 [Contract "3C"]
 [Result ""]
 [Auction "E"]
-1H 2NT pass 3C pass pass pass pass pass
+1H 2NT pass 3C pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -123,7 +123,7 @@ Your best suit is \Hs. But partner didn't ask you to bid \Hs, he asked you to pi
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-1S 2S pass 4H pass pass pass pass pass
+1S 2S pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -179,7 +179,7 @@ You have no idea what you can make with this hand. Slam in one of the minors may
 [Contract "4D"]
 [Result ""]
 [Auction "E"]
-1C 2NT pass 4D pass pass pass pass pass
+1C 2NT pass 4D pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -211,7 +211,7 @@ As you can see, <b>IF</b> they open the lead with a \C, and <b>IF</b> the \H fin
 [Contract "4S"]
 [Result ""]
 [Auction "W"]
-1D 2D pass 3S pass 4S pass pass pass pass pass
+1D 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -331,7 +331,7 @@ Partner's cue-bid shows a limit-raise or better in \Ss. So you bid 4\S without t
 [Contract "3C"]
 [Result ""]
 [Auction "W"]
-1H 2H pass 2NT pass 3C pass pass pass pass pass
+1H 2H pass 2NT pass 3C pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -475,7 +475,7 @@ Partner has 5 of each Major suit so you know of a good 9-card \H fit. You have a
 [Contract "5C"]
 [Result ""]
 [Auction "E"]
-1S 2NT pass 3S pass 4C pass 5C pass pass pass pass pass
+1S 2NT pass 3S pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -505,7 +505,7 @@ Partner apparently has a big hand. His cue-bid is forcing, and probably means he
 [Contract "3C"]
 [Result ""]
 [Auction "W"]
-1C 2C 3C pass pass pass pass
+1C 2C 3C pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
@@ -531,7 +531,7 @@ Many times at Bridge you want to fight for the contract. This isn't one of them.
 [Contract "3C"]
 [Result ""]
 [Auction "E"]
-1D 2D pass 3C pass pass pass pass pass
+1D 2D pass 3C pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]

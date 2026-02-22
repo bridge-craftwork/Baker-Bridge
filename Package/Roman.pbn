@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Roman
 [Event "Baker Bridge - Roman Key Card Blackwood"]
@@ -11,7 +11,7 @@
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1S pass 2H pass 4NT pass 5S pass 6H pass pass pass pass pass
+1S pass 2H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
@@ -71,7 +71,7 @@ Yes, partner should probably have opened 2NT. Sometimes partners don't make the 
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 3S pass 4NT pass 5D pass 6S pass pass pass pass pass
+1D pass 1S pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
@@ -191,7 +191,7 @@ It was a lot of work but you have figured out that partner holds 11-12 points in
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1S pass 4D pass 4NT pass 5NT pass 6S pass pass pass pass pass
+1S pass 4D pass 4NT pass 5NT pass 6S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
@@ -219,7 +219,7 @@ No. You have two Key-Cards <b>AND</b> a void. So you bid 5NT. Partner bids 6\S.}
 [Contract "5H"]
 [Result ""]
 [Auction "N"]
-2NT pass 3C pass 3H pass 4NT pass 5H pass pass pass pass pass
+2NT pass 3C pass 3H pass 4NT pass 5H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
@@ -249,7 +249,7 @@ You say "Darn!" You are missing just one Key-Card, but you are also missing the 
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 4NT pass 5C pass 6H pass pass pass pass pass
+2C pass 2H pass 4NT pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
@@ -309,7 +309,7 @@ Partner has two Aces and the \SQ. That should be all he needs to make slam so yo
 [Contract "7H"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 4NT pass 6C pass 7H pass pass pass pass pass
+2C pass 2H pass 4NT pass 6C pass 7H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
@@ -339,7 +339,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, but you also ha
 [Contract "5S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2S pass 4NT pass 5C pass 5D pass 5S pass pass pass pass pass
+1NT pass 2C pass 2S pass 4NT pass 5C pass 5D pass 5S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
@@ -373,7 +373,7 @@ Partner denies having the \SQ. Knowing that the best you could hope for would be
 [Contract "6H"]
 [Result ""]
 [Auction "E"]
-pass 1D pass 1S pass 2H pass 4NT pass 5C pass 5D pass 5H pass 6H pass pass pass pass pass
+pass 1D pass 1S pass 2H pass 4NT pass 5C pass 5D pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]

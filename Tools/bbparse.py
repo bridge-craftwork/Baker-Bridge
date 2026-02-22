@@ -387,8 +387,9 @@ def format_played_directive(played_north, played_south, played_east=None, played
     return "[PLAY " + ",".join(plays) + "]"
 
 def pad_auction_passes(auction_str):
-    """Ensure auction ends with 3 passes after the last bid/X/XX."""
-    bids = auction_str.split()
+    """Ensure auction ends with exactly 3 passes after the last bid/X/XX."""
+    # Remove pipe round separators before processing
+    bids = [b for b in auction_str.split() if b != "|"]
     if not bids:
         return auction_str
     # Count trailing passes
@@ -398,9 +399,11 @@ def pad_auction_passes(auction_str):
             trailing += 1
         else:
             break
-    # Need 3 trailing passes after a bid
+    # Need exactly 3 trailing passes after a bid
     if trailing < 3 and len(bids) > trailing:
         bids.extend(["pass"] * (3 - trailing))
+    elif trailing > 3:
+        bids = bids[:len(bids) - (trailing - 3)]
     return " ".join(bids)
 
 ########## C H O O S E - C A R D   F O R   D E F E N S E   L E S S O N S ###########

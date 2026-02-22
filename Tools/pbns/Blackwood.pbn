@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Blackwood
 [Event "Baker Bridge - Blackwood"]
@@ -11,7 +11,7 @@
 [Contract "5H"]
 [Result ""]
 [Auction "N"]
-1H pass 3H pass 4NT pass 5D pass 5H pass pass pass pass pass
+1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -37,7 +37,7 @@ The Blackwood response for 1 Ace is 5\D. Partner evidently was hoping for 2, and
 [Contract "6NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 4C pass 4S pass 6NT pass pass pass pass pass
+pass 1NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -95,7 +95,7 @@ Wouldn't it have been funny if partner had thought your 4\C bid was Stayman? And
 [Contract "6NT"]
 [Result ""]
 [Auction "E"]
-pass 2NT pass 4C pass 4S pass 6NT pass pass pass pass pass
+pass 2NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -291,7 +291,7 @@ Partner has shown one Ace and a \D void. As to what you bid, that's easy. You ha
 [Contract "6NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 4C pass 4S pass 6NT pass pass pass pass pass
+2C pass 2NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -551,7 +551,7 @@ Tempting though it may be it is too dangerous to try 6NT. So you bid 6\D which t
 [Contract "7S"]
 [Result ""]
 [Auction "S"]
-3S pass 4NT pass 6C pass 7S pass pass pass pass pass
+3S pass 4NT pass 6C pass 7S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -581,7 +581,7 @@ With 1 Ace and a void in a lower-ranking suit you should bid 6 of that suit. So 
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-2NT pass 4C pass 4H pass pass pass pass pass
+2NT pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -611,7 +611,7 @@ Partner has only a single Ace in his 2NT opener. No slam for your team. You pass
 [Contract "7H"]
 [Result ""]
 [Auction "N"]
-1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass pass pass
+1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

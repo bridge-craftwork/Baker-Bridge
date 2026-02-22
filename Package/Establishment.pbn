@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Establishment
 [Event "Baker Bridge - Suit Establishment"]
@@ -11,7 +11,7 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1H pass 1NT pass 3NT pass pass pass pass pass
+1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -178,7 +178,7 @@ If you had played the \Cs from the top you would have come up one trick short.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 3NT pass pass pass pass pass
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -218,7 +218,7 @@ Ducking a \C is the only way to make the contract and you might as well do it at
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 3NT pass pass pass pass pass
+2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -384,7 +384,7 @@ Only by establishing \Ss can you make the contract.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 3NT pass pass pass pass pass
+2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -424,7 +424,7 @@ As you see, you couldn't set up a \D trick so the \C overtake was necessary to m
 [Contract "2NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2H pass 2NT pass pass pass pass pass
+1NT pass 2C pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -647,7 +647,7 @@ West's play of the \CK may have made you want to jump up with the \CA, but you m
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-pass pass 1D pass 1H pass 2NT pass 3NT pass pass pass pass pass
+pass pass 1D pass 1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -689,7 +689,7 @@ But, it is your only chance to make the contract.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4H pass pass pass pass
+1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -775,7 +775,7 @@ But if you win the first trick with the \SA, then dummy's \S Q J will provide a 
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-pass pass pass 1D pass 1H pass 2NT pass 3NT pass pass pass pass pass
+pass pass pass 1D pass 1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]

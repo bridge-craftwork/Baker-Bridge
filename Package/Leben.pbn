@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Leben
 [Event "Baker Bridge - Lebensohl"]
@@ -63,7 +63,7 @@ With 3-card support you are happy to bid 4\S.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1NT 2D 3H pass 4H pass pass pass pass pass
+1NT 2D 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -89,7 +89,7 @@ Partner has 3-card support and is happy to bid game in that suit.}
 [Contract "2H"]
 [Result ""]
 [Auction "S"]
-1NT 2C 2H pass pass pass pass pass
+1NT 2C 2H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -145,7 +145,7 @@ With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1NT 2D 3D pass 3H pass 4H pass pass pass pass pass
+1NT 2D 3D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -203,7 +203,7 @@ NOW you can bid 3\D, which partner passes.}
 [Contract "3H"]
 [Result ""]
 [Auction "S"]
-1NT 2S 2NT pass 3C pass 3H pass pass pass pass pass
+1NT 2S 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -233,7 +233,7 @@ How about . . . . pass? Partner just signed off with this sequence. He couldn't 
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1NT 2S 3S pass 4H pass pass pass pass pass
+1NT 2S 3S pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -283,7 +283,7 @@ Partner has promised at least a 5-card \D suit, and game-forcing strength. With 
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1NT 2S 2NT pass 3C pass 3S pass 3NT pass pass pass pass pass
+1NT 2S 2NT pass 3C pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -373,7 +373,7 @@ Partner does have them stopped so he passes.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT 2H 2NT pass 3C pass 3NT pass pass pass pass pass
+1NT 2H 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -433,7 +433,7 @@ You now complete the picture of your hand by bidding 3NT. (SLOW SHOWS). Partner 
 [Contract "2SX"]
 [Result ""]
 [Auction "S"]
-1NT 2S X pass pass pass pass pass
+1NT 2S X pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -459,7 +459,7 @@ Since you trust your partner, you pass.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1NT 2D 2NT pass 3C pass 3H pass 4H pass pass pass pass pass
+1NT 2D 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
@@ -489,7 +489,7 @@ Now you bid 3\H. Partner will realize you have better than a sign-off, but were 
 [Contract "5C"]
 [Result ""]
 [Auction "S"]
-1NT 2H 3H pass 4C pass 5C pass pass pass pass pass
+1NT 2H 3H pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-TwoClub
 [Event "Baker Bridge - Strong Two-Club Openings"]
@@ -11,7 +11,7 @@
 [Contract "2NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2NT pass pass pass pass pass
+2C pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -43,7 +43,7 @@ SOUTH does not have to bid the double negative over a 2NT bid, so he passes.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2NT pass 3NT pass pass pass pass pass
+2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -109,7 +109,7 @@ bids 3NT.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2H pass 4H pass pass pass pass pass
+2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -143,7 +143,7 @@ bids 4\H.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 3NT pass pass pass pass pass
+2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -214,7 +214,7 @@ SOUTH rebids his suit, 3\H, and NORTH passes.}
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 4NT pass 5D pass 6H pass pass pass pass pass
+2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -378,7 +378,7 @@ So NORTH shows her 4-card \H suit and SOUTH bids 4\H.}
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2NT pass 3NT pass 6NT pass pass pass pass pass
+2C pass 2NT pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -442,7 +442,7 @@ SOUTH is happy to bid the game in \Hs.}
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-2C pass 3D pass 3NT pass 6NT pass pass pass pass pass
+2C pass 3D pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -476,7 +476,7 @@ NORTH bids 6NT, knowing that the partnership holds at least 34 points.}
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2C pass 2S pass 3H pass 4H pass 4NT pass 5H pass 6H pass pass pass pass pass
+2C pass 2S pass 3H pass 4H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -540,7 +540,7 @@ SOUTH doesn't have enough to think about slam, so he signs off at 4\S.}
 [Contract "6NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 6NT pass pass pass pass pass
+2C pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -635,7 +635,7 @@ Now SOUTH adds his 12 points to NORTH's 22 minimum and gets 34. He bids 6\S.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2S pass 3C pass 3H pass 4H pass pass pass pass pass
+2C pass 2D pass 2S pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -662,7 +662,7 @@ and bids 4\H.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 3NT pass pass pass pass pass
+2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 2over1
 [Event "Baker Bridge - 2-Over-1 Game Force"]
@@ -37,7 +37,7 @@ Notice that you would bid this hand the same way whether or not you play 2/1.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 2D pass 2H pass 3H pass 4H pass pass pass pass pass
+1H pass 2D pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -87,7 +87,7 @@ North has heard enough. He bids 4NT, and when South admits to two Aces he bids t
 [Contract "2S"]
 [Result ""]
 [Auction "N"]
-1S 2D 2H pass 2S pass pass pass pass pass
+1S 2D 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -139,7 +139,7 @@ North bids 3\H, indicating that this is also a 5-card suit. Now South can bid th
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
-pass 1S pass 2H pass 3H pass 4H pass pass pass pass pass
+pass 1S pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -165,7 +165,7 @@ North has a minimum strength hand with no slam aspirations, so he uses Fast Arri
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1S pass 2C pass 2H pass 3H pass 4H pass pass pass pass pass
+1S pass 2C pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -191,7 +191,7 @@ You can see why it is important for Opener to show a 4-card Major. Since South c
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1H pass 2D pass 2S pass 2NT pass 3NT pass pass pass pass pass
+1H pass 2D pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -217,7 +217,7 @@ North does not have either 6 \Hs or 5 \Ss so he just bids 3NT. Notice that North
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1S pass 2C pass 2H pass 3D pass 3NT pass pass pass pass pass
+1S pass 2C pass 2H pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -351,7 +351,7 @@ This is a good slam, cold if West makes any opening lead other than a \C. With a
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1H pass 2D pass 2H pass 4H pass pass pass pass pass
+1H pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -403,7 +403,7 @@ This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding S
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass pass pass
+1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -429,7 +429,7 @@ North is happy to play Notrump. He assumes South must have something useful in \
 [Contract "2H"]
 [Result ""]
 [Auction "N"]
-1H pass 1NT pass 2H pass pass pass pass pass
+1H pass 1NT pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -453,7 +453,7 @@ Notice that this is the same bidding and same final contract that would have bee
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2D pass 3D pass 4S pass pass pass pass pass
+1S pass 2D pass 3D pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -531,7 +531,7 @@ Notice that South did not fall into the Blackwood trap. If she HAD asked for Ace
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1S pass 2D pass 2H pass 2NT pass 3NT pass pass pass pass pass
+1S pass 2D pass 2H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -555,7 +555,7 @@ South doesn't have 4 \Hs, nor does she have 3 \Ss. She does, however, have stopp
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1S pass 2D pass 2H pass 3C pass 3NT pass pass pass pass pass
+1S pass 2D pass 2H pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -581,7 +581,7 @@ North understands that South's \C bid is Fourth-Suit-Forcing, and does not actua
 [Contract "2S"]
 [Result ""]
 [Auction "N"]
-pass pass 1S pass 2D pass 2H pass 2S pass pass pass pass pass
+pass pass 1S pass 2D pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -661,7 +661,7 @@ North asks for Aces and gets two. He decides to find out about Kings, if South h
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1S pass 1NT pass 2S pass 3S pass 4S pass pass pass pass pass
+1S pass 1NT pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -711,7 +711,7 @@ North is not happy in notrump so rebids the 6-card major, 3\S. South's two \Ss a
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
-1S pass 1NT pass 2C pass 3S pass pass pass pass pass
+1S pass 1NT pass 2C pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

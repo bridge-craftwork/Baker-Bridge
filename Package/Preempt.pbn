@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Preempt
 [Event "Baker Bridge - Preemptive Bids"]
@@ -37,7 +37,7 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 [Contract "3S"]
 [Result ""]
 [Auction "N"]
-3S pass pass pass pass pass
+3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -65,7 +65,7 @@ Here's a pretty good tip:When partner opens with a 3-bid and you are trying to d
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-3H pass 4H pass pass pass pass pass
+3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -181,7 +181,7 @@ Did you think about bidding 6NT instead? Ugh, they would have led a \C.}
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
-3H X pass 3S pass pass pass pass
+3H X pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -237,7 +237,7 @@ You do not have the 4 fast winners you need to raise partner to the 4-level. But
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-3D X 4D 4H pass pass pass pass
+3D X 4D 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -269,7 +269,7 @@ It is partner's decision, not yours, whether to continue to 5\D as a sacrifice.}
 [Contract "3H"]
 [Result ""]
 [Auction "N"]
-3H pass pass pass pass pass
+3H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

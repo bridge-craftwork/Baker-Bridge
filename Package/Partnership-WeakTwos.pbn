@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Partnership-WeakTwos
 [Event "Baker Bridge - Weak Two-bids and Preemptive Three Bids"]
@@ -11,7 +11,7 @@
 [Contract "2S"]
 [Result ""]
 [Auction "N"]
-2S pass pass pass pass pass
+2S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -156,7 +156,7 @@ that is just enough for game. He bids 4\H.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2C pass 2S pass 4S pass pass pass pass pass
+1S pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -273,7 +273,7 @@ a hand this good. SOUTH then bids the \S game.}
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-3H pass 4NT pass 5D pass 6H pass pass pass pass pass
+3H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -329,7 +329,7 @@ but 5\C would go down 1.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-2H pass 2NT pass 3H pass 4H pass pass pass pass pass
+2H pass 2NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -390,7 +390,7 @@ he signs off in 3\S}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2D pass 2NT pass 3H pass 3NT pass pass pass pass pass
+2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -419,7 +419,7 @@ she bids 3NT.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2D pass 2NT pass 3NT pass pass pass pass pass
+2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -449,7 +449,7 @@ Game (and bidding) doesn't get much easier.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-3S pass 4S pass pass pass pass pass
+3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -562,7 +562,7 @@ When NORTH shows \D A K Q x x x SOUTH has an easy 6NT bid.}
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2S pass 2NT pass 3H pass 4S pass pass pass pass pass
+2S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -591,7 +591,7 @@ NORTH is no longer unsure, so she bids 4\S.}
 [Contract "3S"]
 [Result ""]
 [Auction "N"]
-2S pass 2NT pass 3S pass pass pass pass pass
+2S pass 2NT pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -621,7 +621,7 @@ SOUTH passes and hopes for the best.}
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-3C pass 4H pass pass pass pass pass
+3C pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -679,7 +679,7 @@ would be missed.}
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-2D pass 2NT pass 3C pass 3NT pass pass pass pass pass
+2D pass 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]

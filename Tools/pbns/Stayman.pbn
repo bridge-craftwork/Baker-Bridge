@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Stayman
 [Event "Baker Bridge - Stayman"]
@@ -11,7 +11,7 @@
 [Contract "1NT"]
 [Result ""]
 [Auction "N"]
-1NT pass pass pass pass pass
+1NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -39,7 +39,7 @@ It is far too risky to play for that possibility. So you just pass.}
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass pass pass
+1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -261,7 +261,7 @@ That is why you used Stayman - to uncover a 4-4 Major suit fit. Having done so y
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2D pass 3S pass 4S pass pass pass pass pass
+1NT pass 2C pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -357,7 +357,7 @@ In this case the strong hand does not become declarer, but the contract is the r
 [Contract "2NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 2NT pass pass pass pass pass
+1NT pass 2C pass 2S pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -417,7 +417,7 @@ Partner seems to have about 9 points and is inviting you to say 3NT. Since you h
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 3S pass pass pass pass pass
+1NT pass 2C pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -661,7 +661,7 @@ Good thing it's being played by North, right?}
 [Contract "2H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2H pass pass pass pass pass
+1NT pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -719,7 +719,7 @@ But thinking a little further, with this 4-3-3-3 distribution you have no ruffin
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 2C 2S pass pass 3NT pass pass pass pass pass
+pass 1NT pass 2C 2S pass pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]

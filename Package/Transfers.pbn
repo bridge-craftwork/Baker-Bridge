@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-18 07:46:36
+%Created: 2026-02-22 15:27:54
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Transfers
 [Event "Baker Bridge - Jacoby Transfers"]
@@ -11,7 +11,7 @@
 [Contract "2H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2D pass 2H pass pass pass pass pass
+1NT pass 2D pass 2H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -39,7 +39,7 @@ As you can see from partner's hand you made the right call. Played in \Hs your h
 [Contract "3S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 2NT pass 3S pass pass pass pass pass
+1NT pass 2H pass 2S pass 2NT pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -71,7 +71,7 @@ As you can see, a 4\S contract would have no chance, losing 1 trick in each side
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass pass pass
+1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -163,7 +163,7 @@ You know you have at least an 8-card \H fit. You know you have at least 26 point
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2D pass 2H pass 2S pass 4S pass pass pass pass pass
+1NT pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -193,7 +193,7 @@ Note that you must have at least one Major suit fit since partner cannot have a 
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 3H pass 4H pass pass pass pass pass
+1NT pass 2H pass 2S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -225,7 +225,7 @@ If you held an even stronger hand and wished to move toward a slam you would sta
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 3C pass 3NT pass pass pass pass pass
+1NT pass 2H pass 2S pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -253,7 +253,7 @@ Having made the try, you accept whatever partner decides. In this case, with a 1
 [Contract "6NT"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 4NT pass 6NT pass pass pass pass pass
+1NT pass 2H pass 2S pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -287,7 +287,7 @@ Here both partners understood the bid and North bid 6NT.}
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-2NT pass 3D pass 3H pass 3NT pass 4H pass pass pass pass pass
+2NT pass 3D pass 3H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -317,7 +317,7 @@ Notice that when partner opens 2NT the invitation to game option is no longer av
 [Contract "2NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D pass 2H pass 2NT pass pass pass pass pass
+1NT pass 2D pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -409,7 +409,7 @@ With your 3-3-3-4 distribution you might have been tempted to bid 3NT instead of
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2H pass 2S pass 3S pass pass pass pass pass
+1NT pass 2H pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -741,7 +741,7 @@ However, in this case you know that your side has at least 9 \Hs, and you are we
 [Contract "2S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D 2S pass pass X pass pass pass pass pass
+1NT pass 2D 2S pass pass X pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
