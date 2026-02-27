@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-22 15:27:54
+%Created: 2026-02-27 10:09:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent 100NT
 [Event "Baker Bridge - 100 Notrump Deals"]
@@ -867,7 +867,7 @@ Or you could have made it whoever held the \SQ by using the "improved" plan.}
 [Vulnerable "None"]
 [Deal "W:K873.5.KQ942.943 AQ5.J3.AJT3.QJT8 942.AQ8742.6.K75 JT6.KT96.875.A62"]
 [Declarer "E"]
-[Contract "2HX"]
+[Contract "2H"]
 [Result ""]
 [Auction "N"]
 1NT 2H X pass pass pass

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-22 15:27:54
+%Created: 2026-02-27 10:09:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
@@ -384,7 +384,7 @@ There is another, more subtle, reason for leading partner's suit. If the lead tu
 [Vulnerable "None"]
 [Deal "W:QT84.AQT7.KQ98.5 652.9532.A64.942 K7.864.J72.KQJT8 AJ93.KJ.T53.A763"]
 [Declarer "S"]
-[Contract "1CXX"]
+[Contract "1CX"]
 [Result ""]
 [Auction "S"]
 1C X pass pass pass
@@ -454,7 +454,7 @@ Declarer must play \Ds to get some winners, and when East takes the \DA he will 
 [Vulnerable "None"]
 [Deal "W:A43.JT2.QJT98.AJ KT8.7.A7532.8532 5.KQ963.K6.KQT96 QJ9762.A854.4.74"]
 [Declarer "S"]
-[Contract "4SXX"]
+[Contract "4SX"]
 [Result ""]
 [Auction "E"]
 1H 2S 3D 3S 4C pass 4H pass pass 4S X pass pass pass
@@ -564,7 +564,7 @@ It is important for your side to create a winner before your \DA is forced out. 
 [Vulnerable "None"]
 [Deal "W:4.T984.8632.K872 A9762.A63.K4.QJ5 KQJT8.752.A5.963 53.KQJ.QJT97.AT4"]
 [Declarer "S"]
-[Contract "3NTX"]
+[Contract "3NT"]
 [Result ""]
 [Auction "N"]
 1S pass 2NT pass 3NT X pass pass pass

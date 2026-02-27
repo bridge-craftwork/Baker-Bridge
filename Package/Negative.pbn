@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-22 15:27:54
+%Created: 2026-02-27 10:09:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Negative
 [Event "Baker Bridge - Negative Doubles"]
@@ -464,7 +464,7 @@ Partner has a minimum hand and fewer than 4 \Ss. A good time for you to pass.}
 [Vulnerable "None"]
 [Deal "W:- AKQ5.53.73.J9632 - 8.AK764.QJT84.A8"]
 [Declarer "W"]
-[Contract "2DX"]
+[Contract "2D"]
 [Result ""]
 [Auction "S"]
 1H 2D X pass pass pass

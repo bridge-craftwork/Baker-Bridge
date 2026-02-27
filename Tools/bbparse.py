@@ -820,8 +820,6 @@ def extract_auction_info(auction_table,filepath):
     # Initialize variables
     strain, contract, declarer, challenge = None, None, None, None
     
-    suffix = ""
-    
     # Identify the contract (excluding pass, double, redouble)
     for i in range(len(all_bids) - 1, -1, -1):
         bid = all_bids[i].lower()
@@ -830,18 +828,7 @@ def extract_auction_info(auction_table,filepath):
             strain = contract[1:]  # Strain is the contract without the level
             break
     
-    # Identify the challenge (double, redouble, or blank)
-    if i < len(all_bids) - 1:
-        next_bid = all_bids[i + 1].lower()
-        if next_bid == "double":
-            challenge = "double"
-            suffix = "X"
-        elif next_bid == "redouble":
-            challenge = "redouble"
-            suffix = "XX"
-        else:
-            challenge = ""
-            suffix = ""
+    challenge = ""
     
     # Determine the declarer
     positions = ["West", "North", "East", "South"]
@@ -871,9 +858,10 @@ def extract_auction_info(auction_table,filepath):
     auction_str = " | ".join([" ".join(bid_row) for bid_row in auction_rounds])
     auction_str = ' '.join(auction_str.split())
 
-    contract = contract + suffix
-    
-    if "double pass pass pass" in auction_str:
+    # Determine doubled/redoubled from the auction string
+    if "redouble pass pass pass" in auction_str:
+        contract = contract + "XX"
+    elif "double pass pass pass" in auction_str:
         contract = contract + "X"
 #    print (filepath, ", Dealer", dealer, ", contract", contract, ", declarer", declarer, ", auction", auction_str)
 

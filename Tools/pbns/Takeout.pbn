@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-22 15:27:54
+%Created: 2026-02-27 10:09:15
 %sourcefilename BakerBridge.csv
 %HRTitleEvent Takeout
 [Event "Baker Bridge - Takeout Doubles"]
@@ -734,7 +734,7 @@ You cannot stop short of game. Partner has apparently rejected your \S suggestio
 [Vulnerable "None"]
 [Deal "W:- AQ86.A742.KJT5.7 - K9.85.Q62.QJT963"]
 [Declarer "W"]
-[Contract "1CX"]
+[Contract "1C"]
 [Result ""]
 [Auction "W"]
 1C X pass pass pass
