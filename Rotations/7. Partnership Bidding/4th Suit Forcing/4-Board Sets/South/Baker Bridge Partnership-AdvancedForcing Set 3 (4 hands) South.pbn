@@ -1,0 +1,98 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-AdvancedForcing
+[Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K942.8.87542.Q97 53.QJT32.AQ6.T63 AQJT7.765.3.AK84 86.AK94.KJT9.J52"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+pass pass 1S pass 2S pass 3H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH's 3\H bid is a Help Suit Game Try.
+
+NORTH barely had enough strength to respond in the first place, but revaluing the hand, 
+(and particularly the singleton \H), makes it worth a 
+raise to game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KT.A9754.KQ62.96 863.T83.JT9.K752 AJ75.K6.874.AJT3 Q942.QJ2.A53.Q84"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1H pass 1S pass 2D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH has no reason to consider Fourth Suit Forcing with this hand.
+
+NORTH does not have four \Ss or he would have already supported.
+
+So SOUTH should bid the Notrump game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A7.QT976.Q7.AT96 K654.KJ.JT92.J43 J83.A832.K864.72 QT92.54.A53.KQ85"]
+[Declarer "S"]
+[Contract "2H"]
+[Result ""]
+[Auction "S"]
+1H pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH should pass 2\H. She is not strong enough to 
+try for game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:84.AT7.QT643.AK2 AJ2.965.K82.T654 KQT63.KQJ8.95.Q8 975.432.AJ7.J973"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{NORTH knows there should be game, but doesn't know whether it will be 4\S, 
+4\H or 3NT. To find out which she uses NMF and 
+bids 2\C at her second turn.
+
+SOUTH does not have a 4-card \H suit, nor does he have 
+three \Ss, but he does have \Cs stopped so he bids 2NT, which North raises to 3NT.}
+

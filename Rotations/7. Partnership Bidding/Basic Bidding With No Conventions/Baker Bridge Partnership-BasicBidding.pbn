@@ -1,0 +1,529 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicBidding
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:AT95.7.KJT4.QJT2 J6.KQT832.A7.AK3 8742.A5.Q953.874 KQ3.J964.862.965"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH's 2\H raise shows 6-10 points and a least three trumps.
+
+NORTH, with 19+ points, decides that game is almost a certainty and bids 4\H.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ2.J543.84.9732 T97.A96.KQ73.K84 8653.Q72.A62.QT5 AQ4.KT8.JT95.AJ6"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has an ideal 1NT opening - 
+15 points and balanced distribution.
+
+With 12 points, NORTH knows the partnership total is between 27 and 29, enough for game 
+but not enough to think about slam. Since NORTH has no 4-card Major suit she bids 3NT.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:95.QT83.AKQJ.QJT QJ64.A95.82.AK63 A82.J742.963.974 KT73.K6.T754.852"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "N"]
+1C pass 1S pass 2S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{With 6 points, SOUTH must respond to NORTH's 1\C opening bid. 
+While it is often correct to respond by bidding suits "up-the-line", SOUTH should 
+skip over the weak \D suit in favor of showing the 4-card 
+Major \S suit.
+
+NORTH knows that SOUTH may only have four \Ss, but with four of her own she can support the 
+suit. Since she has a minimum opening bid she merely raises to 2\S. 
+With his minimum response hand SOUTH passes.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT94.J3.JT7.AQ97 75.T984.K94.K852 K832.65.Q862.JT3 QJ6.AKQ72.A53.64"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "S"]
+1H pass 2H pass 3H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{With 17 points SOUTH is not strong enough to insist on game after NORTH's raise, 
+but is strong enough to invite with a 3\H bid.
+
+NORTH, however, doesn't have anything extra, so declines to go further.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q75.A87.843.AT72 A832.KT9.AJ7.KQ6 KJ6.6532.T96.843 T94.QJ4.KQ52.J95"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{This is a classic Notrump bidding sequence.
+
+NORTH opens 1NT with 17 points and balanced distribution. 
+SOUTH, with 9 points is not strong enough to bid game, but invites with 2NT. 
+NORTH has a maximum, so she accepts the invitation.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:52.QJ98.JT9.QJ74 KJ84.AK72.65.K93 973.T63.KQ32.T65 AQT6.54.A874.A82"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1D pass 1H pass 1S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{With two 4-card Majors NORTH should respond "up-the-line", bidding \Hs first.
+
+Then, after SOUTH bids 1\S, NORTH has enough points to jump all the way to 4\S.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "7"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:52.KJ93.J43.K843 KQT84.A7.KQ5.QT6 J7.T852.T87.A952 A963.Q64.A962.J7"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has 17 points and might open 1NT. But with the 5-card Major suit she prefers 
+to open 1\S.
+
+SOUTH has excellent \S support but with 11 points is not quite strong enough to insist 
+on reaching game. Instead he makes an invitational jump to 3\S, which NORTH is strong 
+enough to raise to game.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "8"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJ32.K82.853.QJ9 87.T64.KQT96.T73 T954.Q753.74.K64 AK6.AJ9.AJ2.A852"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has a powerful hand, but 21 points is not strong enough to start with a forcing 2\C bid. 
+Since he has balanced distribution he opens 2NT (20-21 points).
+
+NORTH adds her 6 points to SOUTH's minimum and concludes they should be in game. She expects her 
+good \D suit to be useful to NORTH in Notrump so she bids 3NT.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "9"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:KQ4.976.T942.A64 J63.AKQ82.K6.T95 A872.T53.A75.Q83 T95.J4.QJ83.KJ72"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "N"]
+1H pass 1NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has a solid 1\H opening, 14 points and five trumps.
+
+SOUTH must respond with 8 points, but cannot bid either minor suit since he needs at least 
+11 points to bid a new suit at the 2-level. So he bids 1NT (6-10 points).
+
+NORTH doesn't object to Notrump so she passes.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "10"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A5.T63.AKQ2.KQ53 J962.KQ75.83.T74 84.J98.JT64.J982 KQT73.A42.975.A6"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+1S pass 2S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has a normal 1\S opening bid, 14 points and five trumps.
+
+NORTH has good 4-card support and 7 points, so she raises to 2\S, 
+passed by SOUTH. 
+
+NORTH does not consider showing the \Hs, 
+first because she knows there is a \S fit, and second because she doesn't have 
+the 11 points needed to bid a new suit at the 2-level.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "11"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T95.8543.32.A963 A83.A7.KJ964.QJ5 Q762.JT6.T87.742 KJ4.KQ92.AQ5.KT8"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{With balanced distribution and 16 points NORTH should open 1NT rather than 1\D.
+
+SOUTH's response is based on simple math. He adds his 18 points to the 15 minimum that NORTH has announced and 
+comes up with 33 points combined. This is enough for a small slam, and since he has balanced distribution 
+he bids 6NT.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "12"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A83.KJ43.J74.T64 K4.QT6.8532.Q985 752.9852.KT9.J32 QJT96.A7.AQ6.AK7"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1S pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH is right at the maximum for a 1\S opening bid - one more point and he would 
+have opened 2\C.
+
+NORTH does not have 3-card \S support but with 7 points must make some response. 
+She cannot bid at the 2-level so she says 1NT (6-10 points).
+
+SOUTH is fine with Notrump so he bids 3NT.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "13"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:2.T963.863.QJT75 QJT83.AJ4.AT.962 75.872.9542.AK84 AK964.KQ5.KQJ7.3"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1S pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has a minimum 1\S opening bid - 13 points and five trumps. She doesn't even suspect 
+what's about to befall!
+
+SOUTH hears the 1\S bid and all he wants to know is whether NORTH has one, two or three Aces. 
+So he uses the Blackwood convention, 4NT.
+
+NORTH has two Aces so she bids 5\H (5\C would show zero Aces, 
+5\D would show one Ace, etc).
+
+SOUTH has heard enough and bids 6\S.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "14"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJ53.J9.J82.KQJ4 A74.Q5.K764.7653 KT98.T43.Q95.T82 62.AK8762.AT3.A9"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1H pass 1NT pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has an above-minimum strength hand with a good 6-card suit. He opens 1\H.
+
+NORTH, with 9 points, is a little too weak to bid at the 2-level so she bids a catchall 1NT.
+
+SOUTH shows his 6-card suit and extra strength by jumping to 3\H, which 
+NORTH raises to 4\H since two trumps is now adequate support.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "15"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:96.KJT5.KT4.J854 KQ74.83.762.AKQ2 A52.962.AQ98.T93 JT83.AQ74.J53.76"]
+[Declarer "N"]
+[Contract "2S"]
+[Result ""]
+[Auction "N"]
+1C pass 1H pass 1S pass 2S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has 14 points and opens her 4-card \C suit.
+
+SOUTH must respond, and with two 4-card Majors bids them "up-the-line", saying 1\H.
+
+NORTH now shows his 4-card \S suit, and SOUTH again must bid. Since SOUTH is pretty weak he just 
+raises to 2\S, which NORTH happily passes.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "16"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T85.T962.J54.754 A94.A7.K83.KJ962 J632.854.Q972.A3 KQ7.KQJ3.AT6.QT8"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has a maximum 17 point 1NT bid.
+
+NORTH, with 16 points, can't tell if there are enough points for slam. If SOUTH has 
+17 points then a slam should be makeable, but if SOUTH has only 15 points then he 
+should settle for game.
+
+The 4NT raise solves the problem. It tells SOUTH to bid 6NT with 17 points, pass 
+with 15 points, and use best judgment with 16. Here SOUTH bids the slam.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "17"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:J5.KQ7.QJ32.AT83 K973.842.AK5.J76 T4.AT96.T986.954 AQ862.J53.74.KQ2"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "N"]
+pass pass 1S pass 3S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has just 11 points, not enough to open the bidding. 
+But when SOUTH opens 1\S NORTH should show her "almost opening strength" 
+by jumping to 3\S.
+
+SOUTH has just 13 points, and knowing NORTH has less than 13 he passes.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "18"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AQ65.9.J432.T432 73.Q8642.A86.K95 KJ94.JT.T97.AJ87 T82.AK753.KQ5.Q6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1H pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{After SOUTH opens with 1\H, NORTH has a small "dilemma". 
+With 11 points she really is only strong enough to make a jump raise to 3\H. 
+But, with five trumps the hand deserves more. So she just bids 4\H instead.
+
+Usually, no matter what your strength, when you have five cards in the Major suit that your partner opens 
+with you should just jump right to game.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "19"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:64.KQT85.542.A75 QJ75.A.AKQ3.KT62 A92.9643.JT7.984 KT83.J72.986.QJ3"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1D pass 1S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has 19 points, but no 5-card Major suit. With two 4-card minor suits she should start 
+with 1\D.
+
+SOUTH has a poor hand, but with 7 points he must respond. His first priority is to show a Major suit 
+so he responds 1\S.
+
+NORTH now knows that \Ss will be trumps, so she revalues her hand to 21 points, enough for game. 
+She bids 4\S.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "20"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A2.JT6.KT52.QJ72 T963.754.Q7.AK64 85.A983.9843.T85 KQJ74.KQ2.AJ6.93"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NOTE: There is a better way to bid this hand using special conventions.
+
+SOUTH has 17 points, but with a 5-card Major opens 1\S rather than 1NT. 
+NORTH isn't quite strong enough for a jump raise, so she bids 2\S. 
+SOUTH has enough extra to make a try for game, so she invites with 3\S. 
+NORTH has enough extra to accept the invitation, bids 4\S.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "21"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:952.9872.762.A96 KJ3.KQ5.AQJ.KJ42 A764.T43.854.873 QT8.AJ6.KT93.QT5"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result ""]
+[Auction "N"]
+2NT pass 4NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has a perfect 2NT opening hand, 20 points and 3-3-3-4 distribution.
+
+SOUTH, with 12 points of his own, knows the partnership is borderline strong enough for slam. 
+Since he is happy with Notrump, he invites NORTH to bid slam by responding 4NT.
+
+With one more point NORTH might bid the slam, but here she just passes.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "22"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AK8.T953.642.654 JT4.AJ6.K53.T872 Q732.874.QJT9.A9 965.KQ2.A87.KQJ3"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH opens 1NT with 15 points and a balanced hand.
+
+NORTH, with 9 points, cannot bid game herself, but she can invite SOUTH to bid game if he 
+has the maximum 17 point opener. So she responds 2NT.
+
+SOUTH doesn't have maximum, he has minimum, so he passes.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "23"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:63.QJ53.T982.T96 QT82.AK.764.AKQ5 AK4.T987.Q53.J83 J975.642.AKJ.742"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1C pass 1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH is 1 point too strong to open 1NT, so opens 1\C.
+
+SOUTH responds in his 4-card Major suit, 1\S.
+
+NORTH now shows her 4-card support plus her extra strength by jumping to 3\S and SOUTH bids the game.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Board "24"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT9.J965.82.J763 543.A72.KT65.985 8762.T43.A74.QT4 KQJ.KQ8.QJ93.AK2"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has a classic 2NT opening bid, 21 points and balanced distribution.
+
+NORTH knows that her 7 points will be plenty for game, but not enough to consider 
+slam so she just bids 3NT.}
+

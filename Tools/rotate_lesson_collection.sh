@@ -38,6 +38,7 @@ NC='\033[0m' # No Color
 # Tool paths
 BRIDGE_WRANGLER_PATH="${BRIDGE_WRANGLER_PATH:-$HOME/Development/GitHub/bridge-wrangler/target/release/bridge-wrangler}"
 PBN_TO_PDF_PATH="${PBN_TO_PDF_PATH:-$HOME/Development/GitHub/pbn-to-pdf/target/release/pbn-to-pdf}"
+PDF_HANDOUTS_PATH="${PDF_HANDOUTS_PATH:-$HOME/Development/GitHub/pdf-handouts/target/release/pdf-handouts}"
 
 # Trace mode (set TRACE=1 to enable)
 TRACE=${TRACE:-0}
@@ -71,8 +72,10 @@ show_usage() {
     echo "             - slice_deals"
     echo "             - rotate_hands"
     echo "             - block_replicate"
+    echo "             - declarers_plan"
     echo "             - bidding_sheets"
     echo "             - aggregate"
+    echo "             - merge_handouts"
     echo "             Shortcuts:"
     echo "             - '*' : Run all actions (except pdf_presentation)"
     echo "             - '+action' : Run from start through action"
@@ -105,8 +108,10 @@ ALL_ACTIONS=(
     "slice_deals"
     "rotate_hands"
     "block_replicate"
+    "declarers_plan"
     "bidding_sheets"
     "aggregate"
+    "merge_handouts"
 )
 
 # Actions included in wildcard expansion (excluding pdf_presentation)
@@ -116,8 +121,10 @@ EXPANDABLE_ACTIONS=(
     "slice_deals"
     "rotate_hands"
     "block_replicate"
+    "declarers_plan"
     "bidding_sheets"
     "aggregate"
+    "merge_handouts"
 )
 
 # Expand action shortcuts
@@ -378,7 +385,7 @@ action_slice_deals() {
     fi
 
     # Extract header (everything before first [Board])
-    local header=$(sed -n '1,/^\[Board/p' "$pbn_file" | head -n -1)
+    local header=$(sed -n '1,/^\[Board/p' "$pbn_file" | sed '$d')
 
     # Process each slice size
     for slice_size in "${slices[@]}"; do
@@ -410,10 +417,12 @@ action_slice_deals() {
 
             local set_file="$slice_folder/$base_name Set $set_num ($boards_in_set hands).pbn"
 
+            # Write header first (may be multiline, can't pass via awk -v)
+            echo "$header" > "$set_file"
+
             # Extract boards and renumber them
-            awk -v start="$start_board" -v end="$end_board" -v header="$header" '
+            awk -v start="$start_board" -v end="$end_board" '
                 BEGIN {
-                    print header
                     board_num = 0
                     new_board = 0
                     in_board = 0
@@ -431,7 +440,7 @@ action_slice_deals() {
                     }
                 }
                 in_board { print }
-            ' "$pbn_file" > "$set_file"
+            ' "$pbn_file" >> "$set_file"
 
             trace "Created: $set_file"
         done
@@ -553,6 +562,39 @@ action_block_replicate() {
 }
 
 #---------------------------------------------------
+# Action: declarers_plan
+#---------------------------------------------------
+action_declarers_plan() {
+    local file="$1"
+    shift
+    local slices=("$@")
+
+    if [[ ! -x "$BRIDGE_WRANGLER_PATH" ]]; then
+        error "bridge-wrangler not found at $BRIDGE_WRANGLER_PATH"
+    fi
+
+    local folder="Rotations/$file"
+
+    for slice in "${slices[@]}"; do
+        local slice_folder="$folder/$slice-Board Sets"
+        if [[ ! -d "$slice_folder" ]]; then
+            trace "Skipping missing board set folder: $slice_folder"
+            continue
+        fi
+
+        for nesw_file in "$slice_folder"/*\ -\ NESW.pbn; do
+            [[ -f "$nesw_file" ]] || continue
+
+            local base_name="${nesw_file%.pbn}"
+            local plan_pdf="${base_name} Declarers Plan.pdf"
+            trace "Generating declarers plan: $plan_pdf"
+            "$BRIDGE_WRANGLER_PATH" to-pdf -i "$nesw_file" -o "$plan_pdf" \
+                -l declarers-plan -r 1-4 || warn "Failed to generate declarers plan: $nesw_file"
+        done
+    done
+}
+
+#---------------------------------------------------
 # Action: bidding_sheets
 #---------------------------------------------------
 action_bidding_sheets() {
@@ -635,7 +677,7 @@ action_aggregate() {
             [[ -f "$f" ]] || continue
             local fname=$(basename "$f")
 
-            if [[ "$fname" == *NESW* ]] || [[ "$fname" == *"Bidding Sheets"* ]] || [[ "$fname" == *"Dealer Summary"* ]]; then
+            if [[ "$fname" == *NESW* ]] || [[ "$fname" == *"Bidding Sheets"* ]] || [[ "$fname" == *"Dealer Summary"* ]] || [[ "$fname" == *"Declarers Plan"* ]]; then
                 mv "$f" "$full_table/" 2>/dev/null || true
             elif [[ "$fname" == *" - NS"* ]]; then
                 mv "$f" "$north_south/" 2>/dev/null || true
@@ -696,6 +738,76 @@ action_aggregate() {
             [[ -f "$f" ]] || continue
             trace "Deleting: $f"
             rm "$f"
+        done
+    done
+}
+
+#---------------------------------------------------
+# Action: merge_handouts
+#---------------------------------------------------
+action_merge_handouts() {
+    local file="$1"
+    shift
+    local slices=("$@")
+
+    if [[ ! -x "$PDF_HANDOUTS_PATH" ]]; then
+        error "pdf-handouts not found at $PDF_HANDOUTS_PATH"
+    fi
+
+    local folder="Rotations/$file"
+
+    for slice in "${slices[@]}"; do
+        local full_table="$folder/$slice-Board Sets/Full Table"
+        if [[ ! -d "$full_table" ]]; then
+            trace "Skipping missing Full Table folder: $full_table"
+            continue
+        fi
+
+        # Find the Intro PDF (one level up from Full Table)
+        local bs_folder="$folder/$slice-Board Sets"
+        local intro_pdf=""
+        for f in "$bs_folder"/*_Intro.pdf; do
+            [[ -f "$f" ]] && intro_pdf="$f" && break
+        done
+
+        # Find each set's Declarers Plan PDF and merge with its companions
+        for plan_pdf in "$full_table"/*"Declarers Plan.pdf"; do
+            [[ -f "$plan_pdf" ]] || continue
+
+            # Derive companion file names from the Declarers Plan name
+            # e.g., "Baker Bridge Ogust Set 1 (4 hands) NESW Declarers Plan.pdf"
+            #     → "Baker Bridge Ogust Set 1 (4 hands) NESW Dealer Summary.pdf"
+            #     → "Baker Bridge Ogust Set 1 (4 hands) NESW.pdf"
+            local base="${plan_pdf% Declarers Plan.pdf}"
+            local summary_pdf="${base} Dealer Summary.pdf"
+            local nesw_pdf="${base}.pdf"
+
+            if [[ ! -f "$summary_pdf" ]]; then
+                warn "Missing dealer summary for merge: $summary_pdf"
+                continue
+            fi
+            if [[ ! -f "$nesw_pdf" ]]; then
+                warn "Missing NESW PDF for merge: $nesw_pdf"
+                continue
+            fi
+
+            # Derive handout name: strip the "(N hands) NESW" portion
+            # "Baker Bridge Ogust Set 1 (4 hands) NESW" → "Baker Bridge Ogust Set 1"
+            local handout_base=$(basename "$base" | sed -E 's/ *\([0-9]+ hands\) +NESW$//')
+            local handout_pdf="$full_table/${handout_base} Handouts.pdf"
+
+            # Stage components with numeric prefixes to control merge order
+            local components="$full_table/.components"
+            mkdir -p "$components"
+            [[ -n "$intro_pdf" ]] && cp "$intro_pdf" "$components/1. Intro.pdf"
+            cp "$plan_pdf" "$components/2. Declarers Plan.pdf"
+            cp "$summary_pdf" "$components/3. Dealer Summary.pdf"
+            cp "$nesw_pdf" "$components/4. Lesson Hands.pdf"
+
+            trace "Merging handout: $handout_pdf"
+            "$PDF_HANDOUTS_PATH" merge -o "$handout_pdf" \
+                "$components"/*.pdf || warn "Failed to merge handout: $handout_pdf"
+            rm -rf "$components"
         done
     done
 }
@@ -768,11 +880,17 @@ for action in $ACTIONS; do
             block_replicate)
                 action_block_replicate "$folder" "${SLICES[@]}"
                 ;;
+            declarers_plan)
+                action_declarers_plan "$folder" "${SLICES[@]}"
+                ;;
             bidding_sheets)
                 action_bidding_sheets "$folder" "${SLICES[@]}"
                 ;;
             aggregate)
                 action_aggregate "$folder" "${SLICES[@]}"
+                ;;
+            merge_handouts)
+                action_merge_handouts "$folder" "${SLICES[@]}"
                 ;;
             *)
                 warn "Unknown action: $action"

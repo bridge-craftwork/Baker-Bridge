@@ -1,0 +1,106 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Overcalls
+[Event "Baker Bridge - Overcalls and TakeOut Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:AT5.QT5.AJT9.T43 K983.76.KQ5.AJ76 764.J982.8632.95 QJ2.AK43.74.KQ82"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+1D pass pass X pass 2D pass 2H pass 2S pass 3C pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{SOUTH has 13 points but has no bid over 1\D. 
+NORTH can make a Takeout Double, so he does.
+
+SOUTH now cue-bids \D to show opening hand strength.
+
+NORTH shows his \H suit, SOUTH doesn't like it. 
+SOUTH shows her \S suit, NORTH doesn't like it. 
+NORTH shows his \C suit, SOUTH likes it fine, but decides 3NT will be easier than 5\C.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K52.KJ82.KQ9.QJ3 AJT74.A73.A86.95 Q83.T94.T32.A874 96.Q65.J754.KT62"]
+[Declarer "S"]
+[Contract "1S"]
+[Result ""]
+[Auction "S"]
+1S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: E, basisKind:Declarer, nOption:2, nBasis: 1, nRot: 1, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{WEST would have had a great opening 1\S bid. But when SOUTH opened 1\S 
+in front of him he was hornswaggled. He couldn't bid any other suit, he couldn't bid 1NT 
+and he sure couldn't bid \Ss. So he must pass.
+
+And so does everybody else pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:4.AQ63.A542.AQT4 KQJ9753.74.Q3.62 T6.KT98.JT7.KJ98 A82.J52.K986.753"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "E"]
+1C 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{If East had passed, SOUTH would have opened with a preemptive 3\S.
+
+She should make the same bid with the same hand AFTER the opponents open. And she makes it 
+for the same reason, to describe her hand and to take away bidding space from the opponents.
+
+NORTH treats it just like a Preemptive 3-bid, even though it is now called a Weak Jump Overcall. 
+In this case, NORTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:Q63.K87.K94.AKJT AJT85.63.AJT85.3 94.AT92.Q72.Q752 K72.QJ54.63.9864"]
+[Declarer "S"]
+[Contract "1S"]
+[Result ""]
+[Auction "E"]
+1C 1S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{SOUTH has 12 points, but with two 5-card suits worthy of an overcall. There isn't really a 
+right and wrong here, but it usually works out best to overcall in the higher-ranking suit. That 
+leaves open the possibility of bidding the second suit later.
+
+In this Deal, after SOUTH overcalls 1\S, that later possibility never happens because 
+everybody should pass.}
+

@@ -80,7 +80,15 @@ if os.path.isdir(curated_dir):
         if os.path.exists(package_file):
             pkg_boards = parse_pbn_boards(package_file)
             cur_boards = parse_pbn_boards(curated_file)
-            pkg_boards.update(cur_boards)  # Curated wins
+            # Curated wins, but preserve filled Deal from generated PBN
+            # when curated board has unfilled hands (...)
+            for num, cur_text in cur_boards.items():
+                if '...' in cur_text and num in pkg_boards:
+                    deal_match = re.search(r'\[Deal "[^"]*"\]', pkg_boards[num])
+                    if deal_match and '...' not in deal_match.group():
+                        cur_text = re.sub(r'\[Deal "[^"]*"\]', deal_match.group(), cur_text)
+                        cur_boards[num] = cur_text
+            pkg_boards.update(cur_boards)  # Curated wins (with filled deals)
             with open(package_file, 'w', encoding='utf-8') as f:
                 for num in sorted(pkg_boards.keys()):
                     f.write(pkg_boards[num] + '\n\n')

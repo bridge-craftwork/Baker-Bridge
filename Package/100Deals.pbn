@@ -1,6 +1,6 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 10:09:15
-%sourcefilename BakerBridge.csv
+%Created: 2026-02-28 08:13:00
+%sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
 [Board "1"]
@@ -115,14 +115,14 @@ Making a PLAN is a necessary part of being a good Declarer and Visualizing what 
 
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
 [Board "3"]
-[Dealer "E"]
+[Dealer "S"]
 [Vulnerable "None"]
 [Deal "W:J9643.A53.T75.93 AQ5.74.Q962.AJT8 KT.QJT982.83.652 872.K6.AKJ4.KQ74"]
 [Declarer "S"]
 [Contract "3NT"]
 [Result ""]
-[Auction "E"]
-pass 1NT pass 3NT pass pass pass
+[Auction "S"]
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
@@ -274,7 +274,7 @@ You can see what could have happened if you had tried to sneak even one \S trick
 [Board "6"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:K63.QJT83.J.KJ62 QJT9.A5.7542.973 8754.96.KQT9.Q84 A2.K742.A863.AT5"]
+[Deal "W:K63.QJT83.J.KJ62 QT98.A5.7542.973 J754.96.KQT9.Q84 A2.K742.A863.AT5"]
 [Declarer "S"]
 [Contract "1NT"]
 [Result ""]
@@ -330,7 +330,7 @@ What would you try next? A \S finesse? Whether West took his \SK right then or l
 [Board "7"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:AK73.842.J93.T84 T64.KJ7.86.J7532 982.5.QT742.AK96 QJ5.AQT963.AK5.Q"]
+[Deal "W:AK73.842.J93.T84 T64.KQ7.86.J7532 982.5.QT742.AK96 QJ5.AJT963.AK5.Q"]
 [Declarer "S"]
 [Contract "4H"]
 [Result ""]

@@ -1,0 +1,526 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 15:15:52
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicNotrump
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "1"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J97.Q853.54.QJT7 AT6.A74.KQT2.K84 KQ42.JT2.J97.A32 853.K96.A863.965"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has a perfect 1NT opener; a balanced hand with 16 points.
+
+SOUTH has 7 points; he knows that the most points the partnership could hold is 24 (7 + 17). 
+Since this is below the 26 point game requirement he passes.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J53.7432.A8.9532 T97.A96.KQ73.K84 K862.QJ5.642.JT7 AQ4.KT8.JT95.AQ6"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has an ideal 1NT opening - 
+16 points and balanced distribution.
+
+With 12 points, NORTH knows the partnership total is between 27 and 29, enough for game 
+but not enough to think about slam. Since NORTH also has a balanced hand she bids 3NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T74.QT4.K72.K842 KQ82.K96.A94.A65 965.J532.863.J93 AJ3.A87.QJT5.QT7"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has 16 points and balanced distribution. 
+She naturally opens 1NT.
+
+SOUTH has 14 points and balanced distribution so he does the math. 
+The partnership has at least 29 points (14 + 15). 
+The partnership has at most 31 points (14 + 17).
+
+Since this is more than the 26 needed for game, but fewer than the 33 needed for slam 
+SOUTH just bids 3NT, knowing NORTH will respect his decision and pass.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:873.KQ9.T652.T84 AK52.872.943.765 QT4.T643.K87.KQJ J96.AJ5.AQJ.A932"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "S"]
+1NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{When SOUTH opens 1NT, NORTH knows that he cannot have more 
+than 17 points. So with her 7 points, she knows there is no reason to respond.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "5"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:954.A73.QT6.9843 KQJ.QJ95.AJ8.QJT A72.T86.9752.A62 T863.K42.K43.K75"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has a maximum 17 point 1NT opener.
+
+SOUTH has 9 points: 
+- if NORTH has 15 the total is 24, not enough for game. 
+- if NORTH has 17 the total is 26, enough for game. 
+Since SOUTH doesn't know what to do he passes the buck back to NORTH 
+by bidding 2NT; this is an invitation for NORTH to bid game.
+
+NORTH has a maximum 17 point hand so she accepts the invitation.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJ3.T85.KT83.762 T84.K72.Q65.KJ93 Q52.J963.972.A54 A976.AQ4.AJ4.QT8"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{With 9 points NORTH is unable to decide the final contract. If SOUTH has 17 points then the partnership 
+should be playing 3NT. If SOUTH opened with just 15 points then 3NT will be too high..
+
+So NORTH makes the temporizing bid of 2NT. This tells SOUTH that he must make the final call - go on to 
+game if he has maximum, pass if he has minimum. On this Deal SOUTH has 17 points so he bids 3NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "7"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:985.QJ6.KQ73.AJ6 AT6.K98.AJ2.KT95 J73.T542.965.Q32 KQ42.A73.T84.874"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 2NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{This time NORTH has a minimum 1NT opener; a balanced hand with 15 points.
+
+SOUTH has 9 points; he knows that the partnership is somewhere between 
+24 (9 + 15) and 26 (9 + 17). So he invites with a 2NT bid.
+
+NORTH, with a minimum, declines the invitation by passing.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "8"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:AT5.K96.K753.AQ4 J742.85.J42.9873 983.Q742.T986.T6 KQ6.AJT3.AQ.KJ52"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result ""]
+[Auction "S"]
+2NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has a strong hand, 20 points and balanced distribution. 
+It is just right to open 2NT (20-21 points).
+
+NORTH adds her 2 points to SOUTH's promised number of 20 or 21. Since she doesn't reach the 
+magic game number of 26 points she just passes.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "9"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J64.K843.753.432 AT8.AT9.KQT8.K97 Q952.J65.A62.A65 K73.Q72.J94.QJT8"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has an mid-range 1NT opener; a balanced hand with 16 points.
+
+SOUTH has 9 points. He bids 2NT, asking NORTH to pass if she has 15 or bid 3NT if she has 17.
+
+But NORTH has 16 points, which leaves her with no clear choice. 
+In this case she must decide whether her hand is a "good" 16 points or a "poor" 16 points. 
+Since her supporting cards are mostly 10's, 9's and 8's she figures it as "good" 
+and bids 3NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "10"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:843.JT63.AJ2.984 T962.K75.954.KQ6 A75.Q982.763.T52 KQJ.A4.KQT8.AJ73"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has 20 points and 4-4-3-2 distribution, so he opens 2NT.
+
+NORTH has 8 points. She adds SOUTH's 20 or 21 for a total of 28 or 29, enough for game but 
+nowhere close to the slam requirement. So she bids 3NT and SOUTH passes.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "11"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J53.T872.T84.AT9 KQ4.Q95.KQ62.K83 9762.A64.973.654 AT8.KJ3.AJ5.QJ72"]
+[Declarer "N"]
+[Contract "4NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 4NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has a low-range 1NT opener; a balanced hand with 15 points.
+
+SOUTH has 16 points; he figures the partnership holds either 31, 32 or 33. 
+Obviously he wants to at least reach game, but if NORTH holds 17 points he wants to reach slam.
+
+SOUTH bids 4NT. Since this is more than game it should be clear to NORTH that he is asking 
+her to bid 6NT if she is at the top of her range. It is clear to NORTH, but with just 15 points she passes.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "12"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J96.T932.954.QJ8 T84.Q76.KJ3.KT52 K732.AJ4.A82.643 AQ5.K85.QT76.A97"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has a minimum 1NT opening hand - balanced distribution with 15 points.
+
+NORTH has 9 points, which is not enough to bid game, but is worth making an invitational bid. 
+So she says 2NT.
+
+Since SOUTH is minimum he declines the invitation by passing.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "13"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:982.9874.J98.864 QJ4.AK.K76.QJT52 A763.JT52.T32.97 KT5.Q63.AQ54.AK3"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has 17 points, counting 1 for the fifth Club. She has a balanced distribution 
+so she opens 1NT.
+
+SOUTH is also balanced, so he does the math. NORTH has either 15, 16 or 17, and with SOUTH's 
+18 the partnership total is either 33, 34 or 35. That is enough for a small slam, but 
+below the 37 points needed for Grand Slam so he bids 6NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "14"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:863.T432.942.T95 K74.QJ5.KJT.A743 AT52.976.876.J62 QJ9.AK8.AQ53.KQ8"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{The partner who is first sure what the final contract should be should just go ahead and bid it. 
+This is called "She who knows, goes."
+
+In this deal, for example, it is NORTH who knows. She has a balanced 14 points, so when SOUTH indicates 
+20/21 points with his opening 2NT bid she KNOWS the partnership holds about 34/35 points. 
+
+Therefore she GOES to 6NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "15"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:742.J532.54.AT32 AT6.AQ4.KQJT.KJ7 KQJ9.T87.972.Q84 853.K96.A863.965"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has a balanced 20 point hand - ideal to open 2NT.
+
+SOUTH has 7 points; he knows the partnership has either 27 or 28 points so he bids 3NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "16"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QT8.J52.J543.853 764.AK8.KQ.AJT74 J932.Q96.T76.962 AK5.T743.A982.KQ"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{This is another example of "She who knows, goes."
+
+NORTH has a solid 18 points, (1 extra for the fifth Club), so when SOUTH opens 1NT 
+she KNOWS that together they must hold at least 33 points. The may even have 35 points. 
+
+In any case they should be in slam, so NORTH GOES to 6NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "17"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:874.KJ32.T86.762 KJ9.AQ.KQJ95.KT4 AQ52.9764.42.AJ3 T63.T85.A73.Q985"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has 20 points, counting one extra for the fifth Diamond. Just right to open 2NT.
+
+SOUTH has 6 points, just enough to bid 3NT. 
+(20 + 6 = 26) (21 + 6 = 27)}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "18"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:854.Q53.7652.A98 KJ92.A98.QT8.KQJ A76.J742.KJ3.643 QT3.KT6.A94.T752"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+pass pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{After SOUTH passes initially, NORTH opens 1NT.
+
+With 9 points, SOUTH has invitational strength, so he says 2NT. 
+
+NORTH has a small problem - SOUTH's bid tells her to bid 3NT with 17 points, but to pass 
+with 15 points. Her problem is that she has 16! Since it looks to her like a "good" 16 points 
+she bids 3NT. If those 10's and 9's had been 4's and 3's she would have passed.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "19"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T42.J765.432.965 KQ93.KQT.AJ7.QT8 J865.932.Q985.A3 A7.A84.KT6.KJ742"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has a great 1NT hand - 17 points and 4-3-3-3 shape.
+
+SOUTH has 16 points; he figures it is possible that NORTH can make a slam, but only 
+if she has a 17 point opener. So he bids 4NT, expecting NORTH to bid 6NT if she has 17 points 
+but to pass if she has fewer.
+
+He figured right - NORTH had 17 points so she bid 6NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "20"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJ53.J42.JT64.54 K8.AK5.A8.QT9632 T962.T873.973.A7 A74.Q96.KQ52.KJ8"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH definitely does NOT have a balanced hand. She has two doubletons and a 
+6-card Club suit. 
+
+But she DOES have 18 points, (two extra for the fifth and sixth Clubs), and her 18 added to 
+SOUTH's minimum of 15 is enough to bid 6NT.
+
+Notice how easy this will be to play once that Club suit is established.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "21"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:765.K83.QT5.A743 QJT.AJ7.AK62.KQJ A942.QT4.J98.T96 K83.9652.743.852"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result ""]
+[Auction "W"]
+pass 2NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{With 21 points and 4-3-3-3 distribution, NORTH opens 2NT.
+
+SOUTH has just 3 points; he knows that NORTH cannot have more than 21 so the partnership 
+total cannot be more than 24. So he just passes 2NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "22"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJ8.JT86.T98.T96 K53.K53.K53.K753 T976.Q97.QJ7.QJ8 A42.A42.A642.A42"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{This is an easy one to bid.
+
+SOUTH has a balanced 16 points so he opens 1NT.
+
+NORTH has a balanced 12 points so she responds 3NT.
+
+BUT - just look at how this would play. You might only be able to take 8 tricks. 
+Sometimes correct bidding gets you to unmakeable contracts. But it's only a game.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "23"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:Q86.742.985.T543 AJ5.QT93.KQJ.AK6 T943.A86.T63.972 K72.KJ5.A742.QJ8"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "W"]
+pass 2NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{Notrump bidding really is easy, you just add your points to partner's points and then 
+bid according to that answer.
+
+Here SOUTH has 14 points. So when NORTH opens 2NT, showing 20 or 21 points SOUTH knows the 
+total will come to 34 or 35 so he bids 6NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Board "24"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J43.T752.A85.KJ8 AK6.K93.K743.A62 T982.AJ6.JT9.T94 Q75.Q84.Q62.Q753"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result ""]
+[Auction "S"]
+pass pass 1NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH cannot open with only 8 points.
+
+Furthermore, when NORTH opens 1NT SOUTH knows that the partnership has a 25 points at most so 
+he passes again.}
+

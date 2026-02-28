@@ -1,0 +1,106 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-RomanKeyCard
+[Event "Baker Bridge - Roman Key Card Blackwood"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ96.4.KQJ7.AKQ 732.KJ92.A63.T84 A84.A873.T95.752 T5.QT65.842.J963"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+2C pass 2NT pass 3S pass 4S pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{2NT shows a balanced hand with 8+ points, and when NORTH then supports \Ss 
+SOUTH makes a slam try.
+
+SOUTH bids RKC Blackwood 4NT. NORTH shows two Keycards (two Aces) and SOUTH bids 6\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ7.KT742.KJ3.AK T853.96.A86.J653 KJ.QJ85.QT97.Q42 9642.A3.542.T987"]
+[Declarer "S"]
+[Contract "5H"]
+[Result ""]
+[Auction "S"]
+1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{NORTH has a decent Limit Raise, and SOUTH tries RKC Blackwood.
+
+NORTH replies to the 4NT bid with 5\D, zero or three Keycards. 
+So which is it, zero or three?
+
+Pretty simple - since SOUTH holds three Keycards himself NORTH can hardly have three also since there 
+are only five total. She must have zero and SOUTH signs off at 5\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT74.KQJ84.A6.A3 95.A72.JT84.T984 AQ8632.5.KQ7.KQ5 J.T963.9532.J762"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1H pass 1S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{NORTH jumps to 4\S, confident that SOUTH could make 10 tricks 
+even if he just has 6 points.
+
+SOUTH knows he can make more and bids RKCB 4NT.
+
+NORTH's 5\D response shows zero or three Keycards. 
+So which is it? Zero or three?
+
+NORTH bid much too strongly to have no Aces. SOUTH 
+bids a confident 6\S, knowing NORTH has either three Aces or two Aces plus the \SK.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:6.AK9754.6.KQJT3 KJ82.J6.Q973.754 A75.QT83.A854.92 QT943.2.KJT2.A86"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 3H pass 4NT pass 5S pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{With eleven cards in the "round" suits SOUTH has a lot of playing strength. So when NORTH bids 
+a Limit Raise in \Hs SOUTH wants to know about Aces.
+
+RKCBlackwood tells him that NORTH has two Aces plus the trump Queen, so SOUTH can see that 6\H 
+is practically a certainty.}
+

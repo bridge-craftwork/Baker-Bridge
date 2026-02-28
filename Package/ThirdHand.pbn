@@ -1,6 +1,6 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 10:09:15
-%sourcefilename BakerBridge.csv
+%Created: 2026-02-28 08:13:00
+%sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 [Event "Baker Bridge - Third Hand Play"]
 [Board "1"]
@@ -374,7 +374,7 @@ So what happens if you play the \HQ at trick one? South could still make the con
 [Board "11"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:K5.QJ972.AQ6.973 AQ83.T6.752.AKQ5 74.AK4.T984.T842 JT962.853.KJ3.J6"]
+[Deal "W:K5.QJ972.AQ6.973 AJ83.T6.752.AKQ5 74.AK4.T984.T842 QT962.853.KJ3.J6"]
 [Declarer "S"]
 [Contract "3S"]
 [Result ""]

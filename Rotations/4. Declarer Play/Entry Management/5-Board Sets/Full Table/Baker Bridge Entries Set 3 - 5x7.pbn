@@ -1,18 +1,25 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Entries
+[Event "Baker Bridge - Entry Management"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker Entries 11}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A82.AK6.AQJ7.K62 T653.Q74.T8.J953 Q74.J53.6542.QT7 KJ9.T982.K93.A84"]
 [Declarer "N"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:A82.AK6.AQJ7.K62 T653.Q74.T8.J953 Q74.J53.6542.QT7 KJ9.T982.K93.A84"]
+[Result ""]
 [Auction "N"]
 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {North is to play 3NT. East leads the \C3, West plays the \CA.
 
 Winners:   \S=1  \H=2  \D=1  \C=2  Total = 6
@@ -23,25 +30,29 @@ Well, you probably do. East's small \C lead probably indicates an honor, and wit
 
 Assume West now plays a \H. Take your \HA and play a \C to dummy's \CT. Lead a \D and finesse the \DJ, which holds. Play another \C to dummy and finesse another \D. Now play your \DA and smile when the \DK drops and your fourth \D becomes a winner.
 
+As soon as West put up the \CA you knew you could win 2 \C tricks.
+
 By unblocking the \CK you were still pretty confident that you would get the two tricks, but the bonus was in the extra dummy entry your unblock created.}
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [Play "W"]C3
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker Entries 12}
 [Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT983.KJ.K73.AT2 752.T853.AJ952.6 QJ.AQ6.84.QJ9853 A64.9742.QT6.K74"]
 [Declarer "E"]
 [Contract "3NT"]
-[Vulnerable "NS"]
-[Student "S"]
-[Deal "E:KT983.KJ.K73.AT2 752.T853.AJ952.6 QJ.AQ6.84.QJ9853 A64.9742.QT6.K74"]
+[Result ""]
 [Auction "E"]
 1S pass 2C pass 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {East is to play 3NT. South leads the \D5, North plays the \DQ.
 
 Winners:   \S=0  \H=3  \D=1  \C=1  Total = 5
@@ -56,25 +67,29 @@ Win the \DK. Play the \HJ to dummy's \HQ. Play the \CQ and when North follows wi
 
 The \C suit is ready to run, so play your \HK to dummy's \HA and take your \C winners. You took 9 tricks in all, the \DK, the \H A Q and all 6 \Cs.
 
+You started with 3 \H winners, but had to sacrifice one of them to get the second entry to dummy.
+
 Since it gave you all 6 \C tricks the sacrifice was well worth it.}
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [Play "W"]D5
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker Entries 13}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q9.A95.AJ63.AK74 63.KJ742.QT.T983 KJT84.QT3.874.52 A752.86.K952.QJ6"]
 [Declarer "S"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "S:Q9.A95.AJ63.AK74 63.KJ742.QT.T983 KJT84.QT3.874.52 A752.86.K952.QJ6"]
+[Result ""]
 [Auction "S"]
 1D pass 1S pass 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {South is to play 3NT. West leads the \H4, you play low in dummy and East plays the \H8.
 
 Winners:   \S=0  \H=2  \D=1  \C=2  Total = 5
@@ -85,25 +100,29 @@ You are probably getting good at this by now. The way to make sure of a dummy en
 
 After you win the \HA you start on \Ss, and they hold-up their \SA for one round. But you can get to dummy and the rest of the \Ss by leading toward the \HQ.
 
+On these pages there have been many deals where you had to win the opening lead with an unnecessarily high card in order to create a later entry to dummy.
+
 Here's a question: How many times at the table have situations like this presented themselves but you didn't realize it? And of course, at the table there is no second page popping up to tell you what you should have done.}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]H4
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker Entries 14}
 [Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Declarer "W"]
 [Contract "3NT"]
-[Vulnerable "All"]
-[Student "S"]
-[Deal "E:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
-[Auction "E"]
-1D 1NT pass 2NT pass 3NT pass pass pass
 [Result ""]
+[Auction "E"]
+1D pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {West is to play 3NT. North leads the \S9, and South plays the \SK.
 
 Winners:   \S=3  \H=2  \D=1  \C=0  Total = 6
@@ -114,27 +133,31 @@ So let South keep the first trick, (sacrificing one \S winner), and take the nex
 
  You sacrifice one \S trick for four \C tricks. A good deal.
 
+Yet another variation on the theme.
+
 There are two basic types; one where you give up a winner to gain an entry, and this type where you get the entry without giving up a thing.
 
 It looks a little different, but the theme is the same. PROTECT YOUR ENTRY.}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
 [Play "W"]S9
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-{Baker Entries 15}
 [Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K764.K7.KQJ3.AJ2 J9.AT832.975.854 Q52.J5.A642.QT96 AT83.Q964.T8.K73"]
 [Declarer "N"]
 [Contract "3NT"]
-[Vulnerable "NS"]
-[Student "S"]
-[Deal "N:K764.K7.KQJ3.AJ2 J9.AT832.975.854 Q52.J5.A642.QT96 AT83.Q964.T8.K73"]
+[Result ""]
 [Auction "N"]
 1NT pass 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {North is to play 3NT. East leads the \H3, you play dummy's \HJ and West plays the \HQ.
 
 Winners:   \S=0  \H=1  \D=4  \C=1  Total = 6
@@ -147,13 +170,13 @@ So win the \HK and play the \D K Q. If both defenders follow suit you can afford
 
 Enter dummy by playing your \D3 to the \D6 and take your established \C for the ninth trick.
 
+Suppose a defender showed out on the second \D.
+
 With only one outside entry to dummy your choices are limited.
 
 You might play West for \C K x and lead a small to your \CJ, then play \CA.
 
 Or you might try leading the \CQ hoping that West will see this as a time to "cover an honor with an honor".}
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [Play "W"]H3
 
 [Event ""]
@@ -229,7 +252,7 @@ Or you might try leading the \CQ hoping that West will see this as a time to "co
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "E:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
+[Deal "E:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -334,7 +357,7 @@ Or you might try leading the \CQ hoping that West will see this as a time to "co
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "E:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
+[Deal "E:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -439,7 +462,7 @@ Or you might try leading the \CQ hoping that West will see this as a time to "co
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "E:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
+[Deal "E:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -544,7 +567,7 @@ Or you might try leading the \CQ hoping that West will see this as a time to "co
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "E:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
+[Deal "E:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -649,7 +672,7 @@ Or you might try leading the \CQ hoping that West will see this as a time to "co
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "E:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
+[Deal "E:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -754,7 +777,7 @@ Or you might try leading the \CQ hoping that West will see this as a time to "co
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "E:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
+[Deal "E:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]

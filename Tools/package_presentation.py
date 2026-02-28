@@ -27,16 +27,13 @@ def fix_winner_loser_spacing(match):
 
     return f"{label}: {''.join(fixed_parts)}{tail}"
     
-def strip_phrases(file_path, literal_phrases, regex_patterns_to_remove, lesson_name=None):
+def strip_phrases(file_path, regex_control_tags, regex_prompts, literal_fragments, lesson_name=None):
     """
-    Reads the file at file_path and performs the following processing:
-      - Removes all instances of each literal phrase (case-insensitive).
-      - Removes any text matching each regex pattern in regex_patterns_to_remove.
-      - Applies regex substitutions defined in regex_substitutions.
-      - Removes any whitespace immediately to the right of '{'.
-      - Condenses multiple blank lines into single blank lines.
-      - For lines that contain only '{', removes blank lines following it and joins it with the next non-blank line.
-    The cleaned content is written back to the file.
+    Cleans PBN commentary for presentation/rotation use:
+      Pass 1: Remove bridge-classroom control tags (case-sensitive regex).
+      Pass 2: Remove UI prompt sentences (case-insensitive regex).
+      Pass 3: Remove leftover literal fragments (case-insensitive).
+      Cleanup: Whitespace normalization.
     """
     try:
         with open(file_path, 'r') as f:
@@ -44,23 +41,26 @@ def strip_phrases(file_path, literal_phrases, regex_patterns_to_remove, lesson_n
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
         return
-        
+
     # Adjust font size for 100-level lessons
     if lesson_name and "100" in lesson_name:
-        # print(f"Shrinking commentary for lesson {lesson_name}")
         content = content.replace('%Font:Commentary "Georgia",12', '%Font:Commentary "Georgia",10')
-        
+
     # Fix spacing in Winner and Loser counts:
     pattern = r'(Winners|Losers):\s*(\\S\s*=\s*\d+)\s*(\\H\s*=\s*\d+)\s*(\\D\s*=\s*\d+)\s*(\\C\s*=\s*\d+)\s*Total\s*=\s*(\d+)'
     content = re.sub(pattern, fix_winner_loser_spacing, content)
 
-    # Remove literal phrases (case-insensitive)
-    for phrase in literal_phrases:
-        content = re.sub(re.escape(phrase), "", content, flags=re.IGNORECASE)
+    # Pass 1: Remove bridge-classroom control tags (case-sensitive)
+    for pat in regex_control_tags:
+        content = re.sub(pat, "", content)
 
-    # Remove phrases matching regex patterns
-    for pattern in regex_patterns_to_remove:
-        content = re.sub(pattern, "", content)
+    # Pass 2: Remove UI prompt sentences (case-insensitive)
+    for pat in regex_prompts:
+        content = re.sub(pat, "", content, flags=re.IGNORECASE)
+
+    # Pass 3: Remove leftover literal fragments (case-insensitive)
+    for phrase in literal_fragments:
+        content = re.sub(re.escape(phrase), "", content, flags=re.IGNORECASE)
 
     # Remove any whitespace immediately to the right of '{'
     content = re.sub(r'(\{)\s+', r'\1', content)
@@ -71,7 +71,7 @@ def strip_phrases(file_path, literal_phrases, regex_patterns_to_remove, lesson_n
     # For lines that contain only "{" (possibly with spaces), remove any blank lines following it
     # and join it with the next non-blank line.
     content = re.sub(r'(^\s*\{\s*$)\n(?:\s*\n)+(\s*\S)', r'\1 \2', content, flags=re.MULTILINE)
-    
+
     try:
         with open(file_path, 'w') as f:
             f.write(content)
@@ -84,53 +84,69 @@ def main():
     package_dir = os.path.join(base_dir, "Package")
     presentation_dir = os.path.join(base_dir, "Presentation")
 
-    # Define the phrases to remove.
-    # Literal phrases to remove:
-    literal_phrases = [
-        "The bidding has gone as shown.",
-        "Decide what you would say, then click on BID above.",
-        "What do you bid now?",
-        "Make a Plan, then click NEXT. [NEXT]",
-        "Click NEXT for the full deal",
-        "Clickfor the complete deal. ",
-        "Click for the full deal. ",
-        "Clickfor the full deal. ",
-        "Clickfor the complete Deal. ",
-        "Click NEXT to see the result of these plays.",
-        "Click NEXT.",
-        "Click NEXT",
-        " to see all the hands. ",
-        "Click to see the full deal. ",
-        " to see the full deal. ",
-        "Click to see all four hands. ",
-        " to see the complete deal. ",
+    # --- Pass 1: Bridge-classroom control tags (case-sensitive) ---
+    regex_control_tags = [
+        r"\[BID[^\]]*\]",
+        r"\[bid[^\]]*\]",
+        r"\[NEXT\]",
+        r"\[ROTATE\]",
+        r"\[show\s+[A-Z]+\]",
+        r"\[PLAY\s+[^\]]*\]",
+        r"\[RESET\]",
+        r"\[clear-commentary\]",
+        r"\[showcards\]",
+        r"\[choose-card[^\]]*\]",
+    ]
+
+    # --- Pass 2: UI prompt sentences (case-insensitive, after tags stripped) ---
+    regex_prompts = [
+        # "Decide what you would say/bid, then click on BID above." (all variants)
+        r"Decide what you would \w+[^.]*(?:BID|<b>BID</b>)[^.]*\.",
+        # Navigation / action prompts
+        r"Make a Plan[^.]*\.",
+        r"To make South the declarer[^.]*\.",
+        r"Click ROTATE[^.]*\.",
+        r"When you have made your choice[^.]*\.",
+        r"Click\s+NEXT[^.]*\.",
+        r"Click\s+for[^.]*\.",
+        r"Click\s+to\s+see[^.]*\.",
+        r"Click\s*for[^.]*\.",
+        r"Clickfor[^.]*\.",
+        r"Click\s*\.",
+        # Scene-setting prompts
+        r"The bidding has gone as shown\.",
+        r"The bidding is shown\.",
+        r"You are South and it is your bid\.",
+        r"You are the dealer\.",
+        r"You dealt so it is your bid\.",
+        r"It is your bid\.",
+        r"and it is your lead\.",
+        r"and it is your play\.",
+        # Question prompts
+        r"What do you say(?: now)?\?",
+        r"What do you bid(?: now| next)?\?",
+        r"What do you respond\?",
+        r"What do you lead\?",
+    ]
+
+    # --- Pass 3: Leftover fragments (case-insensitive) ---
+    literal_fragments = [
+        "to see all the hands. ",
+        "to see the full deal. ",
+        "to see all four hands. ",
+        "to see the complete deal. ",
         "for the complete deal.",
-        "Click to see the Deal. ",
-        "Click for the Deal. ",
-        "Click",
-        "Clickfor a view of all four hands. ",
-        "Both.  ",
-        "Click to see all hands. ",
+        "for the full deal. ",
+        "for all four hands. ",
+        "for a view of all four hands. ",
         "to see if you made the slam. ",
         "to see all the hands.. ",
         "to see the hands.",
         "to see all hands. ",
-        "for a view of all four hands. ",
-        "to see the full deal. ",
-        " for the full deal. ",
         "to continue.",
-        " for the complete deal. ",
         "to see how things should have played out. ",
-        "for all four hands. ",
         "again for an alternate layout. ",
-        "to see all four hands. "
-    ]
-    # Regex patterns to remove:
-    regex_patterns_to_remove = [
-        r"\[BID.*?\]",
-        r"Decide .*then click on BID above\.",
-        r"\[NEXT\]",
-        r"\[ROTATE\]",
+        "Both.  ",
     ]
 
     # Load the mapping from titles.csv (fields: Lesson, Folder) located in the Package folder
@@ -174,7 +190,7 @@ def main():
                 files_copied += 1
 
                 # Process the copied .pbn file
-                strip_phrases(dst_pbn, literal_phrases, regex_patterns_to_remove, file_base)
+                strip_phrases(dst_pbn, regex_control_tags, regex_prompts, literal_fragments, file_base)
                 # Check for an associated PDF file with the same base name + "_Intro.pdf"
                 pdf_filename = f"{file_base}_Intro.pdf"
                 src_pdf = os.path.join(package_dir, pdf_filename)

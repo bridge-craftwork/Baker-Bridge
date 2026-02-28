@@ -1,25 +1,32 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100Deals
+[Event "Baker Bridge - 100 Miscellaneous Deals"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker 100Deals 29}
 [Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J984.QT3.K92.963 K73.A64.QJT5.A82 T52.J98.64.KQJT4 AQ6.K752.A873.75"]
 [Declarer "N"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "W:J984.QT3.K92.963 K73.A64.QJT5.A82 T52.J98.64.KQJT4 AQ6.K752.A873.75"]
+[Result ""]
 [Auction "W"]
 pass 1D pass 1H pass 1NT pass 3NT pass pass pass
-[Result ""]
-{You are North and it is your bid. Decide what you would say, then  on BID. 
-
-With 14 points you will naturally open the bidding. You should open a 4-card \D suit rather than a 3-card \C suit. Partner responds 1\H.  
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{With 14 points you will naturally open the bidding. You should open a 4-card \D suit rather than a 3-card \C suit. Partner responds 1\H.  
 
 Partner might have bid a 4-card suit so you cannot support \Hs with only 3. Instead, you describe your balanced, minimum opener by bidding 1NT. Partner then bids 3NT and you pass.
 
 North plays 3NT. East leads the \CK.
+
+<b>North plays 3NT. East leads the \CK.</b>
 
 Winners: \S 3 : \H 2 : \D 1 : \C 1 : Total = 7
 
@@ -27,38 +34,34 @@ You need to find 2 more winners and they can come from the \D suit. You can fine
 
 The problem is that if you win the first or second \C and then try the \D finesse West may win and still have a \C to lead back to his partner. So you should hold up the \CA until the third round of the suit. Then if West wins the \DK he may not have another \C.
 
-When West won the \DK he would still have had a \C to return to East's hand. You would have lost 4 \C tricks and the \DK.
+Imagine that you had won either the first or second \C. When West won the \DK he would still have had a \C to return to East's hand. You would have lost 4 \C tricks and the \DK.
 
-But what if West DID have another \C when he won the \DK?
+But what if West <b>DID</b> have another \C when he won the \DK?
 
- to see different West/East hands. 
-
-When West won the \DK  here he had a fourth \C to return to East's hand. That means the \C suit split 4-4 so you would have lost only 3 \C tricks and the \DK.}
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+Suppose you held up until the third \C. When West won the \DK  here he had a fourth \C to return to East's hand. That means the \C suit split 4-4 so you would have lost only 3 \C tricks and the \DK.}
 [Play "W"]CK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker 100Deals 30}
 [Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK8654.J.86.AJ83 J93.A53.AKJT54.6 Q72.KQ86.Q92.KQ7 T.T9742.73.T9542"]
 [Declarer "E"]
 [Contract "4S"]
-[Vulnerable "NS"]
-[Student "S"]
-[Deal "E:AK8654.J.86.AJ83 J93.A53.AKJT54.6 Q72.KQ86.Q92.KQ7 T.T9742.73.T9542"]
+[Result ""]
 [Auction "E"]
 1S 2D 3D pass 4S pass pass pass
-[Result ""]
-{You are East and it is your bid. Decide what you would say, then  on BID. 
-
-You have an easy 1\S opening bid.
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You have an easy 1\S opening bid.
 
 But South overcalls 2\D and partner bids 3\D.
-
-What do you bid next? 
 
 You should be certain to have a partnership agreement on the meaning of a cue-bid after an overcall.
 
@@ -68,89 +71,101 @@ So you bid the \S game.
 
 East plays 4\S. South leads the \DA, then \DK, then \DJ. North discards on the second \D and ruffs the third one with the \ST.
 
+<b>East plays 4\S. South leads the \DA, then \DK, then \DJ. North discards on the second \D and ruffs the third one with the \ST.</b>
+
 Losers: \S 0? : \H 1 : \D 2? : \C 0 : Total = 3?
 
 The loser count looks a little messy - that's because of the circumstances. If you could have just played three rounds of \Ss you would probably have had 0 losers, and if you ruff this \D you will have only 2 \D losers, but maybe create a \S loser.
 
-But though the loser count is confused your plan should not be. You DO NOT over-ruff the \ST. Instead you discard your one \H loser (a loser-on-loser play). North can have this trick but whatever he returns you will win, pull trumps in THREE rounds if necessary, and take the rest of the tricks.
+But though the loser count is confused your plan should not be. You <b>DO NOT</b> over-ruff the \ST. Instead you discard your one \H loser (a loser-on-loser play). North can have this trick but whatever he returns you will win, pull trumps in <b>THREE</b> rounds if necessary, and take the rest of the tricks.
+
+Discarding the \H loser instead of over-ruffing was the winning Plan. If you had over-ruffed you would have lost the \H, but you would also have to lose a trump. You made a good play.
 
 But did you notice that South made a bad play? He should have cashed his \HA before he led the third \D for his partner to ruff. Then when his partner ruffed with the \ST your goose would have been cooked. }
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [Play "W"]DA
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker 100Deals 31}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Declarer "S"]
 [Contract "4S"]
-[Vulnerable "EW"]
-[Student "S"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Result ""]
 [Auction "S"]
 1C pass 1H pass 1S pass 3S pass 4S pass pass pass
-[Result ""]
-{You are North and it is your bid. Decide what you would say, then  on BID. 
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{There is an excellent bidding guideline which tells you how to respond with two 4-card Majors. You bid them "up-the-line". That means you bid 1\H.
 
-There is an excellent bidding guideline which tells you how to respond with two 4-card Majors. You bid them "up-the-line". That means you bid 1\H.
-
-Partner's rebid is 1\S. What do you bid? 
+Partner's rebid is 1\S.  
 
 This hand shows why responder should bid "up-the-line". Partner can now show a 4-card \S suit at the 1-level. Imagine the suits reversed - you first respond with 1\S. If partner wanted to show a \H suit he would have to go to the 2-level, and he might not have the strength to do so.
 
 Back to the actual situation. Over partner's 1\S bid you jump to 3\S. This jump shows about 11-12 points and good \S support (4 cards). In case you thought this showed 13 or more points that wouldn't be logical. If you had 13 points and 4 \Ss you would jump all the way to game. So 3\S is invitational. Partner accepts the invitation.
 
-South would play 4\S.
+North would play 4\S.
 
-North plays 4\S. East leads the \D2. West plays \DJ.
+Click 
+
+South plays 4\S. West leads the \D2. East plays \DJ.
+
+South plays 4\S. West leads the \D2. East plays \DJ.
 
 Losers: \S 1 : \H 0 : \D 2 : \C 2 : Total = 5
 
-Counting losers from the North hand you have 2 \C losers to get rid of. If you had counted from the South hand there would have been 2 \H losers to get rid of. In any case the plan is the same.
+Counting losers from the South hand you have 2 \C losers to get rid of. If you had counted from the North hand there would have been 2 \H losers to get rid of. In any case the plan is the same.
 
-Win the \DA and play \SA and \SK. If the \Ss split 3-2 you are home-free. Leave the master trump out and play your \C A K and dummy's \H A K. Then cross-ruff \Cs and \Hs. Whichever defender holds the last trump is welcome to ruff with it at any time. The defense is also welcome to take their 2 \Ds at any time. Your T tricks are safe.
+Win the \DA and play \SA and \SK. If the \Ss split 3-2 you are home-free. Leave the master trump out and play your \C A K and dummy's \H A K. Then cross-ruff \Cs and \Hs. Whichever defender holds the last trump is welcome to ruff with it at any time. The defense is also welcome to take their 2 \Ds at any time. Your 10 tricks are safe.
 
-South and North were able to make all their small trumps individually.
+This is another example of the general principle to leave a master trump out.
 
-If West ruffs the fourth \H with his master \SQ North just discards a \D loser and makes an overtrick.}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Play "E"]D2
+North and South were able to make all their small trumps individually.
+
+If East ruffs the fourth \H with his master \SQ South just discards a \D loser and makes an overtrick.}
+[Play "W"]D2
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker 100Deals 32}
 [Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT7.984.KT52.JT3 A983.AK7.A986.74 K652.QJT2.Q73.Q8 J4.653.J4.AK9652"]
 [Declarer "W"]
 [Contract "3NT"]
-[Vulnerable "All"]
-[Student "S"]
-[Deal "S:QT7.984.KT52.JT3 A983.AK7.A986.74 K652.QJT2.Q73.Q8 J4.653.J4.AK9652"]
+[Result ""]
 [Auction "S"]
 pass 1NT pass 3NT pass pass pass
-[Result ""]
-{You are West and it is your bid. Decide what you would say, then  on BID. 
-
-You have 15 points and you have a balanced distribution. You should open 1NT. It is true that you do not have \Cs stopped, but you are not required to have a stopper in all the suits to open 1NT. Partner jumps to 3NT and you pass.
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You have 15 points and you have a balanced distribution. You should open 1NT. It is true that you do not have \Cs stopped, but you are not required to have a stopper in all the suits to open 1NT. Partner jumps to 3NT and you pass.
 
 West plays 3NT. North leads the \HQ.
+
+<b>West plays 3NT. North leads the \HQ.</b>
 
 Winner count: \S 1 : \H 2 : \D 1 : \C 2 : Total = 6
 
 In many Notrump hands it is good to hold up to disrupt the defender's communications. In this hand you have a double-stopper in \Hs but only a single stop in \Ss and \Ds so win the first trick.
 
-You need 3 more tricks from the \C suit. As long as the \Cs split 3-2, which is very likely, you can set up the tricks you need. BUT, if you just play \CA \CK and then a small one you'll be sorry. Those extra three \Cs will be established as winners but you will have no entry to them.
+You need 3 more tricks from the \C suit. As long as the \Cs split 3-2, which is very likely, you can set up the tricks you need. <b>BUT</b>, if you just play \CA \CK and then a small one you'll be sorry. Those extra three \Cs will be established as winners but you will have no entry to them.
 
 Instead, you play your \C4 to the second trick and also play a low card from dummy. This is called Ducking the trick. South/North will certainly win that trick, but you are in control. You can win whatever suit they play and you still have that \C7 to reach dummy's solid \Cs.
 
+You can see that with \Cs splitting 3-2 the Duck insures the contract.
+
 But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all be winners, but don't think South is going to let you reach dummy with either of those two Jacks!}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
 [Play "W"]HQ
 
 [Event ""]
@@ -205,7 +220,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -289,7 +304,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -373,7 +388,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -457,7 +472,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -541,7 +556,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -625,7 +640,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -709,7 +724,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -793,7 +808,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "S:A983.AK72.965.83 J6.QT53.KT72.Q95 K752.64.A83.AK64 QT4.J98.QJ4.JT72"]
+[Deal "S:K752.64.A83.AK64 J6.QT53.KT72.Q95 A983.AK72.965.83 QT4.J98.QJ4.JT72"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]

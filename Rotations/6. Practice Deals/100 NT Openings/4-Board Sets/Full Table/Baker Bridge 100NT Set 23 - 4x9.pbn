@@ -1,27 +1,34 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+[Event "Baker Bridge - 100 Notrump Deals"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker 100NT 89}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Declarer "N"]
 [Contract "1NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Result ""]
 [Auction "N"]
 1NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {Here is the question. Is 2\S a better contract than 1NT? If so, you should transfer partner, then pass. If not, you should just pass now. With just a 5-card suit, and with no singleton, pass is probably better.
 
-The contract would be 1NT played by North.
+The contract would be 1NT played by South.
 
-To make South the declarer  ROTATE. 
-
-South plays 1NT. West leads the \HJ and East plays the \HQ.
+North plays 1NT. East leads the \HJ and West plays the \HQ.
 
 Do you hold up or not?
+
+Winner List: \S = 1 : \H = 2 : \D = 1 : \C = 1 :: Total = 5
 
 Outside \Ss you have 6 combined cards in each suit, so you must assume that you aren't any worse off in \Hs than in one of the minors. And, in \Hs you have 2 stops. So don't hold up.
 
@@ -29,127 +36,141 @@ You need 2 additional \S winners, but dummy has but one entry. So?
 
 So you must duck twice. Win the \HK and play a low \S from each hand. A defender will win and probably continue \Hs.
 
-Win the \HA and play another low \S from each hand. West wins and cashes 3 \Hs. He then plays the \CQ. 
+Win the \HA and play another low \S from each hand. East wins and cashes 3 \Hs. He then plays the \CQ. 
 
 You win the \CA and take the \DA and the 3 good \Ss in dummy. The 4 high cards from your hand plus the 3 \S tricks from dummy add up to 7. Hallelujah.
 
+They say 1NT is the hardest contract to make. (whoever <b>THEY</b> are).
+
 But since they may be right you need to be on the lookout for ducking plays because one entry in dummy may be all you are going to have.}
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Play "E"]HJ
+[Play "W"]HJ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker 100NT 90}
 [Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Declarer "E"]
 [Contract "3NT"]
-[Vulnerable "NS"]
-[Student "S"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Result ""]
 [Auction "S"]
 1S pass pass 1NT pass 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {It is good to be a little bold with your overcalls. But with a suit this tattered and only two outside Queens this is not good enough for a 2-level overcall. So you pass. Then you hear partner say 1NT.  
 
 It is good to be a little bold with your overcalls. But with a suit this tattered and only two outside Queens this is not good enough for a 2-level overcall. So you pass. Then you hear partner say 1NT. 
 
 A 1NT overcall shows 15-18 points and a stopper(s) in their suit. With 9 points you invite with 2NT and partner bids the game.
 
-The contract would be 3NT played by East.
+The contract would be 3NT played by West.
 
-To make West the declarer  ROTATE. 
+East plays 3NT. South leads the \SK. Do you hold up twice? Or just once? Or not at all?
 
-West plays 3NT. North leads the \SK. Do you hold up twice? Or just once? Or not at all?
+Winner List: \S = 1 : \H = 1 : \D = 1 : \C = 5 :: Total = 8
 
-You need to find one winner and it seems that it must come from one of dummy's red Queens. You are certain that North has both red Kings for his opening bid, (you and dummy have 26 HCP between you so that only leaves 14). But you also know that North has at least 5 \Ss, so if you lead toward a red Queen North will grab his red King plus 4 \S tricks.
+You need to find one winner and it seems that it must come from one of dummy's red Queens. You are certain that South has both red Kings for his opening bid, (you and dummy have 26 HCP between you so that only leaves 14). But you also know that South has at least 5 \Ss, so if you lead toward a red Queen South will grab his red King plus 4 \S tricks.
 
 Does that resolve the holdup question for you? 
 
-Yes. You hold up ONCE, and take the \SA at trick 2. Next you play \C K Q J to strip North of that suit. Then play the \ST to throw North into the lead.
+Yes. You hold up <b>ONCE</b>, and take the \SA at trick 2. Next you play \C K Q J to strip South of that suit. Then play the \ST to throw South into the lead.
 
 He can take his other 3 \S winners, but after that he must lead a red card. Of course you confidently put up dummy's Queen which will be your ninth trick.
 
-Here you couldn't afford to hold up twice because then you would not have a throw in card left to put North on lead. 
+Hold ups are designed to disrupt enemy communication.
 
-But you had to hold up on the first trick to make sure South couldn't gain entry in the suit.
+Here you couldn't afford to hold up twice because then you would not have a throw in card left to put South on lead. 
 
-By the way, if North had a 6-card suit this plan wouldn't work. But then, no other plan would either.}
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Play "E"]SK
+But you had to hold up on the first trick to make sure North couldn't gain entry in the suit.
+
+By the way, if South had a 6-card suit this plan wouldn't work. But then, no other plan would either.}
+[Play "W"]SK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker 100NT 91}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AT85.KQ74.AQJ.KJ J3.J952.K65.A852 K972.6.743.QT743 Q64.AT83.T982.96"]
 [Declarer "S"]
 [Contract "4S"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "S:AT85.KQ74.AQJ.KJ J3.J952.K65.A852 K972.6.743.QT743 Q64.AT83.T982.96"]
+[Result ""]
 [Auction "S"]
 2NT pass 3C pass 3H pass 3NT pass 4S pass pass pass
-[Result ""]
-{When you have 4 cards in both Majors you respond 2\H to a Stayman request. Partner now bids 3NT.  What do you bid? 
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{When you have 4 cards in both Majors you respond 2\H to a Stayman request. Partner now bids 3NT.   
 
-When you have 4 cards in both Majors you respond 2\H to a Stayman request. Partner now bids 3NT.  What do you bid? 
+When you have 4 cards in both Majors you respond 2\H to a Stayman request. Partner now bids 3NT.   
 
 Partner denies having 4 \Hs so he must have 4 \Ss (or he would not have used Stayman). You correct the contract to4\S.
 
-East grabs the opening lead with the \HA and plays the \DT.
+South plays 4\S. West leads the \H2. East grabs the opening lead with the \HA and plays the \D10.
+
+Loser List: \S = 1 : \H = 1 : \D = 1 : \C = 1 :: Total = 4
 
 The \S, \H and \C losers are inevitable so you'd better not lose a \D. Even though East has returned a \D it is still possible that he holds the \DK so the finesse has a chance of working. Let's say a 50% chance. Do you take it? 
 
-No, of course not. Not when you have a play that offers almost a T0% chance. Win the \DA, play \SK, \SA, then \H K Q, discarding dummy's 2 \D losers.  
+No, of course not. Not when you have a play that offers almost a 100% chance. Win the \DA, play \SK, \SA, then \H K Q, discarding dummy's 2 \D losers.  
 
 With one master trump still out you start on the \Cs, playing first the \CK, then overtake the \CJ with dummy's \CQ. The defense is welcome to take their \CA whenever they want, and they are also welcome to their trump trick. You are so gracious because you have your ten tricks!
 
+Half the time the \DK will be with East, and the inferior plan of taking the finesse will work. On those Deals your superior plan shows no payoff.
+
 But the other 50% of the time West will have the \DK. On those Deals you get your just reward.}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]H2
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker 100NT 92}
 [Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Declarer "W"]
 [Contract "3NT"]
-[Vulnerable "All"]
-[Student "S"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Result ""]
 [Auction "W"]
 1NT pass 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {You do have 9 points, of a sort anyway. Hoping your \C suit will be of use, you invite with 2NT. Partner says 3NT.
 
-The contract would be 3NT played by West.
+The contract would be 3NT played by East.
 
-To make East the declarer  ROTATE. 
+West plays 3NT. North leads the \SQ, South following with the \S2. Do you hold up or not?
 
-East plays 3NT. South leads the \SQ, North following with the \S2. Do you hold up or not?
+Winner List: \S = 2 : \H = 1 : \D = 1 : \C = 1 :: Total = 5
 
 No, don't hold up. At least you have \Ss stopped twice, your other suits are stopped only once.
 
-Realizing that your only hope is for a bunch of \C tricks you win the \SK and play the \CQ. South covers with the \CK. What do you do? 
+Realizing that your only hope is for a bunch of \C tricks you win the \SK and play the \CQ. North covers with the \CK. What do you do? 
 
 If you win with dummy's \CA, and if the \Cs split 2-2, you can win 7 \C tricks and 4 other high cards. Wow! 
 
 But if it turns out that the \CK was singleton you will win just TWO \C tricks because dummy has no other entries. 
 
-So if you feel like gambling, go up with the \CA. But if you like the idea of a guaranteed contract let South hold the \CK, and you make sure of the six other \Cs.
+So if you feel like gambling, go up with the \CA. But if you like the idea of a guaranteed contract let North hold the \CK, and you make sure of the six other \Cs.
+
+This Deal is not a "made up" one, it was actually played at our Monday Duplicate game in May 2012.
 
 The play went exactly as shown above. When her LHO played the \CK our declarer ducked in dummy and made the contract.}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Play "E"]SQ
+[Play "W"]SQ
 
 [Event ""]
 [Site ""]
@@ -161,7 +182,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "NS"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -182,7 +203,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -224,7 +245,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -245,7 +266,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -266,7 +287,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -308,7 +329,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -329,7 +350,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -350,7 +371,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -392,7 +413,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "EW"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -413,7 +434,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -434,7 +455,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -476,7 +497,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -497,7 +518,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "NS"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -518,7 +539,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -560,7 +581,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -581,7 +602,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -602,7 +623,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -644,7 +665,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -665,7 +686,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -686,7 +707,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -728,7 +749,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "EW"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -749,7 +770,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:A7542.653.T65.84 Q8.JT984.K872.QT 963.AK2.A43.A752 KJT.Q7.QJ9.KJ963"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -770,7 +791,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "S:KQJ63.K94.KJT.T5 AT2.A83.A75.KQJ4 974.JT72.9643.72 85.Q65.Q82.A9863"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -812,7 +833,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "W:73.65.J2.AJ98743 QJT8.J732.K974.K AK5.A984.A863.Q5 9642.KQT.QT5.T62"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]

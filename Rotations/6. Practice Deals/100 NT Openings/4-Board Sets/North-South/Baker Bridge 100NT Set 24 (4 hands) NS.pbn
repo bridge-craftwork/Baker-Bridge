@@ -1,115 +1,134 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+[Event "Baker Bridge - 100 Notrump Deals"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker 100NT 93}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8752.AK.AJ3.A642 Q.Q9862.95.KQJ93 AT43.73.KQ8742.7 KJ96.JT54.T6.T85"]
 [Declarer "N"]
 [Contract "4S"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:AT43.73.KQ8742.7 Q.Q9862.95.KQJ93 8752.AK.AJ3.A642 KJ96.JT54.T6.T85"]
+[Result ""]
 [Auction "N"]
 1NT pass 2C pass 2S pass 4S pass pass pass
-[Result ""]
-{It is tempting to just bid 3NT and hope the \Ds come in. But not when you have a 4-card Major suit. Instead you bid a Stayman 2\C. Partner says 2\S; what do you bid next? 
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{It is tempting to just bid 3NT and hope the \Ds come in. But not when you have a 4-card Major suit. Instead you bid a Stayman 2\C. Partner says 2\S;  
 
-It is tempting to just bid 3NT and hope the \Ds come in. But not when you have a 4-card Major suit. Instead you bid a Stayman 2\C. Partner says 2\S; what do you bid next?
+It is tempting to just bid 3NT and hope the \Ds come in. But not when you have a 4-card Major suit. Instead you bid a Stayman 2\C. Partner says 2\S; 
 
 Well, he has 4 \Ss. That's why you used Stayman so you bid 4\S.
 
-The contract would be 4\S played by North.
+The contract would be 4\S played by South.
 
-To make South the declarer  ROTATE. 
+North plays 4\S. East leads the \CK. Seeing 10 top tricks sort of makes you wish you had just bid 3NT.
 
-South plays 4\S. West leads the \CK. Seeing T top tricks sort of makes you wish you had just bid 3NT.
+Loser List: \S = 2/3/4 : \H = 0 : \D = 0 : \C = 0 :: Total = 2/3/4
 
-Missing 5 \Ss, the most likely split is 3-2, (68% of the time). You win the \CA and play a small \S toward dummy. West puts on the \SQ which you take with dummy's \SA, East following with the \S6.
+Missing 5 \Ss, the most likely split is 3-2, (68% of the time). You win the \CA and play a small \S toward dummy. East puts on the \SQ which you take with dummy's \SA, West following with the \S6.
 
 Do you play \Ss again? or not? 
 
-Not. With both defenders following suit, the possibility of 4 \S losers is gone so you can lose at most 3. But that \SQ from West is ominous. If you play another \S and they do split 3-2 you will make 11 tricks, losing only 2 trumps. But if East has 3 \Ss left he will win the trick, pull all the rest of the trumps, and lead a \C to West.
+Not. With both defenders following suit, the possibility of 4 \S losers is gone so you can lose at most 3. But that \SQ from East is ominous. If you play another \S and they do split 3-2 you will make 11 tricks, losing only 2 trumps. But if West has 3 \Ss left he will win the trick, pull all the rest of the trumps, and lead a \C to East.
 
 The guaranteed way to make the contract is to play no more \Ss, but to start playing \D winners. The defenders can make their 3 trump tricks but you maintain control of the hand.
+
+As you see, playing a second trump would have been disastrous.
 
 But with a different distribution, (3-2), playing the second trump would have been great. 
 
 Considering probabilities it looks like this. If you play the second trump you will make 2 overtricks about 70% of the time, but you will go down 4 about 30% of the time.
 
-If you stop with the \Ss and start running \Ds you will make your contract T0% of the time but will never make an overtrick. }
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Play "E"]CK
+If you stop with the \Ss and start running \Ds you will make your contract 100% of the time but will never make an overtrick. }
+[Play "W"]CK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker 100NT 94}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ3.A5.AK82.Q832 974.J972.QT.AK65 KT62.KQT863.5.74 A85.4.J97643.JT9"]
 [Declarer "S"]
 [Contract "4H"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:QJ3.A5.AK82.Q832 974.J972.QT.AK65 KT62.KQT863.5.74 A85.4.J97643.JT9"]
+[Result ""]
 [Auction "N"]
 1NT pass 2C pass 2D pass 4H pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {Yes, you have a 6-card \H suit. But you also have 4 \Ss, so you start with a Stayman 2\C.
 
-Partner says 2\D; what do you bid? 
+Partner says 2\D;  
 
 Yes, you have a 6-card \H suit. But you also have 4 \Ss, so you start with a Stayman 2\C.
 
-Partner says 2\D; what do you bid?
+Partner says 2\D; 
 
 OK, no 4-4 \S fit. But partner has at least 2\H so you know you have an 8-card (or better) fit there. With 10 points you have to decide whether to invite or insist, and you like the looks of this hand so you bid 4\H.
 
-You play low from dummy and West continues with \CT, then \C9 which you ruff.
+South plays 4\H. West leads the \CJ. You play low from dummy and West continues with \CT, then \C9 which you ruff.
+
+Loser List: \S = 1 : \H = ? : \D = 0 : \C = 2 :: Total = 3 + ?
 
 You don't expect a trump loser, and obviously you cannot afford to have one.
 
 So after ruffing the third \C you play \HA, then \HQ. Aargh! West discards a \D on the second trump. 
 
-East has left the \H J 9 while you have the \H Q T 8. If only dummy had another \H you could finesse East's \HJ, but, alas, dummy has none. Can you see another way to accomplish the finesse? 
+East has left the \H J 9 while you have the \H Q 10 8. If only dummy had another \H you could finesse East's \HJ, but, alas, dummy has none. Can you see another way to accomplish the finesse? 
 
-If you could manage to be in dummy after trick 11, and have nothing in your hand but the \H Q T, while East had nothing in his hand but the \H J 9 you would have him. But to accomplish this you must use up your \H8 beforehand.
+If you could manage to be in dummy after trick 11, and have nothing in your hand but the \H Q 10, while East had nothing in his hand but the \H J 9 you would have him. But to accomplish this you must use up your \H8 beforehand.
 
 You enter dummy with a \D, then play a small \D and ruff with your \H8. Then play your \SK. West wins this and assume he plays another \S.  
 
 Win the \S in dummy, then play \DK, and the other \S winner. If East has to follow to all these then you will have accomplished your objective; East will be down to \H J 9 and will have to ruff trick 12 with one of them - which you will over-ruff.
 
- for the full layout. 
+One possibility was not mentioned earlier.
 
-When you played a third \D to ruff with your \H8, East COULD have ruffed this. If he had, it would have handed you your contract since you could over-ruff and take care of your trump problem immediately.
+When you played a third \D to ruff with your \H8, East <b>COULD</b> have ruffed this. If he had, it would have handed you your contract since you could over-ruff and take care of your trump problem immediately.
 
 By the way, ruffing a card to purposely shorten your trump holding is called a Trump Coup.}
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]CJ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker 100NT 95}
 [Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A72.K5.KJ63.AQ72 KQJ963.JT.QT9.94 T5.AQ63.8542.KJ8 84.98742.A7.T653"]
 [Declarer "N"]
 [Contract "3NT"]
-[Vulnerable "EW"]
-[Student "S"]
-[Deal "N:A72.K5.KJ63.AQ72 KQJ963.JT.QT9.94 T5.AQ63.8542.KJ8 84.98742.A7.T653"]
+[Result ""]
 [Auction "N"]
 1NT 2S 3S pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {Partner's cue-bid is the lebensohl version of Stayman, in this case promising 4 \Hs. Since it is an immediate cue-bid it denies a \S stopper.
 
 You are forced to bid and you don't have 4 \Hs. 
 
-But you DO have a \S stopper so you decide bid 3NT.
+But you <b>DO</b> have a \S stopper so you decide bid 3NT.
+
+North plays 3NT. East leads the \SK.
 
 You hold up your \SA until the third round; East started with 6 \Ss.
+
+Winner List: \S = 1 : \H = 3 : \D = 0 : \C = 4 :: Total = 8
 
 You need just one more winner. It cannot come from either \Cs or \Ss. Unless a defender foolishly discards a \H it can't come from that suit. Which means you have to win a \D trick.
 
@@ -117,40 +136,44 @@ So after winning the \SA, you play a \C to dummy's \CK, then lead a small \D tow
 
 At first this looks like the classic King / Jack guess situation where you try to figure out if East is more likely to have the Ace or the Queen.
 
-But it isn't like that at all. If East has the \DA then he will take it no matter which \D you play, and will defeat you with 1 \D and 5 \S tricks. Your ONLY chance to make this contract is for West to hold the \DA. So you play the \DK, then you . . .
+But it isn't like that at all. If East has the \DA then he will take it no matter which \D you play, and will defeat you with 1 \D and 5 \S tricks. Your <b>ONLY</b> chance to make this contract is for West to hold the \DA. So you play the \DK, then you . . .
 
-. . .  to see if you make the contract or not. 
+. . .  
+
+Lucky you, West did have the \DA.
 
 Smart you, if you had played the \DJ you'd be down 2.}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [Play "W"]SK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker 100NT 96}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K5.A64.962.AKQ63 J9.QJ973.Q84.T74 A87632.8.KT5.982 QT4.KT52.AJ73.J5"]
 [Declarer "S"]
 [Contract "4S"]
-[Vulnerable "All"]
-[Student "S"]
-[Deal "S:A87632.8.KT5.982 J9.QJ973.Q84.T74 K5.A64.962.AKQ63 QT4.KT52.AJ73.J5"]
+[Result ""]
 [Auction "S"]
 1NT pass 2H pass 2S pass 3S pass 4S pass pass pass
-[Result ""]
-{You have an invitational strength hand with a 6-card Major suit. It's a no-brainer; you transfer with a 2\H bid. Partner says 2\S; what do you bid next? 
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{You have an invitational strength hand with a 6-card Major suit. It's a no-brainer; you transfer with a 2\H bid. Partner says 2\S;  
 
-You have an invitational strength hand with a 6-card Major suit. It's a no-brainer; you transfer with a 2\H bid. Partner says 2\S; what do you bid next?
+You have an invitational strength hand with a 6-card Major suit. It's a no-brainer; you transfer with a 2\H bid. Partner says 2\S; 
 
-Repeat: You have an invitational strength hand with a 6-card Major suit. So you invite with 3\Ss. Partner accepts with 4\S.
+Repeat: You have an <b>invitational</b> strength hand with a <b>6-card</b> Major suit. So you invite with 3\Ss. Partner accepts with 4\S.
 
-The contract would be 4\S played by South.
+The contract would be 4\S played by North.
 
-To make North the declarer  ROTATE. 
+South plays 4\S. West leads the \HQ. Of course you take the \HA.
 
-North plays 4\S. East leads the \HQ. Of course you take the \HA.
+Loser List: \S = 1/2/3 : \H = 0 : \D = 3 : \C = 0 :: Total = 4/5/6
 
 Missing 5 \Ss, the most likely split is 3-2, (68% of the time). You win the \HA then play \SK and \SA, both defenders following to both leads but the \SQ is still out there.
 
@@ -160,10 +183,10 @@ Usually it is a good idea to leave a master trump un-pulled and go about your bu
 
 So play one more \S and they are doomed.
 
+Master trump outstanding: To pull or not to pull, that is the question.
+
 Almost always the answer is "not to pull". 
 
 The big exception is when you have a running suit in one hand but with no outside entries to it. A hand exactly like this one.}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Play "E"]HQ
+[Play "W"]HQ
 

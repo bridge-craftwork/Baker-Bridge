@@ -1,18 +1,25 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Entries
+[Event "Baker Bridge - Entry Management"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker Entries 13}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q9.A95.AJ63.AK74 63.KJ742.QT.T983 KJT84.QT3.874.52 A752.86.K952.QJ6"]
 [Declarer "S"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "S:Q9.A95.AJ63.AK74 63.KJ742.QT.T983 KJT84.QT3.874.52 A752.86.K952.QJ6"]
+[Result ""]
 [Auction "S"]
 1D pass 1S pass 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {South is to play 3NT. West leads the \H4, you play low in dummy and East plays the \H8.
 
 Winners:   \S=0  \H=2  \D=1  \C=2  Total = 5
@@ -23,25 +30,29 @@ You are probably getting good at this by now. The way to make sure of a dummy en
 
 After you win the \HA you start on \Ss, and they hold-up their \SA for one round. But you can get to dummy and the rest of the \Ss by leading toward the \HQ.
 
+On these pages there have been many deals where you had to win the opening lead with an unnecessarily high card in order to create a later entry to dummy.
+
 Here's a question: How many times at the table have situations like this presented themselves but you didn't realize it? And of course, at the table there is no second page popping up to tell you what you should have done.}
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]H4
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker Entries 14}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
 [Declarer "S"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:QJT.AK62.AT86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KJ3.864"]
-[Auction "N"]
-1D 1NT pass 2NT pass 3NT pass pass pass
 [Result ""]
+[Auction "N"]
+1D pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {South is to play 3NT. West leads the \S9, and East plays the \SK.
 
 Winners:   \S=3  \H=2  \D=1  \C=0  Total = 6
@@ -52,27 +63,31 @@ So let East keep the first trick, (sacrificing one \S winner), and take the next
 
  You sacrifice one \S trick for four \C tricks. A good deal.
 
+Yet another variation on the theme.
+
 There are two basic types; one where you give up a winner to gain an entry, and this type where you get the entry without giving up a thing.
 
 It looks a little different, but the theme is the same. PROTECT YOUR ENTRY.}
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]S9
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker Entries 15}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K764.K7.KQJ3.AJ2 J9.AT832.975.854 Q52.J5.A642.QT96 AT83.Q964.T8.K73"]
 [Declarer "S"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "S:K764.K7.KQJ3.AJ2 J9.AT832.975.854 Q52.J5.A642.QT96 AT83.Q964.T8.K73"]
+[Result ""]
 [Auction "S"]
 1NT pass 2NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {South is to play 3NT. West leads the \H3, you play dummy's \HJ and East plays the \HQ.
 
 Winners:   \S=0  \H=1  \D=4  \C=1  Total = 6
@@ -85,29 +100,33 @@ So win the \HK and play the \D K Q. If both defenders follow suit you can afford
 
 Enter dummy by playing your \D3 to the \D6 and take your established \C for the ninth trick.
 
+Suppose a defender showed out on the second \D.
+
 With only one outside entry to dummy your choices are limited.
 
 You might play East for \C K x and lead a small to your \CJ, then play \CA.
 
 Or you might try leading the \CQ hoping that East will see this as a time to "cover an honor with an honor".}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]H3
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker Entries 16}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ98.852.AK62.K9 64.9764.Q95.QT84 QT7.K3.8743.AJ65 K532.AQJT.JT.732"]
 [Declarer "S"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "S:AJ98.852.AK62.K9 64.9764.Q95.QT84 QT7.K3.8743.AJ65 K532.AQJT.JT.732"]
+[Result ""]
 [Auction "S"]
 1NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
 {South is to play 3NT. West leads the \C4, you play dummy's \C5 and East plays the \C7.
 
 Winners:   \S=1  \H=0  \D=2  \C=3  Total = 6
@@ -116,10 +135,10 @@ You'd really like to find 3 winners without broaching that \H suit, so you decid
 
 Don't win the first trick with the \C9, win with the \CK. Then at trick two enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure West has led from the \CQ so you expect this to work. Then play the \ST, underplaying your \S8. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
 
+This is another twist on the them of winning with a higher card than necessary.
+
 Here it doesn't actually create an extra entry, it just preserves the one entry you have but saves you an actual trick.
 
 Here is an interesting point. Suppose that West's opening lead had been a \H and East had taken the first four \H tricks then played a \D. You would have played the hand the same way! Take the \CK, then finesse the \CJ.}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]C4
 

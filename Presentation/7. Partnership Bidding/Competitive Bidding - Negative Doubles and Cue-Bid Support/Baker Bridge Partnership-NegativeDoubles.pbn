@@ -1,0 +1,536 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 15:15:52
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T4.JT92.QT52.873 AKJ7.87.976.KQ54 853.Q64.AKJ3.JT9 Q962.AK53.84.A62"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1C 1D X pass 1S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has both Majors and planned on bidding 1\H first, (up-the-line). 
+But EAST's overcall gave SOUTH the opportunity to bid both Majors at the same time! Since the 
+Negative Double promises both Majors it was like SOUTH could bid 1\H\S.
+
+NORTH has \Ss so she bids 1\S, showing a minimum opener.
+
+SOUTH has 13 points and the \S fit so he bids game.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T54.Q64.T843.A96 AK62.AT93.97.Q82 J83.K52.QJ52.753 Q97.J87.AK6.KJT4"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1C 1D X pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has 13 points and four cards in both \Hs and \Ss. Rather 
+than bid one of them she makes a Negative Double, promising four cards in EACH of them. It's like 
+she was able to bid 1\H\S.
+
+SOUTH doesn't have four cards in either Major, but with a \D stopper he bids 1NT.
+
+NORTH happily bids 3NT.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:85.T643.KJT3.T87 AKJ7.87.976.KQ54 T43.QJ92.AQ52.J9 Q962.AK5.84.A632"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1C 1D 1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH cannot respond with a Negative Double on this hand because he has only three 
+\Hs.
+
+Instead he just bids his 4-card Major, 1\S.
+
+NORTH shows 4-card support with a minimum opener by bidding 2\S and SOUTH 
+has enough strength to bid game.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J74.Q53.J52.JT93 K9.862.AK63.KQ75 Q86.K974.QT4.642 AT532.AJT.987.A8"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1S 2H X pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has 15 points, and when West overcalls 2\H in front 
+of her she has a perfect Negative Double - showing both of the Minor suits.
+
+SOUTH doesn't like the Minor suits, but he has stoppers in \Hs, so 
+he bids 2NT.
+
+NORTH is more than happy to raise to 3NT.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:7543.83.T972.J93 9.KQJ7.AK6.AQT54 AKQJ2.T5.QJ53.87 T86.A9642.84.K62"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1C 1S X pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH would have responded 1\H if EAST had not overcalled. 
+But with only 8 points he cannot bid at the 2-level. The Negative Double solves his problem, 
+giving this information to partner.
+
+NORTH has good \Hs and enough points to bid game. 
+Notice that if EAST had remained silent, SOUTH would have responded 1\H, 
+and NORTH would have jumped to game.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J43.AQ64.JT5.A63 AK62.93.972.Q982 Q85.JT52.Q843.75 T97.K87.AK6.KJT4"]
+[Declarer "S"]
+[Contract "2C"]
+[Result ""]
+[Auction "S"]
+1C 1H X pass 1NT pass 2C pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has four \Ss, so instead of bidding them she makes a Negative Double.
+
+SOUTH knows there is no 8-card fit in \Ss, but he does have \Hs 
+stopped. He bids 1NT.
+
+NORTH has 9 points and with four \Cs she goes back to that suit and SOUTH passes.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "7"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:J5.QT65.T843.A87 AK632.93.972.Q92 T84.AK42.QJ5.653 Q97.J87.AK6.KJT4"]
+[Declarer "N"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+1C 1H 1S pass 2S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{Compare this hand with Deal 6. 
+NORTH has five \Ss, this time so she bids 1\S.
+
+SOUTH knows there IS an 8-card fit in \Ss, so he bids 2\S.
+
+NORTH has 10 points so she passes.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "8"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KJ84.52.J852.Q83 A52.AQT93.97.AJ2 QT63.J6.AT43.765 97.K874.KQ6.KT94"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+pass 1H 1S 2S pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has 11/12 points, a Limit Raise in \Hs. So after the overcall 
+he makes a Support Cue-bid of 2\S.
+
+NORTH adds her 16 to the 11 that SOUTH has promised as a minimum and goes straight 
+to 4\H.
+
+If SOUTH had significantly more than 11 he could bid on, but in this case he should happily pass.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "9"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AKJ4.J5.AK32.J73 852.AQT93.97.AQ2 QT63.62.QJ54.865 97.K874.T86.KT94"]
+[Declarer "N"]
+[Contract "3H"]
+[Result ""]
+[Auction "W"]
+pass 1H 1S 3H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{Compare this with Deal 8.
+
+SOUTH has 7 points, barely enough for a 2\H raise if there had been no overcall.
+But when EAST puts in the \S bid, SOUTH can jump to 3\H as a preemptive 
+measure. He knows NORTH won't think he has strength because he did not make a Support Cue-bid.
+
+NORTH does know it and passes 3\H.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "10"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:J5.JT5.AKJ85.Q63 Q862.AK93.97.A82 T4.Q872.QT42.975 AK973.64.63.KJT4"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1D 1S pass 2D pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has the strength for a raise to game in \Ss, but this could be dangerous since SOUTH 
+has overcalled rather than opened. Instead, NORTH shows her strength with a Support Cue-bid.
+
+SOUTH in fact had a pretty good overcall so he jumps to 3\S and NORTH bids the game.
+
+With a weak overcall SOUTH would have just returned to 2\S which NORTH would pass.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "11"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "W:J5.QJT.KJT8.QJ94 Q862.AK93.97.A82 T4.872.A6542.KT5 AK973.654.Q3.763"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "E"]
+1D 1S pass 2D pass 2S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{Compare this to Deal 10.
+
+NORTH has the strength for a raise to game in \Ss, but this could be dangerous since SOUTH 
+has overcalled rather than opened. Instead, NORTH shows her strength with a Support Cue-bid.
+
+SOUTH has very minimal overcall so he just bids 2\S which NORTH passes.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "12"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KJT6.64.953.7432 Q75.QJ93.AT82.Q8 A9432.52.76.JT95 8.AKT87.KQJ4.AK6"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H 1S 2S pass 4NT pass 5D pass 6H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has a maximum 1\H opening bid.
+
+NORTH would have made a Limit Raise in \Hs, but after WEST's overcall she 
+makes a Support Cue-bid instead.
+
+SOUTH thinks there may be a slam and bids 4NT Blackwood to check for Aces. When NORTH admits to one Ace 
+SOUTH bids the slam.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "13"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:853.K964.Q52.K53 KQJ7.T7.A976.AT4 AT94.852.KT3.Q76 62.AQJ3.J84.J982"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result ""]
+[Auction "N"]
+1D 1S X pass 1NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has 9 points a a \H suit - good enough to make a 
+Negative Double over EAST's 1\S overcall. 
+
+But NORTH doesn't have \Hs, she has \Ss and \Ds, so she bids 1NT to show 
+her \S stopper and a minimum opener.
+
+SOUTH should pass.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "14"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:83.KQT2.QJ5.AQJ6 AK642.93.T97.982 JT5.A654.432.753 Q97.J87.AK86.KT4"]
+[Declarer "N"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+1D 1H 1S pass 2S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{With five \Ss NORTH bids the suit rather than making a negative double.
+
+SOUTH knows this shows a 5-card suit so he can support with only three \Ss.
+
+NORTH doesn't have anything extra so she passes 2\S.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "15"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q83.T2.JT93.J973 AJ7.K987.KQ76.54 T54.J64.A52.KQT8 K962.AQ53.84.A62"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1D 2C X pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has both Majors and planned on bidding 1\H first, (up-the-line). 
+After EAST's overcall, SOUTH makes a Negative Double, showing both Majors and at least 10 points to 
+make a 2-level Negative Double.
+
+NORTH bids 2\H, showing a 4-card suit and minimum opening hand. Notice 
+that this is not a Reverse by NORTH, showing extra strength. She is not really bidding 
+\Hs on her own, she is supporting partner's suit.
+
+SOUTH has 13 points so he bids 4\H.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "16"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:T9.KJ54.K974.A92 AK82.963.JT.8653 643.AQT2.532.Q74 QJ75.87.AQ86.KJT"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+1D 1H X 2H 2S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has 8 points and she makes a Negative Double of the \H overcall 
+to show exactly four \Ss.
+
+SOUTH also has four \Ss so he bids 2\S at his turn to show a minimum.
+
+NORTH is happy to pass.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "17"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:Q643.52.JT84.A85 T2.KQJ76.AQ5.963 AK97.93.7632.T74 J85.AT84.K9.KQJ2"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H 1S 2S pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH's Support Cue-bid shows at least Limit Raise strength and \H support.
+
+NORTH has a minimum opening bid and can only return to 3\H.
+
+SOUTH actually has better than the 12 points he promised, so he now bids 4\H.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "18"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:KQJ4.542.A65.975 862.63.KQ97.AQ82 AT53.QT9.JT82.63 97.AKJ87.43.KJT4"]
+[Declarer "S"]
+[Contract "3C"]
+[Result ""]
+[Auction "S"]
+1H 2S X pass 3C pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has a 11 points with both Minors and she doesn't want to sell out to WEST's 2\S. 
+So she makes a Negative Double, effectively bidding both minors at once.
+
+SOUTH has four \Cs so he bids the suit at the minimum level and NORTH passes.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "19"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:8.J942.8763.9743 AQJ752.AKQ7.K2.8 64.T83.QJT95.AKT KT93.65.A4.QJ652"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1S 2D 3D pass 4NT pass 5D pass 6S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH makes a Support Cue-bid of 2\D to show his Limit Raise in \Ss.
+
+NORTH thinks slam and bids Blackwood to make sure they aren't off two Aces.
+
+SOUTH says he has one so NORTH bids the slam.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "20"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:A742.T65.T98.763 8.AJ93.KQ52.QJ82 KQJT6.42.A764.T9 953.KQ87.J3.AK54"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1C 2S X pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH can't bid 3\H because that would show a 5-card suit. 
+Instead she makes a Negative Double.
+
+SOUTH has four \Hs and he now bids them. 
+
+NORTH has 13 points so she bids 4\H.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "21"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:94.K9654.T93.875 QJ83.87.A76.KQJ4 A72.AQT3.QJ82.T9 KT65.J2.K54.A632"]
+[Declarer "N"]
+[Contract "3S"]
+[Result ""]
+[Auction "N"]
+1C 1H X pass 1S pass 3S pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH makes a Negative Double rather than responding 1\S to indicate he has just a 4-card suit.
+
+NORTH has four \Ss so she bids 1\S, showing a minimum opener.
+
+With 11 points SOUTH makes an invitational bid of 3\S but NORTH declines the invitation by passing.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "22"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:QJ86.T4.AKJ3.975 A5.KQJ82.742.Q82 KT43.975.QT95.T3 972.A63.86.AKJ64"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1C 1S 2H pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has 13 points and a 5-card \H suit so she should not use a Negative 
+Double. Instead she just bids 2\H.
+
+Knowing NORTH has five \Hs SOUTH can support with just three.
+
+NORTH bids the \H game.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "23"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "W:T432.72.K83.J952 K9.AQJ96.T54.A83 A876.84.Q97.KQT7 QJ5.KT53.AJ62.64"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H 2C 3C pass 4H pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has a Limit Raise hand but after EAST's overcall a 3\H bid 
+by SOUTH would be preemptive, not inviting. Instead he makes a Support Cue-bid.
+
+NORTH has just enough that she can bid 4\H, knowing that if SOUTH has 
+a real block-buster he will bid on.
+
+SOUTH doesn't have a real block-buster.}
+
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Board "24"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "W:982.952.J53.K854 AQJ3.J4.9642.T96 K764.T87.KQ7.Q32 T5.AKQ63.AT8.AJ7"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1H 1S 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has 9 points and a stopper in \Ss so she responds 1NT.
+
+SOUTH has 19 points with a balanced hand so he bids 3NT.}
+

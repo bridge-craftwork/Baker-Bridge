@@ -1,59 +1,70 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+[Event "Baker Bridge - 100 Notrump Deals"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker 100NT 65}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Declarer "N"]
 [Contract "2S"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Result ""]
 [Auction "N"]
 1NT pass 2H pass 2S pass pass pass
-[Result ""]
-{Surely this hand will play better in \Ss than in notrump. So you transfer with 2\H and partner bids 2\S. What do you say now? 
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Surely this hand will play better in \Ss than in notrump. So you transfer with 2\H and partner bids 2\S.  
 
-Surely this hand will play better in \Ss than in notrump. So you transfer with 2\H and partner bids 2\S. What do you say now?
+Surely this hand will play better in \Ss than in notrump. So you transfer with 2\H and partner bids 2\S. 
 
 You pass. In the old days, before transfers, you would have bid 2\S with this hand as a sign-off. The only difference is that now partner gets to play it.
 
-The contract would be 2\S played by North.
+The contract would be 2\S played by South.
 
-To make South the declarer  ROTATE. 
+North plays 2\S. East leads the \HQ and West plays the \H9.
 
-South plays 2\S. West leads the \HQ and East plays the \H9.
+Loser List: \S = 2 : \H = 2 : \D = 3 : \C = 0 :: Total = 7
 
 Suppose you win the \HA, play over to the \CQ, then try to get back to your hand with a trump to discard 2 losers on \C A K. If it worked that way it would be fine, but it is very likely that a defender would win their trump Ace, then take their 2 \Hs and 3 \Ds. You could be down one before you even got started.
 
 A better approach is to trade one of your \C winners for a quick discard. Take the \HA, then play  \C A K, discarding a \H from dummy. That will eliminate one \H loser. 
 
-You probably cannot avoid your 3 \D losers, but you may be able to get out with losing a single trump. IF \Ss split 3-2, and IF you can win tricks with both the \SK and \SQ then you will make it. The only way it can happen is if East holds a doubleton \S A x. You must play the first \S from dummy, so ruff a \C to get there, then lead a small \S, putting on your \SQ when East follows low. This wins the trick, (hip-hip), so you now play your \S3, ducking in dummy. When East has to take his \SA, (hooray), you are home-free.
+You probably cannot avoid your 3 \D losers, but you may be able to get out with losing a single trump. <b>IF</b> \Ss split 3-2, and <b>IF</b> you can win tricks with both the \SK and \SQ then you will make it. The only way it can happen is if West holds a doubleton \S A x. You must play the first \S from dummy, so ruff a \C to get there, then lead a small \S, putting on your \SQ when West follows low. This wins the trick, (hip-hip), so you now play your \S3, ducking in dummy. When West has to take his \SA, (hooray), you are home-free.
 
-But, if you need East to hold the \S A x anyway, perhaps that first plan would have worked better. You know, take dummy's \CQ, then play a low \S to get to your hand. 
+With West holding the \SA, this Plan clearly works.
 
-It depends on East. If he ducked the low \S then you could get TWO discards and make an overtrick.
+But, if you need West to hold the \S A x anyway, perhaps that first plan would have worked better. You know, take dummy's \CQ, then play a low \S to get to your hand. 
+
+It depends on West. If he ducked the low \S then you could get <b>TWO</b> discards and make an overtrick.
 
 The method given here gives up the possibility of an overtrick for an improved chance of making the contract. You choose.}
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Play "E"]HQ
+[Play "W"]HQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker 100NT 66}
 [Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Declarer "E"]
 [Contract "6H"]
-[Vulnerable "NS"]
-[Student "S"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Result ""]
 [Auction "E"]
 2NT pass 3C pass 3H pass 6H pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {First find out about Major suit fits by bidding Stayman. So bid 3\C and partner says 3\H. What now? 
 
 First find out about Major suit fits by bidding Stayman. So bid 3\C and partner says 3\H. What now?
@@ -66,35 +77,41 @@ To rotate the hands and make East the declarer
 
 East plays 6\H. South leads the \S8. To play the \SA or not to play the \SA, that is the question.
 
+Loser List: \S = 2? : \H = 0 : \D = 0 : \C = 0 :: Total = 2
+
 At first thought it seems the \S lead has saved you a guess in the suit. By playing low in dummy you will force North to put on the King, (if he has it), winning the trick but leaving you with a pretty good position in \Ss. 
 
-That's why it's good to have second thoughts at the Bridge table. Think about the meaning of the \S8 lead. If it is fourth down, then the Rule of 11 tells you that there will be 3 cards higher than the 8 spread among West, North, and East. BUT YOU CAN SEE 4 HIGHER CARDS. So your conclusion is that South has NOT made a fourth-down lead, but rather has led top-of-nothing, top-of-a-doubleton, or perhaps a singleton.
+That's why it's good to have second thoughts at the Bridge table. Think about the meaning of the \S8 lead. If it is fourth down, then the Rule of 11 tells you that there will be 3 cards higher than the 8 spread among West, North, and East. <b>BUT YOU CAN SEE 4 HIGHER CARDS</b>. So your conclusion is that South has <b>NOT</b> made a fourth-down lead, but rather has led top-of-nothing, top-of-a-doubleton, or perhaps a singleton.
 
-You don't know which of the above, but you do know that North holds both the \S K J. The danger is if the \S8 is a singleton and you play low from dummy they could get a \S trick and a \S ruff. So don't play low from dummy. Win the \SA at trick 1, pull trumps and then play \Ss from dummy toward your \S Q T 9, giving North the \SK but finessing him out of his known \SJ.
+You don't know which of the above, but you do know that North holds both the \S K J. The danger is if the \S8 is a singleton and you play low from dummy they could get a \S trick and a \S ruff. So don't play low from dummy. Win the \SA at trick 1, pull trumps and then play \Ss from dummy toward your \S Q 10 9, giving North the \SK but finessing him out of his known \SJ.
+
+If North led the \S8 from \S 8 6 2 then it wouldn't matter whether you played the \SA or not, you would always make the contract.
 
 If North led the \S8 from \S 8 6 or \S 8 2 then it also wouldn't matter whether you played the \SA or not, you would always make the contract.
 
 If North led the singleton \S8 then you had better play the \SA or you will be down before you start.
 
 It is unlikely that North would lead the \S8 from any holding containing one or both of the honors.}
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [Play "W"]S8
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker 100NT 67}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Declarer "S"]
 [Contract "4H"]
-[Vulnerable "EW"]
-[Student "S"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Result ""]
 [Auction "S"]
 1NT pass 2C pass 2H pass 4H pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {Never mind trying to decide how to show the \C suit; with a 4-card Major your obligation is to use Stayman.
 
 You say 2\C and partner bids 2\H. What now? 
@@ -105,46 +122,50 @@ You say 2\C and partner bids 2\H. What now?
 
 Again, never mind the \C suit. You have an 8-card Major fit and enough points for game, so you bid 4\H.
 
-The contract would be 4\H played by South.
+The contract would be 4\H played by North.
 
-To make North the declarer  ROTATE. 
+South plays 4\H. West leads the \DK. The \DK holds the trick and West switches to the \S9.
 
-North plays 4\H. East leads the \DK. The \DK holds the trick and East switches to the \S9.
+Loser List: \S = 0 : \H = 1/2 : \D = 1 : \C = 0 :: Total = 2/3
 
 This looks like a walk in the park. Play 2 rounds of trumps, and if they split 3-2 go ahead and force the master trump out. The rest of the tricks would then be yours.
 
-But West shows out on the second trump lead. Ouch! 
+But East shows out on the second trump lead. Ouch! 
 
-DO NOT PLAY ANOTHER TRUMP!If you do, then East will pull all the trumps and then West/East will win some \Ds. Many, many \Ds. 
+<b>DO NOT PLAY ANOTHER TRUMP!</b>If you do, then West will pull all the trumps and then East/West will win some \Ds. Many, many \Ds. 
 
-Instead just start playing good \Cs. East can ruff in whenever he wants but you will maintain trump control. East can get both master trumps but nothing else.
+Instead just start playing good \Cs. West can ruff in whenever he wants but you will maintain trump control. West can get both master trumps but nothing else.
 
-Here that principle applied even though there were TWO master trumps out.}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Play "E"]DK
+It is usually correct to leave a master trump undrawn, just let the defender ruff in whenever he wants.
+
+Here that principle applied even though there were <b>TWO</b> master trumps out.}
+[Play "W"]DK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker 100NT 68}
 [Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Declarer "W"]
 [Contract "3NT"]
-[Vulnerable "All"]
-[Student "S"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Result ""]
 [Auction "W"]
 1NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
 {With 12 points and no 4-card Major suit this one is easy. You bid 3NT of course.
 
-The contract would be 3NT played by West.
+The contract would be 3NT played by East.
 
-To make East the declarer  ROTATE. 
+West plays 3NT. North leads the \ST and South follows with the \S2.
 
-East plays 3NT. South leads the \ST and North follows with the \S2.
+Winner List: \S = 3 : \H = 2 : \D = 3 : \C = 0 :: Total = 8
 
 There is just no way your ninth winner can come from \Ss, \Hs, or \Ds. So by process of elimination you have to get a \C trick.
 
@@ -152,16 +173,16 @@ Win the first trick, probably in your hand, and play a \C.
 
 A defender will definitely win this, and probably continue \Ss (but if they switch you would play the same way). You win the \S and play another \C. 
 
-South wins and plays another \S; you win and play another \C. Deja vu. 
+North wins and plays another \S; you win and play another \C. Deja vu. 
 
-South wins again, cashed his established \S, and exits with a red card. You win and claim the rest of the tricks, including your now-established \C.
+North wins again, cashed his established \S, and exits with a red card. You win and claim the rest of the tricks, including your now-established \C.
+
+You were able to establish a \C because that suit split 3-2.
 
 And you did it without going down because the \Ss split 4-3.
 
-This may seem lucky to you, but don't knock it, it was your ONLY chance.}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Play "E"]ST
+This may seem lucky to you, but don't knock it, it was your <b>ONLY</b> chance.}
+[Play "W"]ST
 
 [Event ""]
 [Site ""]
@@ -173,7 +194,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "NS"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -194,7 +215,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "EW"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -215,7 +236,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -236,7 +257,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -257,7 +278,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -278,7 +299,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -299,7 +320,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -320,7 +341,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -341,7 +362,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -362,7 +383,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -383,7 +404,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -404,7 +425,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "EW"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -425,7 +446,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -446,7 +467,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -467,7 +488,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -488,7 +509,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -509,7 +530,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "NS"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -530,7 +551,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "EW"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -551,7 +572,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -572,7 +593,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -593,7 +614,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -614,7 +635,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -635,7 +656,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -656,7 +677,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -677,7 +698,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -698,7 +719,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -719,7 +740,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -740,7 +761,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "EW"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -761,7 +782,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:K98754.754.986.Q JT2.QJT3.AT4.T65 Q3.A86.Q752.AK94 A6.K92.KJ3.J8732"]
+[Deal "N:Q3.A86.Q752.AK94 JT2.QJT3.AT4.T65 K98754.754.986.Q A6.K92.KJ3.J8732"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -782,7 +803,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "E:A753.KJT94.Q65.7 8.752.JT73.K9852 QT94.AQ86.AK.AJ4 KJ62.3.9842.QT63"]
+[Deal "E:QT94.AQ86.AK.AJ4 8.752.JT73.K9852 A753.KJT94.Q65.7 KJ62.3.9842.QT63"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -803,7 +824,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "S:75.K853.T.AQ9842 986.QJ92.KQJ7.T5 AK3.A764.862.KJ3 QJT42.T.A9543.76"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -824,7 +845,7 @@ This may seem lucky to you, but don't knock it, it was your ONLY chance.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "W:KQ3.A73.QJ3.T963 T974.J96.T85.AQJ AJ6.K84.AK6.7542 852.QT52.9742.K8"]
+[Deal "W:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]

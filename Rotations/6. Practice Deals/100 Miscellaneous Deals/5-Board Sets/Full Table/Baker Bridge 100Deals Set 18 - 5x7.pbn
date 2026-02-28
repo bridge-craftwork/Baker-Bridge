@@ -1,27 +1,32 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100Deals
+[Event "Baker Bridge - 100 Miscellaneous Deals"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker 100Deals 86}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK72.AJT874.K5.4 QJT83.63.AJ3.KT7 65.K9.87642.A853 94.Q52.QT9.QJ962"]
 [Declarer "N"]
 [Contract "4H"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:AK72.AJT874.K5.4 QJT83.63.AJ3.KT7 65.K9.87642.A853 94.Q52.QT9.QJ962"]
+[Result ""]
 [Auction "N"]
 1H 1S pass pass 3H pass 4H pass pass pass
-[Result ""]
-{You are North and it is your bid. Decide what you would say, then  on BID. 
-
-You open 1\H, East overcalls 1\S and partner passes.
-
-What do you say? 
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You open 1\H, East overcalls 1\S and partner passes.
 
 You shouldn't let East steal from you so you will bid your \Hs again. You must decide between 2\H and 3\H. Given that partner might have had a pretty decent hand yet still have to pass, you decide to go with 3\H. Partner bids 4\H. 
 
 North plays 4\H. East leads the \SQ.
+
+<b>North plays 4\H. East leads the \SQ.</b>
 
 Losers: \S 2 : \H 1 : \D 2 : \C 0 : Total = 5
 
@@ -29,69 +34,77 @@ Win the \SK, then enter dummy with the \CA and play another \S toward your \SA. 
 
 You will lose two \Ds and the \HQ but no more.
 
+It is tempting to ruff the first \S with dummy's \H9, hoping to sneak that through then ruff the second one with \HK. 
+
 The problem is that West would have over-ruffed the \H9 and then played another \H and you would not have gotten to ruff either \S,}
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [Play "W"]SQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker 100Deals 87}
 [Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A.AKJT74.A93.653 Q32.95.Q872.KQT9 J9854.Q6.JT4.A72 KT76.832.K65.J84"]
 [Declarer "E"]
 [Contract "4H"]
-[Vulnerable "NS"]
-[Student "S"]
-[Deal "E:J9854.Q6.JT4.A72 Q32.95.Q872.KQT9 A.AKJT74.A93.653 KT76.832.K65.J84"]
+[Result ""]
 [Auction "E"]
 1H pass 1S pass 3H pass 4H pass pass pass
-[Result ""]
-{You are West and it is your bid. Decide what you would say, then  on BID. 
-
-You respond 1\S, your 5-card Major. Partner jumps to 3\H.
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You respond 1\S, your 5-card Major. Partner jumps to 3\H.
 
 Make your next bid. 
 
 Partner is showing 16-18 points and you have 9. Since he rebid \Hs he must have at least six of them you you know there is an 8-card fit. You bid 4\H.
 
-East would play 4\H.
+West would play 4\H.
 
-West plays 4\H. North leads the \CK.
+Click 
+
+East plays 4\H. South leads the \CK.
+
+<b>East plays 4\H. South leads the \CK.</b>
 
 Losers: \S 0 : \H 0 : \D 2 : \C 2 : Total = 4
 
 You might consider setting up dummy's \S suit for a discard but there are too few entries to make that work.
 
-More promising is playing South to have at least one of the \D honors and taking two finesses in that suit. BUT, entries are still a problem. You can only reach dummy twice, once with the \CA and once with the \HQ, and you must play \Ds each time you are there.
+More promising is playing North to have at least one of the \D honors and taking two finesses in that suit. <b>BUT</b>, entries are still a problem. You can only reach dummy twice, once with the \CA and once with the \HQ, and you must play \Ds each time you are there.
 
-Win the first trick with the \CA and play the \DJ, letting it ride if South doesn't cover. North will win this trick and take two \Cs. He will probably then lead a \S. You win your \SA, play \HA then a small \H to dummy's \HQ. Now lead a \D and finesse with your \D9. When this wins, pull trumps and claim.
+Win the first trick with the \CA and play the \DJ, letting it ride if North doesn't cover. South will win this trick and take two \Cs. He will probably then lead a \S. You win your \SA, play \HA then a small \H to dummy's \HQ. Now lead a \D and finesse with your \D9. When this wins, pull trumps and claim.
+
+Taking two finesses in \Ds will be successful whenever North holds the \DK <b>OR</b> the \DQ <b>OR</b> both the \D K Q. 
 
 This will happen about 75% of the time, so the double finesse is a good Plan. And on this Deal it was the only plan available.}
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Play "E"]CK
+[Play "W"]CK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker 100Deals 88}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:7.AKQ862.A5.Q953 984.J5.T98.AKT74 AJ652.T4.Q743.J6 KQT3.973.KJ62.82"]
 [Declarer "S"]
 [Contract "4H"]
-[Vulnerable "EW"]
-[Student "S"]
-[Deal "S:AJ652.T4.Q743.J6 984.J5.T98.AKT74 7.AKQ862.A5.Q953 KQT3.973.KJ62.82"]
+[Result ""]
 [Auction "S"]
 1H pass 1S pass 3H pass 4H pass pass pass
-[Result ""]
-{You are North and it is your bid. Decide what you would say, then  on BID. 
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You respond with your 5-card Major, 1\S.
 
-You respond with your 5-card Major, 1\S.
-
-Partner jumps to 3\H. What do you bid? 
+Partner jumps to 3\H.  
 
 With partner's 16-18 points you probably have enough strength for game.
 
@@ -99,92 +112,108 @@ With partner's six \Hs you have an 8-card fit.
 
 So you bid 4\H.
 
-South would play 4\H.
+North would play 4\H.
 
-North plays 4\H. East leads \CA, \CK, \C4. West plays \C8 then \C2.
+Click 
+
+South plays 4\H. West leads \CA, \CK, \C4. East plays \C8 then \C2.
+
+<b>South plays 4\H. West leads \CA, \CK, \C4. East plays \C8 then \C2.</b>
 
 Losers: \S 0 : \H 0 : \D 1 : \C 3 : Total = 4
 
-Suppose you discard a \D from dummy. If West doesn't ruff this \Cthen your \CQ will win. You could then try to establish dummy's \DQ to discard your fourth \C on. 
+Suppose you discard a \D from dummy. If East doesn't ruff this \Cthen your \CQ will win. You could then try to establish dummy's \DQ to discard your fourth \C on. 
 
-But you know that plan won't work because West IS going to ruff this \C if you discard. You only have one chance to make this contract, and that is the chance that West was not dealt the \HJ. So you ruff with dummy's \HT and pray West doesn't over-ruff.
+But you know that plan won't work because East <b>IS</b> going to ruff this \C if you discard. You only have one chance to make this contract, and that is the chance that East was not dealt the \HJ. So you ruff with dummy's \H10 and pray East doesn't over-ruff.
+
+The prayer was answered, East did not hold the \HJ. 
 
 So you won that trick and still had your \CQ to use after you pulled trumps.}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Play "E"]CA
+[Play "W"]CA
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker 100Deals 89}
 [Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q7.KQ87652.852.6 K952.9.KQJ9.QJ75 63.AJT.A63.A9842 AJT84.43.T74.KT3"]
 [Declarer "W"]
 [Contract "4H"]
-[Vulnerable "All"]
-[Student "S"]
-[Deal "W:63.AJT.A63.A9842 K952.9.KQJ9.QJ75 Q7.KQ87652.852.6 AJT84.43.T74.KT3"]
+[Result ""]
 [Auction "W"]
 3H pass 4H pass pass pass
-[Result ""]
-{You are East and it is your bid. Decide what you would say, then  on BID. 
-
-Responding to preempts is easy. You don't count points, you just count tricks. Assume partner for 6 tricks and add yours to see how high to go (or not go).
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{Responding to preempts is easy. You don't count points, you just count tricks. Assume partner for 6 tricks and add yours to see how high to go (or not go).
 
 Here, with three Aces and a possible \S ruff you raise to game.
 
-West would play 4\H.
+East would play 4\H.
 
-East plays 4\H. North leads the \DK.
+Click 
 
-Win the \DA, play \CA and ruff the \C2 with a high trump. Play a \H to the \HT and ruff the \C4 with a high trump. Play a \H to the \HJ and ruff the \C8 with a high trump. Play a \H to the \HA and discard a loser on the good \C9.
+West plays 4\H. South leads the \DK.
+
+Things look grim. The defense has exposed your \D losers already and those two \S losers seem pretty obvious also. If you are to make this contract you must do so before you lose the lead. That means you must establish the \C suit <b>NOW</b>.
+
+Win the \DA, play \CA and ruff the \C2 with a high trump. Play a \H to the \H10 and ruff the \C4 with a high trump. Play a \H to the \HJ and ruff the \C8 with a high trump. Play a \H to the \HA and discard a loser on the good \C9.
+
+It took a 4-3 \C split to make this contract. 
 
 Fortunately that occurs a high percentage of the time. In any case, there was no other hope.}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Play "E"]DK
+[Play "W"]DK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-{Baker 100Deals 90}
 [Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:JT5.KQ6.KJT3.AK9 Q973.J72.965.862 K86.A84.AQ8.QJT7 A42.T953.742.543"]
 [Declarer "N"]
 [Contract "6NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:K86.A84.AQ8.QJT7 Q973.J72.965.862 JT5.KQ6.KJT3.AK9 A42.T953.742.543"]
+[Result ""]
 [Auction "N"]
 1NT pass 4NT pass 6NT pass pass pass
-[Result ""]
-{You are South and it is your bid. Decide what you would say, then  on BID. 
-
-You have 16 points - a pretty solid 16 in fact. Partner has 15, 16 or 17, so together you have 31, 32 or 33. You want to invite partner to bid 6NT if he has 17, but to decline if he has 15. The correct bid for this invitation is 4NT. It is called a "quantitative" 4NT since it is just an invitational raise. It is NOT Blackwood - if you wanted to ask for Aces you would use Gerber.
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You have 16 points - a pretty solid 16 in fact. Partner has 15, 16 or 17, so together you have 31, 32 or 33. You want to invite partner to bid 6NT if he has 17, but to decline if he has 15. The correct bid for this invitation is 4NT. It is called a "quantitative" 4NT since it is just an invitational raise. It is <b>NOT</b> Blackwood - if you wanted to ask for Aces you would use Gerber.
 
 Partner bids the slam.
 
-North would play 6NT.
+South would play 6NT.
 
-South plays 6NT. West leads the \S3.
+Click 
+
+North plays 6NT. East leads the \S3.
+
+<b>North plays 6NT. East leads the \S3.</b>
 
 Winner count: \S 0 : \H 3 : \D 4 : \C 4 : Total = 11
 
 It's pretty clear which suit you have to worry about! Your goal is simple, you must win one \S trick before you lose two. So the crux of your problem is: Who holds the \SA and \SQ?
 
-If West has both of them you are guaranteed to win the first trick no matter what you play.
+If East has both of them you are guaranteed to win the first trick no matter what you play.
 
-If East has both of them you are going to lose the first two tricks no matter what you play.
+If West has both of them you are going to lose the first two tricks no matter what you play.
 
-The problem is to decide what to do if they are split. The answer relies on psychology, not on probability. West has made an attacking lead. But if you were West would you start out leading a low \S from a suit like \S A 9 7 3? That would be incredibly foolhardy, you would probably lead a different suit and save your \SA for catching something high from declarer. On the other hand you would be quite likely to lead a small card from \S Q 9 7 3. 
+The problem is to decide what to do if they are split. The answer relies on psychology, not on probability. East has made an attacking lead. But if you were East would you start out leading a low \S from a suit like \S A 9 7 3? That would be incredibly foolhardy, you would probably lead a different suit and save your \SA for catching something high from declarer. On the other hand you would be quite likely to lead a small card from \S Q 9 7 3. 
 
-Your PLAN should be to play low in dummy and win your \ST if East withholds the \SA.
+Your PLAN should be to play low in dummy and win your \ST if West withholds the \SA.
 
-Since West is unlikely to underlead an Ace against 6NT you play East for the \SA. }
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Play "E"]S3
+If you think East has \S A 9 7 3 then you should play the \SK from dummy. But if you think East has \S Q 9 7 3 you should play low from dummy.
+
+Since East is unlikely to underlead an Ace against 6NT you play West for the \SA. }
+[Play "W"]S3
 
 [Event ""]
 [Site ""]
@@ -217,7 +246,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "E:J9854.Q6.JT4.A72 Q32.95.Q872.KQT9 A.AKJT74.A93.653 KT76.832.K65.J84"]
+[Deal "E:A.AKJT74.A93.653 Q32.95.Q872.KQT9 J9854.Q6.JT4.A72 KT76.832.K65.J84"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -238,7 +267,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "S:AJ652.T4.Q743.J6 984.J5.T98.AKT74 7.AKQ862.A5.Q953 KQT3.973.KJ62.82"]
+[Deal "S:7.AKQ862.A5.Q953 984.J5.T98.AKT74 AJ652.T4.Q743.J6 KQT3.973.KJ62.82"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -259,7 +288,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "W:63.AJT.A63.A9842 K952.9.KQJ9.QJ75 Q7.KQ87652.852.6 AJT84.43.T74.KT3"]
+[Deal "W:Q7.KQ87652.852.6 K952.9.KQJ9.QJ75 63.AJT.A63.A9842 AJT84.43.T74.KT3"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -280,7 +309,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "N:K86.A84.AQ8.QJT7 Q973.J72.965.862 JT5.KQ6.KJT3.AK9 A42.T953.742.543"]
+[Deal "N:JT5.KQ6.KJT3.AK9 Q973.J72.965.862 K86.A84.AQ8.QJT7 A42.T953.742.543"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -322,7 +351,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "E:J9854.Q6.JT4.A72 Q32.95.Q872.KQT9 A.AKJT74.A93.653 KT76.832.K65.J84"]
+[Deal "E:A.AKJT74.A93.653 Q32.95.Q872.KQT9 J9854.Q6.JT4.A72 KT76.832.K65.J84"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -343,7 +372,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "S:AJ652.T4.Q743.J6 984.J5.T98.AKT74 7.AKQ862.A5.Q953 KQT3.973.KJ62.82"]
+[Deal "S:7.AKQ862.A5.Q953 984.J5.T98.AKT74 AJ652.T4.Q743.J6 KQT3.973.KJ62.82"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -364,7 +393,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "W:63.AJT.A63.A9842 K952.9.KQJ9.QJ75 Q7.KQ87652.852.6 AJT84.43.T74.KT3"]
+[Deal "W:Q7.KQ87652.852.6 K952.9.KQJ9.QJ75 63.AJT.A63.A9842 AJT84.43.T74.KT3"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -385,7 +414,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "N:K86.A84.AQ8.QJT7 Q973.J72.965.862 JT5.KQ6.KJT3.AK9 A42.T953.742.543"]
+[Deal "N:JT5.KQ6.KJT3.AK9 Q973.J72.965.862 K86.A84.AQ8.QJT7 A42.T953.742.543"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -427,7 +456,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "E:J9854.Q6.JT4.A72 Q32.95.Q872.KQT9 A.AKJT74.A93.653 KT76.832.K65.J84"]
+[Deal "E:A.AKJT74.A93.653 Q32.95.Q872.KQT9 J9854.Q6.JT4.A72 KT76.832.K65.J84"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -448,7 +477,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "S:AJ652.T4.Q743.J6 984.J5.T98.AKT74 7.AKQ862.A5.Q953 KQT3.973.KJ62.82"]
+[Deal "S:7.AKQ862.A5.Q953 984.J5.T98.AKT74 AJ652.T4.Q743.J6 KQT3.973.KJ62.82"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -469,7 +498,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "W:63.AJT.A63.A9842 K952.9.KQJ9.QJ75 Q7.KQ87652.852.6 AJT84.43.T74.KT3"]
+[Deal "W:Q7.KQ87652.852.6 K952.9.KQJ9.QJ75 63.AJT.A63.A9842 AJT84.43.T74.KT3"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -490,7 +519,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "N:K86.A84.AQ8.QJT7 Q973.J72.965.862 JT5.KQ6.KJT3.AK9 A42.T953.742.543"]
+[Deal "N:JT5.KQ6.KJT3.AK9 Q973.J72.965.862 K86.A84.AQ8.QJT7 A42.T953.742.543"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -532,7 +561,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "E"]
 [Vulnerable "EW"]
-[Deal "E:J9854.Q6.JT4.A72 Q32.95.Q872.KQT9 A.AKJT74.A93.653 KT76.832.K65.J84"]
+[Deal "E:A.AKJT74.A93.653 Q32.95.Q872.KQT9 J9854.Q6.JT4.A72 KT76.832.K65.J84"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -553,7 +582,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "S:AJ652.T4.Q743.J6 984.J5.T98.AKT74 7.AKQ862.A5.Q953 KQT3.973.KJ62.82"]
+[Deal "S:7.AKQ862.A5.Q953 984.J5.T98.AKT74 AJ652.T4.Q743.J6 KQT3.973.KJ62.82"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -574,7 +603,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:63.AJT.A63.A9842 K952.9.KQJ9.QJ75 Q7.KQ87652.852.6 AJT84.43.T74.KT3"]
+[Deal "W:Q7.KQ87652.852.6 K952.9.KQJ9.QJ75 63.AJT.A63.A9842 AJT84.43.T74.KT3"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -595,7 +624,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "N:K86.A84.AQ8.QJT7 Q973.J72.965.862 JT5.KQ6.KJT3.AK9 A42.T953.742.543"]
+[Deal "N:JT5.KQ6.KJT3.AK9 Q973.J72.965.862 K86.A84.AQ8.QJT7 A42.T953.742.543"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -637,7 +666,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "E:J9854.Q6.JT4.A72 Q32.95.Q872.KQT9 A.AKJT74.A93.653 KT76.832.K65.J84"]
+[Deal "E:A.AKJT74.A93.653 Q32.95.Q872.KQT9 J9854.Q6.JT4.A72 KT76.832.K65.J84"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -658,7 +687,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "S:AJ652.T4.Q743.J6 984.J5.T98.AKT74 7.AKQ862.A5.Q953 KQT3.973.KJ62.82"]
+[Deal "S:7.AKQ862.A5.Q953 984.J5.T98.AKT74 AJ652.T4.Q743.J6 KQT3.973.KJ62.82"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -679,7 +708,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "W:63.AJT.A63.A9842 K952.9.KQJ9.QJ75 Q7.KQ87652.852.6 AJT84.43.T74.KT3"]
+[Deal "W:Q7.KQ87652.852.6 K952.9.KQJ9.QJ75 63.AJT.A63.A9842 AJT84.43.T74.KT3"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -700,7 +729,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "N:K86.A84.AQ8.QJT7 Q973.J72.965.862 JT5.KQ6.KJT3.AK9 A42.T953.742.543"]
+[Deal "N:JT5.KQ6.KJT3.AK9 Q973.J72.965.862 K86.A84.AQ8.QJT7 A42.T953.742.543"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -742,7 +771,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "W"]
 [Vulnerable "EW"]
-[Deal "E:J9854.Q6.JT4.A72 Q32.95.Q872.KQT9 A.AKJT74.A93.653 KT76.832.K65.J84"]
+[Deal "E:A.AKJT74.A93.653 Q32.95.Q872.KQT9 J9854.Q6.JT4.A72 KT76.832.K65.J84"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -763,7 +792,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:AJ652.T4.Q743.J6 984.J5.T98.AKT74 7.AKQ862.A5.Q953 KQT3.973.KJ62.82"]
+[Deal "S:7.AKQ862.A5.Q953 984.J5.T98.AKT74 AJ652.T4.Q743.J6 KQT3.973.KJ62.82"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -784,7 +813,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "W:63.AJT.A63.A9842 K952.9.KQJ9.QJ75 Q7.KQ87652.852.6 AJT84.43.T74.KT3"]
+[Deal "W:Q7.KQ87652.852.6 K952.9.KQJ9.QJ75 63.AJT.A63.A9842 AJT84.43.T74.KT3"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -805,7 +834,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "N:K86.A84.AQ8.QJT7 Q973.J72.965.862 JT5.KQ6.KJT3.AK9 A42.T953.742.543"]
+[Deal "N:JT5.KQ6.KJT3.AK9 Q973.J72.965.862 K86.A84.AQ8.QJT7 A42.T953.742.543"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]

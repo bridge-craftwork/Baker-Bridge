@@ -1,18 +1,25 @@
-
-[Event ""]
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Finesse
+[Event "Baker Bridge - Finessing"]
 [Site ""]
 [Date ""]
 [Board "1"]
-{Baker Finesse 1}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:864.AK3.KJT2.A87 A72.QJT8.95.KJ93 KQ3.964.AQ73.642 JT95.752.864.QT5"]
 [Declarer "N"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:864.AK3.KJT2.A87 A72.QJT8.95.KJ93 KQ3.964.AQ73.642 JT95.752.864.QT5"]
+[Result ""]
 [Auction "N"]
 1NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "beginner"]
+[SkillPath "declarer_play/finessing"]
+[Student "S"]
 {North is to play 3NT. East leads the \HQ.
 
 Winners:   \S=0  \H=2  \D=4  \C=1  Total = 7
@@ -23,25 +30,29 @@ You should take your four \D winners now, being sure to end up in your hand. The
 
 You have now won 7 tricks so don't mess around now. Take your two Aces and let them have the last four tricks.
 
+If West held the \SA you would not have made the contract.
+
 A Simple Finesse has only a 50% success rate. That's why we only take finesses as a last resort.}
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [Play "W"]HQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
-{Baker Finesse 2}
 [Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:986.AKQJ4.A74.A2 KJ52.753.QT.KQT5 AQ7.T6.9852.8643 T43.982.KJ63.J97"]
 [Declarer "S"]
 [Contract "3NT"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "N:986.AKQJ4.A74.A2 KJ52.753.QT.KQT5 AQ7.T6.9852.8643 T43.982.KJ63.J97"]
+[Result ""]
 [Auction "N"]
 1H pass 1NT pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "beginner"]
+[SkillPath "declarer_play/finessing"]
+[Student "S"]
 {South is to play 3NT. West leads the \D3.
 
 Winners:   \S=1  \H=5  \D=1  \C=1  Total = 8
@@ -50,27 +61,29 @@ You need just one more winner. Since West probably has 4 \Ds you will not be abl
 
 You can't put it off any longer so play a small \S from dummy and put the \SQ on. If it wins you will make your contract, if it loses you won't.
 
- to find out which. 
+East held the \SK so you were lucky this time.
 
 But remember, finesses only work half the time. The other half they lose.}
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]D3
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-{Baker Finesse 3}
 [Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:653.8642.K6.KJ52 QJ94.753.QT92.94 K82.AK.A853.AQ87 AT7.QJT9.J74.T63"]
 [Declarer "N"]
 [Contract "3NT"]
-[Vulnerable "EW"]
-[Student "S"]
-[Deal "S:653.8642.K6.KJ52 QJ94.753.QT92.94 K82.AK.A853.AQ87 AT7.QJT9.J74.T63"]
+[Result ""]
 [Auction "S"]
 pass pass 2NT pass 3C pass 3D pass 3NT pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "beginner"]
+[SkillPath "declarer_play/finessing"]
+[Student "S"]
 {North is to play 3NT. East leads the \HQ.
 
 Winners:   \S=0  \H=2  \D=2  \C=4  Total = 8
@@ -81,27 +94,29 @@ The moment of truth. You lead a small \S from dummy. West plays low and you play
 
 Unfortunately East takes your \SK with the \SA. He then plays another \H and you at least make 8 tricks but have no hope for a ninth one so you go down 1.
 
- to see the bad news. 
+You probably thought since these Deals were all about finesses that they would work all of the time.
 
 Welcome to the real world.}
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [Play "W"]HQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-{Baker Finesse 4}
 [Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A74.KQJ975.8.KQJ KQ93.T.KT65.T732 862.8432.AQ74.95 JT5.A6.J932.A864"]
 [Declarer "S"]
 [Contract "4H"]
-[Vulnerable "None"]
-[Student "S"]
-[Deal "S:A74.KQJ975.8.KQJ KQ93.T.KT65.T732 862.8432.AQ74.95 JT5.A6.J932.A864"]
+[Result ""]
 [Auction "S"]
 1H pass 2H pass 4H pass pass pass
-[Result ""]
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Declarer Play"]
+[Difficulty "beginner"]
+[SkillPath "declarer_play/finessing"]
+[Student "S"]
 {South is to play 4\H. West leads the \SK.
 
 Losers:   \S=2  \H=1  \D=0  \C=1  Total = 4
@@ -112,8 +127,8 @@ Other than the \DA the only useful card in dummy is the \DQ so you must try to m
 
 At this point you have not lost any tricks, and you can see that you have only 3 losers remaining in your hand. So you start pulling trumps and establishing the \Cs.
 
+If the \D finesse had lost you would have gone down 2 instead of just one.
+
 The risk was worthwhile though since it gave you your only chance of making the contract.}
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [Play "W"]SK
 

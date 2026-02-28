@@ -1,6 +1,6 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 10:09:15
-%sourcefilename BakerBridge.csv
+%Created: 2026-02-28 08:13:00
+%sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 [Event "Baker Bridge - 100 Notrump Deals"]
 [Board "1"]
@@ -653,7 +653,7 @@ But if she hadn't, you'd still have a 50% chance in \Hs.}
 [Board "11"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:Q95.T9842.K8.T54 A73.J6.AJ762.A63 JT84.K753.QT93.8 K62.AQ.54.KQJ972"]
+[Deal "W:Q95.T9842.K8.T54 A73.J6.AQ762.A63 JT84.K753.JT93.8 K62.AQ.54.KQJ972"]
 [Declarer "S"]
 [Contract "6C"]
 [Result ""]
@@ -1637,7 +1637,7 @@ While the answer may depend on the opponent, usually you should take their openi
 [Board "26"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:QJT52.Q.A952.953 8.AK8652.KT3.J74 K974.JT43.Q76.T8 A63.97.J84.AKQ62"]
+[Deal "W:QJT52.Q.A952.953 8.AK8652.KT3.J74 K974.JT43.J76.T8 A63.97.Q84.AKQ62"]
 [Declarer "S"]
 [Contract "4H"]
 [Result ""]
@@ -2040,7 +2040,7 @@ You had to get rid of dummy's singleton \H first - the fact that it was a winner
 [Board "32"]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "W:KT72.QJT3.QJ4.A7 53.76.T5.9865432 QJ84.AK5.9862.QT A96.9842.AK73.KJ"]
+[Deal "W:KJ72.QJT3.QJ4.A7 53.76.T5.9865432 QT84.AK5.9862.QT A96.9842.AK73.KJ"]
 [Declarer "S"]
 [Contract "3C"]
 [Result ""]

@@ -1,0 +1,126 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-02-27 12:57:36
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-AdvancedForcing
+[Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT83.AK65.T.A984 52.JT94.983.QJ53 KJ97.87.AKJ62.T2 A64.Q32.Q754.K76"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1C pass 1D pass 1H pass 1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH's 1\S bid is definitely forcing, but it is not FSF. In this one instance, all 
+bids at the one level, the \S bid shows a real suit.
+
+So NORTH shows the 4-card support and SOUTH bids game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:A64.AK972.7.K865 KJT2.J8.AQ954.T4 97.Q653.T83.AJ72 Q853.T4.KJ62.Q93"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1H pass 2H pass 3C pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH could make a Help Suit Game Try in either \Ss or \Cs. 
+But she doesn't need the \S help as much as she does in \Cs, so she chooses \Cs.
+
+NORTH doesn't have a strong hand but has excellent help in \Cs 
+so he bids the game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJT5.T96.K7.AQJ3 A43.AQ7.QT2.9765 Q6.KJ85.A9854.K8 9872.432.J63.T42"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1C pass 1D pass 1S pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{Could SOUTH bid 2\H, (FSF), even though she actually has the suit?
+
+Perhaps, but there is no reason to do so. NORTH does not have four \Hs 
+or he would have mentioned them before bidding \Ss.
+
+SOUTH should ignore the \H suit and bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q54.76.AK98.A874 J97.A43.T74.QJ93 AKT63.KQ985.63.5 82.JT2.QJ52.KT62"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1D pass 1S pass 2C pass 3H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH cannot bid 2\H at his second turn; that would be 
+Fourth Suit Forcing and wouldn't show the \H suit at all.
+
+With a game-forcing two-suiter he jumps to 3\H instead. 
+NORTH recognizes that SOUTH must hold five \Ss and bids the \S game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q85.A5.KQJ62.643 JT2.Q64.T75.AKJ7 K76.KJ873.A94.92 A943.T92.83.QT85"]
+[Declarer "S"]
+[Contract "2D"]
+[Result ""]
+[Auction "S"]
+1D pass 1H pass 1NT pass 2C pass 2D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{NORTH bids 2\C as New Minor Forcing, hoping SOUTH has three \Hs.
+
+SOUTH does not have three \Hs and he has no other bid to make that 
+will describe his hand any better. He cannot bid Notrump again without a \C stopper. 
+So SOUTH rebids the 5-card \D suit.
+
+NORTH has nowhere to go, so passes.}
+
