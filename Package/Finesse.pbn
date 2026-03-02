@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-28 08:13:00
+%Created: 2026-03-02 15:51:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Finesse
 [Event "Baker Bridge - Finessing"]
@@ -45,7 +45,6 @@ Click NEXT. [NEXT]
 
 You have now won 7 tricks so don't mess around now. Take your two Aces and let them have the last four tricks.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]
@@ -250,7 +249,6 @@ Click NEXT. [NEXT]
 
 <b>DO NOT FINESSE THE \H.</b>Stick with your original 75% plan. Take the \HA and play your small \C, finessing the \CJ. This is why you couldn't discard a \C earlier.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]

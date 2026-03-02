@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-28 08:13:00
+%Created: 2026-03-02 15:51:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 [Event "Baker Bridge - Entry Management"]
@@ -439,7 +439,6 @@ You can play a high \C and hope somebody plays the singleton \CT. Then your \C9 
 
 You can play a low \C to dummy's \C8. Assuming a defender takes the \CT you can win his return and enter dummy with the \C9. This play is guaranteed to give you the entry and is the one you should choose.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]
@@ -490,7 +489,6 @@ Click NEXT. [NEXT]
 
 Do NOT ruff the second \S in dummy, just discard a \D. If West plays a third \S you will ruff in your hand, then unblock the \CA, then pull trumps in 3 rounds ending in dummy. And run all those \C tricks. If West plays a trump or a \C the result will be the same. The defense can get one \D trick if they take it right now, but you still make your contract.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]
@@ -985,7 +983,6 @@ Click NEXT. [NEXT]
 
 Win the opening lead and lay down your \CJ. The defense is helpless. If they take the \CJ with the \CK, then you have a dummy entry in the form of the \CQ. If they refuse to take the trick you will counter by next laying down the \CA, then ruffing a third \C to get to dummy and the two golden eggs.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]

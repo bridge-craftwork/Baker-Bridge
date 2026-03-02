@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-28 08:13:00
+%Created: 2026-03-02 15:51:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 [Event "Baker Bridge - Elimination Plays"]
@@ -55,7 +55,6 @@ Click NEXT. [NEXT]
 
 The defender who won the last trick cannot lead a trump because he has none. If he leads a \H or a \C you will get a ruff-sluff, ruffing in one hand while discarding a \D loser from the other. If he leads a \D you will get the free finesse you were hoping for all along.
 
-[show NESW]
 Click NEXT to see all the hands. [NEXT]
 
 [show NESW]
@@ -868,7 +867,6 @@ Click NEXT. [NEXT]
 
 <b>HE IS ENDPLAYED!</b>. He has no \Cs, and whichever other suit he plays will give you your ninth trick! 
 
-[show NESW]
 Click NEXT to see the complete deal. [NEXT]
 
 [RESET]
@@ -943,7 +941,6 @@ Click NEXT. [NEXT]
 
 One of the defenders has won the \SQ. Too bad for him. If he now plays a \D you will make either the \DQ or \DJ. If he plays a \H you will ruff in one hand and discard a \D loser from the other.
 
-[show NESW]
 Click NEXT to see the complete deal. [NEXT]
 
 [RESET]

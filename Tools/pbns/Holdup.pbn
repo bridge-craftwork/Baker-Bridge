@@ -1,6 +1,6 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 10:09:15
-%sourcefilename BakerBridge.csv
+%Created: 2026-03-02 15:51:23
+%sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 [Event "Baker Bridge - Holdup Plays"]
 [Board "1"]
@@ -45,7 +45,6 @@ Click NEXT. [NEXT]
 
 You were fortunate it was East who took the \HA, and that he has no \D to return. If he plays a \H or a \S you will win in dummy. If he plays a \C you will jump up with the \CA and take your winners, 9 in all.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]
@@ -102,7 +101,6 @@ Click NEXT. [NEXT]
 
 At this point in the play you have three tricks in the bank; \SA, \DK, \DQ. You take your \HK, cash the two good \Ds, then lead to dummy for the \CA K and \HA. Voila!  
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]
@@ -122,7 +120,7 @@ The hold-up lets you make the contract whenever East holds the \DA. And if West 
 [Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:QJ732.T7.65.JT82 T5.K854.AT93.A65 A86.QJ92.K74.973 K94.A63.QJ82.KQ4"]
+[Deal "W:QJ732.T7.65.JT82 T5.K854.AT93.K65 A86.QJ92.K74.973 K94.A63.QJ82.AQ4"]
 [Declarer "S"]
 [Contract "3NT"]
 [Result ""]
@@ -227,7 +225,6 @@ Click NEXT. [NEXT]
 
 The rest of the tricks are yours, nine in all.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]
@@ -784,7 +781,6 @@ Click NEXT. [NEXT]
 
 Let West hold the first trick, playing the \H7 from your hand to conceal the \H4 in the hope that West will continue the suit. If he does you have your ninth trick - if he doesn't, good luck.
 
-[show NESW]
 Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]

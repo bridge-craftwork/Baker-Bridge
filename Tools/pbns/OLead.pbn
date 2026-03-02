@@ -1,6 +1,6 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 10:09:15
-%sourcefilename BakerBridge.csv
+%Created: 2026-03-02 15:51:23
+%sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
 [Event "Baker Bridge - Opening Leads"]
 [Board "1"]
@@ -38,7 +38,7 @@ South only has 7 winners unless he can establish the \C suit, and when you win y
 [Board "2"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:A65.2.J8643.JT52 QJ84.AJ6.AK.KQ98 3.K9753.T52.A764 KT972.QT84.Q97.3"]
+[Deal "W:A65.2.J8643.JT52 QJ84.AJ6.KQ.KQ98 3.K9753.T52.A764 KT972.QT84.A97.3"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
@@ -634,7 +634,7 @@ Declarer may still make the contract if he guesses the \HQ correctly, but maybe 
 [Board "19"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:972.QJT6.T762.73 AJ5.A9853.KQ.AQ5 T864.72.J93.JT98 KQ3.K4.A854.K642"]
+[Deal "W:972.QJT6.T762.73 KJ5.A9853.KQ.AQ5 T864.72.J93.JT98 AQ3.K4.A854.K642"]
 [Declarer "S"]
 [Contract "6NT"]
 [Result ""]

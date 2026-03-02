@@ -1,6 +1,6 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 10:09:15
-%sourcefilename BakerBridge.csv
+%Created: 2026-03-02 15:51:23
+%sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 [Event "Baker Bridge - Defensive Signals"]
 [Board "1"]
@@ -256,7 +256,7 @@ This defense holds South to one \D tricks, if you had let him win the second one
 [Board "8"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:A65.QT64.K72.T52 KQ93.873.Q6.9764 872.J952.A843.83 JT4.AK.JT95.AKQJ"]
+[Deal "W:A65.QT64.K72.T52 KQ93.87.Q65.9764 872.J952.A843.83 JT4.AK3.JT9.AKQJ"]
 [Declarer "S"]
 [Contract "3NT"]
 [Result ""]
