@@ -8,7 +8,16 @@
 # Usage:
 #   ./build-mac.sh [phase] [options]
 #
-# Phases:
+# Shortcuts:
+#   classroom      Build Package for bridge-classroom app
+#                  parse → validate → correct → sme → fill → pbn → pbn-pdf
+#                  → package
+#   rotations      Build Rotations for live teacher classes
+#                  parse → validate → correct → sme → fill → pbn → pbn-pdf
+#                  → package → presentation → rotate
+#   Both reuse existing constructed_hands.csv unless --generate is specified.
+#
+# Individual phases:
 #   (none)         Show list of available phases
 #   *              Run all phases
 #   parse          Parse HTML and extract hands
@@ -26,6 +35,8 @@
 #   rotate         Generate rotations for multi-table play
 #
 # Options:
+#   --lesson NAME  Filter to a specific lesson (for presentation/rotate steps)
+#   --generate     Regenerate constrained hands (with classroom/rotations)
 #   --clean        Remove existing build artifacts before building
 #   --help         Show this help message
 #
@@ -66,6 +77,8 @@ PHASES=(
 
 # Parse arguments
 CLEAN=false
+GENERATE=false
+LESSON=""
 PHASE=""
 
 while [[ $# -gt 0 ]]; do
@@ -74,8 +87,20 @@ while [[ $# -gt 0 ]]; do
             CLEAN=true
             shift
             ;;
+        --generate)
+            GENERATE=true
+            shift
+            ;;
+        --lesson)
+            if [[ -z "$2" || "$2" == -* ]]; then
+                echo "Error: --lesson requires a name"
+                exit 1
+            fi
+            LESSON="$2"
+            shift 2
+            ;;
         --help|-h)
-            head -30 "$0" | tail -27
+            head -42 "$0" | tail -39
             exit 0
             ;;
         -*)
@@ -117,7 +142,12 @@ check_tool() {
 }
 
 show_phases() {
-    echo -e "${GREEN}Available build phases:${NC}"
+    echo -e "${GREEN}Shortcuts:${NC}"
+    echo ""
+    printf "  %-14s %s\n" "classroom" "Build Package for bridge-classroom app (fast)"
+    printf "  %-14s %s\n" "rotations" "Build Rotations for live teacher classes"
+    echo ""
+    echo -e "${GREEN}Individual phases:${NC}"
     echo ""
     for entry in "${PHASES[@]}"; do
         local name="${entry%%|*}"
@@ -125,9 +155,20 @@ show_phases() {
         printf "  %-14s %s\n" "$name" "$desc"
     done
     echo ""
-    echo "Usage: ./build-mac.sh <phase>    Run a specific phase"
-    echo "       ./build-mac.sh '*'        Run all phases"
-    echo "       ./build-mac.sh --clean *  Clean and run all phases"
+    echo -e "${GREEN}Options:${NC}"
+    echo ""
+    printf "  %-18s %s\n" "--lesson NAME" "Filter to a specific lesson (presentation/rotate steps)"
+    printf "  %-18s %s\n" "--generate" "Regenerate constrained hands (with classroom/rotations)"
+    printf "  %-18s %s\n" "--clean" "Remove build artifacts before building"
+    echo ""
+    echo "Examples:"
+    echo "  ./build-mac.sh classroom                       Quick build for app testing"
+    echo "  ./build-mac.sh rotations                       Build rotations (all lessons)"
+    echo "  ./build-mac.sh rotations --lesson Ogust        Build rotations for one lesson"
+    echo "  ./build-mac.sh rotations --generate            Regenerate constrained hands"
+    echo "  ./build-mac.sh rotate --lesson Finesse         Just rotate one lesson"
+    echo "  ./build-mac.sh parse                           Run a single phase"
+    echo "  ./build-mac.sh '*'                             Run all phases"
 }
 
 # Phase functions
@@ -211,12 +252,13 @@ phase_fill() {
 }
 
 phase_pbn() {
-    step "Convert to PBN Format"
+    local csv_file="${1:-BakerBridgeFull.csv}"
+    step "Convert to PBN Format (from $csv_file)"
     cd "$SCRIPT_DIR"
-    if [[ ! -f "BakerBridgeFull.csv" ]]; then
-        error "BakerBridgeFull.csv not found. Run 'fill' phase first."
+    if [[ ! -f "$csv_file" ]]; then
+        error "$csv_file not found."
     fi
-    python3 CSV_to_PBN.py BakerBridgeFull.csv StandardHeader.pbn "Baker Bridge Collection"
+    python3 CSV_to_PBN.py "$csv_file"
     PBN_COUNT=$(find pbns -name "*.pbn" | wc -l | tr -d ' ')
     echo "Output: pbns/ ($PBN_COUNT PBN files)"
 }
@@ -269,11 +311,11 @@ phase_presentation() {
 }
 
 phase_rotate() {
-    step "Generate Rotations (using bridge-wrangler)"
+    local filter="${1:-*}"
+    step "Generate Rotations (using bridge-wrangler) [filter: $filter]"
     cd "$REPO_ROOT"
     check_tool "$BRIDGE_WRANGLER_PATH" "bridge-wrangler"
-    # Run rotation script with all lessons and standard board set sizes
-    ./Tools/rotate_lesson_collection.sh "*" "*" 4 5 6
+    ./Tools/rotate_lesson_collection.sh "$filter" "*" 4 5 6
     ROT_COUNT=$(find "$REPO_ROOT/Rotations" -type f | wc -l | tr -d ' ')
     echo "Output: Rotations/ ($ROT_COUNT files)"
 }
@@ -301,7 +343,7 @@ run_phase() {
         pbn-pdf)      phase_pbn_pdf ;;
         package)      phase_package ;;
         presentation) phase_presentation ;;
-        rotate)       phase_rotate ;;
+        rotate)       phase_rotate "${LESSON:-*}" ;;
         *)
             echo "Unknown phase: $phase"
             echo ""
@@ -309,6 +351,80 @@ run_phase() {
             exit 1
             ;;
     esac
+}
+
+run_classroom() {
+    echo -e "${GREEN}╔════════════════════════════════════════════════════════════╗${NC}"
+    echo -e "${GREEN}║       Baker Bridge - Classroom App Build                   ║${NC}"
+    echo -e "${GREEN}╚════════════════════════════════════════════════════════════╝${NC}"
+    echo ""
+
+    phase_parse
+    phase_validate
+    phase_correct
+    phase_sme
+    if [[ "$GENERATE" == true ]]; then
+        check_tool "$DEALER_PATH" "dealer3"
+        phase_missing
+        phase_generate
+    else
+        cd "$SCRIPT_DIR"
+        if [[ ! -f "constructed_hands.csv" ]]; then
+            error "constructed_hands.csv not found. Run with --generate to create it."
+        fi
+        echo -e "\n${YELLOW}Reusing existing constructed_hands.csv${NC}"
+    fi
+    phase_fill
+    phase_pbn "BakerBridgeFull.csv"
+    phase_pbn_pdf
+    phase_package
+
+    echo ""
+    echo -e "${GREEN}Classroom build complete.${NC}"
+    PKG_COUNT=$(find "$REPO_ROOT/Package" -type f 2>/dev/null | wc -l | tr -d ' ')
+    echo "Output: Package/ ($PKG_COUNT files)"
+}
+
+run_rotations() {
+    local filter="${LESSON:-*}"
+
+    echo -e "${GREEN}╔════════════════════════════════════════════════════════════╗${NC}"
+    echo -e "${GREEN}║       Baker Bridge - Rotations Build                       ║${NC}"
+    echo -e "${GREEN}╚════════════════════════════════════════════════════════════╝${NC}"
+    echo ""
+    if [[ "$filter" != "*" ]]; then
+        echo "Lesson filter: $filter"
+        echo ""
+    fi
+
+    check_tool "$BRIDGE_WRANGLER_PATH" "bridge-wrangler"
+
+    phase_parse
+    phase_validate
+    phase_correct
+    phase_sme
+    if [[ "$GENERATE" == true ]]; then
+        check_tool "$DEALER_PATH" "dealer3"
+        phase_missing
+        phase_generate
+    else
+        cd "$SCRIPT_DIR"
+        if [[ ! -f "constructed_hands.csv" ]]; then
+            error "constructed_hands.csv not found. Run with --generate to create it."
+        fi
+        echo -e "\n${YELLOW}Reusing existing constructed_hands.csv${NC}"
+    fi
+    phase_fill
+    phase_pbn "BakerBridgeFull.csv"
+    phase_pbn_pdf
+    phase_package
+    phase_presentation
+    phase_rotate "$filter"
+
+    echo ""
+    echo -e "${GREEN}Rotations build complete.${NC}"
+    ROT_COUNT=$(find "$REPO_ROOT/Rotations" -type f 2>/dev/null | wc -l | tr -d ' ')
+    echo "Output: Rotations/ ($ROT_COUNT files)"
 }
 
 run_all_phases() {
@@ -365,6 +481,10 @@ fi
 if [[ -z "$PHASE" ]]; then
     show_phases
     exit 0
+elif [[ "$PHASE" == "classroom" ]]; then
+    run_classroom
+elif [[ "$PHASE" == "rotations" ]]; then
+    run_rotations
 elif [[ "$PHASE" == "*" ]]; then
     run_all_phases
 else
