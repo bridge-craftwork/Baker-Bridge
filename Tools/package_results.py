@@ -58,9 +58,15 @@ copy_pdf_with_intro(os.path.join(pdf_dir, "**", "*.pdf"), package_dir)
 
 # Overlay curated PBN files (board-by-board merge, curated wins on collisions)
 def parse_pbn_boards(filepath):
-    """Parse a PBN file into {board_number: board_text}."""
+    """Parse a PBN file into (preamble, {board_number: board_text}).
+
+    The preamble is everything before the first [Event tag — e.g. the
+    %Creator / %Created / %HRTitleEvent / %bridge-context comment block.
+    """
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
+    first_event = content.find('[Event "')
+    preamble = content[:first_event] if first_event > 0 else ''
     boards = {}
     parts = re.split(r'(?=\[Event ")', content)
     for part in parts:
@@ -70,7 +76,7 @@ def parse_pbn_boards(filepath):
         match = re.search(r'\[Board "(\d+)"\]', part)
         if match:
             boards[int(match.group(1))] = part
-    return boards
+    return preamble, boards
 
 curated_dir = os.path.join(base_dir, "../Curated")
 if os.path.isdir(curated_dir):
@@ -78,8 +84,8 @@ if os.path.isdir(curated_dir):
         filename = os.path.basename(curated_file)
         package_file = os.path.join(package_dir, filename)
         if os.path.exists(package_file):
-            pkg_boards = parse_pbn_boards(package_file)
-            cur_boards = parse_pbn_boards(curated_file)
+            pkg_preamble, pkg_boards = parse_pbn_boards(package_file)
+            _, cur_boards = parse_pbn_boards(curated_file)
             # Curated wins, but preserve filled Deal from generated PBN
             # when curated board has unfilled hands (...)
             for num, cur_text in cur_boards.items():
@@ -90,6 +96,8 @@ if os.path.isdir(curated_dir):
                         cur_boards[num] = cur_text
             pkg_boards.update(cur_boards)  # Curated wins (with filled deals)
             with open(package_file, 'w', encoding='utf-8') as f:
+                if pkg_preamble:
+                    f.write(pkg_preamble)
                 for num in sorted(pkg_boards.keys()):
                     f.write(pkg_boards[num] + '\n\n')
             print(f"Merged {len(cur_boards)} curated boards into {filename}"

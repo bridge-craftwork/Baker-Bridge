@@ -1,3 +1,8 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-05-24 07:02:11
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Weak2
+%bridge-context: 2M-2NT = Feature ask (NOT Ogust)
 [Event "Baker Bridge - Weak 2-Bids"]
 [Board "1"]
 [Dealer "S"]

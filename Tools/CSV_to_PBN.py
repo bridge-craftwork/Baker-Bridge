@@ -5,6 +5,8 @@ import datetime
 import re
 import json
 
+from lesson_context import render as render_bridge_context
+
 VERSION = "1.04"
 
 # =============================================================================
@@ -739,6 +741,9 @@ def convert_csv_to_pbn(csv_filename, header_filename=None, source_filename=None)
                 pbn_content.append(f"%Created: {start_time}")
                 pbn_content.append(f"%sourcefilename {source_file}")
                 pbn_content.append(f"%HRTitleEvent {subfolder}")
+                bridge_ctx = render_bridge_context(subfolder).rstrip()
+                if bridge_ctx:
+                    pbn_content.append(bridge_ctx)
             # Get taxonomy info for this lesson
             taxonomy = get_taxonomy_info(subfolder)
 
