@@ -21,7 +21,7 @@ LESSONS = {
     # ---- Basic bidding ----
     "Major":     "No Jacoby 2NT; plain Blackwood",
     "Minor":     "No 2/1; plain Blackwood",
-    "Notrump":   "Plain Blackwood; Gerber 4C over NT openings",
+    "Notrump":   "NO Stayman, NO Jacoby Transfers (natural responses only); plain Blackwood; Gerber 4C over NT openings",
     "Stayman":   "",
     "Transfers": "",
     "Blackwood": "Plain Blackwood (Aces); Gerber 4C over NT openings",
@@ -58,7 +58,7 @@ LESSONS = {
     # ---- Partnership-* shells ----
     "Partnership-BasicBidding":     "Standard American; no conventions",
     "Partnership-BasicMajor":       "No Jacoby 2NT; plain Blackwood",
-    "Partnership-BasicNotrump":     "",
+    "Partnership-BasicNotrump":     "NO Stayman, NO Jacoby Transfers (natural responses only)",
     "Partnership-Blackwood":        "Plain Blackwood (Aces); Gerber 4C over NT openings",
     "Partnership-NegativeDoubles":  "",
     "Partnership-Overcalls":        "",

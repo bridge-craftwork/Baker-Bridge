@@ -1,8 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-05-24 07:02:11
+%Created: 2026-05-26 16:03:36
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
-%bridge-context: Plain Blackwood; Gerber 4C over NT openings
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only); plain Blackwood; Gerber 4C over NT openings
 [Event "Baker Bridge - Notrump Openings"]
 [Board "1"]
 [Dealer "S"]
