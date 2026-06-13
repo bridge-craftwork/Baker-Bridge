@@ -53,7 +53,7 @@ LESSONS = {
     "Partnership-RomanKeyCard": "RKCB 1430",
 
     # ---- 2/1 ----
-    "2over1": "2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430",
+    "2over1": "2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430; Specific Kings",
 
     # ---- Partnership-* shells ----
     "Partnership-BasicBidding":     "Standard American; no conventions",
