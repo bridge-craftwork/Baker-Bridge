@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-13 06:52:02
+%Created: 2026-06-14 22:50:55
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Leben
 %bridge-context: Lebensohl over 2-level overcalls of 1NT (fast denies); applies over 2C as well (no 'systems on')
@@ -28,7 +28,6 @@ This is a sign-off hand. If East hadn't bid you would either have bid 2\S, which
 
 With lebensohl you can do the same thing, so you bid 2\S and partner passes.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "2"]
 [Dealer "S"]
@@ -53,7 +52,6 @@ The bidding has gone as shown. Decide what you would say, then click on <b>BID</
 Partner's bid at the 3-level is forcing to game and shows a 5-card \S suit.
 
 With 3-card support you are happy to bid 4\S.}
-
 
 [Event "Baker Bridge - Lebensohl"]
 [Board "3"]
@@ -80,7 +78,6 @@ With 12 points opposite partner's 15-17, this is a forcing-to-game hand, so you 
 
 Partner has 3-card support and is happy to bid game in that suit.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "4"]
 [Dealer "S"]
@@ -105,7 +102,6 @@ The bidding has gone as shown. Decide what you would say, then click on <b>BID</
 Partner's bid at the 2-level is a sign-off, the equivalent of the old "drop-dead" response.
 
 So even with your great support and maximum hand, you pass.}
-
 
 [Event "Baker Bridge - Lebensohl"]
 [Board "5"]
@@ -136,7 +132,6 @@ Partner bids 3\H. What do you say? [BID 4\H]
 
 With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "6"]
 [Dealer "S"]
@@ -163,7 +158,6 @@ Partner's direct cue-bid is the lebensohl equivalent of Stayman, but with no \D 
 With 4 cards in both Majors you bid 3\H.
 
 Partner then bids 4\H which you pass.}
-
 
 [Event "Baker Bridge - Lebensohl"]
 [Board "7"]
@@ -194,7 +188,6 @@ Partner makes the relay bid of 3\C. What do you say? [BID 3\D]
 
 NOW you can bid 3\D, which partner passes.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "8"]
 [Dealer "S"]
@@ -224,7 +217,6 @@ What do you say now? [BID pass]
 
 How about . . . . pass? Partner just signed off with this sequence. He couldn't bid 3\H directly, that would have been a game-force.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "9"]
 [Dealer "N"]
@@ -250,7 +242,6 @@ With your 12 point hand you need to force to game. It would also be nice to find
 
 Partner says 4\H and you pass.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "10"]
 [Dealer "S"]
@@ -274,7 +265,6 @@ The bidding has gone as shown. Decide what you would say, then click on <b>BID</
 
 Partner has promised at least a 5-card \D suit, and game-forcing strength. With your great \H stoppers you bid 3NT.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "11"]
 [Dealer "N"]
@@ -296,14 +286,11 @@ The bidding has gone as shown. Decide what you would say, then click on <b>BID</
 
 With your 12 point hand you need to force to game. It would also be nice to find out if partner has a 4-card \H suit. Since you have East's \S suit stopped, you first bid a lebensohl 2NT.
 
-Partner says 3\C. What do you bid? [BID pass]
+Partner says 3\C. What do you bid? [BID 3S]
 
-[show NS]
+NOW you cue-bid 3\S. This is Stayman, but with a \S stopper, (SLOW SHOWS). Partner says 3NT and you pass.
 
-
-
-NOW you cue-bid 3\S. This is Stayman, but with a \S stopper, (SLOW SHOWS). Partner says 3NT and you pass.}
-
+[show NS]}
 
 [Event "Baker Bridge - Lebensohl"]
 [Board "12"]
@@ -336,7 +323,6 @@ Partner has just described a hand with which he wants to play in game, which has
 
 With no 4-card Major of your own, you pick 3NT.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "13"]
 [Dealer "N"]
@@ -363,7 +349,6 @@ With 12 points opposite partner's 15-17, this is a forcing-to-game hand. If it h
 Playing lebensohl you do the same thing, jump to 3NT. Since you went directly to 3NT you are telling partner you have that type of hand, but DO NOT have a \H stopper (DIRECT DENIES).
 
 Partner does have them stopped so he passes.}
-
 
 [Event "Baker Bridge - Lebensohl"]
 [Board "14"]
@@ -394,7 +379,6 @@ He next says 3NT. What do you bid now? [BID pass]
 
 Partner's bidding shows a hand with which he would have bid 3NT without the overcall. Furthermore, he promises a \H stopper. He expects you to pass, so you do.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "15"]
 [Dealer "N"]
@@ -424,7 +408,6 @@ Partner says 3\C. What do you bid? [BID 3NT]
 
 You now complete the picture of your hand by bidding 3NT. (SLOW SHOWS). Partner passes.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "16"]
 [Dealer "S"]
@@ -449,7 +432,6 @@ The bidding has gone as shown. Decide what you would say, then click on <b>BID</
 Playing lebensohl, when partner doubles the overcall it is for penalties.
 
 Since you trust your partner, you pass.}
-
 
 [Event "Baker Bridge - Lebensohl"]
 [Board "17"]
@@ -480,7 +462,6 @@ Partner says 3\C. What do you bid? [BID 3\H]
 
 Now you bid 3\H. Partner will realize you have better than a sign-off, but were not good enough to bid 3\H immediately. He has a maximum, and he knows you have a 5-card suit, so he bids 4\H.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "18"]
 [Dealer "S"]
@@ -506,7 +487,6 @@ Partner's bid asks if you have 4 \Ss, and denies a \H stopper. (DIRECT DENIES)
 
 You don't have 4 \Ss, nor can you stop \Hs. You have no choice but to bid one of the 4-card Minor suits, so you go up-the-line and bid 4\C. Partner bids 5\C.}
 
-
 [Event "Baker Bridge - Lebensohl"]
 [Board "19"]
 [Dealer "N"]
@@ -531,7 +511,6 @@ The bidding has gone as shown. Decide what you would say, then click on <b>BID</
 It is possible your side can make 3NT on this deal. You have 9 points, invitational strength, and your \D stopper is excellent.
 
 However you should look for an even bigger reward by doubling. East is in serious trouble, and when the opponents make a mistake you should punish them.}
-
 
 [Event "Baker Bridge - Lebensohl"]
 [Board "20"]
@@ -563,5 +542,4 @@ Partner's bid is game-forcing Stayman, but with a \D stopper (SLOW SHOWS). Holdi
 
 
 Partner would not have asked for a 4-card Major unless he held one himself. Since it wasn't \Hs it must be the other one. You bid 4\S.}
-
 
