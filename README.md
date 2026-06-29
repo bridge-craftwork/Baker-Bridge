@@ -8,7 +8,7 @@ This project produces two distinct outputs from the same source content:
 
 ### Package (for Bridge Classroom app)
 
-The `Package/` folder contains PBN and PDF files served via GitHub raw URLs to the [Bridge Classroom](https://github.com/Rick-Wilson/Bridge-Classroom) web app. The app renders lessons interactively with bidding prompts, hand visibility control, and step-by-step analysis. PBN files include control directives (`[show]`, `[BID]`, `[NEXT]`, etc.) that drive the app's UI.
+The `Package/` folder contains PBN and PDF files served via GitHub raw URLs to the [Bridge Classroom](https://github.com/bridge-craftwork/Bridge-Classroom) web app. The app renders lessons interactively with bidding prompts, hand visibility control, and step-by-step analysis. PBN files include control directives (`[show]`, `[BID]`, `[NEXT]`, etc.) that drive the app's UI.
 
 ### Rotations (for live teacher classes)
 

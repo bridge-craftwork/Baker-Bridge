@@ -241,7 +241,7 @@ The `extract_hands_by_anchor()` function detects played cards by comparing hands
 
 The Bridge Classroom app fetches PBN files from:
 ```
-https://raw.githubusercontent.com/Rick-Wilson/Baker-Bridge/main/Package/{lesson}.pbn
+https://raw.githubusercontent.com/bridge-craftwork/Baker-Bridge/main/Package/{lesson}.pbn
 ```
 
 The app's `pbnParser.js` parses these directives and `useDealPractice.js` tracks state to control UI visibility.
