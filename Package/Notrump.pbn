@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
+%bridge-classroom-stable: true
 %bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only); plain Blackwood; Gerber 4C over NT openings
 [Event "Baker Bridge - Notrump Openings"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "S"]
 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d45209d162232683a36eecc4177607182aea49c0cb898ba630c2408b5898b7a0"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -44,6 +46,7 @@ Partner's 2NT bid invites you to bid 3NT if you are at the top of your 15-17 poi
 [Auction "S"]
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6f37d58c51d54f49ae4457fc2c484bd4cae7894993e16fd8159e50567a0ec8f4"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -74,6 +77,7 @@ You should count on partner for 9 points for his invitation. Your 17 brings the 
 [Auction "S"]
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "22907797e3a563198b6cb9b1e5a01a99aa3a57842e8e7cffb5f44eb8a7a67191"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -106,6 +110,7 @@ With all the 10s and 9s this hand is stronger than 16 points, so you bid 3NT.}
 [Auction "S"]
 1NT pass 4NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "736b148385fc113a087fdc0605ed92c782be11d21266dc9a3ac5c986bef1973a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -140,6 +145,7 @@ As you see, there are 9 easy tricks and you can probably set up another. But you
 [Auction "S"]
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "78c4837de63c3735e0517cfade84fb9977bb6f193eee02d5033b5cf7ab4e355d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -172,6 +178,7 @@ You have 11 top tricks and can easily set up one more in \Cs.}
 [Auction "S"]
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cd3e7455e300d3e6a710ded59c9adab858a86ace0f898c02a7a0053f3f3a82c7"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -204,6 +211,7 @@ As you might expect, this time the slam is not so certain, but there is a good c
 [Auction "E"]
 pass 1NT pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "dcb5dbd48ab63d56b201e064dbc74b81c3129f81de068e0ade8fc15ffa2ed21e"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -234,6 +242,7 @@ Pass. Partner has long \Hs (probably 6) and short points (fewer than 9). He has 
 [Auction "W"]
 pass pass pass 1NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9ad2bc2be78d1b4085511156ad75c88199b4a265578f7ceb79a541856b8e1070"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -268,6 +277,7 @@ NOTE: Jacoby Transfers are very useful for this type of hand.}
 [Auction "W"]
 pass pass pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "85da5630647362bfb736b4880c6167d477d962a82a42ee2c828fde7f2762667d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -298,6 +308,7 @@ Partner shows 10+ points and exactly 5 \Ss. This time, with 3-card support, you 
 [Auction "E"]
 pass 1NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "51905975a7d01ae358c39ff71a39ee6b98f2cba3c6f66f88792d383656cd9a3f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -330,6 +341,7 @@ So you just return to 3NT. Partner gives up and passes.}
 [Auction "E"]
 pass 1NT pass 3C pass 4C pass 4NT pass 5D pass 6C all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "57c9e99a4cef5a124bdc7b541ad9bf7ca2c6f0c0d8003e06f60765ac6b2ad054"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -364,6 +376,7 @@ That is Blackwood. You admit to one Ace and partner bids 6\C.}
 [Auction "E"]
 1D 1NT pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e9ba6f9f809d1bf9316721133c02117ced7422d030339a00463ccbccd47ccf0a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -394,6 +407,7 @@ And the responses are the same also. Partner's 2\H bid is a signoff bid, often c
 [Auction "S"]
 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "944bd5e84bc5232f9640aada94b46f9e5f04dd1162e64033a8a339b14d68b1cd"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -424,6 +438,7 @@ Partner is showing a 5-card \S suit and at least 5 points. This is a forcing bid
 [Auction "W"]
 pass 1NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "346f7ff0454f98a653e3a9acf1698eec772083d2cee67bfad6c45b57fef07584"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -450,6 +465,7 @@ You have 8 points. Even if partner has the maximum 17 it would only add to 25, w
 [Auction "N"]
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "36db498ac954ea363bf963c4dbd9b8fec052807217e20171c42ce578e89a49b6"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -476,6 +492,7 @@ With 9 points you have just enough strength for an invitation. So you bid 2NT. P
 [Auction "N"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "45763879cd654169ff7e717ff9efc7e665a9d30626040cb7442898f13c138d06"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -502,6 +519,7 @@ A balanced hand with 12 points. Even if partner has just 15 points you want to b
 [Auction "N"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fb26ef1e0fbff03e379bede70cf3dcf68601a7178580be31b8af8a6237ac96b5"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -528,6 +546,7 @@ You have just 9 points, only 7 of which are HCP. Still, that \D suit is very lik
 [Auction "N"]
 1NT pass 4NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b844594c61a104e3f25b5a2770838dde60cc91338db2c570f58b6e4025ed4041"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -556,6 +575,7 @@ So you bid 4NT and guess what? He passes.}
 [Auction "N"]
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2302752e99b55c9cffa0d200f6e4f1c6b1a6627b9666c8165ebd5643f2daf881"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -582,6 +602,7 @@ Do the math. If partner only has 20 points you still come to 34 points, enough f
 [Auction "N"]
 1NT pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f46e8ddcf66a190520a2fccdc52f76cd346c5f5bb446be92815c0ac64003c60c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -608,6 +629,7 @@ You have a terrible hand and partner is not going to make 1NT. So you bid 2\S, t
 [Auction "N"]
 1NT pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "603baa29fab9e496cd20ed20d7d5c16a5fbe6ecce84ccae9ed2c1f58f2f2f800"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -638,6 +660,7 @@ As you see, it is going to take some luck.}
 [Auction "N"]
 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "efbfcf79b31e743f228cae71ce938878f50d0bdcd1930a8071cc250a13e712ca"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -666,6 +689,7 @@ Partner has 3 of them so he bids 4\S.}
 [Auction "N"]
 1NT pass 3C pass 4C pass 4D pass 6C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ea08907e8274cc41b772fc66482c5473dbe3256a4bc0ab4cce370119a99b1cd7"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -696,6 +720,7 @@ Don't make the mistake of bidding Blackwood when you have a doubleton-nothing in
 [Auction "N"]
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2f7d43973fc22ae06cb51de68d5ea1ffa9925792c1261cf305883031467bded1"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -724,6 +749,7 @@ You hit the jackpot.}
 [Auction "N"]
 2NT pass 4C pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e7f4e41420419554bae9c938c9fa95e27fd6c0a4780a59f239df1fef5d6e4e1a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]

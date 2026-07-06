@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Jacoby2NT
+%bridge-classroom-stable: true
 %bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids
 [Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d6eea4a56be212339816f2c204d0037fb947078442f14ff6cfb0c75a6f03a6e4"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -39,6 +41,7 @@ NORTH has a minimum opening hand with nothing extra to show, so signs off at 4\H
 [Auction "S"]
 1S pass 2NT pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6172136100033405189cdbceafffb05d9d10225a51ec6da3b6ff0b1a8ef45935"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -69,6 +72,7 @@ NORTH cannot make any positive move, so she bids 4\S which SOUTH passes.}
 [Auction "N"]
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "21c532247a87557533de3191575477492c3ddd5089040e93b0d8e6d8e07bf5bd"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -95,6 +99,7 @@ SOUTH has already bid the full strength of his hand so he signs off with 4\S whi
 [Auction "S"]
 1S pass 2NT pass 3C pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7c967af5ba8ab68c3776d6944349c1f978740237a08d35be5c5548be66429a2a"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -126,6 +131,7 @@ and he knows that NORTH doesn't have first-round control. He bids 4\S and NORTH 
 [Auction "S"]
 1S pass 2NT pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e870e99810d9489e7639b5a91fc996f1130c00795fab080e7ee9d7a06636d639"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -157,6 +163,7 @@ Blackwood to check for Aces, then bids 6\S.}
 [Auction "S"]
 1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d8034d652a5c5d5fdcc75a6c36958b190effadd1ddd38f8af39170b7e7d4b76c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -184,6 +191,7 @@ and stop at 5\H if he has just one. If South has no Aces NORTH will get a new pa
 [Auction "N"]
 1S pass 2NT pass 3NT pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ac355c9226e862c866c3e682c0d4d80a399108e78a2b6e48ac76865413a016cb"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -215,6 +223,7 @@ Control bid of 4\H denied first-round control in both \Cs and
 [Auction "S"]
 1S pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "813ae950edede4cc94db02baffe67957de56a71e133a63a05745cc7b644e3dc8"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -242,6 +251,7 @@ to initiate the investigation herself.}
 [Auction "N"]
 1H pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2d643cdb88586ae8ec356711fda01343e3b900c76c7fa24a1064e2d5474101dc"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -269,6 +279,7 @@ it does nothing to help the value of her hand. So she bids the \H game.}
 [Auction "S"]
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "733e832056868e62fd91c20b00d53a3cf3cdab5f15dc223c666400e0bf96c3b7"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -300,6 +311,7 @@ So SOUTH settles for game.}
 [Auction "N"]
 1H pass 2NT pass 3H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1a204817f493408e0c2ab3ccdaa75cd340c0704cd42156622eb12c7403be7141"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -325,6 +337,7 @@ The next three bids are all Control-showing cue bids.}
 [Auction "S"]
 1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6e2720c26cec78c9b742d1ca6a1c0cdadcd51687a669951d99e9026eb2cfa1f8"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -352,6 +365,7 @@ Blackwood just to make certain SOUTH holds the trump Ace.}
 [Auction "N"]
 1H pass 3S pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "07522adc6deea5b7cef725ef52a5f8abc7b603ac7132648dc9858c8069d4cb5c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -379,6 +393,7 @@ she had just one \S loser anyway. She signs off in 4\H.}
 [Auction "N"]
 1H pass 3S pass 4C pass 4D pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "13d3e34add30f939eaa0fe98fb07a988bbdfe250d093164b5789e723e508abd2"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -407,6 +422,7 @@ uses Blackwood to make sure SOUTH also has the trump Ace.}
 [Auction "N"]
 1H pass 2C pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0706c9672781a1ffff285500ef80810be3c0dd860936ac47c6cd1a0e07a3b8f1"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -436,6 +452,7 @@ NOTE: if you used Jacoby 2NT and reached the 4\H game, give yourself credit anyw
 [Auction "S"]
 1H pass 2NT pass 3S pass 4C pass 4NT pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ec8e377e0a55ab21355550d7a3a996cc10086828a14bdde9b9b05dde2028b075"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -465,6 +482,7 @@ When Blackwood reveals just two Aces in NORTH, SOUTH stops at 5\H.}
 [Auction "N"]
 1H pass 2NT pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c1832e82da75e27f3ebbaa6497fe58a157940c76a8101cf77739083cb3e3967a"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -494,6 +512,7 @@ just bids 4\H.}
 [Auction "S"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "88a01106a1bfddd04bbad1f8fc23dceee3da1fd32ceae3c8ab8d11e7124f6986"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -522,6 +541,7 @@ and perhaps gotten too high.}
 [Auction "N"]
 1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5D pass 5S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c349cfc6653c862f23417bc1963ea517d4d5d9017fec6843ab2c5797f28fd779"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -552,6 +572,7 @@ A final check with Blackwood shows two Aces missing. Too bad.}
 [Auction "S"]
 1S pass 2NT pass 3S pass 4C pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c0e02213eed6f07a598f42f92ca3c0dcdff5564c65981cfad1eba55a822c6555"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -582,6 +603,7 @@ So they stop in game.}
 [Auction "N"]
 1H pass 2S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2754b4446fdeb1122ff067f3d79a16e6e0787cdd99a29843d8f519e10deed26b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -614,6 +636,7 @@ It didn't matter, slam is cold in either Major.}
 [Auction "S"]
 1S pass 2NT pass 4C pass 4NT pass 5H pass 7S all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b0cf07cbe311c44d8c2c495cab30efb248568b41b818d436dfac2679036f40f4"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -646,6 +669,7 @@ out any \C losers.}
 [Auction "N"]
 1H pass 4C pass 4D pass 4H pass 4S pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2d934a17a3a7681e382716b0a18249be5ae788480f75fd90ab74c12330488786"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -677,6 +701,7 @@ SOUTH finally gets inspired and bids the slam.}
 [Auction "S"]
 1S pass 2NT pass 3C pass 3H pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "18f96248fa5d75731909320105f4944ea6cfa67f5a2200016fe189ad86dfa032"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]

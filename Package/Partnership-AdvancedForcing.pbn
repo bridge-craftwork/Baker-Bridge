@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-AdvancedForcing
+%bridge-classroom-stable: true
 %bridge-context: FSF one-round force only; Help-Suit Game Try
 [Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 1H pass 1S pass 1NT pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a844aeb4a1925cb523c9ec955084dfce41516ad65c9b1dc6e0df8c797e21fbfa"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -40,6 +42,7 @@ SOUTH's 2\D bid is New Minor Forcing.
 [Auction "S"]
 1H pass 2H pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0b6c637b119a3e30fc719bd68c8d9f9cb669caebb0a5ed3e67c6daa95cceee09"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -67,6 +70,7 @@ not enough to think of game, so NORTH signs off in 3\H.}
 [Auction "N"]
 1S pass 2C pass 2H pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4e111c33944f5155fbeea26d3759691e1b806b0a1c815d978c6be88f6aa672d9"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -94,6 +98,7 @@ NORTH does not have a rebiddable suit, but does have \Ds stopped so she bids 3NT
 [Auction "S"]
 1D pass 1S pass 1NT pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a09afcb76b06f6b4bb6059353b2db448b0c6420f2e1532c0fdf270abcffce505"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -126,6 +131,7 @@ enough to bid game so she passes.}
 [Auction "N"]
 1S pass 2S pass 3D pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2004dc24cff829e1b3b4f236a5242220968c4263a646cc497a2034796d7cc19e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -152,6 +158,7 @@ so with 8 points he bids the game.}
 [Auction "S"]
 1D pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d5961fc87b9b82c4e505f4cfd56b61acc9387c556f64799ac565052b27f63eda"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -182,6 +189,7 @@ So NORTH should bid the Notrump game.}
 [Auction "N"]
 1H pass 1S pass 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "50f8ced6216c90248a9362bc7a04ee38e00d65883af1fc2e9e1af81f94a07ada"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -209,6 +217,7 @@ see if NORTH happens to have three \Ss. She does, so 4\S becomes the better game
 [Auction "S"]
 1C pass 1S pass 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0d9168beaced4b8787faccb7d4cb28a242002bfde9e25360923c9c8a09060e9d"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -239,6 +248,7 @@ Change SOUTH's \H9 to the \S9 and the contract would be 4\S.}
 [Auction "N"]
 pass pass 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "81ee3a44b86630578a366da93d7cac786d78f8dc0fe349c8336d10fcb7406f2d"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -266,6 +276,7 @@ raise to game.}
 [Auction "S"]
 1H pass 1S pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a169b02fef7eb785bc6cea818b7d1e5ac2e0296922e6241b71442455c65e3cb0"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -295,6 +306,7 @@ So NORTH should bid the Notrump game.}
 [Auction "N"]
 1H pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a0832bed30d8dfb49d269b72c41c6ddb2e3723a51333c4221535e7b453a612c1"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -317,6 +329,7 @@ try for game.}
 [Auction "S"]
 1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1c91bdfe4cfa18c0318a81cedfcfb4c432f22b806cfebe3c432377427030247e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -345,6 +358,7 @@ three \Ss, but he does have \Cs stopped so he bids 2NT, which North raises to 3N
 [Auction "N"]
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "bd0dadec9ca10fe75a30082ea60af9ccb8df9c887700f2c8c5c1e2d5fcc44176"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -370,6 +384,7 @@ SOUTH has 8 points and the doubleton \C K Q so he bids the game.}
 [Auction "S"]
 1C pass 1D pass 1H pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ad717999e8ae88ca59ee6924eb572452640fb4bc0bab2401ac260e9422da8492"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -401,6 +416,7 @@ SOUTH, win a fine \S stopper, bids 3NT.}
 [Auction "N"]
 1C pass 1S pass 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d66ef529e99649ba87c365a01b361de237980d65eac0c66a42110d9b7b8c633e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -429,6 +445,7 @@ first priority.}
 [Auction "S"]
 1C pass 1D pass 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b641a3b81bec676a8ddf8e1d19d819b51c0afb230bbf780e86ceb8c49e2d9722"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -455,6 +472,7 @@ So SOUTH shows the 4-card support and NORTH bids game.}
 [Auction "N"]
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9a707c65c292bfe63a1942d4d0666ac793f2211fefcf84d48ab4232e3efd03d9"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -482,6 +500,7 @@ so he bids the game.}
 [Auction "S"]
 1C pass 1D pass 1S pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4320fed75ca457f9db5efcedf926e0aae7cb85e16a24d95558be9fdbe3d00d39"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -512,6 +531,7 @@ NORTH should ignore the \H suit and bid 3NT.}
 [Auction "N"]
 1D pass 1S pass 2C pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1301398d44eb790972bc102192169122f446d6482f4130ab7b17046911ca099e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -539,6 +559,7 @@ NORTH recognizes that SOUTH must hold five \Ss and bids the \S game.}
 [Auction "S"]
 1D pass 1H pass 1NT pass 2C pass 2D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b313fd1fcbc0c0cab2ea3bfd225e8674deda776a4cddb804488cff980aee290b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -570,6 +591,7 @@ NORTH has nowhere to go, so passes.}
 [Auction "N"]
 1H pass 1S pass 2D pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8c94344316e59d56cd7f44dd619552bee9158e1633f424c42a25e2d52021d63b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -597,6 +619,7 @@ points to be in game so he bids it.}
 [Auction "S"]
 1S pass 2S pass 3H pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "712c64a2d9f0b55e5c2e9f1c912dcf8af9928a5c6d08e1806079b8abc679859c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -623,6 +646,7 @@ NORTH cannot provide any help at all, so quickly signs off in 3\S which SOUTH pa
 [Auction "N"]
 1D pass 1S pass 1NT pass 2C pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "669ee82adb517994d62fa3158be1988ac83217c3be883ab46b3a8adea0b3dc28"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -648,6 +672,7 @@ NORTH does show three \Ss, but also shows a minimum hand so South passes.}
 [Auction "S"]
 1D pass 1H pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "99f1b332fbc12d0a4a3414b31bb996f27f951c6356a505027d38ce9fc81efb1b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]

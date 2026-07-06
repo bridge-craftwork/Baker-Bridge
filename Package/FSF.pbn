@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent FSF
+%bridge-classroom-stable: true
 %bridge-context: FSF = one-round force only (invitational), NOT game-forcing
 [Event "Baker Bridge - Fourth Suit Forcing"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 1C pass 1H pass 1S pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "853823ed9a90c53124d98672f0274972cd5b0cee9fd55b13cccf41451d387c2a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -46,6 +48,7 @@ Partner tells you he has 3 \Hs. You bid the \H game.}
 [Auction "S"]
 1D pass 1H pass 1S pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "74bd7bf1accf838486fba23a57b4ccdc6e514aa2352e6307010c5a83101e5bdb"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -78,6 +81,7 @@ This is Fourth Suit Forcing and partner may or may not have a \C suit. You do no
 [Auction "N"]
 1C pass 1H pass 1S pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cb9fba6565ee7ccaefcda4f56ee1e78c9eb43fdec4979c637b3d2bef232ff9e7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -110,6 +114,7 @@ Partner does not have 3 \Hs, but he does have \Ds stopped. So you bid 3NT.}
 [Auction "S"]
 1D pass 1S pass 2C pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ccb63d7f23ae90bfb7c06c4b39d078920a41afbf4a01ccb248c19d8afd613c51"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -144,6 +149,7 @@ This is Fourth Suit Forcing and partner is fishing for more information. You cer
 [Auction "N"]
 1H pass 1S pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a7f9d158392032c894d207d13a7bb5f09682d7adca972c7476ba02a7b5a49fe1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -174,6 +180,7 @@ With 13 points, bid what you expect to make, 3NT. Partner passes.}
 [Auction "S"]
 1H pass 1S pass 2C pass 2D pass 3C pass 5C all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9334128c2cf006570e441492199242ce0892dd62b275c7207a8b8bb311ae8d78"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -208,6 +215,7 @@ Partner's bid is FSF. He wants to know if you have 3 \Ss, (you don't), or if you
 [Auction "N"]
 1H pass 1S pass 2D pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8efd552ea278dfd72bb60d381f5c63fb26038ca8f84e3baa4d68ce38738a1047"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -238,6 +246,7 @@ So you say 3\C (FSF) to find out if either possibility exists. Partner does have
 [Auction "S"]
 1D pass 1S pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "afa07b08844e716ecab9d08bb80b78a16dfda06140f703b708efa4d96d8dbdda"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -272,6 +281,7 @@ Since partner jumped this is <b>NOT</b> FSF. Partner has a \H suit and a pretty 
 [Auction "N"]
 1H pass 1S pass 2D pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ac15adaafcf4b8bb1c604bf9debafe979624d8ded16df821ebffe9a7578f103a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -300,6 +310,7 @@ You COULD bid 3\C, FSF, to find out if partner has a \C stopper but that would b
 [Auction "S"]
 1D pass 1S pass 2C pass 2H pass 2S pass 4S all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "72009152298ba257808feda95ccc78bc2bc2ea48e0b280c8d00c0a795c75e8d0"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -332,6 +343,7 @@ This is FSF, asking you to further describe your hand, and you have a problem. Y
 [Auction "N"]
 1H pass 2C pass 2D pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "81a8a435d1e5ab1a305170493938037eab56ea35780c38f8c1135d0e0d4f45c0"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -366,6 +378,7 @@ It couldn't have worked out better. Notrump played from partner's side. You bid 
 [Auction "S"]
 1C pass 1D pass 1H pass 1S pass 2S pass 4S all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b2115fcb9127cf90d7f44da99fd3163ba51342fa08ac58399a6dc8336690a3bf"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -398,6 +411,7 @@ Be careful! This is NOT Fourth Suit Forcing. It is true that you are forced to b
 [Auction "N"]
 1H pass 1S pass 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3e5fdb64445af0dd9366ad6c477cf6a3801df65822bc35315cfcede3ba845537"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -428,6 +442,7 @@ Partner says 2\S, telling you he has three of them, and you bid 4\S.}
 [Auction "S"]
 1C pass 1H pass 1S pass 2D pass 3H pass 4H all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "35a032be03141492c39c8375641a384d1c6f548692a3134926dfbe0256e510ee"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]

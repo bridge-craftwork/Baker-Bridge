@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Help
+%bridge-classroom-stable: true
 %bridge-context: Help-Suit Game Try (NOT Short-Suit)
 [Event "Baker Bridge - Help Suit Game Try"]
 [Board "1"]

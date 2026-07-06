@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
+%bridge-classroom-stable: true
 %bridge-context: RKCB 1430
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 2C pass 2NT pass 3S pass 4S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "64d064d1e987a510c575edbe334a2f6e39870871f16c8c27630626e0150c9b0e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -40,6 +42,7 @@ NORTH bids RKC Blackwood 4NT. SOUTH shows two Keycards (two Aces) and NORTH bids
 [Auction "S"]
 1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9caaf1cb6eaded1abd7682926434ebc47730efe34f9f59527e427df090906ff4"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -71,6 +74,7 @@ are only five total. She must have zero and SOUTH signs off at 5\H.}
 [Auction "N"]
 1H pass 1S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8614252fd579cc686ba64ae2483e5bd13fbd31cd8023f02ebb0ed7756b08980c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -107,6 +111,7 @@ bids a confident 6\S, knowing NORTH has either three Aces or two Aces plus the \
 [Auction "S"]
 1H pass 3H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "077ad8d240f7b8312eae752080a9094072d996ea503a8e0a886a92558dfaa995"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -134,6 +139,7 @@ is practically a certainty.}
 [Auction "N"]
 1S pass 3S pass 4C pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "106c7785be8a23b38d51fb6b3b6f3072c64274a2cf988e50dc77bd9db81515af"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -169,6 +175,7 @@ NORTH stops at 4\S because neither partner controls \Ds.}
 [Auction "S"]
 1H pass 2D pass 4NT pass 5S pass 6D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2c276f0fb1a25e1abffdbaba48d622c747cfdf3e90161751871b7bb7c9dcdb91"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -201,6 +208,7 @@ If NORTH had just one Key-card, SOUTH would bid 5\D over the 5\C reply.}
 [Auction "S"]
 1H pass 2C pass 4NT pass 5C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a994d9f00c0d1057e69cb64bf0db13145f0969d0e367f648b426ace51089031e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -232,6 +240,7 @@ That's what happens here.}
 [Auction "S"]
 1NT pass 4C pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d523b595744ec4101b2f6e6e594fb78a1ba7b4d39e86fb7c79dba329dfa8915e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -265,6 +274,7 @@ The first way is probably better but we needed a Gerber example.}
 [Auction "N"]
 2C pass 2S pass 4NT pass 6D pass 7S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "19622897c84ff1e1831b92fc24200358758c7c0115bd14f2d864ee2af1791225"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -299,6 +309,7 @@ NORTH readjusts her thinking and decides to bid the Grand.}
 [Auction "S"]
 1NT pass 3H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a47bdbc064c2ffee500cff04064d64ce2bfc65b7626f9499dc3297fb581a8464"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -332,6 +343,7 @@ That is enough for SOUTH to bid the slam.}
 [Auction "N"]
 2C pass 2S pass 3S pass 4NT pass 5D pass 5H pass 6C pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "349c225b9f5466202ad7087e420204b2cc4102864c5e822a127336ac662527c0"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -364,6 +376,7 @@ SOUTH figures the \S suit will run, and this should be enough for Grand Slam. He
 [Auction "S"]
 1NT pass 3S pass 4S pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ddb6c2c49857c90adce76d943f2d044746ef322186191547831c5bee85ebc538"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -392,6 +405,7 @@ She bids 6\S (and hopes for a 3-2 trump split!).}
 [Auction "N"]
 1NT pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9a4725db9e3e0b571d0bef2f9f9878c3dc01503dc0bfe7fec2f740357b4043a2"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -424,6 +438,7 @@ enough points for a Grand slam.}
 [Auction "S"]
 3H pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3ce6980a9b56943f487a4f9a1ab0d80c43261f772425287dde01916278674829"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -456,6 +471,7 @@ She bids a confident 7NT (and hopes SOUTH didn't open 3\H with a 6-card suit.}
 [Auction "N"]
 1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d1328a294447e32e06af1721a5fff392c087789180212ce1ae94636964260b3e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -486,6 +502,7 @@ Of course she didn't expect the two missing Key Cards to be the Ace and King of 
 [Auction "S"]
 1D pass 1H pass 2NT pass 4NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b16a7843bc299978e60a64068c6652a71325b3b01dbf9b8dc435b9b3eeb72e2b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -516,6 +533,7 @@ to bid 6NT if he felt his hand was a "maximum". He didn't, so he passed.}
 [Auction "N"]
 1H pass 4C pass 4NT pass 6C pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7b8944893b118a3d932b4ddaad6eafb5b4447b0b893b4cbbb5e25cd06cc16432"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -546,6 +564,7 @@ Just what NORTH needed for the 6\H bid.}
 [Auction "S"]
 1NT pass 2C pass 2S pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "30a90e07c7d28ba45dade0589fb1bc4e9fe16dd7c49ff2051c4008158739c416"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -579,6 +598,7 @@ This fills the holes in NORTH's hand nicely, so she bids 6\S.}
 [Auction "S"]
 1NT pass 2C pass 2S pass 4NT pass 5H pass 5S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "283563f6938dd8e45cfc5091abb716072b4b52767960cdccb638d1230bd048eb"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -610,6 +630,7 @@ in trumps. So she stops at 5\S.}
 [Auction "S"]
 2H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "56cda0fb3b10e51f8a090ba9c61b8f95ead82f1a663841ae8e379d9f058864e0"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -641,6 +662,7 @@ SOUTH cannot have as much as an extra Jack, so NORTH just passes 3NT.}
 [Auction "N"]
 2C pass 2D pass 2S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8416f71d83293ff7071909bfc0b8707d312a4b7329600b047c54e066c9977e4c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -669,6 +691,7 @@ might possibly make all thirteen tricks with a finesse.}
 [Auction "S"]
 2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1244e1ae4a161de1def3de2f88c62ccbc42a5ccca4f1be1a96095341bd1c11db"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -701,6 +724,7 @@ to 6\H.}
 [Auction "S"]
 2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "adeb3e83d2526a8acd925cd4892fdd4231410b096e4fa540eba74fc248f1fdba"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -733,6 +757,7 @@ to 6\H anyway.}
 [Auction "S"]
 1H pass 2S pass 3C pass 3H pass 4H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "aebc1ac0104ec1cf3afee5d93491b6ddea5eb769c3309aaf6b0354e55a3c589f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]

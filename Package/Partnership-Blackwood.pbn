@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
 %bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
 [Event "Baker Bridge - Blackwood and Gerber"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 2C pass 2D pass 2S pass 3S pass 4NT pass 5C pass 5S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "60b8324ba261ec4d7004566e12506f5d448f11427cda75cc1e331ecee6080d47"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -40,6 +42,7 @@ when SOUTH bids 5\C NORTH settles for 5\S}
 [Auction "S"]
 2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "84f8ca06a05818c9ce0629f51fcd47dea95152b3e956692715ccf0a1d638e1db"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -67,6 +70,7 @@ A Blackwood 4NT tells her the answer is one, so she bids 6\H.}
 [Auction "N"]
 1NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9b4cc8773fa0a4a568e81efd8b1b3bf20904c2cf99af47aaf039d5ae8e23cb8d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -97,6 +101,7 @@ So SOUTH settles for the small slam.}
 [Auction "S"]
 1H pass 2S pass 3S pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "71e29b2dd8c60216f25efa7febb3ce0c2920f6921a3c56f0952e8ab57585242d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -129,6 +134,7 @@ She bids 7NT.}
 [Auction "N"]
 2C pass 2H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e608667f8eb330b8115f733f735177d7ff6761d17a57f806077340da4141ac1b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -155,6 +161,7 @@ It's good thing she did because SOUTH admits to only one Ace - they are missing 
 [Auction "S"]
 1D pass 2NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5d9e001ab34f4ba903767952be818e93184a152c85dd3de6ce86badced3a4530"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -181,6 +188,7 @@ NORTH shows two Aces so SOUTH decides 6NT will be just right.}
 [Auction "N"]
 1C pass 2S pass 3S pass 4NT pass 5S pass 5NT pass 6C pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "08ca03e3c1dae694dbee00f9c4b28305590b75fd6b516a17f3a160b5e637fd80"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -208,6 +216,7 @@ SOUTH bids 6\S since NORTH has not bid strongly enough to think about 7.}
 [Auction "S"]
 2C pass 2H pass 3H pass 3S pass 4NT pass 6C pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8227e33c92bb3d9664f21c2b76c65d8ae01609efd4afb83d3b072c59ce67956e"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -240,6 +249,7 @@ SOUTH bids 6\H, knowing they must lose the \DA.}
 [Auction "N"]
 1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "288cf395f205a3bdf97e71e0384dabfc99998d1c29fffcd8d67787a4a319f481"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -274,6 +284,7 @@ NORTH counts thirteen tricks and bids 7\H.}
 [Auction "S"]
 1H pass 3H pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7fdfc7ab755328527b0ea28cad724590e7def9fd32089ace373ea76cea11eb6e"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -304,6 +315,7 @@ SOUTH manages to figure out that NORTH has a \S void and bids the slam anyway.}
 [Auction "N"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "24b95846aa42f2ef4ac6f2120471fbd5d94bb5262e5e1b5005374341e556a6e1"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -326,6 +338,7 @@ Even if SOUTH has a maximum there won't be a slam.}
 [Auction "S"]
 1H pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a6469ff91a1234d1ae0c1eb4e7a059491a615442e759ade5b35bc6efc00dc902"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -353,6 +366,7 @@ he bids 6\H, hoping that he can at least make that and that 7 isn't a laydown!}
 [Auction "N"]
 2NT pass 4C pass 4NT pass 5C pass 5NT pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1b9983ffefc283b18b0d323013e084acbf527501fabc652b481776d0fe2ee787"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -388,6 +402,7 @@ slam and bids 7NT.}
 [Auction "S"]
 2NT pass 4C pass 4H pass 4NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "90b62051c94f4b4d5e7067c3a63ae66907f4a3b268eec4c44a68b25da47594dc"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -418,6 +433,7 @@ would be tricky to get there. Very tricky.}
 [Auction "N"]
 1NT pass 4NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a955657b5fd1d3fa431aac68ca3e2a40cc96a11ac5ff5597429bbe120b3018ac"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -450,6 +466,7 @@ were changed to the \HA she would bid 6NT and collect her twelve easy tricks.}
 [Auction "S"]
 1NT pass 4C pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c8da12929e6c7bc8321fce51477ca592418d2bb5dd32f015193cb28363a748dd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -476,6 +493,7 @@ But, when she discovers they are missing an Ace she settles for 6NT.}
 [Auction "N"]
 2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5NT pass 6H pass 7NT all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6234db81a0c359b7cd22350cfc59a7b26d65798218c4875dee85d0415a0127b8"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -507,6 +525,7 @@ Finding SOUTH with two Kings was what she wanted.}
 [Auction "S"]
 1D pass 2NT pass 4C pass 4S pass 5C pass 5S pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d1b0a408ed4b38bfe324339a1efb67344cb4ee22ed3aed1f798d8dfa6390cc20"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -538,6 +557,7 @@ Two Major Aces and two Minor Kings fill the holes in SOUTH's hand so he bids 7NT
 [Auction "N"]
 1D pass 3D pass 4C pass 4S pass 4NT pass 5D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "393d3458543a9ab862bf07cd129ace7e87e9db0301876b9c48aa579d3fb15bb8"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -564,6 +584,7 @@ missing two Aces!}
 [Auction "S"]
 1S pass 2H pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5d5908083daba73a09bf99b22d1b99eeb941a67bbb1a86a06df6c6420e048d34"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -595,6 +616,7 @@ so she bids 6\H.}
 [Auction "N"]
 1C pass 1H pass 3H pass 4NT pass 5D pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9596657c891acea46722b304d43a1f267c786a185e2cfeb44ad6d588c6e0a217"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -626,6 +648,7 @@ supply five tricks so she bids 7\H.}
 [Auction "S"]
 1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "feb5dcfd970aa9208ec5c0df065c7045984eaad153e82fdb96e4e8b229ea0169"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -656,6 +679,7 @@ It turns out that SOUTH might make twelve tricks, depending on the \HK situation
 [Auction "N"]
 1D pass 1H pass 2NT pass 4C pass 4NT pass 5C pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1a4419e2b7c8b65287fe78baa4b1bf6d291f99d29c3af78f376ae0d4d38ea9e7"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -684,6 +708,7 @@ When he discovers that NORTH holds three Aces and one King he can count thirteen
 [Auction "S"]
 2C pass 2NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "38dd9e896d26a48ad4ca52b6a97755117bce435b244940aef5fdc78535f34e1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]

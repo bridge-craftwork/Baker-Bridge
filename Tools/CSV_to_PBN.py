@@ -741,6 +741,10 @@ def convert_csv_to_pbn(csv_filename, header_filename=None, source_filename=None)
                 pbn_content.append(f"%Created: {start_time}")
                 pbn_content.append(f"%sourcefilename {source_file}")
                 pbn_content.append(f"%HRTitleEvent {subfolder}")
+                # Board-identity metadata for Bridge Classroom: stable => boards
+                # count toward mastery. (Collection is sourced by BC from its own
+                # config, so it is intentionally not carried in the PBN.)
+                pbn_content.append("%bridge-classroom-stable: true")
                 bridge_ctx = render_bridge_context(subfolder).rstrip()
                 if bridge_ctx:
                     pbn_content.append(bridge_ctx)

@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Drury
+%bridge-classroom-stable: true
 %bridge-context: REVERSE Drury (2C); Opener's 2D rebid = light 3rd-seat opening
 [Event "Baker Bridge - Reverse Drury"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "S"]
 pass pass 1H pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "84bcaf24f8ff287f88da9a5e90cabb60f1c7a3807b22b8cc02a2727c9055445f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -44,6 +46,7 @@ Partner's 2\H rebid tells you that he opened light. So you pass.}
 [Auction "N"]
 pass pass 1S pass 2C pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "363930f949b390250d9819c53d80da8e9dd2637bdc51e6211c42287fbc30fa24"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -70,6 +73,7 @@ Partner passes.}
 [Auction "S"]
 pass pass 1S pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f7c494551bb3ec2a35a7a925012e4c72d1c19709ca6f81e2b73e5c82fb278890"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -100,6 +104,7 @@ The 2\D rebid shows a hand that partner would have opened in any position. So he
 [Auction "N"]
 pass pass 1H pass 2C pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1f63bb0e1eff075e0d28b4e16e303b988f86517789d1b63eb985505aba14178f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -128,6 +133,7 @@ Partner shows a maximum limit-raise with his jump, so you bid the game.}
 [Auction "S"]
 pass pass 1H pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "42e0227c12f3c7d3b94697411cfc7dcad73f9030ff4b7429d8f6c7e532a3e972"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -154,6 +160,7 @@ So you jump to 3\H. Partner realizes you don't have any strength since you did n
 [Auction "N"]
 pass pass 1S pass 2C pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2ed3d583cae98af91ab2d041f60a31e7bdc244db1578bfdd1acde7e46087a756"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -180,6 +187,7 @@ So you sign-off at 4\S.}
 [Auction "S"]
 pass pass 1S pass 2C pass 2D pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "dbd9ea3d4983a11fdd22bf01ca1143a528f3b98fe34c8f2972e1615b7c720410"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -210,6 +218,7 @@ You've told partner you had at least a limit raise, now you need to tell him tha
 [Auction "N"]
 pass pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8d3b0242fa687a68b8817396bdcd5ba85d2b0eb38f41504af01aef18261b5aa6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]

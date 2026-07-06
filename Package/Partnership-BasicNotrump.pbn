@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicNotrump
+%bridge-classroom-stable: true
 %bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
 [Event "Baker Bridge - Very Basic Notrump Bidding"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "W"]
 pass 1NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8974480f97c7bcb0d5954808773bbeac6c3e4268917b8ad0a3f676e957318249"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -40,6 +42,7 @@ Since this is below the 26 point game requirement he passes.}
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "25bdc6d2aef22d17e399d0469a5e9a57d47a616eff773cd2b26db243cf641ba3"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -67,6 +70,7 @@ but not enough to think about slam. Since NORTH also has a balanced hand she bid
 [Auction "W"]
 pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "be550c832bfd448525866187b58beb698829e29b57e871c96ae31f96bc4ef6a8"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -100,6 +104,7 @@ SOUTH just bids 3NT, knowing NORTH will respect his decision and pass.}
 [Auction "S"]
 1NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0dfbccb34f73a0e3b263f5698afc7a83dcf04296b1c129f8d9f8422291e576df"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -122,6 +127,7 @@ than 17 points. So with her 7 points, she knows there is no reason to respond.}
 [Auction "W"]
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "95a415d50f9b26071915a369fc8f0a224e74a1bcf5eaaa39716c874af4001fb4"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -153,6 +159,7 @@ NORTH has a maximum 17 point hand so she accepts the invitation.}
 [Auction "S"]
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ba5a12113a1997f4ae1634b10e31dc56fe91e10fdf98c5ae666450c1cb25ba3c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -180,6 +187,7 @@ game if he has maximum, pass if he has minimum. On this Deal SOUTH has 17 points
 [Auction "W"]
 pass 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7e0b578138c212a0f28cd54f879dca603e02ec5071fd74a0dba8819a7ff1fdab"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -210,6 +218,7 @@ NORTH, with a minimum, declines the invitation by passing.}
 [Auction "S"]
 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a9d9fb36f1f8dc36400219cbb00b02561022285cbecaeda9d6c8aba38fba5b2c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -237,6 +246,7 @@ magic game number of 26 points she just passes.}
 [Auction "W"]
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "260f7bf110e4355fadf7d4fcbdd94bc9918f291d301f29d4b82392a72636183d"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -269,6 +279,7 @@ and bids 3NT.}
 [Auction "S"]
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "eefcd753fbf6a37dcb2890939a198779f2ab75556b21d2680590fc239536ebbb"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -295,6 +306,7 @@ nowhere close to the slam requirement. So she bids 3NT and SOUTH passes.}
 [Auction "W"]
 pass 1NT pass 4NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "de5bc892e83c71756eaaac6ad2b193335d7b979404bffd52b6e6a0d820463ac0"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -326,6 +338,7 @@ her to bid 6NT if she is at the top of her range. It is clear to NORTH, but with
 [Auction "S"]
 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fb1d27da952391949a2b95f92a9a3c54804ede24339865d3ffb80a22221788be"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -356,6 +369,7 @@ Since SOUTH is minimum he declines the invitation by passing.}
 [Auction "W"]
 pass 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "51fd52ca1e01c145ef6e64130458b693841e55ca005e6029bf142a3bfc473d31"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -384,6 +398,7 @@ below the 37 points needed for Grand Slam so he bids 6NT.}
 [Auction "S"]
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d9403994a2d0f24457d6b5c78f50139f7dd3a96e251fe4cd21206defbf827b09"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -415,6 +430,7 @@ Therefore she GOES to 6NT.}
 [Auction "W"]
 pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7f94c5bbefbac981ce2a3397195add078d1fd06dd3777947b08757f311afa06d"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -440,6 +456,7 @@ SOUTH has 7 points; he knows the partnership has either 27 or 28 points so he bi
 [Auction "S"]
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2cc9cbd21a7300202d3f8752101b482ab0c451a5827d4aa93df880c912a8031b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -470,6 +487,7 @@ In any case they should be in slam, so NORTH GOES to 6NT.}
 [Auction "W"]
 pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7724e4a141115913a7fcbf6da947e01383e7b2af259d113ff7cbbb45a03001c6"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -496,6 +514,7 @@ SOUTH has 6 points, just enough to bid 3NT.
 [Auction "S"]
 pass pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5584c3d53535665bfa72bfe06de8242fdd45e6a3c38ca5e5d71b6358135725f7"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -527,6 +546,7 @@ she bids 3NT. If those 10's and 9's had been 4's and 3's she would have passed.}
 [Auction "W"]
 pass 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5a18da7b55f7cfea2f562ee9d93fb3ea0bd60842b20052de2a35bf00b91cfe5f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -558,6 +578,7 @@ He figured right - NORTH had 17 points so she bid 6NT.}
 [Auction "S"]
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e4fd3e37130b01d291fa8e4f3cf771dbb84c6a73b02dbebe459bc07e5a775253"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -589,6 +610,7 @@ Notice how easy this will be to play once that Club suit is established.}
 [Auction "W"]
 pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c45df705910587b73d378c8971a8f033c951c3646f9f72c0cfe774d198f9af93"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -615,6 +637,7 @@ total cannot be more than 24. So he just passes 2NT.}
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "28b5e51c9416fdf6f2e0e99448392c462a4e4e488f9de379a36376ba85a53503"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -649,6 +672,7 @@ Sometimes correct bidding gets you to unmakeable contracts. But it's only a game
 [Auction "W"]
 pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6348cc3cebb8bf860d7de339924616bc4aec96e762d6aaa7fe61314364a3e3df"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -676,6 +700,7 @@ total will come to 34 or 35 so he bids 6NT.}
 [Auction "S"]
 pass pass 1NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b877ac272eaed8763be3cf4cad41468c729850f0a14a0ab0ffd5dbf90992aeb5"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]

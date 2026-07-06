@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Preempt
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Preemptive Bids"]
 [Board "1"]
 [Dealer "S"]
@@ -13,6 +14,7 @@
 [Auction "S"]
 3D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "dbaf01b0b65e7b350cb3c9b3edbed17de44521a847e7f82fb55c1681f401a24d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -39,6 +41,7 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 [Auction "N"]
 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cbf0aa3c40f9b7109b8846d7481da5d2506f18d9bf19651c5e42e6baf71aa97e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -67,6 +70,7 @@ Here's a pretty good tip:When partner opens with a 3-bid and you are trying to d
 [Auction "S"]
 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8b47b37195e00f4dd5e212e4610db5b75c6c7e9983646ecd99e07fe242e58982"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -97,6 +101,7 @@ When you preempted 3\H you described your hand perfectly. You have nothing more 
 [Auction "N"]
 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c7ef70c0ce5a6b4e21126a2bdb65129a8e14a33cf8ade73a051103b948d70ee2"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -125,6 +130,7 @@ Fortune favors the bold so you bid 4\H . . . and live happily ever after.}
 [Auction "S"]
 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5ca66406bced36e9a4d7c2ac674c4454a7a637e394b4ad14f97808b224f8c53b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -155,6 +161,7 @@ This is what preempting is all about.}
 [Auction "N"]
 3S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f71d0bb4d440d54e4ce0ff70c6c4d0639a97c160d812d25d0fa18f0f6575ca1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -183,6 +190,7 @@ Did you think about bidding 6NT instead? Ugh, they would have led a \C.}
 [Auction "S"]
 3H X pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2318dd5aa6db8ddba9794caf66080f5fe77c00c127d7c7bf304150419711192d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -213,6 +221,7 @@ Do not preempt the same hand twice. The idea of a preemptive bid is that you bid
 [Auction "N"]
 3D 3S 4D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "eea33ae2661ee44c9757477d660f1a8a5a19c96091ad605b77a9d1f0408c7d84"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -239,6 +248,7 @@ You do not have the 4 fast winners you need to raise partner to the 4-level. But
 [Auction "S"]
 3D X 4D 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "edf1f3dd9ee15c7d82e9fabfa45f24585b52ccc573498a205cea005ca517f220"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -271,6 +281,7 @@ It is partner's decision, not yours, whether to continue to 5\D as a sacrifice.}
 [Auction "N"]
 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9c83d19939b066c0398e0750ecafa63569775408602abd4aae993bf9c24b91ab"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -301,6 +312,7 @@ Somewhere in some of these lessons there should be a guideline that says:}
 [Auction "E"]
 1H 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2b4ea22acfab3e4e3f033c0684f5afaaebed14bd95a813e9b985be353a0569dc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -329,6 +341,7 @@ This time everybody passes.}
 [Auction "W"]
 1C 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "44b2aa534c1ab1e00afb7dda62645150882d2629d39d47e52d32557a5303f69b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
