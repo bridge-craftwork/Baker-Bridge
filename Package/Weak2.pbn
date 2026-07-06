@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Weak2
+%bridge-classroom-stable: true
 %bridge-context: 2M-2NT = Feature ask (NOT Ogust)
 [Event "Baker Bridge - Weak 2-Bids"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "S"]
 2D pass 4D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "abf998a66a84526b4239947c3288898ee0ded2891563976dd1df2b0b4dcda5a2"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -43,6 +45,7 @@ This is not an invitation to bid game. If partner had game interest he would bid
 [Auction "N"]
 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d0a8017c9da056dc818c91ea347a738a000680269146f52ad31f55bca3ad530d"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -68,6 +71,7 @@ You should pass. You have 15 points, and if partner has the maximum of 11 it see
 [Auction "S"]
 2S pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2abb1065e93c405e625154593ed7070ffc7c9cf13632dd7b7f30e447bdbedc74"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -97,6 +101,7 @@ You say "pass". Partner has no interest in game since he didn't bid 2NT. This is
 [Auction "N"]
 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6d3abc03e8e0053a32342e2a326887c7a4b9ca493b9b43a06e505a63a94afb18"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -122,6 +127,7 @@ You should bid 2\H. If partner has even one \H you will probably be better off t
 [Auction "S"]
 2H pass 2NT pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2c7960dc58bb2767362eca6d3687200e17d49b71738a35bd604e56e30ead533c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -151,6 +157,7 @@ The 2NT bid is forcing. Your \DK is a feature, but your immediate priority is to
 [Auction "N"]
 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "91c6059425bd7fa280328e84858e771f1eaaf1d3e89bff84b4065f20a215cb7f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -172,6 +179,7 @@ You should raise to 4\S. Not that you expect partner to make it, he probably can
 [Deal "W:T85.KT83.T3.A932 QJ42.A74.KJ74.KJ .J65.AQ985.Q8654 AK9763.Q92.62.T7"]
 [Declarer "S"]
 [Contract "3S"]
+[BoardVersionToken "bef8780f36769e0d7944f97c3472bad55a5f2629b3036affe80aebb07bcec319"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -192,6 +200,7 @@ Pass. When you have already described your hand perfectly, partner becomes the C
 [Deal "W:2.AQJ43.QT732.AQ AQT863.76.94.T62 J.KT98.AK6.KJ754 K9754.52.J85.983"]
 [Declarer "N"]
 [Contract "4SX"]
+[BoardVersionToken "f6119a2ac33b1c5808b28019711cdc2eee1e040a0fde27c59877053e9687e178"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -214,6 +223,7 @@ You should jump to 4\S, hoping to shut them out of their \H slam. As you can see
 [Auction "S"]
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d920197aaeae9faf091c17d1381a6f9fefd293557c5e2351b1ba5e5e6259dae5"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -243,6 +253,7 @@ The 2NT bid is forcing and your suit is A K Q x x x. This is the standard guidel
 [Auction "N"]
 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b792d7a2ab2073c8abb972f576044438ce8d906fa467d6cf0ca2bd98d6eb6bdf"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -268,6 +279,7 @@ You should raise to 4\S because that is what you expect partner to make. }
 [Auction "S"]
 2H pass 2NT pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5ee6b148b7dacf4a7421408b24e62407979b0dfeeb5f87e010ee02e8d68deb65"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -297,6 +309,7 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 [Auction "N"]
 2H pass 2NT pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0b36fa84d1ad611906ef24c33acda9b877021846be472c350cbd85e7fef07873"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -326,6 +339,7 @@ Well, you weren't sure whether to take partner to game or not, so when he says h
 [Auction "S"]
 2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "34634334af63961011f10e4bc3be130d8aedae3648d0d9d01ef6f06c37de4716"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -355,6 +369,7 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 [Auction "N"]
 2S pass 2NT pass 3D pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "42b3b07d4321e39285e2ccd327bfc3d151b3c9cbfa5640f933d3e5fb04a718f0"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -384,6 +399,7 @@ You weren't sure whether to take partner to game or not. His 3\D bid tells you t
 [Auction "E"]
 1H 2S pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "830d418fa88eb06581d05b6afb771d4118a4faa3f4509cd75e91d8bb9dcfbf82"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -413,6 +429,7 @@ Pass. Partner is in charge. If he had wanted you to bid again he could have forc
 [Auction "N"]
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7724e96b1f104dcc7c6c88646ca3f35d6b02774756a0a7ededcc53fd99cb12ef"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -442,6 +459,7 @@ You pass of course. Partner's 3NT says his suit is A K Q x x x and you can there
 [Auction "E"]
 pass pass pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "bcbb7d1bd632681d23756a7d0e1644a01c7f8ca29aa1b1615838de32581d1d46"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -471,6 +489,7 @@ Well, we have passed out of the realm of Weak Twos and into Major Suit Raises! N
 [Auction "N"]
 2S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c7294deedb947c2cbcab983b7cd67504f45da2715c8ddc8c92d279f9f7092756"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -500,6 +519,7 @@ Partner has one Ace. Bid 6\S.}
 [Auction "S"]
 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e013da6e603cae3ccdcb9b29358801005f82317381f077daf47de577265adc8c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -529,6 +549,7 @@ The 2\S bid is forcing for one round, but you want to bid again anyway. While yo
 [Auction "N"]
 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "24fb04bb192796e8fe1165d3e97795fcd3aa68aeba397216995ee4af00c954aa"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]

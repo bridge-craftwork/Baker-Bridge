@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-WeakTwos
+%bridge-classroom-stable: true
 %bridge-context: 2M-2NT = Feature ask (NOT Ogust)
 [Event "Baker Bridge - Weak Two-bids and Preemptive Three Bids"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e59efb85eb95db559d4766a2bca5e1d99b5870faf6ed022e13e4b539af6e7b9b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -40,6 +42,7 @@ resist the temptation. To raise a Weak Two-bid to game you should have quick win
 [Auction "N"]
 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "58808ad92a062de60f96abdb17aa24fe5e251b819c5509245f203e7bebb1dcf6"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -66,6 +69,7 @@ pair is nowhere close to having a slam. The will probably make just ten tricks.}
 [Auction "N"]
 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cdccea9c96f73495b4b073ba8b5fe38b47325f7d03c38f6b02c9e95b1e10b7e2"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -98,6 +102,7 @@ won't go down more than a couple of tricks.}
 [Auction "S"]
 3D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d5f7e810a7001f6e6b09242bdeb33a6ce07a2fb4f741345d26335d12d261ee76"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -133,6 +138,7 @@ best call - PASS.}
 [Auction "N"]
 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ca5f007fc969d11ff945064eda9f6f8817e9a05c6aaf20ecd2c4ec719ce688b1"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -159,6 +165,7 @@ that is just enough for game. He bids 4\H.}
 [Auction "S"]
 1S pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9264ffc3f5fcd064957617a918d9462eb909c871f7b5c6cb11c7d25c836a2eb3"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -189,6 +196,7 @@ NORTH thinks there should be game and bids 4\S}
 [Auction "N"]
 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "498e3d9ac86e4cf03a1f82028100b31cb9943ebab44a2cf1358822345db40ebf"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -220,6 +228,7 @@ too strong for a Weak-two opening. So SOUTH just bids 4\H.}
 [Auction "S"]
 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2c3b07db09de66fd5f87ecfb1db968bc97fa232ebf7513fc63df6a5842e51bf5"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -250,6 +259,7 @@ If you think 3NT has a chance you are delusional.}
 [Auction "N"]
 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "218e09c011c2e9046bd78d71e7a4d4877c1d5893747120b5b1ce91d25c2e1ebd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -276,6 +286,7 @@ a hand this good. SOUTH then bids the \S game.}
 [Auction "S"]
 3H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "321e4278dad3a47d006383d422caacf05b4df0d2ba479c8f9c80ebd8ac055370"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -305,6 +316,7 @@ When SOUTH shows one Ace NORTH can bid 6\H with confidence.}
 [Auction "N"]
 3C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1753af0f9bb74db08b7e38b5e5eac633a725f994b5938c46915e1d7ce1f41fc2"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -332,6 +344,7 @@ but 5\C would go down 1.}
 [Auction "S"]
 2H pass 2NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6ee19467d5fba44143327bba210c7c58edf66062ebbafc230b765d56104d42d8"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -362,6 +375,7 @@ SOUTH returns to \Hs to show bare minimum so NORTH settles for game.}
 [Auction "N"]
 2S pass 2NT pass 3C pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2ba2db8f508ff07ec15fd10b08e3251db4f56b79d6145899fd64ffdc5ab096a6"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -393,6 +407,7 @@ he signs off in 3\S}
 [Auction "S"]
 2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8ec480f3a6a5d8728d8e8c05c6d85aa58f732925a36d2d2f3daac67e05309789"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -422,6 +437,7 @@ she bids 3NT.}
 [Auction "N"]
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cab3438f2ed77ea09aa4bad5d401503195621db56f002b0c213c8544e8fbc395"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -452,6 +468,7 @@ Game (and bidding) doesn't get much easier.}
 [Auction "S"]
 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a35a54a1534ddf4883b1aa4ee2e92f62a462eb394824b0d8d93795058686f24a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -478,6 +495,7 @@ Three of them are obvious, and she expects to get a \D ruff also.}
 [Auction "N"]
 1S pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e5c1d4e7abe221b0f39425d79562f343254e1385a8fbcbe7c5e4477b6ae4f2d1"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -507,6 +525,7 @@ SOUTH always knew there would be a game bid, so with an 8-card fit he bids 4\S}
 [Auction "S"]
 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6a8e68303c963d7ab1247a62a4963930884bad2871b1d010bc0d0bf9d2278c96"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -534,6 +553,7 @@ In other words, NORTH has the perfect hand with which to pass.}
 [Auction "N"]
 2D pass 2NT pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "500a64048c0658e96e5a02018547887001c41e2560a06a495818f45b114fccaa"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -565,6 +585,7 @@ When NORTH shows \D A K Q x x x SOUTH has an easy 6NT bid.}
 [Auction "S"]
 2S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a9c6c93e2646d9b1d8ae7445cc3219a4a5a3d4f1d474be70b51cb9478603afc7"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -594,6 +615,7 @@ NORTH is no longer unsure, so she bids 4\S.}
 [Auction "N"]
 2S pass 2NT pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "717ae63f3f5e5b32dc6c9c8140b54a01afe8759273cd7777e0c9ee89351ca9ca"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -624,6 +646,7 @@ SOUTH passes and hopes for the best.}
 [Auction "S"]
 3C pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2575b4a3004a4e8ad2d8876ce036aead637dd8d844f9d6af96f4aaf7fe013501"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -654,6 +677,7 @@ will probably make the game. Otherwise she will likely go down one.}
 [Auction "N"]
 pass pass 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5436aafaeeaa633e7a7d97892652cff582de47f73eb7977d28fb22ab877eb67d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -682,6 +706,7 @@ would be missed.}
 [Auction "S"]
 2D pass 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2536621262e7888da196c31f160899178637738371234c4c9ca4e5c766e5426d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]

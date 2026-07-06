@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
+%bridge-classroom-stable: true
 %bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids; plain Blackwood
 [Event "Baker Bridge - Jacoby 2NT / Splinters"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "E"]
 pass 1S pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fa5509d85e505d420d7aac8c6fa1007fb9e7bdb92ba28442048ac04ff90b3352"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -44,6 +46,7 @@ With a minimum hand and no singletons you bid the game immediately. Partner has 
 [Auction "N"]
 1S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1fc565ff2afe16a13e6f9cfaa91b7181d98fe4c5c034884fe2708086349fc906"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -74,6 +77,7 @@ You couldn't hear much worse news. Partner has a singleton \H so your \H K J are
 [Auction "S"]
 1S pass 2NT pass 3C pass 3H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a0f1cddfa07769d83a6d40b2bab0f7981caf78fb2afd685593df0a19387b95dd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -106,6 +110,7 @@ You could equally have just bid 4\S yourself.}
 [Auction "N"]
 1S pass 2NT pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "df6c3f1f106c90249f1c646d9cd8ae3f440bdc3269b2b9a67a07a082948e1dfa"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -136,6 +141,7 @@ North has some extra strength and a 5-card \S suit. This is the point in the bid
 [Auction "S"]
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f339cd05aedce2dd658fa169ec0bd43a99ed1d36235d268adefee4097fe790ea"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -166,6 +172,7 @@ Partner would have shown a red Ace if he had one. Since he doesn't have one, all
 [Auction "N"]
 1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "013e1d6e60e00156d455a472b6067c73c4cff4c99cb3d552d6c5cab270c84a4a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -196,6 +203,7 @@ Partner's rebid of 4\H is not strong. He is using the Principle of Fast Arrival 
 [Auction "S"]
 1H pass 2NT pass 4D pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "40d17b36a14e02e18b0e6d3e6c30a4cef83d0d22d9bd34f91640f88bdc2a82a7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -226,6 +234,7 @@ Partner signed off, showing a minimum, so you have nothing further to say.}
 [Auction "N"]
 1H pass 2NT pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1929bb7633e71d3a6fdaae381cedd2e24e19a41ca1bbc236f10e6035f9191955"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -256,6 +265,7 @@ The news that partner has a singleton \D does <b>NOT</b> excite you. In fact it 
 [Auction "S"]
 1H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4f635714595991fb5e160b394c32cd8b04d7389d5de5b27f9bc5646d6b032719"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -286,6 +296,7 @@ There isn't really anything else you want to know. You think you can make slam s
 [Auction "N"]
 1H pass 2NT pass 3H pass 3S pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4d73587df7ce06c024ebb7900561243beec77efcbb8cc4ad6e8d0d3b71ee1bfa"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -320,6 +331,7 @@ This is Blackwood. You respond 5\H for two Aces and partner bids the slam.}
 [Auction "S"]
 1S pass 2NT pass 4NT pass 5S pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7d5b71f5267342369b8ad360c480ef5d50cec50924e6dade40ace5b1301a7a43"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -350,6 +362,7 @@ The three Aces does it for you. You can count 7 \S tricks, 3 \H tricks, 2 \D tri
 [Auction "N"]
 1H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1d9d657dd77764ff597821bd61ceae1f363b3b1e7b804264ec46f1738cd6f8a8"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -382,6 +395,7 @@ As you can see, North should make 12 tricks by discarding one \C loser on your \
 [Auction "S"]
 1S 2C 3C pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "067e2b314ceb7bfc287e099e46438995e10e347c40b5f6a2f03d5fc9eeeb6fcd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -410,6 +424,7 @@ But he definitely has \S support. You show your minimum hand by bidding 3\S and 
 [Auction "N"]
 1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "784c9581a35eab760d1b4c18e71d37aa65d8d1b4d1e169ff742651ac1f1a5d80"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -438,6 +453,7 @@ Note that in this hand the three points you credited for your \SK are completely
 [Auction "S"]
 1H pass 4C pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9312475c1beb3af9a204553ff2518e01c05ffb30cb3786e18369ec5c9b7f6206"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -464,6 +480,7 @@ When partner Splinters his singleton \C you should realize that the only thing t
 [Auction "N"]
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3388103f7337cacb49fd0b86389e0983b9509a4920454c126925da449798ad52"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -494,6 +511,7 @@ Your partner has a better than minimum hand with 6 \Ss. However, you have an ave
 [Auction "S"]
 1H pass 2NT pass 4H pass 4S pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4e0a1890b48c97c2efda1713755de2f27263228da03e1ae5960d348b30f39d2c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -524,6 +542,7 @@ Partner is definitely showing slam interest. If you had a first round control in
 [Auction "N"]
 1S pass 4H pass 5C pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "070daa7b17e1792944b32ca9878e281e467066b28083d8c63433046ad3ab3d06"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -554,6 +573,7 @@ Partner has the \CA. Good. You are pretty worried about \Ds and also your 11 hig
 [Auction "S"]
 1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5S pass 7S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b29863355026178744f3dd06b37d7fe7f43f5a5e2d8c5159d69374967056528f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -588,6 +608,7 @@ You are being Blackwooded, and with three Aces you reply 5\S. That was apparentl
 [Auction "N"]
 1H 1S 2S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c13fb16d3aacfa1e070cf0fca79b06acabc5d0070a82088aeb793ad8e4545994"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -618,6 +639,7 @@ Partner didn't have enough to bid game, not knowing if you had more than 11 poin
 [Auction "S"]
 1H pass 4C pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5c7d44a8f7c39f1f77402ea7a5a944100ece0d6ed068acadce9c3d4c81ce561b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -648,6 +670,7 @@ If partner can take care of your three \C losers you will have just one \S loser
 [Auction "N"]
 1S pass 2NT pass 3H pass 4D pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "76eb36dfeaa9b0ecdafbfac58a9de4b6514067c3c9ab3660665a27d65999812c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -678,6 +701,7 @@ Your \H holding hasn't been enhanced by partner's singleton. You feel like just 
 [Auction "S"]
 1H pass 2NT pass 3H pass 3S pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "85e69c38501a94223a22a0d552b3e98a453b609cf637569e11ce1df5c4ead78a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -712,6 +736,7 @@ Oops. Despite all the points you are missing two Aces. So you thank Mr. Blackwoo
 [Auction "N"]
 1S pass 2NT pass 4D pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "bb511fd52c8f2ba84e1ce02f570b2ac7f7e7fe037916b784ad92caad814e10ce"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -746,6 +771,7 @@ He has two Aces so you bid 6\S.}
 [Auction "S"]
 1S pass 2NT pass 3NT pass 4C pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "126e4b81aa4528b155eeb6f9f9fb85197f917a598c4348ce781984c3736f0ec4"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]

@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Reverse Bids"]
 [Board "1"]
 [Dealer "S"]
@@ -13,6 +14,7 @@
 [Auction "S"]
 1C pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "be36b78492cb1563a7fa58af876810bc780c67831098f908d54475781ec2eeec"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -41,6 +43,7 @@ Partner now takes control and bids the \S game.}
 [Auction "S"]
 1C pass 1S pass 1NT pass 3NT all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2e13173cf1fe079f3d83dd7da2056c467c581aa89ffdfc6953ec98c0bcdd406b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -67,6 +70,7 @@ So with your minimum hand you bid 1NT which partner raises to 3NT.}
 [Auction "N"]
 1C pass 1H pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "104944b8eddcb3de79097fd2ef98c15192e49126af2983ff6690d3dbcb22d7c7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -95,6 +99,7 @@ Instead you bid 2NT. Partner has a bare 17 so he passes.}
 [Auction "S"]
 1C pass 1S pass 2D pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "15a949d9d44c2829ee529c9e2e9e0b3a25b3150fe5de6dc76b337af630dc64e4"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -121,6 +126,7 @@ Partner's jump bid shows a 6-card suit and enough points to insist on game. You 
 [Auction "N"]
 1C pass 1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e8689aade10aa81a9b5adaecaf17a0ad67e848e7f4343a57d244f7c39d390e32"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -149,6 +155,7 @@ Since you know of an 8-card \H fit and at least 27 points you bid 4\H.}
 [Auction "S"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "30fd015c034ead1fcbda5301f0fe48adfead84e630eb25ea967fece7a8c1f067"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -181,6 +188,7 @@ Things would have gotten confusing, to say the least.}
 [Auction "N"]
 1C pass 1H pass 2D pass 3C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b5b96b37b1c849b51c4bee5bd1d77e748b9c62fdee21fa8953939d2d57259ec5"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -211,6 +219,7 @@ Mercifully he passes.}
 [Auction "N"]
 1D pass 1S pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d73718683457de2f7e9beb51c6912fd60d576013d2a550e053e54acee5542d6b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -235,6 +244,7 @@ When partner shows 17+ points with his Reverse you are sure you belong in game. 
 [Auction "S"]
 1C pass 1H pass 2D pass 3C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "42568df1cf89374f7bc8cd7769866a04e6a6983cd13bcd8c8c2a0fd468f05f23"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -263,6 +273,7 @@ So you pass. It's a good thing, too.}
 [Auction "N"]
 1C pass 1H pass 2D pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "467aa5844510b45446cd2e22ef5682a2f403b01ca74e9ca5e3ad73e17aeea0d2"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -287,6 +298,7 @@ You have 7 points, and basically nothing but s\H. You must make a minimum bid, a
 [Auction "S"]
 1D pass 1S pass 2H pass 3D pass 5D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ff158bb83002cbe998903ed06b871709f18f9308f6c87cb3218808c1922a096c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -317,6 +329,7 @@ There are no guarantees here, but you should probably try 5\D.}
 [Auction "S"]
 1C pass 1S pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2d88a57abddc75b6aeec960e3fec73ff8f61028684518e603923110796974d1d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -347,6 +360,7 @@ Be very glad that you did.3NT would go down with a \H opening lead while 4\S is 
 [Auction "N"]
 1C pass 1S pass 2D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "935af9f0629d6f72073f555f6715535270705cc6980e5ecf260325a083cb1502"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -371,6 +385,7 @@ With partner showing 17 or more points, your 13 brings you to game level. You wa
 [Auction "S"]
 1D pass 1S pass 1NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b054eb56e64859416f2d03f940cb203c3f87f3087960267f4495f15eb089a151"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]

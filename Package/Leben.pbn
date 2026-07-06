@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Leben
+%bridge-classroom-stable: true
 %bridge-context: Lebensohl over 2-level overcalls of 1NT (fast denies); applies over 2C as well (no 'systems on')
 [Event "Baker Bridge - Lebensohl"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 1NT 2H 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "54031d64f639d3207dbcbd0f19fe47eb9dc1cc260a35870a3f42d89cb972c0ad"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -39,6 +41,7 @@ With lebensohl you can do the same thing, so you bid 2\S and partner passes.}
 [Auction "S"]
 1NT 2H 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f4b47f7a20aa1e3293cc1de82b65ec89cb464553df335fd05c9b536f9946aff0"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -64,6 +67,7 @@ With 3-card support you are happy to bid 4\S.}
 [Auction "N"]
 1NT 2D 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "23b150300fe617da52539bd3fdb5e866c74200cdff6862b3b3880c8e069fd80f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -89,6 +93,7 @@ Partner has 3-card support and is happy to bid game in that suit.}
 [Auction "S"]
 1NT 2C 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8c02e00abca8090c3a64b3ec49645e6d77c346d602e4b0d13f82e5f376b8b53c"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -114,6 +119,7 @@ So even with your great support and maximum hand, you pass.}
 [Auction "N"]
 1NT 2C 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "feadb59ceb955d643aa5d50e4dfcf8779d88c93735e126fd99c6e512188d7434"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -143,6 +149,7 @@ With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
 [Auction "S"]
 1NT 2D 3D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4fa52e5a642b1a23226f75157a23e2397554f2c61a93106643ab25ce3dee8a2b"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -170,6 +177,7 @@ Partner then bids 4\H which you pass.}
 [Auction "N"]
 1NT 2S 2NT pass 3C pass 3D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7a9d800ed1987d1ec963db6172f4f585403c40e0aec78d095bce243078616a0b"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -199,6 +207,7 @@ NOW you can bid 3\D, which partner passes.}
 [Auction "S"]
 1NT 2S 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "268e4f21da3088f05a20785d0a5f2e2b0c2a56abb4fd9f0531097af5912ae352"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -228,6 +237,7 @@ How about . . . . pass? Partner just signed off with this sequence. He couldn't 
 [Auction "N"]
 1NT 2S 3S pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b04b264031187adce815989bd0e545e50a1baeed38b460eefaee27d631a03dbb"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -253,6 +263,7 @@ Partner says 4\H and you pass.}
 [Auction "S"]
 1NT 2H 3D pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "215fa4c4121dbdc1a556ee2016ee6fc374943db94dc6c7e44eda792541005ce5"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -276,6 +287,7 @@ Partner has promised at least a 5-card \D suit, and game-forcing strength. With 
 [Auction "N"]
 1NT 2S 2NT pass 3C pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1a87aa1df471ad64afdc6668d200b4b3e255e7e05e88bea05974dc5b630b3d74"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -303,6 +315,7 @@ NOW you cue-bid 3\S. This is Stayman, but with a \S stopper, (SLOW SHOWS). Partn
 [Auction "S"]
 1NT 2D 2NT pass 3C pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c58a5666f1e1cddcd0fb85bc488831e7806be2d74b04a9f5b726c60fab709c4e"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -334,6 +347,7 @@ With no 4-card Major of your own, you pick 3NT.}
 [Auction "N"]
 1NT 2H 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1cea8d2119f2d537a0f4344e35571b2deda08e5a552075a6a58ccd1bfa23a763"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -361,6 +375,7 @@ Partner does have them stopped so he passes.}
 [Auction "S"]
 1NT 2H 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "adf746a22b35bc8be933310558c9d9f18dba20295dae88edc0ebba79c6922522"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -390,6 +405,7 @@ Partner's bidding shows a hand with which he would have bid 3NT without the over
 [Auction "N"]
 1NT 2S 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "06fd738bb9b1b181fad23f5f76152b9ec92e48a8a467e05f3f33ad95e52d44f9"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -419,6 +435,7 @@ You now complete the picture of your hand by bidding 3NT. (SLOW SHOWS). Partner 
 [Auction "S"]
 1NT 2S X pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "066d68b49794a27a4cd49cac1d9d9d2d7d9f65666d89e79c2184bcee7d99883b"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -444,6 +461,7 @@ Since you trust your partner, you pass.}
 [Auction "N"]
 1NT 2D 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1cf2c1345047c1ae74652b5de0acc22f1ac0661277f48bfc2aab5a6d09a7e47c"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -473,6 +491,7 @@ Now you bid 3\H. Partner will realize you have better than a sign-off, but were 
 [Auction "S"]
 1NT 2H 3H pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1b9d9e2c2c37b0a61a945619765308a8a4d089548b0fa748538740d7c16ebaac"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -498,6 +517,7 @@ You don't have 4 \Ss, nor can you stop \Hs. You have no choice but to bid one of
 [Auction "N"]
 1NT 2D X pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0b0c2de6b5e0dbecab23c9d81cc3cc78b6b4842c64cf61717f387892452fef1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -523,6 +543,7 @@ However you should look for an even bigger reward by doubling. East is in seriou
 [Auction "S"]
 1NT 2D 2NT pass 3C pass 3D pass 3H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "80d2438f1ee0a6a729d409ba64648a5856c1afdd7d61a1ce68558601d5a59003"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]

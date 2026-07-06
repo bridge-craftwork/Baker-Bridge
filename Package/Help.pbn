@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Help
+%bridge-classroom-stable: true
 %bridge-context: Help-Suit Game Try (NOT Short-Suit)
 [Event "Baker Bridge - Help Suit Game Try"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "S"]
 1H pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "44656144a5a35c08c8653fa95c5b8f91f569dac11a8bf241440d8578a099dec8"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -40,6 +42,7 @@ There is no doubt that you could use some help in \Ds. But you need more than th
 [Auction "N"]
 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0a1f0a911e1c6496db39b3243275ac28a5b4a2ab9e09525f5dfd7f6a0849f76d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -66,6 +69,7 @@ This is not a great hand by any means. If partner had invited with a 3\S bid you
 [Auction "S"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6b4b762cf37b29596d718980def34cf1c9331e3f2bb854ce5facca66b4e7dbb6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -92,6 +96,7 @@ You might make a Help Suit Game Try in \Cs, but with 19/20 points in your own ha
 [Auction "N"]
 1H pass 2H pass 3D pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e04fb1940400665b07221007121e52c3037b41e769401993d4453ceec501d2c5"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -122,6 +127,7 @@ But he has asked you to use judgement based on your \D holding, which is awful. 
 [Auction "S"]
 1H pass 2H pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "35c4cb90969db1f073eef35c434025ccd9f99739124d442fcd5ed3809a7cc37b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -152,6 +158,7 @@ When you ask partner to make a judgement call and he does so, you don't then ove
 [Auction "N"]
 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3d3d4b25a332d0be76828a1e90f9fa9e28ee342eef2ce8310eab398ae54ef14d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -178,6 +185,7 @@ Partner is worried about his \H losers and you can certainly take care of some o
 [Auction "S"]
 1S pass 2S pass 3D pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "99e05ed9f76a5c394e1ce368db29f636324fbb814773cdc7862468a7c2a27624"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -206,6 +214,7 @@ So you bid 3\D and partner puts you right to 4\S.}
 [Auction "N"]
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "14f907eeb233b68549e5cb18ce38b7b9e752a9310de6396c71aa171962074678"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -234,6 +243,7 @@ Since you have to make a judgement one way or the other you should decide that a
 [Auction "S"]
 1H pass 2H pass 2S pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fc2b33217590e192778b483fb84d0c48a7aabfc9177f4c5ba1cdf01df12b88a1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -262,6 +272,7 @@ So you bid 2\S and partner bids 4\H. Sometimes it is easy.}
 [Auction "N"]
 1S pass 2S pass 3D pass 3H pass 4S all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "00b511df45cd4deae19c5e7480e4c9c2c6f91877797761f8f7c31cbdfd742fdc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]

@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
+%bridge-classroom-stable: true
 %bridge-context: No Jacoby 2NT; plain Blackwood
 [Event "Baker Bridge - Major Suit Openings"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "S"]
 1H pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ebf856ab4bab9eeb471b89cc1139294a1a3fe99af8a4cbed20fbe10a0f43d924"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -44,6 +46,7 @@ You say pass. You have a minimum opening hand and partner has 6-10 points so no 
 [Auction "S"]
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7a2c84bd1e5426837194b7e2e994296445047bd520b06ae225f4270901e58919"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -74,6 +77,7 @@ You revalue to 20 points (doubleton \S) and partner has between 6 and 10. So, 26
 [Auction "S"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8fed164b608595e4444a961f476c8ee7fd028931d45840f171151dc16fcf0001"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -104,6 +108,7 @@ Your 15 points gets revalued to 16/17 for the singleton. Add partner's 10-12 and
 [Auction "E"]
 pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8ffb82fd7b4644d0a766400ec4c079f5d190f73b737424a75f86ef929abd53b9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -134,6 +139,7 @@ Figure partner for 11-12 points. You have 13 but could revalue to 14 with the do
 [Auction "S"]
 1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "381712b1cc70b2a1fc48edb17bb7891dcbeaf923e6b774e17c1afa1b3870d3e5"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -164,6 +170,7 @@ Partner's bid forces you to bid again. You have a bare-minimum hand, but at leas
 [Auction "S"]
 1H pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "556a4d6559564f51fc5b61032757188a4b0e8d421d45c03c51f17f61f7016dba"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -194,6 +201,7 @@ You have good \S support but you must tell partner of your minimum hand. So you 
 [Auction "S"]
 1H pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1628a5ac061d7251b789280897e8d8b97effc95644801d542b50be5f6ec2520a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -226,6 +234,7 @@ Partner bids the game.}
 [Auction "S"]
 1S pass 2C pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "35ea2db00a4457ff2ab68b541230915bd69d50025ad581bf783b794629b775eb"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -256,6 +265,7 @@ Partner has shown at least 11 points and you are forced to bid again. Since the 
 [Auction "S"]
 1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b6969344d5801227d9f7617366b56b0a47e6a2fecb077771d23f661a470eb14c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -286,6 +296,7 @@ Partner has shown 11+ points and at least 4 \Hs. Your hand revalues to 16 points
 [Auction "S"]
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1f9a01bd361dab2e682cb2d82e59fcd56c6c9293bbe4cf97175f6f64a1a59c55"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -316,6 +327,7 @@ With 6 of them you can rebid \Ss but you are too strong to say just 2\S. Your 17
 [Auction "S"]
 1H pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3b562f9808aaaaf36295433ff1920672322c63c366e513f0d4284b7755df658c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -350,6 +362,7 @@ You have all the Aces but don't go crazy. Partner only has 11-12 points so don't
 [Auction "N"]
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "91394aefeb88aff356127b46c94062dfa1d1ef686a2fd6b11ad2c60e4e38dee9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -376,6 +389,7 @@ With 6 points you must respond and you should let partner know you have support 
 [Auction "N"]
 1H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "989259ca9f561d43f218e20e8cb4ad320db49c577fc24ed9845f3a3b05456224"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -404,6 +418,7 @@ This is a good example. Partner may be lucky and make 4\H. But if they had had a
 [Auction "N"]
 1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "42c78cfa688efee15ba0850f8ccbd6c11bf35a2f6a93e0f949303a4c91e28a97"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -434,6 +449,7 @@ Here's where a lot of players go wrong. Since they only promised 4 \Ss with thei
 [Auction "N"]
 1S pass 2C pass 2D pass 4S pass 4NT pass 5D pass 6S all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "236c8ee1d75e1a6ca2110f6f54ed652e4641d98fd4a7de19624344498e3dc215"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -468,6 +484,7 @@ This is Blackwood so you answer 5\D for one Ace. Partner says 6\S.}
 [Auction "N"]
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "aa8e21d8f8b2527d1a3e35c2d9f75a926a271be3d434ba3c21e774db980f06ab"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -498,6 +515,7 @@ With 11 points and 4 trumps you bid 3\H, a limit raise. Partner raises to game.}
 [Auction "N"]
 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f0299c0568a77a56c57259294723dd9cd8e674e34b0f82ece5b1a129c56d17da"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -528,6 +546,7 @@ Partner would not support a response which might be 4 cards unless he had 4 hims
 [Auction "N"]
 1S pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1809f3e1e19f4c7c1fd09ed19c79d7f9f54196fc9a35866a31da4abbf2075561"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -558,6 +577,7 @@ Partner's bid is an invitation. You have told him you have 6-10 points and he pr
 [Auction "N"]
 1S pass 2S pass 3C pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "bc3b3b3a5117b9cba97fe2eda1cadb36f6fc7a79068455c2ac9645f12141c3ab"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -590,6 +610,7 @@ You are at the bottom of your range and you have no help in \Cs, so you just ret
 [Auction "N"]
 1H pass 2H pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ce55a6262eb6785dcdf97fcc0aabc6e9aad120c9fa22db181a19253a56b3bc2a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

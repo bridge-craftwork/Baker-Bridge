@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Roman
+%bridge-classroom-stable: true
 %bridge-context: RKCB 1430; Jacoby 2NT; control bids
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 1S pass 2H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "02a4cec3a725b4e6b733eae59d75351be2a5bce9d4d6d97228042a45aeadfe1c"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -42,6 +44,7 @@ So you have two Key-Cards (\SA and \HK, along with the \HQ). You therefore bid 5
 [Auction "N"]
 1C pass 1S pass 4S pass 5C pass 5H pass 5S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "adc562c1b7d259886201822a52009f7056aface2e93eab9525c9d3907376d10e"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -74,6 +77,7 @@ Yes, partner should probably have opened 2NT. Sometimes partners don't make the 
 [Auction "S"]
 1D pass 1S pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e4c3e23a2b2281226d97c7bb937409cacd69a7b49681ad8706292d0d8d379093"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -100,6 +104,7 @@ You have 3 Key-Cards so you bid 5\D. Partner bids 6\S.}
 [Auction "S"]
 1S pass 2NT pass 3NT pass 4H pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "67d0dcf530f719916eeb69eae0cd2762e16b790bf517a8a3f659132fe7d9ae8b"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -130,6 +135,7 @@ Partner's response says 2 Key-Cards and the \SQ. So you are missing either the t
 [Auction "S"]
 1NT pass 3D pass 4D pass 4NT pass 5H pass 6D all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5c0fe5a1fc063c61aeba578133b0a47a23bef6bd69726d25ca6a87c6db84dcc9"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -160,6 +166,7 @@ You have 2 Key-Cards, the \SA and \DK. But you don't have the \DQ so you answer 
 [Auction "S"]
 1H pass 3H pass 4C pass 4H pass 4NT pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "40736013d21eef8b81ceb99b2bb1d708c19d9174e5bf2df967eff2dfc56b5b6c"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -194,6 +201,7 @@ It was a lot of work but you have figured out that partner holds 11-12 points in
 [Auction "N"]
 1S pass 4D pass 4NT pass 5NT pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cc0ae6f285bdb6cde0175d270a5ccb11643b73b7badbbdd8ff227e70b2977567"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -222,6 +230,7 @@ No. You have two Key-Cards <b>AND</b> a void. So you bid 5NT. Partner bids 6\S.}
 [Auction "N"]
 2NT pass 3C pass 3H pass 4NT pass 5H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "137e2b45aee9a576a9e93d85d248d04a0a3de119080476d3bfcf3608f4efe981"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -252,6 +261,7 @@ You say "Darn!" You are missing just one Key-Card, but you are also missing the 
 [Auction "N"]
 2C pass 2H pass 4NT pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8c9cbebb5db95619c7531fe1d08a7c95ffe35b9969107b16670797e24c2bcea2"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -282,6 +292,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, so you bid 5\C.
 [Auction "N"]
 1S pass 3H pass 3S pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0ed6104795654d1146b3ae11c1197ebee761fc29bc9236ac535288ef358f3082"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -312,6 +323,7 @@ Partner has two Aces and the \SQ. That should be all he needs to make slam so yo
 [Auction "N"]
 2C pass 2H pass 4NT pass 6C pass 7H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cf9578f98fd3c378d09eb2e787efd39a14c06fd7fef7cc7a72af6c9b91dc0a91"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -342,6 +354,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, but you also ha
 [Auction "N"]
 1NT pass 2C pass 2S pass 4NT pass 5C pass 5D pass 5S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d6c2ecad5649abfbdb5fbd19e5d3f90cfbf9b7322ef10f078fda299b1552978b"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -376,6 +389,7 @@ Partner denies having the \SQ. Knowing that the best you could hope for would be
 [Auction "E"]
 pass 1D pass 1S pass 2H pass 4NT pass 5C pass 5D pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4edcc27b5dcaa5cf0c5e55a94d6bc706990b7cfc779e5c01b304319ab183281d"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -406,6 +420,7 @@ There has been no agreement on trumps, so you assume that North has implicitly a
 [Auction "N"]
 1H pass 2D pass 3H pass 4NT pass 5C pass 5NT pass 6D pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "068385f19b4ebab0055df96bcc39ac700c33651cd241efc765222754f33c9a84"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -440,6 +455,7 @@ Partner has 1 King, the only one left, the \DK. You can count about 17 high-card
 [Auction "N"]
 1H pass 3S pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9fd3f64030c2a4be51f8558cce541e8ea2911c3754a95be8785ba13f843c6809"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -466,6 +482,7 @@ You have one Key-Card, the \HA. You also have a \S void, but since bidding 6\S w
 [Auction "E"]
 pass 1S pass 4D pass 4NT pass 6D pass 7S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5d4fcb08bbbe844e850ce1b307047002e7eb25a765db15fbbea39d2b60ffe103"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -496,6 +513,7 @@ WOW! Partner has one Key-Card and a \D void. So the Key-Card is the \SA. You don
 [Auction "N"]
 2C pass 2NT pass 3D pass 4D pass 4NT pass 5C pass 5H pass 5S pass 7NT all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c1404d57e473b6992fe9792754a1e0eb0b5345b36cdcd778d9283fee69b1323b"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -530,6 +548,7 @@ This is the Queen Ask, wanting to know if you hold the \DQ. Since you do have it
 [Auction "E"]
 pass 2C pass 2H pass 3H pass 3S pass 4NT pass 6H all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a0ae1baf7865c44497e1d83c3bd87c35518b58a62fdb05fef022cb0c58234c53"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -560,6 +579,7 @@ Partner promises first round \S control so NOW you can bid RCKB. When you bid 4N
 [Auction "N"]
 2C pass 2H pass 2S pass 3S pass 4NT pass 5H pass 5NT pass 6D pass 7NT all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fe1154e39dd8e14361c10ae76ef8f3261e02c49157a174c4a3f861bf3c3e37c2"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -594,6 +614,7 @@ Partner is asking for Kings and you have just 1, the \HK. Remember, the \SK is n
 [Auction "E"]
 pass 1S pass 3S pass 4C pass 4H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3867eaad7d1d33014c80215cb447566ce684ce4b8c76e267ae8f842f0031867e"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]

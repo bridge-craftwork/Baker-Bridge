@@ -167,7 +167,7 @@ The key visibility logic is in bbparse.py - CSV_to_PBN just passes it through.
 
 ## Running the Build
 
-The complete build pipeline has three steps:
+The complete build pipeline has four steps:
 
 ```bash
 cd Tools
@@ -180,13 +180,28 @@ python3 CSV_to_PBN.py BakerBridge.csv
 
 # Step 3: Copy PBN/PDF files to Package folder for distribution
 python3 package_results.py
+
+# Step 4: Stamp board-identity tokens on the released Package PBNs (must run LAST)
+python3 stamp_board_tokens.py
 ```
 
 ### What Each Step Does
 
 1. **bbparse.py** → Parses HTML, generates `BakerBridge.csv` and debug files in `Tools/Anchors/`
 2. **CSV_to_PBN.py** → Converts CSV to PBN files in `Tools/pbns/`, also generates `Package/toc.json`
-3. **package_results.py** → Copies all `.pbn` and `.pdf` files from `pbns/` to `Package/`
+3. **package_results.py** → Copies all `.pbn` and `.pdf` files from `pbns/` to `Package/`, then merges in curated boards from `Curated/`
+4. **stamp_board_tokens.py** → Stamps `[BoardVersionToken]` on every board in `Package/*.pbn` and backstops the `%bridge-classroom-stable: true` header (see "Board Identity Metadata" below)
+
+## Board Identity Metadata (Bridge Classroom)
+
+Bridge Classroom uses board-identity + readiness metadata to decide whether Baker boards count toward mastery and to match "Report a Problem" reports across rotations.
+
+- **`%bridge-classroom-stable: true`** — a file-level header comment. Present ⇒ that file's boards count toward mastery; absent/`false` ⇒ BC treats them as prerelease (recorded + navigable, but excluded from mastery/stats). Emitted by `CSV_to_PBN.py` next to `%bridge-context:`, and backstopped by `stamp_board_tokens.py` so curated-only files can't slip through. (Collection is **not** a PBN concern — BC sources `collection_id` from its own config.)
+  - To mark a single board under active revision inside an otherwise-stable file, add a board-level override `[Stable "false"]`.
+- **`[BoardVersionToken "…"]`** — a 64-char lowercase sha256 hex per board, stamped by `stamp_board_tokens.py`. It is a **rotation-canonical** hash of the deal + auction: the deal is rotated so the ♠A holder becomes North, then `sha256(canonicalDeal + "|" + canonicalAuction)`. Identical across all rotational variants of a deal. **BC treats it as opaque** (records/echoes only).
+  - **The normalization is frozen.** Changing it changes every token and breaks BC's ability to match previously-recorded tokens. See the module docstring in `stamp_board_tokens.py` for the exact rules; any new scheme must be a versioned, additive change.
+
+`stamp_board_tokens.py` runs **after** the curated merge so generated, merged, and any future pure-curated boards are all stamped from their final released content. It fails the build (exit 1) if any board can't be tokenized or has a blank/`uncategorized` `[SkillPath]`.
 
 ### Debug Anchor Output
 

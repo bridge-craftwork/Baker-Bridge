@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
 %bridge-context: No Jacoby 2NT; plain Blackwood
 [Event "Baker Bridge - Very Basic Major Suit Bidding"]
 [Board "1"]
@@ -14,6 +15,7 @@
 [Auction "N"]
 1H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "17c05876b3bbad32a932a1906cf8a29c4da9533b83be292c01e13f5d45efb769"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -41,6 +43,7 @@ has 4 points which is not strong enough to respond. So SOUTH passes.}
 [Auction "S"]
 1S pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7df3ce04b97985bf3d151f1a458260a86d139d34fe32fe83111217cf76d1ce2d"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -76,6 +79,7 @@ If NORTH had 9 or 10 points she would now bid 4\S - but with 7 she passes.}
 [Auction "N"]
 pass pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7b0e74dd01583757bb8908dd58597146567c400f70030804be58a61f272fa27a"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -111,6 +115,7 @@ In light of NORTH's weak response SOUTH passes.}
 [Auction "S"]
 1H pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7971af74e27a3a77644e0f35bae9c87ea8f84a37e666915d8d43b5c20ccde0b4"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -146,6 +151,7 @@ have only had 6 points. So she carries on to 4\H.}
 [Auction "N"]
 1H pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5533ce76ad8c34109826b9b0b29fe728c6b0ecb80a9c857f8f02b8947277f33a"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -179,6 +185,7 @@ Too bad, but SOUTH is too weak to accept any invitations.}
 [Auction "S"]
 pass pass 1S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "cd93aa5c2dcf85056ba64eeadde6bcd5249fee3542996f696fbfd05c6a3f14c2"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -209,6 +216,7 @@ an opening one bid.}
 [Auction "N"]
 1S pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c503d2fc71a989896323d251c68531b5cd71c5b84dff0e753eaa314c7ed8219a"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -245,6 +253,7 @@ SOUTH comes through with 4\S.}
 [Auction "S"]
 1H pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2babef90e1395fc22fd7efe5dda806d998fb2d9d99edbc130006c49296db5bdb"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -274,6 +283,7 @@ SOUTH knows he has been invited to bid higher, but with nothing above minimum he
 [Auction "N"]
 pass pass 1H pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0ae96a3c689ef6151e1fa22c6de99a5e67d774fa242209f8f0471b119393d15b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -309,6 +319,7 @@ be either 24 or 25. So he passes 3\H.}
 [Auction "S"]
 1S pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2cb1ff5d4f5cf6d2758dd137daf16a468c1f0f9edc0198370ea23b9cd1b09a3d"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -339,6 +350,7 @@ only reach 24 points when added to his 14.}
 [Auction "N"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8d7962f29324defa4756fbd501a0325b7692a481240eea6c9e8014e992788510"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -369,6 +381,7 @@ NORTH adds: her 16 plus SOUTH's 11/12 equals a game, 4\S.}
 [Auction "S"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4c4646ea1101284c90f59d03661ae6b2201e56f8128932825efead7d72cd2bb7"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -402,6 +415,7 @@ He bids 4\S.}
 [Auction "N"]
 1H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "29b8ccd76568d4869727345435e1e4a10308aa7c3fe77a85c4e05852ddadef0e"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -434,6 +448,7 @@ would arrive at the same contract. See some of the other BakerBridge lessons for
 [Auction "S"]
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7c9fda01fc6a7c60314ca813790399e8ff4233b9a18df6c1b70f9054556044a7"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -464,6 +479,7 @@ the opponents have no way to win the first two tricks he decides to bid the slam
 [Auction "N"]
 1S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0b0386542033f31455d93130ba86109b61c4c18b197102cc8d3b4e4d59707230"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -496,6 +512,7 @@ need to find another way to describe your opening-hand-strength type hands.}
 [Auction "S"]
 1H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "53e84af50a4be4932b952e9730d28ffa8c555849bfe3fbc5003d3f15f2c14482"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -528,6 +545,7 @@ This is similar to Deal 13.}
 [Auction "N"]
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a58f79ba181fd323db2f87a29bfbedd109a0218707dd58ceebb3079ff154269a"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -558,6 +576,7 @@ take the safe position and just bid 4\H.}
 [Auction "S"]
 pass pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8fe7aa86a80eb16433e893cef063fcd661d787d67c9643d7b7b62a80d9af376f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -588,6 +607,7 @@ two doubletons. However, with six trumps he should jump all the way to 4\S.}
 [Auction "N"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f258980407ec2b4d204c0c5968657deea1e949bf2afe11cb78f71cd67fe8d3af"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -619,6 +639,7 @@ NORTH KNOWS that 6 + 20 = 26, so she GOES to 4\S.}
 [Auction "S"]
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5d86f6f0052a16405fdf12226ee93d67793cf647c58a65936332dfc46b4b249b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -649,6 +670,7 @@ SOUTH adds NORTH's 6 to his 20 and bids the game, 4\H.}
 [Auction "N"]
 1H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "81e2472e25e5b0525516968e7cb28e0916eb2a04c6b270478aa3f330a3ff5e5c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -676,6 +698,7 @@ passes the 1\H bid.}
 [Auction "S"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "95cfa69c6abdc4199c66168c18d94c257a11d0690d2645ccc6ce02fdaf6d4ca4"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -707,6 +730,7 @@ him up to 15 points. So he has enough to bid 4\S.}
 [Auction "N"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7c3f35ed9be05e4f0b1323868fbb5eb833a2ef5c44c456b7a9af7733b6e6301a"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -738,6 +762,7 @@ She bids 4\S.}
 [Auction "S"]
 pass pass 1H pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e65fbc7da67773907a2303a867313c329b9be3eda6d238c229bf9d181c010b27"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]

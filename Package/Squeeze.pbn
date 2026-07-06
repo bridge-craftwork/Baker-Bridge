@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Squeeze Plays"]
 [Board "1"]
 [Dealer "S"]
@@ -13,6 +14,7 @@
 [Auction "S"]
 2C pass 2D pass 3D pass 3S pass 4NT pass 5D pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4e2843443de8250acb4d412fa6320e7f28039677fbce17a7a4f32b3ab6ede1a1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -73,6 +75,7 @@ You play the \CA and he must give up one of those Guards.}
 [Auction "S"]
 2C pass 2D pass 3C pass 3H pass 4NT pass 5C pass 7C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1a5292a32e6622f25314b5571b9b0d6b27f894de8cf4d80adfb4327f801685a4"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -137,6 +140,7 @@ If you discard the \HQ East will throw his \HA. If you discard dummy's fourth \D
 [Auction "S"]
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c3f30a8173f001854c86d5dcac53d8c2140f8d1c640346a52bfdbd4c572ce542"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -189,6 +193,7 @@ You will toss dummy's \C8 and East will have to decide whether it is better for 
 [Auction "S"]
 1NT 2H 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "29573b885fb8fb1be725ac6d5cade5baa354be750ae9c80735448ff455ce753e"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -249,6 +254,7 @@ But if he instead throws the \H9, both of dummy's \Hs will become winners.}
 [Auction "S"]
 1C 2H X pass 2NT pass 6NT all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8ae93f3d069591845d429611e04dafba0d671a90bb09a5177ca6ccc8ff3ae0d4"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -311,6 +317,7 @@ Squeezes are so very satisfying.}
 [Auction "S"]
 1D pass 2NT pass 4D pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9fbb1d1410946c5035fcf8785fd2c666d20d9c16d4a89c3fcf3404bec94c890b"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -371,6 +378,7 @@ So he will discard the \H10 instead. At this point you know that the \SQ is wort
 [Auction "E"]
 1NT 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d1b49b2cb2df74017ea093a7f12866f3ad892d3c4b12615bb9a94215cba5c10e"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -451,6 +459,7 @@ Only by visualizing the ending and using the Vienna Coup can this hand be made.}
 [Auction "S"]
 1C pass 2D pass 3C pass 4C pass 4H pass 4S pass 6C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3b8b9f5778528667f8d1dfb3843f16b8e3ce0c70799c1687e657bcfeb8b8afeb"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -509,6 +518,7 @@ The only difference would be that to rectify the count you would have to hold up
 [Auction "N"]
 2S pass 2NT pass 3NT pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ee8ebf5c0422fe6afcd659b8f0c99ca93c651402439b1e6715f7b0ff51a8d398"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -557,6 +567,7 @@ If he throws the \CJ, you win. But if he throws a \S you also win. This is what 
 [Auction "E"]
 pass 1NT pass 2C pass 2S pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "afcf44506860979a7185d1f190bd8f14f40ad63802343617317f79b867617397"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -617,6 +628,7 @@ If he discards the \D10 then you throw dummy's small \H and dummy wins the last 
 [Auction "N"]
 1C pass 2D pass 2S pass 4NT pass 5H pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ed7d41feaebf85081bb75504454fe418c1f01adf6866157c6bd94eb7c2dc2b85"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -671,6 +683,7 @@ East is squeezed. He can't throw his \CK without letting your \CQ become a winne
 [Auction "S"]
 1H pass 3C pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d71392be7ee1b62838a307cfb355e1d1abe636b62066e4475d707864cc6a89ff"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -719,6 +732,7 @@ East has no answer.}
 [Auction "E"]
 pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7e5a05fd38fdd7b0b3586e2952c94e4ea70132c3c8c61de2a0319ff31fb126ba"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -805,6 +819,7 @@ This is called a Double Squeeze.}
 [Auction "S"]
 2C pass 3D pass 4NT pass 5D pass 7NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7202b0029d1efd40d9bb92459da730ad13e416caa3e9719e87d1b6d179f59339"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -871,6 +886,7 @@ You win the last three \H tricks with another Double Squeeze.}
 [Auction "S"]
 1H 1S 2C pass 3H pass 4H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "835eda48a403a4bd440de8ddd439a077be66e8a880b1b6536c48c7a38a15e1c1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -933,6 +949,7 @@ So you play your \HA and West must give up one of his guards. If he holds on to 
 [Auction "S"]
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3c5d16aea1cbcceec6efb4bcd1b74874103715c6958b292929c515cf14fa154a"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -1019,6 +1036,7 @@ So you establish a \D winner and make your contract.}
 [Auction "S"]
 2C pass 3D pass 4NT pass 5D pass 5NT pass 6D pass 7C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "e71b40e5c33b4458280cdcea1ab5e9128301b3fcad20ab11e93677741e91eadc"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -1085,6 +1103,7 @@ And you take the last three tricks with the \H suit. There were only two defende
 [Auction "S"]
 2C 4S pass pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f466d794eb08a4081e03427744dda02940d5c133f70cdbaf4f586e8691027945"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -1151,6 +1170,7 @@ Yet another slam, courtesy of the Squeeze Play!}
 [Auction "W"]
 1S pass pass X 2D 2NT pass 4H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "bd4c429419f383161aeb37f9c943eacf26b4ee6b055cf46b268cb6bfa00d0a45"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -1221,6 +1241,7 @@ So you dump dummy's \SK and win the last two tricks with the \DA and then the \D
 [Auction "E"]
 1H 1S pass 2H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2371184727df45669276ca5b1a1802a0882938aa89b709b40096d063e4e9718a"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]

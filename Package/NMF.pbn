@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-06-16 08:02:06
+%Created: 2026-07-06 08:03:03
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent NMF
+%bridge-classroom-stable: true
 [Event "Baker Bridge - New Minor Forcing"]
 [Board "1"]
 [Dealer "N"]
@@ -13,6 +14,7 @@
 [Auction "N"]
 1C pass 1S pass 1NT pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "81790f2ff0a0526f5af77a702815bb977c2e7a07423d4292acc4146f52c01fb6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -45,6 +47,7 @@ Partner tells you he has 3 \Ss. You already know he has a minimum strength hand.
 [Auction "S"]
 1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "26ba736e5e055e8246bf50da18cda849a728c8cf62de256e251a8fd87202dcd1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -77,6 +80,7 @@ Do not support the \Cs if you have another decent bid. This is New Minor Forcing
 [Auction "N"]
 1D pass 1H pass 1NT pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3afc3e0191c1d1779c4ad3c903259786b54254fda32afcfc4ca45f19fb13fd0f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -109,6 +113,7 @@ Partner tells you he has 3 \Hs. But he also tells you he has minimum strength - 
 [Auction "S"]
 1D pass 1S pass 1NT pass 2C pass 2H pass 4H all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0695a7d61e17c1a7266d019ee8dc126a06470944b6e033043376e3baf1c435a7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -143,6 +148,7 @@ This is New Minor Forcing and your first priority is to show a 4-card \H suit. Y
 [Auction "N"]
 1D pass 1H pass 1NT pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2aa66c8456936decb664a697cf9e8cd2d7eb9185aecf7ad2a554ad3210e6f1f1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -175,6 +181,7 @@ Partner tells you he has only 2 \Hs. He also tells you he only has 12-13 points.
 [Auction "S"]
 1C pass 1H pass 1NT pass 2D pass 3H pass 4H all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "39be3ec36a8ca754028bf7bd8cc95f15516bc40325261abcdd162824b95564c7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -209,6 +216,7 @@ This is New Minor Forcing. Partner wants to know if you have 3 \Hs. Not only do 
 [Auction "N"]
 1C pass 1S pass 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "857d26d8dcb8c771779de12a1a6c234513d416bbccf468ac070763e70dab19f8"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -243,6 +251,7 @@ Your 12 points just got upgraded! Bid 4\H.}
 [Auction "S"]
 1D pass 1H pass 1NT pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "31b507aa31d2a1e2d8f7545159f2bab5d4ccccc7cef48e4e0c4e42bbc4691c17"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -277,6 +286,7 @@ This is NMF, asking if you have 3 \Hs. You only have 2, but you have a great not
 [Auction "N"]
 1D pass 1H pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c699aa4f650689b62c78b66a06f7d96c82506bd2f512a50b639400ee9682f83f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -311,6 +321,7 @@ Partner doesn't have 3 \Hs. That's what you wanted to know, you bid 3NT.}
 [Auction "S"]
 1D pass 1S pass 1NT pass 2C pass 3H pass 4H all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b61f04e8d36aa7834b1e5fc47b4bda4259da4dfcdfea773841a09352df502d4a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -343,6 +354,7 @@ This is NMF, asking you to further describe your hand. You do not have 3 \Ss. Yo
 [Auction "N"]
 1C pass 1S pass 1NT pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4853a23425f63e9db9f28c521da65e5aa8a1397c72384b0672fe0d52e1d020bd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -377,6 +389,7 @@ OK, partner has a 4-card \H suit - may or may not have 3 \Ss. Since you don't ha
 [Auction "S"]
 1C pass 1S pass 2NT pass 3D pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9a407de86ff31092ae31b119241615d984568e02c2face8c30092e44b0292bd0"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -411,6 +424,7 @@ This is New Minor Forcing. Partner wants to know if you have 3 \Ss. Since you do
 [Auction "N"]
 1H pass 1S pass 2NT pass 3C pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "bceed1a5249007f9bc71afeb9cf68b07668e28b513177778010eff5a07eeb314"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -445,6 +459,7 @@ Partner does not have 3 \Ss. That was the information you needed, so you bid 6NT
 [Auction "S"]
 1D pass 1S pass 1NT pass 2C pass 2D pass 3NT all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ae1ab0b48c9e9410679b53e9781cd175bb5d5649e150978e853388a6ea5a7f20"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
