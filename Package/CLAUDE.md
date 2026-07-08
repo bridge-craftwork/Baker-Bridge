@@ -19,9 +19,9 @@ board-identity tags (see its "Running the Build" and "Board Identity Metadata" s
 
 ---
 
-## The four producer obligations
+## The five producer obligations
 
-The contract defines four obligations (R1–R4). Three are wired into the build; **R2 is
+The contract defines five obligations (R1–R5). All but R2 are wired into the build; **R2 is
 human discipline** and is the one to be most careful about.
 
 ### R1 — Declare release status  *(wired)*
@@ -76,9 +76,27 @@ prerelease is excluded from. Assign the real path **before** flipping to stable.
   prerelease boards exist); a refinement to exempt `stable=false` boards is tracked as a
   follow-up.
 
+### R5 — Publish a build-generated manifest  *(wired)*
+`Package/manifest.json` is the **authoritative description of the collection's shape** —
+Bridge Classroom fetches it directly to learn each lesson's board count and which boards
+are stable; it does **not** re-parse the PBNs for sizing. `Tools/generate_manifest.py`
+regenerates it **every build, last of all** (after tokens are stamped, since it reports
+each board's `boardVersionToken`).
+
+- Schema v2, keyed by **PBN basename** (= `deal_subfolder`); per lesson
+  `skillPath`/`boardCount`/`stableBoardCount`/`boards[]`, and per board
+  `number`/`stable`/`boardVersionToken`/`skillPath`.
+- Carries **only producer-owned facts**. Per §7 it does **not** include the `collection`
+  id, `report` flag, or `prerelease` column (BC derives `prerelease = !stable`), and there
+  is **no `tier`** field (a PBS client-side concern).
+- Fails the build if any released board lacks an integer `number`, a token, or a skill
+  path — so the numberless-board class of bug can't ship (see the 100NT board-100 fix via
+  `Curated/100NT.pbn`).
+- It does **not** replace `toc.json` (the navigation TOC); both ship.
+
 ---
 
-## Do NOT put these in the PBN  (§7 — Bridge-Classroom-owned)
+## Do NOT put these in the PBN or manifest  (§7 — Bridge-Classroom-owned)
 
 These are BC config, not producer output. Do not add tags/headers for them:
 

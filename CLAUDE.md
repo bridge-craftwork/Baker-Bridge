@@ -167,7 +167,7 @@ The key visibility logic is in bbparse.py - CSV_to_PBN just passes it through.
 
 ## Running the Build
 
-The complete build pipeline has four steps:
+The complete build pipeline has five steps:
 
 ```bash
 cd Tools
@@ -181,9 +181,14 @@ python3 CSV_to_PBN.py BakerBridge.csv
 # Step 3: Copy PBN/PDF files to Package folder for distribution
 python3 package_results.py
 
-# Step 4: Stamp board-identity tokens on the released Package PBNs (must run LAST)
+# Step 4: Stamp board-identity tokens on the released Package PBNs (must run after step 3)
 python3 stamp_board_tokens.py
+
+# Step 5: Emit the build-generated manifest (must run LAST, after tokens are stamped)
+python3 generate_manifest.py
 ```
+
+(`Tools/build-mac.sh` runs all of these; steps 4–5 are its `stamp` phase, after `package`.)
 
 ### What Each Step Does
 
@@ -191,6 +196,7 @@ python3 stamp_board_tokens.py
 2. **CSV_to_PBN.py** → Converts CSV to PBN files in `Tools/pbns/`, also generates `Package/toc.json`
 3. **package_results.py** → Copies all `.pbn` and `.pdf` files from `pbns/` to `Package/`, then merges in curated boards from `Curated/`
 4. **stamp_board_tokens.py** → Stamps `[BoardVersionToken]` on every board in `Package/*.pbn` and backstops the `%bridge-classroom-stable: true` header (see "Board Identity Metadata" below)
+5. **generate_manifest.py** → Emits `Package/manifest.json`, the build-generated collection manifest (producer-contract R5); reads the fully-stamped `Package/*.pbn`
 
 ## Board Identity Metadata (Bridge Classroom)
 
@@ -202,6 +208,8 @@ Bridge Classroom uses board-identity + readiness metadata to decide whether Bake
   - **The normalization is frozen.** Changing it changes every token and breaks BC's ability to match previously-recorded tokens. See the module docstring in `stamp_board_tokens.py` for the exact rules; any new scheme must be a versioned, additive change.
 
 `stamp_board_tokens.py` runs **after** the curated merge so generated, merged, and any future pure-curated boards are all stamped from their final released content. It fails the build (exit 1) if any board can't be tokenized or has a blank/`uncategorized` `[SkillPath]`.
+
+- **`Package/manifest.json`** — the build-generated collection manifest (producer-contract **R5**), the authoritative description of the collection's shape that Bridge Classroom fetches directly (it does **not** re-parse the PBNs for sizing). Emitted by `generate_manifest.py` as the **last** build step, reading the fully-stamped `Package/*.pbn`. Schema v2, keyed by PBN basename; per lesson `skillPath`/`boardCount`/`stableBoardCount`/`boards[]`, and per board `number`/`stable`/`boardVersionToken`/`skillPath`. Per contract §7 it carries only producer-owned facts — **no** `collection` id, `report` flag, or `prerelease` column, and no `tier` (a PBS client-side concern). It fails the build (exit 1) if any released board lacks an integer `number`, a token, or a skill path. Note `manifest.json` does **not** replace `toc.json` (navigation TOC) — both ship.
 
 ### Debug Anchor Output
 
