@@ -71,6 +71,7 @@ PHASES=(
     "intro-pdf|Convert introduction pages to PDF"
     "pbn-pdf|Convert PBNs to PDFs"
     "package|Package results"
+    "stamp|Stamp board tokens and generate manifest"
     "presentation|Create presentation structure"
     "rotate|Generate rotations for multi-table play"
 )
@@ -302,6 +303,16 @@ phase_package() {
     echo "Output: Package/ ($PKG_COUNT files)"
 }
 
+phase_stamp() {
+    step "Stamp Board Tokens + Manifest"
+    cd "$SCRIPT_DIR"
+    # Must run AFTER package_results.py (curated merge): both the board-version
+    # tokens and the manifest are stamped from the final released Package/ content.
+    python3 stamp_board_tokens.py
+    python3 generate_manifest.py
+    echo "Output: Package/*.pbn tokens + Package/manifest.json"
+}
+
 phase_presentation() {
     step "Create Presentation Structure"
     cd "$REPO_ROOT"
@@ -342,6 +353,7 @@ run_phase() {
         intro-pdf)    phase_intro_pdf ;;
         pbn-pdf)      phase_pbn_pdf ;;
         package)      phase_package ;;
+        stamp)        phase_stamp ;;
         presentation) phase_presentation ;;
         rotate)       phase_rotate "${LESSON:-*}" ;;
         *)
@@ -378,6 +390,7 @@ run_classroom() {
     phase_pbn "BakerBridgeFull.csv"
     phase_pbn_pdf
     phase_package
+    phase_stamp
 
     echo ""
     echo -e "${GREEN}Classroom build complete.${NC}"
@@ -418,6 +431,7 @@ run_rotations() {
     phase_pbn "BakerBridgeFull.csv"
     phase_pbn_pdf
     phase_package
+    phase_stamp
     phase_presentation
     phase_rotate "$filter"
 
