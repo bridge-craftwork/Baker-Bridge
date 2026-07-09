@@ -29,7 +29,8 @@ ENV/
 ~$*
 
 # Claude Code local settings
-.claude/
+.claude/*
+!.claude/settings.json
 /Package-windows
 /Presentation-windows
 /Rotations-windows
