@@ -260,6 +260,9 @@ phase_pbn() {
         error "$csv_file not found."
     fi
     python3 CSV_to_PBN.py "$csv_file"
+    # Inject the defense-lesson [showcards] dummy-card fixes (answer key; the
+    # cards can't be recovered from the source HTML — see apply_showcards_dummy.py).
+    python3 apply_showcards_dummy.py pbns
     PBN_COUNT=$(find pbns -name "*.pbn" | wc -l | tr -d ' ')
     echo "Output: pbns/ ($PBN_COUNT PBN files)"
 }

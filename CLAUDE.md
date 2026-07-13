@@ -178,6 +178,9 @@ python3 bbparse.py
 # Step 2: Convert CSV to PBN files
 python3 CSV_to_PBN.py BakerBridge.csv
 
+# Step 2b: Inject the defense-lesson [showcards] dummy-card fixes onto pbns/
+python3 apply_showcards_dummy.py pbns
+
 # Step 3: Copy PBN/PDF files to Package folder for distribution
 python3 package_results.py
 
@@ -194,6 +197,7 @@ python3 generate_manifest.py
 
 1. **bbparse.py** → Parses HTML, generates `BakerBridge.csv` and debug files in `Tools/Anchors/`
 2. **CSV_to_PBN.py** → Converts CSV to PBN files in `Tools/pbns/`, also generates `Package/toc.json`
+   - **apply_showcards_dummy.py** → injects the defense-lesson `[showcards]` dummy-card fixes from `showcards_dummy_key.md` (bbparse can't recover dummy's played card from the HTML; see "Defense `[showcards]` dummy cards" below)
 3. **package_results.py** → Copies all `.pbn` and `.pdf` files from `pbns/` to `Package/`, then merges in curated boards from `Curated/`
 4. **stamp_board_tokens.py** → Stamps `[BoardVersionToken]` on every board in `Package/*.pbn` and backstops the `%bridge-classroom-stable: true` header (see "Board Identity Metadata" below)
 5. **generate_manifest.py** → Emits `Package/manifest.json`, the build-generated collection manifest (producer-contract R5); reads the fully-stamped `Package/*.pbn`
@@ -210,6 +214,13 @@ Bridge Classroom uses board-identity + readiness metadata to decide whether Bake
 `stamp_board_tokens.py` runs **after** the curated merge so generated, merged, and any future pure-curated boards are all stamped from their final released content. It fails the build (exit 1) if any board can't be tokenized or has a blank/`uncategorized` `[SkillPath]`.
 
 - **`Package/manifest.json`** — the build-generated collection manifest (producer-contract **R5**), the authoritative description of the collection's shape that Bridge Classroom fetches directly (it does **not** re-parse the PBNs for sizing). Emitted by `generate_manifest.py` as the **last** build step, reading the fully-stamped `Package/*.pbn`. Schema v2, keyed by PBN basename; per lesson `skillPath`/`boardCount`/`stableBoardCount`/`boards[]`, and per board `number`/`stable`/`boardVersionToken`/`skillPath`. Per contract §7 it carries only producer-owned facts — **no** `collection` id, `report` flag, or `prerelease` column, and no `tier` (a PBS client-side concern). It fails the build (exit 1) if any released board lacks an integer `number`, a token, or a skill path. Note `manifest.json` does **not** replace `toc.json` (navigation TOC) — both ship.
+
+## Defense `[showcards]` dummy cards
+
+`bbparse.py` builds `[showcards]` directives from partial-hand diffs in the source HTML. Dummy is rendered as a *full* hand (`[show N]`), so its **played** card is never a diffable partial hand — every defense-lesson `[showcards]` (Signals, SecondHand, ThirdHand) omits dummy's card, and a few originals are malformed. The card can't be recovered from the HTML, so it is supplied out of band:
+
+- **`Tools/showcards_dummy_key.md`** — the answer key, one line per board: `<Lesson> <Board> | <FROM directive> => <TO directive>`. Corrected directives (not just "the card") so it also covers dummy-led decision tricks and malformed-directive rebuilds. See BC issues #11/#12; the under-specified boards that need a full display rebuild are deferred to #13.
+- **`apply_showcards_dummy.py`** — a build step (right after `CSV_to_PBN.py`, over `pbns/*.pbn`) that replaces each board's FROM directive with TO, scoped per board (the same directive text recurs across boards with different fixes). Idempotent and re-applied every build. Does **not** affect `[BoardVersionToken]` (the token hashes only the deal + auction, not commentary).
 
 ### Debug Anchor Output
 
