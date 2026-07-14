@@ -21,7 +21,7 @@
 [Student "E"]
 {[show NE]
 
-[showcards N:D5]
+[PLAY W:SJ,N:SQ,E:S2,S:S3] [showcards N:D5]
 
 You are East. The bidding has been as shown.
 
@@ -169,7 +169,7 @@ However, with South holding the \SQ it would be very logical for him to go up wi
 [Student "E"]
 {[show NE]
 
-[showcards N:S4]
+[PLAY W:H9,N:HT,E:H3,S:H4] [showcards N:S4]
 
 You are East. The bidding has been as shown.
 
@@ -481,7 +481,7 @@ Now visualize the result of playing the \HQ. Whether South takes this trick or n
 [Student "E"]
 {[show NE]
 
-[showcards N:C3]
+[PLAY W:HT,N:HA,E:H2,S:H4] [showcards N:C3]
 
 You are East. The bidding has been as shown.
 
