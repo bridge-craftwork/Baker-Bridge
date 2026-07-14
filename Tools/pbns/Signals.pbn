@@ -131,7 +131,7 @@ When he next plays the \CK dummy will ruff, but whatever card he ruffs with you 
 [Student "W"]
 {[show NW]
 
-[showcards W:D5 N:D4,D8,H2 E:DQ,D7,D3 S:D6,DT,DA,CQ]
+[PLAY W:D5,N:D4,E:DQ,S:D6,E:D7,S:DT,W:DJ,N:D8,W:DK,N:H2,E:D3,S:DA] [showcards S:CQ]
 
 You are West. The bidding has been as shown. You led the \D5, East wins the \DQ and returns the \D7. South holds up his \DA until the third round. He then plays the \CQ and it is your play. 
 
@@ -199,7 +199,7 @@ Much better to play low. Partner will surely switch to a \D, and South will prob
 [Student "W"]
 {[show NW]
 
-[showcards W:SA N:S2,S4 E:S9,S3 S:S5,S8]
+[PLAY W:SA,N:S2,E:S9,S:S5,W:SQ,N:S4,E:S3,S:S8]
 
 You are West. The bidding has been as shown. You led the \SA, East plays the \S9, South the \S5. You assume East has signaled you to continue \Ss, so you play the \SQ. On this trick East plays the \S3 and South the \S8. How will you continue? 
 
@@ -233,7 +233,7 @@ The best procedure is to lead a low \S. East will ruff and South will over-ruff 
 [Student "E"]
 {[show NE]
 
-[showcards S:HA,DJ W:HQ,D2 N:H2,D4]
+[PLAY W:HQ,N:H2,E:H3,S:HA] [showcards S:DJ W:D2 N:D4]
 
 You are East. The bidding has been as shown. Partner led the \HQ, you played low and South won the \HA.
 
@@ -271,7 +271,7 @@ This defense holds South to one \D tricks, if you had let him win the second one
 [Student "W"]
 {[show NW]
 
-[showcards W:H4 N:H7,S3 E:S2,HJ S:SJ,ST,HA]
+[PLAY W:H4,N:H7,E:HJ,S:HA,S:SJ,W:S5,N:S3,E:S2] [showcards S:ST]
 
 You are West. The bidding has been as shown. You led the \H4, East plays the \HJ, won by South with \HA.
 
@@ -343,7 +343,7 @@ South is one trick short and he sees he can easily get that trick in \Hs. So he 
 [Student "W"]
 {[show NW]
 
-[showcards W:H4 N:H2,HJ E:HA,H3 S:H8,H5]
+[PLAY W:H4,N:H2,E:HA,S:H8,E:H3,S:H5,W:S3,N:HJ]
 
 You are West. The bidding has been as shown. You led the \H4, East takes the \HA and returns the \H3. You ruff and then play what??? 
 
@@ -483,7 +483,7 @@ West next plays a small \D which you win with your \DJ. You return the \ST. This
 [Student "W"]
 {[show NW]
 
-[showcards W:S5 N:S7 E:ST S:SK,CT]
+[PLAY W:S5,N:S7,E:ST,S:SK] [showcards S:CT]
 
 You are West. The bidding has been as shown. You led the \S5, East plays the \ST and South wins the \SK. To the second trick South plays the \CT and you must discard something. 
 
@@ -519,7 +519,7 @@ Hopefully East will come to the conclusion that this is Suit Preference for a \H
 [Student "E"]
 {[show NE]
 
-[showcards S:S8,S5 W:SA,SQ,SK N:S2]
+[PLAY W:SA,N:S2,E:ST,S:S5,W:SQ,N:S6,E:S4,S:S8] [showcards W:SK N:S9]
 
 You are East. The bidding has been as shown. Partner led the \SA, dummy played the \S2 and you signal with your \ST. West next plays the \SQ and you drop the \S4, completing your doubleton signal. West then plays the \SK and it turns out you don't have to ruff after all. So what are you going to play?
 
@@ -593,7 +593,7 @@ West dutifully plays a \H and you take the next three tricks. Had he switched to
 [Student "E"]
 {[show NE]
 
-[showcards W:CA,DA N:C2,D3 S:C5]
+[PLAY W:CA,N:C2,E:C3,S:C5] [showcards W:DA N:D3]
 
 You are East. The bidding has been as shown. Partner led the \CA. Seeing your \C3 he next played the \DA. What will you play on this trick?
 
@@ -627,7 +627,7 @@ But this time you really want him to take his \CK. So play the discouraging \D2 
 [Student "E"]
 {[show NE]
 
-[showcards S:HA,DA,DJ,CQ W:H5,D2,D6,C4 N:H4,D3,D8,C3]
+[PLAY W:H5,N:H4,E:HJ,S:HA,S:DA,W:D2,N:D3,E:D5,S:DJ,W:D6,N:D8,E:D7] [showcards S:CQ]
 
 You are East. The bidding has been as shown. Partner led the \H5, you put on the \HJ, South won with the \HA. The second trick was \DA, \D2, \D3, \D5. The third trick was \DJ, \D6, \D8, \D7. South then put the \CQ on the table.
 

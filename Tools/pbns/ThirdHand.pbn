@@ -425,7 +425,7 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 [Student "E"]
 {[show NE]
 
-[showcards W:SA,SK N:S3,SJ]
+[PLAY W:SA,N:S3,E:ST,S:S2] [showcards W:SK N:SJ]
 
 The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
 

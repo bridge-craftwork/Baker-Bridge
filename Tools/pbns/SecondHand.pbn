@@ -55,7 +55,7 @@ So if you put on your \DA, South will have TWO \D winners established. If instea
 [Student "W"]
 {[show NW]
 
-[showcards W:CJ N:C7 E:C2 S:H2,CA]
+[showcards S:H2]
 
 You are West. The bidding has been as shown.
 
@@ -93,7 +93,7 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 [Student "E"]
 {[show NE]
 
-[showcards W:CK,CQ,C5,D2 N:C2,C4,CT,DK,HJ E:C9,C3,CA,DT S:C6,C8,CJ,DJ]
+[PLAY W:CK,N:C2,E:C9,S:C6,W:CQ,N:C4,E:C3,S:C8,W:C5,N:CT,E:CA,S:CJ,E:DT,S:DJ,W:D2,N:DK] [showcards N:HJ]
 
 You are East. The bidding has been as shown.
 
@@ -131,7 +131,7 @@ Now that you have looked at the hands aren't you glad you didn't cover?}
 [Student "W"]
 {[show NW]
 
-[showcards W:HJ N:HQ,H3,H6 E:HA,HK,H2 S:S4,S2,H9,H4]
+[PLAY W:HJ,N:HQ,E:HK,S:H9,E:HA,S:H4,W:H5,N:H3,E:H2,S:S2,W:H8,N:H6] [showcards S:S4]
 
 You are West. The bidding has been as shown.
 
@@ -209,7 +209,7 @@ South has no defense to this, but if you had played low he would have played the
 [Student "W"]
 {[show NW]
 
-[showcards W:ST N:S5 E:S3 S:SA,C3]
+[PLAY W:ST,N:S5,E:S3,S:SA] [showcards S:C3]
 
 You are West. The bidding has been as shown.
 
@@ -289,7 +289,7 @@ By playing low you give him a guess to make. If he plays the \CK he will make th
 [Student "W"]
 {[show NW]
 
-[showcards W:D5 N:D3 S:DK,C9]
+[PLAY W:D5,N:D3,E:DT,S:DK] [showcards S:C9]
 
 You are West. The bidding has been as shown.
 
@@ -327,7 +327,7 @@ So the way to beat the contract is to go up with your \CA, then play \SK, \SQ an
 [Student "E"]
 {[show NE]
 
-[showcards W:H4,S2 N:H7,SK,DT S:S6,H8]
+[PLAY W:H4,N:H7,E:H2,S:H8,S:S6,W:S2,N:SK,E:S3] [showcards N:DT]
 
 You are East. The bidding has been as shown.
 
@@ -367,7 +367,7 @@ As you see, this will defeat the contract. Had you played a low \D South would h
 [Student "W"]
 {[show NW]
 
-[showcards W:S7 N:S3 E:S2 S:SQ,C6]
+[PLAY W:S7,N:S3,E:S2,S:SQ] [showcards S:C6]
 
 You are West. The bidding has been as shown.
 
@@ -407,7 +407,7 @@ East will win the \CA and return his \S through South's \S A Q. This allows you 
 [Student "E"]
 {[show NE]
 
-[showcards W:DQ,S2 N:D2,SK,S6 S:S4,DA]
+[PLAY W:DQ,N:D2,E:D8,S:DA,S:S4,W:S2,N:SK,E:S7] [showcards N:S6]
 
 You are East. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and South won the \DA.
 
@@ -445,7 +445,7 @@ Suppose you had ruffed the \S. South would have played his \S9, leaving himself 
 [Student "W"]
 {[show NW]
 
-[showcards W:CK N:C4,C9,CT E:S4,C5,C3 S:H4,CA,C6,C2]
+[PLAY W:CK,N:C4,E:C5,S:C6,W:CJ,N:C9,E:C3,S:C2,W:CQ,N:CT,E:S4,S:CA] [showcards S:H4]
 
 You are West. The bidding has been as shown.
 
@@ -519,7 +519,7 @@ Play low instead and South will win his \CQ. But now your \C K 10 sits behind du
 [Student "W"]
 {[show NW]
 
-[showcards W:SJ N:SK,HK,H3 E:S3,H7,H4 S:S5,HA,H2,C2]
+[PLAY W:SJ,N:SK,E:S3,S:S5,N:HK,E:H7,S:H2,W:D8,N:H3,E:H4,S:HA,W:S6] [showcards S:C2]
 
 You are West. The bidding has been as shown.
 
@@ -557,7 +557,7 @@ When you correctly play your small \C life becomes harder for South. Sometimes h
 [Student "E"]
 {[show NE]
 
-[showcards W:S6,S2 N:S4,S5,CA,D2 E:SA,S9,C8 S:SJ,SQ,C3]
+[PLAY W:S6,N:S4,E:SA,S:SJ,E:S9,S:SQ,W:S2,N:S5,S:C3,W:C6,N:CA,E:C8] [showcards N:D2]
 
 You are East. The bidding has been as shown.
 
@@ -639,7 +639,7 @@ But if you take your \HA now, then exit with your \H2, South can win the \HK but
 [Student "E"]
 {[show NE]
 
-[showcards S:SA,C2 W:SK N:S2,CA,HJ]
+[PLAY W:SK,N:S2,E:S3,S:SA,S:C2,W:C3,N:CA,E:C4] [showcards N:HJ]
 
 You are East. The bidding has been as shown.
 
@@ -721,7 +721,7 @@ If you play low on South's \S play East will be forced to win the trick and he c
 [Student "E"]
 {[show NE]
 
-[showcards W:H3,H7 N:H6,HQ,S6 S:HA,H2]
+[PLAY W:H3,N:H6,E:HT,S:HA,S:H2,W:H7,N:HJ,E:H4] [showcards N:S6]
 
 You are East. The bidding has been as shown.
 

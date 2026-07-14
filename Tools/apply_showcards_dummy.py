@@ -28,12 +28,13 @@ from collections import defaultdict
 HERE = os.path.dirname(os.path.abspath(__file__))
 KEY_PATH = os.path.join(HERE, "showcards_dummy_key.md")
 
-ENTRY_RE = re.compile(
-    r'^(\w+)\s+(\d+)\s*\|\s*(\[showcards[^\]]*\])\s*=>\s*(\[showcards[^\]]*\])')
+# FROM is always a single [showcards …]; TO is the rest of the line (one or more
+# directives, e.g. "[PLAY …] [showcards …]"), minus any trailing "# comment".
+ENTRY_RE = re.compile(r'^(\w+)\s+(\d+)\s*\|\s*(\[showcards[^\]]*\])\s*=>\s*(.+)$')
 
 
 def load_key(path):
-    """Return {lesson: [(board, from_directive, to_directive), ...]}."""
+    """Return {lesson: [(board, from_directive, to_directives), ...]}."""
     entries = defaultdict(list)
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
@@ -43,6 +44,7 @@ def load_key(path):
             m = ENTRY_RE.match(line)
             if m:
                 lesson, board, frm, to = m.groups()
+                to = re.sub(r'\s+#.*$', '', to).strip()  # drop trailing note
                 entries[lesson].append((int(board), frm, to))
     return entries
 
