@@ -1,316 +1,143 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Squeeze Plays"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:JT964.9832..QT63 KQ73.A4.Q962.A84 8.KQT75.T84.J952 A52.J6.AKJ753.K7"]
+[Deal "W:QT93.T54.KJT.AKQ 87.AQ9862.Q7.752 6542.J.9843.JT93 AKJ.K73.A652.864"]
 [Declarer "N"]
-[Contract "7NT"]
+[Contract "4H"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
+1NT 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "d1b49b2cb2df74017ea093a7f12866f3ad892d3c4b12615bb9a94215cba5c10e"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{North is to play 7NT. East leads the \HK.
+{North is to play 4\H. East leads the \CJ. West wins \C A K Q then switches to a trump.
 
-With 12 obvious tricks your first thought should be that perhaps the \Ss will split 3-3.
+West takes \C A K Q then switches to a trump.
 
-Then, your second thought should be that dummy's \HJ is a Threat against East's \HQ, so if it is East who holds 4 \Ss you will be able to squeeze him.
+You must win the next 10 tricks but you only have 9 winners.
 
-Since the contract is 7NT you take the first trick with the \HA. 
+West opened 1NT, showing 15-17 points, and East has already produced 2 Jacks. So both the \SQ and \DK are with West and you will have to put the squeeze on him. 
 
-With one trick in the bag you should test \Ds next. When you play the \DA West discards a \S.
+You are in dummy, having won their trump exit with the \HK.
 
-You continue with the \DQ and \D K, West discarding a \H and a \C. 
+Since you need all the tricks the count is already rectified.
 
-Since West has shown up with a \D void he has become the odds-on favorite to hold the \S Guard. His \S discard makes it very likely that he started with 5 \Ss. 
+You plan to squeeze West by running the long \Hs in your hand, but the problem is that the \DQ is not a Threat card yet. To make it a Threat you need to unblock dummy's \DA. So play the \DA, then pull trumps with the \H A Q. 
 
-To find out for sure you play \SA, then \SQ. Sure enough East discards a \H on the second round. 
+Unblocking the \DA to make your \DQ a squeeze Threat is called the Vienna Coup.
 
-You can't squeeze East in \Hs and \Ss because he doesn't hold the \S Guard, West does. 
+With 6 cards left to be played you are ready to apply pressure to West.
 
-But now a completely new possibility shows up. Say to yourself, over and over, "East must guard \Hs, and West must guard \Ss. Nobody can guard \Cs."
+Play the \H 9 8, discarding \Ds from dummy. West is not troubled yet, he can discard the \DJ and the \S3. 
 
-You start playing dummy's \D winners. 
+[showcards N:SA,SK,SJ,D6 E:SQ,ST,S9,DK S:S8,S7,H6,DQ W:S6,S5,D9,D8]
 
-With one more \D in dummy, things look like this. 
+West is now looking a little nervous, like he has a big target on his back!
 
-When you play the \D5 West must keep both \Ss to guard against your \S7. So he discards the \C6, hoping partner can stop that suit.
+Play the \H6 and throw dummy's \D6.
 
-Your \S7 is now worthless so you throw it.
+West can choose his fate. If he throws the \S9 you will know that his \SQ will drop since his third card <b>MUST</b> be the \DK. So you would just play to the high \Ss and the \SJ would be good.
 
-East has no problem, (yet), he discards the \H10. 
+Or, he can throw his \DK which makes your \DQ a winner. 
 
-[showcards N:S5,HJ,CK,C7 E:SJ,ST,CQ,CT S:SK,CA,C8,C4 W:HQ,CJ,C9,C5]
+That worked great, right? Let's back up and pretend you had NOT unblocked the \DA. We will just add one \D to everybody's hand and look at the ending.
 
-It is now time to pressure East. 
+Now when you play your \H6 as a squeeze card you have a problem. You are squeezing dummy, not West.
 
-Play dummy's \S5 to your \SK.
+If you discard the \D6 West will throw his \DJ, then sit back and wait for his \SQ trick.
 
-East MUST keep his \HQ so he releases his \C5.
+But if you discard dummy's \SJ instead, West will match that by throwing his \S9, then sit back and wait for his \DK trick.
 
-And you win the last three tricks with \CK, \CA, \C8.
-
-This is called a Double Squeeze.}
-[Play "W"]HK
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:AK74.AK5.KQT.AK2 QJT83.JT72.63.T6 952.6.AJ974.Q843 6.Q9843.852.J975"]
-[Declarer "E"]
-[Contract "7NT"]
-[Result ""]
-[Auction "E"]
-2C pass 3D pass 4NT pass 5D pass 7NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "advanced"]
-[SkillPath "declarer_play/squeeze_plays"]
-[Student "S"]
-{East is to play 7NT. South leads the \SQ.
-
-One more winner is needed. Dummy's fourth \C is a possibility.
-
-So take the \SK and play \C A K Q.
-
-South discards a \S on the third \C. 
-
-Now you know North guards the \Cs.
-
-Before tackling \Ds, see what you can discover about \Ss.
-
-Play the \SA. North discards a \H. 
-
-North guards the \Cs. South guards the \Ss. Nobody can guard the \Hs.
-
-Play 4 rounds of \Ds. 
-
-[showcards N:S9,H6,D4,C8 E:HQ,H9,H8,CJ S:S7,HA,HK,H5 W:SJ,HJ,HT,H7]
-
-On the fourth \D North had to discard a \H. You discarded a small \S. South discarded a \S on the third \D and a \H on the fourth.
-
-Play dummy's \D4. North cannot throw the \CJ or he will set up dummy's \C8, so he discards a \H.
-
-You discard the \S7.
-
-Now South is squeezed. He cannot discard the \SJ or he will set up dummy's \S9, so he discards a \H.
-
-You win the last three \H tricks with another Double Squeeze.}
-[Play "W"]SQ
+Only by visualizing the ending and using the Vienna Coup can this hand be made.}
+[Play "W"]CJ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:5.AKJ983.A5.K863 AKJ94.64.T72.QT2 T873.QT.KQ6.A975 Q62.752.J9843.J4"]
-[Declarer "S"]
-[Contract "6H"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q7.A4.Q54.AJ9732 JT65.KQJ75.92.84 A2.93.AK86.KQT65 K9843.T862.JT73."]
+[Declarer "E"]
+[Contract "6C"]
 [Result ""]
-[Auction "S"]
-1H 1S 2C pass 3H pass 4H pass 4NT pass 5D pass 6H pass pass pass
+[Auction "E"]
+1C pass 2D pass 3C pass 4C pass 4H pass 4S pass 6C pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "3b8b9f5778528667f8d1dfb3843f16b8e3ce0c70799c1687e657bcfeb8b8afeb"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{South is to play 6\H. West leads the \SA, then \SK.
+{East is to play 6\C. South leads the \HK.
 
-When you looked at just your and dummy's cards on the previous page it may have looked impossible to find a twelfth winner.
+You have 11 top tricks and hope for a 3-3 \D split to give you one more. If they don't split you can hope that the defender with 4 \Ds also holds the \SK and that a squeeze will be possible.
 
-Even looking at all four hands here it is still very difficult to come up with a plan.
+In case the squeeze becomes necessary you should rectify the count, so you win the first trick, pull trumps in two rounds, then give up a \H trick. 
 
-Here's a hint: If West holds 3 \Cs, (and you see that he does), can you squeeze him in \Cs and \Ss? 
+South takes the \H trick and plays the \D9 which you win with your \DQ.
 
-Of course you ruffed the \SK.
+You now make the key play of taking dummy's \SA before running three rounds of \Cs. 
 
-The big problem with trying to squeeze West in the black suits right now is that East actually holds a \S guard. But you can fix that.
+[showcards N:S2,DA,DK,D8 E:SK,DJ,DT,D7 S:SQ,D5,D4,C7 W:SJ,ST,HQ,D2]
 
-Play dummy's \HQ and \H10, then ruff a \S, then pull the last trump.  
+Unblocking the \SA to create a Threat out of your \SQ is the Vienna Coup.
 
-Now play the \DA, \DK, and \DQ, discarding the \C3 from your hand.
+As you see, North was able to find discards on your first three trump leads, but when you play the \C7 and discard dummy's \S2 he is squeezed.
 
-Then lead dummy's \C7 to your \CK. 
+He can see that if he discards a \D dummy will be high, so he will probably throw the \SK in hopes that his partner holds the \SQ. But you have that card and you make the slam. 
 
-[showcards N:ST,CA,C9 E:DJ,D9,CJ S:HA,C8,C6 W:SJ,CQ,CT]
+As an afterthought to this Deal, let us suppose you were playing 6NT rather than 6\C.
 
-Here you are in your hand.
-
-Only West can guard dummy's \ST, and only West can guard dummy's\C9.
-
-So you play your \HA and West must give up one of his guards. If he holds on to the \SJ then you toss dummy's useless \ST. If he throws the \SJ then you toss dummy's \C9.}
-[Play "W"]SA
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:J74.A7.K752.AK73 AK932.T42.J9.J64 QT.KQ53.A863.852 865.J986.QT4.QT9"]
-[Declarer "W"]
-[Contract "3NT"]
-[Result ""]
-[Auction "W"]
-1NT pass 2C pass 2D pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "advanced"]
-[SkillPath "declarer_play/squeeze_plays"]
-[Student "S"]
-{West is to play 3NT. North leads the \S3. South plays the \S5.
-
-From the opening lead of \S3 and South's play of \S5 you should have deduced that North held five \Ss to the A K. Therefore if you lose a trick in any other suit North will be able to take 4 \S tricks and defeat you.
-
-You have 8 winners, and if South holds 4+ \Hs AND 3+ \Ds then only he can guard the two suits.
-
-But how can you squeeze him? 
-
-The answer to that question is that <b>YOU</b> cannot squeeze him.
-
-But maybe you can make his partner do the job for you.
-
-At trick 2 you play a \S. 
-
-Of course North will win this with his \SK.
-
-And he will no doubt continue with the \SA and \S9.
-
-You discard 2 \Ds from dummy and a \C from your hand.
-
-South cannot spare either a \H or a \D so he also throws a \C. 
-
-***Remember this position***
-
-North will almost surely cash his \S2.
-
-You and dummy both discard a \C and South also must discard a \C.
-
-It doesn't matter what North plays next, lets say it is a \C. 
-
-In your hand with the \CK, you now play the \CA.
-
-South is truly squeezed. If he discards a \H, dummy's \H5 will become a winner. but if he discards a \D then you will get a third \D trick and the contract.
-
-Since it was North who started the squeeze by cashing his last \S, this is called a Suicide Squeeze.<b>BUT</b>, what if North had not cashed that \S? 
-
-***Here is the position you were supposed to remember***
-
-Suppose North is a really expert defender and avoids the Suicide Squeeze by just refusing to cash his winning \S. It doesn't matter what else he plays instead, so let us assume it is a \C.
-
-You win in your hand and establish a \D winner by playing \DA, \DK, and a small \D. South wins but cannot reach his partner's hand for that good \S.
-
-So you establish a \D winner and make your contract.}
-[Play "W"]S3
+The only difference would be that to rectify the count you would have to hold up once on the opening \HK.}
+[Play "W"]HK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:A.A63.K5.AKQJ987 KQ963.Q985.9.T62 J8.K74.AJ8762.53 T7542.JT2.QT43.4"]
-[Declarer "N"]
-[Contract "7C"]
+[Vulnerable "None"]
+[Deal "N:AKQ752.864.75.63 JT86.97.T83.J984 43.AKQJ.AK.AKQ52 9.T532.QJ9642.T7"]
+[Declarer "S"]
+[Contract "7NT"]
 [Result ""]
 [Auction "N"]
-2C pass 3D pass 4NT pass 5D pass 5NT pass 6D pass 7C pass pass pass
+2S pass 2NT pass 3NT pass 7NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ee8ebf5c0422fe6afcd659b8f0c99ca93c651402439b1e6715f7b0ff51a8d398"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{North is to play 7\C. East leads the \SK.
+{North's 3NT rebid shows 6 \Ss headed by A K Q and nothing else. South is to play 7NT. West leads the \DQ.
 
-At first glance this doesn't appear to be a difficult hand. You expect to win the opening lead, pull trumps, then establish a \D winner by playing \DK, \DA, and ruffing a \D. As long as they split 3-2 you could reach dummy's \D winner with the \HK. 
+Nice hand. You have 12 high card tricks and either a 3-2 \S split or a 3-3 \C split will land this Grand Slam. But even if neither suit splits nicely you can STILL make it if the same defender holds 4 cards in both suits; in that case you will squeeze for the thirteenth trick.
 
-So you take the \SA, pull three rounds of trumps and play \DK.
+Win the \DK and (<b>IMPORTANT!</b>) test the \Cs first by playing \C A K Q. Darn. West discards a \D on the \CQ. 
 
-But when you lead to the \DA East discards a small \S. 
+Alright, so East holds the \C Guard. You still need to exercise caution.
 
-Time to rethink. You are in dummy now, and you can ruff a \D, return with the \HK and ruff another \D. The last \D would be good but you'd have no way to reach it. 
+Play your 4 \H winner's next. West follows suit while East follows twice, then discards 2 \Ds.  
 
-Think squeeze instead. Ruff a \D. This turns the \DJ into a Threat card against West's \DQ.
+Don't play \Ss yet!
 
-But, the \SJ is already a Threat card against East's \SQ. 
+Play your \DA. East must give up. 
 
-Play your \CJ and \C9, discarding the \D8 and the \H4 from dummy. 
-
-East can afford to discard the \S9 and the \H5.
-
-West can spare his two \Ss. 
-
-[showcards N:SJ,HK,H7,DJ E:HJ,HT,H2,DQ S:HA,H6,H3,C8 W:SQ,HQ,H9,H8]
-
-You are there. Play your \C8. 
-
-East cannot throw the \SQ, so he gives up the \H8. Dummy's \SJ is of no further value so you dump it.
-
-West cannot throw the \DQ, so he gives up the \H2.
-
-And you take the last three tricks with the \H suit. There were only two defenders; one of them had to guard \Ss and the other had to guard \Ds. There was nobody left to guard \Hs.}
-[Play "W"]SK
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:.AKQT5.A863.AKQ4 AKJ86532.862.T.7 Q4.J973.K75.8652 T97.4.QJ942.JT93"]
-[Declarer "E"]
-[Contract "6H"]
-[Result ""]
-[Auction "E"]
-2C 4S pass pass 5H pass 6H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "advanced"]
-[SkillPath "declarer_play/squeeze_plays"]
-[Student "S"]
-{East is to play 6\H. South leads the \SA.
-
-If \Ds and \Cs split nicely this would be an easy slam. But with that wild \S bid by South you can't expect decent splits.
-
-So you ruff the \S, pull trumps in three rounds, then play \C A K and get the bad news when South discards a \S. 
-
-You now know that North guards the \Cs. And since South had 3 \Hs and a very long \S suit it is pretty likely that North guards the \Ds also. You will try to squeeze North in \Cs and \Ds, but first you must lose a trick to rectify the count.
-
-So you play a low \D from each hand. 
-
-It doesn't matter which defender takes the \D, since either one is going to do the same thing. Assume South wins the \D10.
-
-He will then play the \SK, which you must ruff in your hand. 
-
-Now play a small \D to dummy's \DK. 
-
-[showcards N:HJ,D7,C8,C6 E:DQ,DJ,CJ,CT S:DA,D8,CQ,C4 W:SJ,S8,S6,S5]
-
-You are in dummy, ready for the squeeze.
-
-Play dummy's \HJ.
-
-North gets to choose his own fate - discarding a protector in one of the two suits. Of course, whichever suit he discards you will throw the opposite one.
-
-Yet another slam, courtesy of the Squeeze Play!}
-[Play "W"]SA
+If he throws the \CJ, you win. But if he throws a \S you also win. This is what is called a Win-Win bridge play.}
+[Play "W"]DQ
 

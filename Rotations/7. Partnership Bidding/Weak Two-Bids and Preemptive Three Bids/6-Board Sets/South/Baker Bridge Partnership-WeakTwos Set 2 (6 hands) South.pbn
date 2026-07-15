@@ -1,0 +1,85 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-WeakTwos
+%bridge-classroom-stable: true
+%bridge-context: 2M-2NT = Feature ask (NOT Ogust)
+[Event "Baker Bridge - Weak Two-bids and Preemptive Three Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:43.85.KQJ9862.97 T982.JT43.AT.KJ2 KQ76.A62.53.AQ83 AJ5.KQ97.74.T654"]
+[Declarer "S"]
+[Contract "3D"]
+[Result ""]
+[Auction "S"]
+3D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "62af82bb51231f08a23c37388a6ab671aea54b3ca0f0a0b14b3533e40b2905b2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{SOUTH has a pretty normal preemptive 3\D bid.
+
+NORTH has the equivalent of an opening 1NT bid and will be very tempted to bid 3NT.
+
+That might turn out to be a disaster, particularly if NORTH is unable to reach the SOUTH hand.
+
+NORTH should assume SOUTH can win six tricks if 
+\Ds are trumps. Thinking this way points NORTH to her 
+best call - PASS.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:87.KQJ9732.5.864 K2.T4.T32.AQT532 AJT643.A.AK64.97 Q95.865.QJ987.KJ"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4762bcb7f031b96f32fd4fd1234277ca734c4ed0c6a56a343e8acd84609bb502"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{Here NORTH has the kind of hand you need to raise a preempt to game.
+
+NORTH assumes that SOUTH has a hand with six winners in it. He can provide four more, so 
+that is just enough for game. He bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQJ9765.QT2.7.63 82.A963.AK53.985 K4.KJ5.942.KQJ72 T3.874.QJT86.AT4"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2C pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "400ed683cdb61f9116120154633a28eccc9e5e018dabae580a788276de611e40"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{SOUTH has a 7-card \S suit but he is too strong to open with a preemptive bid. 
+So he opens 1\S instead.
+
+NORTH should respond 2\C, and SOUTH can do nothing but rebid the \S suit.
+
+NORTH thinks there should be game and bids 4\S}
+

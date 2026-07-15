@@ -1,126 +1,62 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+{You dealt this hand.  
+
+With 15 points and a 5-card Major you open 1\S. Partner responds 3\S.  
+
+Your 15 points gets revalued to 16/17 for the singleton. Add partner's 10-12 and you have enough for game. So you bid 4\S.}
+
 [Event "Baker Bridge - Major Suit Openings"]
 [Site ""]
 [Date ""]
-[Board "1"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AK65.J9864.72.A3 3.A2.QJT93.KT984 J874.75.K54.QJ52 QT92.KQT3.A86.76"]
-[Declarer "S"]
-[Contract "2S"]
-[Result ""]
-[Auction "N"]
-1H pass 1S pass 2S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{You dealt this hand.  
-
-You open 1\H and partner responds 1\S. It is your bid again. 
-
-You have good \S support but you must tell partner of your minimum hand. So you bid 2\S and he passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
 [Board "2"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:AT65.AK864.72.A3 Q42.J9.AJT93.942 K973.5.KQ64.Q876 J8.QT732.85.KJT5"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:JT.K653.Q84.JT72 A8653.J4.J72.AQ6 Q9.AT972.KT9.853 K742.Q8.A653.K94"]
 [Declarer "S"]
-[Contract "4S"]
+[Contract "3S"]
 [Result ""]
-[Auction "N"]
-1H pass 1S pass 3S pass 4S pass pass pass
+[Auction "E"]
+pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "924a2938e6cfe0226fd7a0c0b154e8c23a1e8101bd51f88eab6397fc1b98cb00"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
 [Student "S"]
 {You dealt this hand.  
 
-Naturally you open 1\H. Partner responds 1\S. What do you say next? 
+With 13 points you open 1\S. Partner responds 3\S.  
 
-Partner has at least 4 \Ss and you have 4. So you have found the 8-card Major fit. Now it is a question of finding the right level. Your job is to further describe your hand as either minimum, medium, or maximum. With 17/18 points (revalued) you are a medium, so you jump to 3\S.
-
-Partner bids the game.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:KQ973.AT95.QJ3.T JT86.J3.654.A742 A4.Q7.KT97.KQJ86 52.K8642.A82.953"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "N"]
-1S pass 2C pass 2H pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{You dealt this hand.  
-
-Of course you open 1\S. Partner responds 2\C. What is your next bid? 
-
-Partner has shown at least 11 points and you are forced to bid again. Since the \Hs rank below \Ss you can bid them with your minimum hand. Apparently that is just what partner wanted to hear since he jumps to 3NT which you happily pass.}
+Figure partner for 11-12 points. You have 13 but could revalue to 14 with the doubleton \H. But the truth is that your points are not very good ones. You should pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-[Dealer "N"]
-[Vulnerable "All"]
-[Deal "N:A9753.QJT5.KQJ.7 QT8.A8.T7652.JT2 62.K973.A84.A983 KJ4.642.93.KQ654"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:952.KJT864.K72.A QT64.92.JT63.987 A73.A73.Q5.QJ543 KJ8.Q5.A984.KT62"]
 [Declarer "S"]
 [Contract "4H"]
 [Result ""]
-[Auction "N"]
-1S pass 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{You dealt this hand.  
-
-You open 1\S and partner responds 2\H.  
-
-Partner has shown 11+ points and at least 4 \Hs. Your hand revalues to 16 points in support of \Hs, where you know you have an 8-card fit or better. You bid 4\H confidently.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AKT753.QJ5.KQT.7 842.T92.842.AKJ3 Q6.K873.A97.T854 J9.A64.J653.Q962"]
-[Declarer "S"]
-[Contract "4S"]
-[Result ""]
 [Auction "S"]
-1S pass 1NT pass 3S pass 4S pass pass pass
+1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "6087a019ca919db6f8e0c5428fa3983b77ea0c3e23922859fc694c1bb1399b3d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
 [Student "S"]
 {You dealt this hand.  
 
-We all know you will open 1\S with this hand. And after partner responds 1NT what is your next bid? 
+You open 1\H and partner responds 2\C, showing at least 11 points. You dealt this hand.  
 
-With 6 of them you can rebid \Ss but you are too strong to say just 2\S. Your 17 points puts you in the Medium range where you make a jump. So you bid 3\S and partner bids 4\S.}
+Partner's bid forces you to bid again. You have a bare-minimum hand, but at least you have a 6-card suit which you can rebid. You say 2\H and partner raises to 4\H.}
 

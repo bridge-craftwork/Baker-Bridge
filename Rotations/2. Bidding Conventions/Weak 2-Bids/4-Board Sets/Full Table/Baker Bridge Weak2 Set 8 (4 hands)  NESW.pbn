@@ -1,0 +1,52 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Weak2
+%bridge-classroom-stable: true
+%bridge-context: 2M-2NT = Feature ask (NOT Ogust)
+[Event "Baker Bridge - Weak 2-Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J2.KJ832.A7.KQJ3 AQ9874.65.986.T4 K.QT94.JT542.975 T653.A7.KQ3.A862"]
+[Declarer "N"]
+[Contract "3S"]
+[Result ""]
+[Auction "W"]
+1H 2S pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "830d418fa88eb06581d05b6afb771d4118a4faa3f4509cd75e91d8bb9dcfbf82"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/weak_2s"]
+[Student "S"]
+{You have a good Weak 2-Bid but West already opened. So you just make a Weak Jump Overcall of 2\S. East passes and partner raises to 3\S. West passes.  
+
+Pass. Partner is in charge. If he had wanted you to bid again he could have forced you with 2NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:96.984.AKQ874.72 T3.JT6.T96.KQJT9 A542.A52.J3.A865 KQJ87.KQ73.52.43"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+2D pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "12546e8d30ff12df9562e7d83150b93746248b687ee6a887ddecca33c63e5bce"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/weak_2s"]
+[Student "S"]
+{They shouldn't really be this easy. You bid 2NT and partner replies 3NT.  
+
+You pass of course. Partner's 3NT says his suit is A K Q x x x and you can therefore count 9 top tricks.}
+

@@ -1,85 +1,50 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 2over1
+%bridge-classroom-stable: true
+%bridge-context: 2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430; Specific Kings
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "S:AJT82.AK82.Q2.T5 63.JT4.T86.A7632 74.Q73.AKJ73.KJ9 KQ95.965.954.Q84"]
-[Declarer "N"]
-[Contract "3NT"]
+[Deal "W:9754.T6.J72.8653 AJT.AK985.K96.Q7 KQ2.QJ42.T853.92 863.73.AQ4.AKJT4"]
+[BoardVersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 2D Pass 2H Pass 2NT Pass 3NT Pass Pass Pass
-{South opens 1\S.  
-You respond 2\D, a 2/1 force to game.  Partner rebids 2\h, showing a 4-card side suit.
+[Auction "W"]
+Pass 1H Pass 2C Pass 2NT Pass 3NT Pass 4NT Pass 6NT Pass Pass Pass
+{North opens 1\H - how should you respond?
+North rebids 2NT.  How do you continue?
+South shows her minimum by bidding 3NT.
+North continues with 4NT - what does this mean?  How do you continue?
 
-You don't have 4 \Hs, nor do you have have 3 \Ss. You do, however, have stoppers in \Cs so you bid 2NT. 
-South happily says 3NT.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:AJT82.AT82.Q2.K5 96.7654.98.AQJ62 74.KQ3.AKJ73.T97 KQ53.J9.T654.843"]
-[Declarer "S"]
-[Contract "3NT"]
-[Student "S"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 2D Pass 2H Pass 3C Pass 3NT Pass Pass Pass
-{South opens 1\S. How do you respond? 
-You bid 2\d, a 2/1 force to game.  South rebids 2\h, showing a 4-card heart suit.   
-
-You don't have 4 \Hs, nor do you have 3 \Ss. Furthermore,  you don't have stoppers in \Cs so you cannot bid NT. Since you have to keep bidding, but have no reasonable bid you can make, you bid the fourth suit, 3\C. Compare this Deal with Deal 21.
-South understands that North's \C bid is Fourth-Suit-Forcing, and does not actually show \Cs. However since South does have a \C stopper he bids 3NT. In this case this turns out to be the best game contract.}
+ North's 4NT was not Blackwood, but rather a quantitative raise in Notrump, and an invitation to slam.
+You have 15 points, and they are good ones. So you accept the invitation and bid 6NT.
+There are 11 top tricks. A 3-3 \H split would provide the 12th winner, but this is against the odds. Better to try two \S finesses, a 75% chance.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:T82.A2.A8542.Q85 .JT98.JT96.AK643 AK974.KQ63.73.T7 QJ653.754.KQ.J92"]
-[Declarer "N"]
-[Contract "2S"]
+[Deal "E:KT.98762.T72.AK2 AJ8752.AK.Q6.J87 94.JT54.853.QT53 Q63.Q3.AKJ94.964"]
+[BoardVersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-Pass Pass 1S Pass 2D Pass 2H Pass 2S Pass Pass Pass
-{South passes - what should you open? 
-South now bids 2\D.  
-Since South originally passed this is <b>NOT</b> 2/1 Game Force. Instead, it is non-forcing and shows 11 or more points. 
-You should show your 4-card \H suit. South gives a preference to 2\S.  What do you do now? 
+[Auction "E"]
+Pass 1S Pass 2D Pass 2S Pass 4S Pass Pass Pass
+{South opens 1\S -  
+You responds 2\D, natural and game forcing.  South rebids 2\s.  In our style of 2/1, this promises 6+ cards in spades, and denies a side 4-card suit.  What should we bid now? 
 
-Knowing that South does not have opening strength you pass 2\S.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "All"]
-[Deal "S:KQT62.A74.84.A85 A98.Q52.QJ93.942 74.9863.A762.KQ3 J53.KJT.KT5.JT76"]
-[Declarer "S"]
-[Contract "2S"]
-[Student "S"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 1NT Pass 2C Pass 2S Pass Pass Pass
-{South opens 1\S.  
-With 9 points and a doubleton \S you must respond 1NT.   Partner rebids 2\c.   
-
-North prefers \C over \S but must allow for the possibility that South has bid a 3-card suit. So North gives a preference to 2\S. This is called a "false preference", but it assures the team of being in at least a 7-card fit. 
-South happily passes and the pair lands in a reasonable contract, probably better than 1NT.}
+You should jump to 4\S. This is Fast Arrival, indicating a minimum hand with no particular interest in slam.
+South is happy to rest in the game contract.
+Even with a combined 30 points, 10 tricks are certainly not a sure thing. South must hope that East holds the trump King.}
 

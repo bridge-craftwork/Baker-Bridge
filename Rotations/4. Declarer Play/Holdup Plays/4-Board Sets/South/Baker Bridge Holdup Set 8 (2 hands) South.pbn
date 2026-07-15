@@ -1,0 +1,41 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Holdup
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Holdup Plays"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e1bcc38bd881532b942c5ef725bf2b11a0aa6eb926835e80fcfab97f99c13475"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/holdup_plays"]
+[Student "S"]
+{South is to play 3NT. West leads the \S7.
+
+Winners:   \S=1  \H=2  \D=3  \C=0  Total = 6
+
+It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that West may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up?
+
+To answer that question you must think about West's lead. Since he did not lead the \SK you know he doesn't have a suit headed by K Q J. So you can visualize East sitting there with a doubleton honor in \Ss. It might be \S K x, \S Q x or \S J x, but it is surely one of those three.
+
+Think what East will do if you duck in dummy. He will play his honor, win the trick, and clear the suit by leading his small x. If West can get in with the \CA he will run the \Ss.
+
+But what will East do if you play dummy's \SA? If he plays his small one the \S suit will block. If he unblocks his honor card then your \S 10 9 5 3 will provide a second stopper in the suit. So you go up with dummy's \SA and guarantee the contract.
+
+A tough finish that needs some real visualization to get right.
+
+Of course from now on you will recognize it.}
+[Play "W"]S7
+

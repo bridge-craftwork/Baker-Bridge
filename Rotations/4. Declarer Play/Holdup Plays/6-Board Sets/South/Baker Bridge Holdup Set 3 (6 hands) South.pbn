@@ -1,0 +1,127 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Holdup
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Holdup Plays"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+3H 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2347324d4bce95522fb7b7f66cd981db85af3954c1f3678eec0c756f3c7c6fc2"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/holdup_plays"]
+[Student "S"]
+{South is to play 3NT. West leads the \H4. East plays the \H10.
+
+Winners:   \S=1  \H=1  \D=3  \C=1  Total = 6
+
+You may not agree with South's 3NT bid but how else are you going to get to the only game that has a chance of making?
+
+You need 3 extra winners and they will come from the \C suit even if West holds the \CK and wins your finesse. You may think about holding up on the \HA for one round just to make sure West has none if he wins the \CK.
+
+That would be a mistake. It is almost certain that East has a 7-card \H suit for his preemptive opening. This is confirmed by West's lead of the \H4, with a doubleton he would have led a higher card. So there is no need to hold up. But . . . it couldn't hurt, could it?
+
+Yes, it could hurt real bad! Suppose East has nothing in his hand but the \H K Q J 10 8 7 6 that you already know about. When you let his \H10 win the first trick he will realize that his hand is dead. And he may be smart enough, (or lucky enough), to switch to a \S. 
+
+The purpose of the hold-up play is to cut communications between the two defenders. So the general guideline is to hold up until you are sure one of the defenders is void in the suit - maybe twice, maybe only once, and in this case not at all.
+
+But one of the important considerations you have to think about is the possibility that the Defense will switch to another suit - where you might be in even more trouble.
+
+You'd feel bad on this hand if you let East hold the \H10 only to see him next lay down the \SJ.}
+[Play "W"]H4
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1C 1S pass 2C pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "df8dc92cbc889c201ff0b1f67bf702bba2c9a5f3f695c18d3b6ea89dee786da8"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/holdup_plays"]
+[Student "S"]
+{North's 2\C cue-bid shows a limit-raise or better in \Ss. South is to play 4\S. West leads the \C2. East plays the \CK.
+
+Losers:   \S=0  \H=2  \D=1  \C=1  Total = 4
+
+You have one loser too many. If West holds either the \HA or the \DK this will be an easy contract, but East opened the bidding so he probably has most of the high cards. It does look like West holds the \CQ based on his low lead and East's play to trick one.
+
+Having gone through that thought process what is your Plan?
+
+You will need to discard a loser on dummy's fourth \D, but you must do so without ever letting West gain the lead since West is the defender who can lead through dummy's \HK. And the only card that West can get the lead with is the \CQ.
+
+Hold-ups are usually used in notrump hands, but here you use one to prevent the Danger Hand from gaining the lead. Let East have the \CK. He cannot play a red card without helping you so he will surely play another \C. 
+
+Pull trumps in two rounds. Then play the \D10 and let it ride.
+
+East will win this but he is helpless. Whatever he plays you will be able to discard a \H loser on dummy's \D.
+
+The purpose of the hold-up play is to cut communications between the two defenders. Here you knew you would lose exactly one \C trick so you chose to lose it to East, the Safe Hand.
+
+If you had taken the first \C trick East would have won your later \D finesse, put his partner on lead with the \CQ and then swallowed up your \HK.
+
+Of course if West had been clever enough to lead a \H originally this Deal wouldn't be here.}
+[Play "W"]C2
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+2H 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ad72454895313755c9b9188b08b7e388f9cb424c9cf3af5cd6ed2de144a633ad"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/holdup_plays"]
+[Student "S"]
+{South's 2NT overcall shows a 1NT opening hand with \Hs stopped. South is to play 3NT. West leads the \H7. East plays the \H10.
+
+Winners:   \S=0  \H=2  \D=0  \C=2  Total = 4
+
+You will need to establish both \S and \D winners. If East holds both these Aces along with 6 \Hs to the Q J then you are going down. But of course East can't have that good a hand, he opened with a Weak-2. So West has one of the Aces.
+
+If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. Let East have the first \H and win the next \H in dummy.
+
+Start on \Ds next, maybe because they are longer. Assume that West holds the \DA and takes it on the third round of the suit.
+
+West glares at you, (because he has no \H to lead), and plays the \CQ which you take with your \CA. Next you score your \D winners and play a \S, taken by East with the \SA.
+
+[showcards N:ST,S6,C8,C7 S:SK,SJ,CK,CT]
+
+East glares at you, (because you still have the \HA), and plays another \H to your Ace. You take your 3 tricks and let West have the last \C.
+
+If you did not hold up on the first trick, but established \Ds first you would not have made the contract.
+
+If you did not hold up on the first trick, but established \Ss first you would have made the contract even though you played incorrectly.
+
+If you held up on the first trick you made the contract no matter which Ace West held.}
+[Play "W"]H7
+

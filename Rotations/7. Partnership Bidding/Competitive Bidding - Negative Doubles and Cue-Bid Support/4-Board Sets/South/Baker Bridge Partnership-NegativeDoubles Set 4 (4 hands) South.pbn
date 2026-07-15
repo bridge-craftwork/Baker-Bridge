@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q97.J87.AK6.KJT4 T5.Q542.QT85.853 AK632.93.972.Q92 J84.AKT6.J43.A76"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "N"]
+1C 1H 1S pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5b3d4d80fadd8e269c9c0f11980ed104a3634f523d44d6b8a1931c6c21ebf3d2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{Compare this hand with Deal 6. 
+SOUTH has five \Ss, this time so she bids 1\S.
+
+NORTH knows there IS an 8-card fit in \Ss, so he bids 2\S.
+
+SOUTH has 10 points so she passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KJ86.65.T832.873 A52.AQT93.97.AJ2 QT43.J2.AJ54.Q65 97.K874.KQ6.KT94"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+pass 1H 1S 2S pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "3db651b94984ca4fc5fdf310e1d48ce6cf4958f9e9087f7d627215197941d2a5"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has 11/12 points, a Limit Raise in \Hs. So after the overcall 
+he makes a Support Cue-bid of 2\S.
+
+SOUTH adds her 16 to the 11 that NORTH has promised as a minimum and goes straight 
+to 4\H.
+
+If NORTH had significantly more than 11 he could bid on, but in this case he should happily pass.}
+

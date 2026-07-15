@@ -1,7 +1,9 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Cue-bid
+%bridge-classroom-stable: true
+%bridge-context: Support cue-bid = limit raise+ with trump support
 [Event "Baker Bridge - Support Cue-bids"]
 [Site ""]
 [Date ""]
@@ -16,6 +18,7 @@
 1S 2H 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5b7e1962886af33bb7f5971418e5aa61d5ef8ee44ce22317b8b2b456d671c21e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -27,7 +30,7 @@ Instead, you cue-bid 3\H, promising at least 11 points and support for \Ss. Part
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:AT984.964.AK7.A5 J.K52.J62.KQJT93 KQ63.A873.Q8.842 752.QJT.T9543.76"]
@@ -37,7 +40,8 @@ Instead, you cue-bid 3\H, promising at least 11 points and support for \Ss. Part
 [Auction "S"]
 1S 2C 3C pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ac4974734d387b89367d6ed3a56468bf948135677c779aff408157266d98ae70"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -49,9 +53,9 @@ With your 17 revalued points you know that your side has at least enough for gam
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "S"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "S:742.AK654.AJ3.43 QT963.82.752.AK7 85.Q973.KQ4.QJ92 AKJ.JT.T986.T865"]
 [Declarer "S"]
 [Contract "3H"]
@@ -59,60 +63,4 @@ With your 17 revalued points you know that your side has at least enough for gam
 [Auction "S"]
 1H 1S 2S pass 3H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/support_cuebids"]
-[Student "S"]
-{You have a limit raise in \Hs; if West had not overcalled you would have bid 3\H. 
-
-Instead, you cue-bid 2\S, promising at least 11 points and support for \Hs. Partner bids 3\H.  
-
-Pass. Partner indicates a minimum hand and you don't have enough extra to bid more.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:964.AKJ53.974.AK KQJT82.T6.QT83.J A3.Q874.J62.8742 75.92.AK5.QT9653"]
-[Declarer "S"]
-[Contract "3H"]
-[Result ""]
-[Auction "S"]
-1H 1S 3H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/support_cuebids"]
-[Student "S"]
-{You have a pretty good hand and if partner has a limit raise or better you should bid 4\H. 
-
-But partner doesn't have a limit raise - if he did he would have cue-bid. So you pass. }
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:AQ876.73.KQJ7.92 4.AKT985.T2.AQJ7 KT93.64.A64.T863 J52.QJ2.9853.K54"]
-[Declarer "S"]
-[Contract "3S"]
-[Result ""]
-[Auction "S"]
-1S 2H 3S pass pass pass
-[BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/support_cuebids"]
-[Student "S"]
-{You would have bid 2\S if West had not overcalled. 
-
-Instead, with 4 trumps you can jump to 3\S as a preemptive measure. Partner will not mistake this for a limit raise since you would have cue-bid with 11+ points and support.
-
-The jump to 3 is based on the Law of Total Tricks - bidding to a trick level equal to the number of your side's trumps.}
-

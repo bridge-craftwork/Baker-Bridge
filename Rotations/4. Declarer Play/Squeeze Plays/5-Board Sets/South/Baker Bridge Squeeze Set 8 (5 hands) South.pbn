@@ -1,0 +1,144 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Squeeze
+%bridge-classroom-stable: true
+{South is to play 6\H. West leads the \SA.
+
+If \Ds and \Cs split nicely this would be an easy slam. But with that wild \S bid by West you can't expect decent splits.
+
+So you ruff the \S, pull trumps in three rounds, then play \C A K and get the bad news when West discards a \S. 
+
+You now know that East guards the \Cs. And since West had 3 \Hs and a very long \S suit it is pretty likely that East guards the \Ds also. You will try to squeeze East in \Cs and \Ds, but first you must lose a trick to rectify the count.
+
+So you play a low \D from each hand. 
+
+It doesn't matter which defender takes the \D, since either one is going to do the same thing. Assume West wins the \D10.
+
+He will then play the \SK, which you must ruff in your hand. 
+
+Now play a small \D to dummy's \DK. 
+
+[showcards N:HJ,D7,C8,C6 E:DQ,DJ,CJ,CT S:DA,D8,CQ,C4 W:SJ,S8,S6,S5]
+
+You are in dummy, ready for the squeeze.
+
+Play dummy's \HJ.
+
+East gets to choose his own fate - discarding a protector in one of the two suits. Of course, whichever suit he discards you will throw the opposite one.
+
+Yet another slam, courtesy of the Squeeze Play!}
+[Play "W"]SA
+
+[Event "Baker Bridge - Squeeze Plays"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQ9763.3.KQT2.97 KT4.T64.A875.Q53 J852.872.94.T842 .AKQJ95.J63.AKJ6"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "W"]
+1S pass pass X 2D 2NT pass 4H pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "bd4c429419f383161aeb37f9c943eacf26b4ee6b055cf46b268cb6bfa00d0a45"]
+[Category "Declarer Play"]
+[Difficulty "advanced"]
+[SkillPath "declarer_play/squeeze_plays"]
+[Student "S"]
+{South is to play 6\H. West leads the \DK. Perhaps you wouldn't have bid slam with North's cards, but he has been watching you pull off some fantastic squeeze plays and he has every confidence you will do it again.
+
+You know West also has the \DQ, so your \DJ will be a Threat card against him.
+
+And you are 99.9% sure he also has the \SA, so dummy's \SK will also be a Threat card against him.
+
+You should be able to squeeze him in the two suits. What is your first act? 
+
+Your first act should be to rectify the count. And the safest way to do that is to just let West hold the first trick. Who knows, he might be foolish enough to play another \D, or even to lead the \SA. Defenders do make mistakes sometimes.
+
+But not this defender, not this time.
+
+He exits with the \H3 which you take with your \HQ. 
+
+Pull two more rounds of trumps, then run four \Cs, ending in your hand.
+
+You throw a \S from dummy and West discards \Ss and \Ds. 
+
+You are closing in. Play the \HJ, then the \H9.
+
+Discard the \ST and \D7 from dummy.
+
+West discards the \SQ and \S9. 
+
+[showcards N:SK,DA,D8 E:SJ,S8,D4 S:H5,DJ,D6 W:SA,DQ,DT]
+
+At last you play the \H5, and West is done, he just doesn't know it yet.
+
+He obviously is not going to throw his \SA and make dummy high, so he will instead bare his \DQ.
+
+So you dump dummy's \SK and win the last two tricks with the \DA and then the \DJ.}
+[Play "W"]DK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A3.K9842.K98.KT6 KQJ8742.QJT.J3.Q 6.A63.654.987532 T95.75.AQT72.AJ4"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1H 1S pass 2H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2371184727df45669276ca5b1a1802a0882938aa89b709b40096d063e4e9718a"]
+[Category "Declarer Play"]
+[Difficulty "advanced"]
+[SkillPath "declarer_play/squeeze_plays"]
+[Student "S"]
+{North's 2\H cue-bid shows \S support and at least a limit-raise or better. South is to play 4\S. West leads the \HA, then a \H to East's \HK. East plays a third round of \Hs.
+
+You were expecting to see all four hands, not just North/South again. The reason you are seeing it like this is that you must do some deducing first.
+
+You saw the bidding and you know that West started with the \HA and East started with the \HK.
+
+Before you can make a good Plan you need to figure out where the \SA, \DK and \CK are located. 
+
+The three unaccounted for honors have a value of 10 points and every one of them must be in East's hand. With the \HK he still needs those points to have enough strength to open the bidding. So you can forget about either finesse working.
+
+Now on with the plan. East/West took the first two \H tricks and then played a third \H which you won, discarding the \D2 from dummy.  
+
+You need to pull trumps so you play your \SK. East wins with his \SA and returns the \S3 to your \SQ.**
+
+This pulls all the trumps and also serves to rectify the count for your upcoming squeeze.
+
+**By the way, notice that if East had played any other way he would have handed you the contract. 
+
+You plan to squeeze East in \Ds and \Cs. But if you start running your trumps now you will have a problem with dummy's discards. You will come down to the \D A Q and the \C A J and will have to discard one of them BEFORE East has to discard.
+
+So dummy's \DQ cannot be one of the Threat cards. Instead you must make the \DJ in YOUR hand a Threat. You do that by playing the \DA immediately, a Vienna Coup. 
+
+Now that you have your Threats properly positioned you can get on with the squeeze.
+
+Overtake dummy's \ST and run three more \Ss.
+
+Discard all three \Ds from dummy.
+
+East will discard his 2 \Hs, the \D9 and the \C6. 
+
+[showcards N:CA,CJ,C4 E:DK,CK,CT S:S2,DJ,CQ W:D6,C9,C8]
+
+And now the moment you have been waiting for all these 20 Deals.
+
+Play your \S2 and discard dummy's \C4.
+
+Poor East will squirm and try to figure out which discard is best because he doesn't actually <b>KNOW</b> what two cards you have left.
+
+But you aren't squirming because you know that whichever card he throws it will give you your contract.}
+[Play "W"]HA
+

@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K5.AKT753.K7.J96 QJ6.92.J5.K87542 A842.QJ86.A9863. T973.4.QT42.AQT3"]
+[Declarer "S"]
+[Contract "7H"]
+[Result ""]
+[Auction "S"]
+1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "905d145e4cba4847a4fb965babf86ebdb1e63d20fe0e429058146b2deac267c4"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{NORTH's jump to 4\C is a Splinter bid, at least 4-card \H support, 
+at least opening hand, and a \C Singleton or Void.
+
+SOUTH bids 4NT, Blackwood.
+
+NORTH's 5NT reply shows two Aces and a Void somewhere, obviously \Cs.
+
+SOUTH counts thirteen tricks and bids 7\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K53.KQJT3.A.KQT6 QT72.42.QJ532.74 .A975.K9864.J932 AJ9864.86.T7.A85"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 3H pass 4NT pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c47bc2efc2fb894d2a1deca07905573999d8258dcc2f50673ac807e26cc41224"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH figures that if NORTH holds two Aces he will bid the slam.
+
+NORTH only has one Ace, but she has something else just as good - a void in a suit which 
+is higher-ranking than \Hs.
+
+SOUTH manages to figure out that NORTH has a \S void and bids the slam anyway.}
+

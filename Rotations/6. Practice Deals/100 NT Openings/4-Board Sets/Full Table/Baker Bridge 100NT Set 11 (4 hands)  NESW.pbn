@@ -1,176 +1,92 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
 [Event "Baker Bridge - 100 Notrump Deals"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:AJ4.AK7.T742.KJ3 Q75.QJT852.A3.Q5 K82.64.QJ986.A76 T963.93.K5.T9842"]
+[Deal "N:AK3.T6.A652.A854 T984.Q82.QT.KJ97 J5.AK743.843.632 Q762.J95.KJ97.QT"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "2NT"]
 [Result ""]
 [Auction "N"]
-1NT 2H 3D pass 3NT pass pass pass
+1NT pass 2D pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "f847e47800166fab7393d2dc47c2a801830afbf3d8e1b12b926a6a8e5092f458"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Partner's 3\D bid shows a 5-card suit and is forcing to game. While 5\D is possibly the best contract your double \H stopper should sway you to 3NT instead. This is the old "9 tricks are easier than 11" principle.
+{Partner's 2\D bid is a transfer so you bid 2\H. Partner now bids 2NT.  
 
-North plays 3NT. As expected, East attacks in his \H suit.
+Partner's 2\D bid is a transfer so you bid 2\H. Partner now bids 2NT. 
 
-Winner List: \S = 2 : \H = 2 : \D = 0 : \C = 2 :: Total = 6
+Partner is describing an invitational hand (9-10 points) with a 5-card \H suit. With a bare 15 points and doubleton \H you just pass.
 
-Even if West holds both black Queens, (not likely), you can only finesse your way to 8 tricks. Since you need 9 tricks you must establish the \D suit.
+East leads the \ST against your 2NT.
 
-If East holds both the \DA and \DK then you are going down, because they will win the race to establish \Hs before you can establish \Ds. 
+You try dummy's \SJ hopefully, but West puts on the \SQ.  
 
-But when the \DA and \DK are in different hands you have a good chance for success; it depends on West having no \H at the time he takes his \D winner. 
+Winner List: \S = 2 : \H = 2 : \D = 1 : \C = 1 :: Total = 6
 
-So you should hold up on the first \H trick and win the second. If East started with 6 \Hs then West will be out. So whether he wins his \D trick first or second he still won't be able to continue \Hs.
+You must find two more winners. And you have very little to work with. In fact, the only real chance you have is to establish dummy's \H suit. 
 
-After your hold up West has no \Hs. If he takes the first \D trick he will have to lead another suit. You will still have a \H stopper for when East wins <b>HIS</b> \D trick.
+You must find the \Hs split 3-3. Even then, with no entries in dummy outside the \H suit you cannot afford to play \H A K followed by a third one. True, the suit would be established, but you could never get to it.
 
-On the other hand, if East takes the first \D trick he can certainly drive out your last \H stopper. But then, when West takes <b>HIS</b> \D winner he will have no \H.
+So you win the first trick with your \SK, then play a \H, ducking in dummy. 
 
-Finally, if East had only a 5-card \H suit, good defense would beat you. But they have to be sure West wins the first \D trick, and they might slip up. }
-[Play "W"]HQ
+An opponent will win the \H, but whatever they return you win one of your Aces. Then play your last \H to dummy. If the suit splits you will make 4 \H tricks to go with your 4 other top honors.
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:J96.A8.AKT53.AK6 QT832.Q96.8.T973 K5.J753.Q62.8542 A74.KT42.J974.QJ"]
-[Declarer "E"]
-[Contract "3NT"]
-[Result ""]
-[Auction "E"]
-2NT pass 3C pass 3D pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_notrump"]
-[Student "S"]
-{Partner's 2NT opening shows 20-21 points so you know you want to be in game. To find out which game you bid a Stayman 3\C. Partner replies 3\D.  
+You were very lucky to find a 3-3 \H split. This happens only about 40% of the time.
 
-Partner's 2NT opening shows 20-21 points so you know you want to be in game. To find out which game you bid a Stayman 3\C. Partner replies 3\D. 
-
-You don't have a 4-4 \H fit, so you bid 3NT.
-
-The contract would be 3NT played by West.
-
-East plays 3NT. South leads the \S3. Your first problem is which \S to play from dummy. That is an easy problem. If you play the \SK you might lose the first five or six tricks. If you play low you guarantee a \S stopper. North plays the \SA and returns the \S7 to dummy's \SK. South plays the \S2 on this trick.
-
-Winner List: \S = 1 : \H = 1 : \D = 3 : \C = 2 :: Total = 7
-
-You need 2 more winners, and you need to get them before you lose the lead because it appears that South can cash 3 more \S tricks.
-
-That means you need all 5 \D tricks. The good news is that the 5 missing \Ds will split 3-2 about two-thirds of the time. The bad news is that they will be 4-1 about one-third of the time. Can you protect yourself against a 4-1 break? 
-
-Maybe and maybe not. If South has \D J x x x there won't be anything you can do about it. But if North has this holding then you can succeed if you play your cards right. 
-
-<i>Did you like that "play your cards right" quip?</i>First play a \D to your \DK; both defenders follow. Next play a \D to dummy's \DQ. South discards a \C. You are conveniently in dummy so you play dummy's last \D and North's \D J 9 are caught in a pincer movement by your \D A 10 5. 
-
-It was important to play the \Ds exactly as described because dummy had only one entry left, the \DQ.
-
-Suppose your first \D play had been dummy's \DQ. You could make your contract if you play a small \D and finesse the \D10. But at that point you wouldn't know whether the \Ds were splitting evenly or not. You'd be risking defeat on a hand where everybody who played for the 3-2 split was making the contract.
-
-By taking the <b>SECOND</b> \D trick with dummy's \DQ the 4-1 split is exposed at the right time.}
-[Play "W"]S3
+But if you had not made the correct plan your good fortune would have been wasted. }
+[Play "W"]ST
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AK63.AQ.AT75.A83 QJT52.84.J83.Q96 84.JT973.642.KJ5 97.K652.KQ9.T742"]
-[Declarer "S"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQ9.K754.KT.A842 AT864.83.72.KT65 752.AQ6.AQ653.73 J3.JT92.J984.QJ9"]
+[Declarer "E"]
 [Contract "3NT"]
 [Result ""]
-[Auction "S"]
-2NT pass 3D pass 3H pass 3NT pass pass pass
+[Auction "E"]
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "1cc40c7d4370bdceec9c99437662ee8d02a82562754d84e80fc8cb7b935f4551"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Partner's 3\D bid is a transfer; you dutifully reply 3\H. Partner now bids 3NT.  
+{You don't have enough points to be thinking about slam and you don't particularly want to play 5\D. So you bid 3NT and everybody passes.
 
-Partner has just a 5-card \H suit. He doesn't have 4 \Ss or he would have used Stayman.
+The contract would be 3NT played by West.
 
-With no 8-card Major fit you pass 3NT.
+East plays 3NT. South leads the \S6; North plays the \SJ.
 
-South plays 3NT. West leads the \SQ on which East plays the \S7.
+Your immediate problem is whether or not to hold up. ? ? ?
 
-Winner List: \S = 2 : \H = 1 : \D = 1 : \C = 2 :: Total = 6
+Winner List: \S = 1 : \H = 3 : \D = 3 : \C = 1 :: Total = 8
 
-You might get one more winner from the \C finesse, but basically you are going to have to establish dummy's \Hs. 
+There is some merit in a holdup. North is likely to have just 2 \Ss, so a holdup would exhaust his cards in the suit. If he later got the lead he would have no \Ss. On the other hand, North might well switch to \Cs, and that would certainly be unwelcome. Finally, if you do win the first \S you have another stopper if you can prevent North from getting the lead. So win the first trick with the \SK. Notice that by winning with the \SK you keep South in the dark as to whether you or North has the \SQ.
 
-You don't have the entries to think about going over to dummy to finesse the \HK, so you play the \HA then the \HQ, hoping a defender will grab their \HK and set up three \H winners in dummy.
+You need just one more trick, and either red suit might split 3-3. So is that your plan? Lead out red winners and hope? 
 
-But they allow your \HQ to hold the trick. 
+Truthfully, that wouldn't be a terrible plan. The chance of a 3-3 split in a suit is about 36%. But since you need either of two 36% chances that comes to almost 60% (if you aren't Math oriented don't worry about it, you can trust me).
 
-Now you are desperate. You need two entries to dummy, one so you can play \Hs to force out the \HQ, and another to enjoy the good \Hs. One of these entries will be the \CK and the second will have to be the \CJ. So you play a \C to the Jack and then you . . . 
+There's a safer approach though; remember you only need 4 \D tricks, not 5. 
 
-. . .  
+There is a wonderful "safety play" that will practically guarantee your contract. Enter dummy with a \H, then play a small \D toward your hand and finesse with your \D10! South may win with the \DJ, but even if he does he is the Safe Hand and cannot play a \S without giving you a trick. And whatever else he could play you would win and make 4 \D tricks. In the actual Deal the \D finesse actually works and you make all 5 tricks in the suit.
 
-Lucky you. West held the \CQ.
-
-But don't get too smug. A lot of the plays work in these practice deals because they are set up to reward the correct Plan. In real life finesses only work half the time.}
-[Play "W"]SQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:AJ5.75.AK73.AJ42 QT7.K982.JT82.QT 642.AQJT63.54.73 K983.4.Q96.K9865"]
-[Declarer "W"]
-[Contract "4H"]
-[Result ""]
-[Auction "W"]
-1NT pass 2D pass 2H pass 3H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_notrump"]
-[Student "S"]
-{You have 9 points, an invitational strength hand. With 6 \Hs you transfer partner by bidding 2\D. Partner replies 2\H.  
-
-You have 9 points, an invitational strength hand. With 6 \Hs you transfer partner by bidding 2\D. Partner replies 2\H. 
-
-Remember, you have invitational strength, so even with a great trump suit you bid just 3\H. Partner puts it in game at 4\H.
-
-The contract would be 4\H played by East.
-
-West plays 4\H. North leads the \DJ and South plays the \D9.
-
-Loser List: \S = 2 : \H = 1 : \D = 0 : \C = 1 :: Total = 4Losers are as seen from dummy, the long-trump hand.
-
-You might get lucky in one of the black suits, but your best hope is that North holds the \HK.
-
-You win the first \D and play a \H to dummy's \H10, which wins the trick. You smile. Return to your hand with the other \D, then play your last \H to dummy's \HJ, which wins the trick. But this time you don't smile because South discards! North still holds \H K 9 and you have no more \Hs to lead for a finesse. Does that finish you? 
-
-Never say die. Return to your hand with a black Ace and ruff a \D in dummy. Dummy's trumps are now \H A Q 6 and North still has \H K 9. 
-
-Back to your hand with the other black Ace and ruff another \D in dummy. Dummy's trumps are now \H A Q and North still has \H K 9. Play any black card from dummy, then sit back and wait for your two trump tricks! 
-
-Bad trump splits can sometimes be countered by a technique called a trump coup.
-
-The coup is accomplished by ruffing to shorten the trump holding so you won't have to play trumps from that holding.
-
-Pretty much like this hand.}
-[Play "W"]DJ
+The only way this plan could go wrong is if South held the singleton \DJ. And if that were the case you wouldn't make the contract anyway (unless \Hs were 3-3).}
+[Play "W"]S6
 

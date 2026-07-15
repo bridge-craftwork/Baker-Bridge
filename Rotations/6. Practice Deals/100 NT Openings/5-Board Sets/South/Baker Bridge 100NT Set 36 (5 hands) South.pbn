@@ -1,0 +1,127 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+{With two 5-card Major suits you can transfer to either one first. A good system is to use the "weaker" transfer to show an invitational hand, the "stronger" to show a forcing to game hand.
+
+So you bid 2\H and partner replies 2\S. What next? 
+
+With two 5-card Major suits you can transfer to either one first. A good system is to use the "weaker" transfer to show an invitational hand, the "stronger" to show a forcing to game hand.
+
+So you bid 2\H and partner replies 2\S. What next?
+
+Partner now knows you have 5 \Ss, so you now bid 3\H which lets him know you have 5 of that suit also. Partner chooses the \H game. 
+
+South plays 4\H. West leads the \H2. East wins the first trick with the \HA and returns the \H4.
+
+Loser List: \S = 2? : \H = 1 : \D = 1 : \C = 0 :: Total = 4?
+
+You are surely going to lose the two red Aces, so you must keep the \S losers to 1. A possible Plan is to pull the last trump and trust the \Ss to split 3-3. Good Plan?  
+
+Stinking Plan. The chance of a 3-3 \S split is 36%, just a little over 1 in 3. A much better idea is to leave that trump out for a while longer, take your \S A K, and ruff one \S with dummy's last \H. Then what? 
+
+Be careful, you are still in danger. You need to pull that last trump but playing \CA and a ruff at this point could result in you losing trump control. First you need to establish a \D trick, so play the \DK. 
+
+East wins the \DA but he can't hurt you. Suppose he plays another \D. You win in dummy, ruff a \D back to your hand, and pull West's last trump. Then play a \S to East's \SQ. Your fifth \S is now established and you still have a trump to get to your hand with.
+
+Suppose you ruffed a \S in dummy then returned to your hand by playing the \CA, then ruffing a \C.
+
+You must then pull West's last trump, leaving you with only one trump. 
+
+When you give up the \S to East he could play a \C, forcing you to use your last trump, and although you could take your \S winner you wouldn't have the \D trick established. Not an easy hand.}
+[Play "W"]H2
+
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "S"]
+1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f878fde463643e74c1a0871a9adb4854b08e4ed7b662442b217d41c5e6ee8472"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Here is the question. Is 2\S a better contract than 1NT? If so, you should transfer partner, then pass. If not, you should just pass now. With just a 5-card suit, and with no singleton, pass is probably better.
+
+The contract would be 1NT played by North.
+
+South plays 1NT. West leads the \HJ and East plays the \HQ.
+
+Do you hold up or not?
+
+Winner List: \S = 1 : \H = 2 : \D = 1 : \C = 1 :: Total = 5
+
+Outside \Ss you have 6 combined cards in each suit, so you must assume that you aren't any worse off in \Hs than in one of the minors. And, in \Hs you have 2 stops. So don't hold up.
+
+You need 2 additional \S winners, but dummy has but one entry. So? 
+
+So you must duck twice. Win the \HK and play a low \S from each hand. A defender will win and probably continue \Hs.
+
+Win the \HA and play another low \S from each hand. West wins and cashes 3 \Hs. He then plays the \CQ. 
+
+You win the \CA and take the \DA and the 3 good \Ss in dummy. The 4 high cards from your hand plus the 3 \S tricks from dummy add up to 7. Hallelujah.
+
+They say 1NT is the hardest contract to make. (whoever <b>THEY</b> are).
+
+But since they may be right you need to be on the lookout for ducking plays because one entry in dummy may be all you are going to have.}
+[Play "W"]HJ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1S pass pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c637dbd1fa751d1227783f15f30a830735ed79ba71d41c57dc77a55b3f57028a"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{It is good to be a little bold with your overcalls. But with a suit this tattered and only two outside Queens this is not good enough for a 2-level overcall. So you pass. Then you hear partner say 1NT.  
+
+It is good to be a little bold with your overcalls. But with a suit this tattered and only two outside Queens this is not good enough for a 2-level overcall. So you pass. Then you hear partner say 1NT. 
+
+A 1NT overcall shows 15-18 points and a stopper(s) in their suit. With 9 points you invite with 2NT and partner bids the game.
+
+The contract would be 3NT played by North.
+
+South plays 3NT. West leads the \SK. Do you hold up twice? Or just once? Or not at all?
+
+Winner List: \S = 1 : \H = 1 : \D = 1 : \C = 5 :: Total = 8
+
+You need to find one winner and it seems that it must come from one of dummy's red Queens. You are certain that West has both red Kings for his opening bid, (you and dummy have 26 HCP between you so that only leaves 14). But you also know that West has at least 5 \Ss, so if you lead toward a red Queen West will grab his red King plus 4 \S tricks.
+
+Does that resolve the holdup question for you? 
+
+Yes. You hold up <b>ONCE</b>, and take the \SA at trick 2. Next you play \C K Q J to strip West of that suit. Then play the \ST to throw West into the lead.
+
+He can take his other 3 \S winners, but after that he must lead a red card. Of course you confidently put up dummy's Queen which will be your ninth trick.
+
+Hold ups are designed to disrupt enemy communication.
+
+Here you couldn't afford to hold up twice because then you would not have a throw in card left to put West on lead. 
+
+But you had to hold up on the first trick to make sure East couldn't gain entry in the suit.
+
+By the way, if West had a 6-card suit this plan wouldn't work. But then, no other plan would either.}
+[Play "W"]SK
+

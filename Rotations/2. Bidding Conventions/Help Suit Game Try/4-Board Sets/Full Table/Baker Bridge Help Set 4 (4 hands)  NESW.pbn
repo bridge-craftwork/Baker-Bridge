@@ -1,0 +1,52 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Help
+%bridge-classroom-stable: true
+%bridge-context: Help-Suit Game Try (NOT Short-Suit)
+[Event "Baker Bridge - Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ84.2.K642.A83 T7.K973.Q95.Q954 Q65.T864.AJ73.76 932.AQJ5.T8.KJT2"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2S pass 3D pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "df78c6000103c74003550f56d9ec3099ab3c5b17b9943c6a4cf6b5c9604b8051"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/help_suit_game_try"]
+[Student "S"]
+{You have an invitational strength hand, but there are TWO suits you could use some help in. In this case you pick the suit where the Help would be most welcome. If partner can Help in \Ds that will probably be all you need to make game.
+
+So you bid 3\D and partner puts you right to 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQ5.AQT75.AJ.J64 T94.9.T872.KT952 A62.KJ6.9653.Q83 J873.8432.KQ4.A7"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1H pass 2H pass 3C pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "edcd681f1a250977037e22ed8f56933deea18adfd1c55b46bf4271d42489ca3b"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/help_suit_game_try"]
+[Student "S"]
+{Partner has invited you to bid game and you have 10 points, an absolute maximum. But, he has also told you he is worried about \Cs and your help in that suit is rather nebulous.
+
+Since you have to make a judgement one way or the other you should decide that a Queen is a little bit of Help and with the 10 points that should be enough. You bid 4\H.}
+

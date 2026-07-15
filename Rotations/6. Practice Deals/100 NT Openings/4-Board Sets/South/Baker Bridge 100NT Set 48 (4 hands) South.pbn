@@ -1,0 +1,98 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A72.K5.KJ63.AQ72 KQJ963.JT.QT9.94 T5.AQ63.8542.KJ8 84.98742.A7.T653"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT 2S 3S pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0f9c70d9c1d33421ea540ae2b69d57ad35f5c72154eeea144bb984800cbdb521"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner's cue-bid is the lebensohl version of Stayman, in this case promising 4 \Hs. Since it is an immediate cue-bid it denies a \S stopper.
+
+You are forced to bid and you don't have 4 \Hs. 
+
+But you <b>DO</b> have a \S stopper so you decide bid 3NT.
+
+South plays 3NT. West leads the \SK.
+
+You hold up your \SA until the third round; West started with 6 \Ss.
+
+Winner List: \S = 1 : \H = 3 : \D = 0 : \C = 4 :: Total = 8
+
+You need just one more winner. It cannot come from either \Cs or \Ss. Unless a defender foolishly discards a \H it can't come from that suit. Which means you have to win a \D trick.
+
+So after winning the \SA, you play a \C to dummy's \CK, then lead a small \D toward your hand and play . . . what? 
+
+At first this looks like the classic King / Jack guess situation where you try to figure out if West is more likely to have the Ace or the Queen.
+
+But it isn't like that at all. If West has the \DA then he will take it no matter which \D you play, and will defeat you with 1 \D and 5 \S tricks. Your <b>ONLY</b> chance to make this contract is for East to hold the \DA. So you play the \DK, then you . . .
+
+. . .  
+
+Lucky you, East did have the \DA.
+
+Smart you, if you had played the \DJ you'd be down 2.}
+[Play "W"]SK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K5.A64.962.AKQ63 J9.QJ973.Q84.T74 A87632.8.KT5.982 QT4.KT52.AJ73.J5"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "58e129fdf47528fac9c36df09a4aa539ca957be6fbbf8a02e8b738f8405394fc"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{You have an invitational strength hand with a 6-card Major suit. It's a no-brainer; you transfer with a 2\H bid. Partner says 2\S;  
+
+You have an invitational strength hand with a 6-card Major suit. It's a no-brainer; you transfer with a 2\H bid. Partner says 2\S; 
+
+Repeat: You have an <b>invitational</b> strength hand with a <b>6-card</b> Major suit. So you invite with 3\Ss. Partner accepts with 4\S.
+
+The contract would be 4\S played by North.
+
+South plays 4\S. West leads the \HQ. Of course you take the \HA.
+
+Loser List: \S = 1/2/3 : \H = 0 : \D = 3 : \C = 0 :: Total = 4/5/6
+
+Missing 5 \Ss, the most likely split is 3-2, (68% of the time). You win the \HA then play \SK and \SA, both defenders following to both leads but the \SQ is still out there.
+
+Do you play \Ss again or not? 
+
+Usually it is a good idea to leave a master trump un-pulled and go about your business winning tricks in other suits. The idea is to force them to ruff without using any more of your trumps. But that is only "usually". Here your big source of winners is going to be the \C suit - and there are zero outside entries to it. Suppose you do not force out the \SQ, but start playing \C winners. A defender might ruff the third \C and you would be doomed.
+
+So play one more \S and they are doomed.
+
+Master trump outstanding: To pull or not to pull, that is the question.
+
+Almost always the answer is "not to pull". 
+
+The big exception is when you have a running suit in one hand but with no outside entries to it. A hand exactly like this one.}
+[Play "W"]HQ
+

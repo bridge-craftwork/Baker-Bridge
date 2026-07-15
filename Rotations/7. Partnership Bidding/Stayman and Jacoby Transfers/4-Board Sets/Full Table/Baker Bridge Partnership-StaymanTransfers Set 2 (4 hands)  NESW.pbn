@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K75.Q93.K75.AKJ3 A82.82.QT94.9852 643.AKJ765.82.Q7 QJT9.T4.AJ63.T64"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT pass 2D pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "692a30271fae12c6785243e963c862ca33d8ed13bed40b25c4bc9bfd98e71dea"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH knows the partnership has a fit in \Hs since NORTH 
+must have at least a doubleton. He also knows the partnership holds at least 27 points.
+
+He prefers NORTH be the Declarer, (to protect against 
+the opening lead), so he uses a Jacoby Transfer.
+
+The contract might go down if played by SOUTH, but is odds on when played by NORTH.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AK65.AT4.QJ97.K8 T842.932.A6.AQ62 73.KQ86.K42.JT95 QJ9.J75.T853.743"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "754f7a5cf9d5ff65498e0df99bf0ee58d1580e8b5afe4a28ade5e3dddbec9c62"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{WEST, with 9 points and a 4-card \H suit is just strong 
+enough to use Stayman.
+
+EAST shows 4 \Ss and WEST describes her minimum hand with no \S fit by bidding 2NT.
+
+EAST has a maximum 1NT opening and bids 3NT.}
+

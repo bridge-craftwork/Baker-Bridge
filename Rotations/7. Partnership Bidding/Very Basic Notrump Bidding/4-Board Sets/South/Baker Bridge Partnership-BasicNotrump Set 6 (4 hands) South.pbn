@@ -1,0 +1,59 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicNotrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:9765.T762.T.AT65 KQ4.Q95.KQ62.K83 J32.A84.98743.94 AT8.KJ3.AJ5.QJ72"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result ""]
+[Auction "E"]
+pass 1NT pass 4NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "9fe29c1e030e741f4d95ad632fa5db02d90f310d0c44f64a7cde14e8724c430a"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has a low-range 1NT opener; a balanced hand with 15 points.
+
+NORTH has 16 points; he figures the partnership holds either 31, 32 or 33. 
+Obviously he wants to at least reach game, but if SOUTH holds 17 points he wants to reach slam.
+
+NORTH bids 4NT. Since this is more than game it should be clear to SOUTH that he is asking 
+her to bid 6NT if she is at the top of her range. It is clear to SOUTH, but with just 15 points she passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ5.K85.QT76.A97 K32.JT932.8.QJ63 T84.Q76.KJ3.KT52 J976.A4.A9542.84"]
+[Declarer "S"]
+[Contract "2NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5017a37d809972d7284b4206b900a513d5fcd4a04b2b26c5838454fcaf117d0b"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has a minimum 1NT opening hand - balanced distribution with 15 points.
+
+NORTH has 9 points, which is not enough to bid game, but is worth making an invitational bid. 
+So she says 2NT.
+
+Since SOUTH is minimum he declines the invitation by passing.}
+

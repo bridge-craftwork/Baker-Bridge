@@ -1,107 +1,61 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:K5.AK9762.K8.764 QJ43.T.T96.AKJ82 A972.QJ53.QJ753. T86.84.A42.QT953"]
+[Deal "S:AJT5.AK.K5.AKQJ4 2.JT93.QJ9743.85 KQ8743.Q75..9762 96.8642.AT862.T3"]
 [Declarer "N"]
-[Contract "6H"]
+[Contract "7S"]
 [Result ""]
-[Auction "N"]
-1H pass 4C pass 4NT pass 6C pass 6H pass pass pass
+[Auction "S"]
+2C pass 2S pass 4NT pass 6D pass 7S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a226ea3953ee493405389cca108e7858330efee68a59bccc30dffc8795330003"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{When SOUTH makes a Splinter bid, showing \H support and \C shortness, 
-NORTH naturally thinks about slam.
+{NORTH's positive response shows 8+ points and five or more cards headed by at least two honors.
 
-She uses RKCB 4NT, and SOUTH, with one Key Card and a \C Void, bids 6\C.
+SOUTH figures a small slam would be safe, but just to be sure she uses Blackwood.
 
-Just what NORTH needed for the 6\H bid.}
+NORTH's 6\D reply shows one Key-card which must be the trump King, 
+and a \D void!.
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:Q982.A95.A64.KQJ T4.J83.T72.A8763 AK63.KQT4.KQ85.2 J75.762.J93.T954"]
-[Declarer "E"]
-[Contract "6S"]
-[Result ""]
-[Auction "E"]
-1NT pass 2C pass 2S pass 4NT pass 5S pass 6S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{WEST thinks they should be in slam, and uses Stayman to check for a 4-4 Major fit.
-
-When EAST announces four \Ss WEST uses RKCB 4NT.
-
-EAST's 5\S bid shows two Key Cards plus the \SQ.
-
-This fills the holes in WEST's hand nicely, so she bids 6\S.}
+SOUTH readjusts her thinking and decides to bid the Grand.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:J982.A95.AJ4.KQJ T4.J62.973.AT985 AK63.KQT4.KQ85.2 Q75.873.T62.7643"]
-[Declarer "S"]
-[Contract "5S"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQ3.KT93.A6.KQ96 J872.J.JT9874.A3 A6.AQ8752.KQ3.87 T954.64.52.JT542"]
+[Declarer "E"]
+[Contract "6H"]
 [Result ""]
-[Auction "S"]
-1NT pass 2C pass 2S pass 4NT pass 5H pass 5S pass pass pass
+[Auction "W"]
+1NT pass 3H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "c115fcbe47e053fc10f99ef3fad0a7340163744f0ce2556ef388ba2cb5544a77"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{This is the companion hand to Deal 18.
+{EAST jumps in \Hs, showing a good suit and slam interest.
 
-Again, NORTH uses RKCB after the 4-4 \S fit is discovered. 
-This time SOUTH shows two Key Cards without the \SQ.
+WEST has great \H support so bids RKCB 4NT.
 
-Now NORTH realizes that in addition to one outside Ace, there is a very possible loser 
-in trumps. So she stops at 5\S.}
+EAST responds 5\S, showing two Key Cards and the \HQ.
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:732.AKQ864.53.87 Q96.32.QJ84.JT63 AK4.J95.AK76.A54 JT85.T7.T92.KQ92"]
-[Declarer "W"]
-[Contract "3NT"]
-[Result ""]
-[Auction "E"]
-2H pass 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{The chances of a slam on this hand are very small, and if WEST decides to use RKCB it will 
-just confuse matters when EAST shows two Key Cards.
-
-WEST has a better way to find out about the hand. She bids 2NT asking EAST to further describe 
-his hand. EAST should then bid 3NT, showing a solid suit headed by AKQ.
-
-EAST cannot have as much as an extra Jack, so WEST just passes 3NT.}
+That is enough for WEST to bid the slam.}
 

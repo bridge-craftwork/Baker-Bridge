@@ -1,0 +1,29 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Cue-bid
+%bridge-classroom-stable: true
+%bridge-context: Support cue-bid = limit raise+ with trump support
+[Event "Baker Bridge - Support Cue-bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A73.AK853.A6.974 J852.2.8.AKQJ865 KQT6.QJ976.QJ75. 94.T4.KT9432.T32"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H 2C 3C pass 4H pass 5C pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7e04e94b4d15403aa09335e54c47090449b430ad47b9414eb8db6003e8d3b881"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/support_cuebids"]
+[Student "S"]
+{You have about 15 points in support of \Hs so you cue-bid 3\C, showing a limit raise or better and forcing partner to bid again. Partner bids 4\H.  
+
+5\C. Partner's jump shows a good hand and you have more than you have promised so far. This cue-bid is a different type, showing first round control in \Cs, Ace or void. That was apparently what partner wanted to hear since he went right to slam.}
+

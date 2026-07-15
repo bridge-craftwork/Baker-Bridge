@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Holdup
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Holdup Plays"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "033ee45f98b2507c10a66b20b998b1ebcb1aa5d4dc6f2e22750f9e6d1c7e8cc1"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/holdup_plays"]
+[Student "S"]
+{North is to play 4\S. East leads the \DQ. West plays the \D9.
+
+Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
+
+On the plus side dummy has an extra \H winner on which you could discard a loser from your hand. The danger is that when you take the trump finesse, East might win the \SK and put his partner in the lead with the \DK for a \C play through your \CK.
+
+To prevent that from happening all you have to do is hold up on the first \D. You have to lose one trick in the suit no matter what, so lose it right now to East, the Safe Hand. East continues with another \D which you win.
+
+You go over to dummy with a \H and play the \SQ, letting it ride. East wins with his \SK, but cannot play \Cs from his side of the table without handing you a trick. Whatever else he plays you win, pull trumps, and discard a \C loser on dummy's fourth \H.
+
+At notrump you usually hold up to exhaust one player of a suit so he cannot lead that suit back to his partner.
+
+At suit contracts the most common reason for a hold-up is to keep the Danger Hand from getting the lead.}
+[Play "W"]DQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "d8133be69426aeba061cdc88a5dbbea16169b40812816ad3b112212e6d804635"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/holdup_plays"]
+[Student "S"]
+{East is to play 3NT. South leads the \HK.
+
+Winners:   \S=3  \H=1  \D=0  \C=4  Total = 8
+
+Unless there is a miracle in the \Ds, (or a defensive error), you can't get a trick in that suit. But you have a chance for a second \H trick.
+
+It's the Bath Coup again, just dressed up a little differently. 
+
+Let South hold the first trick, playing the \H7 from your hand to conceal the \H4 in the hope that South will continue the suit. If he does you have your ninth trick - if he doesn't, good luck.
+
+Compare this Bath Coup to the one in Deal 10.}
+[Play "W"]HK
+

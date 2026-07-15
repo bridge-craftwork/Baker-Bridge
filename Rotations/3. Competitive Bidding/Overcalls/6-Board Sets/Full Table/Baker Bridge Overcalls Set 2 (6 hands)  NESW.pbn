@@ -1,150 +1,78 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Overcalls
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Overcalls"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:A7.J85.AQ74.T754 QJT93.KQ4.863.82 65.T762.KJ92.AJ6 K842.A93.T5.KQ93"]
+[Deal "W:A.AT52.AT875.AK2 KQJ97.8.Q62.Q943 T85432.Q76.J3.JT 6.KJ943.K94.8765"]
 [Declarer "N"]
-[Contract "3S"]
+[Contract "1S"]
 [Result ""]
 [Auction "W"]
-1D 1S pass 3S pass pass pass
+1D 1S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.  
-
-You have enough for a 1-level Overcall so you bid 1\S. Partner says 3\S.  
-
-The jump raise tells you partner has 11-14 points.
-
-With your minimum it's going to have to be better than that to get you excited. So you pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:T.AKQ98.J53.AKQ9 AQJ64.3.9862.J82 92.JT64.KQT74.T6 K8753.752.A.7543"]
-[Declarer "E"]
-[Contract "4S"]
-[Result ""]
-[Auction "N"]
-1H 1S 3H 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9c419e9f13c3dea52f1f3e2832aef1f840b1078e3f98bf3cdac86922f1ccd4a7"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
 {The bidding has been as shown.   
 
-You have 10 points, but in cases like this points don't matter that much. They <b>MIGHT</b> be able to make 4\H. Partner <b>MIGHT</b> be able to make 4\S. This preemptive jump takes the decision away from them.
-
-Looking at the hands you can see that partner is going to go down 1 at 4\S. However, that is an excellent result since they appear to be cold for 5\H.}
+You really don't like partner's \Ss, and you do have 8 points. But 8 points is not enough to be considering game, and you would have to bid your \Hs at the 2-level. All things considered it is better to pass while you still aren't doubled.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "None"]
-[Deal "E:KQT4.5.QT9.KJT76 53.AKT84.K63.A54 982.J62.J872.Q83 AJ76.Q973.A54.92"]
-[Declarer "S"]
-[Contract "4H"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK864.T9.5.AJ842 T9.KQJ752.QJ7.65 Q3.4.K98643.KQ97 J752.A863.AT2.T3"]
+[Declarer "E"]
+[Contract "3H"]
 [Result ""]
-[Auction "E"]
-1C 1H pass 3H pass 4H pass pass pass
+[Auction "N"]
+1S 2H pass 3H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "705fe24c8e55c279043dfcd8023b23c6f5aa3d5dc841cdaa1871b502454c132e"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
 {The bidding has been as shown.  
 
-Nice hand. But not nice enough to double, then bid your \Hs. So you overcall 1\H. Partner says 3\H.  
+You overcall 2\H and hear partner raise you to 3\H.  
 
-The jump raise promises 11-14 points. Your 17 plus partner's 11 or so takes you right up to game. You bid 4\H.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "N"]
-[Vulnerable "All"]
-[Deal "N:Q9863.A764.KQ.T6 72.Q8.J52.AKJ972 JT4.J93.A863.854 AK5.KT52.T974.Q3"]
-[Declarer "W"]
-[Contract "3NT"]
-[Result ""]
-[Auction "N"]
-1S 2C pass 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.   
-
-Partner has at least 11 points for his 2-level overcall. He might have as many as 16. You have a perfect invitational hand including two sure stoppers in their suit. So you bid 2NT. Partner raises to 3NT and you get to play it there.}
+No matter how many times you check this hand you cannot revalue it any more than 13 points. Since partner has 10 at the most you reluctantly pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "W"]
+[Dealer "E"]
 [Vulnerable "NS"]
-[Deal "W:J64.Q95.KQ.AJ542 KQ9.A84.AT5.KQ93 T75.732.87642.76 A832.KJT6.J93.T8"]
-[Declarer "N"]
-[Contract "3NT"]
+[Deal "E:Q62.874.AQ84.AQT AK975.KT3.953.K7 T4.Q65.KJ62.J654 J83.AJ92.T7.9832"]
+[Declarer "S"]
+[Contract "2S"]
 [Result ""]
-[Auction "W"]
-1C 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
+[Auction "E"]
+1D 1S 2D 2S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.  
-
-This hand would be one point too strong to <b>Open</b> 1NT, but it fits the 15-18 range to <b>Overcall</b> 1NT. Partner responds 2\C.  
-
-Don't get your systems crossed. Partner did not make a cue-bid, he is using Stayman. Since you have no 4-card Major suit you answer 2\D. Partner now says 2NT and the ball is in your court. 
-
-This is just a plain old 1NT/Stayman sequence. Partner is inviting, and since you have 18 points you accept.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:J92.852.AKT8.A95 AKT75.J6.972.Q83 4.T943.QJ43.J742 Q863.AKQ7.65.KT6"]
-[Declarer "E"]
-[Contract "4S"]
-[Result ""]
-[Auction "N"]
-1D 1S pass 2D pass 2S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "436215fbdc00a36911d777d851c4ba9007bc8daa9b53b44cd3d4e29687332574"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Wow! Great \S support and 15 points. You cue-bid 2\D, forcing partner to bid. He says 2\S. Your turn. 
+With only 7 points you might not think you have enough to make a "free bid". But in competitive bidding situations like these, where both sides have a fit, bidding is usually better than passing. So you bid 2\S.
 
-Partner has not made a strong bid and it is possible that 10 tricks will be too high. But it is pretty likely that game can be made so you bid it. Be bold!}
+You might look at the Law of Total Tricks lesson for more on this subject.}
 

@@ -1,0 +1,54 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T2.KQJ76.AQ5.963 K743.95.7643.754 J85.AT84.K9.KQJ2 AQ96.32.JT82.AT8"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H 1S 2S pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "bd42203b4884f55bb1017b91503a60f06bdb14be40f340e67a898af1d26698f1"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH's Support Cue-bid shows at least Limit Raise strength and \H support.
+
+NORTH has a minimum opening bid and can only return to 3\H.
+
+SOUTH actually has better than the 12 points he promised, so he now bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:97.AKJ87.43.KJT4 KJ43.QT2.AT8.963 862.63.KQ97.AQ82 AQT5.954.J652.75"]
+[Declarer "E"]
+[Contract "3C"]
+[Result ""]
+[Auction "E"]
+1H 2S X pass 3C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "a2ed805a6ebdc7a4d2bc57ccf38975ff89e13d0229ee9ff5f97447d57b6fdd31"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{WEST has a 11 points with both Minors and she doesn't want to sell out to SOUTH's 2\S. 
+So she makes a Negative Double, effectively bidding both minors at once.
+
+EAST has four \Cs so he bids the suit at the minimum level and WEST passes.}
+

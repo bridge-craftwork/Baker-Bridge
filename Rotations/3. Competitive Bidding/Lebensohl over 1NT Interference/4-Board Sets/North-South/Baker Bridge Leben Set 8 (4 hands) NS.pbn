@@ -1,0 +1,54 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Leben
+%bridge-classroom-stable: true
+%bridge-context: Lebensohl over 2-level overcalls of 1NT (fast denies); applies over 2C as well (no 'systems on')
+[Event "Baker Bridge - Lebensohl"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:742.AQ.AK53.KT93 KJT863.4.72.AQJ2 AQ5.K83.QJ94.764 9.JT97652.T86.85"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT 2S 2NT pass 3C pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "06fd738bb9b1b181fad23f5f76152b9ec92e48a8a467e05f3f33ad95e52d44f9"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{With your 12 point balanced hand you know you are going to play in game. Since you have no interest in looking for a 4-4 Major suit fit you also know that game is going to be 3NT. But you can't actually BID 3NT, because partner would almost surely take you out to a minor suit. Remember, a DIRECT 3NT bid DENIES a stopper in their suit. Since you have East's \S suit stopped, you first bid a lebensohl 2NT.
+
+Partner says 3\C.  
+
+You now complete the picture of your hand by bidding 3NT. (SLOW SHOWS). Partner passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:T85.AK7.KQ73.A74 AQ9642.Q.65.QJT9 KJ73.964.J82.K65 .JT8532.AT94.832"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "E"]
+1NT 2S X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "066d68b49794a27a4cd49cac1d9d9d2d7d9f65666d89e79c2184bcee7d99883b"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{Playing lebensohl, when partner doubles the overcall it is for penalties.
+
+Since you trust your partner, you pass.}
+

@@ -1,0 +1,63 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-TwoClub
+%bridge-classroom-stable: true
+%bridge-context: Strong 2C (22+); 2D = waiting/negative
+[Event "Baker Bridge - Strong Two-Club Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJ87.AK.A86.AKQJ K54.JT6.743.T764 Q62.9753.Q52.953 T93.Q842.KJT9.82"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "889efab8458a4b157fd9046afcf2118d2e06991be3f67f90165807fdf80d9b9a"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH has lots of points - 26 to be exact. She opens 2\C. 
+In the old days this hand would have been opened 3NT.
+
+SOUTH has 4 points and responds 2\D.
+
+NORTH now shows her full strength by jumping to 3NT (25-27 points, balanced).
+
+SOUTH knows there is no slam, so he passes 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A73.AKQ862.86.AK QT985.93.KT53.Q4 642.754.J72.8653 KJ.JT.AQ94.JT972"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2H pass 3C pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "09de171f43d5af99dc7ab4e6ee5daeb0443b06ee8a5f16dd60f89a90bf17fe81"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH has 22 points and opens 2\C.
+
+NORTH is pretty weak, right? She responds 2\D.
+
+SOUTH bids his suit, 2\H.
+
+NORTH is so weak she bids the second negative - 3\C.
+
+SOUTH rebids his suit, 3\H, and NORTH passes.}
+

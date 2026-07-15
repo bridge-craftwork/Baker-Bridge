@@ -1,97 +1,48 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
+%bridge-classroom-stable: true
+{The bidding has been as shown. The contract is 6\D 
+
+Lead the \S4.
+
+Against a notrump slam it is best to make a passive lead so you don't give declarer an undeserved winner.
+
+Against a suit slam the situation is very different. Against strong dummy bidding like this you are pretty sure that if you don't establish a winner early declarer will find something in dummy to discard losers on. In this hand it is dummy's \C suit.
+
+Your most promising suit is \Ss. Obviously partner has a very weak hand, but if he has the \SQ you can set up your \SK before your King of trumps is dislodged.
+
+Without a \S lead declarer will have smooth sailing.}
+[Play "W"]S4
+
 [Event "Baker Bridge - Opening Leads"]
 [Site ""]
 [Date ""]
-[Board "1"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AT.94.KQJ983.KQJ 872.Q8752.T52.63 KQJ954.AJT.6.A52 63.K63.A74.T9874"]
-[Declarer "N"]
-[Contract "6S"]
-[Result ""]
-[Auction "S"]
-1D pass 1S pass 3D pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 6\S 
-
-Lead the \H3.
-
-The \CT would probably be a very safe lead. But you don't want "safe", you want "attack".
-
-Dummy has advertised a long, strong \D suit which declarer will no doubt establish for discards.
-
-It is important for your side to create a winner before your \DA is forced out. The most likely looking winner is your \HK. So lead the small \H and hope partner has the Queen. }
-[Play "W"]H3
-
-[Event ""]
-[Site ""]
-[Date ""]
 [Board "2"]
-[Dealer "W"]
+[Dealer "N"]
 [Vulnerable "NS"]
-[Deal "W:A9762.A63.K4.QJ5 KQJT8.752.A5.963 53.KQJ.QJT97.AT4 4.T984.8632.K872"]
-[Declarer "E"]
+[Deal "N:A43.A98.AJT6.QT4 QJT8.QT542.73.A3 975.J7.KQ8.KJ982 K62.K63.9542.765"]
+[Declarer "N"]
 [Contract "3NT"]
 [Result ""]
-[Auction "W"]
-1S pass 2NT pass 3NT X pass pass pass
+[Auction "N"]
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "e87f583d46e9cf70a481a18a983cff045f575fe6ad72310ff14acb1cf0faae6a"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
 {The bidding has been as shown. The contract is 3NT 
 
-Lead the \S4.
+Lead the \H4.
 
-If partner had not doubled the contract you would probably have started with the \H10, or possibly the \C2.
+This is a close call. The top of your \S honor sequence is very tempting, but even when you find partner with the \SK you can still only establish three \S winners to go with your \CA. Unfortunately, that's not enough to defeat the contract.
 
-But partner DID double, and most good players play that doubling 3NT is lead-directing as follows:If you have bid a suit, lead it. If doubler has bid a suit, lead it. If neither of you has bid, lead dummy's first bid suit.
-
- So lead a \S, certainly not a lead you would have made without the double. Partner immediately establishes 4 \S winners and he has the \DA for an entry.
-
-With any other lead declarer will make the contract.}
-[Play "W"]S4
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KQ7.KT98.AK5.T92 JT93.42.JT963.85 A864.AJ65.Q7.J63 52.Q73.842.AKQ74"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1NT pass 2C X 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 4\H 
-
-Lead the \C8.
-
-If partner had not doubled North's Stayman 2\C bid you would probably have started with one of your Jacks.
-
-But partner <b>DID</b> double, and the double of a conventional bid clearly means that the doubler would like you to lead that suit.
-
- So lead a \C, and partner will take three \C tricks. With any other lead declarer would quickly discard a \C from dummy on a high \D, easily making the contract.
-
-Declarer may still make the contract if he guesses the \HQ correctly, but maybe not.}
-[Play "W"]C8
+Leading a \H from your 5-card suit is riskier, but it has the potential of setting up an additional winner. In this hand, as you see, the \H lead gets you 4 \H winners to go with your \CA. }
+[Play "W"]H4
 
 [Event ""]
 [Site ""]
@@ -99,61 +50,27 @@ Declarer may still make the contract if he guesses the \HQ correctly, but maybe 
 [Board "4"]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "E:KJ5.A9853.KQ.AQ5 T864.72.J93.JT98 AQ3.K4.A854.K642 972.QJT6.T762.73"]
-[Declarer "W"]
-[Contract "6NT"]
+[Deal "E:A93.QJ743.K.K874 84.982.AT53.AJ62 KJ75.AK65.8742.5 QT62.T.QJ96.QT93"]
+[Declarer "E"]
+[Contract "4H"]
 [Result ""]
 [Auction "E"]
-1H pass 2NT pass 6NT pass pass pass
+1H pass 1S pass 2C pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 4, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "59a17bd3f27882fd10e040d595eb4ba4cfb38cf4ed7c64e19e751e50473ab13f"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{The bidding has been as shown. The contract is 6NT 
+{The bidding has been as shown. The contract is 4\H 
 
-Lead the \D2, or perhaps the \S9. Admittedly the \HQ looks very tempting, but resist the temptation.
+Underleading an Ace against a suit contract is the absolute worst opening lead in Bridge. A careful look at this hand shows just how bad it can turn out.
 
-Since dummy bid \Hs, don't help declarer by leading the suit. Declarer has 11 tricks, and will hope to pick up one more in \Cs, but that won't happen.
+And leading from a doubleton in a suit the opponents have bid is almost as bad.
 
-But if you start with the \HQ, he will win with his \HK and can then establish an extra \H winner by leading through your \H J 10 into dummy's \H A 9.
+So by process of elimination you lead a trump, probably the \H9.
 
-With any lead other than a \H honor he cannot come to 12 tricks.}
-[Play "W"]D2
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:KJ963.A6.K9.QT85 A.QJT3.8753.A742 QT85.K54.AT.KJ96 742.9872.QJ642.3"]
-[Declarer "N"]
-[Contract "4SX"]
-[Result ""]
-[Auction "N"]
-1S pass 2C pass 3C pass 4S pass pass X pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 4\S 
-
-Did you choose the \HQ? I was afraid you would. That is wrong, but because this is the last Deal I'm going to give you another chance.
-
-Look at the bidding carefully, then ask yourself why you doubled.
-
-Now pick the opening lead that will set the contract, then   
-
-Lead the \CA, then follow with a small \C.
-
-South/North apparently have 8 or more \Cs between them, which leaves partner with a singleton at most.
-
-Partner will ruff the second \C, and when you get into the lead with the Ace of trumps you will play a third \C which he will again ruff.
-
-That's why you doubled.}
-[Play "W"]CA
+And when East plays \Cs, (preparing to ruff in dummy), you will win and play another trump. Even if East guesses the \Ss correctly he will not be able to make the contract. }
+[Play "W"]H9
 

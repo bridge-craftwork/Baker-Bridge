@@ -1,104 +1,58 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent FSF
+%bridge-classroom-stable: true
+%bridge-context: FSF = one-round force only (invitational), NOT game-forcing
 [Event "Baker Bridge - Fourth Suit Forcing"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:Q4.AT864.83.AK82 A963.K952.642.94 KJT7.QJ.KQJ9.J76 852.73.AT75.QT53"]
+[Deal "N:KQ92.T6.AJ5.K954 JT87.7.KQ8743.T8 A5.KQ982.T96.A63 643.AJ543.2.QJ72"]
 [Declarer "N"]
 [Contract "3NT"]
 [Result ""]
-[Auction "S"]
-1H pass 1S pass 2C pass 3NT pass pass pass
+[Auction "N"]
+1C pass 1H pass 1S pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "da29f677d285036671e70d96696f4387d39973bdd7bb8b4117c80bcdadb829e8"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
 [Student "S"]
-{You show your 4-card Major. Bid 1\S. Partner rebids 2\C. What do you say next? 
+{With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\H. Partner rebids 1\S.  
 
-You have a nice \D suit but don't bid it now. That would be FSF and partner would assume you didn't have a \D stopper. 
+Partner shows nothing extra. All you know now is that he doesn't have 4 \Hs. You know you want to be in game, but you aren't sure which game. If partner has 3 \Hs then 4\H would be good. If not though, 3NT would be good if he has a \D stopper. The way to find out what he has is with Fourth Suit Forcing. So you bid 2\D. Partner answers with 2NT.  
 
-With 13 points, bid what you expect to make, 3NT. Partner passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:7.KQ863.T4.AKT86 QJ2.T74.KQJ65.32 AK985.A5.87.QJ94 T643.J92.A932.75"]
-[Declarer "E"]
-[Contract "5C"]
-[Result ""]
-[Auction "E"]
-1H pass 1S pass 2C pass 2D pass 3C pass 5C all pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/fourth_suit_forcing"]
-[Student "S"]
-{You open 1\H. As expected, partner responds 1\S.  
-
-This is easy bidding so far. You bid your second 5-card suit, 2\C.
-
-Partner says 2\D.  
-
-Partner's bid is FSF. He wants to know if you have 3 \Ss, (you don't), or if you can stop \Ds, (you can't). So you have to rebid one of your 5-carders, and you should bid the lower-ranking one. You bid 3\C and partner raises to 5\C.}
+Partner does not have 3 \Hs, but he does have \Ds stopped. So you bid 3NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:4.AJ863.QJT7.AJ9 A98.T975.83.QT75 KQJ76.KQ.K64.863 T532.42.A952.K42"]
-[Declarer "S"]
+[Deal "E:6.AJT.QT954.AQ73 J93.KQ75.87.T652 AK752.863.AK.984 QT84.942.J632.KJ"]
+[Declarer "E"]
 [Contract "3NT"]
 [Result ""]
-[Auction "S"]
-1H pass 1S pass 2D pass 3C pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/fourth_suit_forcing"]
-[Student "S"]
-{You have 15 points and you respond 1\S. Partner rebids 2\D. What do you say next? 
-
-You would love to play 4\S if partner has 3 \Ss. Or, you would love partner to play 3NT if he has \Cs stopped.
-
-So you say 3\C (FSF) to find out if either possibility exists. Partner does have \Cs stopped and bids 3NT.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:6.QJ82.AKT9.A985 QJ32.9653.742.Q2 KT854.AKT7.85.K4 A97.4.QJ63.JT763"]
-[Declarer "W"]
-[Contract "4H"]
-[Result ""]
 [Auction "E"]
-1D pass 1S pass 2C pass 3H pass 4H pass pass pass
+1D pass 1S pass 2C pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "c1b7640fba17416089f8d971b6c0cdc721a66b37db288977fa3e99d7c866af3d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
 [Student "S"]
-{With both 4-card minors you open 1\D. Partner responds 1\S.  
+{You open your 5-card suit, 1\D. Partner responds 1\S.  
 
-You cannot bid 2\H since you are not strong enough to reverse, so you bid 2\C.
+You might bid 1NT, but since you have a singleton you prefer to say 2\C.
 
-Partner jumps to 3\H.  
+Partner bids 2\H.  
 
-Since partner jumped this is <b>NOT</b> FSF. Partner has a \H suit and a pretty good hand to go with it. You also have a \H suit so you bid 4\H.}
+This is Fourth Suit Forcing and partner is fishing for more information. You certainly don't have 3 of his \Ss so that is out. On the other hand, you have a double stopper in \Hs, so with 14 points you go right to 3NT.}
 

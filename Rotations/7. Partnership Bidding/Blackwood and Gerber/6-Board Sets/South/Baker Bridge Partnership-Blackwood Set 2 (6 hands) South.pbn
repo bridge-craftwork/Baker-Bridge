@@ -1,0 +1,82 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J952.AJ743.AQ.98 T7.9862.T8.T7654 AKQ643.K5.K73.AK 8.QT.J96542.QJ32"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result ""]
+[Auction "N"]
+1H pass 2S pass 3S pass 4NT pass 5H pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "68fded37f6747620ca3b3eb8c5c8928ca2b22fa7cb5a23d9dd73380019f5ebd2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH has a powerhouse and knows she will reach a slam somewhere. When NORTH 
+supports the \Ss, it seems she has found her spot.
+
+Blackwood tells her that NORTH has two Aces. 
+She can see there are 12 tricks available and decides to take a chance that 
+NORTH will have a thirteenth trick somewhere among his opening hand points.
+
+She bids 7NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK2.KQ65.KQJ.KJ6 QT65.72.T95.A972 J73.AJT98.832.Q8 984.43.A764.T543"]
+[Declarer "S"]
+[Contract "5H"]
+[Result ""]
+[Auction "N"]
+2C pass 2H pass 4NT pass 5D pass 5H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "510ca648f4185f86aec45ca9a258323d66059ca6f635d3749589ebd4a6e38f48"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{NORTH is tempted to go right to 6\H when she hears SOUTH's positive 
+response. BUT, she should use Blackwood first.
+
+It's good thing she did because SOUTH admits to only one Ace - they are missing two Aces.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ4.A8.KQJT73.K5 J875.QJ6.82.AJ64 A63.KT7.A94.Q987 T92.95432.65.T32"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+1D pass 2NT pass 4C pass 4S pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "2542d6e5f05c21e0ccdab24451eb2a0ad696d02397a6adff05e275613d11c6fc"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{NORTH not only has 20 points, he also has a lot of winners. 
+So when SOUTH jumps to 2NT, showing 13-15 points, NORTH uses Gerber.
+
+SOUTH shows two Aces so NORTH decides 6NT will be just right.}
+

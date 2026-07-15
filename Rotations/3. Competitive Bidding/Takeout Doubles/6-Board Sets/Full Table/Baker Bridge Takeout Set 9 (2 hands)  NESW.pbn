@@ -1,0 +1,30 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Takeout
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Takeout Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J732.KQJT.A4.K52 AQ86.A742.KJT5.7 T54.963.9873.A84 K9.85.Q62.QJT963"]
+[Declarer "N"]
+[Contract "1C"]
+[Result ""]
+[Auction "N"]
+1C X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: W, basisKind:Declarer, nOption:0, nBasis: 3, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "09111367b1645be09714b4f8af3944f8ac9e8a2b7473a86ff045e30c88c8651c"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You could certainly say 1NT if you wanted to. You have 8 HCP and a very good \C stopper. However, you will probably make a lot more points by letting them play 1\C doubled.
+
+This is exactly the kind of hand you need to pass and convert partner's Takeout Double to a Penalty Double. Partner should lead a \C so you can pull declarer's trumps as soon as possible.}
+

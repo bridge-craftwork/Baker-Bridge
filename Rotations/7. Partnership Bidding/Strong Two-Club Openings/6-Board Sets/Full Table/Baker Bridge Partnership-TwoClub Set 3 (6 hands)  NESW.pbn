@@ -1,0 +1,91 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-TwoClub
+%bridge-classroom-stable: true
+%bridge-context: Strong 2C (22+); 2D = waiting/negative
+[Event "Baker Bridge - Strong Two-Club Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK63.AK82.KQJ.KQ Q95.63.T87.AJT92 42.QJ975.A52.753 JT87.T4.9643.864"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH has a nice 2\C opening hand.
+
+With 8 points, NORTH can make a positive response so he bids his 5-card \Hsuit.
+
+SOUTH likes \Hs, knows there are at least 33 points, but needs to make 
+sure the opponents don't have two Aces so she uses Blackwood.
+
+When NORTH shows one Ace SOUTH bids 6\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:KQT2.AQJT5.AK2.K 74.84.9843.QT965 AJ983.K72.6.A874 65.963.QJT75.J32"]
+[Declarer "E"]
+[Contract "7S"]
+[Result ""]
+[Auction "W"]
+2C pass 2S pass 3S pass 4C pass 4D pass 4NT pass 5S pass 7S all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{WEST opens 2\C and is pleased when EAST makes a positive response of 2\S. 
+His first step is to set the trump suit by bidding 3\S. There is NO chance that EAST will pass.
+
+EAST now bids 4\C a Control-showing bid. 
+WEST continues Control-showing with 4\D.
+
+That's enough for EAST to hear. She invokes Blackwood and learning they have all the Aces 
+bids 7\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ86.AKJ2.AKQ.86 95.T53.T7653.KT2 AJT72.987.82.Q53 43.Q64.J94.AJ974"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+2C pass 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "96b4eb44cf5ab66245fb301976ffefa19cdcc59a957c7ce68a4124b403010d6f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH has a minimum 2\C opening.
+
+SOUTH, with 8 points and a 5-card suit, should make a positive response, 2\S.
+
+NORTH shows the \S support first, to set the trump suit, and to give SOUTH an opportunity 
+for a move toward slam if he wants to do so.
+
+SOUTH would now make a Control-showing bid IF HE HAD A CONTROL. Since he doesn't he just returns 
+to 4\S which NORTH passes.}
+

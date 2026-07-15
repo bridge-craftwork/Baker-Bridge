@@ -1,0 +1,67 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicNotrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
+{NORTH has 16 points and balanced distribution. 
+She naturally opens 1NT.
+
+SOUTH has 14 points and balanced distribution so he does the math. 
+The partnership has at least 29 points (14 + 15). 
+The partnership has at most 31 points (14 + 17).
+
+Since this is more than the 26 needed for game, but fewer than the 33 needed for slam 
+SOUTH just bids 3NT, knowing NORTH will respect his decision and pass.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J96.AJ5.AQJ.A932 T43.KT963.KT.QJT AK52.872.943.765 Q87.Q4.87652.K84"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "S"]
+1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "353ea77537fd763ad5713b97c8f5afc47e36601c183d0fc04b4f26c021cf7bf7"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{When SOUTH opens 1NT, NORTH knows that he cannot have more 
+than 17 points. So with her 7 points, she knows there is no reason to respond.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A9754.876.T.A842 KQJ.QJ95.AJ8.QJT 2.AT3.Q97652.963 T863.K42.K43.K75"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5f7d78ae3a7e60f107a72a9ad369634f01ef5b48f9d8d77351cb93a1248c38f0"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has a maximum 17 point 1NT opener.
+
+NORTH has 9 points: 
+- if SOUTH has 15 the total is 24, not enough for game. 
+- if SOUTH has 17 the total is 26, enough for game. 
+Since NORTH doesn't know what to do he passes the buck back to SOUTH 
+by bidding 2NT; this is an invitation for SOUTH to bid game.
+
+SOUTH has a maximum 17 point hand so she accepts the invitation.}
+

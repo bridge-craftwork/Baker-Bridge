@@ -1,0 +1,79 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-AdvancedForcing
+%bridge-classroom-stable: true
+%bridge-context: FSF one-round force only; Help-Suit Game Try
+[Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKJ86.J53.3.AK63 752.KT9.AJ64.J97 Q93.7642.KT82.Q5 T4.AQ8.Q975.T842"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "S"]
+1S pass 2S pass 3H pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a6158a34d23301c9f6983564d8490377aff2c4bdc042420c53e72c00bf7374f4"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH thinks there might be game if NORTH can help with the three \H 
+losers. So he bids 3\H as a Help Suit Game Try.
+
+NORTH cannot provide any help at all, so quickly signs off in 3\S which SOUTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K95.KJ2.A963.Q64 Q73.T8.Q85.KJT92 AJ862.Q93.K74.85 T4.A7654.JT2.A73"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "N"]
+1D pass 1S pass 1NT pass 2C pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "40db6113967c67032d0f7f6885412ff65b175d29c54541f562edd6c85ff6b8ca"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH bids 2\C as New Minor Forcing, hoping NORTH will show three \Ss.
+
+NORTH does show three \Ss, but also shows a minimum hand so South passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A95.T4.KQ74.KJ63 Q863.987.AT632.2 KT7.AK652.J98.Q5 J42.QJ3.5.AT9874"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1D pass 1H pass 2C pass 2S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fcefd30c96e4191f6527e50b363cb6258ee73c19d5a4907364bbecfba837a7cb"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{NORTH wants to be in game but doesn't know which one. 
+If SOUTH holds three \Hs she would prefer 4\H, 
+otherwise she would try 3NT. NORTH bids 2\S, Fourth Suit Forcing.
+
+SOUTH denies three \Hs but confirms a \S honor by 
+bidding 2NT, so NORTH bids the game in Notrump.}
+

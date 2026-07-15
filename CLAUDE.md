@@ -193,15 +193,28 @@ python3 generate_manifest.py
 
 (`Tools/build-mac.sh` runs all of these; steps 4–5 are its `stamp` phase, after `package`.)
 
-**Passer fill + output folder (issue #21, Phase B).** Before the CSV becomes PBNs, the
-generated *passer* (opponent) hands are made BBA-clean by `passer_reroll.py` (the `reroll`
-phase, after `bb_fill`): it re-rolls every board whose E/W were generated and are the quiet
-(all-pass) side, rejecting any fill where a bidding engine shows the opponents would act, and
-caches the result in the committed `passer_cache.csv` (deterministic, machine-independent —
-this replaced the non-deterministic mac/windows split). The build now writes its contracted
-files to a new **`bridge-classroom/`** folder (`BB_PACKAGE_DIR`); the original **`Package/`
-is a frozen orphan** until Bridge-Classroom repoints its props. The Windows build path was
-removed here — see `Tools/windows-build-legacy.md` and `Tools/passer-fill-phase-b.md`.
+**Passer fill (issue #21, Phase B).** Before the CSV becomes PBNs, the generated *passer*
+(opponent) hands are made BBA-clean by `passer_reroll.py` (the `reroll` phase, after
+`bb_fill`): it re-rolls every board whose E/W were generated and are the quiet (all-pass)
+side, rejecting any fill where a bidding engine shows the opponents would act, and caches the
+result in the committed `passer_cache.csv` (deterministic, machine-independent — this
+replaced the non-deterministic mac/windows split). The Windows build path was removed here —
+see `Tools/windows-build-legacy.md` and `Tools/passer-fill-phase-b.md`.
+
+**Build folder layout (issue #21, Phase B).** The merge+stamp+manifest steps write a shared
+master, **`Collection/`** (`BB_PACKAGE_DIR`; a regenerable, gitignored intermediate that
+replaced `Package/`'s old role — `Package/` is a frozen orphan). Two committed exports
+**diverge** from `Collection/` (they are NOT chained through each other):
+
+- **`bridge-classroom/`** — the app's contracted files (control-tag PBNs + `manifest.json` +
+  `toc.json` + `titles.csv` + optional `*_Intro.pdf`), copied out by the `export` phase.
+- **`Presentation/` → `Rotations/`** — the face-to-face teaching materials (control tags
+  stripped, table rotations/slices/handouts), built from `Collection/` by
+  `package_presentation.py` (which honors `BB_PACKAGE_DIR`) + `rotate_lesson_collection.sh`.
+  Standard structure spec: `Tools/rotations-contract.md`.
+
+Sourcing Presentation from `Collection/` (not the orphan `Package/`) is what keeps the
+dealer files and the app in sync — the divergence that caused the 2026-07-14 class problem.
 
 ### What Each Step Does
 
@@ -223,7 +236,7 @@ Bridge Classroom uses board-identity + readiness metadata to decide whether Bake
 
 `stamp_board_tokens.py` runs **after** the curated merge so generated, merged, and any future pure-curated boards are all stamped from their final released content. It fails the build (exit 1) if any board can't be tokenized or has a blank/`uncategorized` `[SkillPath]`.
 
-- **`Package/manifest.json`** — the build-generated collection manifest (producer-contract **R5**), the authoritative description of the collection's shape that Bridge Classroom fetches directly (it does **not** re-parse the PBNs for sizing). Emitted by `generate_manifest.py` as the **last** build step, reading the fully-stamped `Package/*.pbn`. Schema v2, keyed by PBN basename; per lesson `skillPath`/`boardCount`/`stableBoardCount`/`boards[]`, and per board `number`/`stable`/`boardVersionToken`/`skillPath`. Per contract §7 it carries only producer-owned facts — **no** `collection` id, `report` flag, or `prerelease` column, and no `tier` (a PBS client-side concern). It fails the build (exit 1) if any released board lacks an integer `number`, a token, or a skill path. Note `manifest.json` does **not** replace `toc.json` (navigation TOC) — both ship.
+- **`Package/manifest.json`** — the build-generated collection manifest (producer-contract **R5**), the authoritative description of the collection's shape that Bridge Classroom fetches directly (it does **not** re-parse the PBNs for sizing). Emitted by `generate_manifest.py` as the **last** build step, reading the fully-stamped `Package/*.pbn`. Schema v3, keyed by PBN basename; per lesson `skillPath`/`boardCount`/`stableBoardCount`/`boards[]` and an **optional** `intro` (the companion `{Lesson}_Intro.pdf`, present iff a lesson intro exists — the app offers it when present but never requires it); per board `number`/`stable`/`boardVersionToken`/`skillPath`. Per contract §7 it carries only producer-owned facts — **no** `collection` id, `report` flag, or `prerelease` column, and no `tier` (a PBS client-side concern). It fails the build (exit 1) if any released board lacks an integer `number`, a token, or a skill path. Note `manifest.json` does **not** replace `toc.json` (navigation TOC) — both ship.
 
 ## Defense `[showcards]` dummy cards
 

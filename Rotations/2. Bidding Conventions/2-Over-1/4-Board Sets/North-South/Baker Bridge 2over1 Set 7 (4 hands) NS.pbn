@@ -1,99 +1,53 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 2over1
+%bridge-classroom-stable: true
+%bridge-context: 2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430; Specific Kings
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "S:AK874.J86.AJ6.93 52.T53.KQT73.J74 Q6.AKQ972.984.AQ JT93.4.52.KT8652"]
-[Declarer "N"]
-[Contract "6H"]
+[Deal "W:743.J.T973.KJ652 AJT62.A62.QJ.T87 Q98.T7.K8652.Q93 K5.KQ98543.A4.A4"]
+[BoardVersionToken "6d91857b7e8060b1bff521bff69e89039428dd58b8ee133d51320916c84d192e"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 2H Pass 3H Pass 4C =1= Pass 4D =2= Pass 4NT =3= Pass 5H =4= Pass 5NT =5= Pass 6H =6= Pass Pass Pass
-[Note "1:control"]
-[Note "2:control"]
-[Note "3:keycard ask for \h s"]
-[Note "4:2 no Q"]
-[Note "5:Specific kings ask"]
-[Note "6:none below \H s"]
-{How do you start the bidding? 
-You opens 1\S. Partner bids 2\H.    
-Your priority on your first rebid is to agree trumps if possible. Knowing North has at least a 5-card suit, you raise to 3\H.  You are in a Game Forcing auction, so you know partner will continue bidding.
-North now bids 4\c.   [4D]
-North's 4\c bid shows first or second round control in clubs, and shows slam interest.  You cooperate by bidding your next control up suit order - 4\d.  This doesn't promise extra values, it's just following partner's path.
-North asks for keycards using 1430.  What is your reply? 
-You show two keycards without the trump queen.  Partner is excited about this and bids 5NT - what's your bid now? 
-Partner's 5NT is asking for specific kings.  Since we don't have any kings lower than the trump suit, we have to bid 6\h.
- and gets two. He decides to find out about Kings, if South happens to have three he will bid 7NT. When South shows just one North settles for 6\H. This should be a good slam, needing only a decent \S break.
-}
+[Auction "W"]
+Pass 1S Pass 2H Pass 3H Pass 4NT Pass 5H =1= Pass 5NT =2= Pass 6H =3= Pass Pass Pass
+[Note "1:2 keycards, no trump Q"]
+[Note "2:king ask"]
+[Note "3:no kings lower than hearts"]
+{North opens 1\S.  What do you respond with? 
+You have a powerhouse, plenty strong enough to jump-shift. But playing 2/1 it's usually simpler when you make the 2/1 response, and save your jumping for later - if at all. So just bid 2\H, knowing North must keep the bidding open.
+North responds 3\h, setting the trump suit.   
+Now you are definitely  interested in slam.  Since you have controls in all the side suits, you go right to keycard Blackwood, using the 1430 system.  Partner responds 5\H.   
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:QJ8763.AK8.8.K75 K2.97543.AQT5.82 A4.QJ6.7642.A963 T95.T2.KJ93.QJT4"]
-[Declarer "S"]
-[Contract "4S"]
-[Student "S"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 1NT Pass 2S Pass 3S Pass 4S Pass Pass Pass
-{South opens 1\S.  
-With 11 points you cannot respond 2\C. So you bid 1NT, which is forcing for 1 round. 
-South rebids 2\s, promising at least 6 \ss and denying a 4-card side suit.
-
-You are strong enough to invite to game, and with the known 8-card fit you say 3\S.
-South has a little extra so he bids 4\S, which is a pretty good contract.}
+Partner's 5\H shows two keycards without the trump queen.  But we have the other 3 keycards, and the trump queen.  If partner has the two minor kings we might have a grand.  We ask about these with our 5NT bid.  Unfortunately, partner responds 6\H (playing specific kings, this denies any kings lower than hearts).  We will pass and play there.
+This is a good slam, cold if West makes any opening lead other than a \C. With a \C lead, South will have to pull trumps and play to discard a loser on the \ST.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
 [Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:QJ9842.AJ95.83.K 63.K842.KT974.T9 T7.QT3.AJ6.AQ642 AK5.76.Q52.J8753"]
-[Declarer "N"]
-[Contract "4S"]
+[Vulnerable "EW"]
+[Deal "N:A.AQJ753.742.KJ4 T874.62.JT.AT962 QJ2.KT.KQ865.Q87 K9653.984.A93.53"]
+[BoardVersionToken "1e6a2e4e6a0e33269be943adb36876d7ab229503b8d9f5deb8d691ad537ad74b"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 2C Pass 2H Pass 2NT Pass 3S Pass 4S Pass Pass Pass
-{North opens 1\S.  
-Perhaps a little marginal, but you don't pass 13 point hands. You have a good 2/1 response of 2\C. 
-North rebids 4\h, showing a 4-card second suit.   
-You wouldn't dare support \Hs with only three cards, but you have a good 2NT bid.
-North is not happy in notrump so rebids the 6-card major, 3\S. What do you do now? 
+1H Pass 2D Pass 2H Pass 4H Pass Pass Pass
+{How do you start this action? [Bid 1H]
+You open 1\H and partner responds 2\D.  What do you rebid? 
+Partner's 2 over 1 bid sets up a game force.
+You have a good-looking hand, but you need to find a trump suit before showing extra strength, so she bids just 2\H.  You are in a game forcing auction, so partner won't pass you.
+Partner now jumps to 4\h.  What do you do now? 
 
-Your two \Ss are enough support so you bid the \S game.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KQ753.87.KQ6.Q95 96.KT94.A952.KT3 AJ8.Q652.873.A74 T42.AJ3.JT4.J862"]
-[Declarer "S"]
-[Contract "3S"]
-[Student "S"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 1NT Pass 2C Pass 3S Pass Pass Pass
-{How do you start the bidding on this hand? 
-You open 1\s.  Partner responds 1NT, forcing for one round.  What do you rebid? 
-You rebid 2\C, a 3-card suit. North now jumps to 3\S, showing limit-raise strength. This sequence is the way to show a limit-raise with only 3 trumps; an immediate jump-raise to the 3-level shows a limit-raise with 4 trumps.
-
-In any case you have a bare minimum and pass the invitation.
-}
+Partner's jump to 4\h is Fast Arrival - showing a minimum game forcing hand.  Even though we have extra values, this won't be enough for slam opposite 13 or so points.}
 

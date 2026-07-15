@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ4.A8.KQJT73.K5 J875.QJ6.82.AJ64 A63.KT7.A94.Q987 T92.95432.65.T32"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1D pass 2NT pass 4C pass 4S pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2542d6e5f05c21e0ccdab24451eb2a0ad696d02397a6adff05e275613d11c6fc"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH not only has 20 points, he also has a lot of winners. 
+So when NORTH jumps to 2NT, showing 13-15 points, SOUTH uses Gerber.
+
+NORTH shows two Aces so SOUTH decides 6NT will be just right.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ85.J63.87.AQJ4 42.52.KT9432.972 AJ963.A4.AQJ6.K5 T7.KQT987.5.T863"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1C pass 2S pass 3S pass 4NT pass 5S pass 5NT pass 6C pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5cf51c8a25d1e46185a94473e4dfda159e7ff6a01b0bd6d3f48c470cfa522a85"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{When NORTH gives immediate \S support, SOUTH's thoughts naturally 
+turn to slam. This is a good hand to use Blackwood on, so SOUTH bids 4NT.
+
+NORTH's 5\D answer shows one Ace, which SOUTH cleverly deduces 
+must be the \CA.
+
+SOUTH bids 6\S since NORTH has not bid strongly enough to think about 7.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ.AKT.KQ2.KQ73 T853.65.A75.J865 A64.QJ9874.J983. 972.32.T64.AT942"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+2C pass 2H pass 3H pass 3S pass 4NT pass 6C pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]

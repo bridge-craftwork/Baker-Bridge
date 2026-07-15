@@ -1,0 +1,110 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100Deals
+%bridge-classroom-stable: true
+%bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - 100 Miscellaneous Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT83.K62.AK.AK6 942.AQ84.QJT5.J8 AJ5.73.8643.9532 76.JT95.972.QT74"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You have 23 points. You must open 2\C.
+
+Partner responds 2\D showing 7 or fewer points.
+
+Following partner's negative response you merely bid your suit at the cheapest level.
+
+You bid 2\S and partner jumps to 4\S.
+
+Now  
+
+Partner's first response told you he has a weak hand. It didn't suddenly turn into 10 or 11 points. Partner is merely pulling a "He Who Knows, Goes" bid. He thinks you belong in 4\S.
+
+South plays 4\S. West leads the \DQ.
+
+<b>South plays 4\S. West leads the \DQ.</b>
+
+Losers: \S 0 : \H 3 : \D 0 : \C 1 : Total = 4
+
+It is possible (but not probable) that \Cs will split 3-3. 
+
+It is possible (one chance out of two) that East holds the \HA. You could pull trumps, ending in dummy, then lead toward your \HK.
+
+It is almost certain that you could ruff your \H loser in dummy, but only if you play a \H at trick two, leading away from your \HK. The defenders will win the \H cheaply and probably play a trump. You win dummy's \SA and play another \H which they also win. They lead a second trump which you win in your hand. You now ruff the last \H with dummy's \SJ, return to your hand, pull trumps and claim.
+
+You cannot be defeated if you play \Hs at the second trick. 
+
+If instead you decide to lead a \S to dummy's \SJ and lead a \H toward your \HK you might go down. West could win the \HA and play a second trump. When you played the next \H West would win again and play a third round of trumps. You would no longer be able to ruff the \H loser.}
+[Play "W"]DQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:863.AKQJ975.AK.7 QJ7.83.QJT2.Q952 KT4.T6.753.T8643 A952.42.9864.AKJ"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "cb5d6491cdc6e1e00888dff8d2ed4d7b162f5557aa0a9f305c095e0118f3e16b"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{One school of thought says to open 2\C with a hand that is within one trick of game, even though the point count is below 22.
+
+Another school of thought says to go ahead and bid the game, hoping to keep the opponents away from any competition.
+
+Today you take the second and bid 4\H.
+
+South plays 4\H. West leads the \DQ.
+
+<b>South plays 4\H. West leads the \DQ.</b>
+
+Losers: \S 3 : \H 0 : \D 0 : \C 1 : Total = 4
+
+You are going to lose the \C for sure, so you need to find a way to hold the \S losers to 2. The obvious possibility is for West to hold the \SA and you lead through him to make the \SK a winner. That's a 50% possibility.
+
+But you can improve on that a little bit. If West holds both the \S Q J you could make a deep finesse of dummy's \ST and East would have to play his \SA to win the trick. And if it didn't work and East won with a lesser \S you would still have time to play toward the \SK.
+
+Win the \D, pull trumps, lead the \S3 to dummy's \ST. 
+
+You can see that the deep finesse would indeed force East's \SA. However, West played his \SQ to the trick, forcing you to go up with dummy's \SK, which was taken by East's \SA. 
+
+You must modify the Plan a little bit. Now your only hope is that West still holds the \SJ. So you win the next trick in your hand and lead a \S toward dummy's \ST. This time West is caught. He plays the \SJ hoping you had a doubleton, but you still have a \S to get to the now high \ST.}
+[Play "W"]DQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:97.QJT9653.62.Q3 AKQ63.82.JT9.842 8.A4.AK873.AT965 JT542.K7.Q54.KJ7"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

@@ -1,0 +1,57 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Jacoby2NT
+%bridge-classroom-stable: true
+%bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQJ.KQJ84.94.J65 AT65.76.K875.A32 3.A953.AJT2.KQ94 98742.T2.Q63.T87"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 3S pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a56fbf6bc22912cb28aef7efe823d1320fbed7a1bc06c95c5872bc7d20dbb2e7"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH's 3\S bid, a double-jump, is a Splinter bid. It shows game-forcing strength, at 
+least four cards in partner's suit, and a singleton or void in the Splintered suit.
+
+NORTH has just 14 points and the \S shortness in SOUTH's hand doesn't improve her hand since 
+she had just one \S loser anyway. She signs off in 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:764.KQJ84.K4.A65 KT982.62.Q87.JT2 3.A953.AJT2.KQ94 AQJ5.T7.9653.873"]
+[Declarer "E"]
+[Contract "6H"]
+[Result ""]
+[Auction "E"]
+1H pass 3S pass 4C pass 4D pass 4NT pass 5H pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "c43df3d872b84ef5ab79e92e24ea60b1abb53aea6236999e4f1fa13cf669f9a9"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{This is a companion hand to Deal 13.
+
+EAST has 14 points, the same strength she had in Deal 13. But what a difference. 
+This time WEST's \S shortness complements her hand very well. She bids 4\C 
+to show her Control, and after WEST shows the \DA she 
+uses Blackwood to make sure WEST also has the trump Ace.}
+

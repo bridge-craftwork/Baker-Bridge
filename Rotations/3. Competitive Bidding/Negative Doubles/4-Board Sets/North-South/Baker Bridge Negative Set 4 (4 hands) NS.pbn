@@ -1,98 +1,54 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Negative
+%bridge-classroom-stable: true
+%bridge-context: Negative Doubles, no upper level
 [Event "Baker Bridge - Negative Doubles"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:A5.KJ94.AQT54.43 T83.6.J93.AKQJ97 Q762.AQ87.K6.T82 KJ94.T532.872.65"]
+[Deal "N:KT.A4.KJT6.KQJ65 J94.52.AQ7543.A7 AQ73.KJT7.82.T84 8652.Q9863.9.932"]
 [Declarer "N"]
-[Contract "4H"]
+[Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D 2C X pass 2H pass 3H pass 4H pass pass pass
+1C 1D X pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "0756329a12d3fb529f89809c4651e29fbf6f4756292ff9f851a42cecd926fa8f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Partner's double promises 4 cards in at least one of the Majors. You certainly hope it is \Hs. You bid 2\H and partner raises to 3\H.  
-
-Once partner confirms he has the \Hs you can revalue your hand to 17 points. This gives you enough extra to accept partner's invitation. You bid 4\H.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:KJ93.Q83.83.AK64 A4.J5.QJ652.T985 T875.AK64.974.32 Q62.T972.AKT.QJ7"]
-[Declarer "S"]
-[Contract "1S"]
-[Result ""]
-[Auction "S"]
-1C 1D X pass 1S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/negative_doubles"]
-[Student "S"]
-{The bidding has been as shown.   
-
-You have the special hand, 4-4 in the Majors, so you make a Negative Double. Partner replies 1\S.  
-
-Partner has a minimum opener with 4 \Ss. You have a minimum response with 4 \Ss. Pass and be grateful the opponents aren't bidding.}
+Partner's Negative Double in this situation shows both Majors. You can't support either Major but with 18 points and good \D stoppers you jump to 2NT. Partner bids 3NT and everybody passes.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "N:KT98.AK764.4.A96 A6.T95.AKQJ87.72 QJ73.QJ.965.KQ84 542.832.T32.JT53"]
-[Declarer "N"]
+[Deal "S:K983.T4.KQ52.AKQ 75.AQJ932.73.J98 QJT4.K76.A986.73 A62.85.JT4.T6542"]
+[Declarer "S"]
 [Contract "4S"]
 [Result ""]
-[Auction "N"]
-1H 2D X pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/negative_doubles"]
-[Student "S"]
-{The bidding has been as shown.   
-
-Sometimes using Negative Doubles seems like you can read minds. You know for sure that partner has 4 \Ss since that is the only unbid Major. You know for sure that partner has 10+ points because he made a Negative Double of a 2-level overcall. So you conclude that your side has 8 \Ss and 27+ points . . .. . . and you bid 4\S.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "All"]
-[Deal "S:86.Q975.KQT.AQJ5 QJ.K43.AJ875.K72 KT94.AJ8.932.T96 A7532.T62.64.843"]
-[Declarer "S"]
-[Contract "1NT"]
-[Result ""]
 [Auction "S"]
-1C 1D 1S pass 1NT pass pass pass
+1D 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "1303f7beac377ad5d26a14dd03a2a3744406e0dd13631593c977d5a0cf8143bd"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-The general guideline for a Negative Double when both Majors are unbid is that you must have 4+ cards in at least <b>ONE</b> of the Majors. But for this specific sequence, 1\C - 1\D, you do not double unless you have <b>BOTH</b> Majors. When you have only one of them you just bid it. Like this hand. You bid 1\S. Partner rebids 1NT.  
+If you bid 1\S now it would be showing a 5-card \S suit. So instead you make a Negative Double. Partner jumps to 2\S.  
 
-Partner has a minimum hand and fewer than 4 \Ss. A good time for you to pass.}
+Partner's jump shows a Medium hand, 16 - 18 points. Add your 11 and you have enough for game so you bid it.}
 

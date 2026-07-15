@@ -1,7 +1,9 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Michaels
+%bridge-classroom-stable: true
+%bridge-context: Michaels cue-bid; Unusual 2NT
 [Event "Baker Bridge - Michaels / Unusual NT"]
 [Site ""]
 [Date ""]
@@ -16,6 +18,7 @@
 1D 2D pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2dc92f0c7c24d6f1e128d7484d436599deb6c22e6c76ef3925d4b891143e4c1d"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -29,9 +32,9 @@ You have a rather minimum Michaels type hand and you asked partner to choose a M
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "S"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "S:KQ4.Q.Q742.KQT82 AT863.AT974.86.5 72.J652.K93.AJ43 J95.K83.AJT5.976"]
 [Declarer "E"]
 [Contract "2H"]
@@ -39,7 +42,8 @@ You have a rather minimum Michaels type hand and you asked partner to choose a M
 [Auction "S"]
 1C 2C pass 2H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "218694e328d7a35ab193a2ac582448172c7cc5ba94b148209bc3f93b8a4a1f5f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -51,9 +55,9 @@ You have a fair hand with a guaranteed 8-card fit in either Major. You are not, 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "W"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "W:J9.AK642.AJ862.2 75.9.KT974.KQJ63 KQT83.JT5.5.T874 A642.Q873.Q3.A95"]
 [Declarer "S"]
 [Contract "3C"]
@@ -61,60 +65,4 @@ You have a fair hand with a guaranteed 8-card fit in either Major. You are not, 
 [Auction "W"]
 1H 2NT pass 3C pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/michaels_unusual"]
-[Student "S"]
-{The bidding has been as shown.   
-
-You have a pretty good hand for an Unusual Notrump, but not so good that you wouldn't use the convention. You bid 2NT and partner says 3\C. What do you say next? 
-
-As mentioned, you have a pretty good hand, but partner only bid because you forced him to and he showed nothing more than minimum. So you pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "N"]
-[Vulnerable "All"]
-[Deal "N:AQT832.KQT.A.863 96.4.KQJ84.KQT75 K4.8652.T732.A94 J75.AJ973.965.J2"]
-[Declarer "W"]
-[Contract "3D"]
-[Result ""]
-[Auction "N"]
-1S 2NT pass 3D pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/michaels_unusual"]
-[Student "S"]
-{The bidding has been as shown.   
-
-Your best suit is \Hs. But partner didn't ask you to bid \Hs, he asked you to pick a Minor. You know you will have an 8-card fit in \Ds so you take the safe approach and bid 3\D. Everybody passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "E"]
-[Vulnerable "None"]
-[Deal "E:AKJ942.AQ.32.A86 7.JT984.6.KJT532 QT5.6.KQJT84.974 863.K7532.A975.Q"]
-[Declarer "N"]
-[Contract "4H"]
-[Result ""]
-[Auction "E"]
-1S 2S pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/michaels_unusual"]
-[Student "S"]
-{The bidding has been as shown.   
-
-Of course you bid a Michaels Cue-Bid of 2\S. Partner says 4\H.  
-
-Partner's jump might indicate he has a really good hand, or he might just have a really good fit. You certainly don't have the strength to make another move so you pass. A good thing, too. Partner might get lucky and make this but it looks like the other guys are cold for 4\S. Even if partner loses 2 \H tricks and goes down 1 it will turn out to be a good sacrifice.}
-
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]

@@ -1,98 +1,54 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-AdvancedForcing
+%bridge-classroom-stable: true
+%bridge-context: FSF one-round force only; Help-Suit Game Try
 [Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:84.AK943.AJ96.75 K97.872.T72.AK63 AQJ63.QJ5.K4.T92 T52.T6.Q853.QJ84"]
+[Deal "N:A7.QT976.Q7.AT96 KT64.54.AT52.Q83 J83.A832.K864.72 Q952.KJ.J93.KJ54"]
 [Declarer "N"]
-[Contract "4H"]
+[Contract "2H"]
 [Result ""]
 [Auction "N"]
-1H pass 1S pass 2D pass 4H pass pass pass
+1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "712f484745bf1f173195729c9c8794411f56cdf867b3a95c627fe03cd013784d"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{SOUTH should not use Fourth Suit Forcing to see if NORTH holds three \Ss because 
-that information is irrelevant.
-
-SOUTH already knows there is an 8-card \H fit and enough 
-points to be in game so he bids it.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:AKJ86.J53.3.AK63 T5.AKQ.QJ65.JT74 Q93.7642.KT82.Q5 742.T98.A974.982"]
-[Declarer "E"]
-[Contract "3S"]
-[Result ""]
-[Auction "E"]
-1S pass 2S pass 3H pass 3S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/advanced_forcing"]
-[Student "S"]
-{EAST thinks there might be game if WEST can help with the three \H 
-losers. So he bids 3\H as a Help Suit Game Try.
-
-WEST cannot provide any help at all, so quickly signs off in 3\S which EAST passes.}
+{NORTH should pass 2\H. She is not strong enough to 
+try for game.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:K95.KJ2.A963.Q64 743.A64.J82.JT92 AJ862.Q93.K74.85 QT.T875.QT5.AK73"]
-[Declarer "S"]
-[Contract "2S"]
-[Result ""]
-[Auction "N"]
-1D pass 1S pass 1NT pass 2C pass 2S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/advanced_forcing"]
-[Student "S"]
-{SOUTH bids 2\C as New Minor Forcing, hoping NORTH will show three \Ss.
-
-NORTH does show three \Ss, but also shows a minimum hand so South passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:A95.T4.KQ74.KJ63 QJ8.QJ7.652.9874 KT7.AK652.J98.Q5 6432.983.AT3.AT2"]
-[Declarer "W"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:84.AT7.QT643.AK2 A952.53.KJ8.JT54 KQT63.KQJ8.95.Q8 J7.9642.A72.9763"]
+[Declarer "E"]
 [Contract "3NT"]
 [Result ""]
-[Auction "W"]
-1D pass 1H pass 2C pass 2S pass 2NT pass 3NT pass pass pass
+[Auction "E"]
+1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "dcc3bcc2429ce4b14475ace83a4975fe304e2cafe2bba7d4b0f8cdea11146d76"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
 [Student "S"]
-{EAST wants to be in game but doesn't know which one. 
-If WEST holds three \Hs she would prefer 4\H, 
-otherwise she would try 3NT. EAST bids 2\S, Fourth Suit Forcing.
+{WEST knows there should be game, but doesn't know whether it will be 4\S, 
+4\H or 3NT. To find out which she uses NMF and 
+bids 2\C at her second turn.
 
-WEST denies three \Hs but confirms a \S honor by 
-bidding 2NT, so EAST bids the game in Notrump.}
+EAST does not have a 4-card \H suit, nor does he have 
+three \Ss, but he does have \Cs stopped so he bids 2NT, which West raises to 3NT.}
 

@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Trumpmgmt
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Trump Management"]
 [Board "1"]
 [Dealer "N"]
@@ -13,6 +14,7 @@
 [Auction "N"]
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8bac2ae5a863a61d71607f692656e9d25357f727fe02c2a24db63eac3ab39b69"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -45,6 +47,7 @@ Clear thinking is important, too. Can you imagine any Bridge player in the East 
 [Auction "N"]
 pass pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8877c3b313768ea6a3ed5c634060b917d30dd836b4dbc4d3de596e96bdbf32b0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -75,6 +78,7 @@ So you must stay a jump ahead of them. In this Deal the only way they could have
 [Auction "S"]
 1H pass 1NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "af1f66f6aa44d6e4767c933360582666e20ac1cff3e5cbf3ce589ca9bd797fb3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -103,6 +107,7 @@ Here there was no realistic hope of making this contract without playing twice t
 [Auction "S"]
 1D pass 2NT pass 3D pass 5D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b42b6cf1914625b776aa60162889a0472671cceec7ea750d4766b2654c3464f4"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -139,6 +144,7 @@ In other words, with one of these opening leads a mediocre player, one who had n
 [Auction "S"]
 1D pass 1H pass 1S pass 3D pass 4C pass 4H pass 6D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "23bf863ad85ab30a72697205da243913cfa326d9600df414535858762aa0a525"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -181,6 +187,7 @@ Needing just three more tricks, and with two trumps in each hand you just cross-
 [Auction "N"]
 1C pass 1S pass 1NT pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ad92fcb945f75a068cdefd732fefd768ee38b5c4d94d704441617f8ddd5fc857"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -215,6 +222,7 @@ But you don't have to lose anything else as long as you don't lose trump control
 [Auction "S"]
 2C pass 2D pass 2S pass 3H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7cf0a21b190cbd6be97c0bc2414ae593614f8b5c0068a65c0ab1d76806fe7319"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -247,6 +255,7 @@ So you give up a trump trick and gain two \H tricks in return. What a deal.}
 [Auction "S"]
 1C pass 1NT pass 3C pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6aaff617c1d18a20f06954a1aba0e48cbc4c360573ca5cbd4e8a032dbf6f0d19"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -281,6 +290,7 @@ So you couldn't pull that one round of trumps because you couldn't waste either 
 [Auction "S"]
 1H pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f4f81eb05aa3d306ea1f3a53488de9c6003128d3b25374cd4eb996f5a5ce0b57"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -311,6 +321,7 @@ He would have ruffed the third \C, before you could discard a \S loser from your
 [Auction "S"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "41b52bbe7604648ff95146b01354afc64788b7ee030cd54cc4697ee3c51593f0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -343,6 +354,7 @@ When you need to do something else first - in this case, to establish a \Ds winn
 [Auction "S"]
 1H pass 1S pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "27abffb2068e7a0375fcd589cd3528db02ed3b912a54e3f20cd5331e9126c096"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -379,6 +391,7 @@ For a Dummy Reversal to work you usually have to have a decent trump split.}
 [Auction "S"]
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f629f11e13f615d3d131cc2a57a37e0645010e1c45c41697d00368f0507749d0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -411,6 +424,7 @@ Playing a \C from your hand at the second trick <b>WILL</b> work.}
 [Auction "S"]
 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "443acb64b9581da15271f70d648a065e34d18a98f5821e635c330bd4d72ae4e0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -445,6 +459,7 @@ Did you notice that West is a pretty good defender? Playing the \DQ on the third
 [Auction "S"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3a7e030155a4b4ce356d56e0707b43663249300c8e737e4649548ff29e8b5b57"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -473,6 +488,7 @@ But, it was a good plan because dummy held the \S9. Keep that in mind when you l
 [Auction "S"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ea9fe8fc85d8e9fc8a970f61f5f1755792e85cd16f68b8a844c6a47c11210be3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -505,6 +521,7 @@ But you also had to be extremely clever to pull it off. This is probably the har
 [Auction "N"]
 1D pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "621935106977f082226ffaf372ae89b6c236d19bd5cedf9a00fd8b427767a902"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -543,6 +560,7 @@ This time it worked, another time it might not.}
 [Auction "E"]
 pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "f4d953b05dedca5511f97583351ec8435f427e3b68f66ee6fb82d4cc6c6408e4"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -575,6 +593,7 @@ Just the fact that you had to use the trump suit for entries to dummy, and there
 [Auction "E"]
 pass 1S pass 1NT pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "00fa7c441f12b487d1535f103f59c0d8d069c0d2c6040a784c3edbb673a525e1"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -603,6 +622,7 @@ Just remember to always pull trumps immediately . . .
 [Auction "S"]
 1S pass 2D pass 3H pass 4H pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "72c4ab72e26754e38d42e70f4496a1c3de05249b3b1a815ea0f4ddce204125ae"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -635,6 +655,7 @@ When you have a trump loser but still need to pull their trumps, it may be bette
 [Auction "N"]
 1D pass 1H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c46d7bef8183afd255cbf105bbaa2025ba2ca0174603e5a8efb6bd2cc7955e9e"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]

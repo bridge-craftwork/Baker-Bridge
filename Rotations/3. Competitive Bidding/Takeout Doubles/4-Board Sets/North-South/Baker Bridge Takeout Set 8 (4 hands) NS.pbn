@@ -1,0 +1,53 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Takeout
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Takeout Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:842.AKQT4.A973.2 AKJ3.52.KQT6.KQ5 T7.J96.J52.T8743 Q965.873.84.AJ96"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1H X pass 1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "0fa1c570cf7991a4d814702501ca2176fccf1c085e253ca3cb7b5ccf8554c4df"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+With 7 points you must make a minimum response. Even though \Cs is your best suit you should prefer to show a 4-card Major. So you bid 1\S. Partner raises to 2\S and it is your turn to bid. 
+
+Your first response showed 0-8 points. Knowing that, partner still invited you to go on if you were at the high end of the range. With 7 HCP and a doubleton you are right at the maximum for your bid, so you bid 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:QJT632.Q.A54.QJ6 9.A932.KT63.AK75 K87.J875.72.T942 A54.KT64.QJ98.83"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1S X pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "83e19d8c563f27fb073ca83ad853d2f81b87394406ef43ce0d7de920d191f8d5"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Your hand falls in the 9-11 point mid-range response where you make a jump bid. With two decent suits you naturally choose the Major and bid 3\H. Partner raises you to game.}
+

@@ -1,0 +1,84 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A96.KQ62.K532.K8 JT87.A94.QJ6.T52 KQ542.87.A8.Q764 3.JT53.T974.AJ93"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ef7600392606ab185b20dc34c8d664259bce37145450f45041c9b5973a3836f4"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{With 12 points and five \Ss, when SOUTH hears her partner open 1NT she knows 
+there is a game - either 3NT or 4\S.
+
+SOUTH first transfers NORTH to \Ss, then jumps to 3NT, giving NORTH the choice. 
+
+NORTH has three \Ss, so he chooses 4\S, taking the 8-card Major fit.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K86.A93.KQ8.AKJ2 AQ2.T6.654.T8654 74.KQJ7542.A92.9 JT953.8.JT73.Q73"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+2NT pass 3D pass 3H pass 4NT pass 5H pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ff2958842344390c42890f81f21d918ee299e8216042dbad3edfb9567b6a4028"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{After SOUTH opens 2NT, NORTH is pretty sure there will be a slam in \Hs. 
+But, the contract should be played from the SOUTH side so the opening lead doesn't go through any vulnerable 
+\S holding SOUTH might have.
+
+NORTH transfers SOUTH to \Hs, then uses Blackwood to be sure they aren't 
+off two Aces. Missing one Ace he settles for 6\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A6.KJ53.A654.KT7 JT2.T862.JT2.842 K985.Q7.K87.J965 Q743.A94.Q93.AQ3"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2H pass 2NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "62f6e385687bc1a9c070afff3c2da0706e62b623a08b34c5d5eea411bddc2685"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH has an invitational hand, (9 points), after NORTH's 1NT opening. 
+With a 4-card \S suit she uses Stayman.
+
+NORTH then shows his 4-card \H suit.
+
+With no \H fit, SOUTH can only invite with 2NT, an invitation which 
+NORTH declines.}
+

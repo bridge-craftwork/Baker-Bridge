@@ -1,14 +1,16 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent FSF
+%bridge-classroom-stable: true
+%bridge-context: FSF = one-round force only (invitational), NOT game-forcing
 [Event "Baker Bridge - Fourth Suit Forcing"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:KQ92.AT6.J5.K954 J43.J53.K873.J82 A5.KQ982.T96.A63 T876.74.AQ42.QT7"]
+[Deal "N:KQ92.AT6.J5.K954 J876.J75.Q843.T2 A5.KQ982.T96.A63 T43.43.AK72.QJ87"]
 [Declarer "S"]
 [Contract "4H"]
 [Result ""]
@@ -16,6 +18,7 @@
 1C pass 1H pass 1S pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "99072c75c4a2bb08ab17bfc33e5c4a99b29a6bbc95f3d2aaa2ce10b20f0b5a3f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -29,17 +32,18 @@ Partner tells you he has 3 \Hs. You bid the \H game.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:Q986.82.AK74.AT4 AJ43.Q764.T8.872 K72.AJT93.Q6.953 T5.K5.J9532.KQJ6"]
+[Deal "S:Q986.82.AK74.AT4 JT4.754.J32.QJ87 K72.AJT93.Q6.953 A53.KQ6.T985.K62"]
 [Declarer "S"]
 [Contract "2NT"]
 [Result ""]
 [Auction "S"]
 1D pass 1H pass 1S pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5548be9e31b215a40f01d1e6a2a5086b52c6d5621ca5f0c48630c039322f88aa"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -49,54 +53,4 @@ Partner tells you he has 3 \Hs. You bid the \H game.}
 Partner might be 4-4 in the Majors so you bid 1\S. Apparently he wasn't since he says 2\C.  
 
 This is Fourth Suit Forcing and partner may or may not have a \C suit. You do not have 3 \Hs. You do have a \C stopper, so with a minimum hand you bid 2NT and partner passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "EW"]
-[Deal "S:KQ92.T6.AJ5.K954 8763.J54.Q72.QT7 A5.KQ982.T96.A63 JT4.A73.K843.J82"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-1C pass 1H pass 1S pass 2D pass 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/fourth_suit_forcing"]
-[Student "S"]
-{With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\H. Partner rebids 1\S.  
-
-Partner shows nothing extra. All you know now is that he doesn't have 4 \Hs. You know you want to be in game, but you aren't sure which game. If partner has 3 \Hs then 4\H would be good. If not though, 3NT would be good if he has a \D stopper. The way to find out what he has is with Fourth Suit Forcing. So you bid 2\D. Partner answers with 2NT.  
-
-Partner does not have 3 \Hs, but he does have \Ds stopped. So you bid 3NT.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:6.AJT.QT954.AQ73 QT983.K95.863.J6 AK752.863.AK.984 J4.Q742.J72.KT52"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-1D pass 1S pass 2C pass 2H pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/fourth_suit_forcing"]
-[Student "S"]
-{You open your 5-card suit, 1\D. Partner responds 1\S.  
-
-You might bid 1NT, but since you have a singleton you prefer to say 2\C.
-
-Partner bids 2\H.  
-
-This is Fourth Suit Forcing and partner is fishing for more information. You certainly don't have 3 of his \Ss so that is out. On the other hand, you have a double stopper in \Hs, so with 14 points you go right to 3NT.}
 

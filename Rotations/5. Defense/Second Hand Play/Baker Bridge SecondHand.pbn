@@ -1,7 +1,9 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
 [Event "Baker Bridge - Second Hand Play"]
 [Board "1"]
 [Dealer "S"]
@@ -13,11 +15,12 @@
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8883589de4d504cce095abcb5eff39a4f759b59a66ce08334d0be39ae85b27e7"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:SJ]
+{[showcards N:D5]
 
 You are East. The bidding has been as shown.
 
@@ -39,11 +42,12 @@ So if you put on your \DA, South will have TWO \D winners established. If instea
 [Auction "S"]
 1S pass 3D pass 3H pass 3NT pass 4H pass 4NT pass 5H pass 6H all pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c3d4d230afc9b65e7aeb6829de2968537566dbf5eb1af45ab45062616e89dbbf"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:CJ E:C2 S:H2,CA]
+{[showcards S:H2]
 
 You are West. The bidding has been as shown.
 
@@ -67,11 +71,12 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 [Auction "S"]
 1H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0aebf656f7f2bc3bec156d439d12678e2a77a91b7ae76c6d7d674ad85dd0e750"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:CK S:DJ,CJ,C8,C6 W:D2,CK,CQ,C5]
+{[showcards N:HJ]
 
 You are East. The bidding has been as shown.
 
@@ -97,11 +102,12 @@ Now that you have looked at the hands aren't you glad you didn't cover?}
 [Auction "S"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7ce83dc2022a3d24890426c3fde360f59476c088cf0d5869153f463354dc66f5"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:HJ E:HA,HK,H2 S:S4,S2,H9,H4]
+{[showcards S:S4]
 
 You are West. The bidding has been as shown.
 
@@ -127,11 +133,12 @@ However, with South holding the \SQ it would be very logical for him to go up wi
 [Auction "S"]
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2f6e42cb15b284cafcc7d10d85353319e128a42f125bf1a12012e690855873aa"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards S:H4 W:H9]
+{[showcards N:S4]
 
 You are East. The bidding has been as shown.
 
@@ -159,11 +166,12 @@ South has no defense to this, but if you had played low he would have played the
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "26d8752cb7b1c59223e73d4864d85862e41ff85b0f1ee6f90d2750399f965f9e"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:ST E:S3 S:SA,C3]
+{[showcards S:C3]
 
 You are West. The bidding has been as shown.
 
@@ -191,6 +199,7 @@ If he does play this way East will win the \CT and your \C K Q will get one more
 [Auction "N"]
 1C pass 1H pass 2NT pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "27242c81ed943491a273c3b1d282886300542a4ad7578e90205f0d1d7c2bb4f3"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -225,11 +234,12 @@ By playing low you give him a guess to make. If he plays the \CK he will make th
 [Auction "S"]
 1C pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fb5df5ff0b55c0ca96535ccd08c38c596013e3ed85bb6f547d822665afa80823"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:D5 S:DK,C9]
+{[showcards S:C9]
 
 You are West. The bidding has been as shown.
 
@@ -255,11 +265,12 @@ So the way to beat the contract is to go up with your \CA, then play \SK, \SQ an
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "336b544230f1facd2d25b5f3745051dfa11037fb406a90bf7265cf99d33f607a"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:H4 S:S6,H8 W:S2,H4]
+{[showcards N:DT]
 
 You are East. The bidding has been as shown.
 
@@ -287,11 +298,12 @@ As you see, this will defeat the contract. Had you played a low \D South would h
 [Auction "N"]
 1C pass 1D pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "519b7b06b2ed3f8ade3cdf2d9a8487dbb5a3a18b7cbb1dca634ad01a4d0b6481"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:S7 E:S2 S:SQ,C6]
+{[showcards S:C6]
 
 You are West. The bidding has been as shown.
 
@@ -319,11 +331,12 @@ East will win the \CA and return his \S through South's \S A Q. This allows you 
 [Auction "S"]
 2C pass 2D pass 2H pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "91d045dd40095157c3f7a8e57ede94b116c9d74769e45f09790e1fc78a065f48"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:DQ S:S4,DA W:S2,DQ]
+{[showcards N:S6]
 
 You are East. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and South won the \DA.
 
@@ -349,11 +362,12 @@ Suppose you had ruffed the \S. South would have played his \S9, leaving himself 
 [Auction "S"]
 1D pass 1H pass 1NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a9ff8f034b57ff7c87964c2eb8107c26856f27a9ac5dcc6f89f8e0b777fa44af"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:CK E:S4,C5,C3 S:H4,CA,C6,C2]
+{[showcards S:H4]
 
 You are West. The bidding has been as shown.
 
@@ -377,11 +391,12 @@ Now visualize the result of playing the \HQ. Whether South takes this trick or n
 [Auction "S"]
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "493056941a4bb7846c6867b4a6448db2977b8848549eac574192e5d8b7bd0eda"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:HT S:H4]
+{[showcards N:C3]
 
 You are East. The bidding has been as shown.
 
@@ -407,11 +422,12 @@ Play low instead and South will win his \CQ. But now your \C K 10 sits behind du
 [Auction "S"]
 1H pass 3H pass 4NT pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "012e271648ed2003300f8e3d32c64e2c4f7396318b5a07c943bf3b064ae0c812"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:SJ E:S3,H7,H4 S:S5,HA,H2,C2]
+{[showcards S:C2]
 
 You are West. The bidding has been as shown.
 
@@ -437,11 +453,12 @@ When you correctly play your small \C life becomes harder for South. Sometimes h
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c74de5374d34b2d6883dce3d1cfa1684000d60d28cdd619662964f2b7c7bb478"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards S:SQ,SJ,C3 W:S6,S2,C6]
+{[showcards N:D2]
 
 You are East. The bidding has been as shown.
 
@@ -471,6 +488,7 @@ If you play low, West will have to take the \DK now, and although he can play a 
 [Auction "S"]
 1S pass 2H pass 4H pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "85c472d580878bf89c1d18643d12a29089f0d3fb0e9474e516ebcf9866573463"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -505,11 +523,12 @@ But if you take your \HA now, then exit with your \H2, South can win the \HK but
 [Auction "S"]
 1H pass 3D pass 3NT pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "2ba61aef2d762e7370875bc5bf723ead1ad304c444e27437a67a09f9d72f29a0"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards S:SA,C2 W:SK]
+{[showcards N:HJ]
 
 You are East. The bidding has been as shown.
 
@@ -537,6 +556,7 @@ If you cover the \HJ with your \HQ South will again win with one of his high one
 [Auction "S"]
 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "d2f5bc4eca465f5b4808023e26a043c5e3c6857ba6b6fa3ad6fb99267977f9bb"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -569,11 +589,12 @@ If you play low on South's \S play East will be forced to win the trick and he c
 [Auction "S"]
 1H pass 3H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "012db5ef1ee8bd1705ba5d4e5c56623869d67563a32ff2e97df94b5d65dc7432"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:H3 S:HA,H2 W:H7,H3]
+{[showcards N:S6]
 
 You are East. The bidding has been as shown.
 
@@ -601,6 +622,7 @@ Now assume you play low. South will play the \SQ which will win the trick and he
 [Auction "N"]
 1NT pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "9c38fc9daa5f2e98a1d00a1716ac0fd5ed334eec38df377b152f29311de9d5c4"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]

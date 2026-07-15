@@ -1,0 +1,57 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ7.AT4.K9.QJT85 843.KJ6.T32.K742 AT92.Q973.AQ4.96 J65.852.J8765.A3"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9090a6c191c1b7a69ba2cc13945a0d0cffcf0e4a6f705f24f3525c3cc007d98c"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH's 2\C bid is Stayman, asking for a 4-card Major.
+
+NORTH's 2\D bid denies four cards in either Major.
+
+SOUTH knows there is no 8-card Major fit. He also knows the partnership has at least 26 points 
+so he bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QT.KQ93.A52.AT86 A63.A72.JT96.QJ3 KJ8754.86.KQ3.72 92.JT54.874.K954"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2c7eaaa8410fbe6e0413a3374bb9c37bffdaa1e168b5b1fb1e8b885962102b2b"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{NORTH, with 11 points and six \Ss, knows immediately that the final contract will be 4\S 
+since the partners must have at least eight \Ss and at least 26 points.
+
+She concludes that it might be better for SOUTH to be the Declarer so she bids 2\H 
+as a Jacoby Transfer. When SOUTH makes the required 2\S bid she just bids 4\S which 
+closes the auction with SOUTH as Declarer.}
+

@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Overcalls
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Overcalls and TakeOut Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:97.QJT9.954.KQ65 AQT53.64.QT.A974 86.K732.A876.T83 KJ42.A85.KJ32.J2"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "W"]
+1H 1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f3eb1307f86e36c8fceec662f922f893947b83e9b689a14ff7b476563069a980"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{With a 5-card \S suit and 13 points NORTH should overcall 1\S.
+
+SOUTH has 13 points and four \Ss. If NORTH had opened, SOUTH's hand would be good enough 
+to insist on game. But since NORTH overcalled, SOUTH merely invites with a jump to 3\S.
+
+NORTH has better than a minimum overcall so she accepts the invitation and bids 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:T982.A.KT843.842 KJ64.JT75.6.AKJ3 A75.32.QJ97.QT76 Q3.KQ9864.A52.95"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1D X pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ab46bf38d8ff5ed7650ffc8b230cffc8f251022c7204c43f96964d10f49d0586"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{WEST has a very minimum Takeout Double of 1\D. But what it lacks 
+in strength, it makes up for with perfect distribution.
+
+EAST has 13 points and only wants to play in one contract, 4\H.
+
+WEST passes happily.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:K52.A98.K52.J987 AT94.KQJ7.Q6.AQ4 Q83.643.T873.653 J76.T52.AJ94.KT2"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1D X pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

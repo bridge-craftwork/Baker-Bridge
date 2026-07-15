@@ -1,7 +1,9 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Cue-bid
+%bridge-classroom-stable: true
+%bridge-context: Support cue-bid = limit raise+ with trump support
 [Event "Baker Bridge - Support Cue-bids"]
 [Board "1"]
 [Dealer "N"]
@@ -13,6 +15,7 @@
 [Auction "N"]
 1S 2H 3H pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5b7e1962886af33bb7f5971418e5aa61d5ef8ee44ce22317b8b2b456d671c21e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -32,6 +35,7 @@ Instead, you cue-bid 3\H, promising at least 11 points and support for \Ss. Part
 [Auction "S"]
 1S 2C 3C pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ac4974734d387b89367d6ed3a56468bf948135677c779aff408157266d98ae70"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -51,6 +55,7 @@ With your 17 revalued points you know that your side has at least enough for gam
 [Auction "N"]
 1H 1S 2S pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "6c45e8cb21bbb130a2bb8172d50430d616a1c91ed6d66ffcd9b13a6b171e9df6"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -72,6 +77,7 @@ Pass. Partner indicates a minimum hand and you don't have enough extra to bid mo
 [Auction "S"]
 1H 1S 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "24fa36780b76e2a26a745f17ceff1d9886150dd89f6ac84d865dcecb3ce3cdce"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -91,6 +97,7 @@ But partner doesn't have a limit raise - if he did he would have cue-bid. So you
 [Auction "N"]
 1S 2H 3S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8ae54732c85d3f5121642ca42ae40aeddaa9c78c96c6f22741ecd0d031e1105e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -112,6 +119,7 @@ The jump to 3 is based on the Law of Total Tricks - bidding to a trick level equ
 [Auction "S"]
 1H 1S 2S pass 3H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "dab9f9f9aae1e069219c6ae51ea6b44243b4e9fe17a9c0e120b3aefad1eb5e81"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -131,6 +139,7 @@ You, however, have a bare-bones minimum. So you rebid a minimum 3\H, which partn
 [Auction "W"]
 1H 1S pass 2H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "4a77e1412bdd04b07c1e1ec9758c6a0b6433897d86a59c9b2b22908458cea19e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -152,6 +161,7 @@ So you cue-bid 2\H, showing a good hand with support and forcing partner to bid 
 [Auction "S"]
 1S 2H 3H pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "8679e70fc36cdf58ed5b82df3a2e921a124c78d14d70b0fcf3113a016b2f6129"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -173,6 +183,7 @@ You know you have a loser. Bid 6\S. }
 [Auction "W"]
 1C 1H 1S 2C pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "67e163ccf4165a0ef394581f7c3cdaa91f07d6ccbb59e3d85c659bd649687918"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -194,6 +205,7 @@ Pass. Partner had a minimum overcall so he made a minimum rebid.}
 [Auction "N"]
 1H 2C 3C pass 4H pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "7e04e94b4d15403aa09335e54c47090449b430ad47b9414eb8db6003e8d3b881"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]

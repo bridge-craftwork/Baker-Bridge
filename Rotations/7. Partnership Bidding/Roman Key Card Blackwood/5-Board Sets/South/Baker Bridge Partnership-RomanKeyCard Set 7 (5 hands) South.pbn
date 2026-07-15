@@ -1,0 +1,72 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-RomanKeyCard
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430
+[Event "Baker Bridge - Roman Key Card Blackwood"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ6.K75.KQ53.AJ5 987.T82.J82.QT73 KQ5.AQ96.764.K96 T432.J43.AT9.842"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result ""]
+[Auction "S"]
+1D pass 1H pass 2NT pass 4NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "759d8e06e0e6ecf75dea9c9aea52af2b47c3a900a1208f047367f72785e11284"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{What is this doing here in the RKCB Practice Pages?
+
+To emphasize that there are many 4NT bids which are NOT asking for Aces.
+
+In this case, SOUTH showed a balanced hand with 18 or 19 points, and NORTH invited him 
+to bid 6NT if he felt his hand was a "maximum". He didn't, so he passed.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K5.AK9762.K8.764 Q86.8.T942.AKT82 A972.QJ53.QJ753. JT43.T4.A6.QJ953"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 4C pass 4NT pass 6C pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5c31371784ed4ce0d2923e279e867d0ebe6d5862f871166762fe3896f12172cc"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{When NORTH makes a Splinter bid, showing \H support and \C shortness, 
+SOUTH naturally thinks about slam.
+
+She uses RKCB 4NT, and NORTH, with one Key Card and a \C Void, bids 6\C.
+
+Just what SOUTH needed for the 6\H bid.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q982.A95.A64.KQJ 74.J82.JT97.A754 AK63.KQT4.KQ85.2 JT5.763.32.T9863"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2S pass 4NT pass 5S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

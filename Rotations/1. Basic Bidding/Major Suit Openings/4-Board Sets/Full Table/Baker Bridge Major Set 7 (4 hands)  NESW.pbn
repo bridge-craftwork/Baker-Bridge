@@ -1,0 +1,56 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Major
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Major Suit Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:742.KT742.AQ4.K3 A653.J6.T62.AT97 8.Q9853.KJ85.864 KQJT9.A.973.QJ52"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0d5d897dbc23ff727f603376c01c6e0945794f190115504b1f86426d247efe8f"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/major_suit_openings"]
+[Student "S"]
+{The bidding has been as shown.  
+
+When you have a weak, distributional hand with 5 of partner's suit an immediate jump to game is usually the best approach. If he has a good hand you will probably make the contract. If he is minimum then you might get a preemptive effect and stop your LHO from entering the bidding.
+
+This is a good example. Partner may be lucky and make 4\H. But if they had had an opportunity to compete the opponents might well be able to make 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:3.AKJ873.AQJ3.73 Q854.64.T86.KJ82 AK972.Q5.742.T65 JT6.T92.K95.AQ94"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1H pass 1S pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "9f9455839c7bf2a2e7b1b276b3cffb8f4ff73b247f1f4c06a9aed9c824e59856"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/major_suit_openings"]
+[Student "S"]
+{The bidding has been as shown.  
+
+You can't support partner's \Hs with only 2 of them so you bid your nice \S suit. Partner then jumps to 3\H. Now  
+
+Here's where a lot of players go wrong. Since they only promised 4 \Ss with their first response they think they should now rebid them to show partner they had 5. And this <b>MIGHT</b> work if it turns out partner has 3 \Ss. Not only is this a risky bid, it is unnecessary. When partner jump rebid \Hs he showed 16-18 points and 6 \Hs. So you know of an 8-card fit and you know you should be in game. Bid 4\H.}
+

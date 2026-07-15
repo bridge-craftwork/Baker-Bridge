@@ -1,0 +1,59 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKJ7.87.976.KQ54 T84.J932.QJ32.J7 Q962.AK5.84.A632 53.QT64.AKT5.T98"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1C 1D 1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "8ed0287bc8f1f11798b32ecf0de05beac77ba2c35f264718551dab4fc8d15ce6"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH cannot respond with a Negative Double on this hand because he has only three 
+\Hs.
+
+Instead he just bids his 4-card Major, 1\S.
+
+SOUTH shows 4-card support with a minimum opener by bidding 2\S and NORTH 
+has enough strength to bid game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT532.AJT.987.A8 Q74.K54.Q54.J632 K9.862.AK63.KQ75 J86.Q973.JT2.T94"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+1S 2H X pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "6cac296dc73fe834aaec432e999378531ac07c3d73c29eea7d5169999db6f6cd"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{WEST has 15 points, and when South overcalls 2\H in front 
+of her she has a perfect Negative Double - showing both of the Minor suits.
+
+EAST doesn't like the Minor suits, but he has stoppers in \Hs, so 
+he bids 2NT.
+
+WEST is more than happy to raise to 3NT.}
+

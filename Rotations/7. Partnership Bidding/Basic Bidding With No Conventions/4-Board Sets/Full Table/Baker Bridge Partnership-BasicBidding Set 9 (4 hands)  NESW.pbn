@@ -1,0 +1,57 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicBidding
+%bridge-classroom-stable: true
+%bridge-context: Standard American; no conventions
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K973.842.AK5.J76 JT4.Q76.QT96.A85 AQ862.J53.74.KQ2 5.AKT9.J832.T943"]
+[Declarer "N"]
+[Contract "3S"]
+[Result ""]
+[Auction "S"]
+pass pass 1S pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "385299c5c0534d9a15aa4865965900450bce15e74c1bbdfcf5feddb97c70528c"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has just 11 points, not enough to open the bidding. 
+But when NORTH opens 1\S SOUTH should show her "almost opening strength" 
+by jumping to 3\S.
+
+NORTH has just 13 points, and knowing SOUTH has less than 13 he passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:T82.AK753.KQ5.Q6 KQJ4.T.JT743.T84 73.Q8642.A86.K95 A965.J9.92.AJ732"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "25d40ccc510a3b2f55be9125eff6c4e01b7b16d4de9259b5cf1d2f440389290b"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{After EAST opens with 1\H, WEST has a small "dilemma". 
+With 11 points she really is only strong enough to make a jump raise to 3\H. 
+But, with five trumps the hand deserves more. So she just bids 4\H instead.
+
+Usually, no matter what your strength, when you have five cards in the Major suit that your partner opens 
+with you should just jump right to game.}
+

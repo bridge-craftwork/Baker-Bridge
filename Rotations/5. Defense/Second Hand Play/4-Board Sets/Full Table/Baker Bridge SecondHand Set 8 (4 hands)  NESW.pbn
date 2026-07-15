@@ -1,0 +1,82 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent SecondHand
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
+[Event "Baker Bridge - Second Hand Play"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQJ.AK73.QT94.73 T8762.T54.K6.J96 54.J62.J852.AKQ2 A93.Q98.A73.T854"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "c74de5374d34b2d6883dce3d1cfa1684000d60d28cdd619662964f2b7c7bb478"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/second_hand_play"]
+[Student "E"]
+{[showcards N:D2]
+
+You are West. The bidding has been as shown.
+
+Partner led the \S6. You won the \SA and returned the \S9, won by North's \SQ.
+
+North next played to dummy's \CA and led the \D2. What do you play?
+
+Play the \DA.
+
+Count the points. North's 15-17 plus South's 11 plus your 10 comes to 36-38. So East has room for an Ace or a King, but no more.
+
+East's second \S play was the 2, so it looks like he started with 5 \Ss. And the fall of North's \Ss looks like he may have 1 \S left, very likely the \SK.
+
+All this means that you should take your \DA now and return your last \S to establish East's suit. Now East's \DK will be an entry to the \Ss
+
+If you play low, East will have to take the \DK now, and although he can play a \S to establish the suit, he will not have an entry to be able to cash them.}
+[Play "W"]S6
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJT73.9864.K7.AK 94.A2.T643.QJT75 KQ86.K753.AQ5.84 52.QJT.J982.9632"]
+[Declarer "E"]
+[Contract "6S"]
+[Result ""]
+[Auction "E"]
+1S pass 2H pass 4H pass 4S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "85c472d580878bf89c1d18643d12a29089f0d3fb0e9474e516ebcf9866573463"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/second_hand_play"]
+[Student "W"]
+{[showcards W:CQ]
+
+You are South. The bidding has been as shown.
+
+You lead the \CQ, North plays low and East wins the \CA.
+
+East pulls trumps in 2 rounds. He then takes the \DK, \DQ, \DA, discarding a \H on the last one. Next he plays dummy's last \C to his \CK.
+
+Having done all this, East now plays a low \H from his hand. What do you play?
+
+Play the \HA.
+
+If you followed what East was doing you will realize that he has eliminated both the \Ds and \Cs from both his hand and dummy. If it isn't clear that he is now out of \Cs, just remember the bidding - he must have had 5 \Ss and 4 \Hs.
+
+Suppose you play low on this \H (as East hopes you will). Dummy's \HK will take the trick, and when another \H is played you will have to win it with your now bare \HA. You will then have to play a \D or a \C, giving East a ruff and sluff.
+
+But if you take your \HA now, then exit with your \H2, East can win the \HK but will still have to lose a \H to North.}
+[Play "W"]CQ
+

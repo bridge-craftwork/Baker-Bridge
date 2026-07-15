@@ -1,14 +1,15 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Reverse Bids"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:QJ85.K9.K62.A863 762.62.A73.KQT94 AKT3.AQ75.T95.72 94.JT843.QJ84.J5"]
+[Deal "S:QJ85.K9.K62.A863 9762.8.AJ87.KT54 AKT3.AQ75.T95.72 4.JT6432.Q43.QJ9"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
@@ -16,6 +17,7 @@
 1C pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "facedc511c61c6474a068a4c54254de7ebf8b34ca040a7c89b2157c70d634dec"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -29,17 +31,18 @@ Partner now takes control and bids the \S game.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:T72.AK94.Q54.KQ5 AJ95.T72.T832.82 KQ83.QJ.KJ6.JT97 64.8653.A97.A643"]
+[Deal "S:T72.AK94.Q54.KQ5 J96.872.9872.A62 KQ83.QJ.KJ6.JT97 A54.T653.AT3.843"]
 [Declarer "S"]
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
 1C pass 1S pass 1NT pass 3NT all pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "26f6fdcba8b783849953a3915a245b65171da544215e280ff873cbed33ebc3fd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -51,72 +54,14 @@ So with your minimum hand you bid 1NT which partner raises to 3NT.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:J3.Q8.KQJ5.AK762 AQ8765.A43.76.T3 KT94.KT96.T82.95 2.J752.A943.QJ84"]
+[Deal "N:J3.Q8.KQJ5.AK762 A65.542.A964.Q83 KT94.KT96.T82.95 Q872.AJ73.73.JT4"]
 [Declarer "S"]
 [Contract "2NT"]
 [Result ""]
 [Auction "N"]
 1C pass 1H pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/reverse_bids"]
-[Student "S"]
-{At your first turn you bid your \H suit, up-the-line.  
-
-You only have 7 points, but partner Reversed so you cannot pass. You need to make a bid to show your minimum, and you cannot support either of partner's suits, nor can you rebid your \Hs.
-
-However, you also cannot bid your \S suit. That would be fourth-suit-forcing, and would show a game forcing hand of 9 or more points.
-
-Instead you bid 2NT. Partner has a bare 17 so he passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:J.AQT.AQJ3.QJ986 AT32.543.K984.72 KQ9865.K82.T5.KT 74.J976.762.A543"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-1C pass 1S pass 2D pass 3S pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/reverse_bids"]
-[Student "S"]
-{With 18 points you have enough to make a Reverse. So you bid 2\D. Partner now says 3\S.  
-
-Partner's jump bid shows a 6-card suit and enough points to insist on game. You don't have \S support but you do have good \H stoppers so you bid 3NT.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:6.AKQ4.963.AQJT3 K432.9.AJT752.64 AQ985.T865.84.K7 JT7.J732.KQ.9852"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1C pass 1S pass 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/reverse_bids"]
-[Student "S"]
-{With his Reverse, partner has shown at least 17 points and at least 4 \Hs.
-
-You could fall back on the guidelines and say that with 10 points you need to make a positive bid at this time, but it is simpler to just rely on "SHE WHO KNOWS, GOES."
-
-Since you know of an 8-card \H fit and at least 27 points you bid 4\H.}
-
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

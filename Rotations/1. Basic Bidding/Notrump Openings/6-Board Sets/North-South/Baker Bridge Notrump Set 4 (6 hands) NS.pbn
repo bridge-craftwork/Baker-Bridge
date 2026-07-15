@@ -1,146 +1,85 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only); plain Blackwood; Gerber 4C over NT openings
 [Event "Baker Bridge - Notrump Openings"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "N:AQ7.AT4.KQJ6.A83 JT4.Q763.983.652 K6.KJ5.T75.KQJT4 98532.982.A42.97"]
+[Deal "W:J42.J752.95.AQ43 KQ6.KQ4.Q74.KT96 8753.AT96.63.752 AT9.83.AKJT82.J8"]
 [Declarer "N"]
-[Contract "6NT"]
+[Contract "3NT"]
 [Result ""]
-[Auction "N"]
-2NT pass 6NT pass pass pass
+[Auction "W"]
+pass 1NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "de645ca92533368ce6ad62ed913ae0deef6c4cf34e3c0f82e95ed763093e6a93"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Do the math. If partner only has 20 points you still come to 34 points, enough for the slam. If you want to use Gerber to check for Aces, go ahead. Or, just bid 6NT.}
+You open 1NT and partner says 3\D. It's your bid. 
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AT3.Q7.AT75.AJ62 K.T8432.K832.KT8 987642.95.QJ4.73 QJ5.AKJ6.96.Q954"]
-[Declarer "S"]
-[Contract "2S"]
-[Result ""]
-[Auction "N"]
-1NT pass 2S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/notrump_openings"]
-[Student "S"]
-{The bidding has been as shown.   
+Partner has a great hand. A jump to 3 in a Minor suit almost always shows slam interest. But that's partner with interest, not you. You couldn't have a more minimum 1NT opening bid. 
 
-You have a terrible hand and partner is not going to make 1NT. So you bid 2\S, the Drop-dead bid. You don't expect to make this either, but it will probably end up better than 1NT would have.}
+So you just return to 3NT. Partner gives up and passes.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "W"]
 [Vulnerable "EW"]
-[Deal "S:J9.A73.AQ95.A983 AQ85.T4.T743.Q65 76.KJ9865.86.KJT KT432.Q2.KJ2.742"]
-[Declarer "N"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1NT pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/notrump_openings"]
-[Student "S"]
-{The bidding has been as shown.   
-
-Since partner opened 1NT he has at least 2 \Hs and you are assured of an 8-card fit. The only question is how high. With 10 points you are in the judgement zone.
-
-But unless you play Jacoby Transfers there isn't a method for inviting with this kind of hand. You have to decide for yourself and bid either 2\H or 4\H. Take the optimistic view and bid the game.
-
-As you see, it is going to take some luck.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:K84.A73.KJ64.A75 32.K982.Q932.J32 QJT95.T4.A87.KQ9 A76.QJ65.T5.T864"]
+[Deal "W:A8754.JT72.965.J KQ6.KQ4.A74.KT96 JT92.963.QT82.32 3.A85.KJ3.AQ8754"]
 [Declarer "S"]
-[Contract "4S"]
+[Contract "6C"]
 [Result ""]
-[Auction "N"]
-1NT pass 3S pass 4S pass pass pass
+[Auction "W"]
+pass 1NT pass 3C pass 4C pass 4NT pass 5D pass 6C all pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5855c671f7616b691d8b4ea6aa896369913e3fc9d7b4af8c87ec7f7fae834b43"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
 {The bidding has been as shown.   
 
-With 13 points you must either bid game or make a bid that forces partner to game. If partner has 3 or more \Ss then the game should be 4\S. If partner has only a doubleton \S then the game should be 3NT. Only partner can decide, and the bid that tells him to make the decision is 3\S.
+You open 1NT and partner responds 3\C. What is your next bid? 
 
-Partner has 3 of them so he bids 4\S.}
+Partner's jump to 3\C shows at least 5 \Cs and slam interest. Your hand is good enough to encourage that interest so you bypass 3NT and say 4\C. Partner now bids 4NT. What do you answer? 
+
+That is Blackwood. You admit to one Ace and partner bids 6\C.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:AJ3.AJ65.K5.QJ63 Q974.QT42.QJ87.9 85.K7.AT9.AKT875 KT62.983.6432.42"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A752.5.K9875.A72 K96.KJ64.AQ4.QJ5 JT43.AT.JT32.K84 Q8.Q98732.6.T963"]
 [Declarer "N"]
-[Contract "6C"]
+[Contract "2H"]
 [Result ""]
-[Auction "S"]
-1NT pass 3C pass 4C pass 4D pass 6C pass pass pass
+[Auction "E"]
+1D 1NT pass 2H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e9ba6f9f809d1bf9316721133c02117ced7422d030339a00463ccbccd47ccf0a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
 {The bidding has been as shown.   
 
-With 16 points you may be in slam range. You should alert partner of your big hand by jumping to 3\C. Partner says 4\C and it is your bid again. 
+A 1NT overcall is almost the same as a 1NT opening. The range is increased to 15-18, but the main difference is that you <b>must</b> have the opponent's suit adequately stopped. Here you certainly have the stopper so you bid 1NT. Partner responds 2\H.  
 
-Don't make the mistake of bidding Blackwood when you have a doubleton-nothing in a suit. If partner has only one Ace you will be left not knowing what to do. Instead make a control-bid showing your \DA. Now partner bids 6\C which ends the auction.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "S"]
-[Vulnerable "EW"]
-[Deal "S:KQ9.AJT.AQ2.AJT4 JT763.K8643.5.Q5 85.97.KT9873.962 A42.Q52.J64.K873"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/notrump_openings"]
-[Student "S"]
-{The bidding has been as shown.   
-
-You have 5 points, all in \Ds. That will take the partnership total to either 25 or 26, so you have a judgement call. If partner is unable to establish your \Ds then even 2NT will probably be too high, so you might as well assume that he will be able to use them and bid 3NT.
-
-You hit the jackpot.}
+And the responses are the same also. Partner's 2\H bid is a signoff bid, often called a "drop dead" bid. So even though you really like the \Hs you pass. }
 

@@ -1,0 +1,115 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Finesse
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Finessing"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KT543.6.832.K974 A.KJ98742.QJ.AJT QJ97.T53.AKT6.Q6 862.AQ.9754.8532"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+pass 1H pass 1NT pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7a4b5f8896af3d27c29406312f8c39fbbfa9c3d564f2374398e5f9432186db12"]
+[Category "Declarer Play"]
+[Difficulty "beginner"]
+[SkillPath "declarer_play/finessing"]
+[Student "S"]
+{South is to play 4\H. West leads the \DA. The defenders take two \D tricks, then switch to a trump.
+
+Losers:   \S=0  \H=0  \D=2  \C=2  Total = 4
+
+The status is pretty clear, you've already lost the 2 \Ds so you have to keep your \C losers to just one. You have a good chance of pulling that off by playing for the \CK and \CQ to lie in different hands and taking two finesses.
+
+But you will only be in dummy once more so you <b>MUST</b> make the first finesse right now. Play a small \C from dummy and play the \CT. West wins with the \CQ and plays another trump.
+
+  In dummy for the last time you must now take your second \C finesse. You play a small \C to your \CJ. When the \CJ wins you pull any leftover trumps and your hand is good.
+
+This Deal is an excellent example of how and when to use the Double-Finesse, which gives you a 75% chance of success.
+
+It was probably a better example of watching your entries. If you had pulled another trump before taking that first \C finesse you would not have been able to take the second one.}
+[Play "W"]DA
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:JT92.T98.4.AJ953 AQ5.AK75.KQ9863. K86.Q432.5.KQT42 743.J6.AJT72.876"]
+[Declarer "S"]
+[Contract "6D"]
+[Result ""]
+[Auction "E"]
+pass 1D pass 2D pass 3H pass 5D pass 6D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d3dd1a504cc04a7e2376174b93348d9430dac52b8f93c0fe53ec83cef791f3eb"]
+[Category "Declarer Play"]
+[Difficulty "beginner"]
+[SkillPath "declarer_play/finessing"]
+[Student "S"]
+{South is to play 6\D. West leads the \CK.
+
+Losers:   \S=2  \H=2  \D=0  \C=0  Total = 4
+
+You don't really have 2 \H losers since both of them can be ruffed in dummy. The 2 \S losers are real, though, and must be dealt with. If East holds the \SK then a simple finesse will win the contract for you. A 50% chance. But there is more to this Deal than a simple finesse, look at it carefully.
+
+In addition to the trumps, dummy has another useful card, the \HJ. You can give yourself a second chance by playing West to hold the \HQ.
+
+Ruff the opening \C lead, pull trumps with the \DK, (they split 1-1), and play a low \H toward the \HJ. West fidgets, then puts on the \HQ and plays another \C which you ruff.
+
+You are in control now. You play a \H to dummy's \HJ, then a \S back to your \SA. Discard dummy's 2 \S losers on the \H A K and claim your slam.
+
+Suppose that it was East who held the \HQ. Your \HJ would have been taken and you wouldn't get the two \S discards.
+
+Then you would have to rely on the \S finesse after all. You'd be no worse off because you could still discard one of dummy's \Ss on a big \H.
+
+This method of play gave you two chances instead of just one.}
+[Play "W"]CK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ53.AJ8.KQ.AT72 T982.Q63.953.843 KJ7.K7.AJT8.KJ96 64.T9542.7642.Q5"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 4C pass 4NT pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ed278faaa2a8a23313458dea52955ab03e30d972c1f6da07d12c4bebd957b463"]
+[Category "Declarer Play"]
+[Difficulty "beginner"]
+[SkillPath "declarer_play/finessing"]
+[Student "S"]
+{South is to play 7NT. West leads the \ST.
+
+Winners:   \S=4  \H=2  \D=4  \C=2  Total = 12
+
+A. Conan Doyle would have called this "The Tale of Two Queens". You need to find one more trick and to do so you are going to have to find either the \HQ or the \CQ. You can finesse East for the \HQ, and you can finesse either defender for the \CQ.
+
+So which will you choose?
+
+Neither, yet. First take your 8 winners in \Ss and \Ds, hoping somebody discards something to help you. They don't.
+
+Now play the \CA, then \CK, hoping the \CQ falls. If she does you have your thirteenth trick in \Cs. If she doesn't you take the \HK then finesse East for the \HQ. Two chances.
+
+As you see, the \H finesse would have failed. You might have guessed the \CQ correctly, but you might not have.
+
+It always pays to look for a second chance. Here you try to drop the \CQ, and if it doesn't work you have the finesse for the \HQ in reserve. 
+
+Why not try to drop the \HQ and keep the finesse for the \CQ in reserve? Because you and dummy had 8 \Cs between you and only 6 \Hs. So the \CQ was far more likely to be doubleton than the \HQ.}
+[Play "W"]ST
+

@@ -1,0 +1,73 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKJ7.87.976.KQ54 843.Q64.JT32.987 Q962.AK53.84.A62 T5.JT92.AKQ5.JT3"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1C 1D X pass 1S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4c074f5d27564f65fae810afca3f05f1ff8ebb9586489112006632894f91fbcc"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has both Majors and planned on bidding 1\H first, (up-the-line). 
+But WEST's overcall gave NORTH the opportunity to bid both Majors at the same time! Since the 
+Negative Double promises both Majors it was like NORTH could bid 1\H\S.
+
+SOUTH has \Ss so she bids 1\S, showing a minimum opener.
+
+NORTH has 13 points and the \S fit so he bids game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q97.J87.AK6.KJT4 JT8.K62.JT43.A95 AK62.AT93.97.Q82 543.Q54.Q852.763"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1C 1D X pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e31d6f44bc04a7c6519f30c4ff7ba2caeaea10f3def3874a6749f971eb23e118"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has 13 points and four cards in both \Hs and \Ss. Rather 
+than bid one of them she makes a Negative Double, promising four cards in EACH of them. It's like 
+she was able to bid 1\H\S.
+
+SOUTH doesn't have four cards in either Major, but with a \D stopper he bids 1NT.
+
+NORTH happily bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ7.87.976.KQ54 T84.J932.QJ32.J7 Q962.AK5.84.A632 53.QT64.AKT5.T98"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1C 1D 1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

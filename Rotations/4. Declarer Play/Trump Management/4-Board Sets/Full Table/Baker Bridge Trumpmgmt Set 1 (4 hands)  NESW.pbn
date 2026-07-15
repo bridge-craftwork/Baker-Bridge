@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Trumpmgmt
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Trump Management"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "8bac2ae5a863a61d71607f692656e9d25357f727fe02c2a24db63eac3ab39b69"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -40,9 +42,9 @@ Clear thinking is important, too. Can you imagine any Bridge player in the West 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "W"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "W:QT2.62.A874.8653 7.A8543.QT32.K72 AKJ963.QT7.K6.A9 854.KJ9.J95.QJT4"]
 [Declarer "E"]
 [Contract "4S"]
@@ -50,7 +52,8 @@ Clear thinking is important, too. Can you imagine any Bridge player in the West 
 [Auction "W"]
 pass pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "8877c3b313768ea6a3ed5c634060b917d30dd836b4dbc4d3de596e96bdbf32b0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -69,74 +72,4 @@ At the first hint that you might be thinking of ruffing losers in dummy the defe
 
 So you must stay a jump ahead of them. In this Deal the only way they could have gotten the jump on you would have been with a trump opening lead.}
 [Play "W"]CQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KQ4.QJT532.A5.A2 JT5.97.932.KJ964 8732.AK.J864.753 A96.864.KQT7.QT8"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1H pass 1NT pass 3H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/trump_management"]
-[Student "S"]
-{South is to play 4\H. West leads the \H7.
-
-Losers:   \S=2  \H=0  \D=1  \C=1  Total = 4
-
-You need to find East with the \SA to avoid two losers in the suit. But even if he has the card you must still be careful. You are in dummy right now, and you are only going to be in dummy once more. 
-
-Right now you must lead a \S toward your hand and put up the \SK when East plays low. When this wins the trick return to dummy with a trump and play another \S toward the \SQ. When this also wins you can pull trumps, not before.
-
-It may go against the grain not to start pulling trumps immediately, but the urgency to remove the enemy trumps must be weighed against the best plan for the hand as a whole.
-
-Here there was no realistic hope of making this contract without playing twice toward your \S K Q.}
-[Play "W"]H7
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:8.KQ5.KJ9852.A62 J652.T84.A3.T983 KQ7.A63.QT64.QJ5 AT943.J972.7.K74"]
-[Declarer "W"]
-[Contract "5D"]
-[Result ""]
-[Auction "W"]
-1D pass 2NT pass 3D pass 5D pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/trump_management"]
-[Student "S"]
-{West is to play 5\D. North leads the \CT. You play dummy's \CJ and South puts on the \CK.
-
-Losers:   \S=1  \H=0  \D=1  \C=1  Total = 3
-
-The \S loser and \D loser are "fast" losers, meaning your opponents can take them whenever they are in the lead. The \C loser is a "slow" loser, meaning you might have some time to dispose of it.
-
-But here is the problem. If you start to draw trumps, a defender will take the \DA and play another \C, forcing out your \CQ. Then, when you play a \S they will jump in with the \SA and take their \C trick. Anything you can think of to do about that? 
-
-Once you recognize the problem, the solution is easier to see. Don't play trumps next!
-
-Instead, win the first trick and immediately play your \S toward dummy's \S K Q. A defender will probably take this trick but you don't care. They will play another \C to try to set up a trick in the suit but you can win the \C, enter dummy with the \HA, and discard your "slow" \C loser on dummy's good \S honor.
-
-And then, with that important job done, you can lead trumps.
-
-Bridge is a game of timing, and sometimes the tempo of the game is set by the opening lead.
-
-Suppose North's opening lead was a \S, a \H or a \D. You would have still had the same 3 losers, but now the \C loser would have been "very slow". So slow that you could start on trumps before working on the \Ss.
-
-In other words, with one of these opening leads a mediocre player, one who had never read this lesson, would probably make the contract without any trouble. But with the \C lead only a skilled declarer would make it!}
-[Play "W"]CT
 

@@ -1,14 +1,16 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
 [Event "Baker Bridge - Blackwood"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:9.QJT75.AKQ3.KQ4 QJT86.A6.96.JT72 AK.K942.JT85.863 75432.83.742.A95"]
+[Deal "N:9.QJT75.AKQ3.KQ4 QT873.83.42.JT97 AK.K942.JT85.863 J6542.A6.976.A52"]
 [Declarer "N"]
 [Contract "5H"]
 [Result ""]
@@ -16,6 +18,7 @@
 1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2040b56196b5a571d6f0ac00d87c7dd87e4bdcc8b5200ecfd0104f8e73a8fa01"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -27,17 +30,18 @@ The Blackwood response for 1 Ace is 5\D. Partner evidently was hoping for 2, and
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "E:A32.J8543.72.T85 QJ8.KQ2.AT986.A9 T764.T96.J54.732 K95.A7.KQ3.KQJ64"]
+[Deal "E:AT73.654.J75.T53 QJ8.KQ2.AT986.A9 642.JT983.42.872 K95.A7.KQ3.KQJ64"]
 [Declarer "S"]
 [Contract "6NT"]
 [Result ""]
 [Auction "E"]
 pass 1NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ff0af7ad3ba6b51f18c0809e3bc3ec63504374beb631d4b6b42dc78bdb2b17a5"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -45,50 +49,4 @@ pass 1NT pass 4C pass 4S pass 6NT pass pass pass
 {Your 1NT bid showed 15-17 points and a balanced hand. Decide how you would answer partner's Gerber 4\C, then click on <b>BID</b> above. 
 
 The Gerber response to show 2 Aces is 4\S. So you bid 4\S and partner jumps to 6NT, which you pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AQJ.QJT5.975.KQJ 97532.864.A.9642 K8.K2.KQJT843.A3 T64.A973.62.T875"]
-[Declarer "N"]
-[Contract "4NT"]
-[Result ""]
-[Auction "N"]
-1NT pass 4C pass 4H pass 4NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/blackwood"]
-[Student "S"]
-{Very interesting! If partner's 1NT bid happens to include 3 Aces and one King you can count 13 tricks! So you bid 4\C, definitely Gerber following the 1NT opening. Partner answers 4\H. What do you say next? 
-
-You almost refuse to believe it! How can partner have a 1NT opener with only 1 Ace? But you trust your partner so you bid 4NT. Everybody passes and you stare in amazement at partner's 16 points.
-
-Wouldn't it have been funny if partner had thought your 4\C bid was Stayman? And so his 4\H bid would have been showing a suit. And then your 4NT bid would have been Blackwood. And then he would have answered 5\D and you would have passed and made it!}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "None"]
-[Deal "E:5432.984.A75.875 A98.KQJT.KJ6.AQ3 JT6.732.942.T962 KQ7.A65.QT83.KJ4"]
-[Declarer "S"]
-[Contract "6NT"]
-[Result ""]
-[Auction "E"]
-pass 2NT pass 4C pass 4S pass 6NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/blackwood"]
-[Student "S"]
-{With a 20 point balanced hand you open 2NT. What do you rebid after partner jumps to 4\C? 
-
-The 4\C bid is Gerber and your correct response with 2 Aces is 4\S. Partner now bids 6NT and since he is the Captain you pass.}
 

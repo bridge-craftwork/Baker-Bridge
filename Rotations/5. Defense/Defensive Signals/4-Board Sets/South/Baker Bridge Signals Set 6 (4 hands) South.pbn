@@ -1,0 +1,66 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Signals
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
+[Event "Baker Bridge - Defensive Signals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A.AKJ872.JT5.T53 J863.T6.AK84.872 KQ752.Q4.963.K96 T94.953.Q72.AQJ4"]
+[Declarer "S"]
+[Contract "2H"]
+[Result ""]
+[Auction "S"]
+1H pass 1S pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "422e5511d97bc0eb8b7573ff1dfd0e8fec5bb4ebb3d1eb58bcbff795fa5193af"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/defensive_signals"]
+[Student "E"]
+{[showcards W:DA N:D3]
+
+You are East. The bidding has been as shown. Partner led the \DA, dummy played the \D3 
+
+Play the \D2.
+
+You know partner also has the \DK, and normally you would give an encouraging signal when you hold the Queen. But with this hand you want partner to switch to \Cs as soon as possible. So you play a low \D.
+
+West looks at your signal, then looks at dummy, then looks at your signal. He knows you want a switch and it looks like a switch to \Cs might work the best. South plays a low \C from dummy, you win the \CJ. Next you play a low \D, taken by West with his \DK. West leads a \C. Dummy plays the \CK, you win that, cash another \C, then cash your \DQ. That first signal led to your side winning the first 6 tricks. Wow.}
+[Play "W"]DA
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ752.95.K5.AT4 964.AK72.A863.95 AT3.T6.972.KQJ32 8.QJ843.QJT4.876"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7b18ffc4410cff2fe0bbe7914420a703fc3c1028e080b2b81593f8f582c7168f"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/defensive_signals"]
+[Student "W"]
+{[showcards W:HA E:HQ S:H5 N:H6]
+
+You are West. The bidding has been as shown. You led the \HA, East puts on the \HQ. It's your play. 
+
+Play the \H2.
+
+East's \HQ is either a singleton, (practically impossible), or a signal showing that he also holds the \HJ. In either case you can reach the East hand on the second trick by playing a low \H. Since you don't particularly want to start playing \Ds from your side, you go ahead and play a small \H, won by East with the \HJ.
+
+East next plays the \DQ and however South tries it your side will take the next two \D tricks and set the contract.}
+[Play "W"]HA
+

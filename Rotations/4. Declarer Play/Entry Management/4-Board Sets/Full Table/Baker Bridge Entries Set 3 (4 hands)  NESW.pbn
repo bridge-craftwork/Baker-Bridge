@@ -1,144 +1,73 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Entry Management"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:.A52.AK6.AKQJ754 J862.Q98.QJT2.T3 AKQ73.764.853.98 T954.KJT3.974.62"]
+[Deal "S:A6.AK2.AQ73.Q875 QT8.JT53.K92.JT3 743.976.85.AK642 KJ952.Q84.JT64.9"]
 [Declarer "N"]
-[Contract "6C"]
+[Contract "3NT"]
 [Result ""]
-[Auction "N"]
-2C pass 2S pass 3C pass 3NT pass 6C pass pass pass
+[Auction "S"]
+1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a09196dbcc3807d38692eaca4d776603578e49c6864729358e2a9d4c2077fcf2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{North is to play 6\C. East leads the \DQ.
+{North is to play 3NT. East leads the \S5. 
 
-Losers:   \S=0  \H=2  \D=1  \C=0  Total = 3
+Winners:   \S=1  \H=2  \D=1  \C=5  Total = 9
 
-Partner's hand didn't turn out to be what you hoped for, you had in mind maybe the \HK and \DQ.
+Wow! The winners add up to 9 already. We have assumed that \Cs will split no worse than 3-1, which is exactly how they do split. Is there any other pitfall you might need to worry about?
 
-But this is what you got. First, be thankful East led a \D rather than a \H. Second, see if you can find a way to fight yourself over to dummy and those three beautiful \Ss.
+Just one minor problem. The \Cs will block if you are not careful! So you win the \SA, then play dummy's \CQ. Next you play dummy's \C8 to your \CK. Then your \CA on which you put dummy's \C7. Aha! Now when you play your \C6 you will be able to keep the lead.
 
-You have two possibilities for a \C entry, but you can only try one of them as you will see.
+If the \C5 and \C6 were swapped around the contract could not be made.
 
-You can play a high \C and hope somebody plays the singleton \CT. Then your \C9 would be an entry. If this works you would probably make all 13 tricks, but the chances are very slim.
-
-You can play a low \C to dummy's \C8. Assuming a defender takes the \CT you can win his return and enter dummy with the \C9. This play is guaranteed to give you the entry and is the one you should choose.
-
-Just in case you were wondering about the chances of that singleton \CT, here is how you would figure it out.
-
-When you are missing 4 cards the probability of a 3-1 split is about 50%.
-
-But the singleton can be any one of four cards - in this case it can be the \CT, \C6, \C3 or \C2. So the chance of one of the opponents holding specifically the singleton \CT is only one-fourth of 50%, about 12.5%.}
-[Play "W"]DQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:83.AKJ987.KT43.A AKJ74.3.J982.T62 9.QT4.65.KQJ8753 QT652.652.AQ7.94"]
-[Declarer "E"]
-[Contract "4H"]
-[Result ""]
-[Auction "E"]
-1H pass 2C pass 3H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/entry_management"]
-[Student "S"]
-{East is to play 4\H. South leads the \SA, then \SK.
-
-Losers:   \S = 1    \H = 0  \D = 3?    \C = 0 Total = 4?
-
-This is the kind of hand that can get really messy if you aren't careful. You could ruff the \S, then try to ruff some \Ds, but the defense can prevent you by leading trumps when you give up the \D tricks. 
-
-All in all a much better plan is to use dummy's \C suit after you unblock the Ace. The only flaw with that idea is that when you ruff the \S, unblock the \CA, then play two rounds of trumps ending in dummy, there will still be a trump left out. And the defender might ruff a \C before you can take the discards you need. Do you see a way around this?
-
-Do NOT ruff the second \S in dummy, just discard a \D. If South plays a third \S you will ruff in your hand, then unblock the \CA, then pull trumps in 3 rounds ending in dummy. And run all those \C tricks. If South plays a trump or a \C the result will be the same. The defense can get one \D trick if they take it right now, but you still make your contract.
-
-It is an important concept. When you have to use a trump as a later entry you could thwart your own plan by ruffing.}
-[Play "W"]SA
+As they are, though, the contract is cold. But only if you are a good bridge player!}
+[Play "W"]S5
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:A82.AK6.AQJ7.K62 T653.Q74.T8.J953 Q74.J53.6542.QT7 KJ9.T982.K93.A84"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/entry_management"]
-[Student "S"]
-{South is to play 3NT. West leads the \C3, East plays the \CA.
-
-Winners:   \S=1  \H=2  \D=1  \C=2  Total = 6
-
-You have the possibility of one additional \S winner if West holds the \SK. However, \Ds is your best suit and if East holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?
-
-Well, you probably do. West's small \C lead probably indicates an honor, and with East playing the \CA you can be pretty sure that West holds the \CJ. So by playing your \CK underneath the \CA you set up a second entry to dummy via the \C finesse.
-
-Assume East now plays a \H. Take your \HA and play a \C to dummy's \CT. Lead a \D and finesse the \DJ, which holds. Play another \C to dummy and finesse another \D. Now play your \DA and smile when the \DK drops and your fourth \D becomes a winner.
-
-As soon as East put up the \CA you knew you could win 2 \C tricks.
-
-By unblocking the \CK you were still pretty confident that you would get the two tricks, but the bonus was in the extra dummy entry your unblock created.}
-[Play "W"]C3
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
 [Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:KT983.KJ.K73.AT2 752.T853.AJ952.6 QJ.AQ6.84.QJ9853 A64.9742.QT6.K74"]
-[Declarer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQ9.A753.AJ64.AK 63.JT982.QT2.974 KJ4.Q6.853.JT632 T8752.K4.K97.Q85"]
+[Declarer "E"]
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1S pass 2C pass 2NT pass 3NT pass pass pass
+2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "1af76f1cd66b5571aa9b5bd23b1006feb2bc1b1d30c19621a1d32bbecb03b7a3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{West is to play 3NT. North leads the \D5, South plays the \DQ.
+{East is to play 3NT. South leads the \S5. 
 
-Winners:   \S=0  \H=3  \D=1  \C=1  Total = 5
+Winners:   \S=3  \H=1  \D=1  \C=2  Total = 7
 
-You must take the \DK right now or you might lose the first 5 tricks.
+Needing two winners you will naturally consider your 5-card \C suit. After unblocking the \C A K you will need two entries to your hand; one to lead the \CJ and drive out the \CQ, then a second to enjoy your good \Cs.
 
-It's a shame about that solid \S suit, but if you try to win even a single \S they will grab the \SA and win enough \D tricks to set the contract.
+The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?
 
-So you are going to have to win a lot of \C tricks, and do so without losing the lead. You need dummy entries, and they must be in \Hs.
+No, for two reasons. Firstly the \HQ only gives you a 50% chance of being an entry. But more importantly, you already have your two sure entries in \Ss. As long as you take the first trick with dummy's \SA both your \SK and  \SJ can be entries.
 
-Win the \DK. Play the \HJ to dummy's \HQ. Play the \CQ and when South follows with a low card let it ride. Still in dummy, play the \CJ, again letting it ride when South plays low. Play one more \C to your \CA, picking up South's \CK this time.
+Win the \SA. Play off dummy's \C A K. Lead the \S9 to your \SJ. Play your \CJ (and another one if necessary) to establish the \C suit. Win whatever red card they play next with dummy's Ace. Play the \SQ to your \SK and cash your established ! C(s). Dummy's other red Ace will be your ninth trick.
 
-The \C suit is ready to run, so play your \HK to dummy's \HA and take your \C winners. You took 9 tricks in all, the \DK, the \H A Q and all 6 \Cs.
+The more you make a point of looking for entries the easier they are to find.
 
-You started with 3 \H winners, but had to sacrifice one of them to get the second entry to dummy.
-
-Since it gave you all 6 \C tricks the sacrifice was well worth it.}
-[Play "W"]D5
+You'd have to be very careless to miss this one.}
+[Play "W"]S5
 

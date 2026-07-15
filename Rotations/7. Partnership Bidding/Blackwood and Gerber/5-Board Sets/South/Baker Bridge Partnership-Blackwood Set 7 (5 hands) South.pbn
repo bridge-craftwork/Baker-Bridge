@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A876.QJ7.AJ3.A82 T53.A432.QT92.93 KQJ4.K6.K4.KQJT5 92.T985.8765.764"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 4C pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "29d0c5bf70eb54a7e52dc4b5544acc19589d342dc8c1fa9e16454a2d9b6b928c"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{When SOUTH opens 1NT NORTH hopes his hand includes all four Aces so she can bid 7NT. 
+So she uses Gerber to find out.
+
+But, when she discovers they are missing an Ace she settles for 6NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AK.AQT96.AQJ3.AK QJT6.82.952.J985 972.KJ53.K7.7642 8543.74.T864.QT3"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5NT pass 6H pass 7NT all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4f41e58d21ba776770863561e51e2ae03911f3ed9a01cba4fc28db565fb71e61"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH has a pretty good hand, and when NORTH shows \H support she naturally 
+thinks about slam.
+
+She has all four Aces but she wants to know about Kings. Unfortunately she can't start at 5NT because that 
+has a different meaning, so she goes through the 4NT sequence even though she already knows the Ace answer.
+
+Finding NORTH with two Kings was what she wanted.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K7.K9.AQJT4.AQJ7 J843.J762.63.T93 A62.AT4.K75.K862 QT95.Q853.982.54"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result ""]
+[Auction "N"]
+1D pass 2NT pass 4C pass 4S pass 5C pass 5S pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]

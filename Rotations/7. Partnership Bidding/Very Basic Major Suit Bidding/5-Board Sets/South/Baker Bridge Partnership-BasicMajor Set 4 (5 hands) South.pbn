@@ -1,0 +1,67 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+{SOUTH has a bare minimum 13 point hand, and he should open 1\H.
+
+NORTH has 11 points and good \H support so she jumps to 3\H.
+
+SOUTH knows he has been invited to bid higher, but with nothing above minimum he must pass.}
+
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ.J854.A983.QJ7 KT975.96.T7.A843 863.AKQ72.K6.T95 A42.T3.QJ542.K62"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+pass pass 1H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1daed2889714064afd4433ffc2da9e8decc05a41ca4a61325a6f2436607c00ab"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{NORTH has 11 points and she should pass.
+
+SOUTH has a minimum 1\H opening, 13 points and five trumps.
+
+NORTH, with 4-card trump support, jumps to 3\H. 
+(This is called a Limit Raise.)
+
+A Limit Raise is an invitational bid, but SOUTH can add and he knows the total points will 
+be either 24 or 25. So he passes 3\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT73.A42.975.A6 4.T63.QJT4.KQ952 J962.KQ75.83.T74 A85.J98.AK62.J83"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+1S pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "623f26f1ab505ea58267738862d1b3f39632fabca9bfabb43423c4cf6e125434"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{SOUTH has a normal 1\S opening bid, 14 points and five trumps.
+
+NORTH has good 4-card support and 7 points, so she raises to 2\S. 
+
+SOUTH passes, knowing he is not missing a game contract. NORTH can have a maximum of 10 points, which would 
+only reach 24 points when added to his 14.}
+

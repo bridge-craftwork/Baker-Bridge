@@ -1,0 +1,148 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQ.AJT.AK53.A873 98642.852.8.KQ96 AJ3.KQ974.7642.T T75.63.QJT9.J542"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+2NT pass 3D pass 4H pass 4NT pass 5S pass 6H all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "84bf20a8116d759b4994731054acdb5cc90819602ac7228e2f9e637c059b735c"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{You know you may be in slam territory, but first you need to establish trumps. So you bid 3\D as a transfer and almost faint when partner jumps to 4\H, showing a super-accept. Now  
+
+You know you may be in slam territory, but first you need to establish trumps. So you bid 3\D as a transfer and almost faint when partner jumps to 4\H, showing a super-accept. Now 
+
+Check for Aces with Blackwood, partner replies 5\S. What next? 
+
+You know you may be in slam territory, but first you need to establish trumps. So you bid 3\D as a transfer and almost faint when partner jumps to 4\H, showing a super-accept. Now 
+
+Check for Aces with Blackwood, partner replies 5\S. What next?
+
+Partner shows three Aces. You can't consider a Grand Slam, so bid 6\H.
+
+The contract would be 6\H played by South.
+
+North plays 6\H. East leads the \D8, on which West plays the \D9. You win the \DK.
+
+Loser List: \S = 0 : \H = 0 : \D = 2 : \C = 0 :: Total = 2
+
+If you look just at the South and North hands you would think this was a pretty easy slam to make. Pull trumps and play three rounds of \Ds, and as long as the \Ds split 3-2 you make twelve tricks. But when you consider the \D8 opening lead you realize that it won't happen. The missing \Ds are Q J 10 9 and 8. The ONLY combination from which East would lead the \D8 is when he has a singleton. So the \Ds won't be splitting and you need a different plan. 
+
+You need to get a \D discard somewhere, and dummy's third \S will take care of one of <b>YOUR</b> \D losers. But then to establish <b>YOUR</b> hand you are going to have to ruff all 3 \C losers. 
+
+Play the \CA and ruff a \C. Enter your hand with the \H10 and ruff another \C high. Back to your hand with the \HJ and ruff another \C high. Dummy is out of trumps but there is still one more in a defender's hand. So come to your hand with the \SQ and pull the last trump, discarding a \D from dummy.
+
+With all the trumps pulled cash dummy's 2 \Ss and your \DA, then give up a \D at the last trick.
+
+This isn't strictly a dummy-reversal since you actually used your own hand to pull trumps and dummy's trumps for ruffing.
+
+However it's a "role reversal", you pulled trumps with the short-trump hand and took three ruffs in the long-trump hand.
+
+But call it whatever you like, that's the way to make this Deal.}
+[Play "W"]D8
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJ7.KQJT.AQ5.AJ4 T9852.972.83.865 A6.A65.K762.KQT3 K43.843.JT94.972"]
+[Declarer "E"]
+[Contract "7NT"]
+[Result ""]
+[Auction "E"]
+2NT pass 4C pass 4S pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "27cf4ebe407bfdfc7e9dc8f70a0383805f91d2b4d1c2c8091dc9aec7b0b4a005"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{You have 16 points and partner has 20-21. If you bid 7NT right now just because it is something you always wanted to do, then I don't blame you. But if you're cautious you'll use Gerber 4\C. Partner bids 4\S;   
+
+You have 16 points and partner has 20-21. If you bid 7NT right now just because it is something you always wanted to do, then I don't blame you. But if you're cautious you'll use Gerber 4\C. Partner bids 4\S;  
+
+OK, you have all the Aces. You are missing 4 points at most, possibly a King and a Jack, or two Queens. You could continue with Gerber and find out about the Kings, or you could pick between 6NT and 7NT right now. You go for the gusto with 7NT!
+
+The contract would be 7NT played by West.
+
+East plays 7NT. South leads the \ST. Do you play the \SA or a low card?.
+
+Winner List: \S = 1 : \H = 4 : \D = 3 : \C = 4 :: Total = 12
+
+If South has led from \S K 10 9 x, then all you have to do to make this contract is play a low card from dummy. But a decent defender would not make such a risky lead against a 7NT contract, so it is probable that North has the \SK. You rise with the \SA.
+
+You hope the \Ds will split 3-3, but if they don't you still have the possibility of squeezing North if he holds 4 \Ds along with the \SK you have assigned to him. 
+
+If it comes to a squeeze it is important to take your tricks in the correct order. First take 4 \C tricks, discarding the \SJ from your hand. You note that North discards a small \S on the fourth \C.
+
+Next take 4 \H winners, discarding dummy's useless \S6 and keeping all 4 \Ds. On the fourth \H North must come down to a 4-card holding; he must either throw his \SK, (you are happy) or he can throw one of his \Ds, (you are happy). 
+
+This was an automatic squeeze.
+
+That means you didn't have to do anything special, just play your winners in the right order and keep your eyes open to see if the \SK gets discarded. 
+
+Of course if the \Ds were breaking 3-3 all the time you haven't lost anything by playing for the squeeze.}
+[Play "W"]ST
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K5.Q86.AQ73.KQ86 JT43.A3.KJ84.A53 A9862.KJT72.6.42 Q7.954.T952.JT97"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT pass 2H pass 2S pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "666008b457577a8035ccf4bae54b42ec23ebe3b8337baaabf4c2e0d75c39b37a"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner's bid is a transfer asking you to bid 2\S, so you do. Partner now bids 3\H;   
+
+Partner's bid is a transfer asking you to bid 2\S, so you do. Partner now bids 3\H;  
+
+Partner is showing 5-5 in the Majors, with at least invitational strength. It's a close thing, but you decide to accept the invitation and bid 4\H.
+
+The contract would be 4\H played by North.
+
+South plays 4\H. West leads the \CJ. You play the \CQ. East wins with the \CA and plays the \HA then the \H3.
+
+Loser List: \S = 1/2 : \H = 1 : \D = 0 : \C = 1 :: Total = 3/4
+
+East trump play was good defense; it has prevented you from ruffing 2 \Ss in dummy. Even so your best plan will be to establish the \S suit.
+
+So you next play \SK, \SA, then ruff a \S with dummy's \HQ. West does not follow to the third \S. 
+
+Next play \DA and get to your hand by ruffing a \D. Pull the last trump, then give up a \S to East. Win his return, (by ruffing if necessary) and take your established \S winner and dummy's \CK. 
+
+Suppose you had considered taking the \D finesse. It would have done you no good at all.
+
+If it worked, all you could do would be to discard your fifth \S; but that was the \S that turned out to be a winner! 
+
+It was the fourth \S that was a loser, and you couldn't get rid of that one.}
+[Play "W"]CJ
+

@@ -1,128 +1,69 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Opening Leads"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:KQ9.K64.KQT3.742 87543.QT3.A4.JT3 AT2.AJ7.J862.K65 J6.9852.975.AQ98"]
+[Deal "N:AQ6.AQ9.AT7.KQ73 KJ943.653.82.T62 872.K87.KQJ.A854 T5.JT42.96543.J9"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "6NT"]
 [Result ""]
-[Auction "S"]
-1D pass 2NT pass 3NT pass pass pass
+[Auction "N"]
+2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "85f3e08e57b0879fd8c9656e0700f04275c6f702026140a1720d9e6c77e103eb"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{The bidding has been as shown. The contract is 3NT 
+{The bidding has been as shown. The contract is 6NT 
 
-Lead the \H9, the top of nothing.
+Lead the \H6.
 
-Your \Cs are so good that all your instincts tell you to lead the \C8, and perhaps set up 3 winners.
+You held this identical hand in Deal 3. The declarer was playing 3NT and the best lead was the \S4, fourth down.
 
-If you had one more small \Cs your instincts would be right, but with only a 4-card suit you should think a little longer. Three tricks won't set this contract, so you must depend on partner winning something. And if partner is going to win something perhaps he will lead a \C and you might make FOUR tricks in the suit.
+It's different when the conract is 6NT. Against 6NT you should make a passive lead, which means don't underlead any honors. Against 6NT you have little chance of establishing a suit to win four or five tricks. Instead, you just want to try to not give declarer an undeserved trick.
 
-So lead the \H9. You lead a high card so partner won't be tempted to return the suit when he gets the lead. Note that although this lead finesses partner's \HQ, it didn't do anything that declarer wouldn't have done on his own.
+So any passive lead would be OK, you pick the \H just because they are less likely to have an unbid 4-card Major in either hand.
 
-Declarer must play \Ds to get some winners, and when West takes the \DA he will surely switch to the \CJ. Down goes declarer.}
-[Play "W"]H9
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "None"]
-[Deal "E:5.KQ963.K6.KQT96 QJ9762.A854.4.74 A43.JT2.QJT98.AJ KT8.7.A7532.8532"]
-[Declarer "S"]
-[Contract "4SX"]
-[Result ""]
-[Auction "E"]
-1H 2S 3D 3S 4C pass 4H pass pass 4S X pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 4\S doubled 
-
-Lead the \SA.
-
-South's 2\S bid is a Weak-jump Overcall, based on a 6-card \S suit and a weak hand.
-
-Either the \DQ or \HJ would normally be good leads.
-
-But on this deal North/South have clearly sacrificed against your almost certain \H game. Since they don't have enough high-card strength to make this contract declarer is hoping to get some ruffs.
-
-The way to cut down the number of ruffs he can make is to lead a trump at every opportunity.
-
-So take the \SA and then play another \S. Declarer will still be able to ruff one \H in dummy, but will be left with two losing \Hs and will be down 2. Without the two trump plays he could have ruffed all three of his \H losers and actually made the conract.}
-[Play "W"]SA
+Declarer has 11 winners sitting there; if you had led a low \S you would have handed him his 12 trick on a platter.}
+[Play "W"]H6
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:AJ5.AJ9.QJT3.Q84 K873.QT73.75.632 T64.642.K942.AKJ Q92.K85.A86.T975"]
-[Declarer "N"]
-[Contract "3NT"]
-[Result ""]
-[Auction "N"]
-1NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 3NT 
-
-Lead the \H3, fourth highest in an attacking suit.
-
-Sometimes it comes down to just this kind of choice. Do you lead fourth down from \S K 8 7 3 or from \H Q 10 7 3.
-
-The presence of the \H10 bolsters the \H suit enough to give it the edge.
-
-The suits could be arranged something like shown at left. With a \S lead the presence of the \ST in dummy allows declarer to make a second \S trick, which happens to be declarer's ninth trick.
-
-But when you lead the \H3 it does not promote a \H winner for declarer, and left to his own devices, he cannot establish the \S winner.}
-[Play "W"]H3
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:AT.94.KQJ983.KQJ 872.Q8752.T52.63 KQJ954.AJT.6.A52 63.K63.A74.T9874"]
+[Deal "S:JT.KQJ.AQJ987.J5 K854.8652.K62.T2 A2.A97.T53.AKQ76 Q9763.T43.4.9843"]
 [Declarer "S"]
-[Contract "6S"]
+[Contract "6D"]
 [Result ""]
-[Auction "N"]
-1D pass 1S pass 3D pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+[Auction "S"]
+1D pass 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3ab6029ef25bb4601ec1095b52d0a0c4d5c2c519a3910a304aecf0d73ccd5e32"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{The bidding has been as shown. The contract is 6\S 
+{The bidding has been as shown. The contract is 6\D 
 
-Lead the \H3.
+Lead the \S4.
 
-The \CT would probably be a very safe lead. But you don't want "safe", you want "attack".
+Against a notrump slam it is best to make a passive lead so you don't give declarer an undeserved winner.
 
-Dummy has advertised a long, strong \D suit which declarer will no doubt establish for discards.
+Against a suit slam the situation is very different. Against strong dummy bidding like this you are pretty sure that if you don't establish a winner early declarer will find something in dummy to discard losers on. In this hand it is dummy's \C suit.
 
-It is important for your side to create a winner before your \DA is forced out. The most likely looking winner is your \HK. So lead the small \H and hope partner has the Queen. }
-[Play "W"]H3
+Your most promising suit is \Ss. Obviously partner has a very weak hand, but if he has the \SQ you can set up your \SK before your King of trumps is dislodged.
+
+Without a \S lead declarer will have smooth sailing.}
+[Play "W"]S4
 

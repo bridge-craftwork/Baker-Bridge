@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ62.KJ8.A62.K87 T95.A732.J875.JT KJ73.Q95.KT4.Q93 84.T64.Q93.A6542"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "789a2466d448fac6eb4d036062dde95ea65fe9bd989b82ff03133f5fafda02bf"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{Just having a 4-card Major doesn't mean you must automatically use Stayman.
+
+Here SOUTH has a 4-card \S suit, but decides not to seek a 4-4 fit because his 
+hand wouldn't have any ruffing values in a \S contract. He bids 3NT.
+
+Notice that even though NORTH also has four \Ss the 4-4 fit is not useful to them in 
+a \S contract because neither hand can ruff any losers.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ7.KJ54.KQ73.A5 53.T82.952.KJ972 QT864.Q73.A6.T84 A92.A96.JT84.Q63"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 2NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f6c4428d5ee081e84cacac58e985109d1c6fbba8eec80b6c1ce2c8da3ae0b867"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{NORTH has an invitational (9 point) hand with five \Ss.
+
+She bids it in the standard way - first transfer SOUTH to \Ss, then invite 
+the game by bidding 2NT.
+
+SOUTH, with 17 points and three \Ss, accepts the game invitation and chooses 4\S.}
+

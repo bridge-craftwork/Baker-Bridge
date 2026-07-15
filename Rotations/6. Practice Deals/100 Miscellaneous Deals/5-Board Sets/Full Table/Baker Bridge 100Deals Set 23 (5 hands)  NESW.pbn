@@ -1,0 +1,98 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100Deals
+%bridge-classroom-stable: true
+%bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - 100 Miscellaneous Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A64.752.AKQ.KJT3 QJT7.JT9.94.Q865 K853.K6.J653.A72 92.AQ843.T872.94"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "059bf59d05405cbf8ec88b3cbc469fdb400bdb666eac1c7690fef69eb9212691"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{Balanced, 17 points. You open 1NT. Partner's response is 2\C.  
+
+Partner's 2\C is Stayman. You have no 4-card Major to show so you bid 2\D. Partner now says 3NT and you pass.
+
+North plays 3NT. East leads \SQ.
+
+<b>North plays 3NT. East leads \SQ.</b>
+
+Winners: \S 2 : \H 0 : \D 4 : \C 2 : Total = 8
+
+The only thing better than being good is being lucky! You are very lucky that you didn't get a \H lead - now you must take advantage of your good luck.
+
+You only need one more winner, and the \C suit is your best bet. You can finesse either defender for the \CQ so naturally you will finesse East. You dare not let East get into the lead since he can lead through dummy's \HK. If West gets the lead with the \CQ, he cannot hurt you.
+
+Win the first trick with the \SA. (<b>DO NOT HOLD UP, EAST MAY SWITCH</b>). Play the \CK then \CJ, letting it ride if not covered. West can win the \CQ but cannot lead a \H without giving you a trick. You win whatever else he returns and make your 9 tricks. Of course you must be careful to unblock the \D A K Q while you still have a dummy entry to the \DJ.
+
+This is another hand where you want to keep a particular defender off lead. In this hand it is East who is the Danger hand.
+
+Be on the lookout for this type of situation because many times you have a finesse that can be made either way. So you finesse into the Safe hand.}
+[Play "W"]SQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:85.QJT9742.5.KJ8 KQJT743.5.Q3.Q75 A962.A8.A876.A43 .K63.KJT942.T962"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+3H 3S 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "4b1b71b88cb7419a654b3e29d0939abefdc467761e849bac87cd4d6345991d12"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You estimate your hand has 6 playing tricks. That is reasonable for a preemptive 3\H bid. South overcalls 3\S and partner bids 4\H. Everybody passes.
+
+East plays 4\H. South leads the \SK.
+
+<b>East plays 4\H. South leads the \SK.</b>
+
+Losers: \S 1 : \H 1 : \D 0 : \C 1 : Total = 3
+
+This looks way too easy. If the \H finesse works and the \C finesse works you could make 6. It is when things look too easy that you should look for danger! What if you play the \SA and North ruffs. What if North also gets a trick with the \HK and South gets a trick with the \CQ. What with your \S loser you would be down 1.
+
+South probably has a 7-card suit to overcall at the 3-level, so if you play the \SA North will ruff and one of your winners will disappear. So don't play the \SA. Duck and let South win the trick while North shows out as expected. South will lead the \SQ and you duck again. So South will lead the \SJ and you duck one more time, but now you can ruff in your hand.
+
+Lead your \HQ and finesse, North winning the \HK. North will probably return a \D which you win in dummy. Play the \HA. Then ruff a \D to get back to your hand and pull any trumps left out. Play a \C to dummy's \CA and at long last play dummy's \SA and discard your \C loser.
+
+You always had 10 winners in this hand, as long as one of them didn't disappear.
+
+To make sure the \SA didn't disappear you had to hold it until North no longer had a trump. }
+[Play "W"]SK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ.AK.AKQT2.JT76 652.QT73.7.A8532 K873.J842.963.KQ JT94.965.J854.94"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 4C pass 4D pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

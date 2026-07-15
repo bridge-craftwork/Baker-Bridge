@@ -1,98 +1,56 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
+%bridge-classroom-stable: true
+%bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids; plain Blackwood
 [Event "Baker Bridge - Jacoby 2NT / Splinters"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:K92.AKQ74.7.A963 QJT6.T2.T852.K52 A75.J9865.AK93.7 843.3.QJ64.QJT84"]
-[Declarer "N"]
-[Contract "6H"]
-[Result ""]
-[Auction "N"]
-1H pass 4C pass 4NT pass 5H pass 6H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/jacoby_2nt_splinters"]
-[Student "S"]
-{Partner's Splinter Bid in \Cs has really made your hand look good. With no losers in trumps or \Cs you need to find out about the other two suits. So you invoke Blackwood and partner replies 5\H.  
-
-If partner can take care of your three \C losers you will have just one \S loser at most. So you bid 6\H. Maybe you should have bid 7\H.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
 [Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:AK874.6.KJ62.QJ6 J32.AT9743.T97.4 QT95.KQ.AQ3.9875 6.J852.854.AKT32"]
-[Declarer "S"]
-[Contract "4S"]
+[Vulnerable "None"]
+[Deal "S:KJ98752.KQ3.AK.8 4.J542.953.KJT72 AQ63.A9.T87.A964 T.T876.QJ642.Q53"]
+[Declarer "N"]
+[Contract "7NT"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3H pass 4D pass 4S pass pass pass
+1S pass 2NT pass 4NT pass 5S pass 7NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a7c732f2b06d2a843273210e3160b61149797324ed941985815ef091ada7fa74"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Following your Jacoby 2NT response, partner bids 3\H, showing a singleton. What is your next bid? 
+{Partner has at least opening hand and he has 4 \Ss. There is only one thing you need to know - how many Aces he has. You bid Blackwood 4NT and he responds 5\S. What is your next bid? 
 
-Your \H holding hasn't been enhanced by partner's singleton. You feel like just signing off at 4\S but since you can show the \D control below that level you bid 4\D. It didn't matter since partner now signs off at 4\S.}
+The three Aces does it for you. You can count 7 \S tricks, 3 \H tricks, 2 \D tricks and 1 \C. That is 13 total so you go ahead and bid 7NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:QJ.AQ8643.KQ.KJ5 T865.T72.AT74.62 AK3.KJ95.J3.QT87 9742..98652.A943"]
-[Declarer "N"]
-[Contract "5H"]
-[Result ""]
-[Auction "N"]
-1H pass 2NT pass 3H pass 3S pass 4NT pass 5D pass 5H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/jacoby_2nt_splinters"]
-[Student "S"]
-{You have a great hand, but no singleton to show. Since you have a 6-card \H suit you bid 3\H. Partner replies 3\S.  
-
-Partner has control-bid the \SA. He may also have one or both of the Minor Aces since he would have bid the cheapest control first. You use Blackwood. He replies 5\D.  
-
-Oops. Despite all the points you are missing two Aces. So you thank Mr. Blackwood and sign off at 5\H.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
 [Dealer "S"]
-[Vulnerable "All"]
-[Deal "S:AQ853.5.AJT72.63 J4.QT6.6.QT98742 K9762.AK74.KQ8.K T.J9832.9543.AJ5"]
+[Vulnerable "EW"]
+[Deal "S:765.AJT96.KQ.A65 AT842.32.643.QJ9 9.KQ85.A972.K743 KQJ3.74.JT85.T82"]
 [Declarer "S"]
-[Contract "6S"]
+[Contract "6H"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 4D pass 4NT pass 5H pass 6S pass pass pass
+1H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "acad6ab884b40bfeaee635b2419101854028e7cb3cf89b6a5bc8a610fcfe9166"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{You don't want to make a Splinter Bid with a singleton King so you content yourself with a Jacoby 2NT bid. Partner rebids 4\D. What do you say next? 
+{You have an opening hand with four of partner's Major suit so naturally you want to force to game. Although you could bid a Jacoby 2NT, the presence of the singleton \S makes a Splinter Bid more attractive. So you double-jump to 3\S. Partner now bids 4\C. What do you say next? 
 
-The 4\D bid shows a 5-card \D suit. What you need to know now is how many Aces partner has. You bid 4NT and he answers 5\H.  
+Partner's 4\C bid is control showing, and indicates he is thinking slammish. You bid 4\D showing your control and partner bids 6\H.
 
-He has two Aces so you bid 6\S.}
+As you can see, South should make 12 tricks by discarding one \C loser on your \DA.}
 
 [Event ""]
 [Site ""]
@@ -100,19 +58,11 @@ He has two Aces so you bid 6\S.}
 [Board "5"]
 [Dealer "N"]
 [Vulnerable "NS"]
-[Deal "N:AQ975.JT.KQ5.KQT T2.A9643.976.832 KJ64.KQ5.J4.AJ95 83.872.AT832.764"]
+[Deal "N:KQ987.A96.KT5.53 32.QT4.QJ.AQJT82 A654.K52.A86.974 JT.J873.97432.K6"]
 [Declarer "N"]
-[Contract "4S"]
+[Contract "3S"]
 [Result ""]
 [Auction "N"]
-1S pass 2NT pass 3NT pass 4C pass 4S pass pass pass
+1S 2C 3C pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/jacoby_2nt_splinters"]
-[Student "S"]
-{With 18 points you want to show your extra strength. Since you have only 5 trumps you show the strength by bidding 3NT. Partner then bids 4\C. What do you say next? 
-
-Now is the time when <b>YOU</b> would make a control bid. And if you had either red Ace you would do so. Since you don't have one, you have no option but to say 4\S. Partner recognizes that you are off those two Aces and passes.}
-

@@ -1,108 +1,60 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:K93.AT6.A9862.K9 T7.QJ43.KJ7.QJ32 AQJ652.K82.Q.A85 84.975.T543.T764"]
+[Deal "S:6.KQ872.KQ.AK963 98532.T543.JT.54 KQ7.J6.A64.QJT87 AJT4.A9.987532.2"]
 [Declarer "N"]
-[Contract "6S"]
+[Contract "5C"]
 [Result ""]
 [Auction "S"]
-1NT pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+1H pass 2C pass 4NT pass 5C pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "848f3dfd7030e201a38c38eb6f7cbda94962701642615a920c8f8d50b874ec8f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{When NORTH makes a slam try with a jump to 3\S, the best approach for SOUTH is to agree on 
-the trump suit immediately but indicate a minimum hand by bidding 4\S. 
+{This is the companion to Deal 6. The cards are the same except that the 
+\Ds and \Cs have been swapped.
 
-NORTH's next move is logical; RKCB 4NT.
+Again, SOUTH has no problem as long as NORTH holds at least one Key-card. 
+When NORTH responds 5\C, (showing one Key-card), SOUTH can pass. 
 
-SOUTH shows zero or three Key Cards, and since it could not possibly be zero, NORTH knows they are 
-the \SK and both red Aces. Even possessing all the Key Cards NORTH knows there aren't 
-enough points for a Grand slam.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "W"]
-[Vulnerable "NS"]
-[Deal "W:95.AK98742.73.87 8732.T5.T94.KQJ5 AK.QJ3.AKQ5.A962 QJT64.6.J862.T43"]
-[Declarer "E"]
-[Contract "7NT"]
-[Result ""]
-[Auction "W"]
-3H pass 4NT pass 5H pass 7NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{It is usually not recommended to use any form of Blackwood when you have a suit with two quick 
-losers, but EAST knows WEST would not preempt with a 10-high \H suit.
-
-WEST's reply to RKCB is 5\H, showing two Key Cards. 
-EAST knows they are the \HA \HK 
-so she can count thirteen tricks.
-
-She bids a confident 7NT (and hopes WEST didn't open 3\H with a 6-card suit.}
+That's what happens here.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:QT875.K6.AK3.AKJ K2.9754.JT65.876 J9643.AQ3.Q7.Q53 A.JT82.9842.T942"]
-[Declarer "S"]
-[Contract "5S"]
+[Deal "E:A96.QJT3.AQJ.QJ9 4.9752.9543.8742 KQJ8752.4.K6.AK5 T3.AK86.T872.T63"]
+[Declarer "E"]
+[Contract "6S"]
 [Result ""]
-[Auction "S"]
-1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
+[Auction "E"]
+1NT pass 4C pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "1de3bd2006e47ebedf09973e7b3732d9a4cbf847760473386accb327543a1829"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{SOUTH has 21 points, and when she hears NORTH make a limit raise she tries for slam with RKCB.
+{WEST needs to know how many Aces EAST holds.
 
-NORTH answers with just one Key Card so SOUTH stops at 5\S, knowing they are missing 
-two Key Cards.
+One way to find out would be to bid 3\S, (which is forcing), then launch Blackwood.
 
-Of course she didn't expect the two missing Key Cards to be the Ace and King of trumps!}
+Another way is to bid 4\C (Gerber) right now.
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:AJ6.K75.KQ53.AJ5 T74.J43.T82.Q743 KQ5.AQ96.764.K96 9832.T82.AJ9.T82"]
-[Declarer "W"]
-[Contract "4NT"]
-[Result ""]
-[Auction "W"]
-1D pass 1H pass 2NT pass 4NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{What is this doing here in the RKCB Practice Pages?
-
-To emphasize that there are many 4NT bids which are NOT asking for Aces.
-
-In this case, WEST showed a balanced hand with 18 or 19 points, and EAST invited him 
-to bid 6NT if he felt his hand was a "maximum". He didn't, so he passed.}
+The first way is probably better but we needed a Gerber example.}
 

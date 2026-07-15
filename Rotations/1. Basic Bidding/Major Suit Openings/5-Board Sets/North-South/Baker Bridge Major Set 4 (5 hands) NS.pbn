@@ -1,128 +1,62 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+{You dealt this hand.  
+
+Of course you open 1\S. Partner responds 2\C. What is your next bid? 
+
+Partner has shown at least 11 points and you are forced to bid again. Since the \Hs rank below \Ss you can bid them with your minimum hand. Apparently that is just what partner wanted to hear since he jumps to 3NT which you happily pass.}
+
 [Event "Baker Bridge - Major Suit Openings"]
 [Site ""]
 [Date ""]
-[Board "1"]
-[Dealer "N"]
+[Board "2"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:75.AKT764.KJ.QJT Q96.2.8753.AK943 AKT8.9853.QT96.8 J432.QJ.A42.7652"]
+[Deal "S:A9753.QJT5.KQJ.7 QJT8.A86.973.J65 62.K973.A84.A983 K4.42.T652.KQT42"]
 [Declarer "N"]
 [Contract "4H"]
 [Result ""]
-[Auction "N"]
-1H pass 3H pass 4H pass pass pass
+[Auction "S"]
+1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 2, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ee3354aed09b7ff6e3ef8dddecbf7f99610f92fd401cdae2afb53e1e0afacfa3"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
 [Student "S"]
-{The bidding has been as shown.  
+{You dealt this hand.  
 
-You could bid 1\S. Many would do so, thinking "I have to show partner my \S suit."
+You open 1\S and partner responds 2\H.  
 
-In fact, you don't have to show partner your \S suit. You already know of a partnership 9-card fit in \Hs, so there is no reason to search for a possible 8-card fit in \Ss.
-
-With 11 points and 4 trumps you bid 3\H, a limit raise. Partner raises to game.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:A962.AKJ74.T5.73 J73.98.K32.KQT54 KQT8.Q6.QJ96.A96 54.T532.A874.J82"]
-[Declarer "S"]
-[Contract "4S"]
-[Result ""]
-[Auction "N"]
-1H pass 1S pass 2S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{The bidding has been as shown.  
-
-You <b>MIGHT</b> jump to 2NT to "show your points". However, a notrump bid now would deny a 4-card \S suit. Instead, your priority is to show that Major, so you respond 1\S. Partner bids 2\S. What do you say next? 
-
-Partner would not support a response which might be 4 cards unless he had 4 himself. Knowing that you have two opening hands facing each other, each containing 4 \Ss, you bid the \S game.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AT975.KQ.KT5.AJ7 J43.AT9853.8.KT2 KQ86.J76.QJ76.96 2.42.A9432.Q8543"]
-[Declarer "N"]
-[Contract "4S"]
-[Result ""]
-[Auction "N"]
-1S pass 2S pass 3S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{The bidding has been as shown.  
-
-With 4-card support you respond 2\S. Partner raises to 3\S. What do you say next? 
-
-Partner's bid is an invitation. You have told him you have 6-10 points and he probably has about 17-18. If you are at the high end of your 6-10 he wants you to bid game, at the low end he wants you to pass. You actually have 10, definitely high end, so you bid 4\S.}
+Partner has shown 11+ points and at least 4 \Hs. Your hand revalues to 16 points in support of \Hs, where you know you have an 8-card fit or better. You bid 4\H confidently.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
 [Dealer "S"]
-[Vulnerable "All"]
-[Deal "S:AT975.KQ.A3.QT43 J42.A98.KT852.J8 KQ86.J76.J76.965 3.T5432.Q94.AK72"]
+[Vulnerable "None"]
+[Deal "S:AKT753.QJ5.KQT.7 J9.T94.J83.AQ963 Q6.K873.A97.T854 842.A62.6542.KJ2"]
 [Declarer "S"]
-[Contract "3S"]
+[Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2S pass 3C pass 3S pass pass pass
+1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "85109fe0d7603c55555706de569dbf433f3a9cd57d9206d7c672eb2220c7770a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
 [Student "S"]
-{The bidding has been as shown.  
+{You dealt this hand.  
 
-With 7 points and good trumps you respond 2\S. Partner now bids 3\C.  
+We all know you will open 1\S with this hand. And after partner responds 1NT what is your next bid? 
 
-Again partner is inviting you to bid game. He wants you to bid it if you are at the top of your 6-10 range, and he wants you to particularly promote any Help you can give him in \Cs.
-
-You are at the bottom of your range and you have no help in \Cs, so you just return to \Ss. Partner passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AK42.AKJ53.J72.T 765.742.654.AKJ2 93.QT6.KQT3.9654 QJT8.98.A98.Q873"]
-[Declarer "N"]
-[Contract "4H"]
-[Result ""]
-[Auction "N"]
-1H pass 2H pass 3D pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{The bidding has been as shown.  
-
-Your only reasonable response is 2\H. Partner now bids 3\D.  
-
-With 8 points you are right in the middle of the 6-10 points you promised. So you could either accept partner's invitation or decline it. BUT, he said you should particularly look at any Help you could provide in \Ds. Since you have lots of good stuff in that suit you upgrade your 8 points and bid 4\H.}
+With 6 of them you can rebid \Ss but you are too strong to say just 2\S. Your 17 points puts you in the Medium range where you make a jump. So you bid 3\S and partner bids 4\S.}
 

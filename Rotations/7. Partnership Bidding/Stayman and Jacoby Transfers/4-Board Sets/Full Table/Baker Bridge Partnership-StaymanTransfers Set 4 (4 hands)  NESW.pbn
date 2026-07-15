@@ -1,0 +1,52 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q63.QT92.A76.AK3 54.K74.JT98.QJ97 AK72.AJ86.53.T84 JT98.53.KQ42.652"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "10d4d51aa4815654bf951c6d7c5fb8c39d4a7f91c1ebe1ff690c431607152280"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH has four cards in each Major suit - this is an ideal situation for Stayman.
+
+NORTH shows a \H suit and SOUTH immediately bids game in that suit.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AQ82.AQ3.KT62.AQ J6.T75.A85.KT742 K974.K862.73.865 T53.J94.QJ94.J93"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+2NT pass 3C pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "c2807b6cd09f09ed126d81455815d3d8ecb677d82ba23030b34d64a65aae3868"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{Stayman convention works just fine after a 2NT opening, just at a higher level.
+
+WEST knows that 6 points will be enough for game opposite EAST's 20-21, she just 
+needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
+

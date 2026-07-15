@@ -1,0 +1,84 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-TwoClub
+%bridge-classroom-stable: true
+%bridge-context: Strong 2C (22+); 2D = waiting/negative
+[Event "Baker Bridge - Strong Two-Club Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ87.AKQ2.AKJ6.6 9642.974.T53.A97 AJT5.85.Q72.KQ53 3.JT63.984.JT842"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+2C pass 2NT pass 3C pass 3S pass 4S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "449caef41a8344b8ee50abdfa17a7fe3ad80161549e9f88b276eb537e49d033b"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{After SOUTH's 2\C opening, NORTH bids 2NT, showing a balanced hand of at least 8 points. NORTH 
+actually has 12 points, but the time to show the extra strength will be later.
+
+SOUTH's 3\C bid is Stayman, asking NORTH for a 4-card Major. NORTH mentions his \Ss and 
+SOUTH bids 4\S, showing a minimum 2\C opener with 4 \Ss.
+
+Now NORTH adds his 12 points to SOUTH's 22 minimum and gets 34. He bids 6\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKQ63.AKT96.T6.A T987.73.Q54.KQ94 2.QJ52.9872.T763 J54.84.AKJ3.J852"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+2C pass 2D pass 2S pass 3C pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "3026efd51c9531d32eca78f734b74452ba68e17b750787d575c15f1e2b1fac0e"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{WEST has 3 points, so she responds 2\D to EAST's opening 2\C bid, 
+then bids 3\C as a second-negative when EAST bids 2\S.
+
+However, when EAST then bids \Hs, WEST finds two more points 
+and bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT85.AK6.AK8.KQJ A96.JT94.9.T8642 KJ2.Q75.QT72.753 743.832.J6543.A9"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fc8cbe218c67697fac7d45f49e904607295084c68dad6656e21b32b9040abcb1"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH expected to open 2\C, then bid 2NT at her second turn.
+
+But SOUTH, with 8 points and a balanced hand, responds 2NT, so NORTH must adapt. She shows 
+her minimum, balanced, 22-point hand by bidding 3NT.
+
+Since NORTH has just the 8 points minimum that he promised, he passes 3NT.}
+

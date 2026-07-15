@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Finesse
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Finessing"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "fb388f561863e6a9433d22d69fd0c6cd3b558985fede43209945aaf09666a115"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -38,7 +40,7 @@ A Simple Finesse has only a 50% success rate. That's why we only take finesses a
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:986.AKQJ4.A74.A2 KJ52.753.QT.KQT5 AQ7.T6.9852.8643 T43.982.KJ63.J97"]
@@ -48,7 +50,8 @@ A Simple Finesse has only a 50% success rate. That's why we only take finesses a
 [Auction "N"]
 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "085243a68ce6d0b7fe41b626d9ef80b2503033f4328fef266e90ca9032edff12"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -69,9 +72,9 @@ But remember, finesses only work half the time. The other half they lose.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "S"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "S:653.8642.K6.KJ52 QJ94.753.QT92.94 K82.AK.A853.AQ87 AT7.QJT9.J74.T63"]
 [Declarer "N"]
 [Contract "3NT"]
@@ -79,93 +82,4 @@ But remember, finesses only work half the time. The other half they lose.}
 [Auction "S"]
 pass pass 2NT pass 3C pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "beginner"]
-[SkillPath "declarer_play/finessing"]
-[Student "S"]
-{North is to play 3NT. East leads the \HQ.
-
-Winners:   \S=0  \H=2  \D=2  \C=4  Total = 8
-
-Needing one more winner you should see right away that it cannot come from \Hs, \Ds, or \Cs. That means you must hope that West has the \SA. Win the first \H, then play your 4 \C winners ending in dummy.
-
-The moment of truth. You lead a small \S from dummy. West plays low and you play the \SK.
-
-Unfortunately East takes your \SK with the \SA. He then plays another \H and you at least make 8 tricks but have no hope for a ninth one so you go down 1.
-
-You probably thought since these Deals were all about finesses that they would work all of the time.
-
-Welcome to the real world.}
-[Play "W"]HQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:A74.KQJ975.8.KQJ KQ93.T.KT65.T732 862.8432.AQ74.95 JT5.A6.J932.A864"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1H pass 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "beginner"]
-[SkillPath "declarer_play/finessing"]
-[Student "S"]
-{South is to play 4\H. West leads the \SK.
-
-Losers:   \S=2  \H=1  \D=0  \C=1  Total = 4
-
-West found the best opening lead for his side, exposing your \S losers before you could establish the \C suit for a discard. If you start to pull trumps right away the defense will grab the \HA, then take their two \S tricks and you will still have the \CA that you cannot avoid.
-
-Other than the \DA the only useful card in dummy is the \DQ so you must try to make a winner out of that for a  discard. So win the \SA, lead your singleton \D and finesse the \DQ. Your luck has returned, the \DQ wins and you discard one of your \S losers on the \DA.
-
-At this point you have not lost any tricks, and you can see that you have only 3 losers remaining in your hand. So you start pulling trumps and establishing the \Cs.
-
-If the \D finesse had lost you would have gone down 2 instead of just one.
-
-The risk was worthwhile though since it gave you your only chance of making the contract.}
-[Play "W"]SK
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:AQJ2.976.AK5.AJT 64.JT54.943.K752 K95.AQ2.QJT87.83 T873.K83.62.Q964"]
-[Declarer "N"]
-[Contract "6NT"]
-[Result ""]
-[Auction "S"]
-1C pass 2NT pass 6NT pass pass pass
-[BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "beginner"]
-[SkillPath "declarer_play/finessing"]
-[Student "S"]
-{North is to play 6NT. East leads the \S3.
-
-Winners:   \S=4  \H=1  \D=5  \C=1  Total = 11
-
-You need one more winner from the \H or \C suit. The straight finesse of the \HK offers a 50% chance of success. The double finesse of the \C K Q offers a 75% chance of success. It's a no-brainer. Run 4 \Ss and 5 \Ds ending in your hand. Be very careful not to discard a \C from your hand.
-
-[showcards N:H9,CA,CJ,CT S:HA,HQ,C8,C3]
-
-Lead a small \C and play the \CT if East plays low. Let's say West wins the \CK and returns a \H.
-
-[showcards N:H9,CA,CJ S:HA,HQ,C8]
-
-<b>DO NOT FINESSE THE \H.</b>Stick with your original 75% plan. Take the \HA and play your small \C, finessing the \CJ. This is why you couldn't discard a \C earlier.
-
-The single \H finesse is an inferior play because its success depends on West holding a specific card, the \HK.
-
-The double \C finesse is much better because its success depends on East holding either of two cards, the \CQ <b>OR</b> the \CK.}
-[Play "W"]S3
-

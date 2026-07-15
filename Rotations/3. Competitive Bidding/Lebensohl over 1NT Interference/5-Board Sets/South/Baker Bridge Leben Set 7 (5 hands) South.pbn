@@ -1,0 +1,68 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Leben
+%bridge-classroom-stable: true
+%bridge-context: Lebensohl over 2-level overcalls of 1NT (fast denies); applies over 2C as well (no 'systems on')
+[Event "Baker Bridge - Lebensohl"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T85.AK7.KQ73.A74 AQ9642.Q.65.QJT9 KJ73.964.J82.K65 .JT8532.AT94.832"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "E"]
+1NT 2S X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "066d68b49794a27a4cd49cac1d9d9d2d7d9f65666d89e79c2184bcee7d99883b"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{Playing lebensohl, when partner doubles the overcall it is for penalties.
+
+Since you trust your partner, you pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ5.KJ7.A96.KQT2 AT9.A3.KJT754.J9 Q74.QT965.83.A83 8632.842.Q2.7654"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT 2D 2NT pass 3C pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1cf2c1345047c1ae74652b5de0acc22f1ac0661277f48bfc2aab5a6d09a7e47c"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{With 9 points you don't want to sign-off with 2\H. But you aren't strong enough to force to game with a 3\H bid either. So you start an invitational sequence by bidding 2NT.
+
+Partner says 3\C.  
+
+Now you bid 3\H. Partner will realize you have better than a sign-off, but were not good enough to bid 3\H immediately. He has a maximum, and he knows you have a 5-card suit, so he bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ5.T8.KQ73.AQ74 94.AKQ532.J42.96 AJ63.94.A85.KJT3 T872.J76.T96.852"]
+[Declarer "S"]
+[Contract "5C"]
+[Result ""]
+[Auction "S"]
+1NT 2H 3H pass 4C pass 5C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

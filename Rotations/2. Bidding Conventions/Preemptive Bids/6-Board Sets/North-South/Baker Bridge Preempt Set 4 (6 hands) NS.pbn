@@ -1,0 +1,80 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Preempt
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Preemptive Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:853.AQJ9843.T76. JT2.KT6.AK.T9542 964..8542.AKQJ83 AKQ7.752.QJ93.76"]
+[Declarer "N"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "350f681c005b582f484a392ec617ea212c89237071cd9b0cd2cbe38bd7b338f3"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/preemptive_bids"]
+[Student "S"]
+{The bidding has been as shown.  
+
+The guidelines in the summary would have you bid 4\H. After all you very clearly have four quick winners.
+
+But you also have seven quick losers in the other suits, and a trump void to boot.
+
+Somewhere in some of these lessons there should be a guideline that says:}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J.KQT54.KJT2.J76 AKT8763.6.84.T95 942.972.A93.A843 Q5.AJ83.Q765.KQ2"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "E"]
+1H 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2b4ea22acfab3e4e3f033c0684f5afaaebed14bd95a813e9b985be353a0569dc"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/preemptive_bids"]
+[Student "S"]
+{The bidding has been as shown.  
+
+The fact that East opened doesn't change your hand at all. You had planned on <b>Opening</b> 3\S, now you make a <b>Weak Jump Overcall</b> of 3\S. If partner has some "stuff" you might get to a makeable contract, and if he doesn't you may keep the opponents out of a \H game.
+
+This time everybody passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:JT86.A5.J.KQJT82 Q.KJT9642.T8.764 9543.83.KQ9763.3 AK72.Q7.A542.A95"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1C 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "44b2aa534c1ab1e00afb7dda62645150882d2629d39d47e52d32557a5303f69b"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/preemptive_bids"]
+[Student "S"]
+{The bidding has been as shown.  
+
+You have four quick winners. If partner had opened 3\H you would have bid 4\H in the blink of an eye. His Weak Jump Overcall describes the exact same hand. So blink and bid 4\H.}
+

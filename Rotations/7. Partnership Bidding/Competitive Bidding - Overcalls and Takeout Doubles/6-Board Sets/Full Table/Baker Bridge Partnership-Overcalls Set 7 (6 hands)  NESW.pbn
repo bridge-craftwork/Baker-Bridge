@@ -1,0 +1,84 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Overcalls
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Overcalls and TakeOut Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:6.AQT8.JT75.QT84 KQJ9753.74.Q3.62 T4.K963.A42.AKJ9 A82.J52.K986.753"]
+[Declarer "N"]
+[Contract "3S"]
+[Result ""]
+[Auction "W"]
+1C 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5384859383065be68f624904d24f933047682ed39f68fd6ed7fe85e471e9a676"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{If West had passed, NORTH would have opened with a preemptive 3\S.
+
+She should make the same bid with the same hand AFTER the opponents open. And she makes it 
+for the same reason, to describe her hand and to take away bidding space from the opponents.
+
+SOUTH treats it just like a Preemptive 3-bid, even though it is now called a Weak Jump Overcall. 
+In this case, SOUTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:963.AK7.942.AT75 AJT85.63.AJT85.3 Q4.T982.KQ7.KQJ2 K72.QJ54.63.9864"]
+[Declarer "E"]
+[Contract "1S"]
+[Result ""]
+[Auction "N"]
+1C 1S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "a03ff51f8e96ef047cbc3c143c9abc2d55f970786f3d41d966d610db90b7881b"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{EAST has 12 points, but with two 5-card suits worthy of an overcall. There isn't really a 
+right and wrong here, but it usually works out best to overcall in the higher-ranking suit. That 
+leaves open the possibility of bidding the second suit later.
+
+In this Deal, after EAST overcalls 1\S, that later possibility never happens because 
+everybody should pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:J92.AT95.QJ5.KT9 A53.42.AK2.J7642 KT74.KJ7.T76.AQ3 Q86.Q863.9843.85"]
+[Declarer "S"]
+[Contract "1S"]
+[Result ""]
+[Auction "S"]
+1S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "4fb692148b3206f53d40d717bb8bf15620d46b8838115e4194baa6bf81546fd7"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{WEST has 13 points but she has to pass. 
+She cannot Double without support for \Hs. 
+She cannot bid 1NT without 2 more points. 
+She cannot overcall 2\C with a terrible suit like that.
+
+And EAST of course must also pass.}
+

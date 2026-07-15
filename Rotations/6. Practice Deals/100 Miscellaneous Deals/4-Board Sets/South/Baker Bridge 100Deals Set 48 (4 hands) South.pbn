@@ -1,0 +1,91 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100Deals
+%bridge-classroom-stable: true
+%bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - 100 Miscellaneous Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:985.A532.J7.J965 AK.T98.865.AQT82 QT73.KJ74.QT93.4 J642.Q6.AK42.K73"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+pass 1C pass 1S pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9fb0c25f2d58db3e3df648e49d90472f9a1c901a4f83ade05e064e8c3047fbef"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{With 14 points and only one biddable suit this was a snap. You open 1\C. Partner responds with 1\S.  
+
+This one isn't such a snap. You sure cannot support \Ss with only 2 of them, even good ones. You aren't supposed to rebid your \Cs without a 6-card suit. You hate to bid Notrump with neither of the two red suits stopped, and you cannot pass. So you bite the bullet and say 1NT. Partner jumps it to 3NT and you pass, hoping he can stop the red suits.
+
+South plays 3NT. It turns out partner can't stop \Hs either and the defenders reel off 4 \H tricks, then lead a small \D.
+
+<b>South plays 3NT. The defenders win 4 \H tricks, then play a small \D.</b>
+
+Winners: \S 2 : \H 0 : \D 2 : \C 3 : Total = 7
+
+You need 2 more tricks and you expect to get them from \Cs. This should have been evident while they were leading all those \H winners so you would not have discarded one of the \Cs from your hand. But you also had to be careful not to discard even one of dummy's \Cs, you need all three of them.
+
+If the \Cs split 3-2 it wouldn't matter, but if East happens to have \C J x x x then you will need dummy's third \C to make a finesse. You first play your \CA, then lead a small \C to dummy's \CK. West shows out on this \C so you know that East has \C J 9 left. You lead dummy's \C7, finessing East out of the \CJ. 
+
+Suppose you had incorrectly discarded dummy's \C3 on one of those \Hs. You would have played the \Cs by first leading small to the \CK (West following) then the \C7 back toward your hand. It is true that you <b>COULD</b> finesse now but you wouldn't know that you <b>SHOULD</b> since you wouldn't know that West was now void.
+
+This was a very difficult hand.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT83.K62.AK.AK6 942.AQ84.QJT5.J8 AJ5.73.8643.9532 76.JT95.972.QT74"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You have 23 points. You must open 2\C.
+
+Partner responds 2\D showing 7 or fewer points.
+
+Following partner's negative response you merely bid your suit at the cheapest level.
+
+You bid 2\S and partner jumps to 4\S.
+
+Now  
+
+Partner's first response told you he has a weak hand. It didn't suddenly turn into 10 or 11 points. Partner is merely pulling a "He Who Knows, Goes" bid. He thinks you belong in 4\S.
+
+South plays 4\S. West leads the \DQ.
+
+<b>South plays 4\S. West leads the \DQ.</b>
+
+Losers: \S 0 : \H 3 : \D 0 : \C 1 : Total = 4
+
+It is possible (but not probable) that \Cs will split 3-3. 
+
+It is possible (one chance out of two) that East holds the \HA. You could pull trumps, ending in dummy, then lead toward your \HK.
+
+It is almost certain that you could ruff your \H loser in dummy, but only if you play a \H at trick two, leading away from your \HK. The defenders will win the \H cheaply and probably play a trump. You win dummy's \SA and play another \H which they also win. They lead a second trump which you win in your hand. You now ruff the last \H with dummy's \SJ, return to your hand, pull trumps and claim.
+
+You cannot be defeated if you play \Hs at the second trick. 
+
+If instead you decide to lead a \S to dummy's \SJ and lead a \H toward your \HK you might go down. West could win the \HA and play a second trump. When you played the next \H West would win again and play a third round of trumps. You would no longer be able to ruff the \H loser.}
+[Play "W"]DQ
+

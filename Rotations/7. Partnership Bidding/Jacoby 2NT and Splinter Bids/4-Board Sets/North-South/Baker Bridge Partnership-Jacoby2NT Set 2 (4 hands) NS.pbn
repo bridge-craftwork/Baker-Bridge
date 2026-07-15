@@ -1,0 +1,57 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Jacoby2NT
+%bridge-classroom-stable: true
+%bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJT762.KT.AJ6.J4 94.8742.9543.AK6 KQ53.QJ5.KQ.9732 8.A963.T872.QT85"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2NT pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d5a9fdc1c70f779bca390ef122f7b8cf410f3910e0286e8be497aaa9779da380"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{Following SOUTH's Jacoby 2NT, NORTH bids 3\S. This is stronger than 4\S and 
+shows a 6-card suit.
+
+SOUTH has already bid the full strength of his hand so he signs off with 4\S which NORTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQJ743.KQJ5.J3.7 8.T83.A87642.A32 K9652.A76.Q5.KQ8 T.942.KT9.JT9654"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3C pass 3H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "aa9cf7529feceeacb6d6e8c22bb1b991034e58dc56c20bfc52660e62ad841e8c"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{The 3\C bid shows a singleton / void in \Cs.
+
+NORTH doesn't have much strength above what she has already shown, but she takes advantage 
+of the bidding level to make a control-showing 3\H bid.
+
+SOUTH is concerned about the \D suit with a worthless doubleton, 
+and he knows that NORTH doesn't have first-round control. He bids 4\S and NORTH passes.}
+

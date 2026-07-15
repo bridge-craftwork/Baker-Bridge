@@ -1,158 +1,82 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Takeout Doubles"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:.KJ65.AKJT3.K853 AKQT942.87..AQ42 J873.AT93.Q86.J7 65.Q42.97542.T96"]
+[Deal "W:KQ2.AT98.964.K83 74.J5.K8732.Q762 JT963.642.Q.AJT5 A85.KQ73.AJT5.94"]
 [Declarer "N"]
-[Contract "2S"]
+[Contract "2D"]
 [Result ""]
 [Auction "W"]
-1D X pass 1H pass 2S pass pass pass
+1C pass 1S X pass 2D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d096daf126f7e366fd82e0dda7ffaf93f829e4a347b4e690c8bfe37ad3f3d6da"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Don't even think about bidding 1NT. You are way way too weak for that. Don't even think about passing for penalties. Your \D are nowhere near good enough. Partner is forcing you to bid a suit, so you bid your best non-\D suit, \Hs. Partner now jumps to 2\S.  
+You should double. This is a special case of the Takeout Double, where the opponents have already bid two suits before it gets to you. Since they apparently have at least 20 points, you should have a solid hand with at least 4-4 in the two unbid suits. A hand just like this one.
 
-You say pass. Despite partner showing you a big hand you just can't help him. }
+Partner bids 2\D. What do you say next? 
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:7.AKQ732.KQJ.J97 AKQ864.8.A85.K62 T32.JT5.T9432.Q4 J95.964.76.AT853"]
-[Declarer "E"]
-[Contract "4S"]
-[Result ""]
-[Auction "N"]
-1H X pass 2C 2H 2S pass 3S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/takeout_doubles"]
-[Student "S"]
-{The bidding has been as shown.   
-
-Partner told you to bid, so you say 2\C. North repeats his suit and partner then says 2\S.  
-
-By doubling and then bidding his own suit, partner is showing a good hand, at least 17 points. Your hand can be revalued to about 7 points so you are good enough to invite partner to game. You bid 3\S and partner says 4\S.}
+Just pass. This is obviously a fight for the partscore and you have the advantage because you have found a fit. However, you suspect partner is quite weak.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "W"]
-[Vulnerable "None"]
-[Deal "W:K2.AT2.KQJT65.53 A84.KQJ6.92.KQJ7 QT73.954.A73.T92 J965.873.84.A864"]
-[Declarer "S"]
-[Contract "3C"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:J853.T962.Q96.73 KQ9642.Q75.87.T8 7.AKJ3.AKT5.AQJ9 AT.84.J432.K6542"]
+[Declarer "E"]
+[Contract "4H"]
 [Result ""]
-[Auction "W"]
-1D X 1S pass 2D X pass 3C pass pass pass
+[Auction "E"]
+pass 2S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "47dda3471bfa1f23d67fe0de415f47710f73cf78d4f416bf2e018569cd4b281b"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Now that East has stolen your response you aren't strong enough to make a free-bid at the 2-level. You pass, West bids 2\D and partner doubles again. Now what? 
+Pretty good hand you have. Certainly good enough to make a Takeout Double that forces partner to the 3-level. Partner responds 3\H.  
 
-This is not a penalty double, partner is merely repeating his request for you to name a suit. But now he expects you to choose between \Hs and \Cs.
-
-You bid 3\C and everybody passes.
-
-You may be one too high, but that still might be a good score if they can make 2\D.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "N"]
-[Vulnerable "All"]
-[Deal "N:6.87.AKQJ63.J963 A975.KJ3.97.KQ52 KQJT42.A42.T5.T7 83.QT965.842.A84"]
-[Declarer "W"]
-[Contract "2H"]
-[Result ""]
-[Auction "N"]
-1D X 1S 2H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/takeout_doubles"]
-[Student "S"]
-{The bidding has been as shown.   
-
-After South bids you are no longer forced to respond to partner's Takeout Double. You may pass is you want to.
-
-But if you don't pass you are making what is called a "free bid". You should have 6 or more points and a reason for wanting to bid - like your 5-card \H suit.
-
-You bid 2\H and everybody passes.}
+Some questions don't have a correct answer. If partner has \H Q x x x along with the \CK and \DQ he would bid just as he did and slam would be cold. But if he has four small \Hs and nothing else he would bid just as he did and you probably cannot make ten tricks. On balance it is probably best to just bid the most likely reasonable contract, which is 4\H.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:AQT2.63.KQJ84.K9 K873.KJ4.76.AQ52 J96.AT8.AT3.JT84 54.Q9752.952.763"]
-[Declarer "N"]
-[Contract "2D"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K7.QJ42.K542.Q32 QJ9.AK8.AJT.AJ97 8653.T96.Q973.84 AT42.753.86.KT65"]
+[Declarer "S"]
+[Contract "3NT"]
 [Result ""]
-[Auction "N"]
-1D X XX 1H pass pass 2D pass pass pass
+[Auction "E"]
+1D X pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: W, basisKind:Declarer, nOption:0, nBasis: 3, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f4e8b10b516e351a922ca16c6ce9dde668e0c591f2280717abb26db157ef7a1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-The redouble has taken the force from you - you can pass if you want to. But if you pass, the most likely scenario is that North will also pass. So partner will either have to let them play 1\D redoubled (which will be a disaster for your side) or take out his own double by bidding some suit. So he will bid a suit and it will almost surely be 1\S.
+You have a perfect 2NT opening hand. Trouble is, the opponents have already opened. You get around that problem by first making a Takeout Double. Partner replies 1\S.  
 
-You can help your side the most by bidding 1\H immediately. You don't have to worry that partner will believe you have a good hand; both he and North have 13+ points and South's redouble shows 10 or more. He knows there are no points remaining for you to have.
-
-On this deal your \H bid gets passed around to South who bids 2\D, the final contract.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "S"]
-[Vulnerable "EW"]
-[Deal "S:A54.AJT653.854.7 KT97.8.AK73.AJ96 QJ862.9742.9.532 3.KQ.QJT62.KQT84"]
-[Declarer "E"]
-[Contract "5C"]
-[Result ""]
-[Auction "S"]
-2H X pass 3H pass 3S pass 4C pass 5C pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/takeout_doubles"]
-[Student "S"]
-{The bidding has been as shown.   
-
-The problem with making a Takeout Double of a preemptive bid is that the bidding for your side starts out a level or two higher. So you can't risk doubling with a flimsy hand. However, this hand is certainly good enough so you double. Partner responds 3\H.  
-
-After partner cuebids the next job is to find a suit, so you bid 3\S. Partner now bids 4\C.  
-
-You cannot stop short of game. Partner has apparently rejected your \S suggestion. Since you are happy to play in \Cs you bid 5\C.}
+You could not say 1NT on your first bid because that would show 15-18 points. Doubling first, then bidding the lowest level of notrump shows 19-20 points. Of course in both cases you must have their suit adequately stopped. Partner does the math and bids 3NT.}
 

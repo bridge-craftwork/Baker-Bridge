@@ -1,0 +1,72 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Signals
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
+[Event "Baker Bridge - Defensive Signals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J85.AQJ8752.AK.K AKQ73.4.T653.T72 962.KT63.Q94.QJ4 T4.9.J872.A98653"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H 1S 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a63de8e9153032905e39024e7fea49532b85777dd53edc7aae374a65d2af9969"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/defensive_signals"]
+[Student "E"]
+{[showcards W:SK N:S9]
+
+You are West. The bidding has been as shown. Partner led the \SA, dummy played the \S2 and you signal with your \ST. East next plays the \SQ and you drop the \S4, completing your doubleton signal. East then plays the \SK and it turns out you don't have to ruff after all. So what are you going to play?
+
+Play the \C9.
+
+This should be a clear enough signal for East to play a \C to your \CA next.
+
+An alternate play, just as good, would be for you to ruff the good \SQ and play the \CA yourself.
+
+If you don't get your \C trick at trick 4 you will never get it. North will discard his \CK on South's extra \D winner.}
+[Play "W"]SA
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AK754.T85.AK.854 T.9643.975.KQT63 QJ9863.Q72.Q84.J 2.AKJ.JT632.A972"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "dbc7b8d0a0a42beddc3e3bd2442eddc27ef4be3a7298c99f850f6f777995ab6d"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/defensive_signals"]
+[Student "E"]
+{[showcards W:CK N:CJ]
+
+You are North. The bidding has been as shown. Partner led the \CK, dummy's singleton was played 
+
+Play the \C9.
+
+South will look at your \C9 and perhaps think for an instant that you want him to play another \C.
+
+But it will be a short instant because a look at dummy makes in absolutely clear to everybody that playing another \C could not help your side. Dummy has so many trumps that repeated \C leads would do nothing.
+
+OK. If it's not an encouraging Attitude signal, what is it? Suit preference of course. Since it is a high spot card you are asking South to switch to the higher suit (choosing between \Ds and \Hs).
+
+South dutifully plays a \H and you take the next three tricks. Had he switched to a \D instead, East would have been able to discard one of his \H losers on West's \DQ.}
+[Play "W"]CK
+

@@ -1,0 +1,36 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicNotrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
+{Notrump bidding really is easy, you just add your points to partner's points and then 
+bid according to that answer.
+
+Here SOUTH has 14 points. So when NORTH opens 2NT, showing 20 or 21 points SOUTH knows the 
+total will come to 34 or 35 so he bids 6NT.}
+
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q75.Q84.Q62.Q753 J842.A72.J985.94 AK6.K93.K743.A62 T93.JT65.AT.KJT8"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "N"]
+pass pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH cannot open with only 8 points.
+
+Furthermore, when SOUTH opens 1NT NORTH knows that the partnership has a 25 points at most so 
+he passes again.}
+

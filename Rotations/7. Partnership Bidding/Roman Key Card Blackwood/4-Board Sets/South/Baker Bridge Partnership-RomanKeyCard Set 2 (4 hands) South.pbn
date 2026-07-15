@@ -1,111 +1,61 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AK9842.KQT6.84.A 65.832.AQ5.98765 QJ73.AJ5.T632.K4 T.974.KJ97.QJT32"]
-[Declarer "S"]
-[Contract "4S"]
-[Result ""]
-[Auction "S"]
-1S pass 3S pass 4C pass 4H pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{SOUTH has interest in slam after she hears NORTH's Limit Raise. 
-BUT, she should not use Blackwood holding two quick losers in the \D 
-suit.
-
-Instead she makes a Control showing bid of 4\C. (Not Gerber since it didn't follow a NT bid.)
-
-NORTH cooperates by making a Control bid of 4\H.
-
-SOUTH stops at 4\S because neither partner controls \Ds.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
 [Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:6.KQ872.AK963.KQ T532.AT4.52.7532 AJ7.J6.QJT87.A64 KQ984.953.4.JT98"]
+[Vulnerable "None"]
+[Deal "N:KT74.KQJ84.A6.A3 J.A32.T85.JT9842 AQ8632.5.KQ7.KQ5 95.T976.J9432.76"]
 [Declarer "S"]
-[Contract "6D"]
+[Contract "6S"]
 [Result ""]
 [Auction "N"]
-1H pass 2D pass 4NT pass 5S pass 6D pass pass pass
+1H pass 1S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0870b336040ebf3619b71890ff107d5980964e8508d87a33dbc7d4f714b37edf"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{NORTH decides it is unlikely that SOUTH is Aceless, so all he wants to know is the number of Aces SOUTH does have. 
-He invokes RKC Blackwood.
+{NORTH jumps to 4\S, confident that SOUTH could make 10 tricks 
+even if he just has 6 points.
 
-Since no trump suit has been agreed, SOUTH bids as if \Ds, the 
-last-bid suit prior to 4NT is agreed. SOUTH has two Key-cards plus the trump Queen, so she bids 5\S.
+SOUTH knows he can make more and bids RKCB 4NT.
 
-NORTH bids 6\D. 
-If SOUTH had just one Key-card, NORTH would bid 5\D over the 5\C reply.}
+NORTH's 5\D response shows zero or three Keycards. 
+So which is it? Zero or three?
+
+NORTH bid much too strongly to have no Aces. SOUTH 
+bids a confident 6\S, knowing NORTH has either three Aces or two Aces plus the \SK.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:6.KQ872.KQ.AK963 J984.AT3.T872.54 KQ7.J6.A64.QJT87 AT532.954.J953.2"]
-[Declarer "S"]
-[Contract "5C"]
-[Result ""]
-[Auction "N"]
-1H pass 2C pass 4NT pass 5C pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{This is the companion to Deal 6. The cards are the same except that the 
-\Ds and \Cs have been swapped.
-
-Again, NORTH has no problem as long as SOUTH holds at least one Key-card. 
-When SOUTH responds 5\C, (showing one Key-card), NORTH can pass. 
-
-That's what happens here.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:A96.QJT3.AQJ.QJ9 T.9862.9832.T763 KQJ8752.4.K6.AK5 43.AK75.T754.842"]
+[Deal "S:6.AK9754.6.KQJT3 QT842.2.QJ73.874 A75.QT83.A854.92 KJ93.J6.KT92.A65"]
 [Declarer "S"]
-[Contract "6S"]
+[Contract "6H"]
 [Result ""]
 [Auction "S"]
-1NT pass 4C pass 4S pass 6S pass pass pass
+1H pass 3H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f5b7e7b9efc87db138c1eecfe86bcc0d92a63df06fd35e3da9b2a405365731ee"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{NORTH needs to know how many Aces SOUTH holds.
+{With eleven cards in the "round" suits SOUTH has a lot of playing strength. So when NORTH bids 
+a Limit Raise in \Hs SOUTH wants to know about Aces.
 
-One way to find out would be to bid 3\S, (which is forcing), then launch Blackwood.
-
-Another way is to bid 4\C (Gerber) right now.
-
-The first way is probably better but we needed a Gerber example.}
+RKCBlackwood tells him that NORTH has two Aces plus the trump Queen, so SOUTH can see that 6\H 
+is practically a certainty.}
 

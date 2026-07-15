@@ -1,0 +1,87 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-TwoClub
+%bridge-classroom-stable: true
+%bridge-context: Strong 2C (22+); 2D = waiting/negative
+[Event "Baker Bridge - Strong Two-Club Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKQT3.AK6.86.AQ4 875.QJT4.Q54.T85 J42.8752.J72.K63 96.93.AKT93.J972"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "1097c38bc165438c9be861a2d0e3ee36b7aae114a74e03fc1ca6ce4d46cc24f0"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH has 5 points, so she responds 2\D to NORTH's opening 2\C bid.
+
+NORTH bids his 5-card \S suit.
+
+SOUTH is too good for the second negative, so she supports NORTH's \S.
+
+NORTH doesn't have enough to think about slam, so he signs off at 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ.KQJ2.AQ98.AK4 T8543.T83.KT.T92 KJ72.A75.J42.653 96.964.7653.QJ87"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f7d2bef6ac955fb953daae2e0ab99c970080a65b728e4fa90ea1aac18a034407"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH opens 2\C with her balanced 25 points.
+
+SOUTH has 9 points but no 5-card suit. He should make a positive response of 2NT.
+
+NORTH figures SOUTH for 8 points and bids 6NT. If SOUTH has significantly more than 
+8 it will be up to him to go to 7NT. But he doesn't.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ82.A5.AK2.AK2 A965.T974.Q53.Q3 7.KQJ832.986.874 T43.6.JT74.JT965"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+2C pass 2H pass 2S pass 3H pass 6H pass pass all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "70bbdd9a2b755e255e0bc407d55cd4b048da1526de6a1039bbe4540220083a13"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH opens 2\C and NORTH, with 8 points should bid 2\H. 
+
+SOUTH should bid his \S suit at his second turn.
+
+And NORTH can only rebid the 6-card \Hs.
+
+That's enough for SOUTH to hear. He bids 6\H, or, just as 
+good, he might bid 6NT.}
+

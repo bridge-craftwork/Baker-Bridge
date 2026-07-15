@@ -1,0 +1,82 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK65.AT4.QJ97.K8 T842.932.A6.AQ62 73.KQ86.K42.JT95 QJ9.J75.T853.743"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "754f7a5cf9d5ff65498e0df99bf0ee58d1580e8b5afe4a28ade5e3dddbec9c62"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH, with 9 points and a 4-card \H suit is just strong 
+enough to use Stayman.
+
+NORTH shows 4 \Ss and SOUTH describes her minimum hand with no \S fit by bidding 2NT.
+
+NORTH has a maximum 1NT opening and bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KJ4.QT.KQJ6.A973 Q6532.762.93.Q42 A9.AJ983.752.J86 T87.K54.AT84.KT5"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2D pass 2H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b97795102209d284ed4a901b12071f18bccccccd444fa4088d4963f958deaddb"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{NORTH has 11 points and five \Hs, so she responds 
+2\D as a Jacoby Transfer.
+
+When SOUTH bids the required 2\H, NORTH jumps to 3NT 
+to show at least 11 points, but only a 5-card \H suit.
+
+Since SOUTH has only a doubleton \H she passes 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KJ5.A76.A83.KQ94 94.J432.KQ7.AJ87 Q87632.85.954.53 AT.KQT9.JT62.T62"]
+[Declarer "N"]
+[Contract "2S"]
+[Result ""]
+[Auction "N"]
+1NT pass 2H pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "60e69b75b0ff3594abc42048fec4ac80f9d45d84ea4db0652aa3e52f1f496c8c"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{NORTH, with a balanced 17 point hand naturally opens 1NT.
+
+SOUTH has a really awful hand, but she does hold six \Ss. 
+So she uses Jacoby Transfer, and when NORTH bids 2\S she passes!}
+

@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Negative
+%bridge-classroom-stable: true
+%bridge-context: Negative Doubles, no upper level
+{The bidding has been as shown.   
+
+Partner's double promises 4 cards in at least one of the Majors. You certainly hope it is \Hs. You bid 2\H and partner raises to 3\H.  
+
+Once partner confirms he has the \Hs you can revalue your hand to 17 points. This gives you enough extra to accept partner's invitation. You bid 4\H.}
+
+[Event "Baker Bridge - Negative Doubles"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ93.Q83.83.AK64 A4.J5.QJ652.T985 T875.AK64.974.32 Q62.T972.AKT.QJ7"]
+[Declarer "N"]
+[Contract "1S"]
+[Result ""]
+[Auction "N"]
+1C 1D X pass 1S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "29592f789ea26c54d9f0e95edecb2a8e6826730169dfb30806f551a807cbe415"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You have the special hand, 4-4 in the Majors, so you make a Negative Double. Partner replies 1\S.  
+
+Partner has a minimum opener with 4 \Ss. You have a minimum response with 4 \Ss. Pass and be grateful the opponents aren't bidding.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KT98.AK764.4.A96 A6.T95.AKQJ87.72 QJ73.QJ.965.KQ84 542.832.T32.JT53"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1H 2D X pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "b4709d72943fdfd69fc56b2e9aa7cfba0c7aa12e3d808127629abcc6145e1010"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Sometimes using Negative Doubles seems like you can read minds. You know for sure that partner has 4 \Ss since that is the only unbid Major. You know for sure that partner has 10+ points because he made a Negative Double of a 2-level overcall. So you conclude that your side has 8 \Ss and 27+ points . . .. . . and you bid 4\S.}
+

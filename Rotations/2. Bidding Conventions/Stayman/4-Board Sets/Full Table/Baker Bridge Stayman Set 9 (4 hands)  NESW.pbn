@@ -1,0 +1,55 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Stayman
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ4.A8.QJ73.AQT8 T976.J42.4.K6432 AQ52.KQT96.T9.97 83.753.AK8652.J5"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "624508ba7bb27a8cc57e50f2cec36d60f5cb514fc44072e6990107e9088f11a3"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{You open 1NT and partner responds 2\C.  
+
+You do not have a 4-card Major. So your correct response is 2\D. Partner bids 2\H.  
+
+Partner has described a hand with 4 \Ss and 5 \Hs. You don't know his strength but it must be at least 9 points. You know that you have just a 7-card fit in both Majors, and since you have a full 17 points you bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K7.QJT.AK95.KJ94 AT543.642.842.A7 Q2.K9753.Q73.QT6 J986.A8.JT6.8532"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "47015da5b6e87b7db29660a94052e807c2d05b61664201ae3a6013fc04d0191a"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{You open 1NT and partner responds 2\C.  
+
+Your 2\D response tells partner you have no 4-card Major suit. Then he bids 2\H. What do you say next? 
+
+Partner knows you do not have 4 \Hs, but he bid the suit anyway. He must have 5 of them and he must also have 4 \Ss (since he used Stayman). But it's the \Hs you are interested in. Partner has 5 and you have 3. So you know of an 8-card Major suit fit. And you also know you have a maximum 1NT opening. So you say 4\H.}
+

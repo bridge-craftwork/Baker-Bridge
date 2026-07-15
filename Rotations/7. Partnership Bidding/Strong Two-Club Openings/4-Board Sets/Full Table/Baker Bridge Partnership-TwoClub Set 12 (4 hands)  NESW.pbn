@@ -1,0 +1,61 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-TwoClub
+%bridge-classroom-stable: true
+%bridge-context: Strong 2C (22+); 2D = waiting/negative
+[Event "Baker Bridge - Strong Two-Club Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A8.KQ4.AKQJ86.K4 QJT.J82.954.JT97 K72.A975.T72.A53 96543.T63.3.Q862"]
+[Declarer "N"]
+[Contract "7NT"]
+[Result ""]
+[Auction "S"]
+2C pass 2NT pass 4C pass 4S pass 5C pass 5H pass 7NT all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a6170f9334002978ef14c6609c5dafbf381683edb5646b066be8239337113071"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH opens 2\C.
+
+NORTH should just respond 2NT, even with 11 points. The idea is to make a positive response (which forces 
+the partnership to game level), and show extra strength later.
+
+This time there is no need. SOUTH should bid 4\C (Gerber), and NORTH answers 4\S for 
+two Aces.
+
+Next SOUTH should ask for Kings, and when NORTH shows one King SOUTH should bid 7NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:8.AKQ5.AK72.KQJ3 J654.JT983.5.952 973.62.QJ9863.A4 AKQT2.74.T4.T876"]
+[Declarer "E"]
+[Contract "6D"]
+[Result ""]
+[Auction "W"]
+2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "95490a29956197eac5dd5c354a5365e4d1ab93003bd98cd50ad65761d3452309"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{When WEST opens 2\C EAST has enough strength (9 points) for a positive response. But, 
+because her suit is \Ds, she must jump to 3\D.
+
+WEST thinks slam and uses Blackwood to discover that EAST holds one Ace. 
+
+That's all EAST needs to know to bid 6\D.}
+

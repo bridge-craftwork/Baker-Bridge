@@ -1,14 +1,16 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
 [Event "Baker Bridge - Major Suit Openings"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:A4.AKJ98.872.865 Q63.T5.AQ9.J9732 975.Q732.543.AK4 KJT82.64.KJT6.QT"]
+[Deal "N:A4.AKJ98.872.865 J863.T4.KQJ.T732 975.Q732.543.AK4 KQT2.65.AT96.QJ9"]
 [Declarer "N"]
 [Contract "2H"]
 [Result ""]
@@ -16,6 +18,7 @@
 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "9da868e00cbbbe3581ec73397be4978e0164adbcbfde8b960c0503f000702040"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -29,17 +32,18 @@ You say pass. You have a minimum opening hand and partner has 6-10 points so no 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:A4.AKT98.A72.QJ5 QT.J43.T853.AT92 963.Q752.K4.K874 KJ8752.6.QJ96.63"]
+[Vulnerable "EW"]
+[Deal "E:A4.AKT98.A72.QJ5 QJ85.J4.Q963.T62 963.Q752.K4.K874 KT72.63.JT85.A93"]
 [Declarer "E"]
 [Contract "4H"]
 [Result ""]
 [Auction "E"]
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "8ed17feff1fd02d8c157aacac40c284d99bd89c5cd57acfcba1432b665c7e3ec"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -53,72 +57,14 @@ You revalue to 20 points (doubleton \S) and partner has between 6 and 10. So, 26
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:KQJT6.A.9872.KJ5 5.JT75.643.AT972 9872.K83.AQJ.Q64 A43.Q9642.KT5.83"]
+[Deal "S:KQJT6.A.9872.KJ5 A3.T9742.KT5.A82 9872.K83.AQJ.Q64 54.QJ65.643.T973"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{You dealt this hand.  
-
-With 15 points and a 5-card Major you open 1\S. Partner responds 3\S.  
-
-Your 15 points gets revalued to 16/17 for the singleton. Add partner's 10-12 and you have enough for game. So you bid 4\S.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "All"]
-[Deal "S:JT9.KT93.K4.JT52 A8653.J4.J72.AQ6 Q.A7652.QT98.873 K742.Q8.A653.K94"]
-[Declarer "W"]
-[Contract "3S"]
-[Result ""]
-[Auction "S"]
-pass 1S pass 3S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{You dealt this hand.  
-
-With 13 points you open 1\S. Partner responds 3\S.  
-
-Figure partner for 11-12 points. You have 13 but could revalue to 14 with the doubleton \H. But the truth is that your points are not very good ones. You should pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:952.KJT864.K72.A QJT.Q9.JT83.KT76 A73.A73.Q5.QJ543 K864.52.A964.982"]
-[Declarer "N"]
-[Contract "4H"]
-[Result ""]
-[Auction "N"]
-1H pass 2C pass 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/major_suit_openings"]
-[Student "S"]
-{You dealt this hand.  
-
-You open 1\H and partner responds 2\C, showing at least 11 points. You dealt this hand.  
-
-Partner's bid forces you to bid again. You have a bare-minimum hand, but at least you have a 6-card suit which you can rebid. You say 2\H and partner raises to 4\H.}
-
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

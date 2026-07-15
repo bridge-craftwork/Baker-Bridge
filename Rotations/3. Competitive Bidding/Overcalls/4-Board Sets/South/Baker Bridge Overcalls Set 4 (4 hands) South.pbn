@@ -1,98 +1,57 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Overcalls
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Overcalls"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "E:5.AJT973.J9.AQJT KQJ984.84.Q63.95 A632.5.AT742.K63 T7.KQ62.K85.8742"]
+[Deal "E:A7.J85.AQ74.T754 QJT93.KQ4.863.82 65.T762.KJ92.AJ6 K842.A93.T5.KQ93"]
 [Declarer "S"]
-[Contract "2S"]
+[Contract "3S"]
 [Result ""]
 [Auction "E"]
-1H 2S pass pass pass
+1D 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0de83636920e1fbd3efcebafdd6e44abdb7ed7eba75480cf831c110619ad143d"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
 {The bidding has been as shown.  
 
-If you had been the dealer you would have opened 2\S. The situation is no different after they open so you Overcall 2\S. Everybody passes.}
+You have enough for a 1-level Overcall so you bid 1\S. Partner says 3\S.  
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "W"]
-[Vulnerable "None"]
-[Deal "W:QT.542.KQ742.A94 975.KQJ97.83.K52 42.AT86.AJT9.J83 AKJ863.3.65.QT76"]
-[Declarer "S"]
-[Contract "2S"]
-[Result ""]
-[Auction "W"]
-1D 1H pass 1S pass 2S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.   
+The jump raise tells you partner has 11-14 points.
 
-You don't like to take partner out of his overcalled suit without good reason. Here you have good reason. So you bid 1\S. Partner replies 2\S. What do you say next? 
-
-You expect partner to have three trumps, but he has made a minimum bid. So you take the conservative route and pass.}
+With your minimum it's going to have to be better than that to get you excited. So you pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "W"]
+[Dealer "E"]
 [Vulnerable "EW"]
-[Deal "W:A2.T72.J5.AQJ763 T85.AKJ84.K63.95 64.9653.QT94.K82 KQJ973.Q.A872.T4"]
+[Deal "E:T.AKQ98.J53.AKQ9 AQJ64.3.9862.J82 92.JT64.KQT74.T6 K8753.752.A.7543"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
-[Auction "W"]
-1C 1H pass 1S pass 2S pass 4S all pass pass pass
+[Auction "E"]
+1H 1S 3H 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.  
-
-You have a nice easy decision here. You overcall 1\H. Then partner bids 1\S. What do you say next? 
-
-Whether you play a change of suit as forcing or not, your hand certainly qualifies as one where you should make a bid. Partner doesn't really like your \Hs but you are quite satisfied to play in \Ss. So you bid 2\S. Partner jumps to 4\S and that closes out the auction.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:A754.QJ.KQ82.942 JT9.KT73.AJT.AQ5 62.942.9743.KJ83 KQ83.A865.65.T76"]
-[Declarer "S"]
-[Contract "3H"]
-[Result ""]
-[Auction "E"]
-1D 1NT pass 2C pass 2H pass 3H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7a72c996745c41fa5018f13fcc19df259c010309a3793e65b3abc0f03689d5a8"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
 [Student "S"]
 {The bidding has been as shown.   
 
-You treat partner's 1NT Overcall the same as a 1NT Opening. You use Stayman and bid 2\C. Partner replies 2\H. What is your next bid? 
+You have 10 points, but in cases like this points don't matter that much. They <b>MIGHT</b> be able to make 4\H. Partner <b>MIGHT</b> be able to make 4\S. This preemptive jump takes the decision away from them.
 
-You have 9 points, an invitational strength hand. You bid 3\H, inviting partner to go to game with a maximum. He declines your invitation.}
+Looking at the hands you can see that partner is going to go down 1 at 4\S. However, that is an excellent result since they appear to be cold for 5\H.}
 

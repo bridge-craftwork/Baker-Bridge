@@ -1,14 +1,16 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Weak2
+%bridge-classroom-stable: true
+%bridge-context: 2M-2NT = Feature ask (NOT Ogust)
 [Event "Baker Bridge - Weak 2-Bids"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:95.642.AKJT85.87 AK64.Q87.63.KT32 QT2.K5.9742.QJ64 J873.AJT93.Q.A95"]
+[Deal "N:95.642.AKJT85.87 A874.AQ9.Q3.T932 QT2.K5.9742.QJ64 KJ63.JT873.6.AK5"]
 [Declarer "N"]
 [Contract "4D"]
 [Result ""]
@@ -16,6 +18,7 @@
 2D pass 4D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "8dcdf210301b490ae5d2b2c02ec6dfd22663e46fedcd1b3c222eff3b0b12b61d"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -29,17 +32,18 @@ This is not an invitation to bid game. If partner had game interest he would bid
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:Q.KJT973.762.642 JT9632.8.KT94.A5 AK84.Q4.QJ5.QJ83 75.A652.A83.KT97"]
+[Vulnerable "EW"]
+[Deal "E:Q.KJT973.762.642 JT9763.A8.KT3.T9 AK84.Q4.QJ5.QJ83 52.652.A984.AK75"]
 [Declarer "E"]
 [Contract "2H"]
 [Result ""]
 [Auction "E"]
 2H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "4bca658e513690c84b448b2f035c37a88246339f788a60a2eb3fb87261f00952"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -49,17 +53,18 @@ This is not an invitation to bid game. If partner had game interest he would bid
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:KQT875.A84.76.92 A3.J9652.KJ9.KJ8 J642.K7.A843.T64 9.QT3.QT52.AQ753"]
+[Deal "S:KQT875.A84.76.92 9.QT63.KQ952.K87 J642.K7.A843.T64 A3.J952.JT.AQJ53"]
 [Declarer "S"]
 [Contract "3S"]
 [Result ""]
 [Auction "S"]
 2S pass 3S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5ba90610581acd0f860a6ac2b5ae7a95db026eb272b9e804321a1adc8db351d1"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -69,68 +74,4 @@ This is not an invitation to bid game. If partner had game interest he would bid
 This is very solid. So you open 2\S. Partner responds 3\S.  
 
 You say "pass". Partner has no interest in game since he didn't bid 2NT. This is a preemptive raise only.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:J6.Q73.QJT973.94 KQT975.9.64.AQT3 A83.AKJ854.5.875 42.T62.AK82.KJ62"]
-[Declarer "W"]
-[Contract "3H"]
-[Result ""]
-[Auction "E"]
-2D pass 2H pass 3H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "beginner"]
-[SkillPath "bidding_conventions/weak_2s"]
-[Student "S"]
-{You should bid 2\H. If partner has even one \H you will probably be better off than in \Ds. }
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:96.QJT852.K53.65 K74.A963.J987.J8 A853.K74.A64.KQ7 QJT2..QT2.AT9432"]
-[Declarer "N"]
-[Contract "3H"]
-[Result ""]
-[Auction "N"]
-2H pass 2NT pass 3H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "beginner"]
-[SkillPath "bidding_conventions/weak_2s"]
-[Student "S"]
-{You dealt this hand.  
-
-You open with a Weak 2-Bid, 2\H. Partner responds 2NT. What do you say next? 
-
-The 2NT bid is forcing. Your \DK is a feature, but your immediate priority is to let partner know that you have a minimum strength opener, 6, 7 or 8 points. So you rebid 3\H. Partner passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:KQ9763.T2.K62.74 T2.A86.AT43.AJ65 A854.73.J85.QT83 J.KQJ954.Q97.K92"]
-[Declarer "E"]
-[Contract "4S"]
-[Result ""]
-[Auction "E"]
-2S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "beginner"]
-[SkillPath "bidding_conventions/weak_2s"]
-[Student "S"]
-{You should raise to 4\S. Not that you expect partner to make it, he probably cannot.  Your raise is a preemptive measure, hoping to prevent the opponents from finding their \H fit. }
 

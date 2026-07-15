@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Jacoby2NT
+%bridge-classroom-stable: true
+%bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQJ743.KQJ5.J3.7 8.T82.Q9876.A532 K9652.A76.A5.Q98 T.943.KT42.KJT64"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "69688a13bbb5873a40a7587c6a4c76ee50c251767506279c66a6723c831e2bf5"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{This is the companion to Deal 4.
+
+After SOUTH bids 3\C to show shortage, NORTH makes a Control-showing bid 
+of 3\D.
+
+SOUTH no longer worries about losing two quick \Ds. He uses 
+Blackwood to check for Aces, then bids 6\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A5.AJT962.KQ7.63 J87.Q3.8652.AJ85 KQ.K875.A9.KQT92 T96432.4.JT43.74"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "db23c29bcfc94d5b429f707cd63198770dfdcbe3ab6ec150837ee17df7121691"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH's 3\H rebid shows better than average strength and six trumps.
+
+Just what NORTH was hoping for. She bids Blackwood - her plan is to bid 7\H 
+if SOUTH has three Aces, bid 6\H if he has two Aces, 
+and stop at 5\H if he has just one. If South has no Aces NORTH will get a new partner.}
+

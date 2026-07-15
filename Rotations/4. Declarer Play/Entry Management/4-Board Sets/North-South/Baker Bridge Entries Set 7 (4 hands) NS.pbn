@@ -1,0 +1,75 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Entries
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Entry Management"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q9.A95.AJ63.AK74 63.KJ742.QT.T983 KJT84.QT3.874.52 A752.86.K952.QJ6"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1D pass 1S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "95c86a1ab25c1dc0d26d2e63c03df09d90165981008971fbfa6b16e9b2e033ad"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
+{North is to play 3NT. East leads the \H4, you play low in dummy and West plays the \H8.
+
+Winners:   \S=0  \H=2  \D=1  \C=2  Total = 5
+
+The winners list looks a little skimpy, but what a nice solid \S suit. It will be a cinch to establish 4 winners in the suit - if only you have an entry to reach them.
+
+You are probably getting good at this by now. The way to make sure of a dummy entry is to pass up the Cheap Trick \H9 and win the first trick with the \HA. Since West did not play third-hand-high he probably doesn't have a high card to play. You are confident that East has led from the \HK so by taking the \HA at once you guarantee you can get back to dummy when you need to do so.
+
+After you win the \HA you start on \Ss, and they hold-up their \SA for one round. But you can get to dummy and the rest of the \Ss by leading toward the \HQ.
+
+On these pages there have been many deals where you had to win the opening lead with an unnecessarily high card in order to create a later entry to dummy.
+
+Here's a question: How many times at the table have situations like this presented themselves but you didn't realize it? And of course, at the table there is no second page popping up to tell you what you should have done.}
+[Play "W"]H4
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJT.AK62.AJ86.K3 K2.JT95.Q742.A75 A43.743.95.QJT92 98765.Q8.KT3.864"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1D pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d3f315277c65aad02920bc9980bbdc12558e77ee13bcbd560fe5f5f9b5df1aad"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
+{South is to play 3NT. West leads the \S9, and East plays the \SK.
+
+Winners:   \S=3  \H=2  \D=1  \C=0  Total = 6
+
+I'll bet you got this one. The extra \C tricks you need are winnable only if you can get back to your hand after knocking out the \CA. But the only possible entry card is the \SA. If you use it on the first trick the Defense will hold up their \CA for one trick and your hand will be shot..
+
+So let East keep the first trick, (sacrificing one \S winner), and take the next \S in dummy. Then establish \Cs.
+
+ You sacrifice one \S trick for four \C tricks. A good deal.
+
+Yet another variation on the theme.
+
+There are two basic types; one where you give up a winner to gain an entry, and this type where you get the entry without giving up a thing.
+
+It looks a little different, but the theme is the same. PROTECT YOUR ENTRY.}
+[Play "W"]S9
+

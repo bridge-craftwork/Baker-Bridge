@@ -1,0 +1,50 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 2over1
+%bridge-classroom-stable: true
+%bridge-context: 2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430; Specific Kings
+[Event "Baker Bridge - 2-Over-1 Game Force"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ862.T4.K65.K87 K97543.A6.Q97.J6 J.KQJ753.432.Q54 T.982.AJT8.AT932"]
+[BoardVersionToken "78f1cb2c0bbf3d942cd2340065ef342decf2e53beec255a6a4235c3bb38b88a4"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1S Pass 1NT Pass 2C Pass 2H Pass Pass Pass
+{South opens 1\S.  
+You have 11 points, enough to respond 2\H in standard bidding, but not when using 2/1. So we use the forcing 1NT.  South rebids 2\c.   This only promises 3 clubs, so is really just there so we can better describe our hand with our second bid.  What do we bid now? 
+
+Now we can bid 2H, and it shows 6+\hs and only 6-10 points. 
+South was forced to reply to 1NT, but he is not forced to bid again. With his minimum hand and a tolerance for partner's suit he just passes and the partnership ends up in a reasonable contract.
+This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding North's first response would be 2\H, and South would have to bid again, probably 2NT. The partnership might go even higher but in any case would probably not reach a good contract.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AQ862.A4.95.AK87 T93.QT62.QJ74.T2 K.K753.AT32.J954 J754.J98.K86.Q63"]
+[BoardVersionToken "29b9c67f7e301c1e228816e7aab0af8c165f0273d6eaff94e25e7288d220071b"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1S Pass 1NT Pass 2C Pass 2NT Pass 3NT Pass Pass Pass
+{South opens 1\S. What should you bid? 
+You have 11 points, enough to respond 2\C, (or 2\D), in standard bidding, but not when using 2/1. So you bid 1NT, showing 6-12 points.
+South rebids 2\c.  Again, this doesn't promise more than 3\c - it's just leaving room for us to describe our hand with our second bid.  What do we bid now? 
+
+We know South doesn't have 4 \Hs, so we show our above-minimum hand by bidding 2NT.
+South has extra values and raises to 3NT.
+South is happy to play Notrump. He assumes we must have something useful in \Ds and bids 3NT.
+3NT seems to be a good contract. There are 8 top tricks and possibilities for a ninth winner in either \Ss, \Ds, or, (the best chance), \Cs.}
+

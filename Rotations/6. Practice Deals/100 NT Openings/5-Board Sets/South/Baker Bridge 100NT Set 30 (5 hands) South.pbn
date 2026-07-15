@@ -1,0 +1,113 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+{When the opponents overcall your 1NT opener a 2NT bid by partner is lebensohl. You have been instructed to make a relay bid of 3\C, and you do so. Partner now bids 3\H.  
+
+When the opponents overcall your 1NT opener a 2NT bid by partner is lebensohl. You have been instructed to make a relay bid of 3\C, and you do so. Partner now bids 3\H. 
+
+The 3\H bid is a sign-off, ala the lebensohl methods. So you pass.
+
+North would be playing the hand in 3\H.
+
+South plays 3\H. West leads the \ST. You win the first trick with dummy's \SA.
+
+ You just have to pull trumps so none of your winners get ruffed. So play a \H at trick 2. West wins and plays another \S which you ruff. 
+
+Continue with two more rounds of trumps. Then play to a \C honor. Unless the \Cs split 3-3 you will lose two tricks in the suit but your fourth \C can be ruffed with dummy's last trump. Of course you also have the \D loser which you couldn't avoid.
+
+A lot of hands are like this, nothing to the play and everybody who plays the contract will probably take the same tricks.
+
+The purpose of the hand is to point out the advantages of using <b>lebensohl</b> convention when the opponents interfere. It got you to a makeable 3\H contract.
+
+And just look at the EW hands. They can easily make 3\S.}
+[Play "W"]ST
+
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:97.K54.AQ72.AK52 63.JT98.T8543.86 KJT84.A762.K.743 AQ52.Q3.J96.QJT9"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2D pass 3S pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fa6655e8efbed8e839570f04670dd4d61bfada31499182510900e692210b6dff"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner bids Stayman; with no 4-card Major you respond 2\D. Partner now bids 3\S.   
+
+Partner bids Stayman; with no 4-card Major you respond 2\D. Partner now bids 3\S.   
+
+Partner's bidding is crystal clear. He has described a hand with at least 11 points, which has 4 \Hs and 5 \Ss.
+
+The decision is yours, and with no 8-card Major suit fit you decide on 3NT.
+
+South plays 3NT. On West's \HJ opening lead East plays the \HQ.
+
+On West's \HJ opening lead East plays the \HQ.
+
+Winner List: \S = 0 : \H = 2 : \D = 3 : \C = 2 :: Total = 7
+
+You must establish some \S tricks which means you will be finessing through West. Since West can get the lead at most once in \Ss you should not hold up in \Hs. The problem with a hold up is that East may pocket one \H trick and then switch to \Cs, a suit in which you are no better off. 
+
+Win the \HK and play your \S9, letting it ride. Suppose it holds the trick. Continue with another \S, taken by East's \SQ. 
+
+East cannot hurt you. If he has a \H to play, then \Hs will have broken no worse than 4-2 and you will lose two \Hs and two \Ss.
+
+If East plays any other suit you have a double stopper and can establish \S tricks before they can set up a winner of their own.
+
+Suppose you let East hold the \HQ. That's one trick for the bad guys.
+
+East could play a \C, knocking out one of your \C A K. When East won his first \S he would establish the \Cs, and when he took the second \S he could cash 2 \C tricks. }
+[Play "W"]HJ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J65.764.AKJ.AK63 K42.QJ9853.Q72.Q AT98.AK2.95.8742 Q73.T.T8643.JT95"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT 2H 2NT pass 3C pass 3H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0bc8f639dccfea9c92fafdafc58562e388291f21ec45f947c1b8e18bbdc9ae0e"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner's 2NT is lebensohl, requesting that you bid 3\C. You obey and partner now bids 3\H.  
+
+Partner's 2NT is lebensohl, requesting that you bid 3\C. You obey and partner now bids 3\H. 
+
+The cue-bid is Stayman, asking if you have 4 \Ss. However, since it was a DELAYED cue-bid it also shows stopper(s) in the opponent's overcalled suit. Since you do not have 4 \Ss you go ahead and bid 3NT.
+
+South plays 3NT.
+
+West naturally attacks in his suit, leading the \HQ.
+
+Winner List: \S = 1 : \H = 2 : \D = 2 : \C = 2 :: Total = 7
+
+There are several possibilities for extra winners. The \DQ might drop - or the finesse might work, providing one winner. The \Cs might split 3-2, giving you one extra winner. The \S honors might be split (or West might hold both) so the double finesse would give you two winners. Since your minor suit hopes require that BOTH of them work, your best bet is the double \S finesse. 
+
+You do not need to hold up on the \H because you will be finessing twice into East, and he cannot possibly have more than two \Hs, probably only one. Come to your hand with a \C, play the \SJ and let it ride. East wins the \SQ and plays another \C. Win this one and finesse the \S again. When this finesse works you can return to your hand with a \D and repeat the finesse.
+
+The double finesse has a 75% chance of success since it only requires that West hold either the \SK, \SQ, or both.
+
+Even if East held both honors you would <b>STILL</b> have established one \S winner and would have the possibility of a \D finesse. }
+[Play "W"]HQ
+

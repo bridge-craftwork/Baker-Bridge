@@ -1,105 +1,129 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Holdup Plays"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Declarer "N"]
-[Contract "4S"]
-[Result ""]
-[Auction "N"]
-1S pass 2S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/holdup_plays"]
-[Student "S"]
-{North is to play 4\S. East leads the \DQ. West plays the \D9.
-
-Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
-
-On the plus side dummy has an extra \H winner on which you could discard a loser from your hand. The danger is that when you take the trump finesse, East might win the \SK and put his partner in the lead with the \DK for a \C play through your \CK.
-
-To prevent that from happening all you have to do is hold up on the first \D. You have to lose one trick in the suit no matter what, so lose it right now to East, the Safe Hand. East continues with another \D which you win.
-
-You go over to dummy with a \H and play the \SQ, letting it ride. East wins with his \SK, but cannot play \Cs from his side of the table without handing you a trick. Whatever else he plays you win, pull trumps, and discard a \C loser on dummy's fourth \H.
-
-At notrump you usually hold up to exhaust one player of a suit so he cannot lead that suit back to his partner.
-
-At suit contracts the most common reason for a hold-up is to keep the Danger Hand from getting the lead.}
-[Play "W"]DQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
-[Declarer "E"]
 [Contract "3NT"]
 [Result ""]
-[Auction "E"]
-1NT pass 3NT pass pass pass
+[Auction "W"]
+3H 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "2347324d4bce95522fb7b7f66cd981db85af3954c1f3678eec0c756f3c7c6fc2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{East is to play 3NT. South leads the \HK.
+{North is to play 3NT. East leads the \H4. West plays the \H10.
 
-Winners:   \S=3  \H=1  \D=0  \C=4  Total = 8
+Winners:   \S=1  \H=1  \D=3  \C=1  Total = 6
 
-Unless there is a miracle in the \Ds, (or a defensive error), you can't get a trick in that suit. But you have a chance for a second \H trick.
+You may not agree with North's 3NT bid but how else are you going to get to the only game that has a chance of making?
 
-It's the Bath Coup again, just dressed up a little differently. 
+You need 3 extra winners and they will come from the \C suit even if East holds the \CK and wins your finesse. You may think about holding up on the \HA for one round just to make sure East has none if he wins the \CK.
 
-Let South hold the first trick, playing the \H7 from your hand to conceal the \H4 in the hope that South will continue the suit. If he does you have your ninth trick - if he doesn't, good luck.
+That would be a mistake. It is almost certain that West has a 7-card \H suit for his preemptive opening. This is confirmed by East's lead of the \H4, with a doubleton he would have led a higher card. So there is no need to hold up. But . . . it couldn't hurt, could it?
 
-Compare this Bath Coup to the one in Deal 10.}
-[Play "W"]HK
+Yes, it could hurt real bad! Suppose West has nothing in his hand but the \H K Q J 10 8 7 6 that you already know about. When you let his \H10 win the first trick he will realize that his hand is dead. And he may be smart enough, (or lucky enough), to switch to a \S. 
+
+The purpose of the hold-up play is to cut communications between the two defenders. So the general guideline is to hold up until you are sure one of the defenders is void in the suit - maybe twice, maybe only once, and in this case not at all.
+
+But one of the important considerations you have to think about is the possibility that the Defense will switch to another suit - where you might be in even more trouble.
+
+You'd feel bad on this hand if you let West hold the \H10 only to see him next lay down the \SJ.}
+[Play "W"]H4
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
-[Declarer "S"]
-[Contract "3NT"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
+[Declarer "E"]
+[Contract "4S"]
 [Result ""]
-[Auction "S"]
-1NT pass 3NT pass pass pass
+[Auction "N"]
+1C 1S pass 2C pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "df8dc92cbc889c201ff0b1f67bf702bba2c9a5f3f695c18d3b6ea89dee786da8"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{South is to play 3NT. West leads the \S7.
+{West's 2\C cue-bid shows a limit-raise or better in \Ss. East is to play 4\S. South leads the \C2. North plays the \CK.
 
-Winners:   \S=1  \H=2  \D=3  \C=0  Total = 6
+Losers:   \S=0  \H=2  \D=1  \C=1  Total = 4
 
-It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that West may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up?
+You have one loser too many. If South holds either the \HA or the \DK this will be an easy contract, but North opened the bidding so he probably has most of the high cards. It does look like South holds the \CQ based on his low lead and North's play to trick one.
 
-To answer that question you must think about West's lead. Since he did not lead the \SK you know he doesn't have a suit headed by K Q J. So you can visualize East sitting there with a doubleton honor in \Ss. It might be \S K x, \S Q x or \S J x, but it is surely one of those three.
+Having gone through that thought process what is your Plan?
 
-Think what East will do if you duck in dummy. He will play his honor, win the trick, and clear the suit by leading his small x. If West can get in with the \CA he will run the \Ss.
+You will need to discard a loser on dummy's fourth \D, but you must do so without ever letting South gain the lead since South is the defender who can lead through dummy's \HK. And the only card that South can get the lead with is the \CQ.
 
-But what will East do if you play dummy's \SA? If he plays his small one the \S suit will block. If he unblocks his honor card then your \S 10 9 5 3 will provide a second stopper in the suit. So you go up with dummy's \SA and guarantee the contract.
+Hold-ups are usually used in notrump hands, but here you use one to prevent the Danger Hand from gaining the lead. Let North have the \CK. He cannot play a red card without helping you so he will surely play another \C. 
 
-A tough finish that needs some real visualization to get right.
+Pull trumps in two rounds. Then play the \D10 and let it ride.
 
-Of course from now on you will recognize it.}
-[Play "W"]S7
+North will win this but he is helpless. Whatever he plays you will be able to discard a \H loser on dummy's \D.
+
+The purpose of the hold-up play is to cut communications between the two defenders. Here you knew you would lose exactly one \C trick so you chose to lose it to North, the Safe Hand.
+
+If you had taken the first \C trick North would have won your later \D finesse, put his partner on lead with the \CQ and then swallowed up your \HK.
+
+Of course if South had been clever enough to lead a \H originally this Deal wouldn't be here.}
+[Play "W"]C2
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+2H 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ad72454895313755c9b9188b08b7e388f9cb424c9cf3af5cd6ed2de144a633ad"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/holdup_plays"]
+[Student "S"]
+{South's 2NT overcall shows a 1NT opening hand with \Hs stopped. South is to play 3NT. West leads the \H7. East plays the \H10.
+
+Winners:   \S=0  \H=2  \D=0  \C=2  Total = 4
+
+You will need to establish both \S and \D winners. If East holds both these Aces along with 6 \Hs to the Q J then you are going down. But of course East can't have that good a hand, he opened with a Weak-2. So West has one of the Aces.
+
+If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. Let East have the first \H and win the next \H in dummy.
+
+Start on \Ds next, maybe because they are longer. Assume that West holds the \DA and takes it on the third round of the suit.
+
+West glares at you, (because he has no \H to lead), and plays the \CQ which you take with your \CA. Next you score your \D winners and play a \S, taken by East with the \SA.
+
+[showcards N:ST,S6,C8,C7 S:SK,SJ,CK,CT]
+
+East glares at you, (because you still have the \HA), and plays another \H to your Ace. You take your 3 tricks and let West have the last \C.
+
+If you did not hold up on the first trick, but established \Ds first you would not have made the contract.
+
+If you did not hold up on the first trick, but established \Ss first you would have made the contract even though you played incorrectly.
+
+If you held up on the first trick you made the contract no matter which Ace West held.}
+[Play "W"]H7
 
 [Event ""]
 [Site ""]
@@ -111,7 +135,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -132,7 +156,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "NS"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -153,7 +177,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -174,7 +198,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -195,7 +219,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -216,7 +240,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -237,7 +261,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -258,7 +282,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -279,7 +303,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -300,7 +324,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -321,7 +345,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -342,7 +366,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -363,7 +387,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "EW"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -384,7 +408,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -405,7 +429,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -426,7 +450,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -447,7 +471,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -468,7 +492,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "NS"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -489,7 +513,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "EW"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -510,7 +534,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -531,7 +555,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -552,7 +576,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "EW"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -573,7 +597,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -594,7 +618,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -615,7 +639,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -636,7 +660,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "All"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -657,7 +681,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "None"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -678,7 +702,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -699,7 +723,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "EW"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -720,7 +744,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -741,7 +765,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "E"]
 [Vulnerable "NS"]
-[Deal "N:AJT852.KJ4.A8.K6 K6.873.QJT4.A832 Q93.AQT2.753.754 74.965.K962.QJT9"]
+[Deal "W:J6.KQJT876.T62.4 A92.A92.KQ4.AQ76 KQT83.4.J873.K52 754.53.A95.JT983"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -762,7 +786,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "E:A84.J74.Q84.AKJ6 763.KQT85.KT9.72 KQ9.A32.753.Q954 JT52.96.AJ62.T83"]
+[Deal "N:4.AQT2.K64.KT863 AKJ875.83.T52.AJ 93.J954.873.Q742 QT62.K76.AQJ9.95"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]
@@ -783,7 +807,7 @@ Of course from now on you will recognize it.}
 [South ""]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "S:T953.AK4.AQ7.K63 KJ872.T75.T94.A5 A6.632.K53.QJT94 Q4.QJ98.J862.872"]
+[Deal "E:A83.QJT642.73.42 KJ7.A95.JT92.AKT 9542.73.A84.QJ96 QT6.K8.KQ65.8753"]
 [Scoring ""]
 [Declarer ""]
 [Contract ""]

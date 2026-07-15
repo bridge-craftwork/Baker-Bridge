@@ -1,0 +1,59 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ9753.Q7.AK3.K2 K4.8643.J752.A84 JT82.K52.86.Q763 6.AJT9.QT94.JT95"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1ccbd00de343fafbb5a531cf4448a5112dbc31f3aa0f59b4e5bbef9797e0f866"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{NORTH has 20 points, counting two extra for the fifth and sixth \Ss. 
+Naturally she opens 1\S.
+
+SOUTH has a poor hand, but with 7 points he must respond. He has four of partner's \Ss 
+so he responds 2\S.
+
+NORTH KNOWS that 6 + 20 = 26, so she GOES to 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A74.AJ872.KQJ.A3 Q65.63.862.KQJ85 J8.KQ54.9753.T64 KT932.T9.AT4.972"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1H pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "511889ef11bb30bdc38b48e9a1677a44684d06daa59152c323428419a07816d6"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{EAST has 20 points, but with a 5-card Major opens 1\H rather than 2NT.
+
+WEST barely has enough points for a response, but she does have four \Hs. 
+So she responds 2\H.
+
+EAST adds WEST's 6 to his 20 and bids the game, 4\H.}
+

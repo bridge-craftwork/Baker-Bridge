@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent OLead
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Opening Leads"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ9.K64.KQT3.742 87543.QT3.A4.JT3 AT2.AJ7.J862.K65 J6.9852.975.AQ98"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1D pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7e1e707637c2dc4f9c43e5ee6bd4700e2ab582b40dc0efb84a52ff4759d8c0ad"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/opening_leads"]
+[Student "W"]
+{The bidding has been as shown. The contract is 3NT 
+
+Lead the \H9, the top of nothing.
+
+Your \Cs are so good that all your instincts tell you to lead the \C8, and perhaps set up 3 winners.
+
+If you had one more small \Cs your instincts would be right, but with only a 4-card suit you should think a little longer. Three tricks won't set this contract, so you must depend on partner winning something. And if partner is going to win something perhaps he will lead a \C and you might make FOUR tricks in the suit.
+
+So lead the \H9. You lead a high card so partner won't be tempted to return the suit when he gets the lead. Note that although this lead finesses partner's \HQ, it didn't do anything that declarer wouldn't have done on his own.
+
+Declarer must play \Ds to get some winners, and when West takes the \DA he will surely switch to the \CJ. Down goes declarer.}
+[Play "W"]H9
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:5.KQ963.K6.KQT96 QJ9762.A854.4.74 A43.JT2.QJT98.AJ KT8.7.A7532.8532"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result ""]
+[Auction "E"]
+1H 2S 3D 3S 4C pass 4H pass pass 4S X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2d402a319ebc6602f0853d50766bfb1a2d1f64e7cb8d45ff9b7b5d9bc8013f00"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/opening_leads"]
+[Student "W"]
+{The bidding has been as shown. The contract is 4\S doubled 
+
+Lead the \SA.
+
+South's 2\S bid is a Weak-jump Overcall, based on a 6-card \S suit and a weak hand.
+
+Either the \DQ or \HJ would normally be good leads.
+
+But on this deal North/South have clearly sacrificed against your almost certain \H game. Since they don't have enough high-card strength to make this contract declarer is hoping to get some ruffs.
+
+The way to cut down the number of ruffs he can make is to lead a trump at every opportunity.
+
+So take the \SA and then play another \S. Declarer will still be able to ruff one \H in dummy, but will be left with two losing \Hs and will be down 2. Without the two trump plays he could have ruffed all three of his \H losers and actually made the conract.}
+[Play "W"]SA
+

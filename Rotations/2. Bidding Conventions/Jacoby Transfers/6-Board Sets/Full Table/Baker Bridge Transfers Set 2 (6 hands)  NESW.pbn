@@ -1,174 +1,92 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Transfers
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Jacoby Transfers"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:Q6.A74.KJ92.KQ83 KT73.J5.Q853.J62 AJ854.KQT83.6.75 92.962.AT74.AT94"]
+[Deal "N:AJ76.Q6.K753.KQ4 KT84.AJT5.42.JT8 53.K98742.AT6.65 Q92.3.QJ98.A9732"]
 [Declarer "N"]
-[Contract "4H"]
+[Contract "3H"]
 [Result ""]
-[Auction "S"]
-1NT pass 2H pass 2S pass 3H pass 4H pass pass pass
+[Auction "N"]
+1NT pass 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "4ef7412a0e856dc8d463a988de73534b9565289b94083ff74a8939bc22c3f693"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{South opens 1NT.  
+{North opens 1NT.  
 
-This is the sequel to Deal 6. You are 5-5 in the Majors again, but this time you have game forcing strength.
+You have 9 points and 6 \Hs. You transfer partner to \Hs by bidding 2\D. He bids 2\H, as instructed.
 
-The preferred method for this hand is to transfer partner to \Ss, so you bid 2\H.
+What is your next bid? 
 
-What do you bid after partner completes the transfer? 
+You want to tell partner you have invitational strength. You also want to tell him that you have 6 \Hs, and that the contract must be played in \Hs. The bid that says both is 3\H.
 
-You show your second 5-card Major by bidding 3\H. Since this shows game-forcing strength (11+ points) partner may not pass, but must bid either 4\H or 4\S. In this Deal he naturally bids 4\H.
+Partner declines your invitation by passing.
 
-If you held an even stronger hand and wished to move toward a slam you would start out the same way but then bid again after partner's game bid.}
+A comment is in order about revaluing your hand. Since partner must have at least a doubleton \H it is tempting to claim that with the 8-card fit you should add one point for each of your doubletons, bringing your total to 11. If you did this then you should be bidding game rather than just inviting. The problem with the revaluing is that counting doubleton points in the long-trump hand is deceiving. If you do end up ruffing one or both of those suits it will not add any tricks to your total since you would make your small trumps anyway. So when you have a 6-card suit it is more accurate to not revalue.
+
+As you can see, making even 9 tricks is going to be a challenge.}
 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:J4.AQJ5.AQJ3.T96 K86.KT963.T72.73 AQT75.4.986.AKQ5 932.872.K54.J842"]
+[Vulnerable "EW"]
+[Deal "E:QT9.K53.K62.AK84 AJ64.98.975.JT32 53.AQT742.QJT.65 K872.J6.A843.Q97"]
 [Declarer "E"]
-[Contract "3NT"]
+[Contract "4H"]
 [Result ""]
 [Auction "E"]
-1NT pass 2H pass 2S pass 3C pass 3NT pass pass pass
+1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "fcf513047d7b53744b4c1e1ccefddcbba189a9cd16f0e1a8eb90b265cd83f1c8"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
 {East opens 1NT.  
 
-Initiate the transfer by bidding 2\H. After partner responds 2\S  
+You should bid 2\D to transfer partner to \Hs. He bids 2\H.  
 
-Your bid of a minor suit here shows at least 4 cards and is a slam try. With a weaker hand you would probably just bid 2NT or 3NT.
-
-Having made the try, you accept whatever partner decides. In this case, with a 15 point minimum, a doubleton \S and no \C fit, partner settles on 3NT.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "EW"]
-[Deal "S:KJ.KQ9.KT73.AJ74 983.J75.J54.T982 AQT75.A4.986.KQ5 642.T8632.AQ2.63"]
-[Declarer "S"]
-[Contract "6NT"]
-[Result ""]
-[Auction "S"]
-1NT pass 2H pass 2S pass 4NT pass 6NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "beginner"]
-[SkillPath "bidding_conventions/jacoby_transfers"]
-[Student "S"]
-{South opens 1NT.  
-
-With 16 points you have to be thinking about slam. But first things first, start the transfer process by bidding 2\H.
-
-What is your next bid after partner's 2\S? 
-
-With 16 points you want to make an invitation to slam, but you also need to let partner know that you only have 5 \Ss so that he can play notrump when he only has a doubleton \S.
-
-The <b>BEST</b> way to say both these things is to bid 4NT. This is similar to the 2NT bid in Deal 2.
-
-But you can see the problem with the bid - if partner mistakes it for Blackwood 4NT things could get very confused. So don't use this unless you know both of you are on the same wavelength. 
-
-Here both partners understood the bid and South bid 6NT.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:Q2.AJ3.AK64.KQJT JT843.T5.J52.A53 75.KQ874.T93.874 AK96.962.Q87.962"]
-[Declarer "W"]
-[Contract "4H"]
-[Result ""]
-[Auction "W"]
-2NT pass 3D pass 3H pass 3NT pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "beginner"]
-[SkillPath "bidding_conventions/jacoby_transfers"]
-[Student "S"]
-{West opens 2NT showing a balanced 20-21 point hand.  
-
-Jacoby Transfers work fine with 2NT openings also. You should bid 3\D as a transfer to \Hs. Partner complies by saying 3\H.  
-
-You bid 3NT which tells partner you have just 5 \Hs and lets him decide on which game to play.
-
-On this Deal partner has 3 \Hs so he bids on to 4\H.
-
-Notice that when partner opens 2NT the invitation to game option is no longer available. As responder you must decide immediately whether to stop short of game (by transferring then passing) or to go to game. This is not a serious problem since the tighter (20-21) point range makes responder's decision easier to make.}
+You know you have at least an 8-card \H fit. You know you have at least 26 points (15 + 11). She who knows, goes, so you bid 4\H.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:KQ75.J8.AQ6.QJ74 AJT3.K74.T983.T5 92.QT962.K54.K83 864.A53.J72.A962"]
-[Declarer "N"]
-[Contract "2NT"]
+[Vulnerable "None"]
+[Deal "N:QJ5.K8.AT62.AK98 43.QJT5.KQ754.JT KT987.A9764.83.5 A62.32.J9.Q76432"]
+[Declarer "S"]
+[Contract "4S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2D pass 2H pass 2NT pass pass pass
+1NT pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a6dcb0f5282592930278916cae6d2a7af437d959b8a0031c58b14301d65a96ed"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{You open 1NT and partner responds 2\D.  
+{North opens 1NT.  
 
-This is an easy one. Partner has commanded you to say 2\H. So you say 2\H. Partner now bids 2NT.
+You transfer of course, but to which Major? It can work either way, but the preferred method is to first transfer partner to \Hs when you have an invitational hand. So you bid 2\D, and partner of course says 2\H.  
 
-What is your bid? 
+You now show your second 5-card Major by bidding 2\S.
 
-Partner's bidding shows 9 points and exactly 5\H. He asks that you take him back to \Hs if you have 3 of them. You don't. He is asking you to bid game if you have 17 points or a good 16. You don't.
+At this point partner becomes the Captain. You have described an invitational (9 point) hand with 5-5 in the Majors. Partner's next bid should set the contract wherever he chooses. In this case, with a maximum 1NT opener and 3 \Ss he picks 4\S.
 
-So you pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:Q4.AQ8.KQT5.AT93 A75.T732.73.Q862 KJT63.96.982.KJ4 982.KJ54.AJ64.75"]
-[Declarer "E"]
-[Contract "3NT"]
-[Result ""]
-[Auction "E"]
-1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "beginner"]
-[SkillPath "bidding_conventions/jacoby_transfers"]
-[Student "S"]
-{You open 1NT and partner responds 2\H.  
-
-Naturally you say 2\S. Partner comes back with 2NT.
-
-Partner's bidding shows 9 points and exactly 5\S. He asks that you take him back to \Ss if you have 3 of them. You don't. He is asking you to bid game if you have 17 points. You do.
-
-So you bid 3NT.}
+Note that you must have at least one Major suit fit since partner cannot have a doubleton in both.}
 

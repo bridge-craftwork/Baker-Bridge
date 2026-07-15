@@ -1,0 +1,61 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-TwoClub
+%bridge-classroom-stable: true
+%bridge-context: Strong 2C (22+); 2D = waiting/negative
+[Event "Baker Bridge - Strong Two-Club Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK9.AK2.A83.AJ74 Q4.QJ96.KQT97.K6 872.754.J642.953 JT653.T83.5.QT82"]
+[Declarer "N"]
+[Contract "2NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 2NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0b8c66d928866f97e527106f4e897c1c78de61f5d105f30463d2904650e20567"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH has a perfect hand for an opening bid of 2\C. 
+23 points and balanced distribution is just fine.
+
+SOUTH is glad to hear his partner has lots of points, because he was shortchanged. 
+However, he must answer, so with 1 point he bids a negative 2\D.
+
+NORTH describes her hand by saying 2NT. 
+SOUTH does not have to bid the double negative over a 2NT bid, so he passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A82.AK75.KQJ.KQT T965.JT6.A743.97 K73.Q82.T986.542 QJ4.943.52.AJ863"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "731b076b22f6d79257a82a2f69e51dd340bca5f4438dd0a87d28866722f1327b"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH has a balanced hand with 22 points. He opens 2\C.
+
+NORTH, with 5 points, must respond \D. Both these 
+bids are artificial.
+
+SOUTH now describes his hand by bidding 2NT. 
+NORTH bids 3NT, knowing that the partnership holds at least 27 points.}
+

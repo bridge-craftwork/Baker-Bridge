@@ -1,0 +1,69 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-AdvancedForcing
+%bridge-classroom-stable: true
+%bridge-context: FSF one-round force only; Help-Suit Game Try
+[Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:84.AK943.AJ96.75 2.T76.T8532.AK86 AQJ63.QJ5.K4.T92 KT975.82.Q7.QJ43"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 1S pass 2D pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "bd5f8c123e64708ba25e2773f59de234d59e228566ce0b11798da8a0b88ec575"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH should not use Fourth Suit Forcing to see if NORTH holds three \Ss because 
+that information is irrelevant.
+
+SOUTH already knows there is an 8-card \H fit and enough 
+points to be in game so he bids it.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKJ86.J53.3.AK63 752.KT9.AJ64.J97 Q93.7642.KT82.Q5 T4.AQ8.Q975.T842"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "S"]
+1S pass 2S pass 3H pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a6158a34d23301c9f6983564d8490377aff2c4bdc042420c53e72c00bf7374f4"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{SOUTH thinks there might be game if NORTH can help with the three \H 
+losers. So he bids 3\H as a Help Suit Game Try.
+
+NORTH cannot provide any help at all, so quickly signs off in 3\S which SOUTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K95.KJ2.A963.Q64 Q73.T8.Q85.KJT92 AJ862.Q93.K74.85 T4.A7654.JT2.A73"]
+[Declarer "N"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+1D pass 1S pass 1NT pass 2C pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]

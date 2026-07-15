@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Reverse
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Reverse Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:7.AQJ9.KQJ764.A3 9542.64.A52.KQJ9 AK86.72.T98.7654 QJT3.KT853.3.T82"]
+[Declarer "N"]
+[Contract "5D"]
+[Result ""]
+[Auction "N"]
+1D pass 1S pass 2H pass 3D pass 5D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b9456988c8fb90b6a535613428b87952eed527913d95082bc0ffcbf545bce370"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/reverse_bids"]
+[Student "S"]
+{You have an ideal hand for a Reverse, so you bid 2\H.
+
+Partner now bids 3\D.  
+
+Partner has a minimum hand, but at least he came up with a preference for \Ds.
+
+There are no guarantees here, but you should probably try 5\D.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J5.AT.AQJ3.KQ986 T82.QJ95.T864.A5 KQ9743.872.K5.T3 A6.K643.972.J742"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1C pass 1S pass 2D pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a0d909730b0e8d2d9ad5d650fda0c8b96b2033fed649e7f454fe25bff331aab3"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/reverse_bids"]
+[Student "S"]
+{With 18 points you have enough to make a Reverse. So you bid 2\D. Partner now says 3\S.  
+
+Partner's jump bid shows a 6-card suit and enough points to insist on game. With your \H stopper you might be considering 3NT, but since you know of an 8-card \S fit you decide on 4\S.
+
+Be very glad that you did.3NT would go down with a \H opening lead while 4\S is cold.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J.K84.AQT9.KQJT7 Q.AJT3.8732.9832 A8643.76.KJ64.A5 KT9752.Q952.5.64"]
+[Declarer "N"]
+[Contract "5D"]
+[Result ""]
+[Auction "N"]
+1C pass 1S pass 2D pass 4D pass 5D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]

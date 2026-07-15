@@ -1,0 +1,54 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Overcalls
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Overcalls and TakeOut Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:T4.T74.Q42.KQT73 AK872.J98.K76.65 963.653.JT3.AJ98 QJ5.AKQ2.A985.42"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1C 1S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "bc50e909a6d6bab3cfd161859055133e2b4992f4ac0481ac9055e2805c7adcec"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{SOUTH has a normal overcall of 1\S.
+
+NORTH has a really good hand, but he doesn't have to worry about missing a slam since SOUTH will 
+not have more than 16 points. So he just bids what he thinks SOUTH can make, 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AJ84.T97.A84.K72 KQ3.KQJ53.965.T6 972.A62.Q72.Q953 T65.84.KJT3.AJ84"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "W"]
+1D 1H pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "85e74313c952b643231714eaf6ea78b5d418621d1c50ea75daee64254f9c4bd2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{NORTH has 12 points and a good enough suit to overcall 1\H.
+
+SOUTH has 9 points with a good \D stopper. She bids 1NT.
+
+NORTH has nothing more to say, and lets SOUTH play 1NT.}
+

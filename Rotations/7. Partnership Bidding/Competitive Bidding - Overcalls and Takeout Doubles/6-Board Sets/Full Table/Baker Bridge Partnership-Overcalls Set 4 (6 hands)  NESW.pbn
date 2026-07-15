@@ -1,154 +1,84 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Overcalls
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Overcalls and TakeOut Doubles"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:4.AQ63.A542.AQT4 KQJ9753.74.Q3.62 T6.KT98.JT7.KJ98 A82.J52.K986.753"]
+[Deal "W:AT3.9743.T92.Q52 Q74.AQT.KJ75.AK6 985.KJ82.864.JT3 KJ62.65.AQ3.9874"]
 [Declarer "N"]
-[Contract "3S"]
+[Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1C 3S pass pass pass
+1H X pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "540e53b7349d9deee7952d54ae5f3956f89f273c0143c2d3d16e2c9757e9c17a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{If West had passed, NORTH would have opened with a preemptive 3\S.
+{NORTH has a 19 point balanced hand, including a stop in \Hs. 
+He plans to double, then bid NT. (see Deal 9)
 
-She should make the same bid with the same hand AFTER the opponents open. And she makes it 
-for the same reason, to describe her hand and to take away bidding space from the opponents.
+SOUTH has 10 points though, so he jumps to 2\S. 
 
-SOUTH treats it just like a Preemptive 3-bid, even though it is now called a Weak Jump Overcall. 
-In this case, SOUTH passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:Q63.K87.K94.AKJT AJT85.63.AJT85.3 94.AT92.Q72.Q752 K72.QJ54.63.9864"]
-[Declarer "E"]
-[Contract "1S"]
-[Result ""]
-[Auction "N"]
-1C 1S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "partnership_bidding/overcalls"]
-[Student "S"]
-{EAST has 12 points, but with two 5-card suits worthy of an overcall. There isn't really a 
-right and wrong here, but it usually works out best to overcall in the higher-ranking suit. That 
-leaves open the possibility of bidding the second suit later.
-
-In this Deal, after EAST overcalls 1\S, that later possibility never happens because 
-everybody should pass.}
+In theory NORTH could now bid 2NT to continue the description of his hand, but he might as well 
+go ahead and bid 3NT instead.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "EW"]
-[Deal "S:KJ9.AKJ5.Q75.AT3 A53.42.AK2.J7642 T742.T97.JT6.KQ9 Q86.Q863.9843.85"]
-[Declarer "S"]
-[Contract "1S"]
+[Deal "N:97.QJT9.954.KQ65 AQT53.64.QT.A974 86.K732.A876.T83 KJ42.A85.KJ32.J2"]
+[Declarer "E"]
+[Contract "4S"]
 [Result ""]
-[Auction "S"]
-1S pass pass pass
+[Auction "N"]
+1H 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "f3eb1307f86e36c8fceec662f922f893947b83e9b689a14ff7b476563069a980"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{WEST has 13 points but she has to pass. 
-She cannot Double without support for \Hs. 
-She cannot bid 1NT without 2 more points. 
-She cannot overcall 2\C with a terrible suit like that.
+{With a 5-card \S suit and 13 points EAST should overcall 1\S.
 
-And EAST of course must also pass.}
+WEST has 13 points and four \Ss. If EAST had opened, WEST's hand would be good enough 
+to insist on game. But since EAST overcalled, WEST merely invites with a jump to 3\S.
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:765.953.AT42.JT9 KQJ842.Q2.Q87.83 A9.AT84.963.K654 T3.KJ76.KJ5.AQ72"]
-[Declarer "W"]
-[Contract "1S"]
-[Result ""]
-[Auction "W"]
-1S pass pass X pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: E, basisKind:Declarer, nOption:3, nBasis: 1, nRot: 2, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "partnership_bidding/overcalls"]
-[Student "S"]
-{NORTH obviously has to pass when WEST opens 1\S.
-
-SOUTH has a reasonable Takeout Double. She hopes NORTH will name a suit and they can just 
-play a partscore.
-
-You should almost always bid when partner makes a Takeout Double. Almost always. This is the one time 
-when you don't. NORTH's \S are so good that he passes, converting the Takeout Double into a 
-Penalty Double.}
+EAST has better than a minimum overcall so she accepts the invitation and bids 4\S.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "W"]
-[Vulnerable "None"]
-[Deal "W:63.543.Q32.KQ983 AK872.J98.K76.65 T94.T76.JT4.AJT7 QJ5.AKQ2.A985.42"]
-[Declarer "N"]
-[Contract "4S"]
+[Vulnerable "NS"]
+[Deal "W:T982.A.KT843.842 KJ64.JT75.6.AKJ3 A75.32.QJ97.QT76 Q3.KQ9864.A52.95"]
+[Declarer "S"]
+[Contract "4H"]
 [Result ""]
 [Auction "W"]
-1C 1S pass 4S pass pass pass
+1D X pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ab46bf38d8ff5ed7650ffc8b230cffc8f251022c7204c43f96964d10f49d0586"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
 [Student "S"]
-{NORTH has a normal overcall of 1\S.
+{NORTH has a very minimum Takeout Double of 1\D. But what it lacks 
+in strength, it makes up for with perfect distribution.
 
-SOUTH has a really good hand, but he doesn't have to worry about missing a slam since NORTH will 
-not have more than 16 points. So he just bids what he thinks NORTH can make, 4\S.}
+SOUTH has 13 points and only wants to play in one contract, 4\H.
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "S"]
-[Vulnerable "EW"]
-[Deal "S:J742.AT9.742.K93 KQ3.KQJ53.965.T6 A98.762.AQ8.Q752 T65.84.KJT3.AJ84"]
-[Declarer "E"]
-[Contract "1NT"]
-[Result ""]
-[Auction "S"]
-1D 1H pass 1NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "partnership_bidding/overcalls"]
-[Student "S"]
-{WEST has 12 points and a good enough suit to overcall 1\H.
-
-EAST has 9 points with a good \D stopper. She bids 1NT.
-
-WEST has nothing more to say, and lets EAST play 1NT.}
+NORTH passes happily.}
 
