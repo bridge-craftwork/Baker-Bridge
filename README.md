@@ -147,6 +147,7 @@ HTML Files -> bbparse.py -> BakerBridge.csv
 | **export** | (build-mac.sh) | Copy the contract files `Collection/` -> `bridge-classroom/` |
 | **presentation** | `package_presentation.py` | Organize `Collection/` into `Presentation/` by category, strip interactive directives |
 | **rotate** | `rotate_lesson_collection.sh` | Slice into board sets, rotate hands, generate dealing sheets -> `Rotations/` |
+| **publish** | (build-mac.sh) | Mirror `Rotations/` to the public Google Drive teacher folder (`rsync --delete`) |
 
 ### The --generate Flag
 
@@ -162,6 +163,22 @@ The **generate** phase (running dealer3 to produce `constructed_hands.csv`) is t
 ./build-mac.sh '*'          # Run all phases sequentially
 ./build-mac.sh --clean '*'  # Clean artifacts, then run all phases
 ```
+
+### Publishing to Google Drive
+
+Teachers can pull `Rotations/` from GitHub, but the easier-to-access copy is a public-readable
+Google Drive folder. The `publish` phase mirrors `Rotations/` there with `rsync --delete`, so
+anything removed from the master is also removed at the destination:
+
+```bash
+./build-mac.sh publish                    # mirror the whole Rotations tree
+./build-mac.sh publish --lesson Ogust     # publish just one lesson folder
+PUBLISH_ARGS=-n ./build-mac.sh publish    # dry-run (show what would change)
+```
+
+`publish` is intentionally **not** part of the `classroom`/`rotations` shortcuts or `'*'` — it
+pushes to a public drive, so it is always an explicit step. The target defaults to the
+maintainer's Drive path; override with `BB_PUBLISH_DIR`.
 
 ## Data Files
 
