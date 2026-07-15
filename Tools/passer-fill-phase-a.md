@@ -54,10 +54,34 @@ Unbalanced hands (long suits) are exactly the ones that overcall, so they're
 preferentially rejected and the survivors skew **more** balanced. This is not a bug — the
 passers are correctly quiet — but "realistic variety" is **not** a free side effect.
 
-**Implication for Phase B:** if variety is a goal, bias the *draw* toward unbalanced-but-
-quiet shapes (e.g., accept a quota of 5-4 / weak-6-card hands that still pass BBA) rather
-than relying on uniform random draw. Note reject-only still admits some long suits when they
-genuinely don't bid (regenerated Reverse kept 2 six-card quiet suits), so the skew is mild.
+## Managed variety bias (added)
+
+Per the requirement — push *some* hands off the balanced norm, but **no outliers** (other
+variety tools over-select freaks) — the prototype now steers variety in a bounded way:
+
+- **Hard shape filter (always reject, regardless of BBA):** a quiet suit longer than
+  `--max-suit` (default 6), any **void**, or a **5-5+ two-suiter**. These "outlier" shapes
+  are never accepted, even if EPBot would pass them.
+- **Bang-bang controller toward a target:** `--variety` (default **0.35** = 35% of quiet
+  hands modestly unbalanced). Under target ⇒ prefer a candidate that adds a *modest* hand
+  (5-4-2-2, 6-3-2-2, 5-4-3-1, 4-4-4-1…); at/over target ⇒ prefer an all-balanced fill. It
+  converges to the target and no further, and **falls back to a clean balanced hand** when no
+  modest one passes BBA for that board (never forces unbalance, never stalls).
+
+Achieved (seed 7), balanced fraction old → new, outliers in output always **0**:
+
+| target (balanced) | NMF | Reverse |
+|---|---|---|
+| 75% (`--variety 0.25`) | 71% → **75%** | 61% → **75%** |
+| 65% (`--variety 0.35`) | 71% → **64%** | 61% → **64%** |
+
+Sample regenerated NMF quiet hands (all classified `modest`, none freak): `A.876.J7543.QJT9`
+(5-4-3-1), `KJT8.J8.A9643.JT` (5-4-2-2), `J87632.763.J.A32` (6-3-3-1 — weak 6-card suit that
+correctly doesn't overcall). Re-audit of the output = **0 biddable**. Accept rate 31–52%
+(the outlier filter + steering cost some draws), still ~2s/lesson.
+
+**Phase B carries the knobs** (`--variety`, `--max-suit`) as-is; no further variety work needed
+unless the defaults want tuning per lesson.
 
 ## Decision: prefix strategy = per-turn probing
 
@@ -73,7 +97,8 @@ non-pass, so rejected candidates are cheap (~1 BBA call).
 - Cache validated fills (seeded, deterministic) and reuse across builds; only fill+validate
   new/changed deals. Unify the mac/windows split (`constructed_hands.csv` vs `-windows`).
 - Integrate into `fill_hands.py` (make the Windows/SSH path legacy) or replace it.
-- Optional: a draw bias for shape variety (see finding above).
+- Carry the managed-variety knobs (`--variety`, `--max-suit`) forward; tune defaults per
+  lesson only if wanted.
 - Token re-stamping: changing passers changes `[BoardVersionToken]`; the build's
   `stamp_board_tokens.py` re-stamps, but a fill regeneration is a board-identity change BC
   will see — coordinate per the producer contract when this actually reships.
@@ -82,9 +107,10 @@ non-pass, so rejected candidates are cheap (~1 BBA call).
 
 ```bash
 cd Tools
-python3 fill_bba_reject.py NMF Reverse         # regenerate; writes bba_reject_out/*.pbn
-python3 fill_bba_reject.py --seed 1 NMF        # deterministic draw
-python3 audit_passers.py NMF                   # baseline check (audits Package/, not the output)
+python3 fill_bba_reject.py NMF Reverse                 # regenerate; writes bba_reject_out/*.pbn
+python3 fill_bba_reject.py --seed 1 NMF                # deterministic draw
+python3 fill_bba_reject.py --variety 0.25 --max-suit 6 NMF   # managed variety knobs
+python3 audit_passers.py NMF                           # baseline check (audits Package/, not output)
 ```
 (Prototype outputs land in `Tools/bba_reject_out/` and are intentionally **not committed** —
 they're regenerable and, unseeded, non-deterministic.)

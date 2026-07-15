@@ -205,6 +205,10 @@ Tool: `Tools/fill_bba_reject.py` · write-up: `Tools/passer-fill-phase-a.md`.
 - [x] N/S bidding hands **byte-identical** on every board; auctions hold trivially.
 - [x] Bonus: `--seed` gives byte-identical reruns (dealer3 `-s`) → the determinism hook for
       Phase B caching.
+- [x] **Managed variety bias** (per request — push *some* off balanced, no outliers): hard
+      shape filter (no >6-card suit / void / 5-5 two-suiter, always) + a bang-bang controller
+      to a `--variety` target (default 35% modestly-unbalanced). Hits target on both lessons
+      (e.g. 65%/75% balanced as set), 0 outliers, still 0 biddable. Phase B carries the knobs.
 
 ### Phase B — Generalize + cache + unify
 - [ ] Extend to all `Calm` lessons (and any other "quiet opponents" scenarios). Note some

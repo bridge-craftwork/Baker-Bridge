@@ -1,25 +1,29 @@
 #!/usr/bin/env python3
-"""Phase A prototype: BBA-reject passer fill (Mac-native).
+"""Phase A prototype: BBA-reject passer fill (Mac-native), with a *managed* variety bias.
 
 Redesign of the passer fill (issue #21, Tools/passer-fill-bba-redesign.md). Instead of
 *constraining* the passers to be balanced (brittle `auction_calm`), deal VARIED passers
 and empirically REJECT any where a bidding engine (BBA/EPBot) shows the opponents would
 act, then keep the survivor.
 
-Prototype scope: one lesson (default NMF). For each board it
-  1. keeps the bidding side's hands exactly (parsed from the released PBN),
-  2. redraws the quiet (passer) pair from the complementary 26 cards with NO shape
-     constraint (dealer3, predeal the bidders), and
-  3. accepts a candidate only if EPBot passes at every quiet-side turn when the true
-     scripted auction is asserted via `bba-cli --auction-prefix` -- the exact acceptance
-     test used by the Phase 0 audit, so re-auditing the output must yield 0 biddable.
+Phase A found that *reject-only* skews the survivors MORE balanced (long-suit hands are the
+ones that overcall, so they get rejected). This adds a **managed** nudge back the other way:
 
-Backend: native Mac bba-cli + dealer3 (no Windows/SSH). The acceptance probe is imported
-from audit_passers.py so "accepted" == "audit-clean" by construction.
+  - HARD shape filter (always reject, regardless of BBA): "outlier" freak shapes -- a suit
+    of length > --max-suit (default 6), any void, or a 5-5+ two-suiter. We never want these.
+  - Among clean, non-outlier candidates, STEER toward a target fraction of *modestly*
+    unbalanced quiet hands (5-4-2-2, 6-3-2-2, 5-4-3-1, 4-4-4-1, ...): --variety (default
+    0.35). Greedy per-board steering nudges the achieved fraction toward the target and no
+    further -- it pushes *some* hands off the balanced norm without chasing outliers, and
+    falls back to a balanced clean hand when no modest one passes BBA for that board.
+
+Acceptance for biddability is imported from audit_passers.py, so "accepted" is audit-clean
+by construction (re-auditing the output yields 0 biddable). Bidding hands are untouched.
+
+Backend: native Mac bba-cli + dealer3 (no Windows/SSH).
 
 Usage:
-    python3 fill_bba_reject.py [LESSON ...]        # default: NMF
-    python3 fill_bba_reject.py --seed 1 NMF        # reproducible dealer3 draw
+    python3 fill_bba_reject.py [--variety 0.35] [--max-suit 6] [--seed 1] [LESSON ...]
 Writes Package-shaped PBNs to Tools/bba_reject_out/<LESSON>.pbn and prints stats.
 """
 import os, re, sys, subprocess, tempfile, time
@@ -32,6 +36,22 @@ OUT_DIR = os.path.join(ap.REPO, "Tools", "bba_reject_out")
 SEATS = ["N", "E", "S", "W"]
 BATCH = 24          # candidates drawn per dealer3 call
 MAX_DRAWS = 400     # give up on a board after this many candidates
+
+BALANCED_SHAPES = {(4, 3, 3, 3), (4, 4, 3, 2), (5, 3, 3, 2)}
+
+
+def shape(hand):
+    return tuple(sorted((len(s) for s in hand.split(".")), reverse=True))
+
+
+def classify(hand, max_suit):
+    """'balanced' | 'modest' (mildly unbalanced) | 'outlier' (freak, always excluded)."""
+    L = shape(hand)
+    if L[0] > max_suit or L[3] == 0 or (L[0] >= 5 and L[1] >= 5):
+        return "outlier"
+    if L in BALANCED_SHAPES:
+        return "balanced"
+    return "modest"
 
 
 def deal_to_seats(deal):
@@ -91,15 +111,17 @@ def candidate_biddable(seat_hands, dealer, vuln, calls, quiet, turns, tmp):
     return ""
 
 
-def longest_suit(hand):
-    return max(len(s) for s in hand.split("."))
-
-
 def main():
     args = sys.argv[1:]
     seed = None
-    if "--seed" in args:
-        i = args.index("--seed"); seed = int(args[i + 1]); del args[i:i + 2]
+    variety = 0.35     # target fraction of quiet hands that are modestly unbalanced
+    max_suit = 6       # longest quiet suit allowed; longer => outlier (hard reject)
+    for flag, cast in (("--seed", int), ("--variety", float), ("--max-suit", int)):
+        if flag in args:
+            i = args.index(flag); val = cast(args[i + 1]); del args[i:i + 2]
+            if flag == "--seed": seed = val
+            elif flag == "--variety": variety = val
+            else: max_suit = val
     lessons = args or ["NMF"]
     os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -107,10 +129,11 @@ def main():
         path = os.path.join(ap.REPO, "Package", lesson + ".pbn")
         src = open(path, encoding="utf-8", errors="replace").read()
         boards = ap.parse_boards(path)
-        stats = {"boards": 0, "regenerated": 0, "skipped": 0,
-                 "draws": 0, "accepts": 0, "failed": 0}
-        old_len = Counter(); new_len = Counter()
-        replaced = {}   # board number -> new deal string
+        stats = {"boards": 0, "regenerated": 0, "skipped": 0, "draws": 0,
+                 "accepts": 0, "failed": 0, "outliers_rejected": 0}
+        old_cls = Counter(); new_cls = Counter()   # per quiet-hand shape class
+        replaced = {}
+        n_hands = 0; n_unbal = 0                    # running per-hand tally for steering
         t0 = time.time()
         with tempfile.TemporaryDirectory() as tmp:
             for b in boards:
@@ -122,47 +145,57 @@ def main():
                 quiet, turns = qs
                 bidders = [s for s in SEATS if s not in quiet]
                 seat_hands = deal_to_seats(b["deal"])
-                old_len[max(longest_suit(seat_hands[s]) for s in quiet)] += 1
-                accepted = None
-                draws = 0
-                dseed = seed
+                for s in quiet:
+                    old_cls[classify(seat_hands[s], max_suit)] += 1
+
+                # steer (bang-bang controller): under target -> prefer a modest hand;
+                # at/over target -> prefer an all-balanced fill so the fraction converges.
+                cur_frac = (n_unbal / n_hands) if n_hands else 0.0
+                prefer_modest = cur_frac < variety
+
+                accepted = None      # first clean candidate that also adds a modest hand
+                fallback = None      # first clean candidate of any (non-outlier) shape
+                draws = 0; dseed = seed
                 while draws < MAX_DRAWS and accepted is None:
                     cands = draw_candidates(bidders, seat_hands, BATCH, dseed)
-                    if dseed is not None:
-                        dseed += 1   # vary seed across batches for reproducibility
-                    if not cands:
-                        break
+                    if dseed is not None: dseed += 1
+                    if not cands: break
                     for cand in cands:
                         draws += 1; stats["draws"] += 1
-                        # keep bidders exact, take quiet seats from candidate
                         trial = dict(seat_hands)
-                        for s in quiet:
-                            trial[s] = cand[s]
-                        off = candidate_biddable(trial, b["dealer"], b["vuln"],
-                                                 b["calls"], quiet, turns, tmp)
-                        if not off:
-                            accepted = trial; stats["accepts"] += 1
-                            break
-                        if draws >= MAX_DRAWS:
-                            break
+                        for s in quiet: trial[s] = cand[s]
+                        classes = [classify(trial[s], max_suit) for s in quiet]
+                        if "outlier" in classes:            # hard shape filter
+                            stats["outliers_rejected"] += 1
+                            if draws >= MAX_DRAWS: break
+                            continue
+                        if candidate_biddable(trial, b["dealer"], b["vuln"],
+                                              b["calls"], quiet, turns, tmp):
+                            if draws >= MAX_DRAWS: break
+                            continue
+                        # clean & non-outlier
+                        if fallback is None: fallback = trial
+                        ok = ("modest" in classes) if prefer_modest \
+                            else all(c == "balanced" for c in classes)
+                        if ok:
+                            accepted = trial; break
+                        if draws >= MAX_DRAWS: break
+                if accepted is None: accepted = fallback  # no modest hit -> take clean balanced
                 if accepted is None:
                     stats["failed"] += 1
                     print(f"  !! {lesson} b{b['number']}: no clean fill in {draws} draws")
                     continue
-                stats["regenerated"] += 1
-                new_len[max(longest_suit(accepted[s]) for s in quiet)] += 1
+                stats["accepts"] += 1; stats["regenerated"] += 1
+                for s in quiet:
+                    c = classify(accepted[s], max_suit); new_cls[c] += 1
+                    n_hands += 1; n_unbal += (c != "balanced")
                 replaced[b["number"]] = seats_to_deal(accepted, b["dealer"])
         dt = time.time() - t0
 
-        # write new PBN: replace each board's [Deal] line, keep everything else
-        def repl(m):
-            return m.group(0)  # default; handled below per-board
-        out_lines = []
-        cur_board = None
+        out_lines, cur_board = [], None
         for ln in src.splitlines():
             mb = re.match(r'^\[Board "(\d+)"\]', ln)
-            if mb:
-                cur_board = mb.group(1)
+            if mb: cur_board = mb.group(1)
             if ln.startswith("[Deal ") and cur_board in replaced:
                 out_lines.append(f'[Deal "{replaced[cur_board]}"]')
             else:
@@ -171,15 +204,19 @@ def main():
         with open(outp, "w") as f:
             f.write("\n".join(out_lines) + "\n")
 
-        print(f"\n=== {lesson} ===")
+        def bal_frac(c):
+            t = sum(c.values()); return (c["balanced"] / t) if t else 0
+        print(f"\n=== {lesson}  (variety target {variety:.0%} unbalanced, max-suit {max_suit}) ===")
         print(f"  boards={stats['boards']} regenerated={stats['regenerated']} "
               f"skipped(competitive)={stats['skipped']} failed={stats['failed']}")
-        acc_rate = stats['accepts'] / stats['draws'] if stats['draws'] else 0
-        print(f"  candidate draws={stats['draws']} accepts={stats['accepts']} "
-              f"(accept rate {acc_rate:.1%}); wall={dt:.1f}s")
-        print(f"  quiet-side longest-suit distribution (old -> new):")
-        for k in sorted(set(old_len) | set(new_len)):
-            print(f"     {k}-card: {old_len.get(k,0):3} -> {new_len.get(k,0):3}")
+        acc = stats['accepts'] / stats['draws'] if stats['draws'] else 0
+        print(f"  draws={stats['draws']} accepts={stats['accepts']} (rate {acc:.1%}) "
+              f"outliers hard-rejected={stats['outliers_rejected']}; wall={dt:.1f}s")
+        print(f"  quiet-hand shape class (old -> new):")
+        for cls in ("balanced", "modest", "outlier"):
+            print(f"     {cls:<9} {old_cls.get(cls,0):3} -> {new_cls.get(cls,0):3}")
+        print(f"  balanced fraction: {bal_frac(old_cls):.0%} -> {bal_frac(new_cls):.0%} "
+              f"(target {1-variety:.0%})   outliers in output: {new_cls.get('outlier',0)}")
         print(f"  wrote {outp}")
 
 
