@@ -1,0 +1,61 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Overcalls
+%bridge-classroom-stable: true
+{The bidding has been as shown.   
+
+Balanced hand, poor support for partner's suit, stoppers in their suit and 13 points. You couldn't get a better hand to jump to 2NT. Partner takes you to 3NT.}
+
+[Event "Baker Bridge - Overcalls"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:K65.A962.3.AJ853 83.K85.KQT964.72 Q9742.J43.J82.64 AJT.QT7.A75.KQT9"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+1C 2D pass 2NT pass 3H pass 3NT all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a605a0ae37f137cab3da833cb27ce0d74b1de66019d9302eba84787047a11f51"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/overcalls"]
+[Student "S"]
+{The bidding has been as shown.  
+
+With a good 6-card suit and 10 points you make a Weak Jump Overcall to 2\D. Partner says 2NT.  
+
+The 2NT bid is a standard response to a Weak 2-bid. It asks for the identification of any outside high-card if the Weak 2-bidder has more than a minimum. Here you are in the top range for your bid so you show your \HK.
+
+That was apparently the missing link for partner, he now says 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:J7.Q5.9532.AKJ53 KQT932.842.A7.92 64.JT963.QT84.Q7 A85.AK7.KJ6.T864"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1C 2S pass 2NT pass 3D pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b4e8f0c7bbe2aa45580e3a796f12fba6c19c403cfeeeeb8856da4a899c7b73cd"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/overcalls"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You might just try 4\S. Of course if partner has a minimum Weak Jump Overcall that will get you much too high. A better approach is to ask for more information from partner. The bid that asks is 2NT. Partner replies 3\D.  
+
+Partner's 3\D bid tells you two things. One, he is in the top half of his 6-11 point range. Two, he has a high card (Ace or King) in \Ds. When you construct a hand for him which contains 6 pretty good \Ss and the \DA you come up with a hand which will probably make game. Bid 4\S.}
+

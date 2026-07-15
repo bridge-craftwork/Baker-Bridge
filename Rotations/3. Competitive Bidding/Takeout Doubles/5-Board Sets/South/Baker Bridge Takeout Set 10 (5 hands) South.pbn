@@ -1,0 +1,65 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Takeout
+%bridge-classroom-stable: true
+{The bidding has been as shown.   
+
+The redouble has taken the force from you - you can pass if you want to. But if you pass, the most likely scenario is that West will also pass. So partner will either have to let them play 1\D redoubled (which will be a disaster for your side) or take out his own double by bidding some suit. So he will bid a suit and it will almost surely be 1\S.
+
+You can help your side the most by bidding 1\H immediately. You don't have to worry that partner will believe you have a good hand; both he and West have 13+ points and East's redouble shows 10 or more. He knows there are no points remaining for you to have.
+
+On this deal your \H bid gets passed around to East who bids 2\D, the final contract.}
+
+[Event "Baker Bridge - Takeout Doubles"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A54.AJT653.854.7 KT97.8.AK73.AJ96 QJ862.9742.9.532 3.KQ.QJT62.KQT84"]
+[Declarer "S"]
+[Contract "5C"]
+[Result ""]
+[Auction "W"]
+2H X pass 3H pass 3S pass 4C pass 5C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "e5f93804841664fc942513acc0d54f005b27f5264670fabedd6372387028ec74"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+The problem with making a Takeout Double of a preemptive bid is that the bidding for your side starts out a level or two higher. So you can't risk doubling with a flimsy hand. However, this hand is certainly good enough so you double. Partner responds 3\H.  
+
+After partner cuebids the next job is to find a suit, so you bid 3\S. Partner now bids 4\C.  
+
+You cannot stop short of game. Partner has apparently rejected your \S suggestion. Since you are happy to play in \Cs you bid 5\C.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:J732.KQJT.A4.K52 AQ86.A742.KJT5.7 T54.963.9873.A84 K9.85.Q62.QJT963"]
+[Declarer "S"]
+[Contract "1C"]
+[Result ""]
+[Auction "S"]
+1C X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "09111367b1645be09714b4f8af3944f8ac9e8a2b7473a86ff045e30c88c8651c"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You could certainly say 1NT if you wanted to. You have 8 HCP and a very good \C stopper. However, you will probably make a lot more points by letting them play 1\C doubled.
+
+This is exactly the kind of hand you need to pass and convert partner's Takeout Double to a Penalty Double. Partner should lead a \C so you can pull declarer's trumps as soon as possible.}
+

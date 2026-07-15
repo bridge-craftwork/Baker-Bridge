@@ -1,0 +1,69 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Jacoby2NT
+%bridge-classroom-stable: true
+%bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A73.QJT82.K86.Q4 T98.4.T9743.AKT9 K42.AK75.A2.8753 QJ65.963.QJ5.J62"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2NT pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "530996b053ba5b01c04b8e1fa5228a9bb1270fa5857681115216d116d2df8d04"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH's 2NT bid is Jacoby, showing a game-forcing \H raise.
+
+NORTH has a minimum opening hand with nothing extra to show, so signs off at 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AJT96.A62.AQ.T52 Q3.J93.8743.AJ86 K854.KQ84.T52.KQ 72.T75.KJ96.9743"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1S pass 2NT pass 3NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "c1cf4e421d48fde097ec59cb2e254bb45ad63313b407bfd80acb77c19fc003b1"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{WEST's 2NT response is Jacoby - a game forcing \S raise.
+
+EAST's 3NT bid shows extra strength, a 5-card trump suit and no singleton/void. This is 
+definitely NOT a suggestion to play Notrump - the trump suit is already agreed as \Ss.
+
+WEST cannot make any positive move, so she bids 4\S which EAST passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AJT762.KT.AJ6.J4 94.8742.9543.AK6 KQ53.QJ5.KQ.9732 8.A963.T872.QT85"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]

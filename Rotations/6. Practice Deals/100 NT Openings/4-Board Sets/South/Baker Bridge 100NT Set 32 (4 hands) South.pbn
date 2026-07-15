@@ -1,0 +1,90 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ5.AK7.QJ96.Q52 A82.652.84.AJ963 T94.Q83.AT72.K84 J763.JT94.K53.T7"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c3ffb57ce4db802d9c23c39f6ac7afbf6f7a4c0c5e5e43c5842abc5744c788c6"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner's 2NT bid invites you to bid game if you have a maximum hand. With 17 points you bid the game.
+
+South plays 3NT. West leads the \C6. You play the \C4 from dummy, East plays the \CT and you take your \CQ.
+
+Winner List: \S = 0 : \H = 3 : \D = 1 : \C = 1 :: Total = 5
+
+You are pretty sure West has the \CA so dummy's \CK can become a winner. If so, you only need 3 more winners.
+
+All 3 can come from the \D suit if the finesse works, only 2 if it fails. Assume the worst, so that means you will also need a \S winner. 
+
+When you give up the lead the opponents are going to continue \Cs if they can. If West has a 5-card \C suit you could lose 3 \Cs, the \SA and the \DK. Either defender might win the \SA, but only East can win with the \DK.  
+
+Since West, the Danger hand, can only get in with the \SA you should establish a \S winner first, even though the \Ds are better. Whoever wins the \SA will probably knock out dummy's \CK. Hopefully this will not cause you a problem because when your finesse for the \DK loses to East he won't have another \C. At least that's the Plan!
+
+If you finesse in \Ds first, East will return his last \C and the suit will get established while West still has an entry in the \SA.
+
+Play \Ss first and even though West can win and establish \Cs East will not have a \C to return when he wins his \DK.
+
+It goes without saying that if your \SK holds the trick you immediately switch to \Ds.}
+[Play "W"]C6
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJT.AQ7.A75.AQ74 87642.T983.98.96 AQ5.KJ4.KQ63.K32 93.652.JT42.JT85"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f107a40b3d44031929446ce73af1e7dd8ae32a3c04f307dc84b5219257177068"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner has 20 or 21 points, balanced, and you have 18. You've always wanted to do this haven't you?
+
+The contract would be 7NT played by North.
+
+South plays 7NT. West leads the \H10 and East follows with the \H2.
+
+<b>DO NOT HOLD UP.</b>
+
+Winner List: \S = 3 : \H = 3 : \D = 3 : \C = 3 :: Total = 12
+
+There are two chances for your thirteenth winner, your fourth \C or dummy's fourth \D.
+
+Some players will assume that means one of those two suits will have to split 3-3, so they will immediately test one, then the other. 
+
+In fact there is another possibility for success - even if neither suit is 3-3 it may be that the same defender holds 4 cards in both suits. In this case that defender can be squeezed. BUT, you don't play the \Cs and \Ds first, you play the other two suits.
+
+Win the first \H, then play two more \Hs and all three \S winners. That will be 6 tricks played, and each defender will be down to 7 cards left in their hand. If one of them happened to start with 4 \Cs and 4 \Ds he will have to discard from one of the holdings and you will be able to win your fourth card in that suit. 
+
+Although neither minor suit splits 3-3 it happens that East holds the guard in both suits.
+
+When you play your sixth Major suit winner East is squeezed and must discard from one of his 4-card holdings.
+
+This is an Automatic Squeeze, which just means you don't have to do any preparatory work. All you have to do is play off all your non-threat winners before you play the squeezing suits.}
+[Play "W"]HT
+

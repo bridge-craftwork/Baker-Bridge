@@ -1,0 +1,56 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-AdvancedForcing
+%bridge-classroom-stable: true
+%bridge-context: FSF one-round force only; Help-Suit Game Try
+[Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJ.KQJ84.A5.J542 98742.A62.QJ7.T9 K53.T953.9864.KQ QT6.7.KT32.A8763"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2H pass 3C pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5d596aebd8df44a3851cf700d3086f75311262a383e8ffa5587415d7925b067b"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{NORTH cannot see a game unless SOUTH has help in \Cs so she makes a Help Suit Game Try.
+
+SOUTH has 8 points and the doubleton \C K Q so he bids the game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJT.AQT3.94.QJ64 Q732.82.A8762.T8 985.J74.KQT3.AK5 K64.K965.J5.9732"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1C pass 1D pass 1H pass 2S pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "6eeda228475348205d86c2245265ebc5864f05061754a72a80e55210e237fffb"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{NORTH has a perfect hand on which to use Fourth Suit Forcing. If South can stop 
+\Ss, then 3NT would be a great contract.
+
+There is one problem - if NORTH bids 1\S at her second turn it is NOT considered 
+FSF, so she must jump to 2\S.
+
+SOUTH, win a fine \S stopper, bids 3NT.}
+

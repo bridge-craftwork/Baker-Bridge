@@ -1,14 +1,16 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Roman
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430; Jacoby 2NT; control bids
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:KQJT75.AJ863.A.5 63.5.JT932.A9642 A8.KQ972.874.QJ3 942.T4.KQ65.KT87"]
+[Deal "S:KQJT75.AJ863.A.5 3.T4.KQT962.T862 A8.KQ972.874.QJ3 9642.5.J53.AK974"]
 [Declarer "N"]
 [Contract "6H"]
 [Result ""]
@@ -16,6 +18,7 @@
 1S pass 2H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b73a7e5313466604d0b6c2dbb6cb4f1f2e16ec2a5790a501315af9b3f1093fc0"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -27,17 +30,18 @@ So you have two Key-Cards (\SA and \HK, along with the \HQ). You therefore bid 5
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:KQJ5.AQJ3.Q6.KQJ 6.876.AJ92.98632 AT9732.K95.85.A7 84.T42.KT743.T54"]
+[Deal "N:KQJ5.AQJ3.Q6.KQJ 64.862.T7432.T43 AT9732.K95.85.A7 8.T74.AKJ9.98652"]
 [Declarer "S"]
 [Contract "5S"]
 [Result ""]
 [Auction "N"]
 1C pass 1S pass 4S pass 5C pass 5H pass 5S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a73f4431e0da50daf819dca08994e3b95cd4d8dcc9cfce9eece3791a369f753a"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -49,48 +53,4 @@ Despite your conviction that this hand is going to slam you should <b>NOT</b> as
 You can only say 5\S. Partner would have control-bid \Ds if he held the Ace since controls are bid up-the-line. His failure to show it means he doesn't have it. Since you might be off the first two \D tricks you stop at 5\S.
 
 Yes, partner should probably have opened 2NT. Sometimes partners don't make the bids you think they oughta.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:JT87.A7.AK63.A82 4.QJT92.QJ9874.T KQ962.K865.5.KQ3 A53.43.T2.J97654"]
-[Declarer "N"]
-[Contract "6S"]
-[Result ""]
-[Auction "S"]
-1D pass 1S pass 3S pass 4NT pass 5D pass 6S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "advanced"]
-[SkillPath "bidding_conventions/roman_keycard"]
-[Student "S"]
-{You have 3 Key-Cards so you bid 5\D. Partner bids 6\S.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AJ972.KQ5.K5.AK6 53.742.AT862.975 KQ84.AJ6.J3.QJ83 T6.T983.Q974.T42"]
-[Declarer "S"]
-[Contract "6S"]
-[Result ""]
-[Auction "S"]
-1S pass 2NT pass 3NT pass 4H pass 4NT pass 5S pass 6S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "advanced"]
-[SkillPath "bidding_conventions/roman_keycard"]
-[Student "S"]
-{Your partnership plays Jacoby 2NT convention, so partner's 2NT shows a game-forcing raise in \Ss. Your 3NT bid indicates a 5-card suit and "extra values". Partner's 4\H is a control-bid showing the \HA.  
-
-What you need to know now about partner's hand is Key-Cards so you bid 4NT. He answers 5\S. What is your bid? 
-
-Partner's response says 2 Key-Cards and the \SQ. So you are missing either the trump King or the \DA. So you shouldn't bid 7, but you will almost surely make 6. You bid 6\S.}
 

@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 2over1
+%bridge-classroom-stable: true
+%bridge-context: 2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430; Specific Kings
+Pass 1S Pass 2H Pass 3H Pass 4NT Pass 5H =1= Pass 5NT =2= Pass 6H =3= Pass Pass Pass
+{North opens 1\S.  What do you respond with? 
+You have a powerhouse, plenty strong enough to jump-shift. But playing 2/1 it's usually simpler when you make the 2/1 response, and save your jumping for later - if at all. So just bid 2\H, knowing North must keep the bidding open.
+North responds 3\h, setting the trump suit.   
+Now you are definitely  interested in slam.  Since you have controls in all the side suits, you go right to keycard Blackwood, using the 1430 system.  Partner responds 5\H.   
+
+Partner's 5\H shows two keycards without the trump queen.  But we have the other 3 keycards, and the trump queen.  If partner has the two minor kings we might have a grand.  We ask about these with our 5NT bid.  Unfortunately, partner responds 6\H (playing specific kings, this denies any kings lower than hearts).  We will pass and play there.
+This is a good slam, cold if West makes any opening lead other than a \C. With a \C lead, South will have to pull trumps and play to discard a loser on the \ST.}
+
+[Event "Baker Bridge - 2-Over-1 Game Force"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A.AQJ753.742.KJ4 T874.62.JT.AT962 QJ2.KT.KQ865.Q87 K9653.984.A93.53"]
+[BoardVersionToken "1e6a2e4e6a0e33269be943adb36876d7ab229503b8d9f5deb8d691ad537ad74b"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1H Pass 2D Pass 2H Pass 4H Pass Pass Pass
+{How do you start this action? [Bid 1H]
+You open 1\H and partner responds 2\D.  What do you rebid? 
+Partner's 2 over 1 bid sets up a game force.
+You have a good-looking hand, but you need to find a trump suit before showing extra strength, so she bids just 2\H.  You are in a game forcing auction, so partner won't pass you.
+Partner now jumps to 4\h.  What do you do now? 
+
+Partner's jump to 4\h is Fast Arrival - showing a minimum game forcing hand.  Even though we have extra values, this won't be enough for slam opposite 13 or so points.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AQ862.T4.K65.K87 K97543.A6.Q97.J6 J.KQJ753.432.Q54 T.982.AJT8.AT932"]
+[BoardVersionToken "78f1cb2c0bbf3d942cd2340065ef342decf2e53beec255a6a4235c3bb38b88a4"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "E"]
+1S Pass 1NT Pass 2C Pass 2H Pass Pass Pass
+{East opens 1\S.  
+You have 11 points, enough to respond 2\H in standard bidding, but not when using 2/1. So we use the forcing 1NT.  East rebids 2\c.   This only promises 3 clubs, so is really just there so we can better describe our hand with our second bid.  What do we bid now? 
+
+Now we can bid 2H, and it shows 6+\hs and only 6-10 points. 
+East was forced to reply to 1NT, but he is not forced to bid again. With his minimum hand and a tolerance for partner's suit he just passes and the partnership ends up in a reasonable contract.
+This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding West's first response would be 2\H, and East would have to bid again, probably 2NT. The partnership might go even higher but in any case would probably not reach a good contract.}
+

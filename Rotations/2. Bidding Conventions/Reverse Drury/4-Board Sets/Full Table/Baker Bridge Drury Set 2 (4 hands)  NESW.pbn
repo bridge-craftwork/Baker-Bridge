@@ -1,98 +1,56 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Drury
+%bridge-classroom-stable: true
+%bridge-context: REVERSE Drury (2C); Opener's 2D rebid = light 3rd-seat opening
 [Event "Baker Bridge - Reverse Drury"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:7.Q9864.T743.K83 KJ95.T72.AQJ.T52 Q84.AKJ53.82.A74 AT632..K965.QJ96"]
+[Deal "S:QJT7.A4.KT953.94 83.QJ962.876.QJ3 AK952.K83.QJ.752 64.T75.A42.AKT86"]
 [Declarer "N"]
-[Contract "3H"]
-[Result ""]
-[Auction "S"]
-pass pass 1H pass 3H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/reverse_drury"]
-[Student "S"]
-{You like partner's \H suit but you have very little defensive strength. This is a good hand to preempt the bidding, trying to keep them from finding a \S fit.
-
-So you jump to 3\H. Partner realizes you don't have any strength since you did not invoke Reverse Drury. He passes and you have bought the contract. It appears that their side might be able to make 4\S.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "W"]
-[Vulnerable "NS"]
-[Deal "W:T642.KQ5.86.AQ93 A3.JT876.754.KJ6 QJ9875.A4.KQJ.87 K.932.AT932.T542"]
-[Declarer "E"]
 [Contract "4S"]
 [Result ""]
-[Auction "W"]
-pass pass 1S pass 2C pass 4S pass pass pass
+[Auction "S"]
+pass pass 1S pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "976be0b0ad17df44f5533943b92a6b59454f604ce50111db16170c61fcfbf9a6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
-{You open in third seat and the bidding continues as shown.  
+{Bold bidders might have opened with this hand, so when partner opens in third seat you naturally want to show your strength. If you play Reverse Drury there is only one way to do that, so you bid 2\C.
 
-Partner has a limit raise in \Ss and wonders if you have a full strength opening bid. Your 15 point hand is enough to insist on game, but opposite a passed hand you have no interest in a slam.
+Partner rebids 2\D. What do you say next? 
 
-So you sign-off at 4\S.}
+The 2\D rebid shows a hand that partner would have opened in any position. So here it gets a little ambiguous. Surely a jump to 3\S would be forcing, but to keep the possibility of misunderstandings low a jump to 4\S is no doubt safer. After all, you can revalue your hand up to 13 points in support of \Ss.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
+[Dealer "W"]
 [Vulnerable "EW"]
-[Deal "N:QJ96.AK.852.9765 52.T96.KQ943.QJ8 KT843.J53.J76.AK A7.Q8742.AT.T432"]
-[Declarer "S"]
-[Contract "2S"]
+[Deal "W:A94.AJ7.KT83.T82 QT3.954.42.QJ643 752.KQT63.QJ9.A7 KJ86.82.A765.K95"]
+[Declarer "E"]
+[Contract "4H"]
 [Result ""]
-[Auction "N"]
-pass pass 1S pass 2C pass 2D pass 2S pass pass pass
+[Auction "W"]
+pass pass 1H pass 2C pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/reverse_drury"]
-[Student "S"]
-{With 11 points in support of \Ss you need to let partner know. The way to do it is to bid 2\C.
-
-Partner rebids 2\D, confirming a full-strength opening bid.  
-
-You've told partner you had at least a limit raise, now you need to tell him that it is pretty minimal. You bid 2\S and everybody passes.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:JT96.Q8.86.K8653 432.AJ653.J9.A97 KQ875.K74.KQ7.T2 A.T92.AT5432.QJ4"]
-[Declarer "W"]
-[Contract "3S"]
-[Result ""]
-[Auction "E"]
-pass pass 1S pass 3S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "0c55e593a3cc3ace4a1d52fb1c47a8116e17d6d448b037fb66d1833d30173c8b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
 [Student "S"]
 {You open in third seat and the bidding continues as shown.  
 
-If you thought East had 11 points you'd bid 4\S. But you know he has a weak hand - with 10+ points and support he would have said 2\C.
+Partner has a limit raise in \Hs and wonders if you have a full strength opening bid. Your 13 point hand qualifies as a decent opening bid, but certainly not enough extra to just jump to game. You bid 2\D, confirming the legitimate opener. Partner jumps to 3\H.  
 
-His 3\S bid is just preemptive, so you pass.}
+Partner shows a maximum limit-raise with his jump, so you bid the game.}
 

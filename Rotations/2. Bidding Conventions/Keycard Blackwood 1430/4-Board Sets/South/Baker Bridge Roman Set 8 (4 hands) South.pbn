@@ -1,0 +1,54 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Roman
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430; Jacoby 2NT; control bids
+[Event "Baker Bridge - Roman Key Card Blackwood"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T86.KQJ83.T.AKQ6 KQ73.74.A6532.94 .AT96.KQJ74.JT83 AJ9542.52.98.752"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 3S pass 4NT pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ef0013671b8756a62d2b762ac94af06713c33e1fdbd4828019ea017a34225923"]
+[Category "Bidding Conventions"]
+[Difficulty "advanced"]
+[SkillPath "bidding_conventions/roman_keycard"]
+[Student "S"]
+{Your 3\S bid is a Splinter, agreeing \Hs as trump, and showing opening hand strength with a singleton or void in \Ss.  
+
+You have one Key-Card, the \HA. You also have a \S void, but since bidding 6\S would take you above the 6\H level you just respond 6\H. Partner will deduce that your void is in \Ss, particularly because you Splintered in that suit. Partner passes your 6\H bid.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:7.J76.K9632.7643 KQJ965.AK.875.A5 2.9532.AQJT4.Q98 AT843.QT84..KJT2"]
+[Declarer "S"]
+[Contract "7S"]
+[Result ""]
+[Auction "E"]
+pass 1S pass 4D pass 4NT pass 6D pass 7S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5ca4a19dc2db88c97ad1d3401af8d8bc42fcdeef9769b72606fe9b257943353a"]
+[Category "Bidding Conventions"]
+[Difficulty "advanced"]
+[SkillPath "bidding_conventions/roman_keycard"]
+[Student "S"]
+{Partner's 4\D bid is a Splinter Bid. It shows opening hand strength, at least 4-card \S support, and a singleton or void in \Ds.  
+
+Normally you would not ask for Key-Cards with this \D holding. But since you know partner has at most a singleton, and that it is not the singleton \DA, you are safe to do so. You say 4NT, partner replies 6\D. What next? 
+
+WOW! Partner has one Key-Card and a \D void. So the Key-Card is the \SA. You don't know what the rest of partner's hand is, but he can surely take care of that small \C. You bid 7\S.}
+

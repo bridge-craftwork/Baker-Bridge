@@ -1,0 +1,351 @@
+{
+  "name": "Baker Bridge",
+  "description": "Classic bridge lessons covering bidding conventions and play",
+  "icon": "♠",
+  "version": "1.04",
+  "generatedAt": "2026-07-14T21:15:17.857408",
+  "categories": [
+    {
+      "id": "basic_bidding",
+      "name": "Basic Bidding",
+      "lessons": [
+        {
+          "id": "Major",
+          "name": "Major Suit Openings",
+          "description": "Opening 1H and 1S, responses and rebids",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Minor",
+          "name": "Minor Suit Openings",
+          "description": "Opening 1C and 1D, responses and rebids",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Notrump",
+          "name": "Notrump Openings",
+          "description": "Opening 1NT, 2NT, responses",
+          "difficulty": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "bidding_conventions",
+      "name": "Bidding Conventions",
+      "lessons": [
+        {
+          "id": "2over1",
+          "name": "2-Over-1 Game Force",
+          "description": "2/1 game forcing responses",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Blackwood",
+          "name": "Blackwood",
+          "description": "4NT ace-asking convention",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "FSF",
+          "name": "Fourth Suit Forcing",
+          "description": "Bidding the fourth suit to create a force",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Help",
+          "name": "Help Suit Game Try",
+          "description": "Game tries after major suit agreement",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Jacoby",
+          "name": "Jacoby 2NT / Splinters",
+          "description": "Forcing major raises and splinter bids",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Transfers",
+          "name": "Jacoby Transfers",
+          "description": "Transfer bids over 1NT/2NT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "NMF",
+          "name": "New Minor Forcing",
+          "description": "Checkback after 1NT rebid",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Ogust",
+          "name": "Ogust",
+          "description": "2NT inquiry after weak two opening",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Preempt",
+          "name": "Preemptive Bids",
+          "description": "Three-level and four-level preempts",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Reverse",
+          "name": "Reverse Bids",
+          "description": "Opener's reverse showing extra values",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Drury",
+          "name": "Reverse Drury",
+          "description": "2C response to third/fourth seat major opening",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Roman",
+          "name": "Roman Key Card Blackwood",
+          "description": "RKCB 1430 or 0314",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Stayman",
+          "name": "Stayman",
+          "description": "2C asking for majors over 1NT",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "2Club",
+          "name": "Strong 2C Bids",
+          "description": "Strong artificial 2C opening and responses",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Weak2",
+          "name": "Weak 2-Bids",
+          "description": "Weak two openings and responses",
+          "difficulty": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "competitive_bidding",
+      "name": "Competitive Bidding",
+      "lessons": [
+        {
+          "id": "DONT",
+          "name": "DONT",
+          "description": "Disturbing Opponent's Notrump",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Leben",
+          "name": "Lebensohl",
+          "description": "Lebensohl convention after interference",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Michaels",
+          "name": "Michaels / Unusual NT",
+          "description": "Two-suited overcalls",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Negative",
+          "name": "Negative Doubles",
+          "description": "Doubles after opponent overcalls",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Overcalls",
+          "name": "Overcalls",
+          "description": "Simple and jump overcalls",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Cue-bid",
+          "name": "Support Cue-bids",
+          "description": "Cue-bidding opponent's suit to show support",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Takeout",
+          "name": "Takeout Doubles",
+          "description": "Takeout doubles and responses",
+          "difficulty": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "declarer_play",
+      "name": "Declarer Play",
+      "lessons": [
+        {
+          "id": "Eliminations",
+          "name": "Elimination Plays",
+          "description": "Strip and endplay techniques",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Entries",
+          "name": "Entry Management",
+          "description": "Preserving and creating entries",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Finesse",
+          "name": "Finessing",
+          "description": "Finesse techniques and combinations",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Holdup",
+          "name": "Holdup Plays",
+          "description": "Holding up winners to break communication",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Squeeze",
+          "name": "Squeeze Plays",
+          "description": "Simple and compound squeezes",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Establishment",
+          "name": "Suit Establishment",
+          "description": "Setting up long suits",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Trumpmgmt",
+          "name": "Trump Management",
+          "description": "Drawing trumps, ruffs, and trump control",
+          "difficulty": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": "defense",
+      "name": "Defense",
+      "lessons": [
+        {
+          "id": "Signals",
+          "name": "Defensive Signals",
+          "description": "Attitude, count, and suit preference",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "OLead",
+          "name": "Opening Leads",
+          "description": "Choosing and making opening leads",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "SecondHand",
+          "name": "Second Hand Play",
+          "description": "Second hand low and exceptions",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "ThirdHand",
+          "name": "Third Hand Play",
+          "description": "Third hand high and exceptions",
+          "difficulty": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "practice_deals",
+      "name": "Practice Deals",
+      "lessons": [
+        {
+          "id": "100Deals",
+          "name": "100 Miscellaneous Deals",
+          "description": "Mixed practice deals covering various topics",
+          "difficulty": "mixed"
+        },
+        {
+          "id": "100NT",
+          "name": "100 Notrump Deals",
+          "description": "Notrump bidding and play practice",
+          "difficulty": "mixed"
+        }
+      ]
+    },
+    {
+      "id": "partnership_bidding",
+      "name": "Partnership Bidding",
+      "lessons": [
+        {
+          "id": "Partnership-BasicBidding",
+          "name": "Basic Bidding With No Conventions",
+          "description": "Basic Bidding With No Conventions",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Partnership-Blackwood",
+          "name": "Blackwood and Gerber",
+          "description": "Blackwood and Gerber",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Partnership-AdvancedForcing",
+          "name": "Fourth Suit Forcing, NMF, Help Suit Game Try",
+          "description": "Fourth Suit Forcing, New Minor Forcing, Help Suit Game Try",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Partnership-Jacoby2NT",
+          "name": "Jacoby 2NT and Splinter Bids",
+          "description": "Jacoby 2NT and Splinter Bids",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Partnership-NegativeDoubles",
+          "name": "Negative Doubles and Cue-Bid Support",
+          "description": "Competitive Bidding: Negative Doubles and Cue-Bid Support",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Partnership-Overcalls",
+          "name": "Overcalls and TakeOut Doubles",
+          "description": "Competitive Bidding: Overcalls and TakeOut Doubles",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Partnership-RomanKeyCard",
+          "name": "Roman Key Card Blackwood",
+          "description": "Roman Key Card Blackwood",
+          "difficulty": "advanced"
+        },
+        {
+          "id": "Partnership-StaymanTransfers",
+          "name": "Stayman and Jacoby Transfers",
+          "description": "Stayman and Jacoby Transfers",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Partnership-TwoClub",
+          "name": "Strong Two-Club Openings",
+          "description": "Strong Two-Club Openings",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Partnership-BasicMajor",
+          "name": "Very Basic Major Suit Bidding",
+          "description": "Very Basic Major Suit Bidding",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Partnership-BasicNotrump",
+          "name": "Very Basic Notrump Bidding",
+          "description": "Very Basic Notrump Bidding",
+          "difficulty": "beginner"
+        },
+        {
+          "id": "Partnership-WeakTwos",
+          "name": "Weak Two-bids and Preemptive Three Bids",
+          "description": "Weak Two-bids and Preemptive Three Bids",
+          "difficulty": "intermediate"
+        }
+      ]
+    }
+  ]
+}

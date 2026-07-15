@@ -1,7 +1,9 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
+%bridge-classroom-stable: true
+%bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
 [Site ""]
 [Date ""]
@@ -16,6 +18,7 @@
 1D pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "681caff5b9a2526a9443a99f32a96fd5fb808c32d6a343d9b34c7e3bf47bbc45"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -44,7 +47,7 @@ But even with this type of hand you should make sure you take them in the right 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:74.KQJ3.AK75.863 J986.A5.Q32.QJT4 AKQ3.T982.J4.K72 T52.764.T986.A95"]
@@ -54,7 +57,8 @@ But even with this type of hand you should make sure you take them in the right 
 [Auction "N"]
 1D pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "78149227fe40d8e1740db7cb0a9c665e3b658d318b140af454a58275c568832a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -87,9 +91,9 @@ Making a PLAN is a necessary part of being a good Declarer and Visualizing what 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "N"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "N:872.K6.AKJ4.KQ74 J9643.A53.T75.93 AQ5.74.Q962.AJT8 KT.QJT982.83.652"]
 [Declarer "N"]
 [Contract "3NT"]
@@ -97,101 +101,4 @@ Making a PLAN is a necessary part of being a good Declarer and Visualizing what 
 [Auction "N"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_miscellaneous"]
-[Student "S"]
-{With 16 points and a balanced hand you should open 1NT. Do not worry about the lack of a \S stopper, a 1NT opening does not guarantee stoppers in all four suits.
-
-Partner raises you to 3NT.
-
-North plays 3NT. East leads the \S4.
-
-<b>North plays 3NT. East leads the \S4.</b>
-
-Winners: \S 1 : \H 0 : \D 4 : \C 4 : Total = 9
-
-It's nice to have a hand where the Winner count is 9. And guess what? East probably has the \SK, so you can finesse on the first trick for an overtrick.
-
-<b>HOLD IT! JUST STEP AWAY FROM THE QUEEN OF SPADES AND NOBODY WILL GET HURT.</b>
-
-What if you tried the finesse and West had the \SK? And what if he then switched to the \HQ? And what if your opponents then took the next 6 \H tricks? 
-
-I think you get the idea. Win the \SA immediately and then take your other 8 tricks.
-
-There are times when you have to take finesses - like when you just have to find one more winner. 
-
-This wasn't one of those times.}
-[Play "W"]S4
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:T98653.K7.84.AKJ A4.J95.KT75.8652 KQJ.A862.Q63.T94 72.QT43.AJ92.Q73"]
-[Declarer "S"]
-[Contract "4S"]
-[Result ""]
-[Auction "S"]
-1S pass 2H pass 2S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_miscellaneous"]
-[Student "S"]
-{Don't think of passing. With 11 HCP and 2 length points you open 1\S. Partner responds 2\H. What is your next bid? 
-
-You must bid and you want to show that you have a bare minimum. You don't want to say 2NT because of that doubleton nothing \D. So you rebid your 6-card \S suit. Partner bids 4\S and everybody passes.
-
-South plays 4\S. West leads the \D5 on which you play dummy's \D3. East wins \DJ, plays \DA, then \D2.
-
-<b>South plays 4\S. West leads the \D5 on which you play dummy's \D3. East wins \DJ, plays \DA, then \D2.</b>
-
-Losers: \S 1 : \H 0 : \D 2 : \C 1 : Total = 4
-
-You have already lost the 2 \Ds and you sure can't escape losing the Ace of trumps. So you mustnot lose a \C trick. So your Plan will be to pull trumps, then finesse East for the \CQ. 
-
-You ruff the third \D, play \Ss until the \SA appears. When you regain the lead you pull any outstanding trumps, play one high \C, (in case someone has a singleton \CQ), then enter dummy with the \HA and make the \C finesse. Half of the time you make the contract, the other half you don't.
-
-You were lucky that the \CQ was with East.
-
-It's never great when the success of your contract depends on a finesse, but sometimes that's your only hope - a 50% chance.}
-[Play "W"]D5
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "W"]
-[Vulnerable "NS"]
-[Deal "W:A7.K653.762.T543 KQT3.A4.QJT5.AJ2 9852.JT982.K4.98 J64.Q7.A983.KQ76"]
-[Declarer "N"]
-[Contract "3NT"]
-[Result ""]
-[Auction "W"]
-pass 1NT pass 3NT pass pass pass
-[BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_miscellaneous"]
-[Student "S"]
-{You have a very solid 17 points and a balanced hand. You open 1NT. Partner responds 3NT and you pass.
-
-North plays 3NT. East leads the \HJ. You hopefully put on the \HQ, but West plays the \HK.
-
-<b>North plays 3NT. East leads the \HJ. You hopefully put on the \HQ, but West plays the \HK.</b>
-
-Winners: \S 0 : \H 1 : \D 1 : \C 4 : Total = 6
-
-A hold-up won't help unless West had a doubleton \H, giving East a 7-card suit. So you win your \HA. The \S suit is solid after the \SA is played, but before you could enjoy those 3 tricks the defenders would have really enjoyed a bunch of \Hs.
-
-Your only hope is to win 8 more tricks before you lose the lead. That means the \D finesse had better work. At trick 2 you lead your \DQ, playing low from dummy if East doesn't cover. Repeat the finesse as necessary. When East has the \DK you will make your contract, and when West has the \DK you will go down. That's a 50% chance, just like most finesses. But remember, if you had tried to establish the \S suit instead of taking the finesse your chance of making 3NT would be 0%.
-
-You can see what could have happened if you had tried to sneak even one \S trick. West would have grabbed the \SA and played a small \H. East would have happily taken 4 \H tricks and you would be down 1.}
-[Play "W"]HJ
-

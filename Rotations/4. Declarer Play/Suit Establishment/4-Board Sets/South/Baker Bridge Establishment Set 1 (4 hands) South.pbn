@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Establishment
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Suit Establishment"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c1c92cda321189a807610bfe23a6feecb80c655a70cd5fd0e364d5eac46febb1"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -38,7 +40,7 @@ Just don't foul up on your \S entry.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:AKJ953.42.A5.A92 876.AJ98.94.QT73 QT2.73.K8763.854 4.KQT65.QJT2.KJ6"]
@@ -48,7 +50,8 @@ Just don't foul up on your \S entry.}
 [Auction "S"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2fb5f963e2e3d26f337887d634c96570f42ac628536715953788ba24995538d9"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -67,62 +70,4 @@ Dummy's last \D is now good. Play a \S to the \SQ, (pulling West's last trump), 
 
 You had to establish the \Ds to make 10 tricks. And once again you had to pay close attention to entries.}
 [Play "W"]S6
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AK72.A83.AQ72.62 J4.KT54.JT953.T5 85.J762.86.AKQ43 QT963.Q9.K4.J987"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-1NT pass 2C pass 2S pass 3NT all pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/suit_establishment"]
-[Student "S"]
-{North's \C bid was Stayman, but he didn't match \Ss. South is to play 3NT. West leads the \DJ, East plays \DK.
-
-Winners:   \S=2  \H=1  \D=2  \C=3  Total = 8
-
-With the \DK onside you have 8 tricks, and only need one more. If \Cs split 3-3 you can get 2 extras and make an overtrick. But when you are missing 6 cards they are more likely to be 4-2 than 3-3. Since you only need 4 \C tricks you should establish the suit with a duck.
-
-Win the \DA and play a small \C from each hand.
-
-The defense gets a cheap trick in \Cs but you don't mind because you still have a small \C for an entry to dummy. You win whatever they return and take the rest of your winners, including 4 tricks in \Cs!
-
-If you had played the \Cs from the top you would have come up one trick short.}
-[Play "W"]DJ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AK72.A83.A964.92 J4.KQ954.J73.QT5 85.JT.82.AK87643 QT963.762.KQT5.J"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-1NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/suit_establishment"]
-[Student "S"]
-{South is to play 3NT. West leads the \H5, East plays the \H2.
-
-Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
-
-You are very lucky. Apparently West led from \H K Q so you won an undeserved \H trick. Now, if \Cs split 2-2 you can make 12 tricks! But hold it a minute. If you play dummy's two top \Cs and they <b>DON'T</b> split 2-2 you will only  win two \C tricks and the contract will fail. Instead you should play a small \C from dummy right now. The defenders will win the trick easily, but you will win their return and you will still have a \C to get to dummy's 6 \C winners!
-
-Ducking a \C is the only way to make the contract and you might as well do it at the second trick.}
-[Play "W"]H5
 

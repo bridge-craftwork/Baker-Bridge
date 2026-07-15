@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Overcalls
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Overcalls"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:J64.Q95.KQ.AJ542 KQ9.A84.AT5.KQ93 T75.732.87642.76 A832.KJT6.J93.T8"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1C 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b1c8381dfa335e0afc7e6f0f9126ada74ecec4bf0d9a7815eadf637ec9a2d0ac"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/overcalls"]
+[Student "S"]
+{The bidding has been as shown.  
+
+This hand would be one point too strong to <b>Open</b> 1NT, but it fits the 15-18 range to <b>Overcall</b> 1NT. Partner responds 2\C.  
+
+Don't get your systems crossed. Partner did not make a cue-bid, he is using Stayman. Since you have no 4-card Major suit you answer 2\D. Partner now says 2NT and the ball is in your court. 
+
+This is just a plain old 1NT/Stayman sequence. Partner is inviting, and since you have 18 points you accept.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:J92.852.AKT8.A95 AKT75.J6.972.Q83 4.T943.QJ43.J742 Q863.AKQ7.65.KT6"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1D 1S pass 2D pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "82dad9f18d924e36414e9ec18eeb653df80e99f6889f91e2196317a02cf9797e"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/overcalls"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Wow! Great \S support and 15 points. You cue-bid 2\D, forcing partner to bid. He says 2\S. Your turn. 
+
+Partner has not made a strong bid and it is possible that 10 tricks will be too high. But it is pretty likely that game can be made so you bid it. Be bold!}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:5.AJT973.J9.AQJT KQJ984.84.Q63.95 A632.5.AT742.K63 T7.KQ62.K85.8742"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "E"]
+1H 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

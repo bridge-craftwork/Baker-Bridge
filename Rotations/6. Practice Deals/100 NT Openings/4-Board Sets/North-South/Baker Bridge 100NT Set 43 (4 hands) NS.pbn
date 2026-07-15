@@ -1,0 +1,90 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A6.K74.AJ93.A974 73.A953.876.QJT2 KQ9842.86.KT2.53 JT5.QJT2.Q54.K86"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1NT pass 2H pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b80c224611872a6b8fd0a0213c3c07036913e7c971f42c9e63fafa65e54ca306"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner transfers and you naturally respond 2\S. Partner bids the \S game and you pass. 
+
+North plays 4\S. East leads the \CQ. West plays the \C8 and your first decision is whether to hold up.
+
+Loser List: \S = 0 : \H = 2 : \D = 1 : \C = 1 :: Total = 4
+
+You should certainly hold up. West is the Danger hand here because if West ever gets the lead he can play a \H through your unprotected \HK, possibly giving you two \H losers. If you take the first trick with the \CA you open the door for West to gain entry with the \CK which you know he has. 
+
+Next pull three rounds of trumps. Fortune smiles and they split 3-2. 
+
+Now it's time to play on \Ds. Do you finesse for the \DQ? and if so, which way do you finesse? 
+
+Missing 6 \Ds to the Queen of course you should finesse. And you will finesse through West, of course, because he is the Danger Hand. So play dummy's \DK, then play the \D10 and let it ride.
+
+This time West holds the \DQ and you make an overtrick, winning 4 \D tricks and discarding a \H loser from dummy.
+
+Another time East will hold the \DQ and you will make the contract, but no overtrick. }
+[Play "W"]CQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:984.A62.AQ.AJ985 T62.QJ83.T762.K6 A75.975.K854.QT2 KQJ3.KT4.J93.743"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "177694e9282b29ec0ac9c06c05f2a9b91debb787eca90120852d53f1ee2a02d1"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{With 9 points and a balanced hand you go into Invitational Mode. Bid 2NT. Partner will raise to 3NT with a maximum, pass with a minimum. Today he has a middling 16 points, but bids 3NT anyway.
+
+The contract would be 3NT played by North.
+
+South plays 3NT. West leads the \H3 and East plays the \HK.
+
+Do you hold up or not?
+
+Winner List: \S = 1 : \H = 1 : \D = 3 : \C = 1 :: Total = 6
+
+You count 3 \D tricks but will need to be careful to get all 3. And obviously your three extra winners will have to be from the \C suit.
+
+Most important for now, how do you read the \H suit? Do you hold up? 
+
+West has 4 \Hs because he led the \H3 and you can see the \H2. Therefore you should NOT hold up because they can only win 3 \Hs and the \CK right now. But if you hold up, East might pocket his \H trick and switch to \Ss, where you are just as bad off. 
+
+So win the \HA and unblock the \D A Q. then play \CJ, expecting to lose the trick. In fact, West takes his \CK.
+
+West cashes his 3 \H tricks, then plays a \S. Pounce with dummy's \SA, cash the \DK, then take your 4 \C tricks and the game.
+
+It was tempting to get over to dummy to try the \C finesse. But it was a temptation which had to be ignored. After all, how would you get to dummy? By wasting a\D winner? Or by using your only \S stopper? 
+
+Not all finesses should be taken - certainly not this one.
+
+Another possibility, playing \CA first, should also be rejected. On the rare day where the \CK fell singleton you might be happy, but on the more frequent days where a defender held \C K x x and took the third \C trick you'd feel like a complete fool. Rightly so.}
+[Play "W"]H3
+

@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Opening Leads"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7221c3471fc6b2ef1b344c4724e1d716e8c0cd2cf19e6da4429694fb385eec1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -32,9 +34,9 @@ North only has 7 winners unless he can establish the \C suit, and when you win y
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "W"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "W:QJ84.AJ6.KQ.KQ98 3.K9753.T52.A764 KT972.QT84.A97.3 A65.2.J8643.JT52"]
 [Declarer "E"]
 [Contract "4S"]
@@ -42,7 +44,8 @@ North only has 7 winners unless he can establish the \C suit, and when you win y
 [Auction "W"]
 1C pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "431e5251afa7bbd14177f81d35d1196d025f5ff7166ef092acc935265b717456"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -61,7 +64,7 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:QT6.AQ9.AT7.KQ73 KJ943.653.82.T62 872.K87.KQJ.A854 A5.JT42.96543.J9"]
@@ -71,7 +74,8 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3e6f0fabe833c5b77bd5e4bd84444c5f5d86d4920ed1145e7f97f45e20089c17"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -86,90 +90,4 @@ This time he comes through with the \SA and your side wins the first 5 tricks fo
 
 If you had led any card other than a low \S declarer would take 10 tricks.}
 [Play "W"]S4
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:AJ5.QT8432.AQ.73 KQ73.KJ9.T84.952 982.A65.K3.AQJT4 T64.7.J97652.K86"]
-[Declarer "W"]
-[Contract "4H"]
-[Result ""]
-[Auction "W"]
-1H pass 2C pass 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 4\H 
-
-Lead the \SK, the top of a 2-card honor sequence.
-
-Against a suit contract you want to try to set up a quick winner in the suit.
-
-Notice that with any other lead declarer would have been able to discard a \S loser  (maybe both of them) on dummy's \Cs.}
-[Play "W"]SK
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:KT4.KQ9.AT7.QJ97 QJ963.A64.863.82 A82.873.K92.AT54 75.JT52.QJ54.K63"]
-[Declarer "N"]
-[Contract "3NT"]
-[Result ""]
-[Auction "N"]
-1NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 3NT 
-
-Lead the \SQ, the top of a broken honor sequence.
-
-The top of a solid 3-card honor sequence is best, but as you can see, a broken 3-card sequence may work out just as good.
-
-North will likely try the \C finesse, and when West wins the \CK he will return a \S through North's \ST.}
-[Play "W"]SQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "6"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:AQT6.7.KJ962.K65 943.964.AQT8.983 KJ72.KJT32.7.A74 85.AQ85.543.QJT2"]
-[Declarer "E"]
-[Contract "4S"]
-[Result ""]
-[Auction "E"]
-1D pass 1H pass 1S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 4\S 
-
-Lead any \S.
-
-You have \D winners, but dummy will surely be short since he has at least 8 cards in the Major suits.
-
-Partner has whatever \H strength your side possesses.
-
-It is very likely that declarer will want to do some cross-trumping. To try to cut that down your best lead is a trump.
-
-Just imagine that declarer wins the first \S in his hand and plays a \H to dummy's honors. North will win and play another trump. Whenever you win your first \D you will play your last trump.
-
-As you can imagine, declarer will be in a whole lot of trouble.}
 

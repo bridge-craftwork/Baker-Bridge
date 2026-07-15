@@ -1,0 +1,56 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-WeakTwos
+%bridge-classroom-stable: true
+%bridge-context: 2M-2NT = Feature ask (NOT Ogust)
+[Event "Baker Bridge - Weak Two-bids and Preemptive Three Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK8762.83.83.K65 J54.K942.Q542.87 Q9.J75.A96.AQJ42 T3.AQT6.KJT7.T93"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2C pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "b2035e6da8aad45c8532966a90022d5863ae76b6b1b6e46fbaad43b8bce9f475"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{NORTH's hand has the look of a Weak Two-bid, but it is one point too strong. So she opens 1\S.
+
+SOUTH naturally bids 2\C and NORTH rebids the \S suit.
+
+SOUTH always knew there would be a game bid, so with an 8-card fit he bids 4\S}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:65.AQJ8753.975.5 AK9.94.AT86.9632 QJ83.T6.KJ4.KQJ4 T742.K2.Q32.AT87"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "S"]
+3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0678a036f8a9c4fb04ddd90b509e321b029bb55ff06112389d5c3e8abb0d1e96"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{NORTH may have an opening hand, but it is just the wrong kind of hand to respond to 
+partner's preemptive bid. She doesn't have the immediate winners that SOUTH is likely 
+to need, but she is in good shape for defense should the opponents bid.
+
+In other words, NORTH has the perfect hand with which to pass.}
+

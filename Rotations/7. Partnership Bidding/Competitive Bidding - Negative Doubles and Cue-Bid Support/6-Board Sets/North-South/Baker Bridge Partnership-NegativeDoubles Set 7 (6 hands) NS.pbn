@@ -1,0 +1,81 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQJ752.AKQ7.K2.8 64.J42.QJ763.A97 KT93.65.A4.QJ652 8.T983.T985.KT43"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1S 2D 3D pass 4NT pass 5D pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9fd734e9b8bf46eb4d9c207319a5c2e3afc3e198e04d90f6188e5a8082e5ad65"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH makes a Support Cue-bid of 2\D to show his Limit Raise in \Ss.
+
+NORTH thinks slam and bids Blackwood to make sure they aren't off two Aces.
+
+SOUTH says he has one so NORTH bids the slam.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:953.KQ87.J3.AK54 AKQ6.T62.A84.T97 8.AJ93.KQ52.QJ82 JT742.54.T976.63"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1C 2S X pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "43dc38e582585edb0cf7ef1c3b24ba59d5b4491c0ce785c343660e54db56c516"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH can't bid 3\H because that would show a 5-card suit. 
+Instead she makes a Negative Double.
+
+SOUTH has four \Hs and he now bids them. 
+
+NORTH has 13 points so she bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ83.87.A76.KQJ4 A97.AT65.QJ82.75 KT65.J2.K54.A632 42.KQ943.T93.T98"]
+[Declarer "N"]
+[Contract "3S"]
+[Result ""]
+[Auction "N"]
+1C 1H X pass 1S pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7e9aacc4bd74b58bbc702f95c07d334dff754ae2ad4929773907a824ea368de1"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH makes a Negative Double rather than responding 1\S to indicate he has just a 4-card suit.
+
+NORTH has four \Ss so she bids 1\S, showing a minimum opener.
+
+With 11 points SOUTH makes an invitational bid of 3\S but NORTH declines the invitation by passing.}
+

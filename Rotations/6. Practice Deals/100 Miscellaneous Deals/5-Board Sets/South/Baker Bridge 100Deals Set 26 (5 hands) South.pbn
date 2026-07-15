@@ -1,0 +1,129 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100Deals
+%bridge-classroom-stable: true
+%bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
+{You open 1\D and partner responds 1\H.
+
+What is your next bid? 
+
+With 18 points you are too strong to rebid 2\D but just right to jump to 3\D. Now partner raises to 4\D.
+
+What is your next bid? 
+
+Your jump showed 16 - 18 points and partner invited you based on that range. He wants  you to bid game if you are at the top. With 18 points you bid 5\D.
+
+South plays 5\D. West leads the \CJ and East plays the \CK.
+
+<b>South plays 5\D. West leads the \CJ and East plays the \CK.</b>
+
+Losers: \S 1 : \H 1 : \D 0 : \C 1 : Total = 3
+
+The \C lead was pleasant, it gave you a free finesse. But it didn't really give you a winner since you would have ended up taking the finesse yourself even without the lead. Still, it clears the position somewhat.
+
+You can't get rid of the \S loser, nor can you get rid of the \H loser. By process of elimination then, you must get rid of the \C loser. You could ruff it in dummy, but the play to the first trick makes you a little worried about an over-ruff by East. You could ruff with the \DA, but then if someone started with \D J 10 8 you'd lose a natural \D trick.
+
+First test the \Ds by playing the \DK. West shows out and there goes your hope of ruffing the \C with the \DA. You have one more possibility to try. Play the \HA, then a small \H toward the \HQ. If West holds the \HK dummy's \HQ will be promoted to a winner that you can dump your \C loser on. 
+
+As you can see, if you ruffed the third \C with a low \D East would over-ruff.
+
+If you ruffed the third \C with the \DA East would win a trump trick.
+
+So you couldn't ruff the third \C at all, you had to discard it on something. And the only "something" that dummy had was the \HQ.}
+[Play "W"]CJ
+
+[Event "Baker Bridge - 100 Miscellaneous Deals"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQJ8.K4.K3.AKQ4 952.T6.Q86.JT972 764.Q873.A972.86 T3.AJ952.JT54.53"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2S pass 3S pass 4NT pass 5D pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "83bb2689dff08ddeff5b3541a563195dba562cff3ff382bbdddd59fffe8c6a0a"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{This is definitely a 2\C opening bid.
+
+Partner responds 2\D, 7 points or less.
+
+The formalities are over. Partner knows you have 22 or more points and you know he has 7 or fewer. Time to find a suit.
+
+You bid 2\S which partner raises to 3\S.
+
+Partner's 3\S bid is forward-going. With a complete bust he would have said 3\C as a "second negative". So you use Blackwood. Partner shows one Ace and you bid the slam.
+
+South plays 6\S. West leads the \CJ.
+
+<b>South plays 6\S. West leads the \CJ.</b>
+
+Losers: \S 0 : \H 1 : \D 0 : \C 1 : Total = 2
+
+Between the \H loser and the \C loser which one can you eliminate? Easy question, fast losers like the \HA are tough to eliminate. Usually you work on those slow losers.
+
+The logical way to remove that \C loser is to ruff it in dummy. But do it carefully. It would be silly to play \CA, \CK, \CQ and then try to ruff the \C4. That is just begging for an over-ruff. It would be better to just take two rounds of \Cs, then ruff the \C4. But even that isn't the best.
+
+First take two rounds of trumps with the \SA and \SK. Then play two top \Cs. Only then do you ruff the \C4.
+
+You only needed one trump in dummy to ruff your one \C loser, so that made it right to pull two rounds of trumps first.
+
+It made no difference in tricks whether you ruffed the third or fourth \C so that made it right to ruff the third one.}
+[Play "W"]CJ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ86.AK.J95.AQJT T94.98753.AKT4.8 KQ72.J4.762.6532 53.QT62.Q83.K974"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2NT pass 3C pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7e1c7bcfe9a55bbed4d9cd7b5da3a5cbcd98dfa8b616f0a8c62b77cc010544f8"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{Partner has 20-21 points, so with your 6 you belong in game. But which game?
+
+You use Stayman convention to try to find out. Partner responds 3\S.
+
+You have at least 26 combined points and 8 \Ss. So you bid 4\S.
+
+North would play 4\S.
+
+Click 
+
+South plays 4\S. West leads \DA, \DK, \D4. East wins the third trick with \DQ and plays a \H.
+
+<b>South plays 4\S. West leads \DA, \DK, \D4. East wins the third trick with \DQ and plays a \H.</b>
+
+Losers: \S 0 : \H 0 : \D 3 : \C 1 : Total = 4
+
+Since you've already lost the three \Ds you'd better not lose the \C.
+
+You must find East with the \CK and you must be able to finesse three times. That means three dummy entries and they all must come from the trump suit.
+
+Play the \SA, then lead the \S8 to dummy's \SQ. Notice that you must save your \S6. Pay attention to whether both defenders follow to both tricks. They do, and that means there is only one \S left out. Play a \C and finesse the \CT. Now lead the \SJ to dummy's \SK. Finesse the \CJ. Finally, lead the \S6 to dummy's \S7. Finesse the \CQ. Claim the rest.
+
+This was not an easy plan. 
+
+The first part is realizing that you need to have three entries to dummy.
+
+The second part is figuring out that the \S suit could provide them.}
+[Play "W"]DA
+

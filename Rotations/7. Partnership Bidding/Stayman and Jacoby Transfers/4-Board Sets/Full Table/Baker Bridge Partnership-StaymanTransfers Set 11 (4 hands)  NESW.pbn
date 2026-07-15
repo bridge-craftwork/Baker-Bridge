@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q965.AQ93.KQ8.A6 A42.JT87.T642.KT KJT3.K5.A93.8742 87.642.J75.QJ953"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2H pass 3NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e700449ee54f7abe28d88c02b5ee996438e0a2738b8fdc762e806a4078278c90"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH uses Stayman because he has a 4-card \S suit.
+
+NORTH's 2\H response wasn't exactly what SOUTH was hoping for, 
+so SOUTH decides to bid 3NT.
+
+NORTH absolutely knows that SOUTH holds a 4-card Major - 
+and also knows that it isn't \Hs. 
+So NORTH bids 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AT6.AK74.AQ53.T9 Q85.T.K942.KQ875 J974.Q862.T876.4 K32.J953.J.AJ632"]
+[Declarer "E"]
+[Contract "2H"]
+[Result ""]
+[Auction "E"]
+1NT pass 2C pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "d61eaf08b746f7ff89bccb96edba145f8c6f77f7f11c8e206fc8c9a97e995725"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{WEST has a rotten hand, and many players would just pass 1NT.
+
+But WEST figures that having EAST play any 4-4 fit would be better than 1NT so 
+he bids 2\C, Stayman. This is called "Garbage Stayman", and you can see why.
+
+EAST bids 2\H and WEST passes. He would have passed 
+either 2\S or 2\D also.}
+

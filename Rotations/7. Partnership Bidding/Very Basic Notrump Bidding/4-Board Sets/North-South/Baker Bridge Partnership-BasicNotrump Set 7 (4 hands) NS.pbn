@@ -1,0 +1,59 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicNotrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:972.T975.JT93.84 QJ4.AK.K76.QJT52 A863.J842.82.976 KT5.Q63.AQ54.AK3"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "f7d71a8c8721fcb72b3026e7b110785e2cd0a9c2bd267e3f7f954fb1d48e7b0d"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH has 17 points, counting 1 for the fifth Club. She has a balanced distribution 
+so she opens 1NT.
+
+SOUTH is also balanced, so he does the math. NORTH has either 15, 16 or 17, and with SOUTH's 
+18 the partnership total is either 33, 34 or 35. That is enough for a small slam, but 
+below the 37 points needed for Grand Slam so he bids 6NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJ9.AK8.AQ53.KQ8 A653.T42.9842.52 K74.QJ5.KJT.A743 T82.9763.76.JT96"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fd23dc6fd45ced88e95798ba548d2595af1c1dfa85fe4c3dc4ec0c93be01d3a1"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{The partner who is first sure what the final contract should be should just go ahead and bid it. 
+This is called "She who knows, goes."
+
+In this deal, for example, it is NORTH who knows. She has a balanced 14 points, so when SOUTH indicates 
+20/21 points with his opening 2NT bid she KNOWS the partnership holds about 34/35 points. 
+
+Therefore she GOES to 6NT.}
+

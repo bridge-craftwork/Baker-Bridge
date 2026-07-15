@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Overcalls
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Overcalls and TakeOut Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A76.Q85.A932.T94 K983.76.KQ5.AJ76 T54.JT92.JT86.53 QJ2.AK43.74.KQ82"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1D pass pass X pass 2D pass 2H pass 2S pass 3C pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d69fed6f7545b33c33a9de694bb82ba864fecfffa1a3b690d4083af235e5f79d"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{NORTH has 13 points but has no bid over 1\D. 
+SOUTH can make a Takeout Double, so he does.
+
+NORTH now cue-bids \D to show opening hand strength.
+
+SOUTH shows his \H suit, NORTH doesn't like it. 
+NORTH shows her \S suit, SOUTH doesn't like it. 
+SOUTH shows his \C suit, NORTH likes it fine, but decides 3NT will be easier than 5\C.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K82.KJT2.KQ9.Q83 AJT74.A73.A86.95 Q53.984.T32.AJ74 96.Q65.J754.KT62"]
+[Declarer "S"]
+[Contract "1S"]
+[Result ""]
+[Auction "S"]
+1S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: E, basisKind:Declarer, nOption:2, nBasis: 1, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "01d11fd554f795a38f23f5019ff255d344b8710d42c59e43caf6f351f383c1e4"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{WEST would have had a great opening 1\S bid. But when SOUTH opened 1\S 
+in front of him he was hornswaggled. He couldn't bid any other suit, he couldn't bid 1NT 
+and he sure couldn't bid \Ss. So he must pass.
+
+And so does everybody else pass.}
+

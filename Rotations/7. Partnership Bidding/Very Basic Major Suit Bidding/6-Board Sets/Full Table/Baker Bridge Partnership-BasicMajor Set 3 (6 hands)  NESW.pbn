@@ -1,0 +1,90 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQJ54.A7.KQ5.J86 72.86532.J87.KQ9 T963.KQ4.9642.A7 A8.JT9.AT3.T5432"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ae0afae00c15c60ebbe3ed2548d04761e7d1f70d16318d6918d6459616d33d1b"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{NORTH has 17 points and might open 1NT. But with the 5-card Major suit she prefers 
+to open 1\S.
+
+SOUTH has good \S support and 10 points, counting 1 for the doubleton \C. 
+It is easily worth a raise to 2\S
+
+NORTH cannot bid game yet, after all, SOUTH could have as few as 6 points. But she can 
+continue with a 3\S bid in hopes that SOUTH actually has 9 or 10 points.
+
+SOUTH comes through with 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KJ6.KJ852.A74.85 QT9.T3.Q985.K972 872.Q964.K62.AQ3 A543.A7.JT3.JT64"]
+[Declarer "E"]
+[Contract "3H"]
+[Result ""]
+[Auction "E"]
+1H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "ac08f7efad492d4b88f7d2a3591f6cae3df578420f20ca43c39e2691728f6041"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{EAST has a bare minimum 13 point hand, and he should open 1\H.
+
+WEST has 11 points and good \H support so she jumps to 3\H.
+
+EAST knows he has been invited to bid higher, but with nothing above minimum he must pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ.J854.A983.QJ7 KT975.96.T7.A843 863.AKQ72.K6.T95 A42.T3.QJ542.K62"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+pass pass 1H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1daed2889714064afd4433ffc2da9e8decc05a41ca4a61325a6f2436607c00ab"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{NORTH has 11 points and she should pass.
+
+SOUTH has a minimum 1\H opening, 13 points and five trumps.
+
+NORTH, with 4-card trump support, jumps to 3\H. 
+(This is called a Limit Raise.)
+
+A Limit Raise is an invitational bid, but SOUTH can add and he knows the total points will 
+be either 24 or 25. So he passes 3\H.}
+

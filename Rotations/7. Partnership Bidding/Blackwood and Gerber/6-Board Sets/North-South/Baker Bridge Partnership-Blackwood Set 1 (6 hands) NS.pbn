@@ -1,0 +1,81 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKQ983.2.AK.KQJ8 6.AJT97.QJ73.T42 J742.KQ54.82.753 T5.863.T9654.A96"]
+[Declarer "N"]
+[Contract "5S"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 2S pass 3S pass 4NT pass 5C pass 5S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a605fb082d00c1f1d715d38d731592daeaa93118fc926aa44eb6cb80ad3e0b21"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH's 3\S supporting bid is enough to convince NORTH to make a slam try.
+
+NORTH bids Blackwood 4NT. If SOUTH shows one Ace NORTH plans to bid 6\S, but 
+when SOUTH bids 5\C NORTH settles for 5\S}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A64.KJ9.AKQJ9.KQ QT2.532.82.98532 J3.AQT86.T3.JT74 K9875.74.7654.A6"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "fd52292089077aabcd6df9b31dbf32a26d1779653293620d7d509b9214bf9a08"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH makes a positive 3\H response to NORTH's 2\C opener. 
+This promises at least 8 points and a 5-card suit with two or more honors.
+
+NORTH only needs to know one thing - how many Aces in the SOUTH hand. 
+A Blackwood 4NT tells her the answer is one, so she bids 6\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A97.QJ42.KQ86.A5 J6542.987.T52.64 KQ.K6.A4.KQJ9732 T83.AT53.J973.T8"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 4C pass 4S pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "4fe90518194c950fa165923dad29d59c00d3d4d30c6eb1e9b9636b09999c4b93"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{When NORTH opens 1NT, point-count alone tells SOUTH that 6NT can surely be made. 
+NORTH is bound to hold at least two Aces. But SOUTH doesn't want to miss a Grand slam.
+
+SOUTH bids 4\C, (Gerber), and NORTH admits to just two Aces. 
+
+So SOUTH settles for the small slam.}
+

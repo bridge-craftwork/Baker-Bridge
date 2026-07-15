@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-RomanKeyCard
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430
+[Event "Baker Bridge - Roman Key Card Blackwood"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQJ862.KQ7.KQJ.A 94.J84.976.KQ982 K53.A952.854.654 T7.T63.AT32.JT73"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 2S pass 3S pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "8b089d2112bd62bbe1f1a66b4ff5b880961a1f33e1da0ae70fa0e912d1c88d21"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{NORTH realizes SOUTH has fewer than 8 points, but the 3\S support bid is enough 
+for her to try a RKCB 4NT bid.
+
+SOUTH shows two Key Cards and NORTH figures they will be the \SK and one of the 
+red Aces. So she bids 6\S. If instead the Key Cards are the two red Aces NORTH 
+might possibly make all thirteen tricks with a finesse.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQJ5.AK652.6.AKQ T63.T93.AJ32.JT2 A72.Q74.985.9843 984.J8.KQT74.765"]
+[Declarer "E"]
+[Contract "6H"]
+[Result ""]
+[Auction "E"]
+2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "fb516c5c6ea54277b454cf9cddc1d1e0e7290cde93a79016aadacbedfd215b61"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{WEST's 3\H bid is "encouraging" so EAST bids 4NT.
+
+When WEST shows one Key Card, (an Ace), EAST is afraid he may have a trump loser as well the 
+other Ace. To find out about the \HQ he 
+bids 5\D, the Queen Ask.
+
+WEST has the \HQ but no King so she jumps 
+to 6\H.}
+

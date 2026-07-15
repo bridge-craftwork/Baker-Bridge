@@ -1,144 +1,74 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
 [Event "Baker Bridge - Second Hand Play"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:AT8.KQ4.AKT.A982 953.9872.8653.K6 K74.AJT.QJ4.QJT7 QJ62.653.972.543"]
+[Deal "N:A5.AT975.AQJ.J86 JT64.K.7642.KQ75 K7.J8632.K53.T42 Q9832.Q4.T98.A93"]
 [Declarer "N"]
-[Contract "6NT"]
+[Contract "4H"]
 [Result ""]
 [Auction "N"]
-2NT pass 6NT pass pass pass
+1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "0aebf656f7f2bc3bec156d439d12678e2a77a91b7ae76c6d7d674ad85dd0e750"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards S:H4 W:H9]
+{[showcards N:HJ]
 
 You are West. The bidding has been as shown.
 
-Partner led the \H9, taken by dummy's \H10. The \S4 is then played from dummy. Do you play low? or split your honors?
+Partner led the \CK, and you played the \C9 to encourage him. He continued with the \CQ, then a small card to your \CA. You then exit with the \D10, taken by dummy's \DK.
 
-Play the \SJ (or \SQ).
+Declarer then calls for the \HJ. Do you cover with your \HQ or not?
 
-You should always make a point count check as soon as you see dummy. North's 2NT promises 20 or 21 points, South has 14 and you have 3; total = 37 or 38. Therefore East must have either 2 or 3 points. He cannot have two Jacks because you can see all four of them. Likewise he cannot have a Queen because you can see three of them and his \H lead (top of nothing) denied that Queen.
+Play the \H4.
 
-It follows that East <b>MUST</b> have a King, and it must be \Cs or \Ds since he has denied any \H Honor.
+South has 5 \Hs and North must have at least 5. The reason you cover an Honor is that you hope to establish a lower card in either your hand or partner's hand. But your partner has one \H at the most so there is no hope of establishment.
 
-Since East will definitely win his King, you need to take one trick yourself, and the best way to do that is to split your Honors to establish one \S winner.
-
-North has no defense to this, but if you had played low he would have played the \ST and made the slam. }
-[Play "W"]H9
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:AQ4.A85.AQ84.863 T982.9632.53.KQ4 KJ5.Q74.T72.AJ95 763.KJT.KJ96.T72"]
-[Declarer "E"]
-[Contract "3NT"]
-[Result ""]
-[Auction "E"]
-1NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "intermediate"]
-[SkillPath "defense/second_hand_play"]
-[Student "W"]
-{[showcards W:ST E:S3 S:SA,C3]
-
-You are South. The bidding has been as shown.
-
-You lead the \ST; low cards from West and North, won by East with the \SA.
-
-East next plays the \C3 and you must decide whether to split your \C K Q.
-
-Play the \C4.
-
-If you split your Honors, playing the \CQ perhaps, dummy's \CA will take the trick and East will later play through your \CK toward dummy's \C J 9 5. Played in this way he will establish 3 \C winners (which he needs for the contract).
-
-If you play low, he <b>MIGHT</b> finesse the \CJ and again establish 3 \C winners. But East's correct play would be to put on dummy's \C9, finessing South for the \CT. This is because \C K 10 <b>or</b> \C Q 10 are twice as likely as \C K Q.
-
-If he does play this way North will win the \CT and your \C K Q will get one more trick.}
-[Play "W"]ST
+Now that you have looked at the hands aren't you glad you didn't cover?}
+[Play "W"]CK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AK94.KQ6.AQ4.T86 T62.73.K763.A942 Q5.AJ98542..KJ73 J873.T.JT9852.Q5"]
-[Declarer "S"]
-[Contract "6H"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:Q9742.94.AKQJ.AK KJ3.JT85.T6.9764 AT5.Q63.8742.J85 86.AK72.953.QT32"]
+[Declarer "E"]
+[Contract "4S"]
 [Result ""]
-[Auction "N"]
-1C pass 1H pass 2NT pass 6H pass pass pass
+[Auction "E"]
+1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "intermediate"]
-[SkillPath "defense/second_hand_play"]
-[Student "E"]
-{[showcards W:DJ]
-
-You are East. The bidding has been as shown, (wild).
-
-Partner led the \DJ; \DQ from dummy, \DK from you and ruffed by South.
-
-South then pulls two rounds of trumps, (West discards on the second one), followed by his \SQ, dummy's \S A K and dummy's \DA. South discards \Cs on the last two cards.
-
-The \C6 is then played from dummy and you must make a decision - \CA or \C2?
-
-Play the \C2.
-
-You have a full count on South's hand. He started with 2 \Ss, 7 \Hs, and no \Ds. His other 4 cards must have been \Cs, and he has discarded 2 of them.
-
-So he has 2 \Cs left in his hand. If one of them is the \CK and you play your \CA then you have handed him the contract.
-
-By playing low you give him a guess to make. If he plays the \CK he will make the contract, but if he plays the \CJ he will go down. He will probably play the \CJ, figuring you woudn't have the nerve to duck with the \CA. He'll know better next time he plays against you.}
-[Play "W"]DJ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:J95.93.AKQ.K9752 KQ4.74.J9754.AJ3 862.AKQJT.83.QT6 AT73.8652.T62.84"]
-[Declarer "W"]
-[Contract "3NT"]
-[Result ""]
-[Auction "W"]
-1C pass 1H pass 1NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "7ce83dc2022a3d24890426c3fde360f59476c088cf0d5869153f463354dc66f5"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:D5 S:DK,C9]
+{[showcards S:S4]
 
-You are North. The bidding has been as shown.
+You are South. The bidding has been as shown.
 
-You lead the \D5; \D3, \D10 and won by West with \DK. West now leads the \C9 from his hand 
+You lead the \HJ, covered by dummy's \HQ and won by North's \HK. North wins the \HA at the second trick and continues with a small \H ruffed by East.
 
-Play the \CA.
+East then plays the \S4 from his hand. Do you play low? or play the \SJ to force dummy's \SA?
 
-First ask yourself "Where are the \DA and \DQ?"South doesn't have either one or he would have played it at the first trick. So West has both of them. So with those 3 tricks and the 5 \Hs in dummy West only needs to find one more winner. Assuming he has the \CK, (or why play the suit), if you play low he will find that one more winner whichever high \C he plays.
+Play the \S3.
 
-Next ask yourself "Where is the \SA?"Clearly South <b>DOES</b> have this card; otherwise West has his 9 tricks.
+If East decides to finesse the \ST then you will still win the one \S trick which you are entitled to win. 
 
-So the way to beat the contract is to go up with your \CA, then play \SK, \SQ and a third \S, hoping South holds \S A x x x.}
-[Play "W"]D5
+However, with East holding the \SQ it would be very logical for him to go up with the \SA then lead back toward his \SQ, playing North for the \SK. If he plays this way you will get two tricks and defeat the contract.}
+[Play "W"]HJ
 

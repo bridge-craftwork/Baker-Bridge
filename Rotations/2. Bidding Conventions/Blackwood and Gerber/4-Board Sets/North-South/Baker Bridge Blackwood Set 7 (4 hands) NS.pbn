@@ -1,0 +1,56 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKJ83.KQ76.98.AK 765.852.JT4.8432 QT92.AJ43.Q7.QT6 4.T9.AK6532.J975"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 3S pass 4C pass 4H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "e78905ee605da9e433e89a7bec296763ad234866ff88aa25244bfce4a1628304"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/blackwood"]
+[Student "S"]
+{You dealt this hand.  
+
+You aren't strong enough to open 2\C so you bid 1\S. Partner responds 3\S.  
+
+Partner's limit-raise shows 11-12 points and you revalue your hand up to 22. So you are definitely in slam territory. You hope partner has 2 Aces but you cannot use Blackwood with that worthless doubleton in \Ds. Instead you make a control-showing bid of 4\C. Partner then bids 4\H.  
+
+The good news is that partner's control-showing bid says he has the \HA. The bad news is that he bypassed \Ds so he does not have the \DA. Since you may have 2 quick losers in \Ds you sign off at 4\S. }
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:J976.53.Q8765.82 AK43.QJ86.A9.QJ6 T2.T972.432.A975 Q85.AK4.KJT.KT43"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "E"]
+pass 1NT pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2978084c8bab0c6c65268af85f61db85e47da46ec5dd3924182b01ff953f22ea"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/blackwood"]
+[Student "S"]
+{You have a textbook 1NT opener, so you open 1NT. Partner says 4NT.  
+
+<b>THIS IS NOT BLACKWOOD</b>. Partner's bid is the Quantitative 4NT. He has 16 points and is inviting you to bid slam if you have a maximum opener, but to pass with a minimum. Since your 17 point hand is at the top of the 1NT range you accept the invitation and bid 6NT.}
+

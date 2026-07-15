@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Help
+%bridge-classroom-stable: true
+%bridge-context: Help-Suit Game Try (NOT Short-Suit)
+{Partner has invited you to bid game and you have 10 points, an absolute maximum. But, he has also told you he is worried about \Cs and your help in that suit is rather nebulous.
+
+Since you have to make a judgement one way or the other you should decide that a Queen is a little bit of Help and with the 10 points that should be enough. You bid 4\H.}
+
+[Event "Baker Bridge - Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:Q543.KQT98.A5.AQ AT9.653.QJT84.K8 K8.J742.K762.965 J762.A.93.JT7432"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2H pass 2S pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "1327ef65d116b9ed345585dcb3bc64d4c73160b32cfc804d7831f781a6363169"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/help_suit_game_try"]
+[Student "S"]
+{Except for the \S weakness you have a nice hand. If partner can Help you in that suit then you want to be in game.
+
+So you bid 2\S and partner bids 4\H. Sometimes it is easy.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AKQ84.62.962.AK8 976.T87.AKJ4.654 T53.AK53.853.QT2 J2.QJ94.QT7.J973"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1S pass 2S pass 3D pass 3H pass 4S all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "d162386884406e2f11de365448cbe36dfbaf4389dd100a47abc6e854da351d93"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/help_suit_game_try"]
+[Student "S"]
+{You do have 9 points so you are inclined to bid game, but partner needs help in \Ds, and you are bankrupt there. But rather than just signing off, this hand gives you a way to temporize.
+
+You bid 3\H, a bid not covered in the Summary, but which you hope partner will interpret as meaning: "I can't help you in \Ds, but I have some great \Hs."
+
+Apparently partner interpreted it the way you wanted since he bid the game.}
+

@@ -1,0 +1,64 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:Q75.KJ74.J942.J8 T.AQT52.853.K762 AJ9642.83.A6.Q54 K83.96.KQT7.AT93"]
+[Declarer "N"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+pass pass 1S pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "c1874ece9b8609caa5152ee37bf3e3158f32d145395e08c31b182144b2947a70"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{With 8 points, SOUTH is not strong enough to open the bidding.
+
+NORTH has 13 points, barely meeting the minimum for a 1-opening. Note that the fifth and 
+sixth \S each added 1 point to his count. He opens 1\S.
+
+Although SOUTH passed originally, she must respond to NORTH's opening bid. Since she has 
+three \Ss she raises to 2\S.
+
+In light of SOUTH's weak response NORTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AK.QJ8642.KQ3.75 9832.A3.J6542.A4 J65.KT75.A8.9862 QT74.9.T97.KQJT3"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1H pass 2H pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "3c9c135f001fa0fc88c1046abde81f935e383cebdc1ce9189c44e7ccca0d9eab"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{EAST has 17 points and six \Hs. 
+This is a mid-range 1\H opening bid.
+
+With 9 points, (1 for the doubleton), WEST raises to 2\H.
+
+EAST's hand is worth one more try. He invites with 3\H.
+
+WEST had a strong 2\H raise, considering that she might 
+have only had 6 points. So she carries on to 4\H.}
+

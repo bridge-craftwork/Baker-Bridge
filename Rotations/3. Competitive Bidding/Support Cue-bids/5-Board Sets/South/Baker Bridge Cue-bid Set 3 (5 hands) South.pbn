@@ -1,0 +1,68 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Cue-bid
+%bridge-classroom-stable: true
+%bridge-context: Support cue-bid = limit raise+ with trump support
+[Event "Baker Bridge - Support Cue-bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J6.QJ975.J74.AK5 AKT952.832.K.J74 843.KT64.AQ5.Q93 Q7.A.T98632.T862"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "S"]
+1H 1S 2S pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "dab9f9f9aae1e069219c6ae51ea6b44243b4e9fe17a9c0e120b3aefad1eb5e81"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/support_cuebids"]
+[Student "S"]
+{Partner has a limit raise or better  in \Hs, 11 points or more. 
+
+You, however, have a bare-bones minimum. So you rebid a minimum 3\H, which partner passes. }
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:753.AKQT6.JT2.QJ AKT94.853.653.K9 2.J942.987.AT754 QJ86.7.AKQ4.8632"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1H 1S pass 2H pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4a77e1412bdd04b07c1e1ec9758c6a0b6433897d86a59c9b2b22908458cea19e"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/support_cuebids"]
+[Student "S"]
+{You have 14 points in support of \Ss; however, partner's overcall does not promise more than 9 points or so. 
+
+So you cue-bid 2\H, showing a good hand with support and forcing partner to bid again. Partner bids 3\S.  
+
+4\S. Partner's jump shows a good overcall, but not enough strength to insist on game when you might have only 11 points. You have plenty extra so you bid the game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQ642.8.KQ4.KQ5 75.AKQT53.JT5.64 JT98.J94.A862.AJ 3.762.973.T98732"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1S 2H 3H pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

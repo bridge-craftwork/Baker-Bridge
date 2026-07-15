@@ -1,0 +1,65 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-AdvancedForcing
+%bridge-classroom-stable: true
+%bridge-context: FSF one-round force only; Help-Suit Game Try
+{Could NORTH bid 2\H, (FSF), even though she actually has the suit?
+
+Perhaps, but there is no reason to do so. SOUTH does not have four \Hs 
+or he would have mentioned them before bidding \Ss.
+
+NORTH should ignore the \H suit and bid 3NT.}
+
+[Event "Baker Bridge - Fourth Suit Forcing, NMF, Help Suit Game Try"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q54.76.AK98.A874 987.AT4.QT7.Q962 AKT63.KQ985.63.5 J2.J32.J542.KJT3"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1D pass 1S pass 2C pass 3H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "34306a4920ed27da2988c2cacac6fcb3021a6d82a61bbc483ff6ae9da95e02f2"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{NORTH cannot bid 2\H at his second turn; that would be 
+Fourth Suit Forcing and wouldn't show the \H suit at all.
+
+With a game-forcing two-suiter he jumps to 3\H instead. 
+SOUTH recognizes that NORTH must hold five \Ss and bids the \S game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:Q85.A5.KQJ62.643 A943.94.87.KQJ85 K76.KJ873.A94.92 JT2.QT62.T53.AT7"]
+[Declarer "E"]
+[Contract "2D"]
+[Result ""]
+[Auction "E"]
+1D pass 1H pass 1NT pass 2C pass 2D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "69736e156bb4f41613bd5959a630abcaa8134606800c3abeb6c23089c4c09e2d"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/advanced_forcing"]
+[Student "S"]
+{WEST bids 2\C as New Minor Forcing, hoping EAST has three \Hs.
+
+EAST does not have three \Hs and he has no other bid to make that 
+will describe his hand any better. He cannot bid Notrump again without a \C stopper. 
+So EAST rebids the 5-card \D suit.
+
+WEST has nowhere to go, so passes.}
+

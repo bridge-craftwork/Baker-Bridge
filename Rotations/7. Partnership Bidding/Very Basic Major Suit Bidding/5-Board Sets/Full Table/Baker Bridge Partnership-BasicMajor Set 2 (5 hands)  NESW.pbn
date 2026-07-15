@@ -1,0 +1,72 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+{With 8 points, NORTH is not strong enough to open the bidding.
+
+SOUTH has 13 points, barely meeting the minimum for a 1-opening. Note that the fifth and 
+sixth \S each added 1 point to his count. He opens 1\S.
+
+Although NORTH passed originally, she must respond to SOUTH's opening bid. Since she has 
+three \Ss she raises to 2\S.
+
+In light of NORTH's weak response SOUTH passes.}
+
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK.QJ8642.KQ3.75 9832.A3.J6542.A4 J65.KT75.A8.9862 QT74.9.T97.KQJT3"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H pass 2H pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "3c9c135f001fa0fc88c1046abde81f935e383cebdc1ce9189c44e7ccca0d9eab"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{NORTH has 17 points and six \Hs. 
+This is a mid-range 1\H opening bid.
+
+With 9 points, (1 for the doubleton), SOUTH raises to 2\H.
+
+NORTH's hand is worth one more try. He invites with 3\H.
+
+SOUTH had a strong 2\H raise, considering that she might 
+have only had 6 points. So she carries on to 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:T92.AK542.85.AKQ K53.98.T9762.T64 764.Q763.AJ4.985 AQJ8.JT.KQ3.J732"]
+[Declarer "E"]
+[Contract "3H"]
+[Result ""]
+[Auction "E"]
+1H pass 2H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{EAST opens 1\H with 17 points and five \Hs.
+
+WEST, with 7 points and four trumps raises to 2\H.
+
+EAST has a mid-range hand, good enough to invite WEST to bid the game.
+
+Too bad, but WEST is too weak to accept any invitations.}
+

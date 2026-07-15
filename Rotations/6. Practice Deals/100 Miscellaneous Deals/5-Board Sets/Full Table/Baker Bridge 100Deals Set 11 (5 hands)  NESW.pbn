@@ -1,215 +1,102 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
+%bridge-classroom-stable: true
+%bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:92.KQJT63.83.962 QJT6.8.KJ94.JT85 AK43.A52.A762.K4 875.974.QT5.AQ73"]
+[Deal "N:K864.QJ3.AK2.A95 952.A72.74.JT643 AJ3.T864.Q965.87 QT7.K95.JT83.KQ2"]
 [Declarer "N"]
-[Contract "4H"]
+[Contract "1NT"]
 [Result ""]
 [Auction "N"]
-2H pass 4H pass pass pass
+1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "eb3bb07a8d42e5772f574450a53f5e65b854773f0fb6c8e673dd0f6ce93b477a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Wow! Partner opens with a 2-bid and you have all of this?
+{South's 1NT opening shows a maximum of 17 points. Add your 7 and you come up with only 24 - not enough to think about game. So you pass.
 
-Don't get carried away, it was a <b>WEAK</b> 2-bid. So even though you have 19 points partner has only 6-11. But even though it is possible that the total only comes to 25 you bid the game anyway, figuring that it will probably be at least 26.
-
-South would play 4\H.
+South would play 1NT.
 
 Click 
 
-North plays 4\H. East leads the \SQ. 
+North plays 1NT. East leads the \C4. West plays the \CQ, then the \CK , East playing the \C3 on the second trick. West then plays the \C2 which you win with your \CA.
 
-<b>North plays 4\H. East leads the \SQ.</b>
+<b>North plays 1NT. East leads the \C4. West plays the \CQ, then the \CK , East playing the \C3 on the second trick. West then plays the \C2 which you win with your \CA.</b>
 
-Losers: \S 0 : \H 0 : \D 1 : \C 3 : Total = 4
+Winners: \S 2 : \H 0 : \D 3 : \C 1 : Total = 6
 
-There are two ways to get rid of one of those \C losers. You can lead up to the \CK, hoping that East holds \CA, or you can ruff it in dummy.
+You only need one more winner and there are possibilities in \Ss, \Hs and \Ds. But you need to be very careful. If you watched those \C spots you will realize that East started with 5 \Cs (he led the \C4, later played the \C3). So the defenders will win 2 more \C tricks to go with the 2 they already have. And they can also take the \HA and \HK whenever they want. In other words, they also have 6 winners. So the battle is for the 7th trick for either side. If you do anything that gives them a trick they will win.
 
-Suppose you try to combine both chances. Win the \SK, then play a small \H to your hand. Lead a \C and play dummy's \CK. West takes the \CA and plays another trump which you win in your hand. You play another \C but West wins this one also and leads another trump, removing dummy's last hope of ruffing a \C. Down 1.
+So you don't try for a trick in \Ss or \Ds. Instead you play on \Hs, the suit where they have the 2 sure winners anyway. They will win one of their high honors, take their 2 \Cs, then play either \Ss or \Ds. You win and drive out the other \H honor.
 
-Instead you could give up on the idea of leading toward the \CK and just lead a \C from dummy at trick 2. The defenders can win and lead a trump, but you play a second \C. They win this also but even if they lead a trump you can still ruff your third \C in dummy and make the game.
+If you try to get a winner by taking the \S finesse you will give <b>THEM</b> a winner and you will go down.
 
-You can see that playing a \C from dummy will guarantee the contract.
+If you play your three high \Ds you will set up a winner for <b>THEM</b> and you will go down.
 
-You can also see that leading a \H back to your hand at trick 2 is a bad idea.
-
-But did you see there is another way to reach your hand? You could play \SA then ruff a \S. This runs the small risk that West started with a singleton \S.}
-[Play "W"]SQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:KJT84.AK32.95.A6 753.QT76.KQJ.QT8 Q92.854.A63.7542 A6.J9.T8742.KJ93"]
-[Declarer "E"]
-[Contract "3S"]
-[Result ""]
-[Auction "E"]
-1S pass 2S pass 3D pass 3S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_miscellaneous"]
-[Student "S"]
-{With 6 points you must respond. And with 3 \Ss you can support partner's suit.
-
-You respond 2\S and partner bids 3\D.  
-
-Partner's 3\D bid is a Help Suit Game Try. He is inviting you to bid game if you have a good 2\S response, particularly if you can help him in \Ds.
-
-Although have the \D help you have a bare minimum response. So you return to 3 \S which partner passes.
-
-West would play 3\S.
-
-Click 
-
-East plays 3\S. South leads the \DK. 
-
-<b>East plays 3\S. South leads the \DK.</b>
-
-Losers: \S 1 : \H 2 : \D 1 : \C 1 : Total = 5
-
-The \D loser, the \C loser and the Ace of trumps are unavoidable. One \H loser is also unavoidable, but the second one can be ruffed in dummy. You cannot afford to play a single trump.
-
-Win the \DA and play \HA, \HK, \H2. The defenders will win this. If your \H3 happened to set up then you won't have to ruff it, but more than likely the \Hs split 4-2. The defenders may now take a \D winner, or they may lead \SA and another \S. But they cannot stop you from ruffing your fourth \H with dummy's \SQ or \S9.
-
-The defenders may not lead trumps to try to stop your ruff.
-
-In that case you must be sure to ruff the fourth \H with the \SQ or the \S9. If North wants to over-ruff it will be with the \SA which you must lose anyway.
-
-Look at what would have happened if you had led a trump at trick 2. North could have won the \SA and played another \S. Then, when South took the third \H he could lead his last \S and dummy would have no trump to ruff the final \H with.}
-[Play "W"]DK
+Only if you establish your \Hs can you set up a winner for <b>YOU</b> without giving them an extra trick. }
+[Play "W"]C4
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AJ2.AT7.JT9.K763 QT863.Q852.64.98 75.K64.AQ853.AJ2 K94.J93.K72.QT54"]
-[Declarer "S"]
-[Contract "3NT"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:AKQJ52.KQ7.53.94 97.AJ64.QT.QJT52 86.93.A9742.A763 T43.T852.KJ86.K8"]
+[Declarer "E"]
+[Contract "4S"]
 [Result ""]
-[Auction "S"]
-1C pass 1D pass 1NT pass 3NT pass pass pass
+[Auction "E"]
+1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "43c629f39cba5df1d0b8ac6bc811249df4e096b15f0ad07c2ac68746a6143f1e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{When you are dealt 13 points and only one biddable suit things are simple. After you open 1\C partner responds 1\D. What now? 
+{You have an easy choice, you open 1\S.
 
-You can't support responder's suit with only 3 cards so you show your minimum by bidding 1NT. Partner bids 3NT and you naturally pass.
+Partner responds 1NT.  
 
-South plays 3NT. West leads \S6. East plays \SK.
+Partner is showing 6-10 points. With 17 points you are strong enough to invite game. You show your 6-card suit by jumping to 3\S. Partner bids 4\S.
 
-<b>South plays 3NT. West leads \S6. East plays \SK.</b>
+East plays 4\S. South leads the \CQ.
 
-Winners: \S 1 : \H 2 : \D 1 : \C 2 : Total = 6
+<b>East plays 4\S. South leads the \CQ.</b>
 
-You need 3 more winners and clearly they must come from the \D suit. If West happens to hold the \DK all will be well, but what about the times when East holds it?
+Losers: \S 0 : \H 2 : \D 1 : \C 1 : Total = 4
 
-The immediate, burning question is whether to win the first trick or not. By winning you will create a second \S stopper - as long as East never gets into the lead. But the problem is that your main finesse is going into East. So you hold up on the first trick, sacrificing the chance of a second stopper. When East returns a \S you hold up again, playing the \SJ which West wins with the \SQ. Your \SA is finally driven out on the third trick.
+You have no time to waste. You have no way to discard either minor suit loser, so you absolutely must ruff a \H in dummy. You dare not pull a trump. Win the \CA in dummy and play a \H to your \HQ. South will win and probably lead a trump. You win, cash the \HK and ruff your small \H with dummy's last trump. Now take the \DA and give up the lead. Ruff at the first opportunity and pull trumps, making 6 \S tricks, 2 minor suit Aces, one \H trick and a \H ruff in dummy.
 
-Now you take the \D finesse, losing to East's \DK (as expected). But it doesn't matter because East has no more \Ss. Whatever he plays you win and take all your winners, which happen to add up to 9.
+It's easy to decide whether to draw trumps or not.
 
-This is one of those hands where your thinking would be clearer if you had less strength.
+Always draw them - unless you have some other need for them first. Like in this hand.
 
-If you did not have the \SJ you would never consider doing anything except hold up. But with it you start wondering if you can get a trick with it. Of course, as you see, the hold-up would be correct with \S A 3 2, and it is also correct with \S A J 2.}
-[Play "W"]S6
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:A73.AQ964.A43.KQ KJ8.K2.QJ98.T853 Q5.JT73.K65.9642 T9642.85.T72.AJ7"]
-[Declarer "W"]
-[Contract "4H"]
-[Result ""]
-[Auction "W"]
-1H pass 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_miscellaneous"]
-[Student "S"]
-{With 20 points and 5-3-3-2 distribution you could correctly open 2NT.
-
-However, many think it more important to bid a 5-card Major. In this case you decide to open 1\H. Partner responds 2\H.
-
-Partner promised 6-10 points. With your 19 you decide to bid game.
-
-West plays 4\H. North leads the \DQ.
-
-<b>West plays 4\H. North leads the \DQ.</b>
-
-Losers: \S 2 : \H 1 : \D 1 : \C 1 : Total = 5
-
-One of the \S losers will be ruffed in dummy so you really just have to eliminate one loser.
-
-It is very tempting to win the first trick in dummy and immediately finesse South for the \HK. If the finesse works then all will be well, but if it fails another \D will knock out your \DA. Then, when the defense gets into the lead with a \S or \C they will cash their \D winner.
-
-Here is a better idea. Win the first trick in your hand with the \DA, and immediately lead a low \S toward the \SQ. If North holds the \SK he is caught in the middle. If he ducks you play the \SQ and don't lose any \Ss. If he goes up you can win a later trick with the \SQ and dump dummy's \D loser on your \SA.
-
-Declarers in suit contracts tend to focus on trumps, they want to pull them right away. And for good reason, that is usually the best Plan.
-
-But there are many situations when that is <b>NOT</b> the best plan. Perhaps because you need to ruff something in dummy, or perhaps (like this hand) because playing trumps would give the timing to the defense. 
-
-In this deal pulling trumps is secondary to finding a place for that slow \D loser. }
-[Play "W"]DQ
+Notice this. You cannot fault South for his opening lead, top of an honor sequence is very logical. <b>BUT</b>, if he had led a trump you would have gone down.}
+[Play "W"]CQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:72.AKT73.A83.A54 AQ94.5.Q975.QJT6 KJ6.QJ862.642.93 T853.94.KJT.K872"]
-[Declarer "N"]
-[Contract "4H"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQ98.K83.J52.74 732.QJT642.A7.T5 T64.A5.9643.KJ62 J5.97.KQT8.AQ983"]
+[Declarer "S"]
+[Contract "2S"]
 [Result ""]
-[Auction "N"]
-1H pass 4H pass pass pass
+[Auction "S"]
+1S pass 2S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_miscellaneous"]
-[Student "S"]
-{You open 1\H and partner jumps to 4\H. You pass.
-
-North plays 4\H. East leads the \CQ.
-
-<b>North plays 4\H. East leads the \CQ.</b>
-
-Losers: \S 2 : \H 0 : \D 2 : \C 1 : Total = 5
-
-The \C losers are shown as 1 since you will always be able to ruff a \C in dummy.
-
-South's precipitous leap to 4\H was made partly in hopes of making the contract, and partly as a preemptive bid to shut the opponents up. So it wouldn't be a surprise to land in an unmakeable contract. However, this one has a slim chance. The only suit you might make something of is \Ss. If East holds the \SA then leading up to the \SK would eliminate one of the \S losers - that would at least get you to down only 1. 
-
-Or, if East holds the \SQ and West the \SA then leading up to the \SJ would also eliminate one \S loser. But this play has another advantage - if East should happen to hold <b>BOTH</b> the \SA and \SQ then leading up to the \SJ will actually let you make the contract. So you win the \CA, pull two trumps, then play a \S to the \SJ. If that wins, back to your hand with a trump and play your other \S to the \SK.
-
-Some times you don't really expect to make a contract - this is one of those times.
-
-But you should still ask yourself if there is some distribution that will allow you to be successful. And if there is, just assume that distribution and boldly play the cards out.}
-[Play "W"]CQ
-
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

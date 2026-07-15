@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Takeout Doubles"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 1D X pass 1H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "83371b917ff8aae2e570813dab1fffba9f16691134130ee91869671898dc0bd6"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -29,9 +31,9 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "S"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "S:7.T753.AKQT94.K9 KQT4.AK98.8.AJ65 J652.642.J3.QT72 A983.QJ.7652.843"]
 [Declarer "E"]
 [Contract "4S"]
@@ -39,7 +41,8 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 [Auction "S"]
 1D X pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "2a1fa842e97d641d1cf481750f17cb8f70d5902df89e0243bfcc3c574721d390"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -49,52 +52,4 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 Naturally you make a Takeout Double. Partner responds 1\S. What is your next call? 
 
 With 17 HCP and the singleton you are not strong enough to insist on game. On the other hand if partner is at the top of his 0-8 point range then game is likely. A raise to 2\S invites partner to bid game with a maximum. Partner accepts the invitation.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "W"]
-[Vulnerable "EW"]
-[Deal "W:J83.A72.A2.K8752 AQ4.KQJ6.QJT7.A3 T975.94.K953.QJT K62.T853.864.964"]
-[Declarer "S"]
-[Contract "3H"]
-[Result ""]
-[Auction "W"]
-1C X pass 1H pass 3H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/takeout_doubles"]
-[Student "S"]
-{The bidding has been as shown.   
-
-With 19 HCP and a doubleton you certainly double. What do you bid after partner replies 1\H? 
-
-You need to make a strong invitation since partner needs very little for your side to have a game. So you bid 3\H. Partner has almost nothing so he passes. Good thing.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "N"]
-[Vulnerable "All"]
-[Deal "N:5.AKJ642.KQ965.Q AQ64.8.JT82.AT73 T972.T93.A4.J984 KJ83.Q75.73.K652"]
-[Declarer "W"]
-[Contract "2S"]
-[Result ""]
-[Auction "N"]
-1H X pass 2S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/takeout_doubles"]
-[Student "S"]
-{The bidding has been as shown.   
-
-This is certainly not a great hand, but at least the shape is good. You should strive to get into the bidding whenever possible, and with this hand the only way in is to double. Partner jumps to 2\S and it is your bid again. 
-
-Partner shows 9-11 points and a \S suit. However, he didn't force you to game, and you barely scraped up the double to begin with. So you pass.}
 

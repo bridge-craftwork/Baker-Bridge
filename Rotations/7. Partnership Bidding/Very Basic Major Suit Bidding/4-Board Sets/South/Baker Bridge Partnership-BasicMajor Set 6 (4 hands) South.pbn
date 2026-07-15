@@ -1,0 +1,61 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ753.KQ.A876.94 98.A732.QJ4.JT73 K642.J85.K32.A62 JT.T964.T95.KQ85"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "beecd9c9df8aae46402731b86c1574be6a9f4e26dd558fe729b5c1100639be4e"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{With a 5-card \S suit and 16 points SOUTH should open 1\S.
+
+NORTH has 11 points and four \Ss. So even though he has a balanced hand, 
+he jumps to 3\S, a Limit Raise.
+
+SOUTH adds: her 16 plus NORTH's 11/12 equals a game, 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:JT864.A6.AK6.KJ3 92.Q2.QJT943.742 AKQ7.743.852.Q95 53.KJT985.7.AT86"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "4d8ed575265fbb16b24eebca512b546ef8b98978b3e16b8065cfd18b7b905ac8"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{SOUTH has the type of 5-card Major hand that many players would open 1NT. 
+He has 17 points with most of them OUTSIDE the Major suit. But, many others 
+would disagree so for this Deal SOUTH will open 1\S.
+
+NORTH has 11 points and excellent (is that strong enough?) \S support. 
+So she naturally makes a Limit Raise of 3\S.
+
+SOUTH adds the points and ignores the fact that his \S suit is Jack high. 
+He bids 4\S.}
+

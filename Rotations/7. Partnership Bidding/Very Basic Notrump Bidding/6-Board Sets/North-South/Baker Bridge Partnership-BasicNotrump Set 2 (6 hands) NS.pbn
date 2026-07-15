@@ -1,0 +1,82 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicNotrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J96.AJ5.AQJ.A932 T43.KT963.KT.QJT AK52.872.943.765 Q87.Q4.87652.K84"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result ""]
+[Auction "N"]
+1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "353ea77537fd763ad5713b97c8f5afc47e36601c183d0fc04b4f26c021cf7bf7"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{When NORTH opens 1NT, SOUTH knows that he cannot have more 
+than 17 points. So with her 7 points, she knows there is no reason to respond.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A9754.876.T.A842 KQJ.QJ95.AJ8.QJT 2.AT3.Q97652.963 T863.K42.K43.K75"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5f7d78ae3a7e60f107a72a9ad369634f01ef5b48f9d8d77351cb93a1248c38f0"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has a maximum 17 point 1NT opener.
+
+NORTH has 9 points: 
+- if SOUTH has 15 the total is 24, not enough for game. 
+- if SOUTH has 17 the total is 26, enough for game. 
+Since NORTH doesn't know what to do he passes the buck back to SOUTH 
+by bidding 2NT; this is an invitation for SOUTH to bid game.
+
+SOUTH has a maximum 17 point hand so she accepts the invitation.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A976.AQ4.AJ4.QT8 KJ52.863.KT9.A64 T84.K72.Q65.KJ93 Q3.JT95.8732.752"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "8cc4c9dc9d505670302d14da0b64cc84067b493f75882c56195c5da98076d45c"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{With 9 points SOUTH is unable to decide the final contract. If NORTH has 17 points then the partnership 
+should be playing 3NT. If NORTH opened with just 15 points then 3NT will be too high..
+
+So SOUTH makes the temporizing bid of 2NT. This tells NORTH that he must make the final call - go on to 
+game if he has maximum, pass if he has minimum. On this Deal NORTH has 17 points so he bids 3NT.}
+

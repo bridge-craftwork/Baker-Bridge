@@ -1,14 +1,15 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Opening Leads"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:A43.A98.AJT6.QT4 QJT8.QT542.73.A3 975.J7.KQ8.KJ982 K62.K63.9542.765"]
+[Deal "S:KT4.KQ9.AT7.QJ97 QJ963.A64.863.82 A82.873.K92.AT54 75.JT52.QJ54.K63"]
 [Declarer "S"]
 [Contract "3NT"]
 [Result ""]
@@ -16,105 +17,50 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e75af1242f3e4704874796049da936925c057f41b187fff015e2a07e1e8a167c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
 {The bidding has been as shown. The contract is 3NT 
 
-Lead the \H4.
+Lead the \SQ, the top of a broken honor sequence.
 
-This is a close call. The top of your \S honor sequence is very tempting, but even when you find partner with the \SK you can still only establish three \S winners to go with your \CA. Unfortunately, that's not enough to defeat the contract.
+The top of a solid 3-card honor sequence is best, but as you can see, a broken 3-card sequence may work out just as good.
 
-Leading a \H from your 5-card suit is riskier, but it has the potential of setting up an additional winner. In this hand, as you see, the \H lead gets you 4 \H winners to go with your \CA. }
-[Play "W"]H4
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:A93.QJ743.K.K874 84.982.AT53.AJ62 KJ75.AK65.8742.5 QT62.T.QJ96.QT93"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1H pass 1S pass 2C pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 4\H 
-
-Underleading an Ace against a suit contract is the absolute worst opening lead in Bridge. A careful look at this hand shows just how bad it can turn out.
-
-And leading from a doubleton in a suit the opponents have bid is almost as bad.
-
-So by process of elimination you lead a trump, probably the \H9.
-
-And when South plays \Cs, (preparing to ruff in dummy), you will win and play another trump. Even if South guesses the \Ss correctly he will not be able to make the contract. }
-[Play "W"]H9
+South will likely try the \C finesse, and when East wins the \CK he will return a \S through South's \ST.}
+[Play "W"]SQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:852.A65.KJ.KQT94 KQJ93.42.9762.A5 AT4.K98.AQ84.J73 76.QJT73.T53.862"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "N"]
-1C 1S 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/opening_leads"]
-[Student "W"]
-{The bidding has been as shown. The contract is 3NT 
-
-Lead the \S7, the suit your partner overcalled.
-
-If partner had not overcalled, the \HQ would be the perfect lead against 3NT. But partner DID overcall, perhaps to give you a hint on what to lead if South became declarer.
-
-As you see, a \S lead will defeat the contract this time while the \HQ would let declarer make 11 tricks.
-
-Consider this: even if partner has a high \H to help you establish the suit it is not very likely that you would be able to get the lead with your entryless hand.
-
-There is another, more subtle, reason for leading partner's suit. If the lead turns out wrong, and the \HQ lead would have beaten the conract, partner will not blame you in the least. But if you lead the \HQ and it turns out that a \S lead would have let you set the contract, well, that would not be too good for partnership harmony.}
-[Play "W"]S7
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:AJ93.KJ.T53.A763 QT84.AQT7.KQ98.5 652.9532.A64.942 K7.864.J72.KQJT8"]
+[Deal "S:AQT6.7.KJ962.K65 943.964.AQT8.983 KJ72.KJT32.7.A74 85.AQ85.543.QJT2"]
 [Declarer "S"]
-[Contract "1CX"]
+[Contract "4S"]
 [Result ""]
 [Auction "S"]
-1C X pass pass pass
+1D pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "b742afe2826b9ac67b677a11acb56a20c7efcf62a4b6110076822704f9899f9e"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
 [Student "W"]
-{The bidding has been as shown. The contract is 1\C doubled 
+{The bidding has been as shown. The contract is 4\S 
 
-Lead the \C5.
+Lead any \S.
 
-There is only one reason partner would pass your takeout double - he has a great \C suit and he expects to inflict a large penalty.
+You have \D winners, but dummy will surely be short since he has at least 8 cards in the Major suits.
 
-What he wants do do is pull South's trumps so your high card winners don't get ruffed by South. The way you can help him do that is to start with a trump lead.
+Partner has whatever \H strength your side possesses.
 
-With the trump lead South might not make more than three tricks.}
-[Play "W"]C5
+It is very likely that declarer will want to do some cross-trumping. To try to cut that down your best lead is a trump.
+
+Just imagine that declarer wins the first \S in his hand and plays a \H to dummy's honors. East will win and play another trump. Whenever you win your first \D you will play your last trump.
+
+As you can imagine, declarer will be in a whole lot of trouble.}
 

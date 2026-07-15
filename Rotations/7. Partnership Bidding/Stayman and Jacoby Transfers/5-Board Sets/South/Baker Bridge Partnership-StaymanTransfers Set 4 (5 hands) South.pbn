@@ -1,0 +1,63 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+{Stayman convention works just fine after a 2NT opening, just at a higher level.
+
+NORTH knows that 6 points will be enough for game opposite SOUTH's 20-21, she just 
+needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
+
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AJT.K9.A872.AT96 K3.Q652.K943.KQ7 Q9874.AJT83.Q6.5 652.74.JT5.J8432"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 4H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "04c19f10f1a82d9d43c96996e053b988fec8f772cf3146ffd5313e51d60d009a"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{NORTH has five cards in each Major and SOUTH opens 1NT.
+
+First NORTH bids 2\H, indicating a 5-card \S suit with the Transfer bid. 
+Then, after SOUTH bids the obligatory 2\S, NORTH jumps to 4\H, promising 
+enough strength for game, and also five \Hs to go with the five \Ss.
+
+SOUTH prefers \Ss, so she corrects the contract to 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A96.KQ62.K532.K8 JT87.A94.QJ6.T52 KQ542.87.A8.Q764 3.JT53.T974.AJ93"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ef7600392606ab185b20dc34c8d664259bce37145450f45041c9b5973a3836f4"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{With 12 points and five \Ss, when NORTH hears her partner open 1NT she knows 
+there is a game - either 3NT or 4\S.
+
+NORTH first transfers SOUTH to \Ss, then jumps to 3NT, giving SOUTH the choice. 
+
+SOUTH has three \Ss, so he chooses 4\S, taking the 8-card Major fit.}
+

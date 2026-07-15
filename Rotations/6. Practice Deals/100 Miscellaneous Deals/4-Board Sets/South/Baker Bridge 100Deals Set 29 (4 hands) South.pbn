@@ -1,0 +1,86 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100Deals
+%bridge-classroom-stable: true
+%bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - 100 Miscellaneous Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:85.QJT9742.5.KJ8 KQJT743.5.Q3.Q75 A962.A8.A876.A43 .K63.KJT942.T962"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+3H 3S 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "4b1b71b88cb7419a654b3e29d0939abefdc467761e849bac87cd4d6345991d12"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{You estimate your hand has 6 playing tricks. That is reasonable for a preemptive 3\H bid. West overcalls 3\S and partner bids 4\H. Everybody passes.
+
+South plays 4\H. West leads the \SK.
+
+<b>South plays 4\H. West leads the \SK.</b>
+
+Losers: \S 1 : \H 1 : \D 0 : \C 1 : Total = 3
+
+This looks way too easy. If the \H finesse works and the \C finesse works you could make 6. It is when things look too easy that you should look for danger! What if you play the \SA and East ruffs. What if East also gets a trick with the \HK and West gets a trick with the \CQ. What with your \S loser you would be down 1.
+
+West probably has a 7-card suit to overcall at the 3-level, so if you play the \SA East will ruff and one of your winners will disappear. So don't play the \SA. Duck and let West win the trick while East shows out as expected. West will lead the \SQ and you duck again. So West will lead the \SJ and you duck one more time, but now you can ruff in your hand.
+
+Lead your \HQ and finesse, East winning the \HK. East will probably return a \D which you win in dummy. Play the \HA. Then ruff a \D to get back to your hand and pull any trumps left out. Play a \C to dummy's \CA and at long last play dummy's \SA and discard your \C loser.
+
+You always had 10 winners in this hand, as long as one of them didn't disappear.
+
+To make sure the \SA didn't disappear you had to hold it until East no longer had a trump. }
+[Play "W"]SK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ.AK.AKQT2.JT76 652.QT73.7.A8532 K873.J842.963.KQ JT94.965.J854.94"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 4C pass 4D pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "8d597019b10dd71cd5ef1b949bd0122c2564d27d18cd78a6a0e09c8c4125a1b4"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{With 9 points opposite an opening 2\C bid you are too strong for a negative response.
+
+A suit response would promise a 5-card suit so you bid 2NT. Partner says 4\C.
+
+Partner's jump to 4\C over your 2NT is Gerber convention.
+
+You have no Aces so you respond 4\D. Partner bids 6NT.
+
+South to play 6NT. West leads the \SJ.
+
+<b>South to play 6NT. West leads the \SJ.</b>
+
+Winners: \S 3 : \H 2 : \D 3 : \C 0 : Total = 8
+
+You need 4 more winners. The \C suit will provide 3 of them once the \CA is gone. A 3-2 split in \Ds will assure 2 more \D tricks. There are lots of possibilities but you must be careful of entries and unblocking. In particular, you only have one entry to your hand (if you don't waste the \SQ) and that is the \C K Q. So you need to be sure to unblock the \S A Q before you try to get to your hand in \Cs.
+
+But there is something you <b>MUST</b> do first - test the \Ds. You win the \SA and play \DA, \DK. East shows out on the second \D! Now you unblock your \SQ, then lead a \C to your \CQ. Assume a defender takes the \CA and plays a \S. You win the \SK, then the \CK. Next a \D toward dummy, finessing West out of the \DJ. Dummy is now high.
+
+What if you had carried out the plan up to the point when you led a \C toward your hand and the defense didn't take their \CA?
+
+You must abandon \Cs temporarily and take the \D finesse. You take your good \Ds and then go back to \Cs. }
+[Play "W"]SJ
+

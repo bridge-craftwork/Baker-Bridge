@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 2over1
+%bridge-classroom-stable: true
+%bridge-context: 2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430; Specific Kings
+[Event "Baker Bridge - 2-Over-1 Game Force"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK874.J86.AJ6.93 532.53.KT73.K752 Q6.AKQ972.984.AQ JT9.T4.Q52.JT864"]
+[BoardVersionToken "8d7e59d44deb99380022c0111a841bd71e0ae84d6631085458d8dd003007d8ca"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "N"]
+1S Pass 2H Pass 3H Pass 4C =1= Pass 4D =2= Pass 4NT =3= Pass 5H =4= Pass 5NT =5= Pass 6H =6= Pass Pass Pass
+[Note "1:control"]
+[Note "2:control"]
+[Note "3:keycard ask for \h s"]
+[Note "4:2 no Q"]
+[Note "5:Specific kings ask"]
+[Note "6:none below \H s"]
+{How do you start the bidding? 
+You opens 1\S. Partner bids 2\H.    
+Your priority on your first rebid is to agree trumps if possible. Knowing South has at least a 5-card suit, you raise to 3\H.  You are in a Game Forcing auction, so you know partner will continue bidding.
+South now bids 4\c.   
+South's 4\c bid shows first or second round control in clubs, and shows slam interest.  You cooperate by bidding your next control up suit order - 4\d.  This doesn't promise extra values, it's just following partner's path.
+South asks for keycards using 1430.  What is your reply? 
+You show two keycards without the trump queen.  Partner is excited about this and bids 5NT - what's your bid now? 
+Partner's 5NT is asking for specific kings.  Since we don't have any kings lower than the trump suit, we have to bid 6\h.
+ and gets two. He decides to find out about Kings, if North happens to have three he will bid 7NT. When North shows just one South settles for 6\H. This should be a good slam, needing only a decent \S break.
+}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:QJ8763.AK8.8.K75 K95.T97542.A3.Q2 A4.QJ6.7642.A963 T2.3.KQJT95.JT84"]
+[BoardVersionToken "d1290c72303a75a315ce08ec467569feefbdf61634cdbd7d2f1e118a7ce428c2"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1S Pass 1NT Pass 2S Pass 3S Pass 4S Pass Pass Pass
+{South opens 1\S.  
+With 11 points you cannot respond 2\C. So you bid 1NT, which is forcing for 1 round. 
+South rebids 2\s, promising at least 6 \ss and denying a 4-card side suit.
+
+You are strong enough to invite to game, and with the known 8-card fit you say 3\S.
+South has a little extra so he bids 4\S, which is a pretty good contract.}
+

@@ -1,0 +1,56 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQJ752.AKQ7.K2.8 64.J42.QJ763.A97 KT93.65.A4.QJ652 8.T983.T985.KT43"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1S 2D 3D pass 4NT pass 5D pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9fd734e9b8bf46eb4d9c207319a5c2e3afc3e198e04d90f6188e5a8082e5ad65"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH makes a Support Cue-bid of 2\D to show his Limit Raise in \Ss.
+
+NORTH thinks slam and bids Blackwood to make sure they aren't off two Aces.
+
+SOUTH says he has one so NORTH bids the slam.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:953.KQ87.J3.AK54 AKQ6.T62.A84.T97 8.AJ93.KQ52.QJ82 JT742.54.T976.63"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1C 2S X pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "43dc38e582585edb0cf7ef1c3b24ba59d5b4491c0ce785c343660e54db56c516"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{WEST can't bid 3\H because that would show a 5-card suit. 
+Instead she makes a Negative Double.
+
+EAST has four \Hs and he now bids them. 
+
+WEST has 13 points so she bids 4\H.}
+

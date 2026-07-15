@@ -189,31 +189,48 @@ Ran the BBA-reject *check* over the current `Package/*.pbn` (no fills changed).
   native CLI is fast enough (~65s full corpus). The "quiet side" is derived from the scripted
   auction itself (the all-pass partnership), which cleanly auto-excludes competitive lessons.
 
-### Phase A — Prototype on NMF (small, verifiable)
-- [ ] Add a Mac-native BBA backend to the fill (point at
-      `BBA-tools/bba-cli/target/release/bba-cli`, or the droplet server URL). Make the
-      Windows/SSH path optional/legacy.
-- [ ] Implement the loop for NMF only: loosen the E/W constraint, draw candidates, run BBA
-      with `--auction-prefix`, accept when E/W stay silent.
-- [ ] Decide the prefix strategy (opening-only vs per-turn) by measuring rejection rate and
-      catching known-bad cases (board 3's `AKJ853` East must be rejected).
-- [ ] Compare against current NMF passers: confirm (a) no biddable opponents, (b) more shape
-      variety than the all-balanced output, (c) acceptable wall-clock (native CLI should be
-      far faster than the old SSH path).
-- [ ] Sanity-check that N/S bidding hands are untouched and the intended auctions still hold.
+### Phase A — Prototype on NMF (small, verifiable) ✅ DONE (2026-07-14)
+Tool: `Tools/fill_bba_reject.py` · write-up: `Tools/passer-fill-phase-a.md`.
+- [x] Mac-native BBA backend — `bba-cli` + `dealer3`, no Windows/SSH. Acceptance probe is
+      imported from `audit_passers.py`, so "accepted" ≡ "audit-clean".
+- [x] NMF loop: keep N/S exactly, redraw E/W with **no** shape constraint, BBA-reject any
+      candidate where the quiet side acts (per-turn `--auction-prefix` probe).
+- [x] Prefix strategy decided: **per-turn** (precise, matches the Phase 0 baseline; cost
+      negligible at ~1.5 draws/board). Known-bad rejected: the historical `AKJ853` East
+      returns `REJECTED (E@t1:2S)`.
+- [x] Compared vs current passers: **(a) 0 biddable** (NMF 2→0, Reverse 8→0 on re-audit);
+      **(c)** ~1.5s/lesson. **(b) BUT shape variety DECREASED** — reject-only skews the
+      survivors *more* balanced (71%→86%), because long-suit hands are the ones that
+      overcall and get rejected. Not a free benefit; see write-up. Phase B may bias the draw.
+- [x] N/S bidding hands **byte-identical** on every board; auctions hold trivially.
+- [x] Bonus: `--seed` gives byte-identical reruns (dealer3 `-s`) → the determinism hook for
+      Phase B caching.
+- [x] **Managed variety bias** (per request — push *some* off balanced, no outliers): hard
+      shape filter (no >6-card suit / void / 5-5 two-suiter, always) + a bang-bang controller
+      to a `--variety` target (default 35% modestly-unbalanced). Hits target on both lessons
+      (e.g. 65%/75% balanced as set), 0 outliers, still 0 biddable. Phase B carries the knobs.
 
-### Phase B — Generalize + cache + unify
-- [ ] Extend to all `Calm` lessons (and any other "quiet opponents" scenarios). Note some
-      lessons *want* interference (e.g. overcall lessons) — those must be excluded and keep
-      their existing scripted constraints.
-- [ ] Add the fill cache: reuse `constructed_hands.csv`; only fill+validate deals missing
-      from it; make regeneration explicit/incremental (a flag or a per-deal "revalidate"),
-      not automatic on every build.
-- [ ] Unify mac/windows: retire `*-windows.csv` and `pbns-windows`/`Rotations-windows`
-      lineages, or regenerate them from the single Mac cache so dealer files and handouts
-      always agree.
-- [ ] Regenerate affected lessons once, verify, and reissue any dealer/rotation files so
-      class materials and handouts match.
+### Phase B — Generalize + cache + unify ✅ DONE (2026-07-14)
+Tools: `Tools/passer_reroll.py` + `Tools/passer_cache.csv` · write-up: `Tools/passer-fill-phase-b.md`.
+- [x] **Found two passer sources**, not one: `constructed_hands.csv` (auction_calm, 465
+      boards) AND `bb_fill.py`'s unseeded random `assign_to_east_west` (288 Partnership
+      boards). Unified with **one** step (`passer_reroll.py`) downstream of `bb_fill`, over
+      `BakerBridgeFull.csv` — re-rolls iff E/W were empty in source AND E/W is the quiet side.
+      Competitive/interference and defender boards auto-skipped.
+- [x] Cache: committed `passer_cache.csv` keyed by board identity + bidding hands + auction.
+      Cache-cold ~95s; **cache-warm 0.09s, idempotent**. `--revalidate` re-checks against BBA.
+      Kills the non-determinism and the mac/windows split (one machine-independent cache).
+- [x] Unify mac/windows + **remove the Windows build path** entirely (`-windows` CSVs,
+      `pbns-windows`/`pdfs-windows`/`Rotations-windows`, the `.ps1` scripts, the SSH BBA
+      validation). Documented as previous implementation in `Tools/windows-build-legacy.md`;
+      detail lives in git history.
+- [x] Regenerated + verified: audit **141 → 34** biddable; **every generated quiet board is
+      0-biddable**; the 34 remaining are source-deal play lessons (32) + 1 curated board +
+      1 defender-lesson false positive (all byte-identical to the orphaned `Package/`). N/S
+      untouched; variety 65% balanced/0 gratuitous outliers; tokens track the deal changes.
+- [x] Output moved to a new **`bridge-classroom/`** folder (contracted files: PBN + manifest
+      + toc + titles); `Package/` left as a frozen orphan for BC to repoint its props.
+- Forced-distribution escalation added (e.g. Blackwood d18's deal-forced void).
 
 ### Interim (optional, if a class needs NMF before A/B lands)
 - Tighten `auction_calm` in `auction_templates.dlr` to constrain **both** seats and remove

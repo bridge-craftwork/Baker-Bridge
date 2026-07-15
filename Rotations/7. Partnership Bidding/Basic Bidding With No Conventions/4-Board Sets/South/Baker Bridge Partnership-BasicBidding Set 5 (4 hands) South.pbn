@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicBidding
+%bridge-classroom-stable: true
+%bridge-context: Standard American; no conventions
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J63.AKQ82.K6.T95 A42.T7653.T72.A3 T95.J4.QJ83.KJ72 KQ87.9.A954.Q864"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "N"]
+1H pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c0a72edc88743522a48f0495725a2455e844a998e95f607ee2fb60a5df897e0d"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{NORTH has a solid 1\H opening, 14 points and five trumps.
+
+SOUTH must respond with 8 points, but cannot bid either minor suit since he needs at least 
+11 points to bid a new suit at the 2-level. So he bids 1NT (6-10 points).
+
+NORTH doesn't object to Notrump so she passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQT73.A42.975.A6 A84.86.KQJ4.Q952 J962.KQ75.83.T74 5.JT93.AT62.KJ83"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "S"]
+1S pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d18e06ca26590e530278aadf0ca6ecb40e1868a5d2f221522f81d169eb20687a"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has a normal 1\S opening bid, 14 points and five trumps.
+
+NORTH has good 4-card support and 7 points, so she raises to 2\S, 
+passed by SOUTH. 
+
+NORTH does not consider showing the \Hs, 
+first because she knows there is a \S fit, and second because she doesn't have 
+the 11 points needed to bid a new suit at the 2-level.}
+

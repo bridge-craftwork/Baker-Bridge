@@ -1,0 +1,36 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicBidding
+%bridge-classroom-stable: true
+%bridge-context: Standard American; no conventions
+{NORTH is 1 point too strong to open 1NT, so opens 1\C.
+
+SOUTH responds in his 4-card Major suit, 1\S.
+
+NORTH now shows her 4-card support plus her extra strength by jumping to 3\S and SOUTH bids the game.}
+
+[Event "Baker Bridge - Basic Bidding With No Conventions"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ.KQ8.QJ93.AK2 T6.JT54.A82.QT64 543.A72.KT65.985 A9872.963.74.J73"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "cdc39156a3847189fe8b2c74a320d62ebbce3dcfcb3875813948f4d1c2ea0694"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{SOUTH has a classic 2NT opening bid, 21 points and balanced distribution.
+
+NORTH knows that her 7 points will be plenty for game, but not enough to consider 
+slam so she just bids 3NT.}
+

@@ -1,0 +1,33 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Notrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only); plain Blackwood; Gerber 4C over NT openings
+[Event "Baker Bridge - Notrump Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT2.KQJ.AQ95.AJ5 A4.T9764.J832.T3 KJ98753.A8.6.KQ2 6.532.KT74.98764"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+2NT pass 4C pass 4S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "4a3da30e349388557383781b830831264ddf020616306d3fd079e1a1eff0b399"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You and partner better have a good agreement on which Ace-asking convention you use because you're going to use it now. Let's say it is Gerber. 
+
+You bid 4\C and partner replies 4\S.  
+
+Missing one Ace you settle for the small slam.}
+

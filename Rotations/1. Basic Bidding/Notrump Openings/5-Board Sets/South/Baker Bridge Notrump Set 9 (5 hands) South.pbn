@@ -1,0 +1,72 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Notrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only); plain Blackwood; Gerber 4C over NT openings
+[Event "Baker Bridge - Notrump Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J9.A73.AQ95.A983 A854.T2.JT43.742 76.KJ9865.86.KJT KQT32.Q4.K72.Q65"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a9346b52803b131cedcfa7af1b370fcde82b8ea314af65571622711aa2a63377"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Since partner opened 1NT he has at least 2 \Hs and you are assured of an 8-card fit. The only question is how high. With 10 points you are in the judgement zone.
+
+But unless you play Jacoby Transfers there isn't a method for inviting with this kind of hand. You have to decide for yourself and bid either 2\H or 4\H. Take the optimistic view and bid the game.
+
+As you see, it is going to take some luck.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K84.A73.KJ64.A75 A732.Q86.T95.J83 QJT95.T4.A87.KQ9 6.KJ952.Q32.T642"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1NT pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a529039aef9ccc1a6da57f3d9a21e698e71d6183a5aad42712424dabd8f5e441"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+With 13 points you must either bid game or make a bid that forces partner to game. If partner has 3 or more \Ss then the game should be 4\S. If partner has only a doubleton \S then the game should be 3NT. Only partner can decide, and the bid that tells him to make the decision is 3\S.
+
+Partner has 3 of them so he bids 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJ3.AJ65.K5.QJ63 7642.T432.Q743.9 85.K7.AT9.AKT875 KQT9.Q98.J862.42"]
+[Declarer "S"]
+[Contract "6C"]
+[Result ""]
+[Auction "N"]
+1NT pass 3C pass 4C pass 4D pass 6C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

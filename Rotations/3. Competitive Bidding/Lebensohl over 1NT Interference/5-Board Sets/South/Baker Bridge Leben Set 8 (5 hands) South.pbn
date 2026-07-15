@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Leben
+%bridge-classroom-stable: true
+%bridge-context: Lebensohl over 2-level overcalls of 1NT (fast denies); applies over 2C as well (no 'systems on')
+{Partner's bid asks if you have 4 \Ss, and denies a \H stopper. (DIRECT DENIES)
+
+You don't have 4 \Ss, nor can you stop \Hs. You have no choice but to bid one of the 4-card Minor suits, so you go up-the-line and bid 4\C. Partner bids 5\C.}
+
+[Event "Baker Bridge - Lebensohl"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:K73.A952.Q5.AKJ5 JT5.KJ3.KT8643.Q A8.764.AJ97.T964 Q9642.QT8.2.8732"]
+[Declarer "S"]
+[Contract "2D"]
+[Result ""]
+[Auction "E"]
+1NT 2D X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: E, basisKind:Declarer, nOption:2, nBasis: 1, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "0b0c2de6b5e0dbecab23c9d81cc3cc78b6b4842c64cf61717f387892452fef1f"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{It is possible your side can make 3NT on this deal. You have 9 points, invitational strength, and your \D stopper is excellent.
+
+However you should look for an even bigger reward by doubling. South is in serious trouble, and when the opponents make a mistake you should punish them.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ93.AQ87.95.AQ7 A52.9532.KQJ632. QT84.K6.AT7.KT83 76.JT4.84.J96542"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT 2D 2NT pass 3C pass 3D pass 3H pass 3NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "80d2438f1ee0a6a729d409ba64648a5856c1afdd7d61a1ce68558601d5a59003"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{Partner's 2NT bid requests that you bid 3\C, so you do. He next says 3\D.  
+
+Partner's bid is game-forcing Stayman, but with a \D stopper (SLOW SHOWS). Holding 4 cards in each Major you bid up-the-line, 4\H. Partner now bids 3NT.  
+
+Partner would not have asked for a 4-card Major unless he held one himself. Since it wasn't \Hs it must be the other one. You bid 4\S.}
+

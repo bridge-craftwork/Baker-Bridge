@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-06 08:03:03
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Preempt
 %bridge-classroom-stable: true
@@ -7,7 +7,7 @@
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:KQJ3.J95.K43.QT6 A87.KQ873.J.A954 T64.AT64.62.KJ32 952.2.AQT9875.87"]
+[Deal "W:643.AT5.K4.QJT62 A87.KQ873.J.A954 KQJT.J964.632.K3 952.2.AQT9875.87"]
 [Declarer "S"]
 [Contract "3D"]
 [Result ""]
@@ -33,7 +33,7 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 [Board "2"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:7.A6432.Q2.A9765 KQJT864.97.65.T4 A53.QT.AT8743.J2 92.KJ85.KJ9.KQ83"]
+[Deal "W:A3.QT42.842.AJ62 KQJT864.97.65.T4 75.A63.AQT73.975 92.KJ85.KJ9.KQ83"]
 [Declarer "N"]
 [Contract "3S"]
 [Result ""]
@@ -61,7 +61,7 @@ Here's a pretty good tip:When partner opens with a 3-bid and you are trying to d
 [Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:T4.K95.AQJT4.J94 J9873.A42.82.AK7 KQ652..K63.QT853 A.QJT8763.975.62"]
+[Deal "W:T52.9.AKQT63.J53 J9873.A42.82.AK7 KQ64.K5.J4.QT984 A.QJT8763.975.62"]
 [Declarer "S"]
 [Contract "4H"]
 [Result ""]
@@ -91,7 +91,7 @@ When you preempted 3\H you described your hand perfectly. You have nothing more 
 [Board "4"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:954.A9.AJT7.QJT3 83.KQT8742.862.5 QJT2.6.KQ53.K962 AK76.J53.94.A874"]
+[Deal "W:T95.A9.AT73.KQ93 83.KQT8742.862.5 QJ42.6.KQJ5.JT62 AK76.J53.94.A874"]
 [Declarer "N"]
 [Contract "4H"]
 [Result ""]
@@ -119,7 +119,7 @@ Fortune favors the bold so you bid 4\H . . . and live happily ever after.}
 [Board "5"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "W:3.AKJ4.QJT4.KT53 T4.Q86.A963.J642 A6.T7532.K87.AQ9 KQJ98752.9.52.87"]
+[Deal "W:A3.732.QJT84.T93 T4.Q86.A963.J642 6.AKJT54.K7.AKQ5 KQJ98752.9.52.87"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
@@ -149,7 +149,7 @@ This is what preempting is all about.}
 [Board "6"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:42.T72.QJ53.KJ32 KQJ9873.6.9842.7 A5.J943.T76.QT95 T6.AKQ85.AK.A864"]
+[Deal "W:54.T73.QT63.KQ93 KQJ9873.6.9842.7 A2.J942.J75.JT52 T6.AKQ85.AK.A864"]
 [Declarer "N"]
 [Contract "6S"]
 [Result ""]
@@ -265,7 +265,7 @@ It is partner's decision, not yours, whether to continue to 5\D as a sacrifice.}
 [Board "10"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:J72.62.AKQJ.9752 853.AQJ9843.T76. AKQT.KT75.93.T64 964..8542.AKQJ83"]
+[Deal "W:AKQ7.752.QJ93.76 853.AQJ9843.T76. JT2.KT6.AK.T9542 964..8542.AKQJ83"]
 [Declarer "N"]
 [Contract "3H"]
 [Result ""]

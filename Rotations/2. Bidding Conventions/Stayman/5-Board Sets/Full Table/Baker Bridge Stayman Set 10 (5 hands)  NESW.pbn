@@ -1,0 +1,63 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Stayman
+%bridge-classroom-stable: true
+{North opens 1NT.  
+
+With 12 points and a 4-card \S suit this fits the model for Stayman.
+
+But thinking a little further, with this 4-3-3-3 distribution you have no ruffing values whatsoever. So even if partner also has 4 \Ss there might not be an advantage in playing the suit contract. So for this specific distribution you ignore your 4-card Major and just bid 3NT.}
+
+[Event "Baker Bridge - Stayman"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ7542.AT2.43.QJ 98.KJ4.AQJ7.AT85 3.98653.K862.632 AQT6.Q7.T95.K974"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+pass 1NT pass 2C 2S pass pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b2150abdc5bb4045c84d035b9e3c3c7a692b9f7e9a55a476f201c267bb373d7f"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{After you open 1NT partner bids 2\C, then West says 2\S. What do you say next? 
+
+Basically you said your say when you opened 1NT. You don't have a 4-card Major and you have a minimum hand. The best way to convey this information to partner is to pass. At which point partner jumps to 3NT.  
+
+Pass, then "Thank you partner" when dummy comes down. The thing to remember is that partner is in charge. You describe your hand as well as you can and then sit back and let him make the decisions. Perhaps you would have doubled if you held his hand but he didn't.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:A8.KJ74.A72.KQ53 J754.6.KQJT84.A2 KQT2.AQT3.63.874 963.9852.95.JT96"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1NT 2D 3D pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "716798a2f176ae011ef225749ea4a38c262ddf0ee57d2524ae548d4cbcc4402a"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{East opens 1NT and South overcalls 2\D.  
+
+Dad-burned interfering opponents. You were going to bid a Stayman 2\C and now you can't. You also don't want to bid either Major with only 4 of them. And you certainly can't bid notrump with no \D stopper. Fortunately the overcall has opened a window of opportunity for you. So you cue-bid 3\D. Even if you and partner haven't discussed this it is pretty obvious that you don't really want to play in \Ds, so the most likely action for him is to bid a suit, and a Major suit would have priority. So really, the cue-bid achieves the same purpose as Stayman would have.
+
+Partner now bids 3\H.  
+
+Partner showed a 4-card \H suit. With your 4 that makes a fit. You have 12 revalued points so you bid 4\H.}
+

@@ -1,0 +1,94 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ72.A8.AK64.AJ3 .QJ953.Q972.9765 KQ9653.62.J5.KT4 T84.KT74.T83.Q82"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+2NT pass 3H pass 4S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ceb1ac6f0565f904dd009d5ee2760593f8bae1284bf71de25b20fdb11b26386f"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{With a maximum 2NT opener, 4 of partner's \Ss and a doubleton you jump to 4\S, the Super-Accept.
+
+Partner wastes no time bidding the slam.
+
+South plays 6\S. West leads the \HQ. West finds their best lead, exposing your \H loser. With a different lead you could have led toward dummy's \DJ, but not now.
+
+Loser List: \S = 0 : \H = 1 : \D = 0 : \C = 1 :: Total = 2
+
+A very simple Plan would be for you to pull trumps and then guess who holds the \CQ. Simple, but putting your slam on a 50% chance isn't very satisfying. 
+
+How about an elimination play instead? Win the \HA. Then play to dummy's \SK. West shows out and you must temporarily stop drawing trumps. 
+
+For the elimination play to work you must strip \Ds from both hands. So play both the \D A K, then ruff a \D with the \SQ. Pull trumps with your \S A J, then ruff the last \D in dummy.
+
+The work is done. Just play a \H. Whichever defender wins must either play a \C into your split tenaces, or play a red card and give you a ruff/sluff.
+
+This is the complete Deal.
+
+If you knew who held the \CQ then you wouldn't have to learn Elimination plays.
+
+These are the hands after the trumps have been pulled and \Ds eliminated from both North and South.
+
+You now play the \H, eliminating that suit from both hands. Whichever defender wins the trick must either play another \H and give you a ruff/sluff, or play a \C and give you a free finesse. Either way you will make the slam.}
+[Play "W"]HQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQ.AJ32.942.AK3 864.QT9.KJ5.QT72 J2.654.A8763.965 T9753.K87.QT.J84"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3898f97309d6172df329f06c6f826590cd74cbe777f678b5dddd1a76bd2806f9"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner has 20 or 21 points, balanced, and you have 6. You bid 3NT, hoping partner has \D K Q x.
+
+The contract would be 3NT played by North.
+
+South plays 3NT. West leads the \C2 and East plays the \CJ.
+
+Question 1: Do you hold up?
+
+Winner List: \S = 3 : \H = 1 : \D = 1 : \C = 2 :: Total = 7
+
+The lead of the \C2 tells you that West has only a 4-card suit, so there is no need to hold up. In fact if you did hold up East might play an unwelcome \H back.
+
+Your best bet is going to be the \D suit, but dummy isn't exactly loaded with entries. How will you manage it? 
+
+When entries are really scarce the best approach is ducking. Win the \CK and play a low \D from both hands. A defender will win this and probably continue with a \C. 
+
+Stick to the plan. Win the \CA and again play small \Ds from both hands, relaxing when both defenders follow suit to the second \D.
+
+They can now cash their 2 \Cs, and you had to give them 2 \Ds. But that's the only tricks they will get. Dummy's 3 \Ds are good and you still have a \D in your hand to get there.
+
+When dummy has a long suit with no outside entries, always consider using a duck to make up for the lack of entries.
+
+In this case it was a double-duck.}
+[Play "W"]C2
+

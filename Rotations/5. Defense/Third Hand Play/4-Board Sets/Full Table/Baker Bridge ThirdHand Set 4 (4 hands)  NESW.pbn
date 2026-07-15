@@ -1,134 +1,72 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
 [Event "Baker Bridge - Third Hand Play"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:AT4.J63.AK82.QT5 J83.AK975.Q95.63 KQ6.QT4.J.AJ9842 9752.82.T7643.K7"]
+[Deal "N:AT2.A82.AQT2.Q63 Q64.QJT53.85.AT4 K73.964.KJ6.KJ95 J985.K7.9743.872"]
 [Declarer "N"]
 [Contract "3NT"]
 [Result ""]
-[Auction "S"]
-1D 1H 2C pass 3C pass 3NT pass pass pass
+[Auction "N"]
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5ae445135c570445977794a2353b45c0951a84c3147ef2853cf9757f84075d08"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H8]
+{[showcards W:HQ N:H4]
 
-The bidding has been as shown. Partner led the \H8, dummy played the \HJ 
+The bidding has been as shown. Partner led the \HQ, dummy played the \H4 
 
-Play the \H9. North played dummy's \HJ to tempt you to cover. Don't fall for it.
+Play the \HK.
 
-Partner's lead of a high spot card shows no honors in the suit. That added to the fact that North bid Notrump after you had mentioned \Hs is pretty good evidence that North holds at least \H Q x x. 
+Admittedly you have a terrible hand. But that's no reason to be careless. <b>YOU</b> can beat this contract, but you have to do it right now by unblocking the \HK. If declarer holds up you will continue with your \H7 and partner will establish his suit while he still has the \CA for an entry. If declarer doesn't hold up it will be just as bad for him.
 
-To maintain communication with partner your best hope is to duck the first \H, but to signal encouragement with the \H9.
+But suppose you say "Well, partner's \HQ is just as good as my \HK so I'll just save the King for later" as you play low. Declarer will love you. He will hold up on the \HQ, then again on trick two when you play the \HK. AND HE WILL STILL HAVE HIS \HA when you switch to another suit. He will have time to drive out the \CA while he still has \Hs stopped.
 
-North wins the first trick easily, but must try to establish \Cs. He will enter dummy with the \SA, then try to run the \CQ.
-
-Not today. Partner takes the \CK and returns his \H2 to your four winners.}
-[Play "W"]H8
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:AT75.A82.KQ.K874 K62.T64.AJ654.92 QJ93.KQJ5.93.QJT 84.973.T872.A653"]
-[Declarer "E"]
-[Contract "4S"]
-[Result ""]
-[Auction "E"]
-1NT pass 2C pass 2S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/third_hand_play"]
-[Student "E"]
-{[showcards W:C9]
-
-The bidding has been as shown. Partner led the \C9, dummy played the \CT 
-
-Play the \C6.
-
-Partner's \C9 is likely from a short suit. If it is a singleton, you should take the \CA immediately and return the suit for a ruff. If it is a doubleton, you should NOT take your \CA now, but should hope partner can get the lead and play his second \C to your Ace so you can give him the ruff.
-
-You can figure out which it is.
-
-If it is a singleton, then East must hold 5 \Cs. But you know East has 4 \Ss, so if he also has 5 \Cs then he only has 4 red cards, and he would not have opened 1NT with either 5-4-2-2 or 5-4-3-1 distribution.
-
-So partner's \C9 is not a singleton, and you should wait. Declarer then runs dummy's \SQ. Partner wins the \SK, returns his OTHER \C to your \CA, and NOW you give him the ruff. He takes the \DA for down 1.}
-[Play "W"]C9
+It was a good thing you held the \HK rather than declarer, but it is a nuisance that you must get out of the way on the very first trick.}
+[Play "W"]HQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "None"]
-[Deal "E:QJ97.KQ653.T.A64 AK4.A74.AK73.Q52 T83.T2.QJ8642.83 652.J98.95.KJT97"]
-[Declarer "S"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:AQJT7.A5.K42.AJ2 K62.KQ3.T985.973 54.T874.QJ6.K654 983.J962.A73.QT8"]
+[Declarer "E"]
 [Contract "3NT"]
 [Result ""]
-[Auction "E"]
-1H X pass 2C pass 2NT pass 3NT pass pass pass
+[Auction "W"]
+1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "ef60ad4a9cf7bcc9ef6dc6c69b3cec5994bc5dbca3f51c86bf437a09616ce578"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HT]
+{[showcards W:H2 N:HA]
 
-The bidding has been as shown. Partner led the \H10, dummy played the \HJ 
+The bidding has been as shown. Partner led the \H2, dummy played the \HA 
 
-Play the \H6.
+Play the \HQ (or \HK).
 
-Declarer gets two \H winners whether you play one of your honors on this trick or not. So why does it matter what you do?
+You know partner has a 4-card \H suit, (he led the deuce), and you know it is headed by an honor. You hope the honor is the \HJ, but in any case you must get your high \Hs out of the way.
 
-Suppose you cover with your \HQ. South will win his \HA, then play \Cs until your \CA is forced out on the third round. He can then force an entry to dummy in the \H suit to reach the two \C winners.
+Declarer will probably come to his hand and then take a \S finesse. You win the \SK, take your other high \H, then lead your \H3 toward your partner.
 
-Now suppose you duck the \HJ. Again South will push \Cs, and again you hold up until the third round. Ahh, what a difference. Now declarer cannot use the \Hs to enter dummy and he will never get to enjoy those two \C winners.}
-[Play "W"]HT
+As you see, partner did hold the \H J 9, so your side wins 3 \H tricks.
 
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:7542.KQ.A5.KJT85 KT986.874.Q74.AQ AJ3.AJ3.KT92.973 Q.T9652.J863.642"]
-[Declarer "W"]
-[Contract "3NT"]
-[Result ""]
-[Auction "E"]
-1C 1S 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/third_hand_play"]
-[Student "E"]
-{[showcards W:SQ]
-
-The bidding has been as shown. Partner led the \SQ, a low card was played from dummy, 
-
-Play the \SK.
-
-It seems that perhaps you should play low and let partner's \SQ force out West's \SA. Then, when you get the lead with a high \C you can force out West's \SJ. Get the lead with your other high \C and set the contract with \Ss.
-
-Suppose you try that. Play low on the first \S. West will also play low and North will be left holding the trick, and also holding the bag! With no more \Ss North will have to play one of the other three suits, and that is just what West wants to have happen. The contract could no longer be beaten.
-
-Now do it the right way. Play your \SK on partner's \SQ. Assume West takes the trick, although it doesn't matter whether he wins the first one or holds up. When you win your first \C drive out West's \SJ. When you win your second \C trick your \Ss will be good. If you overtake the first trick the contract can no longer be made.
-
-Notice that West will always make two \S tricks, so your overtake costs nothing.}
-[Play "W"]SQ
+If declarer played low on the first trick you would win the \HQ, then play the \HK to dummy's \HA.}
+[Play "W"]H2
 

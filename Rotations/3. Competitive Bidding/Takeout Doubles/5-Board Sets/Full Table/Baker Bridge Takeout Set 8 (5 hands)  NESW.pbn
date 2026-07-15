@@ -1,0 +1,61 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Takeout
+%bridge-classroom-stable: true
+{The bidding has been as shown.   
+
+You <b>COULD</b> make a game-forcing cuebid here, but a much better description of your hand is a leap to 4\H, the spot where you know you want to play. If partner has any extra strength he will know to bid again. In this case he has a bare minimum and passes.
+
+Notice that if you had made a cuebid, partner would probably end up playing 4\H and the opening \S lead would be right through your \SK.}
+
+[Event "Baker Bridge - Takeout Doubles"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:.KJ65.AKJT3.K853 AKQT942.87..AQ42 J873.AT93.Q86.J7 65.Q42.97542.T96"]
+[Declarer "N"]
+[Contract "2S"]
+[Result ""]
+[Auction "W"]
+1D X pass 1H pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ed19e457fee508a7a56f157c538c2c78d50428b06d50dc90c8879ab8aae07c63"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Don't even think about bidding 1NT. You are way way too weak for that. Don't even think about passing for penalties. Your \D are nowhere near good enough. Partner is forcing you to bid a suit, so you bid your best non-\D suit, \Hs. Partner now jumps to 2\S.  
+
+You say pass. Despite partner showing you a big hand you just can't help him. }
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:7.AKQ732.KQJ.J97 AKQ864.8.A85.K62 T32.JT5.T9432.Q4 J95.964.76.AT853"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1H X pass 2C 2H 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "43f8c4a406268d724ec0f1af308c7b479b5154c8e49b907a2c54dd48cea5fe15"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Partner told you to bid, so you say 2\C. North repeats his suit and partner then says 2\S.  
+
+By doubling and then bidding his own suit, partner is showing a good hand, at least 17 points. Your hand can be revalued to about 7 points so you are good enough to invite partner to game. You bid 3\S and partner says 4\S.}
+

@@ -45,7 +45,7 @@ import re
 import subprocess
 import sys
 
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3  # v3: optional per-lesson "intro" (companion _Intro.pdf), additive
 
 
 def git_head_commit(repo_dir):
@@ -130,12 +130,17 @@ def build_manifest(package_dir):
         basename, boards = parse_file(path)
         if not boards:
             continue
-        lessons[basename] = {
+        lesson = {
             "skillPath": lesson_skill_path(boards),
             "boardCount": len(boards),
             "stableBoardCount": sum(1 for b in boards if b["stable"]),
             "boards": boards,
         }
+        # Companion lesson introduction (shown in the app when present). Schema v3.
+        intro = f"{basename}_Intro.pdf"
+        if os.path.exists(os.path.join(package_dir, intro)):
+            lesson["intro"] = intro
+        lessons[basename] = lesson
     # Deterministic ordering of lessons by basename.
     lessons = {k: lessons[k] for k in sorted(lessons)}
 
@@ -149,8 +154,9 @@ def build_manifest(package_dir):
 
 
 def main():
-    target = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
-        os.path.dirname(os.path.abspath(__file__)), "..", "Package")
+    target = (sys.argv[1] if len(sys.argv) > 1 else None) \
+        or os.environ.get("BB_PACKAGE_DIR") \
+        or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Package")
     if not os.path.isdir(target):
         print(f"Package directory not found: {target}")
         return 1

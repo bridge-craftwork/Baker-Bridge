@@ -1,0 +1,62 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-WeakTwos
+%bridge-classroom-stable: true
+%bridge-context: 2M-2NT = Feature ask (NOT Ogust)
+{NORTH really hates that 2\H opening by SOUTH.
+
+But there's no sense bidding and probably making matters worse, so she grits her 
+teeth and passes.
+
+If you think 3NT has a chance you are delusional.}
+
+[Event "Baker Bridge - Weak Two-bids and Preemptive Three Bids"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K84.AQT642.4.965 732.K85.KT862.72 AQJT65.7.A95.KJ3 9.J93.QJ73.AQT84"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2H pass 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "64a891a90a1c8dff0642ad900e7e83d3f8ebc12fa9a36ffb0af820a62b2c859a"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{NORTH expects to be better off in \Ss than SOUTH would be in 2\H.
+
+Whether or not you play a new suit as a one round force or not, SOUTH should make the 3\S bid with 
+a hand this good. NORTH then bids the \S game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:6.AQJ8754.632.84 QJT83.T9.A8.KJT7 AK75.K63.KQJ54.A 942.2.T97.Q96532"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+3H pass 4NT pass 5D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ab3ad96f038dc2e97d6aecfff8039e3ab2f36355bc73ddb6f825e2abf836e4dd"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{SOUTH has a pretty normal 3\H opening bid.
+
+NORTH, however, has a big hand, and she launches into Blackwood.
+
+When SOUTH shows one Ace NORTH can bid 6\H with confidence.}
+

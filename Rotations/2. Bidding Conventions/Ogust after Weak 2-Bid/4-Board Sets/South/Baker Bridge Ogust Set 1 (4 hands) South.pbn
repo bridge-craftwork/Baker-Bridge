@@ -1,14 +1,16 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-03-09 11:34:06
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Ogust
+%bridge-classroom-stable: true
+%bridge-context: 2M-2NT = Ogust (NOT Feature)
 [Event "Baker Bridge - Ogust"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:83.QJ9764.K7.964 QJT6.KT8.952.QJ3 975.A5.AT64.AK82 AK42.32.QJ83.T75"]
+[Deal "S:83.QJ9764.K7.964 AQT4.T82.Q98.QJ5 975.A5.AT64.AK82 KJ62.K3.J532.T73"]
 [Declarer "S"]
 [Contract "3H"]
 [Result ""]
@@ -16,6 +18,7 @@
 2H pass 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7a7d676d15b13b4b6a64f9e4698dc22e36b3084b03d004efaab624b763db0b83"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -27,17 +30,18 @@ In reply to partner's Ogust 2NT you say 3\C, showing a minimum hand along with a
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:KJ64.AJ2.9852.Q7 83.KT9764.K7.964 QT92.Q3.QJ3.JT53 A75.85.AT64.AK82"]
+[Vulnerable "EW"]
+[Deal "E:KQT9.A3.532.Q753 83.KT9764.K7.964 J642.QJ2.QJ98.JT A75.85.AT64.AK82"]
 [Declarer "S"]
 [Contract "3H"]
 [Result ""]
 [Auction "E"]
 pass 2H pass 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "8ad2453f14d3fef9f82de582660eaf470b5a18660e9923fa1a018a2b57e0d444"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -47,50 +51,4 @@ pass 2H pass 2NT pass 3C pass 3H pass pass pass
 But you use discretion and bid an Ogust 2NT instead. Partner responds 3\C.  
 
 Partner's 3\C bid shows a weak hand and a poor suit. So you reluctantly settle for 3\H.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KQT854.85.764.92 763.KJ43.KT9.Q73 J2.A62.A853.AK86 A9.QT97.QJ2.JT54"]
-[Declarer "S"]
-[Contract "3S"]
-[Result ""]
-[Auction "S"]
-2S pass 2NT pass 3D pass 3S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/ogust"]
-[Student "S"]
-{At favorable vulnerability you decided to open 2\S.
-
-In reply to partner's Ogust 2NT you say 3\D, showing a minimum hand along with a good suit. Partner says 3\S and you pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:AT92.JT42.K2.Q75 QJ8753.KQ3.97.T4 4.976.QJ853.KJ63 K6.A85.AT64.A982"]
-[Declarer "S"]
-[Contract "4S"]
-[Result ""]
-[Auction "E"]
-pass 2S pass 2NT pass 3H pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/ogust"]
-[Student "S"]
-{With three top tricks it is tempting to go straight to 4\S.
-
-But you use discretion and bid an Ogust 2NT instead. Partner responds 3\H.  
-
-Partner's 3\H bid shows a maximum hand and a poor suit. Your \SK should be enough help for the suit, and with three outside Aces you bid 4\S.}
 

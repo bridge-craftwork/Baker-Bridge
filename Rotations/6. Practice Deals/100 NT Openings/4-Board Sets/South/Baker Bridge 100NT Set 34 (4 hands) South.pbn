@@ -1,0 +1,98 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+[Event "Baker Bridge - 100 Notrump Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK3.A764.862.KJ3 986.QJ92.KQJ7.T5 75.K853.T.AQ9842 QJT42.T.A9543.76"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "918cef197fcf403f8a75f691b43ca5bc0d51ad9f4ada5db98e4f51a7a7cdc11c"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Never mind trying to decide how to show the \C suit; with a 4-card Major your obligation is to use Stayman.
+
+You say 2\C and partner bids 2\H. What now? 
+
+Never mind trying to decide how to show the \C suit; with a 4-card Major your obligation is to use Stayman.
+
+You say 2\C and partner bids 2\H. What now?
+
+Again, never mind the \C suit. You have an 8-card Major fit and enough points for game, so you bid 4\H.
+
+The contract would be 4\H played by North.
+
+South plays 4\H. West leads the \DK. The \DK holds the trick and West switches to the \S9.
+
+Loser List: \S = 0 : \H = 1/2 : \D = 1 : \C = 0 :: Total = 2/3
+
+This looks like a walk in the park. Play 2 rounds of trumps, and if they split 3-2 go ahead and force the master trump out. The rest of the tricks would then be yours.
+
+But East shows out on the second trump lead. Ouch! 
+
+<b>DO NOT PLAY ANOTHER TRUMP!</b>If you do, then West will pull all the trumps and then East/West will win some \Ds. Many, many \Ds. 
+
+Instead just start playing good \Cs. West can ruff in whenever he wants but you will maintain trump control. West can get both master trumps but nothing else.
+
+It is usually correct to leave a master trump undrawn, just let the defender ruff in whenever he wants.
+
+Here that principle applied even though there were <b>TWO</b> master trumps out.}
+[Play "W"]DK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ6.K84.AK6.7542 T974.J96.T85.AQJ KQ3.A73.QJ3.T963 852.QT52.9742.K8"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "8f4f9d435322b45492bffb7cda27f61f9662151d28bbc8d5b00f7178798c72e2"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{With 12 points and no 4-card Major suit this one is easy. You bid 3NT of course.
+
+The contract would be 3NT played by North.
+
+South plays 3NT. West leads the \ST and East follows with the \S2.
+
+Winner List: \S = 3 : \H = 2 : \D = 3 : \C = 0 :: Total = 8
+
+There is just no way your ninth winner can come from \Ss, \Hs, or \Ds. So by process of elimination you have to get a \C trick.
+
+Win the first trick, probably in your hand, and play a \C. 
+
+A defender will definitely win this, and probably continue \Ss (but if they switch you would play the same way). You win the \S and play another \C. 
+
+West wins and plays another \S; you win and play another \C. Deja vu. 
+
+West wins again, cashed his established \S, and exits with a red card. You win and claim the rest of the tricks, including your now-established \C.
+
+You were able to establish a \C because that suit split 3-2.
+
+And you did it without going down because the \Ss split 4-3.
+
+This may seem lucky to you, but don't knock it, it was your <b>ONLY</b> chance.}
+[Play "W"]ST
+

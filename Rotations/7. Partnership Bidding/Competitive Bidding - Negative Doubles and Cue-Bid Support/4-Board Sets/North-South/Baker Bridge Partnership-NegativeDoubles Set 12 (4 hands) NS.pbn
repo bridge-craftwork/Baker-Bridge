@@ -1,0 +1,55 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K9.AQJ96.T54.A83 AT76.82.987.9752 QJ5.KT53.AJ62.64 8432.74.KQ3.KQJT"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1H 2C 3C pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7a4887448e6e4337c007e197f8d1038b77744e0273d7b61dd5da6fcca4e6186c"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has a Limit Raise hand but after EAST's overcall a 3\H bid 
+by SOUTH would be preemptive, not inviting. Instead he makes a Support Cue-bid.
+
+NORTH has just enough that she can bid 4\H, knowing that if SOUTH has 
+a real block-buster he will bid on.
+
+SOUTH doesn't have a real block-buster.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:T5.AKQ63.AT8.AJ7 K97.T52.KJ3.Q853 AQJ3.J4.9642.T96 8642.987.Q75.K42"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1H 1S 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "6af084da710521cf551fb8f070ee468cb0f9dfe9ed8ec6607f96956a6ad85400"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has 9 points and a stopper in \Ss so she responds 1NT.
+
+NORTH has 19 points with a balanced hand so he bids 3NT.}
+

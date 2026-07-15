@@ -1,0 +1,79 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q63.QT92.A76.AK3 54.K74.JT98.QJ97 AK72.AJ86.53.T84 JT98.53.KQ42.652"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "10d4d51aa4815654bf951c6d7c5fb8c39d4a7f91c1ebe1ff690c431607152280"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH has four cards in each Major suit - this is an ideal situation for Stayman.
+
+NORTH shows a \H suit and SOUTH immediately bids game in that suit.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ82.AQ3.KT62.AQ J6.T75.A85.KT742 K974.K862.73.865 T53.J94.QJ94.J93"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2NT pass 3C pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c2807b6cd09f09ed126d81455815d3d8ecb677d82ba23030b34d64a65aae3868"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{Stayman convention works just fine after a 2NT opening, just at a higher level.
+
+NORTH knows that 6 points will be enough for game opposite SOUTH's 20-21, she just 
+needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJT.K9.A872.AT96 K3.Q652.K943.KQ7 Q9874.AJT83.Q6.5 652.74.JT5.J8432"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1NT pass 2H pass 2S pass 4H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "04c19f10f1a82d9d43c96996e053b988fec8f772cf3146ffd5313e51d60d009a"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH has five cards in each Major and NORTH opens 1NT.
+
+First SOUTH bids 2\H, indicating a 5-card \S suit with the Transfer bid. 
+Then, after NORTH bids the obligatory 2\S, SOUTH jumps to 4\H, promising 
+enough strength for game, and also five \Hs to go with the five \Ss.
+
+NORTH prefers \Ss, so she corrects the contract to 4\S.}
+

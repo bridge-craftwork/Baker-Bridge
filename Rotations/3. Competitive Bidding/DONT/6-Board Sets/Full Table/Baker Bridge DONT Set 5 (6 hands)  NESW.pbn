@@ -1,0 +1,83 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent DONT
+%bridge-classroom-stable: true
+%bridge-context: DONT over opp's 1NT (not Cappelletti/Meckwell/etc.)
+[Event "Baker Bridge - DONT"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:KQT.AK643.AJ.T42 75.52.Q95.AKJ983 J932.J9.T873.765 A864.QT87.K642.Q"]
+[Declarer "N"]
+[Contract "2C"]
+[Result ""]
+[Auction "E"]
+1NT X pass 2C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "20815f147e1c8cd21548e087ff234a1c8e74762bbc29f183a5c29ac909e4b376"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/dont"]
+[Student "S"]
+{This is a perfect hand with which to Disturb the Opponent's No Trump. You double and partner bids 2\C, the relay bid.
+
+What do you say next? 
+
+You say pass, of course.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:JT2.AJ87.AK.AT64 KQ985.64.86.KQ92 43.K92.QT953.J73 A76.QT53.J742.85"]
+[Declarer "E"]
+[Contract "2S"]
+[Result ""]
+[Auction "N"]
+1NT 2C pass 2D pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "7326f14cc986597a418ff84eb09bc30b446d8a6e395feec1a980299949440880"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/dont"]
+[Student "S"]
+{Partner has two suits, \Cs and something else.
+
+With \Cs your worst suit, you prefer to play in something else. So you bid the next suit up-the-line, which is 2\D.
+
+Partner corrects to 2\S, his "something else" and you pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJ5.A5.AJT74.A62 87.KQJT87.965.83 T94.632.KQ32.JT4 AK632.94.8.KQ975"]
+[Declarer "S"]
+[Contract "2H"]
+[Result ""]
+[Auction "E"]
+1NT pass pass 2C pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b209ed09999ba0f472eb03ea8b50ad8f803c81a6d8c84abfc354c102a3199054"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/dont"]
+[Student "S"]
+{You have 12 HCP, certainly enough to use DONT in either seat. With your black 2-suiter you bid the lowest one, 2\C.
+
+Partner says 2\H.  
+
+Partner would have bid 2\D, the next suit up the line, to ask you to name your other suit. His 2\H bid says he wants to play right there.
+
+So you pass.}
+

@@ -1,102 +1,54 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Michaels
+%bridge-classroom-stable: true
+%bridge-context: Michaels cue-bid; Unusual 2NT
 [Event "Baker Bridge - Michaels / Unusual NT"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:AKJ942.AQ.32.A86 7.JT984.6.KJT532 QT5.6.KQJT84.974 863.K7532.A975.Q"]
+[Deal "W:J9.AK642.AJ862.2 75.9.KT974.KQJ63 KQT83.JT5.5.T874 A642.Q873.Q3.A95"]
 [Declarer "S"]
-[Contract "4H"]
+[Contract "3C"]
 [Result ""]
 [Auction "W"]
-1S 2S pass 4H pass pass pass
+1H 2NT pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "1c8fff7bcab08c3c41a49b40f248fe7338244c33b5564f1489a98743634c06de"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Of course you bid a Michaels Cue-Bid of 2\S. Partner says 4\H.  
+You have a pretty good hand for an Unusual Notrump, but not so good that you wouldn't use the convention. You bid 2NT and partner says 3\C. What do you say next? 
 
-Partner's jump might indicate he has a really good hand, or he might just have a really good fit. You certainly don't have the strength to make another move so you pass. A good thing, too. Partner might get lucky and make this but it looks like the other guys are cold for 4\S. Even if partner loses 2 \H tricks and goes down 1 it will turn out to be a good sacrifice.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:QJ85.Q8532.AQ4.7 74.6.J9873.AQT85 932.T74.T52.9643 AKT6.AKJ9.K6.KJ2"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "E"]
-1H 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/michaels_unusual"]
-[Student "S"]
-{The bidding has been as shown.   
-
-You have no idea what you can make with this hand. Slam in one of the minors may be possible, but maybe not. You decide to try 3NT.}
+As mentioned, you have a pretty good hand, but partner only bid because you forced him to and he showed nothing more than minimum. So you pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
 [Dealer "W"]
-[Vulnerable "EW"]
-[Deal "W:QT4.KT53.A7.AT86 87.QJ984.KJT53.2 KJ652.72.6.97543 A93.A6.Q9842.KQJ"]
-[Declarer "S"]
-[Contract "4D"]
-[Result ""]
-[Auction "W"]
-1C 2NT pass 4D pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "intermediate"]
-[SkillPath "competitive_bidding/michaels_unusual"]
-[Student "S"]
-{The bidding has been as shown.   
-
-With the two lowest unbid suits you bid 2NT. Partner jumps to 4\D.  
-
-Partner probably has a good hand, but he might just be preempting. Assuming he is inviting you to bid game you have a tough decision. You are not very strong but you might have been a couple of points weaker. It is strictly a judgement call and we decide to pass.
-
-As you can see, <b>IF</b> they open the lead with a \C, and <b>IF</b> the \H finesse then works, you can make 5\D.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:.A853.Q9843.KQ86 K9874.QJT96.5.74 Q532.K2.KJT2.J32 AJT6.74.A76.AT95"]
+[Deal "W:AQT832.KQT.A.863 96.4.KQJ84.KQT75 K4.8652.T732.A94 J75.AJ973.965.J2"]
 [Declarer "S"]
-[Contract "4S"]
+[Contract "3D"]
 [Result ""]
 [Auction "W"]
-1D 2D pass 3S pass 4S pass pass pass
+1S 2NT pass 3D pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3a7483e4268982f4e08a9b5b04547c8405dca7ba400a65471303c8b066b374f4"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
 [Student "S"]
 {The bidding has been as shown.   
 
-As you have figured out by now, using Michaels Cue-Bids / Unusual Notrump is sometimes hard to tie down. Here you have 13/14 points and if you figure partner for 9 that won't be enough for game. But, those two Minor Aces are worth a lot when you figure partner has only 3 Minor suit cards.
-
-So let's say you decide to just invite with 3\S. Partner takes you to game.
-
-You will surely make this game if trumps split 2-2. If they don't then you will have to hope for a defensive mistake.}
+Your best suit is \Hs. But partner didn't ask you to bid \Hs, he asked you to pick a Minor. You know you will have an 8-card fit in \Ds so you take the safe approach and bid 3\D. Everybody passes.}
 

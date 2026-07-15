@@ -1,0 +1,78 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Takeout
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Takeout Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJT632.Q.A54.QJ6 9.A932.KT63.AK75 K87.J875.72.T942 A54.KT64.QJ98.83"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1S X pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "83e19d8c563f27fb073ca83ad853d2f81b87394406ef43ce0d7de920d191f8d5"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Your hand falls in the 9-11 point mid-range response where you make a jump bid. With two decent suits you naturally choose the Major and bid 3\H. Partner raises you to game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:64.KQJT.7.KQJT95 KQ95.A874.AJ3.64 J82.632.86542.32 AT73.95.KQT9.A87"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1C X pass 2C pass 2H pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "d3d81706bf24630e7b6a28be7e3dd26aff0c1a63c70b1836ef58a39c04a0cd1f"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Partner has an opening hand and you have an opening hand. Your first priority is to inform partner that your side must reach game. You do this with a 2\C cuebid. Partner comes back with 2\H.  
+
+With both of you knowing you will reach game, partner has suggested \Hs. You don't care much for that suggestion, but would now consider 3NT. However, you should first mention your 4-card \S suit. Having found the fit, partner bids game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:AQJ92.6.J952.KT2 T3.K952.AK73.Q95 876.A4.T86.J8743 K54.QJT873.Q4.A6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1S X pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "261963434c6e2470c9cc21071a3ae5bff17c3f17d8259cd537c70bbf64950288"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You <b>COULD</b> make a game-forcing cuebid here, but a much better description of your hand is a leap to 4\H, the spot where you know you want to play. If partner has any extra strength he will know to bid again. In this case he has a bare minimum and passes.
+
+Notice that if you had made a cuebid, partner would probably end up playing 4\H and the opening \S lead would be right through your \SK.}
+

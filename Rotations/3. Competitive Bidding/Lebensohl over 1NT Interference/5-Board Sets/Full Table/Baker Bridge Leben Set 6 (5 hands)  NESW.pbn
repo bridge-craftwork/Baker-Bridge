@@ -1,0 +1,62 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Leben
+%bridge-classroom-stable: true
+%bridge-context: Lebensohl over 2-level overcalls of 1NT (fast denies); applies over 2C as well (no 'systems on')
+{With 12 points opposite partner's 15-17, this is a forcing-to-game hand. If it had not been for the \H overcall you would just have jumped to 3NT. 
+
+Playing lebensohl you do the same thing, jump to 3NT. Since you went directly to 3NT you are telling partner you have that type of hand, but DO NOT have a \H stopper (DIRECT DENIES).
+
+Partner does have them stopped so he passes.}
+
+[Event "Baker Bridge - Lebensohl"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ5.97.KQT83.AQ7 K97.AQT532.J.965 QT4.KJ6.A97.KT83 8632.84.6542.J42"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT 2H 2NT pass 3C pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "adf746a22b35bc8be933310558c9d9f18dba20295dae88edc0ebba79c6922522"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{Partner's 2NT bid requests that you bid 3\C, so you do.
+
+He next says 3NT.  
+
+Partner's bidding shows a hand with which he would have bid 3NT without the overcall. Furthermore, he promises a \H stopper. He expects you to pass, so you do.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:742.AQ.AK53.KT93 KJT863.4.72.AQJ2 AQ5.K83.QJ94.764 9.JT97652.T86.85"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+1NT 2S 2NT pass 3C pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "06fd738bb9b1b181fad23f5f76152b9ec92e48a8a467e05f3f33ad95e52d44f9"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{With your 12 point balanced hand you know you are going to play in game. Since you have no interest in looking for a 4-4 Major suit fit you also know that game is going to be 3NT. But you can't actually BID 3NT, because partner would almost surely take you out to a minor suit. Remember, a DIRECT 3NT bid DENIES a stopper in their suit. Since you have South's \S suit stopped, you first bid a lebensohl 2NT.
+
+Partner says 3\C.  
+
+You now complete the picture of your hand by bidding 3NT. (SLOW SHOWS). Partner passes.}
+

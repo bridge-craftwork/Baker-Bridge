@@ -1,0 +1,55 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Stayman
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J62.AT95.KQJ4.AQ 8754.Q4.T98.JT98 QT93.K873.A5.764 AK.J62.7632.K532"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2H pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c65c32efa50c723439df0ed70425a0aa0550e098a06d4f0a987cf57eda90c6da"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{You open 1NT and partner responds 2\C.  
+
+You respond 2\H. Partner now says 3\H.  
+
+Partner has told you he has 4 \Hs and approximately 9 points. Add that to your 4 \Hs and 17 points and the total equals a game bid in \Hs. So you say 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ4.AT95.J73.AQ 7532.842.K9.7654 AT96.63.QT84.K83 8.KQJ7.A652.JT92"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2H pass 2NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "40532c0f6be51b6cee6c0966039aafc247ddbc40727aa7ed5b075f6fdb9df9e0"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{You open 1NT and partner responds 2\C.  
+
+When you have 4 cards in both Majors you respond 2\H. Partner bids 2NT. What is your next bid? 
+
+Partner would never bid Stayman without a 4-card Major. Since he did not like your \H bid it is clear that his 4-card Major must be \Ss. His 2NT bid was an invitation for you to bid 3NT, which means he has about 9 points. Knowing that partner has 9 points and 4 \Ss, your call is clear : 4\S.}
+

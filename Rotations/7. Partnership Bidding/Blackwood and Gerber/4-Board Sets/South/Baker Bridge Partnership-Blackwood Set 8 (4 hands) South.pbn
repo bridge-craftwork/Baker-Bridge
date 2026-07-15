@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K75.Q96.A983.AQ7 943.A854.J742.94 AQ6.K73.K6.KT653 JT82.JT2.QT5.J82"]
+[Declarer "S"]
+[Contract "4NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 4NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "f3d5a50a3a0cbee6eac987a8a0a5bb64f9b90cc2033122a0c85c30f505a31f0d"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{Yes, this has nothing to do with Gerber or Blackwood, but everything to do with smart bidding.
+
+NORTH has a 16 points and SOUTH has 15, 16 or 17. NORTH wants to be in 6NT if SOUTH has 17, 
+but merely a Notrump game if she has 15 or 16.
+
+The way to find out is to bid 4NT - not Blackwood but merely an invitation to bid 6NT. 
+In this case, SOUTH has but 15 points and declines the invitation. If her \HQ 
+were changed to the \HA she would bid 6NT and collect her twelve easy tricks.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A876.QJ7.AJ3.A82 T53.A432.QT92.93 KQJ4.K6.K4.KQJT5 92.T985.8765.764"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 4C pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "29d0c5bf70eb54a7e52dc4b5544acc19589d342dc8c1fa9e16454a2d9b6b928c"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{When SOUTH opens 1NT NORTH hopes his hand includes all four Aces so she can bid 7NT. 
+So she uses Gerber to find out.
+
+But, when she discovers they are missing an Ace she settles for 6NT.}
+

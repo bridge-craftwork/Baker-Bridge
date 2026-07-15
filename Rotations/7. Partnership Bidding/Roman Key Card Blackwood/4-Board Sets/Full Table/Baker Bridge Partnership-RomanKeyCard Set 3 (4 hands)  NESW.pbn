@@ -1,109 +1,63 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:AJT5.AK.K5.AKQJ4 96.JT94.AJT96.53 KQ8743.Q75..9762 2.8632.Q87432.T8"]
+[Deal "N:AK9842.KQT6.84.A T.9742.AJ5.Q9876 QJ73.AJ5.T632.K4 65.83.KQ97.JT532"]
 [Declarer "N"]
-[Contract "7S"]
+[Contract "4S"]
 [Result ""]
-[Auction "S"]
-2C pass 2S pass 4NT pass 6D pass 7S pass pass pass
+[Auction "N"]
+1S pass 3S pass 4C pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0094373ad8de7f26ac0686fd1b8760023898f869adc392b3140464ce2ebb7ebf"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{NORTH's positive response shows 8+ points and five or more cards headed by at least two honors.
+{NORTH has interest in slam after she hears SOUTH's Limit Raise. 
+BUT, she should not use Blackwood holding two quick losers in the \D 
+suit.
 
-SOUTH figures a small slam would be safe, but just to be sure she uses Blackwood.
+Instead she makes a Control showing bid of 4\C. (Not Gerber since it didn't follow a NT bid.)
 
-NORTH's 6\D reply shows one Key-card which must be the trump King, 
-and a \D void!.
+SOUTH cooperates by making a Control bid of 4\H.
 
-SOUTH readjusts her thinking and decides to bid the Grand.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "W"]
-[Vulnerable "NS"]
-[Deal "W:KQ3.KT93.A6.KQ96 9854.4.8752.AJT3 A6.AQ8752.KQ3.87 JT72.J6.JT94.542"]
-[Declarer "E"]
-[Contract "6H"]
-[Result ""]
-[Auction "W"]
-1NT pass 3H pass 4NT pass 5S pass 6H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{EAST jumps in \Hs, showing a good suit and slam interest.
-
-WEST has great \H support so bids RKCB 4NT.
-
-EAST responds 5\S, showing two Key Cards and the \HQ.
-
-That is enough for WEST to bid the slam.}
+NORTH stops at 4\S because neither partner controls \Ds.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AQ64.AKQ.A5.KJ63 98.J652.QJ74.T92 KT7532.8.K86.AQ4 J.T9743.T932.875"]
-[Declarer "S"]
-[Contract "7NT"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:6.KQ872.AK963.KQ QT42.T43.5.T9532 AJ7.J6.QJT87.A64 K9853.A95.42.J87"]
+[Declarer "E"]
+[Contract "6D"]
 [Result ""]
-[Auction "N"]
-2C pass 2S pass 3S pass 4NT pass 5D pass 5H pass 6C pass 7NT pass pass pass
+[Auction "W"]
+1H pass 2D pass 4NT pass 5S pass 6D pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ffaa3959a7bd057e72d38b6387983c2efaf8551230076f9a0a11092ae80f847c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{When NORTH agrees to \Ss, SOUTH will not stop short of a slam. 
-The RKCB 4NT bid tells SOUTH that they have all five Key Cards since NORTH could hardly 
-have a 2\C opening hand with no Aces.
+{WEST decides it is unlikely that EAST is Aceless, so all he wants to know is the number of Aces EAST does have. 
+He invokes RKC Blackwood.
 
-SOUTH's 5\H bid is the Queen Ask, and NORTH's reply confirms that she holds 
-the \SQ, and also has the \CK.
+Since no trump suit has been agreed, EAST bids as if \Ds, the 
+last-bid suit prior to 4NT is agreed. EAST has two Key-cards plus the trump Queen, so she bids 5\S.
 
-SOUTH figures the \S suit will run, and this should be enough for Grand Slam. He chooses 7NT.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "E"]
-[Vulnerable "All"]
-[Deal "E:Q86.QJ3.AJ5.AJ65 T4.KT542.T64.872 AK753.8.KQ72.KQ4 J92.A976.983.T93"]
-[Declarer "W"]
-[Contract "6S"]
-[Result ""]
-[Auction "E"]
-1NT pass 3S pass 4S pass 4NT pass 5S pass 6S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Category "Partnership Bidding"]
-[Difficulty "advanced"]
-[SkillPath "partnership_bidding/roman_key_card"]
-[Student "S"]
-{WEST knows there are enough points for slam, but she is worried about the trump suit. 
-EAST's support doesn't guarantee more than three \Ss, and if they are not headed 
-by the Queen she could lose a trump trick.
-
-Her RKCB bid relieves her mind when WEST claims two Key Cards PLUS the \SQ. 
-She bids 6\S (and hopes for a 3-2 trump split!).}
+WEST bids 6\D. 
+If EAST had just one Key-card, WEST would bid 5\D over the 5\C reply.}
 

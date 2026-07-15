@@ -1,105 +1,57 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
+{[showcards W:H2 N:HA]
+
+The bidding has been as shown. Partner led the \H2, dummy played the \HA 
+
+Play the \HQ (or \HK).
+
+You know partner has a 4-card \H suit, (he led the deuce), and you know it is headed by an honor. You hope the honor is the \HJ, but in any case you must get your high \Hs out of the way.
+
+Declarer will probably come to his hand and then take a \S finesse. You win the \SK, take your other high \H, then lead your \H3 toward your partner.
+
+As you see, partner did hold the \H J 9, so your side wins 3 \H tricks.
+
+If declarer played low on the first trick you would win the \HQ, then play the \HK to dummy's \HA.}
+[Play "W"]H2
+
 [Event "Baker Bridge - Third Hand Play"]
 [Site ""]
 [Date ""]
-[Board "1"]
+[Board "2"]
 [Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:7542.KQ.A5.KJT85 KT986.874.Q74.AQ AJ3.AJ3.KT92.973 Q.T9652.J863.642"]
+[Vulnerable "NS"]
+[Deal "S:K92.QT985.A6.AT6 AJ7.642.T985.973 Q43.J7.KJ43.KQJ5 T865.AK3.Q72.842"]
 [Declarer "N"]
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C 1S 2NT pass 3NT pass pass pass
+1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "fb696c65ee7609f6788eb738fe2572079be39b0bcf983c08cd97c2c8dc9ac5ed"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:SQ]
+{[showcards W:S5 N:S2]
 
-The bidding has been as shown. Partner led the \SQ, a low card was played from dummy, 
+The bidding has been as shown. Partner led the \S5, dummy played the \S2 
 
-Play the \SK.
+Play the \S7.
 
-It seems that perhaps you should play low and let partner's \SQ force out North's \SA. Then, when you get the lead with a high \C you can force out North's \SJ. Get the lead with your other high \C and set the contract with \Ss.
+Partner's low \S lead tells you he has an honor in the suit, so it must be either the \SQ or the \ST. North's jump to 2NT makes it almost certain that he holds the \SQ, so you can figure partner probably led from \S 10 x x 5.
 
-Suppose you try that. Play low on the first \S. North will also play low and East will be left holding the trick, and also holding the bag! With no more \Ss East will have to play one of the other three suits, and that is just what North wants to have happen. The contract could no longer be beaten.
+Apply the Rule of 11. 11 minus 5 = 6 cards higher than the \S5 held by dummy, you, and declarer. Since you can see 5 of the 6 you conclude that that declarer will have to play his \SQ to beat your \S7.
 
-Now do it the right way. Play your \SK on partner's \SQ. Assume North takes the trick, although it doesn't matter whether he wins the first one or holds up. When you win your first \C drive out North's \SJ. When you win your second \C trick your \Ss will be good. If you overtake the first trick the contract can no longer be made.
+North will take the \SQ at trick 1, but when East wins a high \H he will play another \S through dummy's \S K 9 to your \S A J. Once you clear dummy's \S away partner will win another \H and be able to cash his last \S.
 
-Notice that North will always make two \S tricks, so your overtake costs nothing.}
-[Play "W"]SQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "W"]
-[Vulnerable "NS"]
-[Deal "W:A6.K93.Q62.QJ982 K87542.QT4.83.A6 QJT.A7.AK75.T753 93.J8652.JT94.K4"]
-[Declarer "E"]
-[Contract "3NT"]
-[Result ""]
-[Auction "W"]
-1C 2S 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/third_hand_play"]
-[Student "E"]
-{[showcards W:S9]
-
-The bidding has been as shown. Partner led the \S9, dummy played the \S6 
-
-Play the \S8 (to signal encouragement).
-
-You could easily win the \SK, then play a small \S to drive out dummy's \SA. But East bid Notrump over your 2\S overcall, so he surely holds \S Q J 10. So when you get the lead with your one \CA entry you can establish your \Ss, but you won't get into the lead to cash them.
-
-Look what happens when you duck the first trick. East will win the trick with his \ST, and start on dummy's \C suit.
-
-South (your wonderful partner) will win the first \C and return his final \S to dummy's \SA.
-
-East will have to keep working on \Cs, but now you can win the \CA and play your \SK, dropping East's \SQ, and your other three good \Ss.
-
-Just like the previous deal, East gets two \S tricks either way, but one way he makes an overtrick, the other way he goes down 2.}
-[Play "W"]S9
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:K95.AK9752.Q83.6 AQ83.6.JT72.KQJT JT64.QJT.AK6.942 72.843.954.A8753"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1H Dbl Rdbl 2C pass 3C 3H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/third_hand_play"]
-[Student "E"]
-{[showcards W:CK]
-
-The bidding has been as shown. Partner led the \CK, dummy played low 
-
-Overtake partner's \CK with the \CA.
-
-You are pretty sure partner would not have supported your \Cs unless he had 4 of them, which means it is very likely that South has a singleton. (he might even be void)
-
-So if you are to set this contract partner is going to have to have some \S winners. It might not matter, but it also might be vital that the first \S lead comes from your side of the table so after you overtake with the \CA you switch to the \S7.
-
-Partner loves it - whatever South does West takes the next two \Ss, then leads a third \S for you to ruff. Down 1.}
-[Play "W"]CK
+Note that if dummy's \S9 was played you would cover with your \SJ, leading to the same situation.}
+[Play "W"]S5
 
 [Event ""]
 [Site ""]
@@ -107,59 +59,33 @@ Partner loves it - whatever South does West takes the next two \Ss, then leads a
 [Board "4"]
 [Dealer "E"]
 [Vulnerable "All"]
-[Deal "E:KT83.AJ94.AJ7.T7 A42.5.T963.A8643 QJ965.KT6.KQ2.J2 7.Q8732.854.KQ95"]
-[Declarer "W"]
-[Contract "4S"]
-[Result ""]
-[Auction "E"]
-1D pass 1S pass 2S pass 4S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[Category "Defense"]
-[Difficulty "beginner"]
-[SkillPath "defense/third_hand_play"]
-[Student "E"]
-{[showcards W:CK]
-
-The bidding has been as shown. Partner led the \CK, dummy played the \C7 
-
-Overtake with your \CA.
-
-As soon as you see the opening lead and dummy you should start figuring out just how you can defeat the contract. Hopefully this plan came to your mind.
-
-From his lead, you know partner also holds the \CQ. Overtake the \CK. Play your singleton \H5. When West starts on trumps, win the first one with your \SA. Put partner back on lead with a small \C to his known \CQ.
-
-If you have a partner who pays attention he will now play a \H for you to ruff. Two \Cs, the Ace of trumps, and a \H ruff makes down 1.}
-[Play "W"]CK
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:AK5.94.A75.QT652 JT98.73.KQT93.A9 Q74.AQJ5.862.KJ4 632.KT862.J4.873"]
-[Declarer "N"]
+[Deal "E:AQT.K43.KQ92.Q85 K852.JT652.64.93 J64.98.A5.AJT742 973.AQ7.JT873.K6"]
+[Declarer "E"]
 [Contract "3NT"]
 [Result ""]
-[Auction "N"]
-1C pass 1H pass 1NT pass 3NT pass pass pass
+[Auction "E"]
+1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 4, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "37e1834d9d2f531db9df494254a0598a7bd6c1633c4bab02d55e5f8812c5b2fe"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:DK]
+{[showcards W:H5 N:H8]
 
-The bidding has been as shown. Partner led the \DK, dummy played low 
+The bidding has been as shown. Partner led the \H5, dummy played the \H8 
 
-Play the \DJ.
+Play the \HQ.
 
-Put yourself in partner's shoes. He almost surely has \D K Q 10 x (x). When North holds up on his \DA, which he almost surely will, East may think he is holding up with \D A J x, and be afraid to continue the suit.
+The Rule of Eleven tells you there are 6 cards in West, North and East that are higher than the \H5. You can see 5 of them, so that leaves just one of them for East.
 
-You can help your partner figure out the true situation by merely playing your \DJ so he can see that North doesn't have it.
+South cannot have all three of the outstanding honors, because from \H K J 10 x x his correct lead would be the Jack. So you can deduce that East must hold exactly one of \HK, \HJ, or \H10.
 
-With this good play East will be able to continue \Ds and defeat the contract.}
-[Play "W"]DK
+If his honor is not the \HK then it won't matter whether you play \HA or \HQ to the first trick; you will win your two top cards and then play your small one back to South.
+
+So assume East actually holds the \HK x x. If you play the \HA to trick one, then lead \HQ, East will hold up on the second trick, and win the third \H. Then, when you win your \CK you will not have a \H to return to partner and declarer will make the contract.
+
+So what happens if you play the \HQ at trick one? East could still make the contract by holding up, <b>but he will be afraid to do so</b>. After all, from his perspective it looks like South probably holds the \HA and he will be afraid of losing the first 5 \H tricks, perhaps even when the \CK finessing is working!}
+[Play "W"]H5
 

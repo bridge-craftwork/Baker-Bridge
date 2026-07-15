@@ -1,0 +1,85 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Signals
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
+{[showcards W:DA N:D2]
+
+You are East. The bidding has been as shown. West led the \DA, dummy played the \D2 
+
+Play the \DQ.
+
+As soon as dummy appears you can see 3 tricks for your side. Partner surely has the \DK to go with his Ace and you have a certain trump trick. However, that's all you can see.
+
+Your best hope is that West may be able to win a \S trick, and it may be important for the first \S lead to come from your side of the table.
+
+Your \DQ play informs partner that you also have the \DJ, giving him the option of underleading his \DK to get to your hand.
+
+West next plays a small \D which you win with your \DJ. You return the \ST. This establishes West's \SK before South can pull trumps and discard one of dummy's \Ss on his fourth \C.}
+[Play "W"]DA
+
+[Event "Baker Bridge - Defensive Signals"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AKQ3.K98.AJT.T85 J9652.AQT6.9542. 7.532.73.AKJ9642 T84.J74.KQ86.Q73"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "189e970de5549389ec75f257ce8246c7dd2e765da80c2d79851410c21abdc3be"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/defensive_signals"]
+[Student "W"]
+{[showcards S:CT]
+
+You are East. The bidding has been as shown. You led the \S5, West plays the \ST and North wins the \SK. To the second trick North plays the \CT and you must discard something. 
+
+Play the \SJ.
+
+You know that West has no high \S honor or he would have played it to the first trick. So North has the \S A Q left, plus all those \C tricks. You need to have East switch to a \H if possible.
+
+West must be expecting to lead a \S back when he wins the \CQ which you hope he holds. Your \SJ discard may make him rethink. If your \Ss were any good why would you be discarding a winner when all you had to do was toss a small red card?
+
+Hopefully West will come to the conclusion that this is Suit Preference for a \H return and will play his \HJ. Hopefully.}
+[Play "W"]S5
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J85.AQJ8752.AK.K AKQ73.4.T653.T72 962.KT63.Q94.QJ4 T4.9.J872.A98653"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1H 1S 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a63de8e9153032905e39024e7fea49532b85777dd53edc7aae374a65d2af9969"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/defensive_signals"]
+[Student "E"]
+{[showcards W:SK N:S9]
+
+You are East. The bidding has been as shown. Partner led the \SA, dummy played the \S2 and you signal with your \ST. West next plays the \SQ and you drop the \S4, completing your doubleton signal. West then plays the \SK and it turns out you don't have to ruff after all. So what are you going to play?
+
+Play the \C9.
+
+This should be a clear enough signal for West to play a \C to your \CA next.
+
+An alternate play, just as good, would be for you to ruff the good \SQ and play the \CA yourself.
+
+If you don't get your \C trick at trick 4 you will never get it. South will discard his \CK on North's extra \D winner.}
+[Play "W"]SA
+

@@ -786,6 +786,7 @@ if __name__ == "__main__":
     # Convert CSV to PBN files
     convert_csv_to_pbn(*sys.argv[1:])
 
-    # Generate toc.json for Bridge-Classroom
-    # Output to Package folder (sibling of Tools)
-    generate_toc_json("../Package")
+    # Generate toc.json for Bridge-Classroom.
+    # BB_PACKAGE_DIR (env) overrides the default orphaned ../Package so the build can
+    # target the new bridge-classroom/ contracted-files folder (issue #21, Phase B).
+    generate_toc_json(os.environ.get("BB_PACKAGE_DIR") or "../Package")

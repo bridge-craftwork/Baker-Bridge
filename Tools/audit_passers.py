@@ -178,19 +178,25 @@ def audit(lessons, tmp):
 
 
 def main():
+    # Audit dir: BB_PACKAGE_DIR (env) overrides the default Package/, so the same tool
+    # can audit the new bridge-classroom/ build (issue #21, Phase B).
+    pkg = os.environ.get("BB_PACKAGE_DIR") or os.path.join(REPO, "Package")
     args = sys.argv[1:]
     if args:
-        lessons = [os.path.join(REPO, "Package", a if a.endswith(".pbn") else a + ".pbn")
-                   for a in args]
+        lessons = [os.path.join(pkg, a if a.endswith(".pbn") else a + ".pbn") for a in args]
     else:
-        lessons = sorted(glob.glob(os.path.join(REPO, "Package", "*.pbn")))
+        lessons = sorted(glob.glob(os.path.join(pkg, "*.pbn")))
 
     with tempfile.TemporaryDirectory() as tmp:
         records = audit(lessons, tmp)
 
-    with open(OUT_CSV, "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["lesson", "board", "fill_lesson", "status", "detail"])
-        w.writeheader(); w.writerows(records)
+    # Only persist the committed baseline CSV when auditing the default Package/. Auditing an
+    # override dir (BB_PACKAGE_DIR, e.g. Collection/bridge-classroom) prints only, so it can't
+    # clobber the Phase 0 baseline.
+    if not os.environ.get("BB_PACKAGE_DIR"):
+        with open(OUT_CSV, "w", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=["lesson", "board", "fill_lesson", "status", "detail"])
+            w.writeheader(); w.writerows(records)
 
     per = defaultdict(lambda: defaultdict(int))
     fill_of = {}

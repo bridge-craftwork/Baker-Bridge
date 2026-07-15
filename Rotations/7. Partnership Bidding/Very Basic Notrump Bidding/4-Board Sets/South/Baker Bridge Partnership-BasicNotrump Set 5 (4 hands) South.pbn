@@ -1,0 +1,58 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicNotrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
+[Event "Baker Bridge - Very Basic Notrump Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJ92.J8.6532.642 AT8.AT9.KQT8.K97 654.K6543.A7.A53 K73.Q72.J94.QJT8"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "d870f306cb4e7a1e2d786c91cb6f3b60865b9eab4252f3b222f5dee9f25cc781"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has an mid-range 1NT opener; a balanced hand with 16 points.
+
+NORTH has 9 points. He bids 2NT, asking SOUTH to pass if she has 15 or bid 3NT if she has 17.
+
+But SOUTH has 16 points, which leaves her with no clear choice. 
+In this case she must decide whether her hand is a "good" 16 points or a "poor" 16 points. 
+Since her supporting cards are mostly 10's, 9's and 8's she figures it as "good" 
+and bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ.A4.KQT8.AJ73 A54.QJ3.J632.T98 T962.K75.954.KQ6 873.T9862.A7.542"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "bbc0aab189d3f4850d3df5ff623fe5370b810fc83e457b1954dd721f0716eb44"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has 20 points and 4-4-3-2 distribution, so he opens 2NT.
+
+NORTH has 8 points. She adds SOUTH's 20 or 21 for a total of 28 or 29, enough for game but 
+nowhere close to the slam requirement. So she bids 3NT and SOUTH passes.}
+

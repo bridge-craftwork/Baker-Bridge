@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK.AQT96.AQJ3.AK QJT6.82.952.J985 972.KJ53.K7.7642 8543.74.T864.QT3"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5NT pass 6H pass 7NT all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4f41e58d21ba776770863561e51e2ae03911f3ed9a01cba4fc28db565fb71e61"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH has a pretty good hand, and when NORTH shows \H support she naturally 
+thinks about slam.
+
+She has all four Aces but she wants to know about Kings. Unfortunately she can't start at 5NT because that 
+has a different meaning, so she goes through the 4NT sequence even though she already knows the Ace answer.
+
+Finding NORTH with two Kings was what she wanted.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:K7.K9.AQJT4.AQJ7 J843.J762.63.T93 A62.AT4.K75.K862 QT95.Q853.982.54"]
+[Declarer "S"]
+[Contract "7NT"]
+[Result ""]
+[Auction "N"]
+1D pass 2NT pass 4C pass 4S pass 5C pass 5S pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ed314f61fe8986da370d3ea7a62adc042502d39174ab1da2f28b02339f871e5f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{NORTH is just shy of a 2\C opening bid, and when SOUTH shows 13-15 points NORTH 
+wants to be in a slam.
+
+NORTH cannot use Blackwood because 4NT would be a natural invitation, but with SOUTH's latest bid 
+being 2NT he can use Gerber.
+
+Two Major Aces and two Minor Kings fill the holes in NORTH's hand so he bids 7NT.}
+

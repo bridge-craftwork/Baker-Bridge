@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A5.KQT97.KQ6.QJ4 Q84.A6.853.AT732 K763.J42.974.865 JT92.853.AJT2.K9"]
+[Declarer "S"]
+[Contract "1H"]
+[Result ""]
+[Auction "S"]
+1H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "736afe31e2dd63a392396ceeeeb7bf8a631780e28475bbd022d4ebd63b1818b0"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{SOUTH has 18 points and a 5-card \H suit. This is a good hand 
+to open 1\H.
+
+NORTH has three \Hs which is adequate support. But NORTH only
+has 4 points which is not strong enough to respond. So NORTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJ964.A9.K74.KQJ T75.J8762.AT95.A K82.K543.86.9832 A3.QT.QJ32.T7654"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "S"]
+1S pass 2S pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "b847ca9bb06fd51a6a492754aff575fa366198c52ff0c50cf654062a4cc36b32"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{SOUTH has 17 points counting 1 extra for the fifth \S. This is a middle-range hand with five \Ss. 
+So he opens 1\S.
+
+NORTH only has 7 points, 6 in high cards and one more for the doubleton \D. 
+But she does have three \Ss, so she can respond 2\S.
+
+Since SOUTH is middle-range, he makes one more try by bidding 3\S.
+
+If NORTH had 9 or 10 points she would now bid 4\S - but with 7 she passes.}
+

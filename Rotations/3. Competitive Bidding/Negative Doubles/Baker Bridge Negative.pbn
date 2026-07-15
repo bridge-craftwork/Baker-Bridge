@@ -1,7 +1,9 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Negative
+%bridge-classroom-stable: true
+%bridge-context: Negative Doubles, no upper level
 [Event "Baker Bridge - Negative Doubles"]
 [Board "1"]
 [Dealer "N"]
@@ -13,6 +15,7 @@
 [Auction "N"]
 1H 1S 2S pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c36198dbd6bf7a28b651bfef7ec7de414dd53513bd77627f85985ecc58e68930"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -34,6 +37,7 @@ Partner now bids 4\H which you pass.}
 [Auction "N"]
 1D 1S X pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "12053353341680332c0f827d5ce5b67b2fc488993282e31f7192148b69edee6f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -55,6 +59,7 @@ Partner also has 4 \Hs. Unfortunately his strength is only in the 13-15 point ra
 [Auction "S"]
 1C 1S X pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b71a44ba5c87a42063fcbb121cdc667bad894f0a76749545902058eaf2c84db6"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -74,6 +79,7 @@ Partner is showing you a \H suit with at least 6 points. With 4 \Hs in a minimum
 [Auction "N"]
 1D 1H X pass 2S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "91449562d09ec8e162b87832b62b2578fae8af192ac7f04520b65b1d8fc8fef1"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -95,6 +101,7 @@ Partner's jump is inviting but it takes more than just a simple jump to get you 
 [Auction "S"]
 1D 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "3ffeb60f07ab88585a704d5f65b20e6956ab99c5e76f1272f19932ff4fb95b72"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -114,6 +121,7 @@ Partner has indicated a 4-card \S suit. Since you also have 4 you will naturally
 [Auction "N"]
 1C 1S X pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fceea8eac67835619a7d0e5304a0e6d8f5800c5bac2262bf12dc86563e19180a"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -135,6 +143,7 @@ Partner has 4 \Hs and an opening hand. You have 4 \Hs and an opening hand. That 
 [Auction "S"]
 1C 1D X pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "0756329a12d3fb529f89809c4651e29fbf6f4756292ff9f851a42cecd926fa8f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -154,6 +163,7 @@ Partner's Negative Double in this situation shows both Majors. You can't support
 [Auction "N"]
 1D 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1303f7beac377ad5d26a14dd03a2a3744406e0dd13631593c977d5a0cf8143bd"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -175,6 +185,7 @@ Partner's jump shows a Medium hand, 16 - 18 points. Add your 11 and you have eno
 [Auction "S"]
 1D 1S X pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "52324c4eb4303bb721ef7d990ebaef61321c07a7e383085382812811cac01530"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -194,6 +205,7 @@ You have a very good hand but only 2 of partner's \H suit. You are actually too 
 [Auction "N"]
 1H 1S X pass 2H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "a66626ce21641991c720dd5120b5ed0e3b92bdc2481fe5903dcf66c2766c3202"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -215,6 +227,7 @@ Well let's see. Partner shows no interest in your two Minors or notrump. And he 
 [Auction "S"]
 1H 1S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b8a129d880d438f241b2de815bd3c53e86967fca9d78b9ab5227b061c9cf4acc"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -234,6 +247,7 @@ Partner is showing both Minors but you are not interested in either one. Bidding
 [Auction "N"]
 1S 2H X pass 3D pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "141704eaae24d2495eb44bce4ff85e46e51ae7f5f490947edd74ce8153fd2e1b"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -257,6 +271,7 @@ As you can see you will lose 2 \Ss and 1 \C so you made the right decision.}
 [Auction "S"]
 1D 2C X pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "c40a2bfdc9b13ba3713830689267c860533b21b9df3ce30d64b9738de219958b"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -278,6 +293,7 @@ Once partner confirms he has the \Hs you can revalue your hand to 17 points. Thi
 [Auction "N"]
 1C 1D X pass 1S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "29592f789ea26c54d9f0e95edecb2a8e6826730169dfb30806f551a807cbe415"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -299,6 +315,7 @@ Partner has a minimum opener with 4 \Ss. You have a minimum response with 4 \Ss.
 [Auction "S"]
 1H 2D X pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "b4709d72943fdfd69fc56b2e9aa7cfba0c7aa12e3d808127629abcc6145e1010"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -318,6 +335,7 @@ Sometimes using Negative Doubles seems like you can read minds. You know for sur
 [Auction "N"]
 1C 1D 1S pass 1NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5a93fc95f704fe77135c282514c5e7a7131733e129b0fb8496dac6d45a9df806"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -339,6 +357,7 @@ Partner has a minimum hand and fewer than 4 \Ss. A good time for you to pass.}
 [Auction "S"]
 1H 2D X pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "fa23944fee4069d18533262f3447f35d0e71832b9dbe4624ab97e4300f0bdbd7"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -358,6 +377,7 @@ Partner has 10+ points, a \S suit and fewer than 3 \Hs. Doesn't this look like t
 [Auction "N"]
 1C 1D X pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "ac030e6e78ab3f5c8bd2fda01097e4afe61e45b38d9f9e61e929796b1f2cbc9a"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -379,6 +399,7 @@ Partner doesn't have 4 of either Major. But he does have 13 points and \Ds stopp
 [Auction "S"]
 1D 1H 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "5843830dce8eaf0418f2ffe4e69036162b1533881f9370b073e95e48979a978e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -400,6 +421,7 @@ But that is not the case here. If partner had only 4 \Ss he would not have bid t
 [Auction "N"]
 1D 2C pass pass X pass pass pass
 [BCFlags "1f"]
+[BoardVersionToken "1fe6ae02af8b4ec8126ffe83cc1c91102606052efd50c7657d3213754528c415"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]

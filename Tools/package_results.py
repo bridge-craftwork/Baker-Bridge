@@ -10,7 +10,9 @@ base_dir = os.getcwd()
 # Define the source directories and destination package directory relative to the base directory
 pbn_dir = os.path.join(base_dir, "pbns")
 pdf_dir = os.path.join(base_dir, "pdfs")
-package_dir = os.path.join(base_dir, "../Package")
+# Output dir: BB_PACKAGE_DIR (env) overrides the default orphaned ../Package so the build
+# can target the new bridge-classroom/ contracted-files folder (issue #21, Phase B).
+package_dir = os.environ.get("BB_PACKAGE_DIR") or os.path.join(base_dir, "../Package")
 
 # Debug: show the directories being used
 print(f"Base directory: {base_dir}")

@@ -1,0 +1,67 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A9864.AKQ.7.KJ63 QJ.T963.KT94.T98 K753.J87.A865.74 T2.542.QJ32.AQ52"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "032129083d96323a2fe163b023adee60032f82892d8f5c9cb8c97c1af32cbcb0"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{NORTH may have a good hand but SOUTH merely gave a simple raise. 
+Even if SOUTH has a maximum there won't be a slam.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:.KQJ863.KJ2.AQ65 KJ86.5.Q9763.T82 Q753.T942.A8.KJ4 AT942.A7.T54.973"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 3H pass 4C pass 4D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7af3e5e84cc86fa25e03c9e5074c341f95ede60add5f41a7fa158c5e8e58dd6c"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH has a tough decision after the two Control-showing bids.
+
+If he uses Blackwood and NORTH shows two Aces he will be no better off, because he won't know if one 
+of the Aces is the useless \SA. Based on knowing that NORTH holds the \DA, 
+he bids 6\H, hoping that he can at least make that and that 7 isn't a laydown!}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K62.AT9.AK3.AK84 T943.QJ4.T.QJT93 A7.K3.QJ98742.76 QJ85.87652.65.52"]
+[Declarer "N"]
+[Contract "7NT"]
+[Result ""]
+[Auction "N"]
+2NT pass 4C pass 4NT pass 5C pass 5NT pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]

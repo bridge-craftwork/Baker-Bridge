@@ -1,0 +1,39 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Blackwood
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood (Aces); Gerber 4C over NT openings
+{SOUTH might be tempted to blast into Blackwood with his first bid, pushing toward some slam 
+in \Hs. He chooses to temporize with a 1\H 
+response and is rewarded when NORTH jumps to 2NT (18-19 points).
+
+The Notrump bid prevents SOUTH from using Blackwood, but Gerber 4\C will work just fine. 
+When he discovers that NORTH holds three Aces and one King he can count thirteen tricks.}
+
+[Event "Baker Bridge - Blackwood and Gerber"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK.KQ4.KQJ3.KQJ5 T8752.J6.T64.743 Q63.AT7.952.AT86 J94.98532.A87.92"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 4C pass 4S pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b78caaa351a73fe464119fe4d409dbecb868c8799b9fca5c38f8fb6a56f5b9e2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{SOUTH responds 2NT, showing 8+ points with no 5-card suit. 
+
+NORTH only needs to know how many Aces are in the SOUTH hand. He must use Gerber since 
+4NT in this situation would not be Blackwood. 
+
+When SOUTH shows two Aces NORTH bids 6NT.}
+

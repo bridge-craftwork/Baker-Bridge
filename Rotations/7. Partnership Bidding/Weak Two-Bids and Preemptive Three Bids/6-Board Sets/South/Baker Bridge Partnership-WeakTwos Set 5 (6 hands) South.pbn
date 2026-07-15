@@ -1,0 +1,86 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-WeakTwos
+%bridge-classroom-stable: true
+%bridge-context: 2M-2NT = Feature ask (NOT Ogust)
+[Event "Baker Bridge - Weak Two-bids and Preemptive Three Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ9862.864.94.K6 A5.972.JT8.Q9752 JT3.AK53.AQ732.4 74.QJT.K65.AJT83"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "S"]
+2S pass 2NT pass 3C pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "78b1ecd0e5ac525adc6a19f76993a042e9b231322792372d830f16b4bf6f32a2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{NORTH has one of those hands which might or might not be helpful to SOUTH. He needs 
+more information about SOUTH's hand, so he bids 2NT.
+
+SOUTH has a better than average hand, so she bids 3\C to show a high card in the suit.
+
+NORTH was hoping for a high card in \Ds rather than \Cs, so 
+he signs off in 3\S}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:73.K53.KQT872.94 J982.T987.65.QT8 A64.Q42.AJ4.AK65 KQT5.AJ6.93.J732"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2D pass 2NT pass 3H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "9197ee62b9ca49e529c39539295302c0d48918b5752103f35959026cb9050115"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{With four fast winners SOUTH should think about game. The best approach is usually to 
+use 2NT to find out more about NORTH's hand.
+
+SOUTH found out that NORTH has good opening strength, and, most importantly, either the 
+\HA or \HK. Now that she doesn't 
+have to worry about the opponents taking the first five \H tricks 
+she bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:975.76.AKQ962.83 J6432.QT95.5.942 KQ8.AK8.J43.AT65 AT.J432.T87.KQJ7"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2D pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "6d06ca8612284f137f95b1a8c3c9109c4309d86dabcd525e9c529e543f816e06"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{SOUTH is strong enough to be thinking about game, depending on how good NORTH's hand is. 
+So he bids 2NT to get more information.
+
+NORTH has the exact hand to say 3NT - a suit headed by AKQ.
+
+Game (and bidding) doesn't get much easier.}
+

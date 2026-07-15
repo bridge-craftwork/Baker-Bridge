@@ -1,0 +1,85 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AT532.AJT.987.A8 Q74.K54.Q54.J632 K9.862.AK63.KQ75 J86.Q973.JT2.T94"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1S 2H X pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "6cac296dc73fe834aaec432e999378531ac07c3d73c29eea7d5169999db6f6cd"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has 15 points, and when East overcalls 2\H in front 
+of her she has a perfect Negative Double - showing both of the Minor suits.
+
+NORTH doesn't like the Minor suits, but he has stoppers in \Hs, so 
+he bids 2NT.
+
+SOUTH is more than happy to raise to 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:9.KQJ7.AK6.AQT54 AQJ73.T3.Q932.73 T86.A9642.84.K62 K542.85.JT75.J98"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1C 1S X pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "418495dc73f85ae1b5a49d6f38bab3744a08906625a044f4bc8177cd1cc35837"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{WEST would have responded 1\H if SOUTH had not overcalled. 
+But with only 8 points he cannot bid at the 2-level. The Negative Double solves his problem, 
+giving this information to partner.
+
+EAST has good \Hs and enough points to bid game. 
+Notice that if SOUTH had remained silent, WEST would have responded 1\H, 
+and EAST would have jumped to game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T97.K87.AK6.KJT4 Q83.AJT4.J54.765 AK62.93.972.Q982 J54.Q652.QT83.A3"]
+[Declarer "S"]
+[Contract "2C"]
+[Result ""]
+[Auction "S"]
+1C 1H X pass 1NT pass 2C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "6360b64575401540bf676df090fc74b794a2da7cee6a9d835b235a418f87fa2e"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has four \Ss, so instead of bidding them she makes a Negative Double.
+
+SOUTH knows there is no 8-card fit in \Ss, but he does have \Hs 
+stopped. He bids 1NT.
+
+NORTH has 9 points and with four \Cs she goes back to that suit and SOUTH passes.}
+

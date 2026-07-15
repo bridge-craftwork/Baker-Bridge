@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Overcalls
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Overcalls"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 1D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: E, basisKind:Declarer, nOption:0, nBasis: 1, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "32f953eb50c7f1f72d0844fa4d52c321e849557530d371d7c79ca5d2343f0e0a"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
@@ -27,9 +29,9 @@ You have 14 points but so what. You have no 5-card suit to Overcall. You cannot 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "N"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "N:K.862.A832.AQJ73 T92.AQJ75.QJ7.86 QJ864.4.T5.KT942 A753.KT93.K964.5"]
 [Declarer "E"]
 [Contract "3H"]
@@ -37,7 +39,8 @@ You have 14 points but so what. You have no 5-card suit to Overcall. You cannot 
 [Auction "N"]
 1C 1H pass 3H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "0c9ad25c9986489c2b914663380a93a52d3321ff8707fda7b40e82731de37355"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
@@ -49,7 +52,7 @@ With four trumps and 12 points you have a text-book raise to 3\H. Partner had a 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "E"]
 [Vulnerable "None"]
 [Deal "E:QJ.92.KQJ4.AKQT2 T9.AQJ75.A875.65 K8652.T64.T92.J7 A743.K83.63.9843"]
@@ -59,60 +62,4 @@ With four trumps and 12 points you have a text-book raise to 3\H. Partner had a 
 [Auction "E"]
 1C 1H pass 2H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.  
-
-With 12 points and a good suit you have a very solid overcall so you bid 1\H. Partner responds 2\H.  
-
-Partner is showing 6-10 points and three trumps. Your hand revalues to 14 at most so you pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "All"]
-[Deal "S:A.AT52.AT875.AK2 KQJ97.8.Q62.Q943 T85432.Q76.J3.JT 6.KJ943.K94.8765"]
-[Declarer "W"]
-[Contract "1S"]
-[Result ""]
-[Auction "S"]
-1D 1S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.   
-
-You really don't like partner's \Ss, and you do have 8 points. But 8 points is not enough to be considering game, and you would have to bid your \Hs at the 2-level. All things considered it is better to pass while you still aren't doubled.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "W"]
-[Vulnerable "NS"]
-[Deal "W:AK864.T9.5.AJ842 T9.KQJ752.QJ7.65 Q3.4.K98643.KQ97 J752.A863.AT2.T3"]
-[Declarer "N"]
-[Contract "3H"]
-[Result ""]
-[Auction "W"]
-1S 2H pass 3H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Competitive Bidding"]
-[Difficulty "beginner"]
-[SkillPath "competitive_bidding/overcalls"]
-[Student "S"]
-{The bidding has been as shown.  
-
-You overcall 2\H and hear partner raise you to 3\H.  
-
-No matter how many times you check this hand you cannot revalue it any more than 13 points. Since partner has 10 at the most you reluctantly pass.}
-
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

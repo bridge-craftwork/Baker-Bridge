@@ -1,0 +1,57 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-NegativeDoubles
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Negative Doubles and Cue-Bid Support"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KQJ7.T7.A976.AT4 AT94.642.T53.K53 62.AQJ3.J84.J982 853.K985.KQ2.Q76"]
+[Declarer "N"]
+[Contract "1NT"]
+[Result ""]
+[Auction "N"]
+1D 1S X pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c87ca8f452dffdfd23082524a5cd6242256fbebfef492d9f76e6a841eb1b9199"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has 9 points a a \H suit - good enough to make a 
+Negative Double over EAST's 1\S overcall. 
+
+But NORTH doesn't have \Hs, she has \Ss and \Ds, so she bids 1NT to show 
+her \S stopper and a minimum opener.
+
+SOUTH should pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:Q97.J87.AK86.KT4 JT.KQT2.543.AQJ5 AK642.93.T97.982 853.A654.QJ2.763"]
+[Declarer "E"]
+[Contract "2S"]
+[Result ""]
+[Auction "W"]
+1D 1H 1S pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "d3aa2ad726a85517a7c1bd1f76341a6de74bceb045a30b74240535de390c1ede"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{With five \Ss EAST bids the suit rather than making a negative double.
+
+WEST knows this shows a 5-card suit so he can support with only three \Ss.
+
+EAST doesn't have anything extra so she passes 2\S.}
+

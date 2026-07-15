@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Elimination Plays"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4b4cc948921190ad559e1e209004ce45123635f2a762f20749e74dbce912cd94"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -42,7 +44,7 @@ With an elimination play you make it no matter who holds the Queen.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:AJT83.A3.Q52.AK5 Q2.QJT7.K964.J74 K9764.64.J73.Q82 5.K9852.AT8.T963"]
@@ -52,7 +54,8 @@ With an elimination play you make it no matter who holds the Queen.}
 [Auction "S"]
 1S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0ec86208eadf1c5b978a127509b2307880a26481922a19632b13076efc4599f5"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -79,9 +82,9 @@ Only by forcing them to start the \Ds can you take a trick in the suit. }
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "5"]
 [Dealer "N"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "N:AJT83.A3.A97.AQ5 Q2.QJT7.Q864.J74 K9764.64.KT3.K82 5.K9852.J52.T963"]
 [Declarer "N"]
 [Contract "6S"]
@@ -89,95 +92,4 @@ Only by forcing them to start the \Ds can you take a trick in the suit. }
 [Auction "N"]
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "advanced"]
-[SkillPath "declarer_play/elimination_plays"]
-[Student "S"]
-{North is to play 6\S. East leads the \HQ.
-
-This \D holding is the third example shown in the introduction.
-
-This is another follow-up to Deal 1. But this time you are missing both the \DQ and \DJ. In this case an Elimination play doesn't give you a guarantee, it just improves your odds.
-
-Win the first trick and play \SA, \SK. Trumps split 2-1.
-
-Play three rounds of \Cs to eliminate the suit from you and dummy.
-
-Now execute the throw-in by leading a \H from either hand.
-
-The defender who gets thrown in cannot play a \H or a \C without handing you the contract by way of a ruff-and-sluff. So he must lead a \D. Suppose it is East who leads the \D. You play low in dummy and West must play either the \DQ or \DJ to keep you from getting a cheap trick with your \D9. So you take West's honor with your \DA and then finesse East for the other honor. As long as the \DQ and \DJ are in different hands the elimination play will succeed.
-
-Against good defenders there is no way you can make all three \D tricks if you make the first play in the suit. This assumes that if one defender held both the \DQ and \DJ he would "split" the honors if you tried to lead through them. 
-
-By forcing them to start the \Ds you make three tricks when the two outstanding honors are divided. }
-[Play "W"]HQ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:865.AQ973.K6.AJ5 KJ4.T5.JT932.Q74 973.KJ82.A84.KT3 AQT2.64.Q75.9862"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1H pass 3H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "advanced"]
-[SkillPath "declarer_play/elimination_plays"]
-[Student "S"]
-{South is to play 4\H. West leads the \DJ.
-
-With three unavoidable \S losers you cannot afford to lose a \C. So you either have to guess the location of the\CQ or (DRUMROLL) pull off an elimination play! Win the \DK, then pull trumps, it takes two rounds.
-
-Next you eliminate the \Ds by playing \DA then ruffing the \D8.
-
-Execute the throw-in by leading a \S.
-
-The defense is in with a \S and they are welcome to take two more \Ss. But then they will to have to play a \S or a \D, giving you a ruff-sluff, or else lead a \C which finds the \CQ for you.
-
-Using elimination plays makes you a better player. But in Bridge, no matter how skillful you are, there will always be a luck factor.
-
-Here you were lucky the defense didn't start by taking their three \Ss. If they had, you would not have been able to pull off the throw-in, and would have had to try your luck with  guessing who had the \CQ. }
-[Play "W"]DJ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:K964.Q7.KQ6.KJT3 T.KJ832.A542.974 AQ8752.T4.93.A62 J3.A965.JT87.Q85"]
-[Declarer "N"]
-[Contract "4S"]
-[Result ""]
-[Auction "S"]
-1C pass 1S pass 2S pass 4S pass pass pass
-[BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "advanced"]
-[SkillPath "declarer_play/elimination_plays"]
-[Student "S"]
-{North is to play 4\S. East leads the \DJ, covered by the \DQ and \DA. West returns a \D to the \DK.  
-
-You still have two losers in the \H suit, so the question is which way you plan to finesse the \Cs. And of course the answer is that you don't plan to finesse them at all!
-
-Pull trumps with the \SA, then \SK. Next ruff dummy's last \D.
-
-Now exit with a \H. The defenders win this and take another \H trick, leaving this position.
-
-They must now break the \C suit for you or give you a ruff-sluff. Of course you would ruff in dummy and discard a \C from the 3-card holding in your hand.
-
-If West is the one who has to play a \C you just let it ride around to dummy's \C K J 10 3.  
-
-If East is the one who has to play a \C you need to insert the \CT or \CJ from dummy.
-
-In either case you will no longer have a \C loser.}
-[Play "W"]DJ
-

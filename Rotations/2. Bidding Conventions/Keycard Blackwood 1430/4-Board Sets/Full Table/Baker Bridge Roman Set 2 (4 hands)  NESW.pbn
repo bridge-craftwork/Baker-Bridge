@@ -1,100 +1,52 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Roman
+%bridge-classroom-stable: true
+%bridge-context: RKCB 1430; Jacoby 2NT; control bids
 [Event "Baker Bridge - Roman Key Card Blackwood"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:AQ.T74.KJ63.KQJ7 T65.A953.94.9842 KJ7.6.AQT875.AT6 98432.KQJ82.2.53"]
+[Deal "S:JT87.A7.AK63.A82 A4.QJ94.JT82.T74 KQ962.K865.5.KQ3 53.T32.Q974.J965"]
 [Declarer "N"]
-[Contract "6D"]
+[Contract "6S"]
 [Result ""]
 [Auction "S"]
-1NT pass 3D pass 4D pass 4NT pass 5H pass 6D all pass pass pass
+1D pass 1S pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "eb393cce34420ceb8d58ef145f72b4318068a3c383d20e2f32f30811b095970c"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
 [Student "S"]
-{Partner's 3\D bid shows a very good hand with probable slam interest. It is very tempting to say 3NT now but you don't have \Hs stopped and don't know if partner does. So with good \D support you bid 4\D. Partner bids 4NT. What is your response? 
-
-You have 2 Key-Cards, the \SA and \DK. But you don't have the \DQ so you answer 5\H. Partner bids 6\D.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:KT8.AK9864..AKQ7 743.T7.AT85.JT54 A652.QJ52.KJ3.82 QJ9.3.Q97642.963"]
-[Declarer "E"]
-[Contract "6H"]
-[Result ""]
-[Auction "E"]
-1H pass 3H pass 4C pass 4H pass 4NT pass 5C pass 6H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "advanced"]
-[SkillPath "bidding_conventions/roman_keycard"]
-[Student "S"]
-{Your partner's 3\H is a limit-raise, 11-12 points with \H support.  
-
-What you want to know is whether partner holds the \SA. If you bid 4NT and he shows two Key-Cards all will be well, you will know they are the two missing Aces. But if he shows just 1 Key-Card you will be in the soup since you can't tell if that Key-Card is the useful \SA or the practically useless \DA. So you don't use RKCB, you use control-showing and bid 4\C. Partner says 4\H.  
-
-Partner would have control-bid \Ds if he had the Ace. You may not think that helps but it does since now you can bid RKCB. You bid 4NT and he answers 5\C. What is your next bid? 
-
-It was a lot of work but you have figured out that partner holds 11-12 points including one Key-Card which must be the \SA. It looks like the slam is a good idea so you say 6\H.}
+{You have 3 Key-Cards so you bid 5\D. Partner bids 6\S.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:AQ974.8.A632.KQJ .A5432.QJT4.T542 K8652.KJT7..A983 JT3.Q96.K9875.76"]
-[Declarer "S"]
+[Deal "E:AJ972.KQ5.K5.AK6 T6.743.T9874.754 KQ84.AJ6.J3.QJ83 53.T982.AQ62.T92"]
+[Declarer "E"]
 [Contract "6S"]
 [Result ""]
-[Auction "S"]
-1S pass 4D pass 4NT pass 5NT pass 6S pass pass pass
+[Auction "E"]
+1S pass 2NT pass 3NT pass 4H pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "4ce32521c09f2e95eb6679c76e43e59239f1a70ce6a87f593f554e7025a67c61"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
 [Student "S"]
-{Your 4\D bid is a Splinter Bid, showing opening hand strength, at least 4 \Ss, and a singleton or void in \Ds. Partner bids 4NT.  
+{Your partnership plays Jacoby 2NT convention, so partner's 2NT shows a game-forcing raise in \Ss. Your 3NT bid indicates a 5-card suit and "extra values". Partner's 4\H is a control-bid showing the \HA.  
 
-You have 2 Key-Cards, the \SK and the \CA. So do you bid 5\H?
+What you need to know now about partner's hand is Key-Cards so you bid 4NT. He answers 5\S. What is your bid? 
 
-No. You have two Key-Cards <b>AND</b> a void. So you bid 5NT. Partner bids 6\S.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "W"]
-[Vulnerable "All"]
-[Deal "W:KQJ.AT76.AQJ.QJ9 652.2.T8654.A742 AT8.K984.K9.KT65 9743.QJ53.732.83"]
-[Declarer "W"]
-[Contract "5H"]
-[Result ""]
-[Auction "W"]
-2NT pass 3C pass 3H pass 4NT pass 5H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "advanced"]
-[SkillPath "bidding_conventions/roman_keycard"]
-[Student "S"]
-{Your partner's 2NT opener is 20-21 points and the 3\C bid is Stayman.  
-
-You know of 33 points and you know of an 8-card \H fit. The math tells you that 6\H should be a good slam but you might as well check Key-Cards, that's why the convention was invented. So you bid 4NT and partner answers 5\H.  
-
-You say "Darn!" You are missing just one Key-Card, but you are also missing the trump Queen. And with partner holding only a 4-card suit that Queen might well win a trick. Knowing that at best the slam will depend on a trump finesse you pass 5\H.}
+Partner's response says 2 Key-Cards and the \SQ. So you are missing either the trump King or the \DA. So you shouldn't bid 7, but you will almost surely make 6. You bid 6\S.}
 

@@ -1,115 +1,79 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
+%bridge-classroom-stable: true
+%bridge-context: Plain Blackwood; Lebensohl over interference
+{With 12 points and a 4-card Major suit you automatically use Stayman; bid 2\C. Partner responds 2\D.  
+
+With 12 points and a 4-card Major suit you automatically use Stayman; bid 2\C. Partner responds 2\D. 
+
+You have plenty of points for game; with no 4-4 Major suit fit you bid 3NT.
+
+The contract would be 3NT played by North.
+
+South plays 3NT. West leads the \H6.
+
+First big decision. Which \H do you play from dummy?
+
+Winner List: \S = 2 : \H = 1 : \D = 3 : \C = 2 :: Total = 8
+
+The Rule of Eleven tells you there are 5 \Hs in North, East and South which are higher than the \H6. You and dummy hold 4 of them so you can place East with just 1. The missing high cards are \H A J 10 9. Elementary, Watson; East must hold the \H10 because from \H A J 10 6, \H A 10 9 6 or \H J 10 9 6 West would <b>NOT</b> have led the \H6. So your first smart move is to play dummy's \HQ, which holds the trick. What next? 
+
+You need to find one more winner and your best chance is the \C suit. You will need a 3-2 split in the suit, but you must establish the \C winner without letting East get the lead. East is the Danger Hand because he can play a \H throughyour \H K 7. Therefore it would be unwise to play \CA, \CK, then another \C because East is very likely to be the one with 3 \Cs. 
+
+Did you get it? Play a small \C toward your hand and put on the \CT if East plays low. You don't expect the \CT to win the trick, it is more of a duck than a finesse. West takes this with his \CJ but he can do you no harm. If he continues with \Hs your \HK will be a second stopper. If he plays any other suit you will scamper home with your 9 tricks, which of course now include those 3 \Cs.
+
+A duck into the safe hand allowed you to establish the \C winner you needed.
+
+But what if East had figured out what you were going to try and played his \CQ when you led from dummy?
+
+He would have been very, very sorry. You would have had no choice but to win the trick, and when West's \CJ fell on the next trick you would have all 4 \C tricks!}
+[Play "W"]H6
+
 [Event "Baker Bridge - 100 Notrump Deals"]
 [Site ""]
 [Date ""]
-[Board "1"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:K63.AT5.A762.A75 AQJ974..KQJ3.J83 85.QJ97642.9.K94 T2.K83.T854.QT62"]
-[Declarer "N"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1NT 2S 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_notrump"]
-[Student "S"]
-{You would really like to have a transfer bid in this situation, to make South bid \Hs.
-
-But you don't have one, so you just bid 4\H yourself.
-
-North plays 4\H. East leads the \ST. You play low in dummy and East holds the trick. He continues the suit and West takes the \SQ and then plays the \SA.
-
-Loser List: \S = 2 : \H = 1 : \D = 0 : \C = 1 :: Total = 4
-
-You've already lost the 2 \Ss. If East has the \HK you might avoid a loser there. You don't have a winner on which to discard the \C loser. 
-
-If West has the \HK it will have to be a singleton to help you, so it is more logical to play East for the \HK.  But if East does have the \HK it will do you no good to ruff West's \SA, East will over-ruff and you would still have that \C loser. 
-
-So do it this way instead. Discard the \C loser on West's \SA! Another \S from West won't hurt you since dummy would be able to over-ruff East. Whatever West plays you can win, then finesse East out of his \HK.
-
-It was said earlier that you didn't have a winner on which you could discard the \C loser.
-
-That was true, so instead you were able to discard it on a loser! }
-[Play "W"]ST
-
-[Event ""]
-[Site ""]
-[Date ""]
 [Board "2"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AQJT.A65.AQ85.KT 92.JT982.94.A976 753.Q3.KJ62.8542 K864.K74.T73.QJ3"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_notrump"]
-[Student "S"]
-{With 20 HCP and balanced distribution you should open 2NT. Do not let the good 4-card \S suit sway you to anything else. Partner bids 3NT and everybody passes.
-
-South plays 3NT. West leads the \HJ. You try the \HQ, but East plays the \HK.
-
-Winner List: \S = 1 : \H = 0 : \D = 4 : \C = 1 :: Total = 6
-
-You need 3 more winners and at least 2 of them must come from \Ss. Furthermore you don't want East to lead \Cs through your King. Your best hope is that East holds the \SK so you can finesse.  
-
-So you win the \HA and start thinking about dummy entries. Your obvious entries are the \DK and \DJ. If East holds only two small \Ss with his \SK, then two entries will be enough. But what if East holds \S K x x x ? Can you find a third entry to dummy? 
-
-If the \Ds split 3-2 the answer is <b>YES</b>. Play the \DA, then lead your \D8 to dummy's \DJ. Watch carefully to see if both defenders follow to this trick. They do. Play a \S to your \ST, which holds the trick. Play your \DQ to dummy's \DK. Finesse the \S again. Return to dummy by playing your \D5 to dummy's \D6, then finesse the \S one last time.
-
-If the \Ds had split 4-1 you would not have been able to enter dummy three times. That would have been very unlucky.
-
-If you played your \D5 too early you would not have been able to enter dummy three times even when there was a 3-2 split. That would have been very unsmart.}
-[Play "W"]HJ
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
 [Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:AQ9.A642.AT93.AK T8542.Q95.K85.83 KJ3.J83.74.JT954 76.KT7.QJ62.Q762"]
+[Vulnerable "NS"]
+[Deal "N:983.73.AK42.AKQJ AQT.J62.QJT8.964 J752.AK985.73.83 K64.QT4.965.T752"]
 [Declarer "N"]
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2NT pass 3NT pass pass pass
+1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "2c0174c72c279453eaf023ba7edf7ef0ddbbe7c38207b28f07038d049a3afc2a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{You have 6 HCP and a 5-card suit. Although you can't be sure, there is a good chance your hand will be useful to partner.
+{In response to partner's Stayman bid you bid 2\D to indicate no 4-card Major. Partner now bids 2\H.  
 
-So you bid 3NT.
+In response to partner's Stayman bid you bid 2\D to indicate no 4-card Major. Partner now bids 2\H. 
 
-The contract would be 3NT played by South.
+Partner's bid shows 5\Hs, and by inference, 4 \Ss. You hand does not provide an 8-card fit in either Major, so with 17 points you say 3NT.
 
-North plays 3NT. East leads the \S4. You play dummy's \S3 and West contributes the \S6.
+North plays 3NT. East leads the \DQ.
 
- You can get them in \Cs, but only if you are careful. 
+Winner List: \S = 0 : \H = 2 : \D = 2 : \C = 4 :: Total = 8
 
-After you unblock the \C A K you will go to dummy and play the \CJ. Then, after the \CQ is driven out you will return to dummy for the two \C winners. That means you need <b>TWO</b> dummy entries. 
+You need one more winner and without question it must come from the \H suit. 
 
-Those two entries can only be the \SK and \SJ. So you absolutely <b>MUST</b> win the first trick in your hand with the \SA. Then play the \C A K. Over to dummy by playing \S9 to \SJ. Lead the \CJ to drive out the \CQ. Win whatever they return and play \SQ to \SK to reach your two good \Cs.
+Your problem is finding dummy entries, all dummy has is the \H A K. 
 
-When you need dummy entries you may need to win a trick in your hand with an unnecessarily high card - like in this case.
+You must find the \Hs split 3-3. You must also duck a \H to keep a valuable entry. Win the \D and play the \H7, ducking in dummy. 
 
-You can only win 3 \S tricks however you play it, so you play to suit your entry needs.}
-[Play "W"]S4
+West will win the \H and return a \D which you win in your hand. You now play your last \H  to dummy, and if the suit was originally 3-3 you will win 4 \H  tricks.
+
+The "brute force" method for establishing dummy's \H suit would be to play \H A K, then another. If they split 3-3 your last two \Hs would be winners.
+
+Of course you'd look pretty stupid to have those 2 \H winners in dummy and no way to reach them.
+
+So you use the duck instead.}
+[Play "W"]DQ
 
 [Event ""]
 [Site ""]
@@ -117,87 +81,41 @@ You can only win 3 \S tricks however you play it, so you play to suit your entry
 [Board "4"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:AJ5.A63.AK6.JT92 KT862.QT4.J843.6 74.K752.95.AQ843 Q93.J98.QT72.K75"]
+[Deal "S:KT.AK7.QJ95.AK82 AQ4.QJT3.T72.T65 J98752.652.K.974 63.984.A8643.QJ3"]
 [Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "S"]
-1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Practice Deals"]
-[Difficulty "mixed"]
-[SkillPath "practice_deals/100_notrump"]
-[Student "S"]
-{With no 4-card Major suit you respond 2\D to partner's Stayman bid. Partner now bids 2NT.  
-
-With no 4-card Major suit you respond 2\D to partner's Stayman bid. Partner now bids 2NT. 
-
-With a full 17 points you accept partner's game invitation and bid 3NT.
-
-South plays 3NT. West leads the \S6 on which East plays the \SQ.
-
-Winner List: \S = 1 : \H = 2 : \D = 2 : \C = 1 :: Total = 6
-
-You need 3 more tricks, obviously coming from the \C suit.
-
-But the burning question right now is what do you do at trick one. Do you win or hold up? 
-
-You should assume that West holds the \SK.
-
-If you take the \SA right now your \S J 5 will provide a second stopper if it is West who gets the lead. However, if East gets the lead he will play through your holding and you may lose 4 \S tricks.
-
-If you hold up you can expect East to play another \S through your \S A J and West will then establish the suit. However, in doing so he will remove any \S held by East.
-
-The answer key lies in the \C suit. You will be finessing through West, so East is the only defender who can get the lead in \Cs. Therefore you must hold up on \Ss until the third round.
-
-If you win the first \S East will play a \S through your \S J 5 when he wins the \CK. West will then swamp you with \Ss.
-
-But, if you hold up your \SA until the third round, East will have no \S left when he wins the \CK.}
-[Play "W"]S6
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:AQ3.K7.AJT4.K865 87.A9862.K75.QJ3 KJ652.QJT43.83.4 T94.5.Q962.AT972"]
-[Declarer "N"]
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D pass 2H pass 2S pass 4S pass pass pass
+2NT pass 3H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ebff17d09299ca9eb8447514c81f651015d76437a168008023b65e01d86b783d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{When you are 5-5 in the Majors you can transfer to either suit. Most will say transfer first to \Hs when you have invitational strength. So you bid 2\D.
+{With your 6-card Major suit you naturally use a transfer; bid 3\H. Partner responds 3\S.  
 
-Partner says 2\H;  
+With your 6-card Major suit you naturally use a transfer; bid 3\H. Partner responds 3\S. 
 
-When you are 5-5 in the Majors you can transfer to either suit. Most will say transfer first to \Hs when you have invitational strength. So you bid 2\D.
+Partner has at least 20 points so you bid 4\S.
 
-Partner says 2\H; 
+The contract would be 4\S played by North.
 
-Now you show your other 5-card Major by bidding 2\S. This one hits the spot and partner raises to 4\S.
+South plays 4\S. West leads the \HQ and East plays \H4.
 
-North plays 4\S. East leads the \H5. West takes the \HA and returns the \H6 which East ruffs. East then plays the \D2.
+You win the first trick with your \HA. By doing this you leave West in the dark about who holds the \HK. If you had instead won with the \HK West would have known you held both honors since East would have played the \HA if he held it.
 
-Loser List: \S = 0 : \H = 2 : \D = 1 : \C = 1 :: Total = 4
+Loser List: \S = 2 : \H = 1 : \D = 1 : \C = 1 :: Total = 5
 
-That's an odd way to show the second \H loser but you get the idea. You've lost 2 tricks already and it doesn't look like you can dodge the \CA. Soooooo, you cannot afford to lose a \D trick. 
+You have 2 losers to get rid of and the good news is that you can establish 2 \D winners pretty easily. So do you start pulling trumps now? 
 
-Take dummy's \DA and then play \SA, \SK, relaxing a little when both defenders follow suit both times. 
+No, stay away from trumps for now. You might have to lose the lead twice in trumps, and the first time they get the lead they will play another \H and expose the loser in that suit. Then, the next time they get the lead they will take their \H winner. You need to get rid of that \H loser <b>BEFORE</b> you start on trumps. 
 
-Play your three high \Hs, discarding all three \Ds from dummy. Play your \C toward the \CK. East will no doubt grab his \CA but the rest will be yours, since you can ruff your \D loser in dummy. 
+Play a small \D to the \DK. East will take this and play another \H to your \HK. Play your \DQ and discard dummy's \H loser. Now you might just as well ruff that \H in dummy, (with the \S7 to be safe), and play trumps from that side. It turns out that West has both high trumps but you don't care because dummy's \C loser can be dumped on your \DJ.
 
-It was a little unlucky to suffer that early \H ruff.
+The \DA was a "fast" loser which you couldn't avoid. But the \H loser was a "slow" loser. Slow losers can sometimes be discarded, but you may have to do so before you lose the lead too many times.
 
-But it was very very lucky that the ruffer happened to be the defender with three trumps!
-
-That meant you could pull trumps with two pulls, leaving that one important one in dummy.}
-[Play "W"]H5
+Did you notice that if the opening lead had been a \C instead of a \H you would have used the same technique?}
+[Play "W"]HQ
 

@@ -1,0 +1,52 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Jacoby
+%bridge-classroom-stable: true
+%bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids; plain Blackwood
+[Event "Baker Bridge - Jacoby 2NT / Splinters"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:Q74.AQT83.87.KQ6 JT85.64.962.A842 AK3.KJ95.KQJ3.97 962.72.AT54.JT53"]
+[Declarer "N"]
+[Contract "5H"]
+[Result ""]
+[Auction "N"]
+1H pass 2NT pass 4H pass 4S pass 5H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "229237496ab0cf58840c7bd3ec148941295086cf70fc1e4a398b767d6b840d0e"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/jacoby_2nt_splinters"]
+[Student "S"]
+{Partner's bid is game forcing. With a bare minimum, no singletons, you go ahead and sign off in game. Partner then says 4\S.  
+
+Partner is definitely showing slam interest. If you had a first round control in either Minor suit you would bid it now. But you don't. So you sign of again, this time at 5\H. Partner finally gives up on the idea of slam and passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A98753.95.KQJT.A T.AKJT72.64.9765 KQJ42..9753.KQ84 6.Q8643.A82.JT32"]
+[Declarer "E"]
+[Contract "6S"]
+[Result ""]
+[Auction "E"]
+1S pass 4H pass 5C pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "6bdfe970d0c8d5d0194a9763dc8d58a138de3a6e4d13690dfbb600d4e288adf8"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/jacoby_2nt_splinters"]
+[Student "S"]
+{You want to force partner to game while you describe your hand. So you make a Splinter Bid of 4\H. Partner replies 5\C.  
+
+Partner has the \CA. Good. You are pretty worried about \Ds and also your 11 high card points. You are tempted to just sign off at 5\S but you shouldn't. You can make a control-bid below the 5\S level. So you bid 5\H. This tells partner that your Splinter must have been a \H void. Partner bids 6\S.}
+

@@ -1,0 +1,72 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent ThirdHand
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
+[Event "Baker Bridge - Third Hand Play"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJ97.KQ653.T.A64 AK4.A74.AK73.Q52 T83.T2.QJ8642.83 652.J98.95.KJT97"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+1H X pass 2C pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3728495567284aef35f37add46d0452cc38ba8ec9fa17e50e5b6b743bebd2301"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/third_hand_play"]
+[Student "E"]
+{[showcards W:HT N:HJ]
+
+The bidding has been as shown. Partner led the \H10, dummy played the \HJ 
+
+Play the \H6.
+
+Declarer gets two \H winners whether you play one of your honors on this trick or not. So why does it matter what you do?
+
+Suppose you cover with your \HQ. South will win his \HA, then play \Cs until your \CA is forced out on the third round. He can then force an entry to dummy in the \H suit to reach the two \C winners.
+
+Now suppose you duck the \HJ. Again South will push \Cs, and again you hold up until the third round. Ahh, what a difference. Now declarer cannot use the \Hs to enter dummy and he will never get to enjoy those two \C winners.}
+[Play "W"]HT
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:7542.KQ.A5.KJT85 KT986.874.Q74.AQ AJ3.AJ3.KT92.973 Q.T9652.J863.642"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1C 1S 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5460cec4bcb4e64ca93059aaa8aae68d093c4adc2a62ee520ef124a810e32fb8"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/third_hand_play"]
+[Student "E"]
+{[showcards W:SQ N:S2]
+
+The bidding has been as shown. Partner led the \SQ, a low card was played from dummy, 
+
+Play the \SK.
+
+It seems that perhaps you should play low and let partner's \SQ force out South's \SA. Then, when you get the lead with a high \C you can force out South's \SJ. Get the lead with your other high \C and set the contract with \Ss.
+
+Suppose you try that. Play low on the first \S. South will also play low and West will be left holding the trick, and also holding the bag! With no more \Ss West will have to play one of the other three suits, and that is just what South wants to have happen. The contract could no longer be beaten.
+
+Now do it the right way. Play your \SK on partner's \SQ. Assume South takes the trick, although it doesn't matter whether he wins the first one or holds up. When you win your first \C drive out South's \SJ. When you win your second \C trick your \Ss will be good. If you overtake the first trick the contract can no longer be made.
+
+Notice that South will always make two \S tricks, so your overtake costs nothing.}
+[Play "W"]SQ
+

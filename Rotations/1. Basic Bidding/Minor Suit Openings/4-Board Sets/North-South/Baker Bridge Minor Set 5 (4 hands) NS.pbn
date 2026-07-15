@@ -1,98 +1,60 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Minor
+%bridge-classroom-stable: true
+%bridge-context: No 2/1; plain Blackwood
 [Event "Baker Bridge - Minor Suit Openings"]
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AK63.K9.A83.Q975 T7.853.KQJ64.AT3 J985.Q74.T5.K862 Q42.AJT62.972.J4"]
-[Declarer "N"]
-[Contract "3S"]
-[Result ""]
-[Auction "S"]
-1C pass 1S pass 3S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/minor_suit_openings"]
-[Student "S"]
-{You must make a weak response, and in theory there are 3 weak responses you could make with this hand. You could bid 2\C, 1\S or 1NT. And while none of them would be actually incorrect the best choice is to show your 4-card Major.
-
-You bid 1\S. Partner jumps to 3\S.  
-
-You started with just 6 points, and after discovering the \S fit you revalue all the way up to 7 points. Partner has shown 16-18 and that's still not enough for game. You pass.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:A93.AT83.KQJ6.QJ KQ76.62.74.A9753 84.KQ97.AT5.T862 JT52.J54.9832.K4"]
-[Declarer "S"]
-[Contract "4H"]
+[Deal "N:AJT.QT7.KJ6.AK83 K985.A2.97542.Q9 Q742.KJ5.A83.T76 63.98643.QT.J542"]
+[Declarer "N"]
+[Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1D pass 1H pass 3H pass 4H pass pass pass
+1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "772164cca6fca1ba2d2485f5f15ff47bf32e97b5eabc409e9c1b45689169c0d9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
 [Student "S"]
-{Your top priority as responder is to show a Major suit if you have one, so you say 1\H. Partner jumps to 3\H.  
+{You dealt this hand.  
 
-Partner knows you may have only 6 points and went to the 3-level anyway. He is inviting you to bid game if you have a bit more than the 6 you promised. You revalue up to 10 so you have quite a bit more. You accept his invitation and bid 4\H.}
+This would be an ideal hand to open 1NT - well, it would be with one less point. But with 18 you are too strong to open 1NT so you open 1\C. Partner responds 1\S.  
+
+<b>DO NOT</b> fall into the trap of supporting partner's \Ss just because you have such nice help for him. He might have a 4-card suit. Instead, just describe your hand by jumping to 2NT, showing a balanced hand with 18-19 points. Partner now bids 3NT and you play it there.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "EW"]
-[Deal "S:QT86..KQJT.KQJT8 A.T9753.76532.65 KJ953.AK64.9.A97 742.QJ82.A84.432"]
-[Declarer "N"]
-[Contract "5S"]
-[Result ""]
-[Auction "S"]
-1C pass 1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/minor_suit_openings"]
-[Student "S"]
-{You have a very big hand. But there is no need to start jumping before you know whether you have a fit. So just bid 1\S, partner cannot pass this bid.
-
-Partner now surprises you with a jump to 3\S!.  
-
-Wow! Partner has 16 and you have more than that. Slam appears certain, by why not check for Aces? So you bid 4NT and partner answers 5\C. What do you say next? 
-
-You probably say "Oh Darn!" or perhaps something less printable. But then you just sign of at 5\S.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "All"]
-[Deal "S:9.AK8.AJT64.KQJ2 AJ8753.T643.8.A6 KT6.75.KQ953.974 Q42.QJ92.72.T853"]
+[Deal "N:QJ6.AK7.Q864.AK8 53.T632.JT95.QJ2 KT9742.QJ5.3.743 A8.984.AK72.T965"]
 [Declarer "S"]
-[Contract "5D"]
+[Contract "4S"]
 [Result ""]
-[Auction "S"]
-1D pass 2D pass 4D pass 5D pass pass pass
+[Auction "N"]
+1D pass 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "3969570423bd82d757846bb9c1cab594218ffca28ccb6c3078ae9e1b250bbf83"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
 [Student "S"]
-{That is great support, but always remember when supporting a Minor that partner might have only 3 of them. So you bid 2\D. Partner jumps to 4\D.  
+{You dealt this hand.  
 
-You were cautious with your first bid, but that is over now. Partner didn't open with a 3-card suit, he really has \Ds. He bypassed 3NT in a flash, so he has no interest in playing anywhere but a \D contract. He invites you to bid game if you have something extra above the 6 points you already promised. You have a lot more than that, so you bid 5\D.}
+You open 1\D and partner responds 1\S. What is your next bid? 
+
+Do not support what may be a 4-card suit with only 3 cards. Instead, jump to 2NT, showing 18-19, balanced. Partner rebids the \Ss. What do you say next? 
+
+Partner shows a minimum hand, but with 6 \Ss. 3NT is very tempting, and might work out fine, but with 9 \Ss it is probably better to play the suit game. So you bid 4\S and everybody passes.
+
+Bidding 4\S was a good choice. It makes easily, yet 3NT might have gone down.}
 

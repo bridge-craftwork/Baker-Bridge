@@ -1,0 +1,64 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Notrump
+%bridge-classroom-stable: true
+%bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only); plain Blackwood; Gerber 4C over NT openings
+{The bidding has been as shown.   
+
+With 16 points you may be in slam range. You should alert partner of your big hand by jumping to 3\C. Partner says 4\C and it is your bid again. 
+
+Don't make the mistake of bidding Blackwood when you have a doubleton-nothing in a suit. If partner has only one Ace you will be left not knowing what to do. Instead make a control-bid showing your \DA. Now partner bids 6\C which ends the auction.}
+
+[Event "Baker Bridge - Notrump Openings"]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQ9.AJT.AQ2.AJT4 AT73.K832.J5.KQ5 85.97.KT9873.962 J642.Q654.64.873"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "2994798ee4306a034d26e7cab9515231709f20bae1a846ea28f0622ac0cd6dbd"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You have 5 points, all in \Ds. That will take the partnership total to either 25 or 26, so you have a judgement call. If partner is unable to establish your \Ds then even 2NT will probably be too high, so you might as well assume that he will be able to use them and bid 3NT.
+
+You hit the jackpot.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:QT2.KQJ.AQ95.AJ5 A4.T9764.J832.T3 KJ98753.A8.6.KQ2 6.532.KT74.98764"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+2NT pass 4C pass 4S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "4a3da30e349388557383781b830831264ddf020616306d3fd079e1a1eff0b399"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You and partner better have a good agreement on which Ace-asking convention you use because you're going to use it now. Let's say it is Gerber. 
+
+You bid 4\C and partner replies 4\S.  
+
+Missing one Ace you settle for the small slam.}
+

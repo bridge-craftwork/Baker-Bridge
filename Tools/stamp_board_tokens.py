@@ -290,8 +290,9 @@ def self_check():
 def main():
     self_check()
 
-    target = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
-        os.path.dirname(os.path.abspath(__file__)), "..", "Package")
+    target = (sys.argv[1] if len(sys.argv) > 1 else None) \
+        or os.environ.get("BB_PACKAGE_DIR") \
+        or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Package")
     pbn_files = sorted(glob.glob(os.path.join(target, "*.pbn")))
     if not pbn_files:
         print(f"No PBN files found in {target}")

@@ -1,0 +1,72 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent SecondHand
+%bridge-classroom-stable: true
+%bridge-context: Standard carding
+[Event "Baker Bridge - Second Hand Play"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJ94.AKQJT.A.AK5 QT8532.73.QJT.94 K6.852.97542.Q73 7.964.K863.JT862"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 2H pass 3H pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "91d045dd40095157c3f7a8e57ede94b116c9d74769e45f09790e1fc78a065f48"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/second_hand_play"]
+[Student "E"]
+{[showcards N:S6]
+
+You are West. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and North won the \DA.
+
+North then played low to dummy's \SK, and led dummy's \S6. Your decision is not whether to play high or low, but whether to ruff or not, which amounts to the same thing.
+
+Do not ruff.
+
+Even though North holds the \SA, if you ruff now he will just put on a small \S and you will be ruffing a loser. Instead discard a \D.
+
+North will win the \SA, but will not be able to ruff any \S losers in dummy because your trumps can overruff any of South's trumps.
+
+Suppose you had ruffed the \S. North would have played his \S9, leaving himself with \S A J. He would then get the lead and pull your two remaining trumps. That would leave one trump in dummy to ruff his \SJ, his only remaining loser.}
+[Play "W"]DQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K85.74.AK73.A762 Q92.Q3.QJT6.KQJ8 J63.AKT98.82.T94 AT74.J652.954.53"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "S"]
+1D pass 1H pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a9ff8f034b57ff7c87964c2eb8107c26856f27a9ac5dcc6f89f8e0b777fa44af"]
+[Category "Defense"]
+[Difficulty "intermediate"]
+[SkillPath "defense/second_hand_play"]
+[Student "W"]
+{[showcards S:H4]
+
+You are West. The bidding has been as shown.
+
+You lead the \CK and continue with the \CJ then \CQ, taken by South's \CA. To trick 4 South plays the \H4. What do you play?
+
+Play the \HQ.
+
+To see why you should play the \HQ, just visualize the result if you play low. South will finesse with dummy's \H8. If East wins his \HJ on this trick there will be 4 good \H tricks in dummy. If East withholds his \HJ then Declarer will have 3 \H winners.
+
+Now visualize the result of playing the \HQ. Whether South takes this trick or not he cannot win more than 2 \Hs.}
+[Play "W"]CK
+

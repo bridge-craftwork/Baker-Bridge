@@ -1,0 +1,59 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-BasicMajor
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Very Basic Major Suit Bidding"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T92.AK542.85.AKQ K53.98.T9762.T64 764.Q763.AJ4.985 AQJ8.JT.KQ3.J732"]
+[Declarer "N"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+1H pass 2H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{NORTH opens 1\H with 17 points and five \Hs.
+
+SOUTH, with 7 points and four trumps raises to 2\H.
+
+NORTH has a mid-range hand, good enough to invite SOUTH to bid the game.
+
+Too bad, but SOUTH is too weak to accept any invitations.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:A63.9853.8643.92 Q92.T6.KQ2.KT875 KJ874.K72.A95.AQ T5.AQJ4.JT7.J643"]
+[Declarer "E"]
+[Contract "1S"]
+[Result ""]
+[Auction "W"]
+pass pass 1S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "825ccd283e150cdc361d8f8523c4c7ae3714811aaa387ac36a2a51f52e6ee1e1"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{WEST has a terrible hand, and naturally passes.
+
+EAST, however, has a nice 18 points and opens 1\S.
+
+WEST still has a terrible hand, and passes again. You need at least 6 points to respond to 
+an opening one bid.}
+

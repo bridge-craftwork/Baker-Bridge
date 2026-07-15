@@ -1,7 +1,8 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Entry Management"]
 [Site ""]
 [Date ""]
@@ -16,6 +17,7 @@
 1H pass 1S pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "881b44891120bdb5792e3c4150dd83598704fff7e04b58918a3d03c645afdf29"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -42,7 +44,7 @@ Making a plan before they play to the first trick is one of the strengths of win
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:765.62.QJ9.JT985 QT83.QJ97.74.A62 AJ4.AK54.A63.KQ3 K92.T83.KT852.74"]
@@ -52,7 +54,8 @@ Making a plan before they play to the first trick is one of the strengths of win
 [Auction "N"]
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "b2f794bbde1b62e08090381bdda05b25952b222908f54ccdf4bc7f34b08c5bc2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -75,72 +78,4 @@ It goes against the grain to put your \DA on a trick that dummy has already won 
 
 But look carefully at the \D situation. You are going to get exactly two \D tricks no matter when you play your \DA. So you don't lose a trick, but you do gain an entry.}
 [Play "W"]D5
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:AK4.KJ954.AT.A62 Q9862.A8.K42.985 75.63.QJ9873.QJ3 JT3.QT72.65.KT74"]
-[Declarer "S"]
-[Contract "3NT"]
-[Result ""]
-[Auction "N"]
-1H pass 1NT pass 3NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/entry_management"]
-[Student "S"]
-{South is to play 3NT. West leads the \C4.
-
-Winners:   \S=2  \H=0  \D=1  \C=1  Total = 4
-
-Looks like you're going to need some \D tricks. Lots of them. And it also looks like you are going to have to be very careful with entries, which shouldn't surprise you at this time. So what is your first key move?
-
-The \C situation is exactly the same as the \Ds in Deal 2, but flipped North to South. And you must handle it exactly the same way - jump up with the \CA right away to preserve the \C Q J combination as a sure entry to your hand.
-
-Having done that, are your problems (and thinking) over?
-
-Not quite, there is one more hurdle to hurdle. You must put all thought of a \D finesse far out of your mind. Play \DA, then \D10, overtaking with \DJ and continuing the suit until the King appears. Now you should be able to come to 9 tricks unless there is a very unfortunate distribution which lets the defenders score 3 \H tricks along with their 1 \C and 1 \D.
-
-Once again notice that playing the \CA at trick one doesn't cost a thing, you get two \C tricks however you play it.}
-[Play "W"]C4
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AQJ7.KQJ985.8.62 T2.T2.Q964.AKQ83 863.A743.J73.J94 K954.6.AKT52.T75"]
-[Declarer "S"]
-[Contract "4H"]
-[Result ""]
-[Auction "S"]
-1H pass 2H pass 4H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Declarer Play"]
-[Difficulty "intermediate"]
-[SkillPath "declarer_play/entry_management"]
-[Student "S"]
-{South is to play 4\H. West leads the \CA, \C K, \CQ.
-
-Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
-
-There is nothing to be done about the 2 \Cs you've already lost, and the \D loser is also inescapable. So you cannot afford a \S loser which means you will have to find the \SK with East and finesse him out of it.
-
-That won't be a problem, will it?
-
-No, no problem. You will probably have to finesse twice so you will need two dummy entries, but the trump suit will provide both of those, the \HA and \H7, as long as you saved your \H5 for the second entry. Wait a minute, you surely didn't ruff that \C with your \H5 did you? Surely you ruffed with the \H8?
-
-So, you ruffed the \C with the \H8, pulled one round of trumps with the \HK, pulled the last trump by playing \H9 to \HA and finessed the \S. Then \H5 to \H7, finesse the \S a second time. Play \SA and ruff the fourth \S in dummy.
-
-If you ruffed with the \H8 that is a good sign. But remember, this is the fourth Deal of a set where you are watching entries carefully.
-
-Ask yourself if you would have done the correct thing at the table, say playing for the Bermuda Bowl championship.}
-[Play "W"]CA
 

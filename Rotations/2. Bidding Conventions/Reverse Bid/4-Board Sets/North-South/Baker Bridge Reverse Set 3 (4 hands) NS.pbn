@@ -1,98 +1,57 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-02-27 12:57:36
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
+%bridge-classroom-stable: true
 [Event "Baker Bridge - Reverse Bids"]
 [Site ""]
 [Date ""]
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:63.K5.KQJ6.AKT72 JT87.QJ97.AT2.Q6 Q52.A863.753.843 AK94.T42.984.J95"]
+[Deal "N:6.AKQ4.963.AQJT3 K742.973.AK52.96 AQ985.T865.84.K7 JT3.J2.QJT7.8542"]
 [Declarer "N"]
-[Contract "3C"]
+[Contract "4H"]
 [Result ""]
 [Auction "N"]
-1C pass 1H pass 2D pass 3C pass pass pass
+1C pass 1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "cccd41802764a07a7d07f3017305090a5d28dbd61ec20d3e78c49af40d8b90c1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{With 17 points you have a perfect hand for a Reverse. So you bid 2\D. Partner then says 3\C.  
+{With his Reverse, partner has shown at least 17 points and at least 4 \Hs.
 
-Partner's return to your \C suit shows he has fewer than 9 points. Although it is possible to devise a hand for him where your side could make 3NT, the risk is too great.
+You could fall back on the guidelines and say that with 10 points you need to make a positive bid at this time, but it is simpler to just rely on "SHE WHO KNOWS, GOES."
 
-So you pass. It's a good thing, too.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "2"]
-[Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:J73.J.AK64.AK983 AK962.A6.T975.42 T85.KQ9874.83.76 Q4.T532.QJ2.QJT5"]
-[Declarer "S"]
-[Contract "2H"]
-[Result ""]
-[Auction "N"]
-1C pass 1H pass 2D pass 2H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/reverse_bids"]
-[Student "S"]
-{You have 7 points, and basically nothing but s\H. You must make a minimum bid, and the only reasonable one is 2\H. Despite his 17 points, partner passes.}
+Since you know of an 8-card \H fit and at least 27 points you bid 4\H.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:7.AQJ9.KQJ764.A3 Q9542.T8.A53.KT2 AK86.72.T98.7654 JT3.K6543.2.QJ98"]
-[Declarer "N"]
-[Contract "5D"]
-[Result ""]
-[Auction "N"]
-1D pass 1S pass 2H pass 3D pass 5D pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/reverse_bids"]
-[Student "S"]
-{You have an ideal hand for a Reverse, so you bid 2\H.
-
-Partner now bids 3\D.  
-
-Partner has a minimum hand, but at least he came up with a preference for \Ds.
-
-There are no guarantees here, but you should probably try 5\D.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "4"]
-[Dealer "N"]
-[Vulnerable "All"]
-[Deal "N:J5.AT.AQJ3.KQ986 AT8.KQ93.9642.54 KQ9743.872.K5.T3 62.J654.T87.AJ72"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ64.AKJ76.K6.5 98.Q53.JT7.K7632 T75.82.AQ53.JT84 A32.T94.9842.AQ9"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
-[Auction "N"]
-1C pass 1S pass 2D pass 3S pass 4S pass pass pass
+[Auction "S"]
+1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "20376091cbbbbb34fd6570a4fa0452817327d32f5d4a6ab0da6a6057b7d3ae17"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
 [Student "S"]
-{With 18 points you have enough to make a Reverse. So you bid 2\D. Partner now says 3\S.  
+{It may be tempting to open 1\H, planning on Reversing in \S at your second turn to show your big hand.
 
-Partner's jump bid shows a 6-card suit and enough points to insist on game. With your \H stopper you might be considering 3NT, but since you know of an 8-card \S fit you decide on 4\S.
+Don't. A Reverse should always show an unbalanced hand with the first suit longer. So you open 1\S and partner replies 2\S.
 
-Be very glad that you did.3NT would go down with a \H opening lead while 4\S is cold.}
+If you had opened 1\H partner would have replied 1NT. Then when you Reversed with 2\S he would have assumed you had a 4-card \S suit and would probably have put you back in \Hs, your known 5-card suit.
+
+Things would have gotten confusing, to say the least.}
 

@@ -1,0 +1,72 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-StaymanTransfers
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Stayman and Jacoby Transfers"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ5.AK6.AQ2.T762 T98.9432.J98.A94 Q742.QJT75.K6.83 A63.8.T7543.KQJ5"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH, with a 5-card AND a 4-card Major first uses Stayman.
+
+NORTH denies a 4-card Major, so SOUTH realizes that \Ss are out. 
+He then bids \Hs, promising five of them.
+
+NORTH not only has three \Hs, she also has 17 points so 
+she bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKJ5.K6.AQ62.T72 T986.2.954.AK965 Q742.QJT75.K7.83 3.A9843.JT83.QJ4"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e0442c581a98c98f349465bb7454c4a79dbd90ddf6958048e4d530565b09f5fb"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{This is a companion hand to Deal 16.
+
+SOUTH shows four \Ss following NORTH's Stayman bid.
+
+So NORTH ignores her five \Hs, having already found 
+an 8-card Major suit fit. With the fit her hand now revalues to 11 points so she bids 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK5.K6.AQ62.JT72 J986.A4.JT8.A964 Q742.QJT75.K7.83 T3.9832.9543.KQ5"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]

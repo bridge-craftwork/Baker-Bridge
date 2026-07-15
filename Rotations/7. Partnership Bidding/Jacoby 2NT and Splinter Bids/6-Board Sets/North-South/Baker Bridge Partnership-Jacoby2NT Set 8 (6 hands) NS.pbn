@@ -1,0 +1,86 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Partnership-Jacoby2NT
+%bridge-classroom-stable: true
+%bridge-context: Jacoby 2NT (1M-2NT = GF raise); Splinter bids
+[Event "Baker Bridge - Jacoby 2NT and Splinter Bids"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQJ86.85.3.AQ963 T5.KQ9.QJ965.JT2 K973.A42.AK82.K8 42.JT763.T74.754"]
+[Declarer "N"]
+[Contract "7S"]
+[Result ""]
+[Auction "N"]
+1S pass 2NT pass 4C pass 4NT pass 5H pass 7S all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "cd7c0f45c87c89df06a31b1f975b5ab31ccec0bb13db78b27e0ba24c219e732b"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH might jump-shift, but with no 5-card suit prefers to use Jacoby 2NT.
+
+NORTH shows some extra strength plus a 5-card \C suit with his 4\C bid. 
+
+When SOUTH's Blackwood discovers two Aces in NORTH's hand she goes right to 7\S. 
+She knows NORTH has only three red cards and her \HA 
+\D A K will take care of them. She figures NORTH can ruff 
+out any \C losers.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:A95.KQJ72.AQ.964 T842.64.932.AJ52 KQJ.AT93.K8754.8 763.85.JT6.KQT73"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H pass 4C pass 4D pass 4H pass 4S pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a7a9640068ab0f4413767793a761156dd53cf06c00dcc9387a663ed47d15b9d6"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{NORTH bids 4\C, showing \H support, 13+ points and a singleton 
+or void in \Cs.
+
+SOUTH first shows her \DA, then, when NORTH signs off, 
+makes one more try by showing her \SA.
+
+NORTH finally gets inspired and bids the slam.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ9762.KQJ2.A8.5 T.T8753.T943.QJ3 AJ53.A6.KJ72.874 84.94.Q65.AKT962"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1S pass 2NT pass 3C pass 3H pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "9ae2fd6f320bba706218d0ae3c533bb460c744555cba7702ee83b0cca94f8178"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH has a very minimum 2NT bid, but when NORTH shows \C shortness she can Control-bid 
+her \HA without showing extra values.
+
+NORTH's hand became huge when he heard about SOUTH's \HA. 
+When Blackwood shows they hold three Aces he bids what he expects to be a comfortable slam.}
+

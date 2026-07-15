@@ -1,0 +1,54 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Negative
+%bridge-classroom-stable: true
+%bridge-context: Negative Doubles, no upper level
+[Event "Baker Bridge - Negative Doubles"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT98.AK764.4.A96 A6.T95.AKQJ87.72 QJ73.QJ.965.KQ84 542.832.T32.JT53"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1H 2D X pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b4709d72943fdfd69fc56b2e9aa7cfba0c7aa12e3d808127629abcc6145e1010"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Sometimes using Negative Doubles seems like you can read minds. You know for sure that partner has 4 \Ss since that is the only unbid Major. You know for sure that partner has 10+ points because he made a Negative Double of a 2-level overcall. So you conclude that your side has 8 \Ss and 27+ points . . .. . . and you bid 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:86.Q975.KQT.AQJ5 QJ.K43.AJ875.K72 KT94.AJ8.932.T96 A7532.T62.64.843"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "S"]
+1C 1D 1S pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5a93fc95f704fe77135c282514c5e7a7131733e129b0fb8496dac6d45a9df806"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+The general guideline for a Negative Double when both Majors are unbid is that you must have 4+ cards in at least <b>ONE</b> of the Majors. But for this specific sequence, 1\C - 1\D, you do not double unless you have <b>BOTH</b> Majors. When you have only one of them you just bid it. Like this hand. You bid 1\S. Partner rebids 1NT.  
+
+Partner has a minimum hand and fewer than 4 \Ss. A good time for you to pass.}
+

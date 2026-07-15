@@ -1,0 +1,60 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent Major
+%bridge-classroom-stable: true
+%bridge-context: No Jacoby 2NT; plain Blackwood
+[Event "Baker Bridge - Major Suit Openings"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQT93.A92.KQJ3.4 65.QJT6.96.J9863 KJ72.85.742.AKQ5 84.K743.AT85.T72"]
+[Declarer "N"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1S pass 2C pass 2D pass 4S pass 4NT pass 5D pass 6S all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a0435a9b730d4ea1ba41de1d5f0c046afc610aaa25c380111ccc447689267d3f"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/major_suit_openings"]
+[Student "S"]
+{The bidding has been as shown.  
+
+As soon as partner opens 1\S you know you will settle for nothing less than the \S game. The problem with bidding 4\S right now is that partner will take you for the "weak-distributional-with-five-trumps" hand. So you temporize by first bidding 2\C. Partner rebids 2\D.  
+
+You now jump to 4\S, completing the picture of an opening hand with good \S support. Partner bids 4NT. What say you? 
+
+This is Blackwood so you answer 5\D for one Ace. Partner says 6\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:75.AKT764.KJ.QJT J432.Q.742.96542 AKT8.9853.QT96.8 Q96.J2.A853.AK73"]
+[Declarer "E"]
+[Contract "4H"]
+[Result ""]
+[Auction "E"]
+1H pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ea76c5b3e19e0d28c04d923d48de244787f97bbb74f4ce05ea5e96912fca814b"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/major_suit_openings"]
+[Student "S"]
+{The bidding has been as shown.  
+
+You could bid 1\S. Many would do so, thinking "I have to show partner my \S suit."
+
+In fact, you don't have to show partner your \S suit. You already know of a partnership 9-card fit in \Hs, so there is no reason to search for a possible 8-card fit in \Ss.
+
+With 11 points and 4 trumps you bid 3\H, a limit raise. Partner raises to game.}
+
