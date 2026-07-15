@@ -562,12 +562,27 @@ action_block_replicate() {
 }
 
 #---------------------------------------------------
+# A lesson gets a Declarers Plan only if it is a declarer-play lesson. For bidding lessons the
+# play is essentially automatic, so the plan is not useful teaching material -- and it is by
+# far the largest artifact (bridge-wrangler renders it as raster card images, ~3.8 MB each),
+# so omitting it elsewhere cuts the output size dramatically. The category is the first path
+# segment of the lesson path; override the match with DECLARER_PLAN_CATEGORY.
+is_declarer_play_lesson() {
+    local category="${1%%/*}"
+    [[ "$category" == *"${DECLARER_PLAN_CATEGORY:-Declarer Play}"* ]]
+}
+
 # Action: declarers_plan
 #---------------------------------------------------
 action_declarers_plan() {
     local file="$1"
     shift
     local slices=("$@")
+
+    if ! is_declarer_play_lesson "$file"; then
+        trace "Skipping declarers plan (not a declarer-play lesson): $file"
+        return
+    fi
 
     if [[ ! -x "$BRIDGE_WRANGLER_PATH" ]]; then
         error "bridge-wrangler not found at $BRIDGE_WRANGLER_PATH"
@@ -770,39 +785,34 @@ action_merge_handouts() {
             [[ -f "$f" ]] && intro_pdf="$f" && break
         done
 
-        # Find each set's Declarers Plan PDF and merge with its companions
-        for plan_pdf in "$full_table"/*"Declarers Plan.pdf"; do
-            [[ -f "$plan_pdf" ]] || continue
+        # Drive the merge off each set's lesson-hands (NESW) PDF, NOT the Declarers Plan --
+        # the plan is optional (declarer-play lessons only), but every lesson still gets a
+        # handout (intro + dealer summary + hands, plus the plan when it exists).
+        for nesw_pdf in "$full_table"/*\ NESW.pdf; do
+            [[ -f "$nesw_pdf" ]] || continue
 
-            # Derive companion file names from the Declarers Plan name
-            # e.g., "Baker Bridge Ogust Set 1 (4 hands) NESW Declarers Plan.pdf"
-            #     → "Baker Bridge Ogust Set 1 (4 hands) NESW Dealer Summary.pdf"
-            #     → "Baker Bridge Ogust Set 1 (4 hands) NESW.pdf"
-            local base="${plan_pdf% Declarers Plan.pdf}"
+            # e.g. "Baker Bridge Ogust Set 1 (4 hands)  NESW.pdf"
+            local base="${nesw_pdf%.pdf}"
             local summary_pdf="${base} Dealer Summary.pdf"
-            local nesw_pdf="${base}.pdf"
+            local plan_pdf="${base} Declarers Plan.pdf"   # present only for declarer-play lessons
 
             if [[ ! -f "$summary_pdf" ]]; then
                 warn "Missing dealer summary for merge: $summary_pdf"
                 continue
             fi
-            if [[ ! -f "$nesw_pdf" ]]; then
-                warn "Missing NESW PDF for merge: $nesw_pdf"
-                continue
-            fi
 
             # Derive handout name: strip the "(N hands) NESW" portion
-            # "Baker Bridge Ogust Set 1 (4 hands) NESW" → "Baker Bridge Ogust Set 1"
             local handout_base=$(basename "$base" | sed -E 's/ *\([0-9]+ hands\) +NESW$//')
             local handout_pdf="$full_table/${handout_base} Handouts.pdf"
 
-            # Stage components with numeric prefixes to control merge order
+            # Stage components with numeric prefixes to control merge order.
             local components="$full_table/.components"
             mkdir -p "$components"
-            [[ -n "$intro_pdf" ]] && cp "$intro_pdf" "$components/1. Intro.pdf"
-            cp "$plan_pdf" "$components/2. Declarers Plan.pdf"
-            cp "$summary_pdf" "$components/3. Dealer Summary.pdf"
-            cp "$nesw_pdf" "$components/4. Lesson Hands.pdf"
+            local n=1
+            [[ -n "$intro_pdf" ]]  && cp "$intro_pdf"   "$components/$n. Intro.pdf"          && ((n++))
+            [[ -f "$plan_pdf" ]]   && cp "$plan_pdf"    "$components/$n. Declarers Plan.pdf"  && ((n++))
+            cp "$summary_pdf" "$components/$n. Dealer Summary.pdf" && ((n++))
+            cp "$nesw_pdf"    "$components/$n. Lesson Hands.pdf"
 
             trace "Merging handout: $handout_pdf"
             "$PDF_HANDOUTS_PATH" merge -o "$handout_pdf" \
