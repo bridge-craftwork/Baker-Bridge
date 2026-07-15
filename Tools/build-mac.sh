@@ -78,6 +78,19 @@ PUBLISH_DIR="${BB_PUBLISH_DIR:-/Users/rick/Library/CloudStorage/GoogleDrive-brid
 # Tool paths
 DEALER_PATH="$HOME/Development/GitHub/dealer3/target/release/dealer"
 BRIDGE_WRANGLER_PATH="$HOME/Development/GitHub/bridge-wrangler/target/release/bridge-wrangler"
+# Shared (collection-agnostic) lesson-statistics tool from bridge-lesson-packaging.
+STATS_TOOL="${STATS_TOOL:-$HOME/Development/GitHub/bridge-lesson-packaging/stats.py}"
+
+# Build-duration accumulator (label<TAB>seconds), reset at the start of a full build and read
+# by the `stats` phase. `timed <label> <cmd...>` runs a phase and records how long it took.
+BUILD_DURATIONS_TSV="$SCRIPT_DIR/.build-durations.tsv"
+timed() {
+    local label="$1"; shift
+    local t0=$SECONDS
+    "$@"; local rc=$?
+    printf '%s\t%d\n' "$label" "$((SECONDS - t0))" >> "$BUILD_DURATIONS_TSV"
+    return $rc
+}
 
 # Build phases: name|description
 PHASES=(
@@ -97,6 +110,7 @@ PHASES=(
     "export|Export bridge-classroom contract files from Collection"
     "presentation|Create presentation structure"
     "rotate|Generate rotations for multi-table play"
+    "stats|Lesson statistics (JSON + HTML) via the shared tool"
     "publish|Publish Rotations/ to the public Google Drive teacher folder (delete + copy; explicit, excluded from '*')"
 )
 
@@ -406,6 +420,31 @@ phase_rotate() {
     echo "Output: Rotations/ ($ROT_COUNT files)"
 }
 
+phase_stats() {
+    step "Lesson Statistics (shared tool)"
+    cd "$SCRIPT_DIR"
+    if [[ ! -d "$REPO_ROOT/Rotations" ]]; then
+        warn "Rotations/ not found; skipping stats"; return 0
+    fi
+    if [[ ! -f "$STATS_TOOL" ]]; then
+        warn "stats tool not found at $STATS_TOOL (bridge-lesson-packaging); skipping"; return 0
+    fi
+    # Convert the accumulated durations TSV to JSON for the report.
+    local dur_arg=()
+    if [[ -s "$BUILD_DURATIONS_TSV" ]]; then
+        local dur_json="$SCRIPT_DIR/build-durations.json"
+        awk 'BEGIN{print "{"} {printf "%s  \"%s\": %s", (NR>1?",\n":""), $1, $2}
+             END{print "\n}"}' "$BUILD_DURATIONS_TSV" > "$dur_json"
+        dur_arg=(--durations "$dur_json")
+    fi
+    python3 "$STATS_TOOL" "$REPO_ROOT/Rotations" --name "Baker Bridge" \
+        "${dur_arg[@]}" \
+        --generated-at "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+        --json "$REPO_ROOT/Rotations/stats.json" \
+        --html "$REPO_ROOT/Rotations/stats.html"
+    echo "Output: Rotations/stats.json + Rotations/stats.html"
+}
+
 phase_publish() {
     # Publish Rotations/ (our face-to-face product) to the public Google Drive teacher folder.
     # Method: mass-delete the old copy, then ONE bulk copy of the new. On the Google Drive
@@ -486,6 +525,7 @@ run_phase() {
         export)       phase_export ;;
         presentation) phase_presentation ;;
         rotate)       phase_rotate "${LESSON:-*}" ;;
+        stats)        phase_stats ;;
         publish)      phase_publish ;;
         *)
             echo "Unknown phase: $phase"
@@ -544,15 +584,16 @@ run_rotations() {
     fi
 
     check_tool "$BRIDGE_WRANGLER_PATH" "bridge-wrangler"
+    : > "$BUILD_DURATIONS_TSV"   # reset build-duration log
 
-    phase_parse
-    phase_validate
-    phase_correct
-    phase_sme
+    timed parse phase_parse
+    timed validate phase_validate
+    timed correct phase_correct
+    timed sme phase_sme
     if [[ "$GENERATE" == true ]]; then
         check_tool "$DEALER_PATH" "dealer3"
-        phase_missing
-        phase_generate
+        timed missing phase_missing
+        timed generate phase_generate
     else
         cd "$SCRIPT_DIR"
         if [[ ! -f "constructed_hands.csv" ]]; then
@@ -560,15 +601,16 @@ run_rotations() {
         fi
         echo -e "\n${YELLOW}Reusing existing constructed_hands.csv${NC}"
     fi
-    phase_fill
-    phase_reroll
-    phase_pbn "BakerBridgeFull.csv"
-    phase_pbn_pdf
-    phase_package
-    phase_stamp
-    phase_export
-    phase_presentation
-    phase_rotate "$filter"
+    timed fill phase_fill
+    timed reroll phase_reroll
+    timed pbn phase_pbn "BakerBridgeFull.csv"
+    timed pbn-pdf phase_pbn_pdf
+    timed package phase_package
+    timed stamp phase_stamp
+    timed export phase_export
+    timed presentation phase_presentation
+    timed rotate phase_rotate "$filter"
+    timed stats phase_stats
 
     echo ""
     echo -e "${GREEN}Rotations build complete.${NC}"
@@ -598,11 +640,12 @@ run_all_phases() {
     echo -e "${GREEN}✓${NC} Required tools found"
 
     # Run all phases
+    : > "$BUILD_DURATIONS_TSV"   # reset build-duration log
     for entry in "${PHASES[@]}"; do
         local name="${entry%%|*}"
         # 'publish' pushes to a public Google Drive; never run it implicitly in a full build.
         [[ "$name" == "publish" ]] && continue
-        run_phase "$name"
+        timed "$name" run_phase "$name"
     done
 
     # Summary
