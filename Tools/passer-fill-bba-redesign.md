@@ -189,18 +189,22 @@ Ran the BBA-reject *check* over the current `Package/*.pbn` (no fills changed).
   native CLI is fast enough (~65s full corpus). The "quiet side" is derived from the scripted
   auction itself (the all-pass partnership), which cleanly auto-excludes competitive lessons.
 
-### Phase A — Prototype on NMF (small, verifiable)
-- [ ] Add a Mac-native BBA backend to the fill (point at
-      `BBA-tools/bba-cli/target/release/bba-cli`, or the droplet server URL). Make the
-      Windows/SSH path optional/legacy.
-- [ ] Implement the loop for NMF only: loosen the E/W constraint, draw candidates, run BBA
-      with `--auction-prefix`, accept when E/W stay silent.
-- [ ] Decide the prefix strategy (opening-only vs per-turn) by measuring rejection rate and
-      catching known-bad cases (board 3's `AKJ853` East must be rejected).
-- [ ] Compare against current NMF passers: confirm (a) no biddable opponents, (b) more shape
-      variety than the all-balanced output, (c) acceptable wall-clock (native CLI should be
-      far faster than the old SSH path).
-- [ ] Sanity-check that N/S bidding hands are untouched and the intended auctions still hold.
+### Phase A — Prototype on NMF (small, verifiable) ✅ DONE (2026-07-14)
+Tool: `Tools/fill_bba_reject.py` · write-up: `Tools/passer-fill-phase-a.md`.
+- [x] Mac-native BBA backend — `bba-cli` + `dealer3`, no Windows/SSH. Acceptance probe is
+      imported from `audit_passers.py`, so "accepted" ≡ "audit-clean".
+- [x] NMF loop: keep N/S exactly, redraw E/W with **no** shape constraint, BBA-reject any
+      candidate where the quiet side acts (per-turn `--auction-prefix` probe).
+- [x] Prefix strategy decided: **per-turn** (precise, matches the Phase 0 baseline; cost
+      negligible at ~1.5 draws/board). Known-bad rejected: the historical `AKJ853` East
+      returns `REJECTED (E@t1:2S)`.
+- [x] Compared vs current passers: **(a) 0 biddable** (NMF 2→0, Reverse 8→0 on re-audit);
+      **(c)** ~1.5s/lesson. **(b) BUT shape variety DECREASED** — reject-only skews the
+      survivors *more* balanced (71%→86%), because long-suit hands are the ones that
+      overcall and get rejected. Not a free benefit; see write-up. Phase B may bias the draw.
+- [x] N/S bidding hands **byte-identical** on every board; auctions hold trivially.
+- [x] Bonus: `--seed` gives byte-identical reruns (dealer3 `-s`) → the determinism hook for
+      Phase B caching.
 
 ### Phase B — Generalize + cache + unify
 - [ ] Extend to all `Calm` lessons (and any other "quiet opponents" scenarios). Note some

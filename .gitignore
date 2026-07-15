@@ -36,3 +36,6 @@ ENV/
 /Rotations-windows
 activity-log.json
 Tools/Anchors/
+
+# Phase A passer-fill prototype outputs (regenerable, non-deterministic without --seed)
+Tools/bba_reject_out/
