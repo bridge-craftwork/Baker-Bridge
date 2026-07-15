@@ -43,3 +43,7 @@ Tools/bba_reject_out/
 # Build intermediate master (issue #21). Regenerable; the committed outputs
 # (bridge-classroom/ app export, Rotations/ teaching) are derived from it.
 /Collection/
+
+# build-duration intermediates (Tools)
+Tools/.build-durations.tsv
+Tools/build-durations.json
