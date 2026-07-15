@@ -210,18 +210,27 @@ Tool: `Tools/fill_bba_reject.py` · write-up: `Tools/passer-fill-phase-a.md`.
       to a `--variety` target (default 35% modestly-unbalanced). Hits target on both lessons
       (e.g. 65%/75% balanced as set), 0 outliers, still 0 biddable. Phase B carries the knobs.
 
-### Phase B — Generalize + cache + unify
-- [ ] Extend to all `Calm` lessons (and any other "quiet opponents" scenarios). Note some
-      lessons *want* interference (e.g. overcall lessons) — those must be excluded and keep
-      their existing scripted constraints.
-- [ ] Add the fill cache: reuse `constructed_hands.csv`; only fill+validate deals missing
-      from it; make regeneration explicit/incremental (a flag or a per-deal "revalidate"),
-      not automatic on every build.
-- [ ] Unify mac/windows: retire `*-windows.csv` and `pbns-windows`/`Rotations-windows`
-      lineages, or regenerate them from the single Mac cache so dealer files and handouts
-      always agree.
-- [ ] Regenerate affected lessons once, verify, and reissue any dealer/rotation files so
-      class materials and handouts match.
+### Phase B — Generalize + cache + unify ✅ DONE (2026-07-14)
+Tools: `Tools/passer_reroll.py` + `Tools/passer_cache.csv` · write-up: `Tools/passer-fill-phase-b.md`.
+- [x] **Found two passer sources**, not one: `constructed_hands.csv` (auction_calm, 465
+      boards) AND `bb_fill.py`'s unseeded random `assign_to_east_west` (288 Partnership
+      boards). Unified with **one** step (`passer_reroll.py`) downstream of `bb_fill`, over
+      `BakerBridgeFull.csv` — re-rolls iff E/W were empty in source AND E/W is the quiet side.
+      Competitive/interference and defender boards auto-skipped.
+- [x] Cache: committed `passer_cache.csv` keyed by board identity + bidding hands + auction.
+      Cache-cold ~95s; **cache-warm 0.09s, idempotent**. `--revalidate` re-checks against BBA.
+      Kills the non-determinism and the mac/windows split (one machine-independent cache).
+- [x] Unify mac/windows + **remove the Windows build path** entirely (`-windows` CSVs,
+      `pbns-windows`/`pdfs-windows`/`Rotations-windows`, the `.ps1` scripts, the SSH BBA
+      validation). Documented as previous implementation in `Tools/windows-build-legacy.md`;
+      detail lives in git history.
+- [x] Regenerated + verified: audit **141 → 34** biddable; **every generated quiet board is
+      0-biddable**; the 34 remaining are source-deal play lessons (32) + 1 curated board +
+      1 defender-lesson false positive (all byte-identical to the orphaned `Package/`). N/S
+      untouched; variety 65% balanced/0 gratuitous outliers; tokens track the deal changes.
+- [x] Output moved to a new **`bridge-classroom/`** folder (contracted files: PBN + manifest
+      + toc + titles); `Package/` left as a frozen orphan for BC to repoint its props.
+- Forced-distribution escalation added (e.g. Blackwood d18's deal-forced void).
 
 ### Interim (optional, if a class needs NMF before A/B lands)
 - Tighten `auction_calm` in `auction_templates.dlr` to constrain **both** seats and remove

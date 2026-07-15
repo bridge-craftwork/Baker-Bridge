@@ -193,6 +193,16 @@ python3 generate_manifest.py
 
 (`Tools/build-mac.sh` runs all of these; steps 4–5 are its `stamp` phase, after `package`.)
 
+**Passer fill + output folder (issue #21, Phase B).** Before the CSV becomes PBNs, the
+generated *passer* (opponent) hands are made BBA-clean by `passer_reroll.py` (the `reroll`
+phase, after `bb_fill`): it re-rolls every board whose E/W were generated and are the quiet
+(all-pass) side, rejecting any fill where a bidding engine shows the opponents would act, and
+caches the result in the committed `passer_cache.csv` (deterministic, machine-independent —
+this replaced the non-deterministic mac/windows split). The build now writes its contracted
+files to a new **`bridge-classroom/`** folder (`BB_PACKAGE_DIR`); the original **`Package/`
+is a frozen orphan** until Bridge-Classroom repoints its props. The Windows build path was
+removed here — see `Tools/windows-build-legacy.md` and `Tools/passer-fill-phase-b.md`.
+
 ### What Each Step Does
 
 1. **bbparse.py** → Parses HTML, generates `BakerBridge.csv` and debug files in `Tools/Anchors/`
@@ -277,5 +287,9 @@ The Bridge Classroom app fetches PBN files from:
 ```
 https://raw.githubusercontent.com/bridge-craftwork/Baker-Bridge/main/Package/{lesson}.pbn
 ```
+(Issue #21, Phase B moved the build's output to a new `bridge-classroom/` folder; `Package/`
+is a frozen orphan. Once BC repoints its props at `bridge-classroom/{lesson}.pbn`, update the
+URL above. The re-rolled boards carry new `[BoardVersionToken]`s — a board-identity change BC
+coordinates per the producer contract.)
 
 The app's `pbnParser.js` parses these directives and `useDealPractice.js` tracks state to control UI visibility.

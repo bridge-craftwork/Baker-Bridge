@@ -178,12 +178,14 @@ def audit(lessons, tmp):
 
 
 def main():
+    # Audit dir: BB_PACKAGE_DIR (env) overrides the default Package/, so the same tool
+    # can audit the new bridge-classroom/ build (issue #21, Phase B).
+    pkg = os.environ.get("BB_PACKAGE_DIR") or os.path.join(REPO, "Package")
     args = sys.argv[1:]
     if args:
-        lessons = [os.path.join(REPO, "Package", a if a.endswith(".pbn") else a + ".pbn")
-                   for a in args]
+        lessons = [os.path.join(pkg, a if a.endswith(".pbn") else a + ".pbn") for a in args]
     else:
-        lessons = sorted(glob.glob(os.path.join(REPO, "Package", "*.pbn")))
+        lessons = sorted(glob.glob(os.path.join(pkg, "*.pbn")))
 
     with tempfile.TemporaryDirectory() as tmp:
         records = audit(lessons, tmp)

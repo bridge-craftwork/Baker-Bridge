@@ -54,6 +54,13 @@ NC='\033[0m' # No Color
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(dirname "$SCRIPT_DIR")"
 
+# Contracted-files output dir (the "Package" the app fetches). Phase B (issue #21) moved
+# the build's output to a new bridge-classroom/ folder; the original Package/ is left in
+# place as a frozen orphan until Bridge-Classroom repoints its props. Override with
+# BB_PACKAGE_DIR; the package/stamp/manifest/toc scripts all honor it.
+PACKAGE_DIR="${BB_PACKAGE_DIR:-$REPO_ROOT/bridge-classroom}"
+export BB_PACKAGE_DIR="$PACKAGE_DIR"
+
 # Tool paths
 DEALER_PATH="$HOME/Development/GitHub/dealer3/target/release/dealer"
 BRIDGE_WRANGLER_PATH="$HOME/Development/GitHub/bridge-wrangler/target/release/bridge-wrangler"
@@ -67,6 +74,7 @@ PHASES=(
     "missing|Identify hands with missing bidders"
     "generate|Generate constrained hands"
     "fill|Fill missing hands"
+    "reroll|Re-roll quiet passers (BBA-reject, managed variety)"
     "pbn|Convert to PBN format"
     "intro-pdf|Convert introduction pages to PDF"
     "pbn-pdf|Convert PBNs to PDFs"
@@ -252,6 +260,21 @@ phase_fill() {
     echo "Output: BakerBridgeFull.csv ($((TOTAL - 1)) total hands)"
 }
 
+phase_reroll() {
+    step "Re-roll Passer Hands (BBA-reject, managed variety)"
+    cd "$SCRIPT_DIR"
+    if [[ ! -f "BakerBridgeFull.csv" ]]; then
+        error "BakerBridgeFull.csv not found. Run 'fill' phase first."
+    fi
+    # Unified BBA-reject re-roll of the generated *quiet* passers (issue #21, Phase B).
+    # Supersedes both auction_calm (fill_hands) and bb_fill's random E/W assignment.
+    # Reuses the committed passer_cache.csv; pass --revalidate (via REROLL_ARGS) to
+    # re-check cached fills.
+    python3 passer_reroll.py BakerBridgeFull.csv --sme BakerBridge-sme.csv \
+        --cache passer_cache.csv $REROLL_ARGS
+    echo "Output: BakerBridgeFull.csv (quiet passers BBA-clean) + passer_cache.csv"
+}
+
 phase_pbn() {
     local csv_file="${1:-BakerBridgeFull.csv}"
     step "Convert to PBN Format (from $csv_file)"
@@ -296,14 +319,15 @@ phase_pbn_pdf() {
 phase_package() {
     step "Package Results"
     cd "$SCRIPT_DIR"
-    mkdir -p "$REPO_ROOT/Package"
+    mkdir -p "$PACKAGE_DIR"
     python3 package_results.py
-    # Copy titles.csv if it exists in the reference
-    if [[ -f "$REPO_ROOT/Package-windows/titles.csv" ]]; then
-        cp "$REPO_ROOT/Package-windows/titles.csv" "$REPO_ROOT/Package/"
+    # titles.csv is a static asset (not generated); seed it into the output dir from the
+    # canonical copy that still lives in the orphaned Package/.
+    if [[ -f "$REPO_ROOT/Package/titles.csv" && ! -f "$PACKAGE_DIR/titles.csv" ]]; then
+        cp "$REPO_ROOT/Package/titles.csv" "$PACKAGE_DIR/"
     fi
-    PKG_COUNT=$(find "$REPO_ROOT/Package" -type f | wc -l | tr -d ' ')
-    echo "Output: Package/ ($PKG_COUNT files)"
+    PKG_COUNT=$(find "$PACKAGE_DIR" -type f | wc -l | tr -d ' ')
+    echo "Output: $PACKAGE_DIR ($PKG_COUNT files)"
 }
 
 phase_stamp() {
@@ -313,7 +337,7 @@ phase_stamp() {
     # tokens and the manifest are stamped from the final released Package/ content.
     python3 stamp_board_tokens.py
     python3 generate_manifest.py
-    echo "Output: Package/*.pbn tokens + Package/manifest.json"
+    echo "Output: $PACKAGE_DIR/*.pbn tokens + $PACKAGE_DIR/manifest.json"
 }
 
 phase_presentation() {
@@ -338,7 +362,7 @@ do_clean() {
     step "Cleaning build artifacts"
     cd "$SCRIPT_DIR"
     rm -rf pbns pdfs constructed_hands.csv BakerBridgeFull.csv
-    rm -rf "$REPO_ROOT/Package" "$REPO_ROOT/Presentation" "$REPO_ROOT/Rotations"
+    rm -rf "$PACKAGE_DIR" "$REPO_ROOT/Presentation" "$REPO_ROOT/Rotations"
     echo "Cleaned: pbns/, pdfs/, Package/, Presentation/, Rotations/, intermediate CSVs"
 }
 
@@ -352,6 +376,7 @@ run_phase() {
         missing)      phase_missing ;;
         generate)     phase_generate ;;
         fill)         phase_fill ;;
+        reroll)       phase_reroll ;;
         pbn)          phase_pbn ;;
         intro-pdf)    phase_intro_pdf ;;
         pbn-pdf)      phase_pbn_pdf ;;
@@ -390,6 +415,7 @@ run_classroom() {
         echo -e "\n${YELLOW}Reusing existing constructed_hands.csv${NC}"
     fi
     phase_fill
+    phase_reroll
     phase_pbn "BakerBridgeFull.csv"
     phase_pbn_pdf
     phase_package
@@ -397,7 +423,7 @@ run_classroom() {
 
     echo ""
     echo -e "${GREEN}Classroom build complete.${NC}"
-    PKG_COUNT=$(find "$REPO_ROOT/Package" -type f 2>/dev/null | wc -l | tr -d ' ')
+    PKG_COUNT=$(find "$PACKAGE_DIR" -type f 2>/dev/null | wc -l | tr -d ' ')
     echo "Output: Package/ ($PKG_COUNT files)"
 }
 
@@ -431,6 +457,7 @@ run_rotations() {
         echo -e "\n${YELLOW}Reusing existing constructed_hands.csv${NC}"
     fi
     phase_fill
+    phase_reroll
     phase_pbn "BakerBridgeFull.csv"
     phase_pbn_pdf
     phase_package
@@ -479,7 +506,7 @@ run_all_phases() {
     echo ""
     PBN_COUNT=$(find "$SCRIPT_DIR/pbns" -name "*.pbn" 2>/dev/null | wc -l | tr -d ' ')
     PDF_COUNT=$(find "$SCRIPT_DIR/pbns" -name "*.pdf" 2>/dev/null | wc -l | tr -d ' ')
-    PKG_COUNT=$(find "$REPO_ROOT/Package" -type f 2>/dev/null | wc -l | tr -d ' ')
+    PKG_COUNT=$(find "$PACKAGE_DIR" -type f 2>/dev/null | wc -l | tr -d ' ')
     PRES_COUNT=$(find "$REPO_ROOT/Presentation" -type f 2>/dev/null | wc -l | tr -d ' ')
     ROT_COUNT=$(find "$REPO_ROOT/Rotations" -type f 2>/dev/null | wc -l | tr -d ' ')
     echo "Build artifacts:"

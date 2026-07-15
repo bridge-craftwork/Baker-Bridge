@@ -149,8 +149,9 @@ def build_manifest(package_dir):
 
 
 def main():
-    target = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
-        os.path.dirname(os.path.abspath(__file__)), "..", "Package")
+    target = (sys.argv[1] if len(sys.argv) > 1 else None) \
+        or os.environ.get("BB_PACKAGE_DIR") \
+        or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Package")
     if not os.path.isdir(target):
         print(f"Package directory not found: {target}")
         return 1
