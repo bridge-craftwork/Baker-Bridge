@@ -78,7 +78,11 @@ PUBLISH_DIR="${BB_PUBLISH_DIR:-/Users/rick/Library/CloudStorage/GoogleDrive-brid
 # Tool paths
 DEALER_PATH="$HOME/Development/GitHub/dealer3/target/release/dealer"
 BRIDGE_WRANGLER_PATH="$HOME/Development/GitHub/bridge-wrangler/target/release/bridge-wrangler"
-# Shared (collection-agnostic) lesson-statistics tool from bridge-lesson-packaging.
+# Shared (collection-agnostic) tools from bridge-lesson-packaging: the mixed-use materials
+# packager (rotate/slice/handouts — replaces the retired local rotate_lesson_collection.sh)
+# and the lesson-statistics tool. Clone github.com/bridge-craftwork/bridge-lesson-packaging,
+# or override these paths.
+PACKAGER="${PACKAGER:-$HOME/Development/GitHub/bridge-lesson-packaging/package.sh}"
 STATS_TOOL="${STATS_TOOL:-$HOME/Development/GitHub/bridge-lesson-packaging/stats.py}"
 
 # Build-duration accumulator (label<TAB>seconds), reset at the start of a full build and read
@@ -412,10 +416,15 @@ phase_presentation() {
 
 phase_rotate() {
     local filter="${1:-*}"
-    step "Generate Rotations (using bridge-wrangler) [filter: $filter]"
+    step "Generate Rotations (shared bridge-lesson-packaging builder) [filter: $filter]"
     cd "$REPO_ROOT"
     check_tool "$BRIDGE_WRANGLER_PATH" "bridge-wrangler"
-    ./Tools/rotate_lesson_collection.sh "$filter" "*" 4 5 6
+    if [[ ! -f "$PACKAGER" ]]; then
+        error "shared packager not found at $PACKAGER
+    Clone github.com/bridge-craftwork/bridge-lesson-packaging, or set PACKAGER=<path>."
+    fi
+    # Config (Tools/baker.conf) supplies INPUT_DIR/OUTPUT_DIR/SET_SIZES/DECLARER_PLAN_CATEGORY.
+    bash "$PACKAGER" --config "$SCRIPT_DIR/baker.conf" "$filter" "*"
     ROT_COUNT=$(find "$REPO_ROOT/Rotations" -type f | wc -l | tr -d ' ')
     echo "Output: Rotations/ ($ROT_COUNT files)"
 }
