@@ -97,7 +97,7 @@ PHASES=(
     "export|Export bridge-classroom contract files from Collection"
     "presentation|Create presentation structure"
     "rotate|Generate rotations for multi-table play"
-    "publish|Mirror Rotations/ to the public Google Drive teacher folder (explicit; excluded from '*')"
+    "publish|Publish Rotations/ to the public Google Drive teacher folder (delete + copy; explicit, excluded from '*')"
 )
 
 # Parse arguments
@@ -407,40 +407,56 @@ phase_rotate() {
 }
 
 phase_publish() {
-    # Mirror Rotations/ (our face-to-face product) to the public Google Drive teacher folder.
+    # Publish Rotations/ (our face-to-face product) to the public Google Drive teacher folder.
+    # Method: mass-delete the old copy, then ONE bulk copy of the new. On the Google Drive
+    # FUSE mount this is far faster than a per-file rsync (Drive batches a bulk copy; a
+    # per-file sync thrashes the mount). This is also how it's published by hand in Finder.
+    # It inherently drops anything no longer in the master (the whole target is replaced).
     # Whole tree by default, or a single lesson with --lesson (matches the lesson folder name).
-    # rsync --delete removes anything at the destination that is no longer in the master.
-    # Deliberately NOT part of the classroom/rotations shortcuts: publishing is an explicit,
-    # outward-facing release action. Pass extra rsync flags via PUBLISH_ARGS (e.g. -n dry-run).
+    # Deliberately NOT part of the classroom/rotations shortcuts or '*': publishing is an
+    # explicit, outward-facing release action. PUBLISH_ARGS=-n previews without touching Drive.
     local filter="${LESSON:-}"
+    local dry=""; [[ "$PUBLISH_ARGS" == *-n* ]] && dry=1
     step "Publish Rotations -> Google Drive"
     if [[ ! -d "$REPO_ROOT/Rotations" ]]; then
         error "Rotations/ not found. Run 'rotate' first."
     fi
+    # Safety: never rm -rf an unsafe target.
+    case "$PUBLISH_DIR" in
+        ""|"/"|"$HOME"|"$HOME/") error "Refusing to publish to unsafe path: '$PUBLISH_DIR'" ;;
+    esac
     local destparent; destparent="$(dirname "$PUBLISH_DIR")"
     if [[ ! -d "$destparent" ]]; then
         error "Publish target parent not found: $destparent
     (is Google Drive mounted? override the location with BB_PUBLISH_DIR=...)"
     fi
-    mkdir -p "$PUBLISH_DIR"
-    local opts=(-rt --delete --exclude='.DS_Store' $PUBLISH_ARGS)
     if [[ -z "$filter" || "$filter" == "*" ]]; then
-        echo "Mirroring the entire Rotations tree to:"
+        echo "Replacing the entire collection at:"
         echo "  $PUBLISH_DIR"
-        rsync "${opts[@]}" "$REPO_ROOT/Rotations/" "$PUBLISH_DIR/"
-        echo "Published: entire Rotations tree (stale files removed)."
+        if [[ -n "$dry" ]]; then
+            echo "[dry-run] rm -rf \"\$PUBLISH_DIR\" && cp -R Rotations \"\$PUBLISH_DIR\""
+        else
+            rm -rf "$PUBLISH_DIR"
+            cp -R "$REPO_ROOT/Rotations" "$PUBLISH_DIR"
+            echo "Published: entire tree ($(find "$PUBLISH_DIR" -type f | wc -l | tr -d ' ') files)."
+        fi
     else
         local found=0 lessondir rel
         while IFS= read -r lessondir; do
             found=1
             rel="${lessondir#$REPO_ROOT/Rotations/}"
-            mkdir -p "$PUBLISH_DIR/$rel"
-            rsync "${opts[@]}" "$lessondir/" "$PUBLISH_DIR/$rel/"
-            echo "Published: $rel"
+            if [[ -n "$dry" ]]; then
+                echo "[dry-run] replace: $rel"
+            else
+                rm -rf "$PUBLISH_DIR/$rel"
+                mkdir -p "$(dirname "$PUBLISH_DIR/$rel")"
+                cp -R "$lessondir" "$PUBLISH_DIR/$rel"
+                echo "Published: $rel"
+            fi
         done < <(find "$REPO_ROOT/Rotations" -mindepth 2 -maxdepth 2 -type d -iname "*$filter*")
         [[ "$found" == 1 ]] || warn "No Rotations lesson folder matched '$filter'"
     fi
-    echo "Done. Google Drive Desktop will sync the changes in the background."
+    echo "Done. Google Drive Desktop will sync in the background."
 }
 
 do_clean() {
