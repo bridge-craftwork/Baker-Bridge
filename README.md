@@ -2,63 +2,96 @@
 
 A tool for extracting, validating, and repackaging bridge lesson content from the Baker Bridge website (bakerbridge.coffeecup.com) into standardized PBN (Portable Bridge Notation) and PDF formats.
 
-## Two Build Products
+## Build Layout: one master, two exports
 
-This project produces two distinct outputs from the same source content:
+The build produces a single master collection and then **diverges** into two committed exports for two different audiences. They are not chained through each other — both derive independently from the master.
 
-### Package (for Bridge Classroom app)
+```
+                         Collection/            (master: merged, tokenized, manifest)
+                         /          \
+          bridge-classroom/          Presentation/ -> Rotations/
+        (Bridge Classroom app)         (live face-to-face classes)
+```
 
-The `Package/` folder contains PBN and PDF files served via GitHub raw URLs to the [Bridge Classroom](https://github.com/bridge-craftwork/Bridge-Classroom) web app. The app renders lessons interactively with bidding prompts, hand visibility control, and step-by-step analysis. PBN files include control directives (`[show]`, `[BID]`, `[NEXT]`, etc.) that drive the app's UI.
+### Collection (the master)
+
+`Collection/` is the shared intermediate the two exports diverge from: the merged, curated, token-stamped PBNs plus `manifest.json`, `toc.json`, and `titles.csv`. It is **regenerable and gitignored** — the committed artifacts are the two exports below. (`Collection/` replaced the old `Package/` in this role; `Package/` remains in the tree as a frozen orphan until Bridge Classroom repoints its props at `bridge-classroom/`.)
+
+### bridge-classroom (for the Bridge Classroom app)
+
+`bridge-classroom/` holds the **contracted files** served to the [Bridge Classroom](https://github.com/bridge-craftwork/Bridge-Classroom) web app: interactive PBNs (with `[show]`, `[BID]`, `[NEXT]`, … control directives), `manifest.json`, `toc.json`, `titles.csv`, and optional per-lesson `*_Intro.pdf` companions. The app renders lessons interactively with bidding prompts, hand-visibility control, and step-by-step analysis. This is the **Bridge Classroom producer contract** (`manifest.json`, schema v3).
 
 ### Rotations (for live teacher classes)
 
-The `Rotations/` folder contains PBN and PDF files organized for in-person bridge instruction. Lessons are split into board sets (4/5/6 boards), rotated for different seat positions (South, North-South, all four hands), and formatted for use with dealing machines. All four hands must be present since physical cards are dealt.
+`Rotations/` holds PBN and PDF files organized for in-person instruction. Lessons are split into board sets (4/5/6 boards), rotated for different seat positions (South, North-South, all four hands), replicated across tables, and formatted with dealing sheets, dealer summaries, declarer plans, handouts, and bidding sheets — the files used with dealing machines in class. Its standard structure is a **second producer contract** (`Tools/rotations-contract.md`). Built from `Collection/` (control tags stripped), so its passers match the app exactly.
+
+## Deterministic passer hands (issue #21)
+
+Lessons specify only the bidding hands (usually N/S); the opponents' *passer* hands are generated. These are now made **BBA-clean and deterministic**:
+
+- The `reroll` phase (`Tools/passer_reroll.py`) re-rolls every board whose E/W were generated and are the quiet (all-pass) side, **rejecting any fill a bidding engine (native BBA/EPBot) shows the opponents would bid** — then caches the result in the committed `Tools/passer_cache.csv`.
+- The cache is keyed by board identity + bidding hands + auction, so builds are reproducible and machine-independent. This replaced a non-deterministic fill that had drifted between machines, causing dealer files and app handouts to disagree.
+
+See `Tools/passer-fill-bba-redesign.md` and the phase write-ups (`passer-fill-phase0-audit.md`, `passer-fill-phase-a.md`, `passer-fill-phase-b.md`).
 
 ## Project Structure
 
 ```
 Baker-Bridge/
-+-- Website/           # HTTrack mirror of bakerbridge.coffeecup.com
-+-- Tools/             # Build scripts and intermediate data
-|   +-- bbparse.py     # HTML parser -> CSV
-|   +-- CSV_to_PBN.py  # CSV -> PBN converter
-|   +-- build-mac.sh   # Build pipeline orchestrator
-|   +-- pbns/          # Generated PBN + PDF files
-|   +-- pdfs/          # Generated intro PDFs
-|   +-- Anchors/       # Debug output from HTML parsing
-|   +-- auction-fixes/ # SME corrections and BBA validation
-|   +-- Archive/       # Previous script versions
-+-- Package/           # -> Bridge Classroom app (PBN + PDF + toc.json)
-+-- Presentation/      # Intermediate: organized by category, cleaned for print
-+-- Rotations/         # -> Live classes (rotated, sliced, with dealing sheets)
++-- Website/            # HTTrack mirror of bakerbridge.coffeecup.com
++-- Tools/              # Build scripts and intermediate data
+|   +-- bbparse.py      # HTML parser -> CSV
+|   +-- CSV_to_PBN.py   # CSV -> PBN converter
+|   +-- passer_reroll.py# BBA-reject passer fill (+ passer_cache.csv)
+|   +-- audit_passers.py# BBA-reject audit / regression check
+|   +-- build-mac.sh    # Build pipeline orchestrator
+|   +-- pbns/           # Generated PBN + PDF files
+|   +-- pdfs/           # Generated intro PDFs
+|   +-- Anchors/        # Debug output from HTML parsing
+|   +-- auction-fixes/  # SME corrections
++-- Curated/            # Hand-authored board overrides, merged at package time
++-- Collection/         # Master (gitignored, regenerable): merged + tokenized + manifest
++-- bridge-classroom/   # EXPORT -> Bridge Classroom app (PBN + manifest + toc + titles + intros)
++-- Presentation/       # Intermediate for Rotations: by category, control tags stripped
++-- Rotations/          # EXPORT -> live classes (rotated, sliced, with dealing sheets)
++-- Package/            # Frozen orphan (former app folder; pending BC cutover)
 ```
+
+> **Note:** the previous Windows toolchain (PowerShell scripts, `-windows` caches, SSH-to-Windows BBA validation) was removed. See `Tools/windows-build-legacy.md`; the detail lives in git history.
 
 ## Prerequisites
 
 - Python 3.x with BeautifulSoup4 (`pip install beautifulsoup4`)
-- [dealer3](https://github.com/dealer3) (Rust) - for generating constrained hands
-- [bridge-wrangler](https://github.com/bridge-wrangler) (Rust) - for PBN-to-PDF and hand rotations
-- html2pdf (optional) - for lesson intro pages: `brew install ilaborie/tap/html2pdf`
+- **dealer3** (Rust) — generates/deals constrained hands (`~/Development/GitHub/dealer3`)
+- **bba-cli** (Rust, native Mac BBA/EPBot) — the passer-fill BBA-reject backend, with `--auction-prefix` (`~/Development/GitHub/BBA-tools/bba-cli`)
+- **bridge-wrangler**, **pbn-to-pdf**, **pdf-handouts** (Rust) — PBN-to-PDF, hand rotations, and handout rendering for the `pbn-pdf`/`rotate` phases
+- html2pdf (optional) — for regenerating lesson intro pages: `brew install ilaborie/tap/html2pdf`
 
 ## Quick Start
 
 ```bash
 cd Tools
 
-# Build for Bridge Classroom app (reuses existing constructed_hands.csv)
+# Build the app export (Collection -> bridge-classroom); reuses passer_cache.csv
 ./build-mac.sh classroom
 
-# Build rotations for live classes (reuses existing constructed_hands.csv)
+# Build the teaching materials (Collection -> Presentation -> Rotations)
 ./build-mac.sh rotations
 
 # Regenerate constrained hands from scratch (slow - runs dealer3)
 ./build-mac.sh classroom --generate
-./build-mac.sh rotations --generate
+
+# Re-validate cached passer fills against BBA (otherwise the cache is trusted)
+REROLL_ARGS=--revalidate ./build-mac.sh reroll
 ```
+
+`BB_PACKAGE_DIR` overrides the master folder (default `Collection/`); the package/stamp/manifest/toc/presentation/audit scripts all honor it.
 
 ## Build Pipeline
 
-The build script `Tools/build-mac.sh` orchestrates the full pipeline. Both the `classroom` and `rotations` shortcuts share the same core phases; `rotations` adds presentation and rotation steps at the end.
+`Tools/build-mac.sh` orchestrates the full pipeline. The `classroom` and `rotations`
+shortcuts share the same core phases; `classroom` ends at `export`, `rotations` adds
+`presentation` + `rotate`.
 
 ```
 HTML Files -> bbparse.py -> BakerBridge.csv
@@ -77,22 +110,22 @@ HTML Files -> bbparse.py -> BakerBridge.csv
                                |
                       fill -> BakerBridgeFull.csv
                                |
+        reroll (passer_reroll.py, BBA-reject + passer_cache.csv)
+                               |
                     CSV_to_PBN.py -> pbns/*.pbn
                                |
                   convert_pbns_to_pdfs.py -> pbns/*.pdf
                                |
-                     package_results.py -> Package/
+             package_results.py (+ Curated merge) -> Collection/
                                |
-                  +------------+------------+
-                  |                         |
-             (classroom)              (rotations)
-              done here            package_presentation.py
-                                         |
-                                   Presentation/
-                                         |
-                              rotate_lesson_collection.sh
-                                         |
-                                    Rotations/
+       stamp_board_tokens.py + generate_manifest.py -> Collection/
+                               |
+                  +------------+-------------------+
+                  |                                |
+             (classroom)                     (rotations)
+        export -> bridge-classroom/     package_presentation.py -> Presentation/
+                                                   |
+                                       rotate_lesson_collection.sh -> Rotations/
 ```
 
 ### Build Phases
@@ -103,26 +136,28 @@ HTML Files -> bbparse.py -> BakerBridge.csv
 | **validate** | `bbcheck.py` | Check for card data errors -> `bbcheck.txt` |
 | **correct** | `bb_correct.py` | Auto-fix duplicate card errors |
 | **sme** | `apply_sme_corrections.py` | Apply subject-matter-expert corrections -> `BakerBridge-sme.csv` |
-| **missing** | `check_missing_bids.py` | Find deals where E/W bid but have no cards -> `missing_bids.csv` |
-| **generate** | `fill_hands.py` | Generate constrained E/W hands using dealer3 -> `constructed_hands.csv` |
+| **missing** | `check_missing_bids.py` | Find deals where an opponent bids but has no cards -> `missing_bids.csv` |
+| **generate** | `fill_hands.py` | Generate constrained *interference* hands using dealer3 -> `constructed_hands.csv` |
 | **fill** | `bb_fill.py` | Merge generated hands into full dataset -> `BakerBridgeFull.csv` |
-| **pbn** | `CSV_to_PBN.py` | Convert CSV to PBN files -> `pbns/` |
+| **reroll** | `passer_reroll.py` | BBA-reject re-roll of generated quiet passers (deterministic, cached) |
+| **pbn** | `CSV_to_PBN.py` | Convert CSV to PBN files -> `pbns/`; generate `toc.json` |
 | **pbn-pdf** | `convert_pbns_to_pdfs.py` | Convert PBNs to PDFs using bridge-wrangler |
-| **package** | `package_results.py` | Copy PBN/PDF files to `Package/`, generate `toc.json` |
-| **presentation** | `package_presentation.py` | Organize into `Presentation/` by category, strip interactive directives |
+| **package** | `package_results.py` | Copy PBN/PDF to `Collection/`, merge `Curated/` overrides |
+| **stamp** | `stamp_board_tokens.py` + `generate_manifest.py` | Stamp `[BoardVersionToken]`s, emit `manifest.json` |
+| **export** | (build-mac.sh) | Copy the contract files `Collection/` -> `bridge-classroom/` |
+| **presentation** | `package_presentation.py` | Organize `Collection/` into `Presentation/` by category, strip interactive directives |
 | **rotate** | `rotate_lesson_collection.sh` | Slice into board sets, rotate hands, generate dealing sheets -> `Rotations/` |
 
 ### The --generate Flag
 
-The **generate** phase (running dealer3 to produce `constructed_hands.csv`) is the slowest step in the build. By default, both `classroom` and `rotations` shortcuts skip it and reuse the existing `constructed_hands.csv`. Pass `--generate` to regenerate it when improving hand quality or after changing bidding constraints.
+The **generate** phase (running dealer3 to produce `constructed_hands.csv`) is the slowest step. By default both shortcuts skip it and reuse the existing `constructed_hands.csv`. Pass `--generate` to regenerate it. Note the **reroll** phase separately reuses the committed `passer_cache.csv` unless `REROLL_ARGS=--revalidate` is set.
 
 ### Running Individual Phases
 
-Any phase can be run independently:
-
 ```bash
 ./build-mac.sh parse        # Just re-parse the HTML
-./build-mac.sh pbn          # Just regenerate PBNs
+./build-mac.sh reroll       # Just re-roll passers (uses the cache)
+./build-mac.sh export       # Just re-export bridge-classroom from Collection
 ./build-mac.sh rotate       # Just redo rotations
 ./build-mac.sh '*'          # Run all phases sequentially
 ./build-mac.sh --clean '*'  # Clean artifacts, then run all phases
@@ -135,9 +170,10 @@ Any phase can be run independently:
 | `BakerBridge.csv` | Initial extraction from HTML (partial hands) |
 | `BakerBridge-sme.csv` | After SME corrections applied |
 | `BakerBridgeFull.csv` | Complete dataset with all four hands filled |
-| `constructed_hands.csv` | Generated E/W hands satisfying bidding constraints |
+| `constructed_hands.csv` | Generated interference-opponent hands satisfying bidding constraints |
+| `passer_cache.csv` | Committed BBA-clean quiet-passer fills (deterministic, keyed by board identity) |
 | `missing_bids.csv` | Deals requiring constrained hand generation |
-| `titles.csv` | Lesson-to-category folder mapping (in Package/) |
+| `titles.csv` | Lesson-to-category folder mapping (in `Collection/`/`bridge-classroom/`) |
 
 ## PBN Control Directives
 
@@ -154,17 +190,19 @@ The PBN files include custom directives that control the Bridge Classroom app:
 | `[AUCTION on/off]` | Show/hide the auction table |
 | `[SHOW_LEAD]` | Display the opening lead banner |
 
+Board-identity metadata (`[BoardVersionToken]`, the `%bridge-classroom-stable` header) is stamped by `stamp_board_tokens.py`; see `CLAUDE.md` for the contract details.
+
 ## Lesson Categories
 
-48 lessons organized into 7 categories:
+50 lessons organized into 7 categories:
 
-1. **Basic Bidding** - Major/Minor suit openings, Notrump
-2. **Bidding Conventions** - Stayman, Transfers, Blackwood, 2/1, etc.
-3. **Competitive Bidding** - Overcalls, Doubles, DONT, Michaels
-4. **Declarer Play** - Finesses, Entries, Squeezes, Elimination
-5. **Defense** - Opening Leads, Signals, 2nd/3rd Hand Play
-6. **Practice Deals** - 100 Miscellaneous, 100 NT Openings
-7. **Partnership Bidding** - Progressive practice sets
+1. **Basic Bidding** — Major/Minor suit openings, Notrump
+2. **Bidding Conventions** — Stayman, Transfers, Blackwood, 2/1, etc.
+3. **Competitive Bidding** — Overcalls, Doubles, DONT, Michaels
+4. **Declarer Play** — Finesses, Entries, Squeezes, Elimination
+5. **Defense** — Opening Leads, Signals, 2nd/3rd Hand Play
+6. **Practice Deals** — 100 Miscellaneous, 100 NT Openings
+7. **Partnership Bidding** — Progressive practice sets
 
 ## License
 
