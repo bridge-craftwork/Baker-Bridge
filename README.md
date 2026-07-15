@@ -125,7 +125,7 @@ HTML Files -> bbparse.py -> BakerBridge.csv
              (classroom)                     (rotations)
         export -> bridge-classroom/     package_presentation.py -> Presentation/
                                                    |
-                                       rotate_lesson_collection.sh -> Rotations/
+                                       package.sh (shared) -> Rotations/
 ```
 
 ### Build Phases
@@ -146,7 +146,7 @@ HTML Files -> bbparse.py -> BakerBridge.csv
 | **stamp** | `stamp_board_tokens.py` + `generate_manifest.py` | Stamp `[BoardVersionToken]`s, emit `manifest.json` |
 | **export** | (build-mac.sh) | Copy the contract files `Collection/` -> `bridge-classroom/` |
 | **presentation** | `package_presentation.py` | Organize `Collection/` into `Presentation/` by category, strip interactive directives |
-| **rotate** | `rotate_lesson_collection.sh` | Slice into board sets, rotate hands, generate dealing sheets -> `Rotations/` |
+| **rotate** | the shared `package.sh` (bridge-lesson-packaging) | Slice into board sets, rotate hands, generate dealing sheets -> `Rotations/` |
 | **publish** | (build-mac.sh) | Publish `Rotations/` to the public Google Drive teacher folder (delete + bulk copy) |
 
 ### The --generate Flag

@@ -9,7 +9,7 @@
 
 **Status:** Draft for review. **Related:** issue #21, `face-to-face-contract.md`,
 `passer-fill-bba-redesign.md`, `build-mac.sh` (`presentation` + `rotate` phases),
-`rotate_lesson_collection.sh`.
+the shared `package.sh` (bridge-lesson-packaging).
 
 A second producer contract, alongside the Bridge-Classroom contract (`Collection/manifest.json`).
 Where that contract describes the **app's** interactive files, this describes the **face-to-face
@@ -23,7 +23,7 @@ in the same place.
 `Rotations/` is built **from `Collection/`** (the master), NOT from `bridge-classroom/`:
 
 ```
-Collection/  ──package_presentation.py──▶  Presentation/  ──rotate_lesson_collection.sh──▶  Rotations/
+Collection/  ──package_presentation.py──▶  Presentation/  ──package.sh (shared)──▶  Rotations/
              (strip app control tags,                      (slice, rotate, replicate,
               organize by taxonomy)                         render PDFs)
 ```

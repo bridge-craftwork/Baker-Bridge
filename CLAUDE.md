@@ -210,7 +210,7 @@ replaced `Package/`'s old role — `Package/` is a frozen orphan). Two committed
   `toc.json` + `titles.csv` + optional `*_Intro.pdf`), copied out by the `export` phase.
 - **`Presentation/` → `Rotations/`** — the face-to-face teaching materials (control tags
   stripped, table rotations/slices/handouts), built from `Collection/` by
-  `package_presentation.py` (which honors `BB_PACKAGE_DIR`) + `rotate_lesson_collection.sh`.
+  `package_presentation.py` (which honors `BB_PACKAGE_DIR`) + the shared `package.sh` (bridge-lesson-packaging).
   Standard structure spec: `Tools/rotations-contract.md`.
 
 Sourcing Presentation from `Collection/` (not the orphan `Package/`) is what keeps the
