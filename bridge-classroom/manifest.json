@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
-  "generatedAtCommit": "b39382ac42be59cb520b6825856894af8baf05d7",
-  "generatedAt": "2026-07-14T19:48:25.322562",
+  "schemaVersion": 3,
+  "generatedAtCommit": "2909fcee8335c4b12a487bca4383ca0bc53e1450",
+  "generatedAt": "2026-07-14T21:15:18.153220",
   "lessons": {
     "100Deals": {
       "skillPath": "practice_deals/100_miscellaneous",
@@ -1215,7 +1215,8 @@
           "boardVersionToken": "e99bb7c8196a31a16828a0afaba024001dbffbfb0cdaa60d94315285b931a300",
           "skillPath": "practice_deals/100_notrump"
         }
-      ]
+      ],
+      "intro": "100NT_Intro.pdf"
     },
     "2Club": {
       "skillPath": "bidding_conventions/strong_2c",
@@ -1342,7 +1343,8 @@
           "boardVersionToken": "b6bccdc70ba77818a62284b92352e4467c043c15fac24d53609e71fb6b21f865",
           "skillPath": "bidding_conventions/strong_2c"
         }
-      ]
+      ],
+      "intro": "2Club_Intro.pdf"
     },
     "2over1": {
       "skillPath": "bidding_conventions/two_over_one",
@@ -1406,7 +1408,7 @@
         {
           "number": 10,
           "stable": true,
-          "boardVersionToken": "5cacf3800ee6053e0498a3244d7575e43ad449b599710ed1bcac18c999fa3995",
+          "boardVersionToken": "ba9b2d969dcacca9f5aabb891a4e4c42a25b2fee1a4efc4484aa68cdfaf74d39",
           "skillPath": "bidding_conventions/two_over_one"
         },
         {
@@ -1517,7 +1519,8 @@
           "boardVersionToken": "40cdd9d9acb396fd92851d9c3e75fe57c9bcf38e59cf8288334bd685374ebaaf",
           "skillPath": "bidding_conventions/two_over_one"
         }
-      ]
+      ],
+      "intro": "2over1_Intro.pdf"
     },
     "Blackwood": {
       "skillPath": "bidding_conventions/blackwood",
@@ -1644,7 +1647,8 @@
           "boardVersionToken": "a070d26ccbaef002bb9a774e8f1e67e676f1ce25443749857bca6c2977165ec9",
           "skillPath": "bidding_conventions/blackwood"
         }
-      ]
+      ],
+      "intro": "Blackwood_Intro.pdf"
     },
     "Cue-bid": {
       "skillPath": "competitive_bidding/support_cuebids",
@@ -1711,7 +1715,8 @@
           "boardVersionToken": "7e04e94b4d15403aa09335e54c47090449b430ad47b9414eb8db6003e8d3b881",
           "skillPath": "competitive_bidding/support_cuebids"
         }
-      ]
+      ],
+      "intro": "Cue-bid_Intro.pdf"
     },
     "DONT": {
       "skillPath": "competitive_bidding/dont",
@@ -1838,7 +1843,8 @@
           "boardVersionToken": "d411c6187e94ced29ae64e222b3bc2d4119bf9102a8bf358be4db15e8d44f41f",
           "skillPath": "competitive_bidding/dont"
         }
-      ]
+      ],
+      "intro": "DONT_Intro.pdf"
     },
     "Drury": {
       "skillPath": "bidding_conventions/reverse_drury",
@@ -1893,7 +1899,8 @@
           "boardVersionToken": "fb08a6c8c06063fa8af1f5f680018b1e67078280636e254ce293c4f27b97b65d",
           "skillPath": "bidding_conventions/reverse_drury"
         }
-      ]
+      ],
+      "intro": "Drury_Intro.pdf"
     },
     "Eliminations": {
       "skillPath": "declarer_play/elimination_plays",
@@ -2050,7 +2057,8 @@
           "boardVersionToken": "a2f55233a84b69719dec878678601202be1d30998cb54de100ba4b63c3c522ca",
           "skillPath": "declarer_play/elimination_plays"
         }
-      ]
+      ],
+      "intro": "Eliminations_Intro.pdf"
     },
     "Entries": {
       "skillPath": "declarer_play/entry_management",
@@ -2177,7 +2185,8 @@
           "boardVersionToken": "75e15b9e6fee7e3295eb2c8e9602097b0c74a61138acf5c78324fb3484992567",
           "skillPath": "declarer_play/entry_management"
         }
-      ]
+      ],
+      "intro": "Entries_Intro.pdf"
     },
     "Establishment": {
       "skillPath": "declarer_play/suit_establishment",
@@ -2304,7 +2313,8 @@
           "boardVersionToken": "a743ff7cdac7995e4ec4ebf6a1a95b5d3e31c2ede0e240cc1924e0f5695734d8",
           "skillPath": "declarer_play/suit_establishment"
         }
-      ]
+      ],
+      "intro": "Establishment_Intro.pdf"
     },
     "FSF": {
       "skillPath": "bidding_conventions/fourth_suit_forcing",
@@ -2395,7 +2405,8 @@
           "boardVersionToken": "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc",
           "skillPath": "bidding_conventions/fourth_suit_forcing"
         }
-      ]
+      ],
+      "intro": "FSF_Intro.pdf"
     },
     "Finesse": {
       "skillPath": "declarer_play/finessing",
@@ -2522,7 +2533,8 @@
           "boardVersionToken": "bb85d60d9aba624bdb5258bcc4836bf7b1525bdf65aadc644c5c7f9245ca9c35",
           "skillPath": "declarer_play/finessing"
         }
-      ]
+      ],
+      "intro": "Finesse_Intro.pdf"
     },
     "Help": {
       "skillPath": "bidding_conventions/help_suit_game_try",
@@ -2589,7 +2601,8 @@
           "boardVersionToken": "d162386884406e2f11de365448cbe36dfbaf4389dd100a47abc6e854da351d93",
           "skillPath": "bidding_conventions/help_suit_game_try"
         }
-      ]
+      ],
+      "intro": "Help_Intro.pdf"
     },
     "Holdup": {
       "skillPath": "declarer_play/holdup_plays",
@@ -2686,7 +2699,8 @@
           "boardVersionToken": "e1bcc38bd881532b942c5ef725bf2b11a0aa6eb926835e80fcfab97f99c13475",
           "skillPath": "declarer_play/holdup_plays"
         }
-      ]
+      ],
+      "intro": "Holdup_Intro.pdf"
     },
     "Jacoby": {
       "skillPath": "bidding_conventions/jacoby_2nt_splinters",
@@ -2843,7 +2857,8 @@
           "boardVersionToken": "3701816e99ea39d256ad058f1be42ef9bb4bc580552c2bae01d891cdb2b16535",
           "skillPath": "bidding_conventions/jacoby_2nt_splinters"
         }
-      ]
+      ],
+      "intro": "Jacoby_Intro.pdf"
     },
     "Leben": {
       "skillPath": "competitive_bidding/lebensohl",
@@ -2970,7 +2985,8 @@
           "boardVersionToken": "80d2438f1ee0a6a729d409ba64648a5856c1afdd7d61a1ce68558601d5a59003",
           "skillPath": "competitive_bidding/lebensohl"
         }
-      ]
+      ],
+      "intro": "Leben_Intro.pdf"
     },
     "Major": {
       "skillPath": "basic_bidding/major_suit_openings",
@@ -3097,7 +3113,8 @@
           "boardVersionToken": "89038ad7437af08f47db7ad874cbcbcc474c7ac273a25df42e0a1f2e39fce17c",
           "skillPath": "basic_bidding/major_suit_openings"
         }
-      ]
+      ],
+      "intro": "Major_Intro.pdf"
     },
     "Michaels": {
       "skillPath": "competitive_bidding/michaels_unusual",
@@ -3224,7 +3241,8 @@
           "boardVersionToken": "fd4becd5959a36e7a5195962b03c6cd894223f02d87c39174b8a65232191470e",
           "skillPath": "competitive_bidding/michaels_unusual"
         }
-      ]
+      ],
+      "intro": "Michaels_Intro.pdf"
     },
     "Minor": {
       "skillPath": "basic_bidding/minor_suit_openings",
@@ -3351,7 +3369,8 @@
           "boardVersionToken": "a3a40f383f9a63d38ab67aedec2b7454a45f0e470bc340ca4550966be98eeb0c",
           "skillPath": "basic_bidding/minor_suit_openings"
         }
-      ]
+      ],
+      "intro": "Minor_Intro.pdf"
     },
     "NMF": {
       "skillPath": "bidding_conventions/new_minor_forcing",
@@ -3442,7 +3461,8 @@
           "boardVersionToken": "f690149921f3f8288977ac249fb01bd3f08d214d391fcf6cecc054f431412260",
           "skillPath": "bidding_conventions/new_minor_forcing"
         }
-      ]
+      ],
+      "intro": "NMF_Intro.pdf"
     },
     "Negative": {
       "skillPath": "competitive_bidding/negative_doubles",
@@ -3569,7 +3589,8 @@
           "boardVersionToken": "1fe6ae02af8b4ec8126ffe83cc1c91102606052efd50c7657d3213754528c415",
           "skillPath": "competitive_bidding/negative_doubles"
         }
-      ]
+      ],
+      "intro": "Negative_Intro.pdf"
     },
     "Notrump": {
       "skillPath": "basic_bidding/notrump_openings",
@@ -3726,7 +3747,8 @@
           "boardVersionToken": "4a3da30e349388557383781b830831264ddf020616306d3fd079e1a1eff0b399",
           "skillPath": "basic_bidding/notrump_openings"
         }
-      ]
+      ],
+      "intro": "Notrump_Intro.pdf"
     },
     "OLead": {
       "skillPath": "defense/opening_leads",
@@ -3853,7 +3875,8 @@
           "boardVersionToken": "a39a4ba09232c7ad22a25c863fd28981baff16424168cfb4c564e32ba2af09a4",
           "skillPath": "defense/opening_leads"
         }
-      ]
+      ],
+      "intro": "OLead_Intro.pdf"
     },
     "Ogust": {
       "skillPath": "bidding_conventions/ogust",
@@ -3920,7 +3943,8 @@
           "boardVersionToken": "376d931f2971e2f3cdb85068f8880036b09ea8362b0da21f4a7f5384fc25c66c",
           "skillPath": "bidding_conventions/ogust"
         }
-      ]
+      ],
+      "intro": "Ogust_Intro.pdf"
     },
     "Overcalls": {
       "skillPath": "competitive_bidding/overcalls",
@@ -4047,7 +4071,8 @@
           "boardVersionToken": "b4e8f0c7bbe2aa45580e3a796f12fba6c19c403cfeeeeb8856da4a899c7b73cd",
           "skillPath": "competitive_bidding/overcalls"
         }
-      ]
+      ],
+      "intro": "Overcalls_Intro.pdf"
     },
     "Partnership-AdvancedForcing": {
       "skillPath": "partnership_bidding/advanced_forcing",
@@ -4198,7 +4223,8 @@
           "boardVersionToken": "fcefd30c96e4191f6527e50b363cb6258ee73c19d5a4907364bbecfba837a7cb",
           "skillPath": "partnership_bidding/advanced_forcing"
         }
-      ]
+      ],
+      "intro": "Partnership-AdvancedForcing_Intro.pdf"
     },
     "Partnership-BasicBidding": {
       "skillPath": "partnership_bidding/basic_bidding",
@@ -4349,7 +4375,8 @@
           "boardVersionToken": "cdc39156a3847189fe8b2c74a320d62ebbce3dcfcb3875813948f4d1c2ea0694",
           "skillPath": "partnership_bidding/basic_bidding"
         }
-      ]
+      ],
+      "intro": "Partnership-BasicBidding_Intro.pdf"
     },
     "Partnership-BasicMajor": {
       "skillPath": "partnership_bidding/basic_major",
@@ -4500,7 +4527,8 @@
           "boardVersionToken": "5eff6a4e3e2f2203cfe07f1548228609cdf1bc724ad41c104522537e21a3196e",
           "skillPath": "partnership_bidding/basic_major"
         }
-      ]
+      ],
+      "intro": "Partnership-BasicMajor_Intro.pdf"
     },
     "Partnership-BasicNotrump": {
       "skillPath": "partnership_bidding/basic_notrump",
@@ -4651,7 +4679,8 @@
           "boardVersionToken": "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398",
           "skillPath": "partnership_bidding/basic_notrump"
         }
-      ]
+      ],
+      "intro": "Partnership-BasicNotrump_Intro.pdf"
     },
     "Partnership-Blackwood": {
       "skillPath": "partnership_bidding/blackwood",
@@ -4802,7 +4831,8 @@
           "boardVersionToken": "b78caaa351a73fe464119fe4d409dbecb868c8799b9fca5c38f8fb6a56f5b9e2",
           "skillPath": "partnership_bidding/blackwood"
         }
-      ]
+      ],
+      "intro": "Partnership-Blackwood_Intro.pdf"
     },
     "Partnership-Jacoby2NT": {
       "skillPath": "partnership_bidding/jacoby_2nt",
@@ -4953,7 +4983,8 @@
           "boardVersionToken": "9ae2fd6f320bba706218d0ae3c533bb460c744555cba7702ee83b0cca94f8178",
           "skillPath": "partnership_bidding/jacoby_2nt"
         }
-      ]
+      ],
+      "intro": "Partnership-Jacoby2NT_Intro.pdf"
     },
     "Partnership-NegativeDoubles": {
       "skillPath": "partnership_bidding/negative_doubles",
@@ -5104,7 +5135,8 @@
           "boardVersionToken": "6af084da710521cf551fb8f070ee468cb0f9dfe9ed8ec6607f96956a6ad85400",
           "skillPath": "partnership_bidding/negative_doubles"
         }
-      ]
+      ],
+      "intro": "Partnership-NegativeDoubles_Intro.pdf"
     },
     "Partnership-Overcalls": {
       "skillPath": "partnership_bidding/overcalls",
@@ -5255,7 +5287,8 @@
           "boardVersionToken": "85e74313c952b643231714eaf6ea78b5d418621d1c50ea75daee64254f9c4bd2",
           "skillPath": "partnership_bidding/overcalls"
         }
-      ]
+      ],
+      "intro": "Partnership-Overcalls_Intro.pdf"
     },
     "Partnership-RomanKeyCard": {
       "skillPath": "partnership_bidding/roman_key_card",
@@ -5406,7 +5439,8 @@
           "boardVersionToken": "50825a82ed96d5140ab7e583545c56833d45557b2cc5e6013f2ebefc4e31e3cc",
           "skillPath": "partnership_bidding/roman_key_card"
         }
-      ]
+      ],
+      "intro": "Partnership-RomanKeyCard_Intro.pdf"
     },
     "Partnership-StaymanTransfers": {
       "skillPath": "partnership_bidding/stayman_transfers",
@@ -5557,7 +5591,8 @@
           "boardVersionToken": "f6c4428d5ee081e84cacac58e985109d1c6fbba8eec80b6c1ce2c8da3ae0b867",
           "skillPath": "partnership_bidding/stayman_transfers"
         }
-      ]
+      ],
+      "intro": "Partnership-StaymanTransfers_Intro.pdf"
     },
     "Partnership-TwoClub": {
       "skillPath": "partnership_bidding/two_club",
@@ -5708,7 +5743,8 @@
           "boardVersionToken": "95490a29956197eac5dd5c354a5365e4d1ab93003bd98cd50ad65761d3452309",
           "skillPath": "partnership_bidding/two_club"
         }
-      ]
+      ],
+      "intro": "Partnership-TwoClub_Intro.pdf"
     },
     "Partnership-WeakTwos": {
       "skillPath": "partnership_bidding/weak_twos",
@@ -5859,7 +5895,8 @@
           "boardVersionToken": "ac198b30f1d6ba925f1b67149176046c34f57d4f9c683d35680e381ab16f18f0",
           "skillPath": "partnership_bidding/weak_twos"
         }
-      ]
+      ],
+      "intro": "Partnership-WeakTwos_Intro.pdf"
     },
     "Preempt": {
       "skillPath": "bidding_conventions/preemptive_bids",
@@ -5938,7 +5975,8 @@
           "boardVersionToken": "44b2aa534c1ab1e00afb7dda62645150882d2629d39d47e52d32557a5303f69b",
           "skillPath": "bidding_conventions/preemptive_bids"
         }
-      ]
+      ],
+      "intro": "Preempt_Intro.pdf"
     },
     "Reverse": {
       "skillPath": "bidding_conventions/reverse_bids",
@@ -6029,7 +6067,8 @@
           "boardVersionToken": "00d00b594fd381868df41f47cc7593189196acbe1cfda1ee6329683aa78cdbf9",
           "skillPath": "bidding_conventions/reverse_bids"
         }
-      ]
+      ],
+      "intro": "Reverse_Intro.pdf"
     },
     "Roman": {
       "skillPath": "bidding_conventions/roman_keycard",
@@ -6156,7 +6195,8 @@
           "boardVersionToken": "8cc5f7348aa4e299ab3389b9f70ed1331e10d6df90355827a34b5571e090414b",
           "skillPath": "bidding_conventions/roman_keycard"
         }
-      ]
+      ],
+      "intro": "Roman_Intro.pdf"
     },
     "SecondHand": {
       "skillPath": "defense/second_hand_play",
@@ -6283,7 +6323,8 @@
           "boardVersionToken": "9c38fc9daa5f2e98a1d00a1716ac0fd5ed334eec38df377b152f29311de9d5c4",
           "skillPath": "defense/second_hand_play"
         }
-      ]
+      ],
+      "intro": "SecondHand_Intro.pdf"
     },
     "Signals": {
       "skillPath": "defense/defensive_signals",
@@ -6410,7 +6451,8 @@
           "boardVersionToken": "feba9b533ac287a43ed114b3457e7918d00256b21e15c5be0e651c039c2d4840",
           "skillPath": "defense/defensive_signals"
         }
-      ]
+      ],
+      "intro": "Signals_Intro.pdf"
     },
     "Squeeze": {
       "skillPath": "declarer_play/squeeze_plays",
@@ -6537,7 +6579,8 @@
           "boardVersionToken": "2371184727df45669276ca5b1a1802a0882938aa89b709b40096d063e4e9718a",
           "skillPath": "declarer_play/squeeze_plays"
         }
-      ]
+      ],
+      "intro": "Squeeze_Intro.pdf"
     },
     "Stayman": {
       "skillPath": "bidding_conventions/stayman",
@@ -6694,7 +6737,8 @@
           "boardVersionToken": "716798a2f176ae011ef225749ea4a38c262ddf0ee57d2524ae548d4cbcc4402a",
           "skillPath": "bidding_conventions/stayman"
         }
-      ]
+      ],
+      "intro": "Stayman_Intro.pdf"
     },
     "Takeout": {
       "skillPath": "competitive_bidding/takeout_doubles",
@@ -6851,7 +6895,8 @@
           "boardVersionToken": "09111367b1645be09714b4f8af3944f8ac9e8a2b7473a86ff045e30c88c8651c",
           "skillPath": "competitive_bidding/takeout_doubles"
         }
-      ]
+      ],
+      "intro": "Takeout_Intro.pdf"
     },
     "ThirdHand": {
       "skillPath": "defense/third_hand_play",
@@ -6978,7 +7023,8 @@
           "boardVersionToken": "fa597030d12005d2a164cc151063d24326c6c345b11252d974e0f145703c20dd",
           "skillPath": "defense/third_hand_play"
         }
-      ]
+      ],
+      "intro": "ThirdHand_Intro.pdf"
     },
     "Transfers": {
       "skillPath": "bidding_conventions/jacoby_transfers",
@@ -7135,7 +7181,8 @@
           "boardVersionToken": "51b09af6cbfeab28911b03109aadb0949d69d959325bc7c4cca34bcb582f18b7",
           "skillPath": "bidding_conventions/jacoby_transfers"
         }
-      ]
+      ],
+      "intro": "Transfers_Intro.pdf"
     },
     "Trumpmgmt": {
       "skillPath": "declarer_play/trump_management",
@@ -7262,7 +7309,8 @@
           "boardVersionToken": "c46d7bef8183afd255cbf105bbaa2025ba2ca0174603e5a8efb6bd2cc7955e9e",
           "skillPath": "declarer_play/trump_management"
         }
-      ]
+      ],
+      "intro": "Trumpmgmt_Intro.pdf"
     },
     "Weak2": {
       "skillPath": "bidding_conventions/weak_2s",
@@ -7389,7 +7437,8 @@
           "boardVersionToken": "5691e889fdba15d0b2324114e9a03c449311cb6b9551e597a4cbb6124dd2a461",
           "skillPath": "bidding_conventions/weak_2s"
         }
-      ]
+      ],
+      "intro": "Weak2_Intro.pdf"
     }
   }
 }

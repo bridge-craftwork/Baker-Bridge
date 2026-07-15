@@ -81,7 +81,10 @@ def strip_phrases(file_path, regex_control_tags, regex_prompts, literal_fragment
 def main():
     # Set up base directories based on the current working directory
     base_dir = os.getcwd()
-    package_dir = os.path.join(base_dir, "Package")
+    # Build Presentation from the contracted-files folder. Phase B (issue #21) moved the
+    # build output to bridge-classroom/ (Package/ is a frozen orphan); honor BB_PACKAGE_DIR
+    # so Presentation -> Rotations inherit the re-rolled passers, not the stale Package ones.
+    package_dir = os.environ.get("BB_PACKAGE_DIR") or os.path.join(base_dir, "Package")
     presentation_dir = os.path.join(base_dir, "Presentation")
 
     # --- Pass 1: Bridge-classroom control tags (case-sensitive) ---

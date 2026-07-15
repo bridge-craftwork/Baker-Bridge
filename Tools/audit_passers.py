@@ -190,9 +190,13 @@ def main():
     with tempfile.TemporaryDirectory() as tmp:
         records = audit(lessons, tmp)
 
-    with open(OUT_CSV, "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["lesson", "board", "fill_lesson", "status", "detail"])
-        w.writeheader(); w.writerows(records)
+    # Only persist the committed baseline CSV when auditing the default Package/. Auditing an
+    # override dir (BB_PACKAGE_DIR, e.g. Collection/bridge-classroom) prints only, so it can't
+    # clobber the Phase 0 baseline.
+    if not os.environ.get("BB_PACKAGE_DIR"):
+        with open(OUT_CSV, "w", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=["lesson", "board", "fill_lesson", "status", "detail"])
+            w.writeheader(); w.writerows(records)
 
     per = defaultdict(lambda: defaultdict(int))
     fill_of = {}

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:48:25
+%Created: 2026-07-14 21:15:17
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -199,8 +199,8 @@ North now must find a bid. His choices include rebidding the 5-card \Ss, support
 [Board "10"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:A4.KJT8653.KQ.87 Q..A987632.95432 KJ763.AQ7.J4.AQJ T9852.942.T5.KT6"]
-[BoardVersionToken "5cacf3800ee6053e0498a3244d7575e43ad449b599710ed1bcac18c999fa3995"]
+[Deal "S:KJ763.AQ7.J4.AQJ Q5.42.A9632.T963 A4.KJT8653.KQ.87 T982.9.T875.K542"]
+[BoardVersionToken "ba9b2d969dcacca9f5aabb891a4e4c42a25b2fee1a4efc4484aa68cdfaf74d39"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

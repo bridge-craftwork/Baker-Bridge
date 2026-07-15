@@ -45,7 +45,7 @@ import re
 import subprocess
 import sys
 
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3  # v3: optional per-lesson "intro" (companion _Intro.pdf), additive
 
 
 def git_head_commit(repo_dir):
@@ -130,12 +130,17 @@ def build_manifest(package_dir):
         basename, boards = parse_file(path)
         if not boards:
             continue
-        lessons[basename] = {
+        lesson = {
             "skillPath": lesson_skill_path(boards),
             "boardCount": len(boards),
             "stableBoardCount": sum(1 for b in boards if b["stable"]),
             "boards": boards,
         }
+        # Companion lesson introduction (shown in the app when present). Schema v3.
+        intro = f"{basename}_Intro.pdf"
+        if os.path.exists(os.path.join(package_dir, intro)):
+            lesson["intro"] = intro
+        lessons[basename] = lesson
     # Deterministic ordering of lessons by basename.
     lessons = {k: lessons[k] for k in sorted(lessons)}
 
