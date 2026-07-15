@@ -147,7 +147,7 @@ HTML Files -> bbparse.py -> BakerBridge.csv
 | **export** | (build-mac.sh) | Copy the contract files `Collection/` -> `bridge-classroom/` |
 | **presentation** | `package_presentation.py` | Organize `Collection/` into `Presentation/` by category, strip interactive directives |
 | **rotate** | `rotate_lesson_collection.sh` | Slice into board sets, rotate hands, generate dealing sheets -> `Rotations/` |
-| **publish** | (build-mac.sh) | Mirror `Rotations/` to the public Google Drive teacher folder (`rsync --delete`) |
+| **publish** | (build-mac.sh) | Publish `Rotations/` to the public Google Drive teacher folder (delete + bulk copy) |
 
 ### The --generate Flag
 
@@ -167,8 +167,9 @@ The **generate** phase (running dealer3 to produce `constructed_hands.csv`) is t
 ### Publishing to Google Drive
 
 Teachers can pull `Rotations/` from GitHub, but the easier-to-access copy is a public-readable
-Google Drive folder. The `publish` phase mirrors `Rotations/` there with `rsync --delete`, so
-anything removed from the master is also removed at the destination:
+Google Drive folder. The `publish` phase replaces that folder with the current `Rotations/`
+(mass-delete + one bulk copy — far faster than per-file sync on the Google Drive mount, and it
+inherently drops anything no longer in the master):
 
 ```bash
 ./build-mac.sh publish                    # mirror the whole Rotations tree

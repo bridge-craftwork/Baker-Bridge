@@ -1,7 +1,15 @@
 # Rotations producer contract (v1 draft)
 
-**Status:** Draft for review. **Related:** issue #21, `passer-fill-bba-redesign.md`,
-`build-mac.sh` (`presentation` + `rotate` phases), `rotate_lesson_collection.sh`.
+> **Superseded framing:** this is now **Baker Bridge's instantiation** of the shared,
+> cross-collection **`face-to-face-contract.md`** (which generalizes this structure so
+> sibling collections — e.g. Grant Robinson — produce the same artifacts). Baker's
+> parameters: `namePrefix = "Baker Bridge "`, `setSizes = [4,5,6]`, `companionDoc =
+> _Intro.pdf`, numbered categories. See the shared contract for the size-conditional
+> slicing rule and per-collection knobs.
+
+**Status:** Draft for review. **Related:** issue #21, `face-to-face-contract.md`,
+`passer-fill-bba-redesign.md`, `build-mac.sh` (`presentation` + `rotate` phases),
+`rotate_lesson_collection.sh`.
 
 A second producer contract, alongside the Bridge-Classroom contract (`Collection/manifest.json`).
 Where that contract describes the **app's** interactive files, this describes the **face-to-face
