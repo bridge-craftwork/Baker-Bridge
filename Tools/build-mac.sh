@@ -33,9 +33,10 @@
 #   package        Package results
 #   presentation   Create presentation structure
 #   rotate         Generate rotations for multi-table play
+#   publish        Mirror Rotations/ to the public Google Drive teacher folder
 #
 # Options:
-#   --lesson NAME  Filter to a specific lesson (for presentation/rotate steps)
+#   --lesson NAME  Filter to a specific lesson (for presentation/rotate/publish steps)
 #   --generate     Regenerate constrained hands (with classroom/rotations)
 #   --clean        Remove existing build artifacts before building
 #   --help         Show this help message
@@ -69,6 +70,11 @@ export BB_PACKAGE_DIR="$COLLECTION_DIR"
 # Back-compat alias: several helpers below still say PACKAGE_DIR meaning the master.
 PACKAGE_DIR="$COLLECTION_DIR"
 
+# Publish target: the public-readable Google Drive copy of Rotations/ that teachers use
+# (easier to access than GitHub). Override with BB_PUBLISH_DIR. The `publish` phase mirrors
+# Rotations/ here with rsync --delete (so files removed from the master are removed here too).
+PUBLISH_DIR="${BB_PUBLISH_DIR:-/Users/rick/Library/CloudStorage/GoogleDrive-bridge.craftwork@gmail.com/My Drive/For Teachers/Lesson Collections/Baker Bridge Collection}"
+
 # Tool paths
 DEALER_PATH="$HOME/Development/GitHub/dealer3/target/release/dealer"
 BRIDGE_WRANGLER_PATH="$HOME/Development/GitHub/bridge-wrangler/target/release/bridge-wrangler"
@@ -91,6 +97,7 @@ PHASES=(
     "export|Export bridge-classroom contract files from Collection"
     "presentation|Create presentation structure"
     "rotate|Generate rotations for multi-table play"
+    "publish|Mirror Rotations/ to the public Google Drive teacher folder (explicit; excluded from '*')"
 )
 
 # Parse arguments
@@ -185,6 +192,9 @@ show_phases() {
     echo "  ./build-mac.sh rotations --lesson Ogust        Build rotations for one lesson"
     echo "  ./build-mac.sh rotations --generate            Regenerate constrained hands"
     echo "  ./build-mac.sh rotate --lesson Finesse         Just rotate one lesson"
+    echo "  ./build-mac.sh publish                         Mirror all Rotations to Google Drive"
+    echo "  ./build-mac.sh publish --lesson Ogust          Publish just one lesson"
+    echo "  PUBLISH_ARGS=-n ./build-mac.sh publish         Dry-run the publish (show changes only)"
     echo "  ./build-mac.sh parse                           Run a single phase"
     echo "  ./build-mac.sh '*'                             Run all phases"
 }
@@ -396,6 +406,43 @@ phase_rotate() {
     echo "Output: Rotations/ ($ROT_COUNT files)"
 }
 
+phase_publish() {
+    # Mirror Rotations/ (our face-to-face product) to the public Google Drive teacher folder.
+    # Whole tree by default, or a single lesson with --lesson (matches the lesson folder name).
+    # rsync --delete removes anything at the destination that is no longer in the master.
+    # Deliberately NOT part of the classroom/rotations shortcuts: publishing is an explicit,
+    # outward-facing release action. Pass extra rsync flags via PUBLISH_ARGS (e.g. -n dry-run).
+    local filter="${LESSON:-}"
+    step "Publish Rotations -> Google Drive"
+    if [[ ! -d "$REPO_ROOT/Rotations" ]]; then
+        error "Rotations/ not found. Run 'rotate' first."
+    fi
+    local destparent; destparent="$(dirname "$PUBLISH_DIR")"
+    if [[ ! -d "$destparent" ]]; then
+        error "Publish target parent not found: $destparent
+    (is Google Drive mounted? override the location with BB_PUBLISH_DIR=...)"
+    fi
+    mkdir -p "$PUBLISH_DIR"
+    local opts=(-rt --delete --exclude='.DS_Store' $PUBLISH_ARGS)
+    if [[ -z "$filter" || "$filter" == "*" ]]; then
+        echo "Mirroring the entire Rotations tree to:"
+        echo "  $PUBLISH_DIR"
+        rsync "${opts[@]}" "$REPO_ROOT/Rotations/" "$PUBLISH_DIR/"
+        echo "Published: entire Rotations tree (stale files removed)."
+    else
+        local found=0 lessondir rel
+        while IFS= read -r lessondir; do
+            found=1
+            rel="${lessondir#$REPO_ROOT/Rotations/}"
+            mkdir -p "$PUBLISH_DIR/$rel"
+            rsync "${opts[@]}" "$lessondir/" "$PUBLISH_DIR/$rel/"
+            echo "Published: $rel"
+        done < <(find "$REPO_ROOT/Rotations" -mindepth 2 -maxdepth 2 -type d -iname "*$filter*")
+        [[ "$found" == 1 ]] || warn "No Rotations lesson folder matched '$filter'"
+    fi
+    echo "Done. Google Drive Desktop will sync the changes in the background."
+}
+
 do_clean() {
     step "Cleaning build artifacts"
     cd "$SCRIPT_DIR"
@@ -423,6 +470,7 @@ run_phase() {
         export)       phase_export ;;
         presentation) phase_presentation ;;
         rotate)       phase_rotate "${LESSON:-*}" ;;
+        publish)      phase_publish ;;
         *)
             echo "Unknown phase: $phase"
             echo ""
@@ -536,6 +584,8 @@ run_all_phases() {
     # Run all phases
     for entry in "${PHASES[@]}"; do
         local name="${entry%%|*}"
+        # 'publish' pushes to a public Google Drive; never run it implicitly in a full build.
+        [[ "$name" == "publish" ]] && continue
         run_phase "$name"
     done
 
