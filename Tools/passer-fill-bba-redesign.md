@@ -173,18 +173,21 @@ Open question on how to apply the prefix (decide during prototype):
 
 ## Implementation roadmap
 
-### Phase 0 — Audit the existing fills (measure the blast radius)
-Cheap and high-value; do this first. Run the BBA-reject *check* over the **current**
-`Package/*.pbn` (no fill changes) to see how widespread biddable passers are.
-- [ ] For every board in every "quiet" lesson, feed the released deal to `bba-cli` (batched)
-      with `--auction-prefix "<that board's bidding-side auction>"`.
-- [ ] Flag every board where E or W makes a non-pass call; report a per-lesson count and a
-      list of offending boards (lesson, board, which passer, what it bid).
-- [ ] Deliverable: a table of how many lessons/boards are affected. This scopes Phase A/B,
-      and doubles as a regression baseline ("N bad boards today → 0 after redesign"). It may
-      also surface a short list worth an interim manual fix before the full redesign lands.
-- Note: this reuses only the BBA backend + `--auction-prefix`; it needs no dealer/fill work,
-  so it can run before Phase A is built.
+### Phase 0 — Audit the existing fills (measure the blast radius) ✅ DONE (2026-07-14)
+Ran the BBA-reject *check* over the current `Package/*.pbn` (no fills changed).
+- **Tool:** `Tools/audit_passers.py` · **Data:** `Tools/audit_passers_results.csv` ·
+  **Write-up:** `Tools/passer-fill-phase0-audit.md`.
+- **Result:** **64 biddable-passer boards across 19 fill lessons** (of 141 total incl.
+  non-fill). 58 act early (turn ≤ 3); 46 are suit overcalls/openings — the disruptive class.
+  Worst: **Reverse (8), Minor (6)**; then 2Club/2over1/Jacoby/Roman/Stayman/Weak2 (5 each).
+  Spot-checked hands confirm genuine 6–7 card overcalls (e.g. Roman b15 East `AK95432…` into
+  a 6♥ auction) — the loose constraint is **systemic**, not one board.
+- **Baseline for Phase A/B:** drive the 64 → 0; re-run the tool to check regressions.
+- Method note (implemented differently than first sketched, better): probe is **per-board,
+  one bba-cli run per quiet-side turn** — `--auction-prefix` = the scripted auction up to
+  that turn, then read EPBot's single call. Not batched (prefix is a per-run global), but the
+  native CLI is fast enough (~65s full corpus). The "quiet side" is derived from the scripted
+  auction itself (the all-pass partnership), which cleanly auto-excludes competitive lessons.
 
 ### Phase A — Prototype on NMF (small, verifiable)
 - [ ] Add a Mac-native BBA backend to the fill (point at
