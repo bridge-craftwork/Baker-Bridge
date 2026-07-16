@@ -8,17 +8,63 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:96.QJT852.K53.65 QT72.A9.J872.983 A853.K74.A64.KQ7 KJ4.63.QT9.AJT42"]
+[Deal "S:96.875.AKQ762.54 J83.KQ9.T3.K8763 AQ742.A63.J5.AT9 KT5.JT42.984.QJ2"]
 [Declarer "N"]
-[Contract "3H"]
+[Contract "3NT"]
 [Result ""]
-[Auction "N"]
-2H pass 2NT pass 3H pass pass pass
+[Auction "S"]
+2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2d4debb402076ceaaf1865c1d6450223f3e7ad3d7c0de341c40c27894dca52fc"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "45652ef8ed571962e7b4c862a7aaf67e7d674537ff9ecca42d83615b16a50e39"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/weak_2s"]
+[Student "S"]
+{You dealt this hand.  
+
+You open with a Weak 2-Bid, 2\D. Partner responds 2NT. What do you say next? 
+
+The 2NT bid is forcing and your suit is A K Q x x x. This is the standard guideline where you must rebid 3NT. When you do, partner passes. Nice.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KQ9763.J2.J6.754 J.Q9854.874.AT62 A854.3.AK52.KQ83 T2.AKT76.QT93.J9"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "2b2b71713f6c46c8d26b72293bdc736bc68ac68346c13e20de3411a66ca82b62"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/weak_2s"]
+[Student "S"]
+{You should raise to 4\S because that is what you expect partner to make. }
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:75.KJT864.84.A97 AT3.9.QJ632.QJT5 KQJ2.Q752.A5.K83 9864.A3.KT97.642"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+2H pass 2NT pass 3C pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d489c6fd42f88040bef894b34466acd59acd99205dca9d8f224b87ba1be5090c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -27,26 +73,28 @@
 
 You open with a Weak 2-Bid, 2\H. Partner responds 2NT. What do you say next? 
 
-The 2NT bid is forcing. Your \DK is a feature, but your immediate priority is to let partner know that you have a minimum strength opener, 6, 7 or 8 points. So you rebid 3\H. Partner passes.}
+The 2NT bid is forcing and you have better than a minimum. You show your "feature" by bidding 3\C. Partner now bids the game.}
 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:KQ9763.T2.K62.74 T2.KQ965.T97.KJ6 A854.73.J85.QT83 J.AJ84.AQ43.A952"]
-[Declarer "E"]
-[Contract "4S"]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:96.KQT763.754.J7 T73.A8.J92.KT952 KJ54.J52.AQT3.A8 AQ82.94.K86.Q643"]
+[Declarer "W"]
+[Contract "3H"]
 [Result ""]
-[Auction "E"]
-2S pass 4S pass pass pass
+[Auction "W"]
+2H pass 2NT pass 3H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "1ae2c3501612aeb61ac98f4a4ff951c06ca3baa02287c44cd8ed82757eb73a07"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "d0739de688023bba032f4591beaa450e491f5371d7c096f07e1053eabf2ccefe"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
-{You should raise to 4\S. Not that you expect partner to make it, he probably cannot.  Your raise is a preemptive measure, hoping to prevent the opponents from finding their \H fit. }
+{One of the characteristics of Weak 2-Bids is that Responder often is unsure how high to go. That's why the 2NT bid is such a great tool. In this case you bid 2NT and partner says 3\H.  
+
+Well, you weren't sure whether to take partner to game or not, so when he says he has a minimum hand you have to pass.}
 

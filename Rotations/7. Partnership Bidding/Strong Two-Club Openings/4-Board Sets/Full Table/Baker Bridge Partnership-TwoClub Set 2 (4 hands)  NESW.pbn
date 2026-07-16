@@ -10,54 +10,110 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:K3.KQJ2.AQ98.AK4 94.93.653.QJ9872 QJT72.A5.742.653 A865.T8764.KJT.T"]
+[Deal "N:AJ87.AK.A86.AKQJ K54.JT6.743.T764 Q62.9753.Q52.953 T93.Q842.KJT9.82"]
 [Declarer "N"]
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2S pass 2NT pass 3NT pass pass pass
+2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7071750f311e73c6a409bbd204ad69aed624e27a96519c0c98a9584f2ab6e9ff"]
+[BoardVersionToken "889efab8458a4b157fd9046afcf2118d2e06991be3f67f90165807fdf80d9b9a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{NORTH opens 2\C with her balanced 22 points.
+{NORTH has lots of points - 26 to be exact. She opens 2\C. 
+In the old days this hand would have been opened 3NT.
 
-SOUTH has 8 points AND a 5-card \S suit. This is strong enough for a positive response, so 
-he bids 2\S.
+SOUTH has 4 points and responds 2\D.
 
-NORTH completes the description of her hand by saying 2NT.
+NORTH now shows her full strength by jumping to 3NT (25-27 points, balanced).
 
-SOUTH does NOT rebid the \Ss; his first bid already promised a 5-card suit. He just 
-bids 3NT.}
+SOUTH knows there is no slam, so he passes 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A73.AKQ862.86.AK QT985.93.KT53.Q4 642.754.J72.8653 KJ.JT.AQ94.JT972"]
+[Declarer "E"]
+[Contract "3H"]
+[Result ""]
+[Auction "E"]
+2C pass 2D pass 2H pass 3C pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "09de171f43d5af99dc7ab4e6ee5daeb0443b06ee8a5f16dd60f89a90bf17fe81"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{EAST has 22 points and opens 2\C.
+
+WEST is pretty weak, right? She responds 2\D.
+
+EAST bids his suit, 2\H.
+
+WEST is so weak she bids the second negative - 3\C.
+
+EAST rebids his suit, 3\H, and WEST passes.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:KQ2.AKQ75.A72.AT 9874.J4.QT5.KJ53 A3.T982.986.8764 JT65.63.KJ43.Q92"]
-[Declarer "E"]
-[Contract "4H"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK63.AK82.KQJ.KQ Q95.63.T87.AJT92 42.QJ975.A52.753 JT87.T4.9643.864"]
+[Declarer "S"]
+[Contract "6H"]
 [Result ""]
-[Auction "E"]
-2C pass 2D pass 2H pass 4H pass pass pass
+[Auction "N"]
+2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "607914f955bb539e79738bb2630034b6707f324fbeb305634a7712025cf8cd73"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{EAST has 23 points and opens 2\C.
+{NORTH has a nice 2\C opening hand.
 
-WEST, with 4 points, must respond 2\D.
+With 8 points, SOUTH can make a positive response so he bids his 5-card \Hsuit.
 
-EAST now shows a \H suit (at least 5) by bidding 2\H.
+NORTH likes \Hs, knows there are at least 33 points, but needs to make 
+sure the opponents don't have two Aces so she uses Blackwood.
 
-WEST likes \Hs, she has already told EAST she has fewer than 8 points, so she 
-bids 4\H.}
+When SOUTH shows one Ace NORTH bids 6\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:KQT2.AQJT5.AK2.K 74.84.9843.QT965 AJ983.K72.6.A874 65.963.QJT75.J32"]
+[Declarer "W"]
+[Contract "7S"]
+[Result ""]
+[Auction "E"]
+2C pass 2S pass 3S pass 4C pass 4D pass 4NT pass 5S pass 7S all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{EAST opens 2\C and is pleased when WEST makes a positive response of 2\S. 
+His first step is to set the trump suit by bidding 3\S. There is NO chance that WEST will pass.
+
+WEST now bids 4\C a Control-showing bid. 
+EAST continues Control-showing with 4\D.
+
+That's enough for WEST to hear. She invokes Blackwood and learning they have all the Aces 
+bids 7\S.}
 

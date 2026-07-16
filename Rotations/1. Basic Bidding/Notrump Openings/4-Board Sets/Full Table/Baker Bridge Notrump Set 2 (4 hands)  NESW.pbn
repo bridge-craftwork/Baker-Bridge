@@ -10,49 +10,99 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:QJT.AQ.T87.AQT95 AK2.9763.A643.72 865.K84.QJ95.K83 9743.JT52.K2.J64"]
+[Deal "N:QJT5.Q98.AK4.AJ9 982.J4.Q7653.642 AK3.AK7.T82.QT75 764.T6532.J9.K83"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "6NT"]
 [Result ""]
 [Auction "N"]
-1NT pass 2NT pass 3NT pass pass pass
+1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "cec050fc40fad291005a730669cab58b06834bd241ad1625fb8ccb8e3f92fc72"]
+[BoardVersionToken "58dc2cda9861980df4952d6be0c7c2ec800c45c35905e87e4bb0c27d1e2c454c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
-{Of course you open 1NT. Partner responds 2NT.  
+{You open 1NT and partner jumps to 4NT.  
 
-With 15 points you decline invitations, and with 17 points you accept. But with 16 you have to use your judgement. Some players will just automatically bid 3NT when they have 16 points, preferring to err on the side of boldness than to possibly miss bidding a makeable game. Others prefer to base their decision on how good the hand looks.
+This is the sequel to Deal 4. This time you have 17 points so you accept partner's invitation to slam and bid 6NT.
 
-With all the 10s and 9s this hand is stronger than 16 points, so you bid 3NT.}
+You have 11 top tricks and can easily set up one more in \Cs.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QJT5.Q98.AQ4.AJ9 986.J4.K976.K843 AK3.AK7.T82.QT75 742.T6532.J53.62"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result ""]
+[Auction "E"]
+1NT pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "f0ebc2cf36a1d3d5e1bcbbfbcc8302c0b0b02d54eac959d24d0c59d0bc82f0ef"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{You open 1NT and partner jumps to 4NT.  
+
+This is the threequel to 4 and 5. With a "good 16" points you accept the invitation and bid 6NT.
+
+As you might expect, this time the slam is not so certain, but there is a good chance. If either Minor suit finesse works you can make 12 tricks.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
+[Dealer "W"]
 [Vulnerable "EW"]
-[Deal "E:QJT5.Q98.AQ4.A98 6.J642.KJ9765.J3 AK3.AK7.T82.QT75 98742.T53.3.K642"]
-[Declarer "E"]
-[Contract "4NT"]
+[Deal "W:AJT98.8.QT96.J73 KQ6.Q5.AJ74.KT96 542.AK42.852.AQ8 73.JT9763.K3.542"]
+[Declarer "S"]
+[Contract "2H"]
 [Result ""]
-[Auction "E"]
-1NT pass 4NT pass pass pass
+[Auction "W"]
+pass 1NT pass 2H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "6c99955a6ff6d958ed4dd2c335e450de2f9fe223110e221391fd57e3fc3cf4cd"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "c120299fea02cdbd9ad082c1747bb17c9507f19b585c2bef28cff23cfb93f1de"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
-{You open 1NT. Again. This time partner jumps to 4NT.  
+{The bidding has been as shown.   
 
-Partner's bid is <b>not</b> Blackwood. It is called a Quantitative 4NT and he is telling you he has a balanced 16-17 point hand. He is inviting you to bid 6NT.
+Surprise - you open 1NT. Partner responds 2\H.  (no transfers in this lesson) 
 
-With 17 you accept invitations, with 15 you decline. You have 15 so you pass.
+Pass. Partner has long \Hs (probably 6) and short points (fewer than 9). He has decided that 2\H will be a better spot than 1NT. Trust him.}
 
-As you see, there are 9 easy tricks and you can probably set up another. But you have no chance to make slam.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A42.A8.T962.QJ85 J8.QJT73.J53.A73 T9753.9642.K8.42 KQ6.K5.AQ74.KT96"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+pass pass pass 1NT pass 3H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "411ce656323cabfeb6e53df0cadc23cf8785e3969af2d271d93c21f7b84c3424"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You open 1NT and partner replies 3\H. What do you say next? 
+
+With this bidding method, partner's bid shows at least 10 points and exactly 5 \Hs. He expects you to choose between 3NT and 4\H. Since you have just a doubleton in \Hs you choose 3NT.
+
+NOTE: Jacoby Transfers are very useful for this type of hand.}
 

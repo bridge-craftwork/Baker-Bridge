@@ -4,61 +4,134 @@
 %HRTitleEvent Partnership-BasicNotrump
 %bridge-classroom-stable: true
 %bridge-context: NO Stayman, NO Jacoby Transfers (natural responses only)
-{SOUTH has a strong hand, 20 points and balanced distribution. 
-It is just right to open 2NT (20-21 points).
-
-NORTH adds her 2 points to SOUTH's promised number of 20 or 21. Since she doesn't reach the 
-magic game number of 26 points she just passes.}
-
 [Event "Baker Bridge - Very Basic Notrump Bidding"]
 [Site ""]
 [Date ""]
-[Board "2"]
-[Dealer "W"]
+[Board "1"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "W:QJ92.J8.6532.642 AT8.AT9.KQT8.K97 654.K6543.A7.A53 K73.Q72.J94.QJT8"]
+[Deal "N:AK5.T743.A982.KQ QJ.QJ62.T75.8652 764.AK8.KQ.AJT74 T9832.95.J643.93"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "6NT"]
 [Result ""]
-[Auction "W"]
-pass 1NT pass 2NT pass 3NT pass pass pass
+[Auction "N"]
+1NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d870f306cb4e7a1e2d786c91cb6f3b60865b9eab4252f3b222f5dee9f25cc781"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "056feda18a4c1fb23922abdd170cbb36f8cad78787c9111a25523514e0eb23b1"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{NORTH has an mid-range 1NT opener; a balanced hand with 16 points.
+{This is another example of "She who knows, goes."
 
-SOUTH has 9 points. He bids 2NT, asking NORTH to pass if she has 15 or bid 3NT if she has 17.
+SOUTH has a solid 18 points, (1 extra for the fifth Club), so when NORTH opens 1NT 
+she KNOWS that together they must hold at least 33 points. The may even have 35 points. 
 
-But NORTH has 16 points, which leaves her with no clear choice. 
-In this case she must decide whether her hand is a "good" 16 points or a "poor" 16 points. 
-Since her supporting cards are mostly 10's, 9's and 8's she figures it as "good" 
-and bids 3NT.}
+In any case they should be in slam, so SOUTH GOES to 6NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:854.K764.862.AJ6 KJ9.AQ.KQJ95.KT4 AQ72.J932.T4.732 T63.T85.A73.Q985"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "aaaabdeffa40c5958dcfd4ac3b17a4303b23acf80e5ba5b453a088321ffb9645"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH has 20 points, counting one extra for the fifth Diamond. Just right to open 2NT.
+
+NORTH has 6 points, just enough to bid 3NT. 
+(20 + 6 = 26) (21 + 6 = 27)}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QT3.KT6.A94.T752 6.QJ742.632.A963 KJ92.A98.QT8.KQJ A8754.53.KJ75.84"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+pass pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "cc9b1224a08c178f57d440fbff65cb034d90b7d0b5cbaca1602e50998a3a6326"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{After SOUTH passes initially, NORTH opens 1NT.
+
+With 9 points, SOUTH has invitational strength, so he says 2NT. 
+
+NORTH has a small problem - SOUTH's bid tells her to bid 3NT with 17 points, but to pass 
+with 15 points. Her problem is that she has 16! Since it looks to her like a "good" 16 points 
+she bids 3NT. If those 10's and 9's had been 4's and 3's she would have passed.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KQJ.A4.KQT8.AJ73 A54.QJ3.J632.T98 T962.K75.954.KQ6 873.T9862.A7.542"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:JT854.732.932.A3 KQ93.KQT.AJ7.QT8 62.J965.Q854.965 A7.A84.KT6.KJ742"]
 [Declarer "S"]
-[Contract "3NT"]
+[Contract "6NT"]
 [Result ""]
-[Auction "S"]
-2NT pass 3NT pass pass pass
+[Auction "E"]
+pass 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "bbc0aab189d3f4850d3df5ff623fe5370b810fc83e457b1954dd721f0716eb44"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "11aa4fcca2711326ffdc1e58aaf3b7fee53485005a670877c8233c4d950974e9"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{SOUTH has 20 points and 4-4-3-2 distribution, so he opens 2NT.
+{SOUTH has a great 1NT hand - 17 points and 4-3-3-3 shape.
 
-NORTH has 8 points. She adds SOUTH's 20 or 21 for a total of 28 or 29, enough for game but 
-nowhere close to the slam requirement. So she bids 3NT and SOUTH passes.}
+NORTH has 16 points; he figures it is possible that SOUTH can make a slam, but only 
+if she has a 17 point opener. So he bids 4NT, expecting SOUTH to bid 6NT if she has 17 points 
+but to pass if she has fewer.
+
+He figured right - SOUTH had 17 points so she bid 6NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A74.Q96.KQ52.KJ8 J652.T872.T97.A4 K8.AK5.A8.QT9632 QT93.J43.J643.75"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "9b666036ec57429a03b0ba45a4785dd0a8a5abfba27cbe63b5b1c2e95f5cab9b"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{SOUTH definitely does NOT have a balanced hand. She has two doubletons and a 
+6-card Club suit. 
+
+But she DOES have 18 points, (two extra for the fifth and sixth Clubs), and her 18 added to 
+NORTH's minimum of 15 is enough to bid 6NT.
+
+Notice how easy this will be to play once that Club suit is established.}
 

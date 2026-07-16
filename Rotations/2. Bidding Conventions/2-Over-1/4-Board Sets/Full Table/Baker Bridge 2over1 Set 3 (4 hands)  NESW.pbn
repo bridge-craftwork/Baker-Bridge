@@ -10,44 +10,90 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:KJ965.AK843.75.4 A83.J965.93.KQ52 Q4.QT7.AJ6.AT986 T72.2.KQT842.J73"]
-[BoardVersionToken "f1db28dfcc1a39cc12518e0ee948922fa81d516a27e84243279eea90ab89e4c7"]
+[Deal "N:A9742.A983.K6.Q7 T53.Q54.AQ42.T43 K8.JT7.975.AKJ62 QJ6.K62.JT83.985"]
+[BoardVersionToken "a27a8693be69257dc9d291e00b5f58b83b99f653e230f648cd9486a4cc9d81be"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S Pass 2C Pass 2H Pass 2NT Pass 3H Pass 4H Pass Pass Pass
-{North opens 1\S.  So far you know you belong in game, but you don't know which game.  What do you bid first?
-You respond 2\C, natural and forcing the partnership to game.
-North now bids his \H suit.
-At this point you figurer North for 5 \Ss and 4 \Hs. What should you rebid?
-You cannot support either of North's Majors, but with a good stopper in the fourth suit you bid 2NT. The game force is still on and North may not pass this bid.
-North bids 3\H, indicating that this is also a 5-card suit. What do you rebid now? 
+1S Pass 2C Pass 2H Pass 3D =1= Pass 3NT Pass Pass Pass
+[Note "1:4th suit"]
+{North opens 1\S- how do you respond?
+With 13 points, you respond 2\C, a natural 2/1 force to game.
+North next bids 2\H, showing the other Major suit.  What do you rebid now?
+You assume North to be 5-4 in the Majors, so you cannot support either.  You cannot bid 2NT without a stopper in \Ds. So you bid the fourth suit, 3\D, telling North you knows you must make a bid, but can't find anything appropriate.  This is an artificial bid, and normally denies a diamond stopper (otherwise you would have bid 2NT).
+North rebids 3NT - what do you do now?
 
-Now you can bid the \H game, knowing there is an 8-card fit.}
+North now must find a bid. His choices include rebidding the 5-card \Ss, supporting South's \Cs with a doubleton Queen, or bidding 3NT with the \D K 6 as a stopper. He chooses this last option. It appears that 3NT is the best game for these two hands.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:KJ763.AQ7.J4.AQJ Q5.42.A9632.T963 A4.KJT8653.KQ.87 T982.9.T875.K542"]
+[BoardVersionToken "ba9b2d969dcacca9f5aabb891a4e4c42a25b2fee1a4efc4484aa68cdfaf74d39"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "W"]
+1S Pass 2H Pass 3H Pass 3S =1= Pass 4C =2= Pass 4NT Pass 5S =3= Pass 6H Pass Pass Pass
+[Note "1:control"]
+[Note "2:control"]
+[Note "3:2 keycards + trump Q"]
+{How do you open the bidding?
+With 18 HCP and a balanced hand, you open 1\S.  Partner responds  2\H. What do you rebid?
+You know this is a 5-card suit, and bid 3\H, confirming the 8+card trump fit and sets the trump suit.
+Partner rebids 3\S, a control bid, showing first or second round control.  (Some will play this as showing 3-card support for spades, but I recommend playing this as a control bid.).  
+You bid 4C, also a control bid, showing first or second round control in clubs.  Partner bids 4NT, a keycard request using 1430.   
+
+You bid 5\s, showing two keycards and the trump queen.  Partner bids the slam.
+The slam is a good one. If either the \SQ or \CK is right there are 12 tricks by way of a finesse. But the best way to play the hand would be to try to establish a \S in the West hand, and if that fails try the \C finesse.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:983.82.T82.AKJT8 AJT74.KT7.A95.72 KQ2.J64.J74.6543 65.AQ953.KQ63.Q9"]
-[BoardVersionToken "0833454e58ff7910a6a8fccd4724605aa9786d75a91016f42c61ec870410b72b"]
+[Deal "E:9754.T6.J72.8653 AJT.AK985.K96.Q7 KQ2.QJ42.T853.92 863.73.AQ4.AKJT4"]
+[BoardVersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "E"]
+Pass 1H Pass 2C Pass 2NT Pass 3NT Pass 4NT Pass 6NT Pass Pass Pass
+{South opens 1\H - how should you respond?
+South rebids 2NT.  How do you continue?
+North shows her minimum by bidding 3NT.
+South continues with 4NT - what does this mean?  How do you continue?
+
+ South's 4NT was not Blackwood, but rather a quantitative raise in Notrump, and an invitation to slam.
+You have 15 points, and they are good ones. So you accept the invitation and bid 6NT.
+There are 11 top tricks. A 3-3 \H split would provide the 12th winner, but this is against the odds. Better to try two \S finesses, a 75% chance.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KT.98762.T72.AK2 AJ8752.AK.Q6.J87 94.JT54.853.QT53 Q63.Q3.AKJ94.964"]
+[BoardVersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-Pass 1S Pass 2H Pass 3H Pass 4H Pass Pass Pass
-{What do you open with this hand?
-You opens 1\S and East, responds 2\H. Note that this promises a 5-card or longer \H suit.  (2 of a minor only promises 4+).
-What do you rebid?
-Knowing that East has 5, you bid 3\H to confirm the trump suit.
-East bids 4\h.  
+Pass 1S Pass 2D Pass 2S Pass 4S Pass Pass Pass
+{West opens 1\S -  
+You responds 2\D, natural and game forcing.  West rebids 2\s.  In our style of 2/1, this promises 6+ cards in spades, and denies a side 4-card suit.  What should we bid now? 
 
-East went straight to game, showing a minimum opener and no slam interest.
-You are also satisfied to just play at game.
-2/1 is a good bidding method, and here, 4\H is a good contract. But you can see that it is not a laydown - there is no bidding system that will always reach 100% contracts. In this hand a 3-3 \D split will provide the 10th trick, or if that fails, taking 2 \S finesses provides a 75% chance of success.}
+You should jump to 4\S. This is Fast Arrival, indicating a minimum hand with no particular interest in slam.
+West is happy to rest in the game contract.
+Even with a combined 30 points, 10 tricks are certainly not a sure thing. West must hope that South holds the trump King.}
 

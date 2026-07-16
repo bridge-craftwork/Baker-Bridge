@@ -32,9 +32,9 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:KQ5.AK6.AK92.AT8 J96.J872.QJ5.K52 T872.Q53.864.974 A43.T94.T73.QJ63"]
 [Declarer "E"]
 [Contract "2NT"]
@@ -42,7 +42,7 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 [Auction "E"]
 2C pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
 [BoardVersionToken "04df7124f51daa0463cb157c73e32fa68e75163f17c8b316365dc11e37be0981"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -51,4 +51,52 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 {With only 2 points you make a Negative 2\D response to partner's 2\C opener. He now bids 2NT. What is your bid? 
 
 This isn't as clear-cut a decision as you might think at first. Partner is showing 22-24 points, and even though you only have 2 points it is possible that the partnership total could be 26. The thing that should convince you to pass is that a 24-2 point split doesn't play nearly as well as say a 13-13 split would. Lack of transportation would likely kill any chance of 3NT (or 4\S). So you pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK82.AK3.AK.KQ94 J7.JT5.J75.J6532 Q65.864.Q986.T87 T943.Q972.T432.A"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "cf1e3d4a609a4a8ccf40fba4bc88e9fcdac3c888c9da3b962d5472c50fe18870"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{You dealt this hand.  
+
+With 26 points you naturally open 2\C. Partner responds 2\D.  
+
+You have 26 points and no 5-card suit. Since your hand is balanced you bid 3NT. Everybody passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQ5.AK6.AK92.AT8 97643.972.J3.732 JT82.Q53.864.J94 A.JT84.QT75.KQ65"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+2C pass 2D pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "3d262e471f5a4a07edc9ac57991acb1b57a861cf15e33139af4aee128830ed58"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{With only 4 points you make a Negative 2\D response to partner's 2\C opener. He now bids 2NT. What is your bid? 
+
+True, 4 points isn't much. But added to partner's 22-24 it becomes enough for a game. Your problem isn't whether to bid to the game or not, (you definitely will), but whether you should use Stayman to find out if there is a 4-4 \S fit. You decide not to do this because your 4-3-3-3 distribution removes the possibility of you getting any ruffs. So you bid 3NT.}
 

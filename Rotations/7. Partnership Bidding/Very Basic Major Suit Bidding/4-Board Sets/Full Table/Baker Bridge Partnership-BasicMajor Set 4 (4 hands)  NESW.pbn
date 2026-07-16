@@ -10,52 +10,107 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:KQJ54.A7.KQ5.J86 72.86532.J87.KQ9 T963.KQ4.9642.A7 A8.JT9.AT3.T5432"]
+[Deal "N:K5.QJT83.KQJ.962 T872.A6.AT8.Q754 A64.K952.7653.AK QJ93.74.942.JT83"]
 [Declarer "N"]
-[Contract "4S"]
+[Contract "4H"]
 [Result ""]
 [Auction "N"]
-1S pass 2S pass 3S pass 4S pass pass pass
+1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ae0afae00c15c60ebbe3ed2548d04761e7d1f70d16318d6918d6459616d33d1b"]
+[BoardVersionToken "0c81bdc80a0d700154112d1e2b3eb043af95b4645a493e7aea4b28d40403ad1c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
 [Student "S"]
-{NORTH has 17 points and might open 1NT. But with the 5-card Major suit she prefers 
-to open 1\S.
+{NORTH has a minimum 1\H opening bid - 13 points and five trumps.
 
-SOUTH has good \S support and 10 points, counting 1 for the doubleton \C. 
-It is easily worth a raise to 2\S
+SOUTH also has opening hand strength, 14 points for him. He also has four of NORTH's 
+\Hs. He applies the "He who knows, goes" principle and 
+bids 4\H.
 
-NORTH cannot bid game yet, after all, SOUTH could have as few as 6 points. But she can 
-continue with a 3\S bid in hopes that SOUTH actually has 9 or 10 points.
+IMPORTANT NOTE: Most experienced bridge pairs would not bid the hand quite this way, although they 
+would arrive at the same contract. See some of the other BakerBridge lessons for more details.}
 
-SOUTH comes through with 4\S.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AJT874.AK5.AK3.9 63.97632.82.AKQ2 KQ92.QJ.Q764.J84 5.T84.JT95.T7653"]
+[Declarer "E"]
+[Contract "6S"]
+[Result ""]
+[Auction "E"]
+1S pass 3S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "794dfb2793a4b0cb9f15d381cc42dae2b6e268d3a2c82fafd228e2d647f71ccb"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{EAST has a powerful hand (21 points) with a good 6-card suit. He opens 1\S.
+
+WEST has an 11-point Limit Raise with four trumps. She jumps to 3\S.
+
+EAST now knows that the partnership holds at least 32 points, perhaps 33. Since he can see that 
+the opponents have no way to win the first two tricks he decides to bid the slam, 6\S}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "E:KJ6.KJ852.A74.85 QT9.T3.Q985.K972 872.Q964.K62.AQ3 A543.A7.JT3.JT64"]
-[Declarer "E"]
-[Contract "3H"]
+[Deal "S:A7652.76.A83.AJ4 K8.QT92.K754.T95 JT943.A53.9.K863 Q.KJ84.QJT62.Q72"]
+[Declarer "S"]
+[Contract "4S"]
 [Result ""]
-[Auction "E"]
-1H pass 3H pass pass pass
+[Auction "S"]
+1S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "ac08f7efad492d4b88f7d2a3591f6cae3df578420f20ca43c39e2691728f6041"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "80891590179a7f78daae066ee93420887b832a06fb5f15bd6349aee79aa95969"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
 [Student "S"]
-{EAST has a bare minimum 13 point hand, and he should open 1\H.
+{SOUTH has 14 points and opens 1\S, her 5-card Major.
 
-WEST has 11 points and good \H support so she jumps to 3\H.
+NORTH could bid 3\S, a Limit Raise with his 11 points. But it is often a good idea, 
+when you have five of the Major suit that partner opened with, to just go ahead and bid 
+the game. So North should bid 4\S here.
 
-EAST knows he has been invited to bid higher, but with nothing above minimum he must pass.}
+See the NOTE in Deal 13. When you use weaker 5-card support hands for your jump to game, you 
+need to find another way to describe your opening-hand-strength type hands.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A87.T9863.A62.A8 Q52.74.QT74.JT54 94.AK52.KJ3.K962 KJT63.QJ.985.Q73"]
+[Declarer "W"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ce091be898ce64418528dcf1f0ee453153720d4dc4946499db07e18f05f2952c"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{WEST has 13 points so he must open. He has five \Hs so he 
+should open 1\H.
+
+EAST, with 14 points and four \Hs knows there are 
+enough points for a game contract and at least nine \Hs between 
+the partners. She who KNOWS, GOES, so EAST bids 4\H.
+
+This is similar to Deal 13.}
 

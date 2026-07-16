@@ -8,45 +8,95 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:642.AQ9742..8542 Q9.JT.T9765.QJT7 AK.K853.KQJ4.A93 JT8753.6.A832.K6"]
+[Deal "S:KQJ.AJ4.AT53.JT8 9864.T73.62.KQ42 A53.KQ5.KQJ874.9 T72.9862.9.A7653"]
 [Declarer "N"]
-[Contract "6H"]
+[Contract "6D"]
 [Result ""]
-[Auction "N"]
-2H pass 4NT pass 6D pass 6H pass pass pass
+[Auction "S"]
+1NT pass 3D pass 4D pass 4NT pass 5H pass 6D pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ef77464ccb930569be24954c676188c4f899e04f13e19513438688844c5c9d66"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "52cff4e0584a4028aa06c3486aca9f52a004308582c45670ec96a071ccd7f910"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{You need to find out about Aces so you bid 4NT. Partner says 6\D.  
+{After toying with the idea of a jump to 6NT, or perhaps a Gerber 4\C, you decide to bid 3\D. Partner rebids 4\D and it is your turn. 
 
-Partner has shown one Ace and a \D void. As to what you bid, that's easy. You have no choice now but to say 6\H. This is a pretty good slam, but it is not cold. Maybe East will not lead a \C. Or maybe West will have the \DA.}
+Time to check for Aces. You bid 4NT and partner answers 5\H.  
+
+Tempting though it may be it is too dangerous to try 6NT. So you bid 6\D which turns out to be laydown while 6NT would have been down 4.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQJ9853.964.873. 6.Q832.KJT542.42 KT742.AK.A.KJ863 .JT75.Q96.AQT975"]
+[Declarer "E"]
+[Contract "7S"]
+[Result ""]
+[Auction "E"]
+3S pass 4NT pass 6C pass 7S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "deddc343f49f2fe6e4c60d1998ba6ba8ae8123b25461741c96bc2fd147942988"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/blackwood"]
+[Student "S"]
+{You dealt this hand.  
+
+You decide to preempt 3\S with this hand. Partner's eyes wobble and he jumps straight to 4NT.  
+
+With 1 Ace and a void in a lower-ranking suit you should bid 6 of that suit. So you bid 6\C. Partner jumps again, this time to 7\S. What do you b . . . oh never mind.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "W"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "W:KQ4.KQJ3.KQJ5.AK 9853.A764.93.987 AT7.952.AT86.Q63 J62.T8.742.JT542"]
-[Declarer "E"]
-[Contract "6NT"]
+[Deal "S:KQJ.J97.KQJ.AQJ7 T6532.A.8532.T92 A7.KQT86543.4.K6 984.2.AT976.8543"]
+[Declarer "S"]
+[Contract "4H"]
 [Result ""]
-[Auction "W"]
-2C pass 2NT pass 4C pass 4S pass 6NT pass pass pass
+[Auction "S"]
+2NT pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "94ac5356f506628bae07d8c2bc517767e911e80641e45c4b10b73bf38771e706"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "e080df19ea4a99bf0f23e44d3742d27deb4538bb0f5e3377d4822e1b179ecabe"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
 [Student "S"]
-{Not everybody responds to 2\C openers the same way. But with 9 balanced points 2NT is reasonable. Partner jumps to 4\C.  
+{If you play Jacoby Transfers you may think of transferring partner to \Hs, then bidding the slam. but with this hand there really is no big advantage for partner being the Declarer so you decide to just take the bull by the horns. You bid a Gerber 4\C. Partner says 4\H.  
 
-With 2 Aces your response is 4\S. Partner bids 6NT and you pass.}
+Partner has only a single Ace in his 2NT opener. No slam for your team. You pass and let partner be the Declarer after all!}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KJ.AK7532.K6.873 T972.T.QT3.AQJ96 A843.QJ986.A984. Q65.4.J752.KT542"]
+[Declarer "W"]
+[Contract "7H"]
+[Result ""]
+[Auction "W"]
+1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "a070d26ccbaef002bb9a774e8f1e67e676f1ce25443749857bca6c2977165ec9"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/blackwood"]
+[Student "S"]
+{Your 4\C bid is a Splinter Bid, showing an opening hand with good \H support and either a singleton or a void in \Cs.  
+
+With 2 Aces and a void the correct response is 5NT. Partner now bids 7\H. Notice how he cleverly figured out your void must be in \Cs.}
 

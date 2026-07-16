@@ -10,69 +10,154 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:QJ6.AKQ72.A53.64 AT43.J5.QJ7.QT73 75.T984.K94.K852 K982.63.T862.AJ9"]
+[Deal "N:KQT84.A7.KQ5.QT6 2.JT52.J873.9853 A963.Q64.A962.J7 J75.K983.T4.AK42"]
 [Declarer "N"]
-[Contract "3H"]
+[Contract "4S"]
 [Result ""]
 [Auction "N"]
-1H pass 2H pass 3H pass pass pass
+1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6ee88c600cb750917982260c641693448513216d56e3b620cf6c6731fd533a39"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ecacdb9867d7c2db21a749d461fc1167e331766ed815a858c67d013518a47fa0"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{With 17 points NORTH is not strong enough to insist on game after SOUTH's raise, 
-but is strong enough to invite with a 3\H bid.
+{NORTH has 17 points and might open 1NT. But with the 5-card Major suit she prefers 
+to open 1\S.
 
-SOUTH, however, doesn't have anything extra, so declines to go further.}
+SOUTH has excellent \S support but with 11 points is not quite strong enough to insist 
+on reaching game. Instead he makes an invitational jump to 3\S, which NORTH is strong 
+enough to raise to game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK6.AJ9.AJ2.A852 T93.KQ752.53.Q64 87.T64.KQT96.T73 QJ542.83.874.KJ9"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "b8281ae31788ea71679801f969e0bae99f3a1eb2a942064f9e35e583c65d4ae0"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{EAST has a powerful hand, but 21 points is not strong enough to start with a forcing 2\C bid. 
+Since he has balanced distribution he opens 2NT (20-21 points).
+
+WEST adds her 6 points to EAST's minimum and concludes they should be in game. She expects her 
+good \D suit to be useful to WEST in Notrump so she bids 3NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:A832.KT9.AJ7.KQ6 KJ76.A87.986.T82 T94.QJ4.KQ52.J95 Q5.6532.T43.A743"]
-[Declarer "E"]
-[Contract "3NT"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J63.AKQ82.K6.T95 A42.T7653.T72.A3 T95.J4.QJ83.KJ72 KQ87.9.A954.Q864"]
+[Declarer "S"]
+[Contract "1NT"]
 [Result ""]
-[Auction "E"]
-1NT pass 2NT pass 3NT pass pass pass
+[Auction "N"]
+1H pass 1NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "cbf4fcb12472dfd32265c461eae433f3c8935611cb7ef78e147b78f75e0d0a1d"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c0a72edc88743522a48f0495725a2455e844a998e95f607ee2fb60a5df897e0d"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{This is a classic Notrump bidding sequence.
+{NORTH has a solid 1\H opening, 14 points and five trumps.
 
-EAST opens 1NT with 17 points and balanced distribution. 
-WEST, with 9 points is not strong enough to bid game, but invites with 2NT. 
-EAST has a maximum, so she accepts the invitation.}
+SOUTH must respond with 8 points, but cannot bid either minor suit since he needs at least 
+11 points to bid a new suit at the 2-level. So he bids 1NT (6-10 points).
+
+NORTH doesn't object to Notrump so she passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQT73.A42.975.A6 A84.86.KQJ4.Q952 J962.KQ75.83.T74 5.JT93.AT62.KJ83"]
+[Declarer "W"]
+[Contract "2S"]
+[Result ""]
+[Auction "W"]
+1S pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "d18e06ca26590e530278aadf0ca6ecb40e1868a5d2f221522f81d169eb20687a"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{WEST has a normal 1\S opening bid, 14 points and five trumps.
+
+EAST has good 4-card support and 7 points, so she raises to 2\S, 
+passed by WEST. 
+
+EAST does not consider showing the \Hs, 
+first because she knows there is a \S fit, and second because she doesn't have 
+the 11 points needed to bid a new suit at the 2-level.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:AQT6.54.A874.A82 2.QJ63.JT2.QT764 KJ84.AK72.65.K93 9753.T98.KQ93.J5"]
-[Declarer "S"]
-[Contract "4S"]
+[Deal "N:A83.A7.KJ964.QJ5 QT9765.63.8.7632 KJ4.KQ92.AQ5.KT8 2.JT854.T732.A94"]
+[Declarer "N"]
+[Contract "6NT"]
 [Result ""]
-[Auction "S"]
-1D pass 1H pass 1S pass 4S pass pass pass
+[Auction "N"]
+1NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "33a79b8f3905999e35795413c4f0acd4dac5212fb7c4caa16313ebda94dcfb89"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "41324007f4d44d9239d95d97c38d32b0b15831b365577163a2369073fea3b9c1"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
 [Student "S"]
-{With two 4-card Majors NORTH should respond "up-the-line", bidding \Hs first.
+{With balanced distribution and 16 points NORTH should open 1NT rather than 1\D.
 
-Then, after SOUTH bids 1\S, NORTH has enough points to jump all the way to 4\S.}
+SOUTH's response is based on simple math. He adds his 18 points to the 15 minimum that NORTH has announced and 
+comes up with 33 points combined. This is enough for a small slam, and since he has balanced distribution 
+he bids 6NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:QJT96.A7.AQ6.AK7 A872.J92.T97.J32 K4.QT6.8532.Q985 53.K8543.KJ4.T64"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1S pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "f4b04fa28315dae653af747052d0c80ffa56eeeb45f558a583aa05c11c59430a"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_bidding"]
+[Student "S"]
+{WEST is right at the maximum for a 1\S opening bid - one more point and he would 
+have opened 2\C.
+
+EAST does not have 3-card \S support but with 7 points must make some response. 
+She cannot bid at the 2-level so she says 1NT (6-10 points).
+
+WEST is fine with Notrump so he bids 3NT.}
 

@@ -9,49 +9,103 @@
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:KJ2.73.AK62.Q742 A653.8.T43.KJT98 Q74.KQ642.87.A53 T98.AJT95.QJ95.6"]
+[Deal "S:QT5.JT.AK642.Q86 AJ8.Q987.QT973.T K94.AK542.85.KJ9 7632.63.J.A75432"]
 [Declarer "S"]
-[Contract "2NT"]
+[Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1H pass 1NT pass 2C pass 2NT pass pass pass
+1D pass 1H pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f161942f85f2357eba8dbccb6069fe6e5b918b22a8c8b55847fc49fb2c33a925"]
+[BoardVersionToken "6266fb4ec4e08d678f9653e1e4fea493541795d0e4bba774b44a5d08a8b78bbd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{With 12 points you know game is likely, but for now you bid 1\H. Partner rebids 1NT. What do you say next? 
+{With 15 points you are going to insist on game. First you respond 1\H. Partner rebids 1NT. What do you say next? 
 
-Partner has 12-14 points, balanced. If he is at the top, game could still be there, but you aren't sure where to play. If partner has only 2 \Hs then NT is probably best, but if he has 3 \Hs then you would prefer to play the 8-card Major fit. New Minor Forcing will allow partner to answer both questions for you. So you bid 2\C. Partner answers with 2NT.  
+Partner has 12-14 points, balanced. You are happy with notrump, but would prefer to play in \Hs if partner has three cards in the suit. To find out if he does, use New Minor Forcing.
 
-Partner tells you he has only 2 \Hs. He also tells you he only has 12-13 points. So you pass 2NT.}
+So you say 2\C and partner replies 2NT. It is your bid again. 
+
+Partner doesn't have 3 \Hs. That's what you wanted to know, you bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:98.AJT2.AKQ4.T96 AT4.875.T32.KJ82 KQJ62.KQ63.86.54 753.94.J975.AQ73"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1D pass 1S pass 1NT pass 2C pass 3H pass 4H all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "773446eb3d8e95370f616f31afdb521b1d73384b74122f3c76205f90ea0830e3"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/new_minor_forcing"]
+[Student "S"]
+{You have 14 points and you open 1\D. Partner responds 1\S.  
+
+You cannot bid 2\H because a Reverse shows at least 16 points. So you bid 1NT. Partner says 2\C.  
+
+This is NMF, asking you to further describe your hand. You do not have 3 \Ss. You do have a 4-card \H suit. You have a maximum hand for your previous bidding, so you jump to 3\H. Partner raises to 4\H.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "N:K43.K92.J85.AK86 Q982.54.K973.942 A7.AQT63.QT4.753 JT65.J87.A62.QJT"]
+[Deal "S:72.KQ75.J96.AK94 863.J82.Q52.Q752 KQJT5.A3.KT7.T83 A94.T964.A843.J6"]
 [Declarer "S"]
-[Contract "4H"]
+[Contract "3NT"]
 [Result ""]
-[Auction "N"]
-1C pass 1H pass 1NT pass 2D pass 3H pass 4H all pass pass pass
+[Auction "S"]
+1C pass 1S pass 1NT pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "17486b9f8879fe94005ef75de4521a4d5c1430f76cb8665cdf06bf13a4f250ef"]
+[BoardVersionToken "5de6d29653d80429cb2127301e30f5b044871b79f6493b033ede69b114c3fbd3"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
 [Student "S"]
-{With 14 points you open your 4-card minor, 1\C. Partner responds 1\H.  
+{You have 14 points and you respond 1\S. Partner rebids 1NT. What is your next bid? 
 
-This is easy. You cannot support \Hs at this point with only 3 cards. So you rebid 1NT.
+Partner has 12-14 points, balanced. You will insist on reaching game, but don't know whether 3NT or 4\S is going to be the best spot. It depends on whether partner has 3 \Ss. So of course you use NMF.
 
-Partner says 2\D.  
+You bid 2\D and partner then says 2\H. Where do you go from here? 
 
-This is New Minor Forcing. Partner wants to know if you have 3 \Hs. Not only do you have 3 good \Hs, but you also have a maximum hand. So you jump to 3\H and partner bids the game.}
+OK, partner has a 4-card \H suit - may or may not have 3 \Ss. Since you don't have 4 \Hs you bid 3NT, leaving it up to partner to correct to 4\S if he has 3 of them.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AT7.AJT.KJ5.KQT6 85.K9862.8742.82 KQ962.Q74.Q93.93 J43.53.AT6.AJ754"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1C pass 1S pass 2NT pass 3D pass 3S pass 4S all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "c667accebc38b99850e05d026c53cf12dbe22ad0d2667fd5c186006dcdbf04ee"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/new_minor_forcing"]
+[Student "S"]
+{You are too strong for 1NT so you open 1\C. Partner responds 1\S.  
+
+You don't support \Ss with only 3 cards since partner might well have just a 4-card suit. With 18 points, balanced, all suits stopped, you jump to 2NT.
+
+Partner says 3\D.  
+
+This is New Minor Forcing. Partner wants to know if you have 3 \Ss. Since you do have 3 you bid 3\S and partner raises to 4\S.}
 

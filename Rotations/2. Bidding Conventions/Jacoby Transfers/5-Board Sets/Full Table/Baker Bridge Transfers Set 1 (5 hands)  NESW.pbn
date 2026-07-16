@@ -33,9 +33,9 @@ As you can see from partner's hand you made the right call. Played in \Hs your h
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:KT5.A5.QJ84.KQ73 AJ3.JT932.A72.86 Q8764.Q4.K63.J92 92.K876.T95.AT54"]
 [Declarer "E"]
 [Contract "3S"]
@@ -43,7 +43,7 @@ As you can see from partner's hand you made the right call. Played in \Hs your h
 [Auction "E"]
 1NT pass 2H pass 2S pass 2NT pass 3S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
 [BoardVersionToken "8a6d534cd0bca37f1c94053135c29ada806db180a3676d2d3a3505d41ab5f0df"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -64,9 +64,9 @@ As you can see, a 4\S contract would have no chance, losing 1 trick in each side
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "S:KT5.A5.QJ84.KQ73 2.JT9862.T97.T86 QJ764.74.K63.A92 A983.KQ3.A52.J54"]
 [Declarer "S"]
 [Contract "4S"]
@@ -74,4 +74,79 @@ As you can see, a 4\S contract would have no chance, losing 1 trick in each side
 [Auction "S"]
 1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "34beab0298ac8a39d2af4624f3549474b2e3511e625f6153947153e2a1a315cd"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/jacoby_transfers"]
+[Student "S"]
+{South's 1NT opening shows 15-17 points. What is your bid? 
+
+With 11 points you are strong enough to force to game. With a 5-card \S suit you should transfer partner to \Ss by bidding 2\H. Partner dutifully responds 2\S.  
+
+You must make a bid that will force partner to game, but at the same time inform him that you have only 5 \Ss (remember, your transfer promised <b>AT LEAST</b> 5). The bid that says both of these facts at once is 3NT. Partner comes back with 4\S. What say you? 
+
+You say pass.
+
+You might revalue your hand up to 12 points now that an 8-card fit has been discovered, but with partner's maximum of 17 you are nowhere near slam range.
+
+A 4\S contract is definitely the place to be. }
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJ76.Q6.K753.KQ4 KT84.AJT5.42.JT8 53.K98742.AT6.65 Q92.3.QJ98.A9732"]
+[Declarer "W"]
+[Contract "3H"]
+[Result ""]
+[Auction "W"]
+1NT pass 2D pass 2H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "4ef7412a0e856dc8d463a988de73534b9565289b94083ff74a8939bc22c3f693"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/jacoby_transfers"]
+[Student "S"]
+{West opens 1NT.  
+
+You have 9 points and 6 \Hs. You transfer partner to \Hs by bidding 2\D. He bids 2\H, as instructed.
+
+What is your next bid? 
+
+You want to tell partner you have invitational strength. You also want to tell him that you have 6 \Hs, and that the contract must be played in \Hs. The bid that says both is 3\H.
+
+Partner declines your invitation by passing.
+
+A comment is in order about revaluing your hand. Since partner must have at least a doubleton \H it is tempting to claim that with the 8-card fit you should add one point for each of your doubletons, bringing your total to 11. If you did this then you should be bidding game rather than just inviting. The problem with the revaluing is that counting doubleton points in the long-trump hand is deceiving. If you do end up ruffing one or both of those suits it will not add any tricks to your total since you would make your small trumps anyway. So when you have a 6-card suit it is more accurate to not revalue.
+
+As you can see, making even 9 tricks is going to be a challenge.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT9.K53.K62.AK84 AJ64.98.975.JT32 53.AQT742.QJT.65 K872.J6.A843.Q97"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+1NT pass 2D pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fcf513047d7b53744b4c1e1ccefddcbba189a9cd16f0e1a8eb90b265cd83f1c8"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/jacoby_transfers"]
+[Student "S"]
+{North opens 1NT.  
+
+You should bid 2\D to transfer partner to \Hs. He bids 2\H.  
+
+You know you have at least an 8-card \H fit. You know you have at least 26 points (15 + 11). She who knows, goes, so you bid 4\H.}
+

@@ -8,26 +8,55 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:6.AK9754.6.KQJT3 QT842.2.QJ73.874 A75.QT83.A854.92 KJ93.J6.KT92.A65"]
+[Deal "S:6.KQ872.KQ.AK963 98532.T543.JT.54 KQ7.J6.A64.QJT87 AJT4.A9.987532.2"]
 [Declarer "N"]
-[Contract "6H"]
+[Contract "5C"]
 [Result ""]
-[Auction "N"]
-1H pass 3H pass 4NT pass 5S pass 6H pass pass pass
+[Auction "S"]
+1H pass 2C pass 4NT pass 5C pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f5b7e7b9efc87db138c1eecfe86bcc0d92a63df06fd35e3da9b2a405365731ee"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "848f3dfd7030e201a38c38eb6f7cbda94962701642615a920c8f8d50b874ec8f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{With eleven cards in the "round" suits NORTH has a lot of playing strength. So when SOUTH bids 
-a Limit Raise in \Hs NORTH wants to know about Aces.
+{This is the companion to Deal 6. The cards are the same except that the 
+\Ds and \Cs have been swapped.
 
-RKCBlackwood tells him that SOUTH has two Aces plus the trump Queen, so NORTH can see that 6\H 
-is practically a certainty.}
+Again, SOUTH has no problem as long as NORTH holds at least one Key-card. 
+When NORTH responds 5\C, (showing one Key-card), SOUTH can pass. 
+
+That's what happens here.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A96.QJT3.AQJ.QJ9 4.9752.9543.8742 KQJ8752.4.K6.AK5 T3.AK86.T872.T63"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1NT pass 4C pass 4S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1de3bd2006e47ebedf09973e7b3732d9a4cbf847760473386accb327543a1829"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{NORTH needs to know how many Aces SOUTH holds.
+
+One way to find out would be to bid 3\S, (which is forcing), then launch Blackwood.
+
+Another way is to bid 4\C (Gerber) right now.
+
+The first way is probably better but we needed a Gerber example.}
 
 [Event ""]
 [Site ""]
@@ -35,54 +64,106 @@ is practically a certainty.}
 [Board "3"]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "S:AK9842.KQT6.84.A T.9742.AJ5.Q9876 QJ73.AJ5.T632.K4 65.83.KQ97.JT532"]
-[Declarer "S"]
-[Contract "4S"]
+[Deal "S:AJT5.AK.K5.AKQJ4 2.JT93.QJ9743.85 KQ8743.Q75..9762 96.8642.AT862.T3"]
+[Declarer "N"]
+[Contract "7S"]
 [Result ""]
 [Auction "S"]
-1S pass 3S pass 4C pass 4H pass 4S pass pass pass
+2C pass 2S pass 4NT pass 6D pass 7S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0094373ad8de7f26ac0686fd1b8760023898f869adc392b3140464ce2ebb7ebf"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a226ea3953ee493405389cca108e7858330efee68a59bccc30dffc8795330003"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{SOUTH has interest in slam after she hears NORTH's Limit Raise. 
-BUT, she should not use Blackwood holding two quick losers in the \D 
-suit.
+{NORTH's positive response shows 8+ points and five or more cards headed by at least two honors.
 
-Instead she makes a Control showing bid of 4\C. (Not Gerber since it didn't follow a NT bid.)
+SOUTH figures a small slam would be safe, but just to be sure she uses Blackwood.
 
-NORTH cooperates by making a Control bid of 4\H.
+NORTH's 6\D reply shows one Key-card which must be the trump King, 
+and a \D void!.
 
-SOUTH stops at 4\S because neither partner controls \Ds.}
+SOUTH readjusts her thinking and decides to bid the Grand.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:KQ3.KT93.A6.KQ96 J872.J.JT9874.A3 A6.AQ8752.KQ3.87 T954.64.52.JT542"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+1NT pass 3H pass 4NT pass 5S pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "c115fcbe47e053fc10f99ef3fad0a7340163744f0ce2556ef388ba2cb5544a77"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{SOUTH jumps in \Hs, showing a good suit and slam interest.
+
+NORTH has great \H support so bids RKCB 4NT.
+
+SOUTH responds 5\S, showing two Key Cards and the \HQ.
+
+That is enough for NORTH to bid the slam.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:6.KQ872.AK963.KQ QT42.T43.5.T9532 AJ7.J6.QJT87.A64 K9853.A95.42.J87"]
+[Vulnerable "NS"]
+[Deal "S:AQ64.AKQ.A5.KJ63 9.J974.J9732.952 KT7532.8.K86.AQ4 J8.T6532.QT4.T87"]
 [Declarer "N"]
-[Contract "6D"]
+[Contract "7NT"]
 [Result ""]
 [Auction "S"]
-1H pass 2D pass 4NT pass 5S pass 6D pass pass pass
+2C pass 2S pass 3S pass 4NT pass 5D pass 5H pass 6C pass 7NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ffaa3959a7bd057e72d38b6387983c2efaf8551230076f9a0a11092ae80f847c"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "e48a5d2c140481030110d15d5ba07cce1b5da321f38ebd50c7871e323fdbe74e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
 [Student "S"]
-{SOUTH decides it is unlikely that NORTH is Aceless, so all he wants to know is the number of Aces NORTH does have. 
-He invokes RKC Blackwood.
+{When SOUTH agrees to \Ss, NORTH will not stop short of a slam. 
+The RKCB 4NT bid tells NORTH that they have all five Key Cards since SOUTH could hardly 
+have a 2\C opening hand with no Aces.
 
-Since no trump suit has been agreed, NORTH bids as if \Ds, the 
-last-bid suit prior to 4NT is agreed. NORTH has two Key-cards plus the trump Queen, so she bids 5\S.
+NORTH's 5\H bid is the Queen Ask, and SOUTH's reply confirms that she holds 
+the \SQ, and also has the \CK.
 
-SOUTH bids 6\D. 
-If NORTH had just one Key-card, SOUTH would bid 5\D over the 5\C reply.}
+NORTH figures the \S suit will run, and this should be enough for Grand Slam. He chooses 7NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q86.QJ3.AJ5.AJ65 T94.T962.963.932 AK753.8.KQ72.KQ4 J2.AK754.T84.T87"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "N"]
+1NT pass 3S pass 4S pass 4NT pass 5S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "df187c7c8165daf3954c1033e7ab87f1eceaf59244f0bd2ef6fa07f1a6720125"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{SOUTH knows there are enough points for slam, but she is worried about the trump suit. 
+NORTH's support doesn't guarantee more than three \Ss, and if they are not headed 
+by the Queen she could lose a trump trick.
+
+Her RKCB bid relieves her mind when SOUTH claims two Key Cards PLUS the \SQ. 
+She bids 6\S (and hopes for a 3-2 trump split!).}
 

@@ -31,9 +31,9 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "W"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "W:7.T753.AKQT94.K9 KQT4.AK98.8.AJ65 J652.642.J3.QT72 A983.QJ.7652.843"]
 [Declarer "S"]
 [Contract "4S"]
@@ -41,7 +41,7 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 [Auction "W"]
 1D X pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [BoardVersionToken "2a1fa842e97d641d1cf481750f17cb8f70d5902df89e0243bfcc3c574721d390"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
@@ -56,7 +56,7 @@ With 17 HCP and the singleton you are not strong enough to insist on game. On th
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "E"]
 [Vulnerable "None"]
 [Deal "E:J83.A72.A2.K8752 AQ4.KQJ6.QJT7.A3 T975.94.K953.QJT K62.T853.864.964"]
@@ -66,4 +66,65 @@ With 17 HCP and the singleton you are not strong enough to insist on game. On th
 [Auction "E"]
 1C X pass 1H pass 3H pass pass pass
 [BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0cfa14cbfea0b6058814059a875790230fd7bf5d56d978b922ba6a8120ae44ca"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+With 19 HCP and a doubleton you certainly double. What do you bid after partner replies 1\H? 
+
+You need to make a strong invitation since partner needs very little for your side to have a game. So you bid 3\H. Partner has almost nothing so he passes. Good thing.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:5.AKJ642.KQ965.Q AQ64.8.JT82.AT73 T972.T93.A4.J984 KJ83.Q75.73.K652"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "W"]
+1H X pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "0c115a401b7cfe6f7a79f69e5aabf21d83eeb804bf62a77fc3767a877e233e69"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+This is certainly not a great hand, but at least the shape is good. You should strive to get into the bidding whenever possible, and with this hand the only way in is to double. Partner jumps to 2\S and it is your bid again. 
+
+Partner shows 9-11 points and a \S suit. However, he didn't force you to game, and you barely scraped up the double to begin with. So you pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:9.AK9432.KQ54.J8 AQ64.8.AT82.AT73 T752.JT6.J96.Q94 KJ83.Q75.73.K652"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1H X pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5d12561d552519286de54e9525a79e93b63f8264b631d1a76d9af90a25a2cd4c"]
+[Category "Competitive Bidding"]
+[Difficulty "beginner"]
+[SkillPath "competitive_bidding/takeout_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+This is almost the hand you held in Deal 4 - just 3 points stronger in \Ds. So you double, and again partner jumps to 2\S.  
+
+That extra 3 points makes all the difference. With that singleton \H your hand is now worth at least 16 points. Add partner's 9, 10 or 11 and you are at game level. Bid 4\S.}
+

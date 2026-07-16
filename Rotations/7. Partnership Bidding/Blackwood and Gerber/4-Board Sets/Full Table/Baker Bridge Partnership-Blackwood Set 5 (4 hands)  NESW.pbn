@@ -10,51 +10,102 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:K5.AKT753.K7.J96 QJ6.92.J5.K87542 A842.QJ86.A9863. T973.4.QT42.AQT3"]
+[Deal "N:AK.AQT96.AQJ3.AK QJT6.82.952.J985 972.KJ53.K7.7642 8543.74.T864.QT3"]
 [Declarer "N"]
-[Contract "7H"]
+[Contract "7NT"]
 [Result ""]
 [Auction "N"]
-1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
+2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5NT pass 6H pass 7NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "905d145e4cba4847a4fb965babf86ebdb1e63d20fe0e429058146b2deac267c4"]
+[BoardVersionToken "4f41e58d21ba776770863561e51e2ae03911f3ed9a01cba4fc28db565fb71e61"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{SOUTH's jump to 4\C is a Splinter bid, at least 4-card \H support, 
-at least opening hand, and a \C Singleton or Void.
+{NORTH has a pretty good hand, and when SOUTH shows \H support she naturally 
+thinks about slam.
 
-NORTH bids 4NT, Blackwood.
+She has all four Aces but she wants to know about Kings. Unfortunately she can't start at 5NT because that 
+has a different meaning, so she goes through the 4NT sequence even though she already knows the Ace answer.
 
-SOUTH's 5NT reply shows two Aces and a Void somewhere, obviously \Cs.
+Finding SOUTH with two Kings was what she wanted.}
 
-NORTH counts thirteen tricks and bids 7\H.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:K7.K9.AQJT4.AQJ7 J843.J762.63.T93 A62.AT4.K75.K862 QT95.Q853.982.54"]
+[Declarer "E"]
+[Contract "7NT"]
+[Result ""]
+[Auction "W"]
+1D pass 2NT pass 4C pass 4S pass 5C pass 5S pass 7NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ed314f61fe8986da370d3ea7a62adc042502d39174ab1da2f28b02339f871e5f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{WEST is just shy of a 2\C opening bid, and when EAST shows 13-15 points WEST 
+wants to be in a slam.
+
+WEST cannot use Blackwood because 4NT would be a natural invitation, but with EAST's latest bid 
+being 2NT he can use Gerber.
+
+Two Major Aces and two Minor Kings fill the holes in WEST's hand so he bids 7NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "E:K53.KQJT3.A.KQT6 QT72.42.QJ532.74 .A975.K9864.J932 AJ9864.86.T7.A85"]
-[Declarer "E"]
-[Contract "6H"]
+[Deal "S:6.K4.KJ974.AQJ92 J843.T98532.2.75 AK5.7.QT653.KT84 QT972.AQJ6.A8.63"]
+[Declarer "S"]
+[Contract "5D"]
 [Result ""]
-[Auction "E"]
-1H pass 3H pass 4NT pass 6H pass pass pass
+[Auction "S"]
+1D pass 3D pass 4C pass 4S pass 4NT pass 5D pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "c47bc2efc2fb894d2a1deca07905573999d8258dcc2f50673ac807e26cc41224"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "685558c21f46e2ce32ef2691832bede6d7becddd6cdbcea152240a19c9a9c1bd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{EAST figures that if WEST holds two Aces he will bid the slam.
+{SOUTH thinks slam may be possible, so she uses Blackwood.
 
-WEST only has one Ace, but she has something else just as good - a void in a suit which 
-is higher-ranking than \Hs.
+And that's what Blackwood is really good for - keeping you out of slams when you are 
+missing two Aces!}
 
-EAST manages to figure out that WEST has a \S void and bids the slam anyway.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AQJ73.AJ86.53.87 852.43.KJT2.J963 K4.KQT95.A76.A54 T96.72.Q984.KQT2"]
+[Declarer "W"]
+[Contract "6H"]
+[Result ""]
+[Auction "E"]
+1S pass 2H pass 3H pass 4NT pass 5H pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "de0b16bc5596b09e9fc4df98281805af148e15f6b4a14d2e8578dc69e6c74838"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{WEST knows EAST has at least five \Ss, and they might provide discards for two or three 
+of her minor suit losers.
+
+She tries Blackwood and, sure enough, EAST comes through with two Aces.
+
+Even with all the Aces WEST knows there are not enough points for Grand, 
+so she bids 6\H.}
 

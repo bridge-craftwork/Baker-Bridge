@@ -29,9 +29,9 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "S"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "S:KQJT864.97.65.T4 75.A63.AQT73.975 92.KJ85.KJ9.KQ83 A3.QT42.842.AJ62"]
 [Declarer "S"]
 [Contract "3S"]
@@ -39,7 +39,7 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 [Auction "S"]
 3S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [BoardVersionToken "0d5486e9619b295878ab2b051dd1e8aa3e5927f5b0630a42d18f8dd18398f72d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -50,4 +50,54 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 You have 13 points and if partner had opened with a 1\S bid you'd be feeling "jumpy". But what a preemptive bidder needs from dummy are immediate winners, not points. So you pass.
 
 Here's a pretty good tip:When partner opens with a 3-bid and you are trying to decide whether to take him to game, visualize him holding this very hand:K Q J 10 x x x of trumps and nothing in any other suit. Then base your decision on that.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A.QJT8763.975.62 T52.9.AKQT63.J53 J9873.A42.82.AK7 KQ64.K5.J4.QT984"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ed0d6104e1958d0da5617320e8901e055deb6d77c93c827e0736efac16c8daaf"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/preemptive_bids"]
+[Student "S"]
+{You dealt this hand.  
+
+You expect your hand to produce 5 \H tricks and the \SA. So you open 3\H. Partner responds 4\H.  
+
+When you preempted 3\H you described your hand perfectly. You have nothing more to say except pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:83.KQT8742.862.5 QJ42.6.KQJ5.JT62 AK76.J53.94.A874 T95.A9.AT73.KQ93"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "02f2f3812266079072115d59901b47eecf1a5e7e53ff90a733ea8ab590b5f3e8"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/preemptive_bids"]
+[Student "S"]
+{The bidding has been as shown.  
+
+No matter how much we try to reduce bridge to rules and guidelines we will never get rid of the judgement factor. With this hand you definitely have 3 fast tricks for partner. In theory he can take 6 of his own, so 3\H should be the right contract. BUT, maybe he could ruff a \D in your dummy?
+
+Fortune favors the bold so you bid 4\H . . . and live happily ever after.}
 

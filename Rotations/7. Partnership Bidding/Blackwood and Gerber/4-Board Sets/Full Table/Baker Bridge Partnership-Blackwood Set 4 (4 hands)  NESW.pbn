@@ -8,54 +8,106 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:KQ85.J63.87.AQJ4 42.52.KT9432.972 AJ963.A4.AQJ6.K5 T7.KQT987.5.T863"]
+[Deal "N:K62.AT9.AK3.AK84 T943.QJ4.T.QJT93 A7.K3.QJ98742.76 QJ85.87652.65.52"]
 [Declarer "N"]
-[Contract "6S"]
+[Contract "7NT"]
 [Result ""]
-[Auction "S"]
-1C pass 2S pass 3S pass 4NT pass 5S pass 5NT pass 6C pass 6S pass pass pass
+[Auction "N"]
+2NT pass 4C pass 4NT pass 5C pass 5NT pass 7NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5cf51c8a25d1e46185a94473e4dfda159e7ff6a01b0bd6d3f48c470cfa522a85"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "af3166413186295305f492502db4285b0339e8b2631f595d620fdd8f34b075bb"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{When SOUTH gives immediate \S support, NORTH's thoughts naturally 
-turn to slam. This is a good hand to use Blackwood on, so NORTH bids 4NT.
+{SOUTH isn't sure just how much he can make, but surely 6\D isn't 
+too much to hope for. 
 
-SOUTH's 5\D answer shows one Ace, which NORTH cleverly deduces 
-must be the \CA.
+He starts with a Gerber 4\C and NORTH shows three Aces.
 
-NORTH bids 6\S since SOUTH has not bid strongly enough to think about 7.}
+Hmmm, 5\C asks for Kings and NORTH shows three.
+
+Hmm, SOUTH can now count all thirteen tricks, so he forgets about the \D 
+slam and bids 7NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AKQ.KQ6.KQ3.J875 T653.94.A97642.4 J8.J72.85.AKQT96 9742.AT853.JT.32"]
+[Declarer "E"]
+[Contract "4NT"]
+[Result ""]
+[Auction "E"]
+2NT pass 4C pass 4H pass 4NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "b4482db8fc23057d89cb62991c06c1cf9732664affa32b615ad48e71975533c4"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{WEST has 13 points and can contribute six tricks so she figures that twelve tricks will be a slam (dunk).
+
+However, just to make sure the opponents don't take the first two tricks she checks with Gerber.
+
+Uh Oh, missing two Aces she signs off at 4NT. She could also happily play 5\C, but it 
+would be tricky to get there. Very tricky.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "W"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "W:KQJ.AKT.KQ2.KQ73 T853.65.A75.J865 A64.QJ9874.J983. 972.32.T64.AT942"]
-[Declarer "E"]
-[Contract "6H"]
+[Deal "S:K75.Q96.A983.AQ7 943.A854.J742.94 AQ6.K73.K6.KT653 JT82.JT2.QT5.J82"]
+[Declarer "S"]
+[Contract "4NT"]
 [Result ""]
-[Auction "W"]
-2C pass 2H pass 3H pass 3S pass 4NT pass 6C pass 6H pass pass pass
+[Auction "S"]
+1NT pass 4NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "71958b730cbce42b5533a2db67279fd97742aa446d63872b052bd44adf63b4ea"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "f3d5a50a3a0cbee6eac987a8a0a5bb64f9b90cc2033122a0c85c30f505a31f0d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
 [Student "S"]
-{WEST expects to bid 2NT at his second turn, but EAST gives a positive 2\H 
-response and his thinking changes! First he supports \Hs, setting the 
-trump suit.
+{Yes, this has nothing to do with Gerber or Blackwood, but everything to do with smart bidding.
 
-EAST then bids 3\S, showing first round control. WEST tries 4NT (Blackwood) and 
-EAST replies 6\C. This shows a \C void and one Ace, obviously the \SA.
+NORTH has a 16 points and SOUTH has 15, 16 or 17. NORTH wants to be in 6NT if SOUTH has 17, 
+but merely a Notrump game if she has 15 or 16.
 
-WEST bids 6\H, knowing they must lose the \DA.}
+The way to find out is to bid 4NT - not Blackwood but merely an invitation to bid 6NT. 
+In this case, SOUTH has but 15 points and declines the invitation. If her \HQ 
+were changed to the \HA she would bid 6NT and collect her twelve easy tricks.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A876.QJ7.AJ3.A82 T53.A432.QT92.93 KQJ4.K6.K4.KQJT5 92.T985.8765.764"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result ""]
+[Auction "W"]
+1NT pass 4C pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "29d0c5bf70eb54a7e52dc4b5544acc19589d342dc8c1fa9e16454a2d9b6b928c"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/blackwood"]
+[Student "S"]
+{When WEST opens 1NT EAST hopes his hand includes all four Aces so she can bid 7NT. 
+So she uses Gerber to find out.
+
+But, when she discovers they are missing an Ace she settles for 6NT.}
 

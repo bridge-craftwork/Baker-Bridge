@@ -32,9 +32,9 @@ This is not an invitation to bid game. If partner had game interest he would bid
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "S"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "S:Q.KJT973.762.642 JT9763.A8.KT3.T9 AK84.Q4.QJ5.QJ83 52.652.A984.AK75"]
 [Declarer "S"]
 [Contract "2H"]
@@ -42,11 +42,57 @@ This is not an invitation to bid game. If partner had game interest he would bid
 [Auction "S"]
 2H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [BoardVersionToken "4bca658e513690c84b448b2f035c37a88246339f788a60a2eb3fb87261f00952"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
 [Student "S"]
 {You should pass. You have 15 points, and if partner has the maximum of 11 it seems you might be able to make a game. But your points are trashy points. What a Weak 2-bidder usually needs are Aces and Kings, while you have an assortment of Queens and Jacks. }
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KQT875.A84.76.92 9.QT63.KQ952.K87 J642.K7.A843.T64 A3.J952.JT.AQJ53"]
+[Declarer "N"]
+[Contract "3S"]
+[Result ""]
+[Auction "N"]
+2S pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5ba90610581acd0f860a6ac2b5ae7a95db026eb272b9e804321a1adc8db351d1"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/weak_2s"]
+[Student "S"]
+{You dealt this hand.  
+
+This is very solid. So you open 2\S. Partner responds 3\S.  
+
+You say "pass". Partner has no interest in game since he didn't bid 2NT. This is a preemptive raise only.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J6.Q73.QJT973.94 K95.T6.K82.KQT62 A83.AKJ854.5.875 QT742.92.A64.AJ3"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+2D pass 2H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9f1eb766c1f9eeadb433f381705ae01cfe27af782c516601a742694b4cd8912d"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/weak_2s"]
+[Student "S"]
+{You should bid 2\H. If partner has even one \H you will probably be better off than in \Ds. }
 

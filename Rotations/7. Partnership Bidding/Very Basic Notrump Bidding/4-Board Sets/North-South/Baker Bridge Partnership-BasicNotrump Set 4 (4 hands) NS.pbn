@@ -10,48 +10,99 @@
 [Board "1"]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:853.JT.KQ63.AJ62 AT6.K98.AJ2.KT95 J97.Q6542.975.Q3 KQ42.A73.T84.874"]
+[Deal "W:972.T975.JT93.84 QJ4.AK.K76.QJT52 A863.J842.82.976 KT5.Q63.AQ54.AK3"]
 [Declarer "N"]
-[Contract "2NT"]
+[Contract "6NT"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 2NT pass pass pass
+pass 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "741c04f2b2bf31d669507f1fd1df4bc2361ed3df540e7924122d60a39df443f9"]
+[BoardVersionToken "f7d71a8c8721fcb72b3026e7b110785e2cd0a9c2bd267e3f7f954fb1d48e7b0d"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{This time NORTH has a minimum 1NT opener; a balanced hand with 15 points.
+{NORTH has 17 points, counting 1 for the fifth Club. She has a balanced distribution 
+so she opens 1NT.
 
-SOUTH has 9 points; he knows that the partnership is somewhere between 
-24 (9 + 15) and 26 (9 + 17). So he invites with a 2NT bid.
+SOUTH is also balanced, so he does the math. NORTH has either 15, 16 or 17, and with SOUTH's 
+18 the partnership total is either 33, 34 or 35. That is enough for a small slam, but 
+below the 37 points needed for Grand Slam so he bids 6NT.}
 
-NORTH, with a minimum, declines the invitation by passing.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QJ9.AK8.AQ53.KQ8 A653.T42.9842.52 K74.QJ5.KJT.A743 T82.9763.76.JT96"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fd23dc6fd45ced88e95798ba548d2595af1c1dfa85fe4c3dc4ec0c93be01d3a1"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{The partner who is first sure what the final contract should be should just go ahead and bid it. 
+This is called "She who knows, goes."
+
+In this deal, for example, it is NORTH who knows. She has a balanced 14 points, so when SOUTH indicates 
+20/21 points with his opening 2NT bid she KNOWS the partnership holds about 34/35 points. 
+
+Therefore she GOES to 6NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "S:KQ6.AJT3.AQ.KJ52 A98.Q.KT986.AQT4 J742.85.J42.9873 T53.K97642.753.6"]
-[Declarer "S"]
-[Contract "2NT"]
+[Deal "W:972.T872.2.AQT42 AT6.AQ4.KQJT.KJ7 KQJ4.J53.9754.83 853.K96.A863.965"]
+[Declarer "N"]
+[Contract "3NT"]
 [Result ""]
-[Auction "S"]
-2NT pass pass pass
+[Auction "W"]
+pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6d050ec8f3ff2b08f918ade52e3efd20727f68937e88e98c63df08a76f33fccd"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5ff686edb4aa3eeef06fb537b36c78a27b6ba34751f73f1b951cf8177d0493f8"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{SOUTH has a strong hand, 20 points and balanced distribution. 
-It is just right to open 2NT (20-21 points).
+{NORTH has a balanced 20 point hand - ideal to open 2NT.
 
-NORTH adds her 2 points to SOUTH's promised number of 20 or 21. Since she doesn't reach the 
-magic game number of 26 points she just passes.}
+SOUTH has 7 points; he knows the partnership has either 27 or 28 points so he bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK5.T743.A982.KQ QJ.QJ62.T75.8652 764.AK8.KQ.AJT74 T9832.95.J643.93"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "056feda18a4c1fb23922abdd170cbb36f8cad78787c9111a25523514e0eb23b1"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{This is another example of "She who knows, goes."
+
+NORTH has a solid 18 points, (1 extra for the fifth Club), so when SOUTH opens 1NT 
+she KNOWS that together they must hold at least 33 points. The may even have 35 points. 
+
+In any case they should be in slam, so NORTH GOES to 6NT.}
 

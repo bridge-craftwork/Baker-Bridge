@@ -34,7 +34,7 @@ South only has 7 winners unless he can establish the \C suit, and when you win y
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:QJ84.AJ6.KQ.KQ98 3.K9753.T52.A764 KT972.QT84.A97.3 A65.2.J8643.JT52"]
@@ -44,7 +44,7 @@ South only has 7 winners unless he can establish the \C suit, and when you win y
 [Auction "N"]
 1C pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "431e5251afa7bbd14177f81d35d1196d025f5ff7166ef092acc935265b717456"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -64,7 +64,7 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:QT6.AQ9.AT7.KQ73 KJ943.653.82.T62 872.K87.KQJ.A854 A5.JT42.96543.J9"]
@@ -74,4 +74,76 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3e6f0fabe833c5b77bd5e4bd84444c5f5d86d4920ed1145e7f97f45e20089c17"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/opening_leads"]
+[Student "W"]
+{The bidding has been as shown. The contract is 3NT 
+
+Lead the \S4, fourth down in a good suit with broken honors (no sequence).
+
+The only suit you have worth attacking with is your \Ss. Leading fourth down is standard with this type of holding, but it does have some risk. You are hoping to find partner with the \SQ or, even better, the \SA.
+
+This time he comes through with the \SA and your side wins the first 5 tricks for a 1-trick set.
+
+If you had led any card other than a low \S declarer would take 10 tricks.}
+[Play "W"]S4
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ5.QT8432.AQ.73 KQ73.KJ9.T84.952 982.A65.K3.AQJT4 T64.7.J97652.K86"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1H pass 2C pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c49483f490b57eb655b46cc352587da34d66e4f79a7b379d85298f27ac88e9a6"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/opening_leads"]
+[Student "W"]
+{The bidding has been as shown. The contract is 4\H 
+
+Lead the \SK, the top of a 2-card honor sequence.
+
+Against a suit contract you want to try to set up a quick winner in the suit.
+
+Notice that with any other lead declarer would have been able to discard a \S loser  (maybe both of them) on dummy's \Cs.}
+[Play "W"]SK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KT4.KQ9.AT7.QJ97 QJ963.A64.863.82 A82.873.K92.AT54 75.JT52.QJ54.K63"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e75af1242f3e4704874796049da936925c057f41b187fff015e2a07e1e8a167c"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/opening_leads"]
+[Student "W"]
+{The bidding has been as shown. The contract is 3NT 
+
+Lead the \SQ, the top of a broken honor sequence.
+
+The top of a solid 3-card honor sequence is best, but as you can see, a broken 3-card sequence may work out just as good.
+
+South will likely try the \C finesse, and when East wins the \CK he will return a \S through South's \ST.}
+[Play "W"]SQ
+

@@ -1,0 +1,71 @@
+%Creator: CSVtoPBN Version 1.04
+%Created: 2026-07-14 21:15:17
+%sourcefilename BakerBridgeFull.csv
+%HRTitleEvent OLead
+%bridge-classroom-stable: true
+[Event "Baker Bridge - Opening Leads"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ5.A9853.KQ.AQ5 T864.72.J93.JT98 AQ3.K4.A854.K642 972.QJT6.T762.73"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+1H pass 2NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "b8474f967356bf64696c1c2846dff472f9b45898761fe32a44926fe7305a678c"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/opening_leads"]
+[Student "W"]
+{The bidding has been as shown. The contract is 6NT 
+
+Lead the \D2, or perhaps the \S9. Admittedly the \HQ looks very tempting, but resist the temptation.
+
+Since dummy bid \Hs, don't help declarer by leading the suit. Declarer has 11 tricks, and will hope to pick up one more in \Cs, but that won't happen.
+
+But if you start with the \HQ, he will win with his \HK and can then establish an extra \H winner by leading through your \H J 10 into dummy's \H A 9.
+
+With any lead other than a \H honor he cannot come to 12 tricks.}
+[Play "W"]D2
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ963.A6.K9.QT85 A.QJT3.8753.A742 QT85.K54.AT.KJ96 742.9872.QJ642.3"]
+[Declarer "S"]
+[Contract "4SX"]
+[Result ""]
+[Auction "S"]
+1S pass 2C pass 3C pass 4S pass pass X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a39a4ba09232c7ad22a25c863fd28981baff16424168cfb4c564e32ba2af09a4"]
+[Category "Defense"]
+[Difficulty "beginner"]
+[SkillPath "defense/opening_leads"]
+[Student "W"]
+{The bidding has been as shown. The contract is 4\S 
+
+Did you choose the \HQ? I was afraid you would. That is wrong, but because this is the last Deal I'm going to give you another chance.
+
+Look at the bidding carefully, then ask yourself why you doubled.
+
+Now pick the opening lead that will set the contract, then   
+
+Lead the \CA, then follow with a small \C.
+
+North/South apparently have 8 or more \Cs between them, which leaves partner with a singleton at most.
+
+Partner will ruff the second \C, and when you get into the lead with the Ace of trumps you will play a third \C which he will again ruff.
+
+That's why you doubled.}
+[Play "W"]CA
+

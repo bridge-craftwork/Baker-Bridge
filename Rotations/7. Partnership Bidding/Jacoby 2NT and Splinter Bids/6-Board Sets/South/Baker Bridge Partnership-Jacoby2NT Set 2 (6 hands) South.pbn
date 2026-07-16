@@ -10,76 +10,149 @@
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:AQJ743.KQJ5.J3.7 8.T83.A87642.A32 K9652.A76.Q5.KQ8 T.942.KT9.JT9654"]
+[Deal "S:AQT64.KQJ7.KJ.J5 53.643.AT8643.A2 KJ972.A95.Q5.KQT 8.T82.972.987643"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3C pass 3H pass 4S pass pass pass
+1S pass 2NT pass 3NT pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "aa9cf7529feceeacb6d6e8c22bb1b991034e58dc56c20bfc52660e62ad841e8c"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ae90034c7a3f2e53a2c501c1008fbf36c8104cf8783b574ad339e1a89864581f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{The 3\C bid shows a singleton / void in \Cs.
+{SOUTH indicates an above normal opening with five \Ss by her 3NT rebid.
 
-NORTH doesn't have much strength above what she has already shown, but she takes advantage 
-of the bidding level to make a control-showing 3\H bid.
+NORTH also has some extra strength so he makes a Control showing bid of 4\H.
 
-SOUTH is concerned about the \D suit with a worthless doubleton, 
-and he knows that NORTH doesn't have first-round control. He bids 4\S and NORTH passes.}
+Despite both partners showing extra strength South merely signs of at 4\S. Why? Because NORTH's 
+Control bid of 4\H denied first-round control in both \Cs and 
+\Ds. SOUTH realized she was off two Aces.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQJ85.KJ7.Q85.84 92.963.KT732.T97 A763.AQ84.94.KQ2 T4.T52.AJ6.AJ653"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ca728d47b00000f0051d26f3b897137de7bfb37b0ae3c4c13eef8eb87f0df251"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH has a minimum opening hand with no extra features to brag about.
+So after NORTH's Jacoby 2NT bid he merely signs off at 4\S.
+
+NORTH would have cooperated if SOUTH had made a slam try, but she doesn't have enough 
+to initiate the investigation herself.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
 [Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:AQJ743.KQJ5.J3.7 8.T82.Q9876.A532 K9652.A76.A5.Q98 T.943.KT42.KJT64"]
+[Vulnerable "EW"]
+[Deal "S:Q84.AK842.4.KJ95 KT9.96.J82.T8632 A765.QJT7.KQ75.4 J32.53.AT963.AQ7"]
 [Declarer "S"]
-[Contract "6S"]
+[Contract "4H"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
+1H pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "69688a13bbb5873a40a7587c6a4c76ee50c251767506279c66a6723c831e2bf5"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "77b478640eafb62b83b72ecc0e828fd68ee8652858b06eac1878bdb3a20b8949"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{This is the companion to Deal 4.
+{NORTH's 4\C is a Splinter bid. 
+He promises 13+ points, at least four \Hs and a singleton or void in \Cs.
 
-After SOUTH bids 3\C to show shortage, NORTH makes a Control-showing bid 
-of 3\D.
+SOUTH is obviously forced to game, but she is not thrilled to hear about NORTH's \C shortness. In fact, 
+it does nothing to help the value of her hand. So she bids the \H game.}
 
-SOUTH no longer worries about losing two quick \Ds. He uses 
-Blackwood to check for Aces, then bids 6\S.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ9864.QJ7.J2.KQ 2.9532.AT76.T642 KJ75.K6.KQ98.J83 T3.AT84.543.A975"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "74aabfc2d425d8d7678a1a0317f6415823d4d3c035ebe325627b991c5cd7a77f"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH bids 3\S to show the 6-card suit plus some extra strength.
+
+NORTH's failure to make a Control bid in either \Cs, \Ds 
+or \Hs, means just one thing - 
+She doesn't have any controls.
+
+So SOUTH settles for game.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:A5.AJT962.KQ7.63 J87.Q3.8652.AJ85 KQ.K875.A9.KQT92 T96432.4.JT43.74"]
+[Vulnerable "NS"]
+[Deal "S:KQ.AJT976.97.A96 T76.5.QJT653.KQ3 A983.KQ83.AK4.72 J542.42.82.JT854"]
 [Declarer "S"]
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass
+1H pass 2NT pass 3H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "db23c29bcfc94d5b429f707cd63198770dfdcbe3ab6ec150837ee17df7121691"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "f9beb32fdcb8aad803cda83536da8cbe9bebfb97a120446bbac3926bc191ae4c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{SOUTH's 3\H rebid shows better than average strength and six trumps.
+{SOUTH's 3\H bid shows extra strength and a 6-trump hand.
 
-Just what NORTH was hoping for. She bids Blackwood - her plan is to bid 7\H 
-if SOUTH has three Aces, bid 6\H if he has two Aces, 
-and stop at 5\H if he has just one. If South has no Aces NORTH will get a new partner.}
+The next three bids are all Control-showing cue bids.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ984.AK4.98.QJ2 T5.Q75.AJT62.T96 K763.J83.KQ.AK83 J2.T962.7543.754"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "19cb9413c2edad7c1167c0f76c54439db3b00662461904c39ce82db953e3a335"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH shows extra strength / five trumps. 
+4\C and 4\H are Control-showing bids. 
+
+NORTH knows they are missing the \DA, she uses 
+Blackwood just to make certain SOUTH holds the trump Ace.}
 

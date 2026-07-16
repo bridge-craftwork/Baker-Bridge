@@ -4,108 +4,251 @@
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
 %bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
-{Is there any doubt? Although you only have 11 HCP your 6-card suit adds 2 more. And with 13 points you should always open. So you open 1\C. 
-
-Partner responds 3\C.  
-
-With the \C fit your hand is now revalued to 15 points. But it's still a close thing. You may be able to make 5\C or you may not.
-
-Passing would not be horrible - but when in doubt it is usually better to be bold. You cross your fingers and bid 5\C. 
-
-South plays 5\C. West leads the \DQ.
-
-<b>South plays 5\C. West leads the \DQ.</b>
-
-Losers: \S 1 : \H 0 : \D 1 : \C 1 : Total = 3
-
-The two black Aces aren't going away so if you are to make this contract you must do something about your \D loser. And the only likely place to put it is on dummy's \SK. If West has the \SA, you can lead up to the \SK and make a winner out of it.
-
-Suppose you win the \DQ in dummy and play a \C. Somebody will win the \CA and play another \D. You win this and lead toward the \SK. No good. West jumps up with his \SA and sets you with a \D winner.
-
-The problem was that when you played a trump you let the timing go to the defense. They could knock out your last \D stopper while they still had the \SA. Try it this way.
-
-Win the \D in your hand and immediately play the \S9. If West doesn't take his \SA he'll never get it, so assume he goes up. Now he leads \DJ but you win, get to dummy with the \HK and play the \SK, discarding the \D loser.
-
-Pulling trumps is very important, but sometimes there is something you must do <b>BEFORE</b> you play trumps.
-
-In this hand that something is to establish the \SK so you can discard your \D loser.}
-[Play "W"]DQ
-
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
+[Site ""]
+[Date ""]
+[Board "1"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:T73.KJ54.K7.AQT6 Q654.96.AQJ9.K72 A8.AQT832.84.J94 KJ92.7.T6532.853"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1C pass 1H pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{Don't even think of jumping to 2\H. That would show 17+ points. Instead you just bid 1\H, knowing partner is forced to bid again.
+
+Partner does bid again, saying 2\H.  
+
+Partner's rebid promises a minimum opening bid (13-15) and four \Hs. That makes your total about 28 points and ten \Hs. So you bid game. 
+
+North plays 4\H. East leads the \S2, West playing the \SQ.
+
+<b>North plays 4\H. East leads the \S2, West playing the \SQ.</b>
+
+Losers: \S 1 : \H 0 : \D 2 : \C 1 : Total = 4
+
+If the \C finesse works you have no \C loser, and as a bonus you will be able to discard one of your other losers. Even if the finesse fails you still have an extra winner for the discard.
+
+Is there a danger here? Yes. Suppose you win the first trick, pull trumps, then finesse the \C. West might win and play a \S back to East's hand. And East might then lead a \D through dummy's \DK.
+
+East is the Danger Hand. You want to keep him off the lead. His only possible entry is the \S suit, so all you have to do is hold up on the first trick. Win the second \S, pull trumps as before, and finesse the \C. West wins but cannot get to his partner's hand for the killing \D lead. You will discard one of your \D losers on dummy's fourth \C.
+
+You usually think of a hold-up play in a Notrump contract, trying to exhaust one defender of his partner's suit. 
+
+For this deal the hold-up serves a different purpose. It keeps one defender from ever gaining the lead.
+
+You had to lose one \S in any case, so you just choose to lose it to the defender who cannot hurt you.
+
+Notice that the Danger Hand <b>WAS</b> on lead at one point - the opening lead. If East had been clairvoyant enough to lead a \D the contract could have been beaten. Opening leads are important to the defense.}
+[Play "W"]S2
+
+[Event ""]
 [Site ""]
 [Date ""]
 [Board "2"]
 [Dealer "W"]
 [Vulnerable "NS"]
-[Deal "W:K42.52.9832.A763 A63.KQT964.AKJ.8 T987.A.T65.J9542 QJ5.J873.Q74.KQT"]
-[Declarer "N"]
-[Contract "5H"]
+[Deal "W:72.KQ8763.K94.85 9653.T952.A85.T9 AK.AJ.QJT2.AQJ72 QJT84.4.763.K643"]
+[Declarer "E"]
+[Contract "6NT"]
 [Result ""]
 [Auction "W"]
-pass 1H pass 3H pass 4NT pass 5C pass 5H pass pass pass
+2H pass 2NT pass 3D pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0dfd9bd8315bf21c0c524fd688e6f4415757794182068df2eaa4539e1dedc18f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "f2a50035480374aa722f2a6d266d54c8d59c39d513c38dd55c04163560b774ab"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{You have a very good hand. But not good enough to open 2\C, so you open 1\H.
+{You were probably stunned when you picked up this hand and even more stunned when partner bid.
 
-Partner jumps to 3\H.  
+Your biggest problem is that partner has opened with a weak bid and won't credit you with such a huge hand. So you must make sure you don't make a bid he might pass until you're ready.
 
-This is close. Partner has 11 or 12 points and good \H support. Your hand revalues to 21 points. You might have a slam. You decide to try for it and bid 4NT. Partner replies 5\C showing no Aces. So much for the slam. You bid 5\H.
+For example, suppose you made a jump shift to 4\C. Would partner know what that meant? Do you know what it meant?
 
-North plays 5\H. East leads the \ST. You put on dummy's \SJ, West plays the \SK and you win the \SA.
+The best(?) bid at this point is probably 2NT. Everybody knows what that means. Partner is forced to reply, and will either rebid his suit with a minimum hand or show a "feature" if his hand is better than minimum.
 
-<b>North plays 5\H. East leads the \ST. You put on dummy's \SJ, West plays the \SK and you win the \SA.</b>
+Partner replies 3\D.  
 
-Losers: \S 1 : \H 1 : \D 0 : \C 1 : Total = 3
+Trust your partner. He has shown a better-than-minimum Weak-2 bid, probably 9-11 points, and a high card in \Ds, either the \DA or \DK.
 
-You cannot avoid losing either of the two Aces. So therefore you must do something about the \S loser. And the only thing you can do with it is to discard it on one of dummy's \Cs.
+With your hand you don't need anything else to make a slam. You have to decide between 6\H and 6NT. Based on your reluctance to have an opening \C lead go through your \C A Q you choose 6NT.
 
-Be careful. If you lead a trump now a defender will take the Ace and play another \S, exposing your loser while the \CA is still out. You must set up the \C first. So at trick 2 play your \C to dummy's \CQ. A defender may win this and play a \S, but you win the \SQ and play the \CK, discarding your \S loser. Now you switch to trumps.
+East plays 6NT. South leads the \SQ.
 
-The way you decide whether to start pulling trumps right away is to use your imagination.
+<b>East plays 6NT. South leads the \SQ.</b>
 
-Imagine what the defense will do if you lead a round of trumps. Then imagine what they will do if you play a different suit instead.}
-[Play "W"]ST
+Winners: \S 2 : \H 6? : \D 0 : \C 1 : Total = 9
+
+The winner list isn't as bad as it looks, once you drive out the \DA you'll have your three extra winners in \Ds. 
+
+In fact, your only real problem is making sure you get all 6 \H winners. If the \Hs split 3-2 it's easy, but if they are 4-1 you cannot afford to overtake the \HJ at the second trick. Fortunately dummy has both the \DK and the \D9.
+
+Win the \SA. Play \HA and \HJ. South shows out on the second one. Lead your \D2 to dummy's \D9. Either you are in dummy now to run the \Hs, or North wins the trick with the \DA. In this case you can win his return (don't finesse if he leads a \C), and get to dummy with the \DK to run the \Hs.
+
+A 4-1 split isn't as likely as a 3-2 split. 
+
+But when you can 
+
+In this case dummy had a certain entry in the \D suit so you take advantage of that entry.}
+[Play "W"]SQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ4.KQJT86.873.6 Q6.A.AKJ965.9752 73.5432.Q4.AKT83 KT9852.97.T2.QJ4"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "S"]
+1H 2D 2H 2S pass pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "dbafb51e8e08b7bd981f3e9b9047d6e37dfbb8272426a1b96bbab5ba7ff0818a"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{With 11 points you would probably have bid 3\H, a limit raise, if East hadn't overcalled.
+
+But you now doubt your \DQ is worth 2 points so you just say 2\H.
+
+Now West comes in with 2\S and it is passed around to you. 
+
+With a known 9-card fit this hand is worth a 3\H bid.
+
+Everybody passes.
+
+North would play 3\H.
+
+Click 
+
+South plays 3\H. West leads \DA, \DK, \DJ. East plays first the \D10, then \D2. 
+
+<b>South plays 3\H. West leads \DA, \DK, \DJ. East plays first the \D10, then \D2.</b>
+
+Losers: \S 2 : \H 1 : \D 3 : \C 0 : Total = 6
+
+Although there are two \S losers in your hand, one can either be ruffed in dummy or discarded on a high \C. So you really only have one loser too many.
+
+You should realize that if you ruff this \D with one of dummy's teensy \Hs it will be over-ruffed. East did signal a doubleton. The loss of the teensy \H doesn't worry you, you have plenty of them. But the loss of the opportunity to dump a loser should worry you a lot. 
+
+So don't ruff at all. Discard a \S. Now you can ruff your other \S loser in dummy.
+
+Be ever watchful for situations where you may be over-ruffed. 
+
+Often, like in this deal, you can discard a loser instead.}
+[Play "W"]DA
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-[Dealer "E"]
+[Dealer "W"]
 [Vulnerable "All"]
-[Deal "E:QJ74.AK.T862.AKQ 52.QJT84.K9.J863 A63.752.A753.T54 KT98.963.QJ4.972"]
-[Declarer "E"]
-[Contract "3NT"]
+[Deal "W:AQ4.AJT.AQJ8.KQ6 KJ73.Q762.T93.95 92.85.K652.AJT32 T865.K943.74.874"]
+[Declarer "W"]
+[Contract "6NT"]
 [Result ""]
-[Auction "E"]
-1D pass 2D pass 3NT pass pass pass
+[Auction "W"]
+2C pass 3C pass 4NT pass 5D pass 5NT pass 6D pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "ad45d9f9afe0ef016809ea4fbefffd5077a57b519ded0b69b50ecabae5e1eb7e"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "587016a9b342ef7a58999bdd49f97d32c492102daab3fe1d1a9be61fa73a500d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{With 19 points you are too strong to open 1NT so you open 1\D. Partner responds 2\D.  
+{With 9 points you have enough strength to make a positive response. And with a good 5-card suit you respond 3\C.
 
-Perhaps you can make 5\D. But 9 tricks are easier than 11  so you bid 3NT. Notice that there was no reason to "show" your \S suit. If partner held 4 \Ss he would not have bid 2\D. 
+Partner says 4NT.  
 
-East plays 3NT. South leads the \HQ.
+Partner's 4NT bid is clearly Blackwood. With one Ace you answer 5\D.
 
-<b>East plays 3NT. South leads the \HQ.</b>
+Partner says 5NT.  
 
-Winners: \S 1 : \H 2 : \D 1 : \C 3 : Total = 7
+Partner's 5NT bid guarantees that your side has all the Aces, and asks for your Kings. With one King you answer 6\D.
 
-You can create one winner in \Ds if they split 3-2, but too late, the defense would have set up their \Hs. So you must get 2 more \S tricks.
+Partner says 6NT and you pass.
 
-This is one of the most misplayed positions in bridge. The usual approach is to lead the \SQ, hoping that South holds the \SK. But this can't succeed. If South does hold the \SK he will cover, either this trick or the \SJ, and someone's \ST will become a winner. Of course if North has the \SK then the finesse will fail, along with your chance of 2 more winners.
+East would play 6NT.
 
-The correct way to play for 2 more tricks is to hope <b>NORTH</b> has the \SK and lead twice toward your \S Q J. So win the first trick, play \S4 to dummy's \SA. Lead the \S3 toward your hand, playing the \SJ if North plays low. (Of course if North ever plays the \SK he gives you two winners immediately.) When the \SJ wins, return to dummy with the \DA and lead the \S6 toward your \SQ.
+Click 
 
-When North holds the \SK you can always get 3 \S tricks if you play correctly. }
-[Play "W"]HQ
+West plays 6NT. North leads the \D10.
+
+<b>West plays 6NT. North leads the \D10.</b>
+
+Winner count: \S 1 : \H 1 : \D 4 : \C 5 : Total = 11
+
+You need just one more winner. If the \SK is with South then a simple finesse will provide it. This would not be a terrible plan - you can expect it to succeed 50% of the time. Of course that means you will go down the other 50% of the time.
+
+The double finesse in \Hs is better. If South holds <b>EITHER</b> the \HK <b>OR</b> the \HQ you will succeed. This raises your chances to 75%.
+
+So win the opening lead with dummy's \DK. Play the \H5, finessing your \H10. North will probably win this with either \HK or \HQ. No matter. Win North's probable \D return and take 5 \C tricks, discarding your 2 \S losers. Lead dummy's \H7 and finesse the \HJ. When this wins the rest of the tricks are yours.
+
+Sometimes you will have two or three possible ways to try for a contract. You need to evaluate them as to which is the most likely to succeed. There are times when this can be very difficult to analyze, but fortunately some choices are pretty easy to make.
+
+The choice between a single finesse and a double finesse is one that you will face many times. So remember that the double finesse works 75% of the time.}
+[Play "W"]DT
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K764.AQ.KQ8.AJ94 J952.K873.A752.6 83.64.T6.KQT8732 AQT.JT952.J943.5"]
+[Declarer "N"]
+[Contract "5C"]
+[Result ""]
+[Auction "N"]
+1C pass 5C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "d35298162e94f5e5851bfcaea45c29fd9251d00af9a67bfb7a2f174a3632f633"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{This is <b>NOT</b> a simple choice.
+
+Partner may have a hand where 3NT is a laydown. Or he may have a hand where 3NT is a godown.
+
+Science isn't going to help you so you guess that 5\C probably has a good chance.
+
+South would play 5\C.
+
+Click 
+
+North plays 5\C. East leads \DA, then \D2.
+
+<b>North plays 5\C. East leads \DA, then \D2.</b>
+
+Losers: \S 2 : \H 1 : \D 1 : \C 0 : Total = 4
+
+<b>MAYBE</b> West will have the \SA and the \HK. But maybe not. You do have an extra \D trick so you need to determine the best use you can make of that.
+
+First pull trumps. It takes one round. Play your other \D winner and discard one of dummy's \Ss. This protects you from losing more than one \S. Enter dummy with a trump and lead the last \S. Assume West has the \SA. If he goes up with it you will be able to dump dummy's \H loser on your \SK. If he plays low you put on your \SK and you no longer have a \S loser.
+
+If it turns out East has the \SA then your \S play didn't work. In that case you would enter dummy again and try the \H finesse. This plan is a winner if West holds <b>EITHER</b> the \HK or the \SA.
+
+It's always nice to give yourself two chances. 
+
+With correct play you succeed when West holds the \SA, but also if he holds the \HK.
+
+The key play was dumping the \S on your \DK rather than a \H.}
+[Play "W"]DA
 

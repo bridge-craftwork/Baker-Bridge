@@ -10,72 +10,149 @@
 [Board "1"]
 [Dealer "W"]
 [Vulnerable "None"]
-[Deal "W:KQ3.A54.A94.K832 AJ97.J73.KQ5.QJ4 T8652.T.JT72.A96 4.KQ9862.863.T75"]
+[Deal "W:KQT.AK643.AJ.T42 75.52.Q95.AKJ983 J932.J9.T873.765 A864.QT87.K642.Q"]
 [Declarer "S"]
-[Contract "2H"]
+[Contract "2C"]
 [Result ""]
 [Auction "W"]
-1NT pass pass X pass 2C pass 2H pass pass pass
+1NT X pass 2C pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f4f7497daf69562b96f4a1857e5dbc370acc316d4f608e767e3eed522619e4fd"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "20815f147e1c8cd21548e087ff234a1c8e74762bbc29f183a5c29ac909e4b376"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{In the balancing seat it is distribution that counts, not point count. With a 6-card Major suit and a singleton you should not let them play 1NT. Youdouble.
+{This is a perfect hand with which to Disturb the Opponent's No Trump. You double and partner bids 2\C, the relay bid.
 
-Partner makes the relay bid of 2\C.  
+What do you say next? 
 
-You bid your suit, 2\H, and everybody passes. Notice that partner had a decent hand, but could not bid over 1NT in the immediate seat.}
+You say pass, of course.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:JT2.AJ87.AK.AT64 KQ985.64.86.KQ92 43.K92.QT953.J73 A76.QT53.J742.85"]
+[Declarer "S"]
+[Contract "2S"]
+[Result ""]
+[Auction "E"]
+1NT 2C pass 2D pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7326f14cc986597a418ff84eb09bc30b446d8a6e395feec1a980299949440880"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/dont"]
+[Student "S"]
+{Partner has two suits, \Cs and something else.
+
+With \Cs your worst suit, you prefer to play in something else. So you bid the next suit up-the-line, which is 2\D.
+
+Partner corrects to 2\S, his "something else" and you pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
 [Dealer "E"]
-[Vulnerable "None"]
-[Deal "E:Q6.KQ9.AJT.AT742 A873.J852.Q964.Q JT954.AT74.K82.8 K2.63.753.KJ9653"]
+[Vulnerable "EW"]
+[Deal "E:QJ5.A5.AJT74.A62 87.KQJT87.965.83 T94.632.KQ32.JT4 AK632.94.8.KQ975"]
 [Declarer "S"]
-[Contract "2C"]
+[Contract "2H"]
 [Result ""]
 [Auction "E"]
-1NT pass pass X pass 2C pass pass pass
+1NT pass pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2e53dd53385cff309b8751764e410976e94f3bbac423aaa5df2ecb65f687892c"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b209ed09999ba0f472eb03ea8b50ad8f803c81a6d8c84abfc354c102a3199054"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{You don't have a 6-card suit, nor do you have a 5-4 pair of suits. So even with a singleton you don't want to use DONT here. So you pass.
+{You have 12 HCP, certainly enough to use DONT in either seat. With your black 2-suiter you bid the lowest one, 2\C.
 
-Partner makes a DONT double in the balancing seat.  
+Partner says 2\H.  
 
-Right now you probably have a premonition about what is going to happen next. But there really is nothing you can say other than 2\C.
+Partner would have bid 2\D, the next suit up the line, to ask you to name your other suit. His 2\H bid says he wants to play right there.
 
-Your premonition came true. Partner passes and you are left playing 2\C with a singleton. Nobody promised that DONT would always get you to a good contract.}
+So you pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:K85.Q832.KT3.AQJ A3.J65.AQ86.K863 JT6.A7.J942.T975 Q9742.KT94.75.42"]
+[Declarer "S"]
+[Contract "2H"]
+[Result ""]
+[Auction "W"]
+1NT pass pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7a02ad263c036ef7d5e958a5d144325e6dfa35895c9b8acc59085e61460ef390"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/dont"]
+[Student "S"]
+{You would have opened 1\D but after West opens 1NT you must pass.
+
+Partner bids 2\H in the balancing seat.  
+
+The 2\H bid shows \Hs and \Ss.
+
+You like \Hs better and don't have enough strength to think about game so you pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "W"]
-[Vulnerable "NS"]
-[Deal "W:A96.A965.AQ.QT75 85.82.T96.AKJ983 KQT732..KJ8432.4 J4.KQJT743.75.62"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:A83.AQ9.763.KQJ2 KQJ975.52.Q95.83 2.K764.KT42.T964 T64.JT83.AJ8.A75"]
 [Declarer "S"]
-[Contract "2H"]
+[Contract "2S"]
 [Result ""]
-[Auction "W"]
-1NT X pass 2H pass pass pass
+[Auction "E"]
+1NT 2S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "57aa7c03853542ad44f5fde88701491f96d6d580d456bdb6cd9c2b1cf7a91efb"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fe7b81da98486fe7d27eb90c625d34d94edab3999cdf5336ede48b558f6a68e7"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
 [Student "S"]
-{You only have 8 HCP but with such a good 6-card suit you should interfere with a DONT bid. You double and partner surprises you by saying 2\H.
+{You have a good 6-card suit but only 8 HCP. This is bare minimum for a DONT bid. The fact that your suit is \Ss should sway you toward bidding.
 
-There is a reason partner didn't say 2\C (which you were going to pass). And the reason is that he figures you will be better off in his \Hs. Since you trust your partner you pass.}
+But with the weak hand you bid 2\S instead of double. Everybody passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:KQ7.AT653.AK3.J9 AJT.KJ7.QJ96.AT7 942.84.T82.K8542 8653.Q92.754.Q63"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "S"]
+1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: E, basisKind:Declarer, nOption:2, nBasis: 1, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "a10c25a4e74cb98ccdeed39a1408d44f1b3e53f00a2032096018eea335013562"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/dont"]
+[Student "S"]
+{With 16 points and a balanced hand you were planning on opening 1NT yourself.
+
+But one of the consequences of playing DONT is that you have no bid to describe this hand. You cannot double because then partner would just bid 2\C as a relay and you wouldn't know where to go.
+
+So you pass.}
 

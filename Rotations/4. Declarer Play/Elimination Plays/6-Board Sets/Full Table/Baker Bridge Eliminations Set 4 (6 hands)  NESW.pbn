@@ -7,119 +7,247 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "W"]
+[Dealer "E"]
 [Vulnerable "None"]
-[Deal "W:Q9643.9762.92.86 AJ.A.AT8743.AJ93 T85.KQJT84..KQ42 K72.53.KQJ65.T75"]
+[Deal "E:Q974.6.AQ8.KQJ75 A853.Q74.9762.83 JT2.983.JT4.9642 K6.AKJT52.K53.AT"]
 [Declarer "N"]
-[Contract "6D"]
+[Contract "4H"]
 [Result ""]
-[Auction "W"]
-pass 1D 1H 2H X 6D pass pass pass
+[Auction "E"]
+1C pass pass X pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e126a649de863297a90bdfd2cb656f86eb2e352a0ff742817d2369ca71f0ec86"]
+[BoardVersionToken "599c4eb026158830579d99fe9d9d4b37ea2ec0115405786d4bffe9a1e1fb6fb1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{South's 2\H bid showed a hand with limit raise or better in \Ds. North doesn't bother with Blackwood since he already knows about the Aces. He just bids the slam. North plays 6\D. East leads the \HK, won by you with the \HA.
+{South realizes that to make a takeout double, then jump in your own suit you must have a very good hand. So he bids the game. North plays 4\H. East leads the \CK, which you take with the \CA.
 
-The good news is that you have no losers in \Ss, \H, or \Ds. The bad news is that you have two losers in \Cs. The good news is that missing the \C K Q you could try two finesses. The bad news is that East overcalled, so he probably has both honors. The best news of all is that you know how to pull off an elimination play!. Play a trump to dummy's \DK (East discards a \H) and ruff the \H5.
+You have four losers. If you are thinking about leading toward your \DK you are delusionary. East has the \DA and you know it. Your best hope is to end-play East with the \CT and force him to break the \Ds. 
 
-Pull the outstanding trump with the \DA, then play \SA, \SK and ruff a \S.
+Play one round of trumps with the \HA. You can't play any more because you will need an entry to dummy for the elimination.
 
-You want to play the first \C from dummy, so enter dummy with a trump.
+Next play \SK, \SA and ruff a \S high.
 
-Play the \CT from dummy and let it ride if West does not produce the \CQ or \CK. East will win with one of the honors but will have to return another \C or give you a ruff-sluff.
+Lead a \H to dummy's \HQ. East shows out. Play dummy's last \S. West is now void, so if he ruffs you over-ruff. Otherwise you ruff with a small trump.
 
-When you are missing the K Q of a suit, as in the \Cs on this hand, taking two finesses gives you a 75% chance of success - <b>all things being equal</b>.  
+Now throw East in (you hope!) with the \CT.
 
-In this case though, East's overcall means all things are not equal, so your chances are lower than 75%.
+Fortunately East has to take the \CT. Since he has nothing left but \Cs and \Ds he must lead one or the other. A \D lead will give you a trick with your \DK and a \C lead will allow you to ruff in dummy (West still has a \C) and discard a \D from your hand.
 
-But never mind the percentages for a finesse, the end-play was a sure thing.}
-[Play "W"]HK
+Some problems are tougher than others, this being a tough one.  
+
+It was not a complete elimination since West still had a trump when you threw East in. However, it worked because East was out of both \Ss and \Hs.}
+[Play "W"]CK
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AKQ632.A63.7.764 4.KJ95.QJT4.QT92 JT975.7.K863.K53 8.QT842.A952.AJ8"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "862deb757d4930f723374d428a5dcde8c2cf3f7bee3aa4496cb0b0c888548dc2"]
+[Category "Declarer Play"]
+[Difficulty "advanced"]
+[SkillPath "declarer_play/elimination_plays"]
+[Student "S"]
+{East is to play 4\S. South leads the \DQ.  
+
+Unless South is real beginner North will hold the \DA so you should not try the \DK on this trick. And when South continues with the \DJ you should again duck in dummy, ruffing with an honor in your hand.
+
+The contract is in danger if North holds the \CA because you would have three \C losers to go with the \D already lost. One really good possibility is that North now has the lone \DA and you can set up dummy's \DK with a ruff.
+
+So play a small \S to dummy's \S9, (pulling the two outstanding trumps), and ruff another \D with an honor, hoping the \DA drops.
+
+Too bad, the \DA did not fall so dummy's \DK is not a winner. But it will still prove to be useful. 
+
+Play the \HA, then ruff a \H in dummy. Play a trump to your \SA and ruff your last \H.
+
+You are in dummy, just where you want to be. Play the \DK, and when North plays the \DA don't ruff but instead discard a \C from your hand. You knew all along that he held the \DA.
+
+[showcards N:SJ,CK,C5,C3 S:S6,S3,C7,C6]
+
+North is end-played, forced to either break the \Cs and give you a \C trick, or give you a ruff-sluff.
+
+This was the toughest hand so far and the end-play depended upon your correct reading that North must hold the \DA.
+
+It also depended upon the defenders not switching to \Cs at the second trick. If South had decided to switch to the \CQ you would have had no chance at all. }
+[Play "W"]DQ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:K4.KT3.K95.AT962 QJT87.654.QJ3.K4 932.AJ7.A4.QJ873 A65.Q982.T8762.5"]
-[Declarer "E"]
-[Contract "5C"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ.AQT943.J.AJ94 QT852.6.Q97.KQ52 76.KJ72.AK64.T83 K943.85.T8532.76"]
+[Declarer "S"]
+[Contract "6H"]
 [Result ""]
-[Auction "E"]
-1C 1S 2S pass 3C pass 5C pass pass pass
+[Auction "S"]
+1H pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "f7cff408a596316143cd7ae183f94e9b09943fbdda151795a058dadd6928bcbb"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a1738896eae981ec81559136d06b28cf8d48f1e28b7b50c9813682de4600af30"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{West's cue-bid shows a limit raise or better (11 points) in \Cs. East is to play 5\C. South leads the \SQ, North takes the \SA and returns the \S6 to your \SK.  
+{After hearing a limit raise, South's leap to 6\H is, well, bold let's say. South plays 6\H. West leads the \S5, East plays the \SK.
 
-You have lost one trick already and have a possible loser in trumps and another possible loser in \Hs. Both loserscan be avoided with successful finesses. The problem with the \C finesse is that South made an overcall so he is more likely to hold the \CK. If you don't try the \C finesse you may be able to throw a defender in with the \CK at a time when he will have to help you with his next play.
+Very bold in fact. The opening lead has exposed a \S loser in addition to your two \C losers. On the plus side dummy has an extra \D trick. You are going to have to try to throw West in with the \C suit, but you will have to be very careful with dummy's entries.
 
-After winning the \SK immediately play the \CA.
+Win the \SA, play the \DJ to dummy's \DK and discard the \SJ on dummy's \DA.
 
-It would have been nice to see the \CK fall, but it didn't. So play a small \D to dummy's \DA and play the \S9, ruffing in your hand.
+You are in dummy, so ruff the \S7 with a high trump. Next play the \H9 to dummy's \HJ. Both defenders follow, whew!
 
-Eliminate the \Ds by playing \DK, then ruffing your last \D in dummy.
+Back in dummy, ruff a \D with the \HQ, then lead the \H10 to dummy's \HK, pulling the last trump as you enter dummy.
 
-You have done all the eliminating, time to throw in somebody. Play a \C.
+It would be great if you could ruff dummy's last \D, then get back to dummy with a trump so you could lead a \C from dummy and finesse. But check your trumps. If you do that you will have no more trumps in your hand and West won't be endplayed because you have no ruff-sluff. The only thing you can do is to go ahead and play \Cs now, finessing into West and HOPING he has no more \Ds!
 
-Whichever defender had the \CK is now on lead, but wishes he wasn't. If he plays a \H  you get a free finesse. If he plays anything else you get a ruff-sluff.
+You were lucky, West had only three \Ds so your partial elimination worked.  
 
-If you had finessed for the \CK South would have won the trick and been able to make a safe exit, probably with his other \C.
+But if it had turned out that West DID have another \D, and led it, all would not be lost. You would ruff in your hand, play a trump to dummy, then take a second \C finesse. If it turned out the \CK and \CQ were in different hands you would make the slam.}
+[Play "W"]S5
 
-You would then have been forced to rely on the \H finesse, and with South being the defender who showed some strength, you would likely have finessed through him.
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:Q94.A96.AKQ.AQ54 KJT8653.T5.JT8.3 A72.KQJ.752.KJ62 .87432.9643.T987"]
+[Declarer "W"]
+[Contract "6NT"]
+[Result ""]
+[Auction "W"]
+2NT 3S 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "c39bc60c1a7727c3c416964f2649404cb31ed786c0548b8d76c74846f9d29cd9"]
+[Category "Declarer Play"]
+[Difficulty "advanced"]
+[SkillPath "declarer_play/elimination_plays"]
+[Student "S"]
+{Some bidding, huh? Well, what would you have bid in the East seat? West plays 6NT. North leads the \DJ.
 
-About the only way the elimination/throw-in could fail is if the \Cs split 3-0. Then, if you play Ace and another the defender who wins would use his third \C as a safe exit.}
-[Play "W"]SQ
+Mirror distributions! So you can only make ten tricks in \Hs, \Ds and \Cs. 
+
+That means you will have to make two \S tricks. And since the odds are 5000 to 1 that North has the \SK, leading toward your \SQ is NOT your play.
+
+Win the \D and play 4 rounds of \Cs. North follows to the first, then discards 3 \Ss.
+
+Next play 3 \H winners. North follows twice, then discards a \S.
+
+Now play your 2 \D winners. South and North both follow.
+
+[showcards N:SA,S7,S2 S:SQ,S9,S4]
+
+Keeping your fingers crossed that North must win the next trick you play the \S9. North puts on the \ST, you play low in dummy, and South (thankfully) discards a \H. 
+
+[showcards N:SA,S7 S:SQ,S4]
+
+North has been thrown in and he has nothing left but the \S K J. Whichever one he plays you will take the last two tricks.
+
+North no doubt thought his 3\S bid was a good idea. 
+
+In fact, it just kept you from making a losing play, (leading toward the \SQ), and allowed you to find the end-play to make the slam.}
+[Play "W"]DJ
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "W"]
-[Vulnerable "None"]
-[Deal "W:KQT3.2.T872.KJ54 A862.AT96.AK.763 J974.8.J9643.982 5.KQJ7543.Q5.AQT"]
-[Declarer "S"]
-[Contract "6H"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K85.AKT5.K72.K74 6.943.JT96.QT832 732.QJ86.A543.A9 AQJT94.72.Q8.J65"]
+[Declarer "N"]
+[Contract "4H"]
 [Result ""]
-[Auction "W"]
-pass 1NT pass 3H pass 4H pass 5C pass 6H pass pass pass
+[Auction "N"]
+1NT pass 2C 2S 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d2d0ac79b4e9658c2563e90d1ac9a4d47a592681d6813a40ac44a08265806d09"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7e5efb6866dbbc9015d6bea663537a955fef0cf29da614fe4acfd5ce7a60a1a8"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{Your 3\H bid is a slam suggestion. After you show the \CA partner wastes no time in bidding it.
+{North is to play 4\H. East leads the \S6, taken by West with the \SA. West returns the \SQ, you play the \SK and East ruffs. East next leads the \DJ.   
 
-South is to play 6\H. West leads the \SK.
+After that unfortunate start you seem to be in a bit of trouble. Two tricks are already in the defender's pockets and you still have a \S loser and a \D loser. So you win with your \DK and play two rounds of trumps.
 
-This is a good slam. You have only two possible \C losers, and by taking two \C finesses you have an excellent chance of success. But by using an elimination play you will have a sure thing. 
+The good news is that East started with three trumps, and since he already used one it only takes two pulls to pick up the remaining trumps.
 
-Win the \SA and ruff a \S with a \H honor.
+Eliminate \Cs by playing \CA, \CK, and ruffing a \C. Both defenders follow to all three \Cs.
 
-Play a small \H to dummy's \H9 and ruff another \S. Both defenders followed to the trump play.
+So far West has followed suit to every trick, meaning he has not discarded a single \S. Since you know he started with 6 \Ss, his final 5 cards consist of 4 \Ss and one other. You play to the \DA and West follows suit again.
 
-Play another \H to dummy's \H10 and ruff the last \S.
+[showcards N:S7,HQ,D5,D4 S:S8,HK,HT,D7]
 
-Play the \DA and \DK.
+Play dummy's \S7. West will win, but he has nothing left but \Ss. When he plays another \S you discard your \D loser and ruff in dummy.
 
-Conveniently in dummy, you play a \C and insert the \CT if East plays low.
+This is called a Partial Elimination because all of the \Ds were not eliminated.  
 
-[showcards N:HA,H6,C7,C6 S:HK,HQ,CA,CQ]
+However, the key is that you could tell they were eliminated from the West hand, and West was going to be the throw-in target because of his long \Ss. 
 
-West will probably win this trick. If he wins with the \CK then your hand is good. If he wins with the \CJ then he is end-played, forced to either lead a \C into your \C A Q or to give you a ruff-sluff.
+In many hands an opponent who opens with a preemptive bid gives you the information you need to plan and execute the throw-in.}
+[Play "W"]S6
 
-You probably noticed that you could have finessed your \CQ on the first \C play and pulled off the end-play just as effectively. But there is an advantage to making the first finesse with the \CT.
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:KQT2.AQ64.Q7.QJ4 7.K973.K963.KT52 AJ9653.52.A2.876 84.JT8.JT854.A93"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1NT pass 2H pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "2cc40b1e4077ee89c64b4c19ecfdd0c523baed677b2977902eeaa4890916c2c0"]
+[Category "Declarer Play"]
+[Difficulty "advanced"]
+[SkillPath "declarer_play/elimination_plays"]
+[Student "S"]
+{West first transfers you to \Ss, then closes the auction with 4\S. 
 
-If East just happens to hold both the \CK and \CJ you will make all thirteen tricks if your first finesse is with the \CT!}
-[Play "W"]SK
+East is to play 4\S. South leads the \C2. North takes the \CA and returns the \C9 to South's \CK. South plays another \C to your \CQ. 
+
+With two tricks lost already you have a sure \D loser (unless the defenders goof) and a \H loser that might be taken care of if North holds the \HK. But what if South holds the \HK? Maybe an elimination play.
+
+First pull trumps - they split 2-1.
+
+Next eliminate \Ds by playing \DA then another \D. This does the elimination and throw-in at the same time.
+
+If the defender who won the \DK plays a \D or a \C you will ruff in your hand and discard dummy's \H loser. So that defender is going to have to lead a \H.
+
+If it is South who won the \DK you are home free. His \H play will give you two \H tricks.
+
+If it is North who won the \DK you still have a chance. He will lead a \H and you will finesse the \HQ.
+
+In other words, played this way you make the contract whenever South holds the \DK <b>OR</b> North holds the \HK.
+
+. 
+
+With the cards as shown the elimination play works.
+
+But if the \DK is with North and the \HK with South it wouldn't.
+
+Of course it is POSSIBLE that if you played a low \D from dummy some Easts would duck and let you win a trick with your \DQ. 
+
+This trickery would fail if South held the \DK, or if North held it and went up right away.}
+[Play "W"]C2
 

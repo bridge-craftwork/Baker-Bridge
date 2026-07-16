@@ -30,9 +30,9 @@ Partner's 2NT bid invites you to bid 3NT if you are at the top of your 15-17 poi
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:A74.AQ.T74.AQT65 KQJ6.9653.32.J92 T93.K74.QJ85.K83 852.JT82.AK96.74"]
 [Declarer "E"]
 [Contract "3NT"]
@@ -40,7 +40,7 @@ Partner's 2NT bid invites you to bid 3NT if you are at the top of your 15-17 poi
 [Auction "E"]
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [BoardVersionToken "2477ae532bf098c6aa9b6bcb370ab33526535f2d963c0a16aa6be525c72b678b"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -53,7 +53,7 @@ You should count on partner for 9 points for his invitation. Your 17 brings the 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:QJT.AQ.T87.AQT95 AK2.9763.A643.72 865.K84.QJ95.K83 9743.JT52.K2.J64"]
@@ -63,7 +63,7 @@ You should count on partner for 9 points for his invitation. Your 17 brings the 
 [Auction "S"]
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "cec050fc40fad291005a730669cab58b06834bd241ad1625fb8ccb8e3f92fc72"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -74,4 +74,81 @@ You should count on partner for 9 points for his invitation. Your 17 brings the 
 With 15 points you decline invitations, and with 17 points you accept. But with 16 you have to use your judgement. Some players will just automatically bid 3NT when they have 16 points, preferring to err on the side of boldness than to possibly miss bidding a makeable game. Others prefer to base their decision on how good the hand looks.
 
 With all the 10s and 9s this hand is stronger than 16 points, so you bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:QJT5.Q98.AQ4.A98 6.J642.KJ9765.J3 AK3.AK7.T82.QT75 98742.T53.3.K642"]
+[Declarer "W"]
+[Contract "4NT"]
+[Result ""]
+[Auction "W"]
+1NT pass 4NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "6c99955a6ff6d958ed4dd2c335e450de2f9fe223110e221391fd57e3fc3cf4cd"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{You open 1NT. Again. This time partner jumps to 4NT.  
+
+Partner's bid is <b>not</b> Blackwood. It is called a Quantitative 4NT and he is telling you he has a balanced 16-17 point hand. He is inviting you to bid 6NT.
+
+With 17 you accept invitations, with 15 you decline. You have 15 so you pass.
+
+As you see, there are 9 easy tricks and you can probably set up another. But you have no chance to make slam.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJT5.Q98.AK4.AJ9 982.J4.Q7653.642 AK3.AK7.T82.QT75 764.T6532.J9.K83"]
+[Declarer "N"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "58dc2cda9861980df4952d6be0c7c2ec800c45c35905e87e4bb0c27d1e2c454c"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{You open 1NT and partner jumps to 4NT.  
+
+This is the sequel to Deal 4. This time you have 17 points so you accept partner's invitation to slam and bid 6NT.
+
+You have 11 top tricks and can easily set up one more in \Cs.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:QJT5.Q98.AQ4.AJ9 986.J4.K976.K843 AK3.AK7.T82.QT75 742.T6532.J53.62"]
+[Declarer "E"]
+[Contract "6NT"]
+[Result ""]
+[Auction "E"]
+1NT pass 4NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "f0ebc2cf36a1d3d5e1bcbbfbcc8302c0b0b02d54eac959d24d0c59d0bc82f0ef"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{You open 1NT and partner jumps to 4NT.  
+
+This is the threequel to 4 and 5. With a "good 16" points you accept the invitation and bid 6NT.
+
+As you might expect, this time the slam is not so certain, but there is a good chance. If either Minor suit finesse works you can make 12 tricks.}
 

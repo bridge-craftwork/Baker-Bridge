@@ -10,45 +10,101 @@
 [Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:AKQJ.AJT7.A5.KQT T9864.62.T83.J52 7.KQ985.KQ74.983 532.43.J962.A764"]
+[Deal "S:AQ5.4.AKT863.AKQ J962.J953.52.432 K87.AT6.Q974.JT8 T43.KQ872.J.9765"]
 [Declarer "N"]
-[Contract "6H"]
+[Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2H pass 4NT pass 5C pass 6H pass pass pass
+2C pass 2NT pass 3D pass 4D pass 4NT pass 5C pass 5H pass 5S pass 7NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0934b5d8716b16b59031e4d45eca90c2b24e1525470f453f2cd9952f18f0a8c5"]
+[BoardVersionToken "84068150aad48225b9c48147d2113465e089e5aa32c916f5df7c11831561d7a9"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
 [Student "S"]
-{With 11 points and a good suit you should make a positive response. So you bid 2\H. Partner then says 4NT. What is your bid? 
+{Your 2NT response shows 8+ points, with no 5-card biddable suit.  
 
-The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, so you bid 5\C. Partner bids the \H slam.}
+You support the \Ds and partner bids 4NT. What is your next bid? 
+
+With \Ds as trump you have 1 Key-Card, the \HA. You answer 5\C and partner bids 5\H. What is your bid? 
+
+This is the Queen Ask, wanting to know if you hold the \DQ. Since you do have it you should bid a suit in which you hold a King. So you bid 5\S. That spurred partner on - he was fishing for 7\D but when you told him you had the \DQ, \HA and \SK he was able to bid 7NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:T9743.4.T962.943 Q8.AJ97.KQJ.AKQ6 AKJ652.5.A874.75 .KQT8632.53.JT82"]
+[Declarer "E"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+pass 2C pass 2H pass 3H pass 3S pass 4NT pass 6H all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "daed4548148381aa25c9961c0a423c0dbea37fa5e0e41747ccbfdfbdfec37cb6"]
+[Category "Bidding Conventions"]
+[Difficulty "advanced"]
+[SkillPath "bidding_conventions/roman_keycard"]
+[Student "S"]
+{Partner's 2\H is a positive response, 8+ points with a 5+ card suit.  
+
+Even though it is tempting, bidding RKCB now would be a mistake because of your doubleton \S loser. Instead just support the \Hs. Partner cannot pass, you both know you are forced to game. In fact, partner bids 3\S.  
+
+Partner promises first round \S control so NOW you can bid RCKB. When you bid 4NT partner answers 6\H. This shows 1 Key-Card and a void in a suit higher than \Hs. Knowing you are missing either the \DA or \HK you pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "E:AQJ753.65.A43.82 64.J72.JT52.AT93 KT.AK984.KQ8.KQ6 982.QT3.976.J754"]
-[Declarer "E"]
-[Contract "6S"]
+[Deal "S:AQJ8543.7.AK4.AK 6.Q43.QJ752.QJ83 KT72.AK865.83.64 9.JT92.T96.T9752"]
+[Declarer "S"]
+[Contract "7NT"]
 [Result ""]
-[Auction "E"]
-1S pass 3H pass 3S pass 4NT pass 5S pass 6S pass pass pass
+[Auction "S"]
+2C pass 2H pass 2S pass 3S pass 4NT pass 5H pass 5NT pass 6D pass 7NT all pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "1ad2597114a02cd7342dfe9a90d14a664414779cf73e06083c23ae36b3d9c908"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ca84fb59020a08229eeb4f94cc1c71a59f8b10386df904c9f26f94680bf4f3fa"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
 [Student "S"]
-{The bidding has been as shown.  
+{Your 2\H response shows 8+ points, with at least 5 \Hs.  
 
-Your partner has shown a minimum opening hand, but with 6 \Ss. You are happy with the 8-card trump fit but need to know about Key-Cards. So you bid 4NT. Partner answers 5\S and it is your bid again. 
+Your hand is looking better and better. You already gave a positive response so you know you are forced to game. It is better to keep the bidding low to allow more investigating room so you bid 3\S. Partner bids 4NT. What is your response? 
 
-Partner has two Aces and the \SQ. That should be all he needs to make slam so you bid 6\S.}
+With \Ss agreed as trumps you have two Key-Cards, the \SK and the \HA. With no trump Queen you respond 5\H. Partner now says 5NT. What do you reply? 
+
+Partner is asking for Kings and you have just 1, the \HK. Remember, the \SK is not a King, it is a Key-Card which you have already counted. So you bid 6\D. Partner counts 13 tricks and bids 7NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:82.J942.A7.98432 AK9654.KQ6.KQJ2. T.T753.953.AQT76 QJ73.A8.T864.KJ5"]
+[Declarer "W"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+pass 1S pass 3S pass 4C pass 4H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "8cc5f7348aa4e299ab3389b9f70ed1331e10d6df90355827a34b5571e090414b"]
+[Category "Bidding Conventions"]
+[Difficulty "advanced"]
+[SkillPath "bidding_conventions/roman_keycard"]
+[Student "S"]
+{Partner's 3\S is a limit raise, 11-12 points and good \S support.  
+
+What you DO NOT say next is 4NT. If partner answered 1 Key-Card you would not know what to do. If he has a red Ace you can make slam, but if his one Key-Card were the \CA you couldn't. Instead you make a control-showing bid of 4\C, promising first round control. Partner obliges you by bidding 4\H. What is your next bid? 
+
+Partner's bidding is like the Sherlock Holmes tale <u>Silver Blaze</u>, about the dog that didn't bark. Partner's \H bid shows that he <b>DOES</b> have the \HA, but equally important it shows that he <b>DOES NOT</b> have the \DA. So you know you don't have a \H loser but do have a \D loser. You bid 6\S.}
 

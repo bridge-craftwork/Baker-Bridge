@@ -10,45 +10,91 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:T94.AKJ84.KJT.AQ AK762.76.652.974 3.QT95.AQ3.KJT83 QJ85.32.9874.652"]
+[Deal "N:Q74.AQT83.87.KQ6 JT85.64.962.A842 AK3.KJ95.KQJ3.97 962.72.AT54.JT53"]
 [Declarer "N"]
-[Contract "6H"]
+[Contract "5H"]
 [Result ""]
 [Auction "N"]
-1H pass 3S pass 4C pass 4D pass 6H pass pass pass
+1H pass 2NT pass 4H pass 4S pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8730583fbb2499b951ac29880e572a803d9ff514e9f7d3a71f63ff7476ed48a1"]
+[BoardVersionToken "229237496ab0cf58840c7bd3ec148941295086cf70fc1e4a398b767d6b840d0e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Partner's 3\S bid is a Splinter, showing a singleton \S, good trump support, and 13-16 points. You bid your first-round \C control, and partner replies with 4\D.  
+{Partner's bid is game forcing. With a bare minimum, no singletons, you go ahead and sign off in game. Partner then says 4\S.  
 
-There isn't really anything else you want to know. You think you can make slam so you bid 6\H.}
+Partner is definitely showing slam interest. If you had a first round control in either Minor suit you would bid it now. But you don't. So you sign of again, this time at 5\H. Partner finally gives up on the idea of slam and passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:A98753.95.KQJT.A T.AKJT72.64.9765 KQJ42..9753.KQ84 6.Q8643.A82.JT32"]
+[Declarer "E"]
+[Contract "6S"]
+[Result ""]
+[Auction "E"]
+1S pass 4H pass 5C pass 5H pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "6bdfe970d0c8d5d0194a9763dc8d58a138de3a6e4d13690dfbb600d4e288adf8"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/jacoby_2nt_splinters"]
+[Student "S"]
+{You want to force partner to game while you describe your hand. So you make a Splinter Bid of 4\H. Partner replies 5\C.  
+
+Partner has the \CA. Good. You are pretty worried about \Ds and also your 11 high card points. You are tempted to just sign off at 5\S but you shouldn't. You can make a control-bid below the 5\S level. So you bid 5\H. This tells partner that your Splinter must have been a \H void. Partner bids 6\S.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:K3.KJT974.KQ5.A9 JT84.6.T643.KQ64 AQ62.AQ53.J98.T7 975.82.A72.J8532"]
-[Declarer "E"]
-[Contract "6H"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJT87.AQ.J4.AT83 2.K943.97532.965 KQ643.76.AKQ.KQJ 95.JT852.T86.742"]
+[Declarer "S"]
+[Contract "7S"]
 [Result ""]
-[Auction "E"]
-1H pass 2NT pass 3H pass 3S pass 4NT pass 5H pass 6H pass pass pass
+[Auction "S"]
+1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5S pass 7S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "0b6f26566f8594f8986c943e5b89e194672fbe14cf18fad1895b22c101e33ef0"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "026cf7953abcfd48ad6b552f92dd06f335e74775762234e73b94a04ca9eebf55"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{You have a perfect Jacoby 2NT raise. Partner's rebid is 3\H. What is your next bid? 
+{With 17 points you need to indicate a better than minimum opening. You have no singletons and just a 5-card trump suit so you bid 3NT. Partner says 4\D and it is your bid again. 
 
-When partner shows an above average opener it is your duty to make a control bid if you can. So you bid 3\S. Partner now bids 4NT and it is your turn. 
+Partner's 4\D bid shows first round control (surely the Ace). You bid 4\H, showing your first round control. Partner now says 4NT.  
 
-This is Blackwood. You respond 5\H for two Aces and partner bids the slam.}
+You are being Blackwooded, and with three Aces you reply 5\S. That was apparently just what North wanted to hear, so he bid 7\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:743.AT852.KJ.KQ9 AKQT8.96.53.J854 96.KQJ3.AQ764.T2 J52.74.T982.A763"]
+[Declarer "W"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1H 1S 2S pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "c13fb16d3aacfa1e070cf0fca79b06acabc5d0070a82088aeb793ad8e4545994"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/jacoby_2nt_splinters"]
+[Student "S"]
+{You were all set to give a Jacoby 2NT response when North stuck in his 1\S overcall. Now you can't because Jacoby is off after opponents interfere. Fortunately you have another bid at your disposal. You say 2\S, showing good \Hs and a limit raise or better. Partner bids 3\H.  
+
+Partner didn't have enough to bid game, not knowing if you had more than 11 points. But you know you have opening hand so you bid 4\H.}
 

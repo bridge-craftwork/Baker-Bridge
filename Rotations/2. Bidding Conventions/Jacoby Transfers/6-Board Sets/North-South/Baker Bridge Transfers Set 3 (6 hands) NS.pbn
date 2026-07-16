@@ -7,90 +7,171 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:Q6.A74.KJ92.KQ83 K732.96.QT4.AJ42 AJ854.KQT83.6.75 T9.J52.A8753.T96"]
+[Deal "N:A62.875.AKQ.AT98 KJT75.K94.842.J7 93.QJT62.753.KQ4 Q84.A3.JT96.6532"]
 [Declarer "N"]
 [Contract "4H"]
 [Result ""]
-[Auction "S"]
-1NT pass 2H pass 2S pass 3H pass 4H pass pass pass
+[Auction "N"]
+1NT pass 2D pass 2H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6cfefc4ea8f3a8a39f8708d2c934f222856115addab5dab22d48520904873af7"]
+[BoardVersionToken "030e5d28f77bb2c1fc170e5a059b1e9c5eae5052dcf6c7f93a5444b381262774"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{South opens 1NT.  
+{You open 1NT and partner responds 2\D.  
 
-This is the sequel to Deal 6. You are 5-5 in the Majors again, but this time you have game forcing strength.
+Partner's command is your wish - you say 2\H.
 
-The preferred method for this hand is to transfer partner to \Ss, so you bid 2\H.
+He now bids 2NT.  
 
-What do you bid after partner completes the transfer? 
+Partner's bidding shows 9 points and exactly 5\H. He asks that you take him back to \Hs if you have 3 of them. You do. He is asking you to bid game if you have 17 points. You do.
 
-You show your second 5-card Major by bidding 3\H. Since this shows game-forcing strength (11+ points) partner may not pass, but must bid either 4\H or 4\S. In this Deal he naturally bids 4\H.
+So you bid 4\H.
 
-If you held an even stronger hand and wished to move toward a slam you would start out the same way but then bid again after partner's game bid.}
+With your 3-3-3-4 distribution you might have been tempted to bid 3NT instead of 4\H. It's a good thing you didn't, they would have killed you in \Ss.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J6.A75.AQ72.KJ83 Q842.K963.K4.T94 AK9753.842.53.76 T.QJT.JT986.AQ52"]
+[Declarer "S"]
+[Contract "3S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 3S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a6a9dd179679affd14748e2809e170dad57189bcae39c612c4dd6fd827dba1e9"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/jacoby_transfers"]
+[Student "S"]
+{You open 1NT and partner responds 2\H.  
+
+The initial response to a transfer is really easy. You bid 2\S.
+
+But what do you bid after partner then says 3\S? 
+
+Partner has 6 \Ss and you have 2. So a \S contract is fine.
+
+Partner has 9 points and you have 15. So a game contract is too high.
+
+You pass. And you're going to have to play great to make even 9 tricks!}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "EW"]
-[Deal "S:J4.AQJ5.AQJ3.T96 K63.983.K74.J872 AQT75.4.986.AKQ5 982.KT762.T52.43"]
-[Declarer "S"]
-[Contract "3NT"]
+[Deal "N:A6.965.KQJ2.AK98 KQ9.J4.AT65.T732 873.AKT872.93.65 JT542.Q3.874.QJ4"]
+[Declarer "N"]
+[Contract "4H"]
 [Result ""]
-[Auction "S"]
-1NT pass 2H pass 2S pass 3C pass 3NT pass pass pass
+[Auction "N"]
+1NT pass 2D pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "dc20c13937c2ebe6123b32e92c50a3bc42e6f9b80a21aabb1e127282fe4035eb"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "7383e54931b370eee269c3d07c012b3c9e0ca9656442b73d9e6aa2c69b5b6de2"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{South opens 1NT.  
+{You open 1NT and partner responds 2\D.  
 
-Initiate the transfer by bidding 2\H. After partner responds 2\S  
+You follow orders and say 2\H.
 
-Your bid of a minor suit here shows at least 4 cards and is a slam try. With a weaker hand you would probably just bid 2NT or 3NT.
+Partner follows up with 3\H.  
 
-Having made the try, you accept whatever partner decides. In this case, with a 15 point minimum, a doubleton \S and no \C fit, partner settles on 3NT.}
+Partner has 9 points and 6 \Hs. You have 17 points and 3 \Hs. That adds up to 26 points and 9 \Hs. You have enough points for game and enough trumps to play \Hs so you bid 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A6.965.KQJ2.AK98 Q4.J83.853.Q6542 T9873.KQT.A4.T73 KJ52.A742.T976.J"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "edda2598543865879cafae594b6690dd4fde28c43918cef917e52fff50d7f76e"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/jacoby_transfers"]
+[Student "S"]
+{You open 1NT and partner responds 2\H.  
+
+You say 2\S and partner rebids 2NT.  
+
+Partner has 9 points and a 5-card \S suit. He is inviting you to choose a game if you have maximum.
+
+Since you have 17 points you accept the invitation, but with only 2 \Ss you choose 3NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "N"]
-[Vulnerable "None"]
-[Deal "N:KJ.KQ9.KT73.AJ74 63.876532.AJ5.83 AQT75.A4.986.KQ5 9842.JT.Q42.T962"]
+[Vulnerable "NS"]
+[Deal "N:AK.J65.AKJ4.J865 32.97.QT982.A742 Q9854.KQT83.75.3 JT76.A42.63.KQT9"]
 [Declarer "N"]
-[Contract "6NT"]
+[Contract "4H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 2S pass 4NT pass 6NT pass pass pass
+1NT pass 2D pass 2H pass 2S pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "381b84c2ebebc40d581b0fd0c9c3c751398caa6cd0d4899327a8376178a81ca3"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "01b0600e204ce36517ead4a6f89db8ac8340303c6dfb3314f2e4423f51fe486c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
 [Student "S"]
-{North opens 1NT.  
+{You open 1NT and partner responds 2\D.  
 
-With 16 points you have to be thinking about slam. But first things first, start the transfer process by bidding 2\H.
+You obey partner and bid 2\H but he then bids 2\S.
 
-What is your next bid after partner's 2\S? 
+Partner has told you that he has an inviting, 9-point hand with 5 of each Major. He wants you to choose a Major and also decide whether to play game or partscore.
 
-With 16 points you want to make an invitation to slam, but you also need to let partner know that you only have 5 \Ss so that he can play notrump when he only has a doubleton \S.
+Despite your \Ss being so beautiful there are only two of them so you pick \Hs. And since you have a maximum 17 points you bid the game, 4\H.}
 
-The <b>BEST</b> way to say both these things is to bid 4NT. This is similar to the 2NT bid in Deal 2.
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:QT5.AQ4.KJ4.KJ65 J64.72.Q9832.AQ7 AK873.KT965.75.9 92.J83.AT6.T8432"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 3H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3e26981a7977cdf69ca15986e141580a6d8d6ce96dc77efcf857a85d9d1d3bc3"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/jacoby_transfers"]
+[Student "S"]
+{You open 1NT and partner responds 2\H.  
 
-But you can see the problem with the bid - if partner mistakes it for Blackwood 4NT things could get very confused. So don't use this unless you know both of you are on the same wavelength. 
+You say 2\S. Partner then bids 3\H.  
 
-Here both partners understood the bid and North bid 6NT.}
+Partner has a game forcing hand and is 5-5 in the Majors. He has asked you to choose one of them to bid game in.
+
+With 3 of each you might be inclined to choose your stronger one, \Hs, but in fact that doesn't really matter since partner is probably stronger in \Ss.
+
+What does matter is those minor suits. If the opening lead is a \C or \D, which is very likely, you want the lead to be coming into your hand, not partner's. And in general you would prefer to have the stronger hand remain concealed. So you bid 4\S where you will be declarer, rather than 4\H where partner would be declarer.}
 

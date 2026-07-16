@@ -4,38 +4,78 @@
 %HRTitleEvent 2Club
 %bridge-classroom-stable: true
 %bridge-context: Strong 2C (22+); 2D = waiting/negative
-{You have 6 points and bid a Negative 2\D. Partner now bids 2NT. What is your bid? 
-
-Partner has a balanced 22-24 points. With your 6 you want to be in game, but which game; 3NT, 4\H or 4\S? You can't answer that question unless you know if partner has a 4-card Major suit. So you bid 3\C, which is Stayman in this case. Partner replies 3\H.  
-
-Knowing of the 4-4 fit you bid 4\H. By the way: Partner knew your 3\C bid was not the Second Negative because you don't use Second Negative following a 2NT rebid, you just pass.}
-
 [Event "Baker Bridge - Strong 2C Bids"]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "1"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:AK.KQJT4.AJT.KJ9 Q762.A875.K754.4 J943.96.9863.A82 T85.32.Q2.QT7653"]
+[Deal "S:AK3.KQT.AJ2.KQJT 42.852.T87643.92 QJT7.A96.KQ5.A83 9865.J743.9.7654"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2H pass 2NT pass 3NT pass pass pass
+2C pass 2NT pass 3NT pass 7NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "62eb58b258c2a58107ff3db103b4162b1abaaccd5566552d28a65d43b05decdd"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "d6ba6fcdda41adf876fae088067bac072c200ec7b6c13cbdf6d95abbb2206e33"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{You dealt this hand.  
+{It's like a Bridge fantasy come true. But don't go crazy, wait to see what kind of hand partner has. Remember, anything you say will be forcing. So you answer 2NT and he bids 3NT. What is your next bid? 
 
-With 23 points you open 2\C. Partner responds 2\D.  
+Hmmm, 22-24 points added to your 16 comes to 38-40 points. Looking apologetically at your poor opponents you bid 7NT.}
 
-You bid your 5-card \H suit. Partner says 2NT.  
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AK.AKT86.75.AKQ6 QJT7.93.KQ2.T984 86.Q752.A9864.53 95432.J4.JT3.J72"]
+[Declarer "E"]
+[Contract "6H"]
+[Result ""]
+[Auction "E"]
+2C pass 2D pass 2H pass 3H pass 4C pass 4D pass 6H all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "5c42dde8f3a20fc9ed93d36bb6756a6259f3a07a0dc7d04618478ec1a081dd44"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{Your 7 points isn't enough for a Positive response so you respond 2\D. Partner now bids 2\H. What is your bid? 
 
-Partner's 2NT shows scattered values and fewer than 3 \Hs. He has 3 or more points or he would have bid the Double Negative. So you say 3NT.}
+You let partner know of your good support by bidding 3\H, which is a stronger bid than 4\H would be. Partner now bids 4\C.  
+
+Partner is not introducing a new suit here, you have already agreed on \Hs. He is making a control-showing bid of the \CA. He expects you to do the same if you can. Since you can show your Ace very conveniently below game level you bid 4\D. That was what he was hoping for, he bids 6\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AJ.AKT86.Q94.AKQ T43.J4.J7632.764 KQ9865.7.85.9532 72.Q9532.AKT.JT8"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 2H pass 2S pass 2NT pass 3S pass 4S all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0158a684ee2abdbc66eef24efd75aa6b1ce3db32e1852cebc506924a722c1bad"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{Your 7 points isn't enough for a Positive response so you respond 2\D. Partner now bids 2\H. What is your bid? 
+
+You don't like the \Hs, but with a good suit of your own you can say 2\S. Partner now bids 2NT.  
+
+You know there are enough points for game so you must keep bidding. You should bid the \Ss one more time to show partner it is a 6-card suit. He then bids 4\S and everybody passes.}
 
 [Event ""]
 [Site ""]
@@ -43,20 +83,49 @@ Partner's 2NT shows scattered values and fewer than 3 \Hs. He has 3 or more poin
 [Board "4"]
 [Dealer "W"]
 [Vulnerable "All"]
-[Deal "W:AK8.KQT.KQJ2.AT4 5432.832.A4.9762 JT7.A96.T95.KQJ3 Q96.J754.8763.85"]
-[Declarer "E"]
-[Contract "6NT"]
+[Deal "W:KQ63.AK.KQ9.AKQ5 2.T532.87654.JT3 AJT75.8.A3.97642 984.QJ9764.JT2.8"]
+[Declarer "W"]
+[Contract "7NT"]
 [Result ""]
 [Auction "W"]
-2C pass 2NT pass 3NT pass 6NT pass pass pass
+2C pass 2S pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "fb81ef62e62bd2820a488cdd82d23680e996c209361d99f08e90c36b5151d939"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ada9e16dcb0b02774d68e11395a424ee19bd944b75c2000b388a43305b564ce5"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
 [Student "S"]
-{You have 11 points and partner opens 2\C. Wow! You answer 2NT and he bids 3NT. What is your next bid? 
+{You dealt this hand.  
 
-Hmmm, 22-24 balanced, plus 11 balanced equals 33-35 balanced. It makes you think a jump to 6NT would work out great. Just do it.}
+With 26 points you open 2\C. Partner responds 2\S.  
+
+Partner has 8+ points and a good 5-card \S suit. You are absolutely sure you will go to slam, and right now the only thing you want to know is how many Aces are in partner's hand. So you use Blackwood 4NT. Partner answers 5\H. What is your bid? 
+
+Obviously you could bid 7\S. But in fact you can count that there will be thirteen top tricks without a ruff; 5 \Ss, 2 \Hs, 3 \Ds and 3 \Cs. So you might as well bid 7NT.(By the way, the people who bid 7\S got the opening \C lead ruffed!)}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKQ75.A6.AQ7.KQ3 84.975.854.AJ752 63.KQJT2.T96.984 JT92.843.KJ32.T6"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2D pass 2S pass 3H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "b6bccdc70ba77818a62284b92352e4467c043c15fac24d53609e71fb6b21f865"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{With one more point you could have made a positive response. Instead, you bid 2\D. Partner now bids 2\S. What is your bid? 
+
+Not being in love with partner's \Ss, you have enough strength to now bid 3\H. Partner replies 3NT.  
+
+When you have nothing more to say, you pass.}
 

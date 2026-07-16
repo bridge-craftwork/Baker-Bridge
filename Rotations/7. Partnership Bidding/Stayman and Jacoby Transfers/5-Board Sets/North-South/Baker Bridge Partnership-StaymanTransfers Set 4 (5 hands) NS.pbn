@@ -3,61 +3,135 @@
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-StaymanTransfers
 %bridge-classroom-stable: true
-{Stayman convention works just fine after a 2NT opening, just at a higher level.
-
-NORTH knows that 6 points will be enough for game opposite SOUTH's 20-21, she just 
-needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
-
 [Event "Baker Bridge - Stayman and Jacoby Transfers"]
 [Site ""]
 [Date ""]
-[Board "2"]
-[Dealer "N"]
+[Board "1"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:AJT.K9.A872.AT96 K3.Q652.K943.KQ7 Q9874.AJT83.Q6.5 652.74.JT5.J8432"]
+[Deal "S:KJ5.AK6.AQ2.T762 T98.9432.J98.A94 Q742.QJT75.K6.83 A63.8.T7543.KQJ5"]
 [Declarer "N"]
-[Contract "4S"]
+[Contract "4H"]
 [Result ""]
-[Auction "N"]
-1NT pass 2H pass 2S pass 4H pass 4S pass pass pass
+[Auction "S"]
+1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "04c19f10f1a82d9d43c96996e053b988fec8f772cf3146ffd5313e51d60d009a"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{SOUTH has five cards in each Major and NORTH opens 1NT.
+{NORTH, with a 5-card AND a 4-card Major first uses Stayman.
 
-First SOUTH bids 2\H, indicating a 5-card \S suit with the Transfer bid. 
-Then, after NORTH bids the obligatory 2\S, SOUTH jumps to 4\H, promising 
-enough strength for game, and also five \Hs to go with the five \Ss.
+SOUTH denies a 4-card Major, so NORTH realizes that \Ss are out. 
+He then bids \Hs, promising five of them.
 
-NORTH prefers \Ss, so she corrects the contract to 4\S.}
+SOUTH not only has three \Hs, she also has 17 points so 
+she bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKJ5.K6.AQ62.T72 T986.2.954.AK965 Q742.QJT75.K7.83 3.A9843.JT83.QJ4"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1NT pass 2C pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e0442c581a98c98f349465bb7454c4a79dbd90ddf6958048e4d530565b09f5fb"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{This is a companion hand to Deal 16.
+
+SOUTH shows four \Ss following NORTH's Stayman bid.
+
+So NORTH ignores her five \Hs, having already found 
+an 8-card Major suit fit. With the fit her hand now revalues to 11 points so she bids 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AK5.K6.AQ62.JT72 J986.A4.JT8.A964 Q742.QJT75.K7.83 T3.9832.9543.KQ5"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "399a8b59118a0071f11e10a39d97b31f067d344c142f6dd61b951606c7563ef8"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{This is companion #3 to Deal 16 and 17.
+
+SOUTH again starts with Stayman, and after NORTH denies a 4-card Major, 
+SOUTH shows her five \Hs.
+
+But in this Deal NORTH has only a doubleton \H, so he 
+chooses to play 3NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:A96.KQ62.K532.K8 JT87.A94.QJ6.T52 KQ542.87.A8.Q764 3.JT53.T974.AJ93"]
+[Deal "N:KJ.AK6.J953.KJ96 92.942.KQ6.87432 QT8654.Q753.7.AQ A73.JT8.AT842.T5"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
-[Auction "S"]
-1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
+[Auction "N"]
+1NT pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ef7600392606ab185b20dc34c8d664259bce37145450f45041c9b5973a3836f4"]
+[BoardVersionToken "8fe31d18db89299c308926fcd052e2ea65bc23f5affae36978aa90da2bfe84df"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{With 12 points and five \Ss, when NORTH hears her partner open 1NT she knows 
-there is a game - either 3NT or 4\S.
+{Even with a 6-card \S suit SOUTH uses Stayman because he also has a 4-card 
+\H suit. Given a choice, playing a 4-4 Major fit is usually 
+preferable to a 6-2 or even a 6-3 fit.
 
-NORTH first transfers SOUTH to \Ss, then jumps to 3NT, giving SOUTH the choice. 
+But here NORTH doesn't have four \Hs so SOUTH just bids 
+the game where he knows the partnership holds eight trumps.}
 
-SOUTH has three \Ss, so he chooses 4\S, taking the 8-card Major fit.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A7.KJ65.A84.KQT8 T9864.2.JT72.763 KQ3.QT9843.K5.A5 J52.A7.Q963.J942"]
+[Declarer "N"]
+[Contract "6H"]
+[Result ""]
+[Auction "N"]
+1NT pass 2D pass 3H pass 4C pass 4D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "df843d9755544a1f225349eebd07877c86ca31a34df004c686a4c4296a6fb2a0"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{NORTH breaks the expected Transfer sequence by jumping to 3\H instead 
+of bidding just 2\H. This is called the "Super Accept" and it shows 
+a hand with four of the trump suit with maximum point count.
+
+SOUTH's \C bid and NORTH's \D bid are Control bids, showing first 
+round control of the suit that was bid.}
 

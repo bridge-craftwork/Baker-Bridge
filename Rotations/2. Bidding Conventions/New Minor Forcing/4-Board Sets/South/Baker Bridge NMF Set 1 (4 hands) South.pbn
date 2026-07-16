@@ -31,7 +31,7 @@ Partner tells you he has 3 \Ss. You already know he has a minimum strength hand.
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:96.A82.AK74.Q863 543.Q94.QJT93.J7 KQJT2.K63.86.A54 A87.JT75.52.KT92"]
@@ -41,7 +41,7 @@ Partner tells you he has 3 \Ss. You already know he has a minimum strength hand.
 [Auction "S"]
 1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT all pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "180778ab9a3848ce2095c357cf40b9d245fcceba09cc220cda143e2045e65f39"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -52,4 +52,56 @@ Partner tells you he has 3 \Ss. You already know he has a minimum strength hand.
 You have a minimum, balanced hand. It would not be wrong to say 2\C, but 1NT is probably better. Partner says 2\C.  
 
 Do not support the \Cs if you have another decent bid. This is New Minor Forcing and partner may or may not have a \C suit. You do not have 3 \Ss. You do not have a 4-card \H suit. You do have a \H stopper, so bid 2NT. Partner then bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:962.A53.KQJ5.K84 A53.T987.A963.Q6 Q74.KQ642.87.A53 KJT8.J.T42.JT972"]
+[Declarer "S"]
+[Contract "2H"]
+[Result ""]
+[Auction "N"]
+1D pass 1H pass 1NT pass 2C pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3164a77967c05d6b3190679c4459891784a7c9dd9eb5b79ce7ed12b87af139de"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/new_minor_forcing"]
+[Student "S"]
+{With 12 points you know game is likely, but for now you bid 1\H. Partner rebids 1NT. What do you say next? 
+
+Partner has 12-14 points, balanced. If he is at the top, game could still be there, but you aren't sure where to play. If partner has only 2 \Hs then NT is probably best, but if he has 3 \Hs then you would prefer to play the 8-card Major fit. New Minor Forcing will allow partner to answer both questions for you. So you bid 2\C. Partner answers with 2\H.  
+
+Partner tells you he has 3 \Hs. But he also tells you he has minimum strength - in other words not 14 points. So you pass and accept the partscore.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:63.KQJ2.AK86.985 874.54.QJ42.Q732 AKQ52.AT63.75.T4 JT9.987.T93.AKJ6"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1D pass 1S pass 1NT pass 2C pass 2H pass 4H all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "4ce286d8301eb5977f77793ef6dcfabdf4d58884cb050a3e573a13d627ed3d9f"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/new_minor_forcing"]
+[Student "S"]
+{With 13 points you open your 4-card minor, 1\D. Partner responds 1\S.  
+
+You have a great \H suit, but can't bid it. A 2\H bid here would be a Reverse and you are nowhere near strong enough. So instead you say 1NT.
+
+Partner says 2\C.  
+
+This is New Minor Forcing and your first priority is to show a 4-card \H suit. You bid 2\H and partner raises to 4\H.}
 

@@ -10,49 +10,102 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:Q84.AK842.4.KJ95 KT9.96.J82.T8632 A765.QJT7.KQ75.4 J32.53.AT963.AQ7"]
+[Deal "N:6.AK972.87.KQ865 J873.T4.K432.T43 AQ9.QJ83.QJ96.J2 KT542.65.AT5.A97"]
 [Declarer "N"]
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 4C pass 4H pass pass pass
+1H pass 2NT pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "77b478640eafb62b83b72ecc0e828fd68ee8652858b06eac1878bdb3a20b8949"]
+[BoardVersionToken "d35019672c728834bb96bf1aeb967e36547fdc6c464788ce2d40bb66b0aeba57"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{SOUTH's 4\C is a Splinter bid. 
-He promises 13+ points, at least four \Hs and a singleton or void in \Cs.
+{NORTH bids 4\C after SOUTH's Jacoby 2NT. The reason for this bid is just to describe 
+her hand as having a side 5-card \C suit. NORTH knows the eventual contract will 
+be some level of \Hs.
 
-NORTH is obviously forced to game, but she is not thrilled to hear about SOUTH's \C shortness. In fact, 
-it does nothing to help the value of her hand. So she bids the \H game.}
+SOUTH doesn't have a strong hand, but he would show \D control at 
+this time if he had the Ace. He isn't strong enough to go past game to show the \SA, so he 
+just bids 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK9765.J9.K75.AQ T.432.QT3.KT9832 QJ84.K875.AJ4.64 32.AQT6.9862.J75"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c636edbad0a9502087c0a02060e950d46f4d13df3efdce45c88f23db922e3e20"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{NORTH should not be tempted to use Jacoby 2NT with this hand. There are only 12 points, and 
+the Limit Raise is a perfect way to show a 12 point support hand.
+
+SOUTH has more than enough strength to bid game after NORTH's limit raise. If NORTH had 
+mistakenly used a Jacoby 2NT response, SOUTH would probably have tried to reach slam, 
+and perhaps gotten too high.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:AQ9864.QJ7.J2.KQ 2.9532.AT76.T642 KJ75.K6.KQ98.J83 T3.AT84.543.A975"]
-[Declarer "S"]
-[Contract "4S"]
+[Deal "N:KQ954.AQ8.Q97.QJ A2.T432.542.T932 JT863.KJ7.AK3.K5 7.965.JT86.A8764"]
+[Declarer "N"]
+[Contract "5S"]
 [Result ""]
-[Auction "S"]
-1S pass 2NT pass 3S pass 4S pass pass pass
+[Auction "N"]
+1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5D pass 5S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "74aabfc2d425d8d7678a1a0317f6415823d4d3c035ebe325627b991c5cd7a77f"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5df398045a16478506d42386b827591b18eeae03d45da40800cbe42fb4de27c9"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
 [Student "S"]
-{SOUTH bids 3\S to show the 6-card suit plus some extra strength.
+{NORTH bids 3NT to show a good hand with five \Ss.
 
-NORTH's failure to make a Control bid in either \Cs, \Ds 
-or \Hs, means just one thing - 
-She doesn't have any controls.
+SOUTH shows his \D control, and NORTH then shows her 
+\H control.
 
-So SOUTH settles for game.}
+A final check with Blackwood shows two Aces missing. Too bad.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ8752.A3.J62.KQ 3.T6542.AK7.T983 KJ96.KQ98.Q94.A5 T4.J7.T853.J7642"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1S pass 2NT pass 3S pass 4C pass 4H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "385a60d605eb227b85481037e734b3548682a7cdaaa69a385fc1b8e844cb0349"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/jacoby_2nt"]
+[Student "S"]
+{SOUTH shows his 6-card \S suit by bidding 3\S.
+
+NORTH shows her \C control and SOUTH shows his \H control, 
+but it seems neither has a control in \Ds.
+
+So they stop in game.}
 

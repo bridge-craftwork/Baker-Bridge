@@ -9,76 +9,151 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:AQJ9.KJ.Q764.Q53 87.874.KJ92.K962 KT42.AQT963..874 653.52.AT853.AJT"]
+[Deal "N:AK.QJ9.KQ83.AJT7 95.864.AT97.K932 QJ763.KT73.42.Q5 T842.A52.J65.864"]
 [Declarer "N"]
-[Contract "4S"]
+[Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2S pass 4S pass pass pass
+2NT pass 3C pass 3D pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "411f1de49f2a04bc96618bfcbaa812f5f868509fbe888a83f76c7a696d461cb9"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "8516b3191836ea6301a9263de09e741a99515da1ff3e0d899a88ab578aea1c2f"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{With a balanced 20 points you open 2NT and partner responds 3\C.  
+
+Stayman applies after a 2NT opening, just one level higher. With no 4-card Major you bid 3\D. Partner next bids 3\S.  
+
+Partner is showing 5 \Ss and 4 \Hs. In neither case would you have the 8-card fit you need. So you bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KJT5.AQJ9.AJ9.KQ A742.862.K.AJT93 Q963.K5.Q875.742 8.T743.T6432.865"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+2NT pass 3C pass 3H pass 3NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "197a5088dd8b169b1721810b7f19061aa6ab45eff90dc1fede2a761cfbb93130"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{You open 2NT and partner responds 3\C.  
+
+With 4 cards in each Major suit you bid 3\H. Partner puts you in 3NT. What do you do? Pass or bid? 
+
+You certainly do not pass. Partner's Stayman bid tells you he has a 4-card Major suit. His 3NT bid tells you the suit was not \Hs. Elementary, Watson, the suit must be \Ss. So you convert the 3NT bid to 4\S.
+
+If you want to make yourself happy you use Stayman, just imagine playing 3NT after a \C lead!}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJ85.KJ.AK8.KJ96 T96.72.65432.T52 KQ42.AQT943..874 73.865.QJT97.AQ3"]
+[Declarer "S"]
+[Contract "6S"]
+[Result ""]
+[Auction "S"]
+2NT pass 3C pass 3S pass 6S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "9efad7c19913f99274ea69cec18da37f35ef3515041a28ea0d68792b876dd917"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{South opens 2NT.  
+
+Wow! Start thinking slam, but first things first. Find the suit by starting with Stayman. You bid 3\C and partner replies 3\S. What do you say next? 
+
+Your hand revalues to 16 points now that you know there's a \S fit. So certainly you want to be in slam as long as there are not two quick \C losers. At this point you might try something like a 4\D cue bid, hoping partner will read that as a slam try in \Ss, but denying the \C control. But that seems awfully easy to be misunderstood. We suggest an immediate 6\S.
+
+Good thing it's being played by South, right?}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A83.AK64.Q52.Q87 K96.752.T4.AKT53 Q742.T983.J8763. JT5.QJ.AK9.J9642"]
+[Declarer "W"]
+[Contract "2H"]
+[Result ""]
+[Auction "W"]
+1NT pass 2C pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "cc53768368b7a601d874d038a8fba3d9fa4299d806d90cb66a94f806f89895f9"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{West opens 1NT.  
+
+Your first thought should be that with only 4 points you will pass. But on second thought, what would partner respond if you bid a Stayman 2\C? So you give it a shot and partner says 2\H. What next? 
+
+What's next is your PASS. And if he had bid 2\S you also would have passed. And if he had bid 2\D you also would have passed. You figured that with this hand any response partner could make would be a better place than 1NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK73.A95.982.AQ2 42.QT873.AT63.63 QJ85.K64.QJ7.KT8 T96.J2.K54.J9754"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "74e4c1fc52cbbe352ad01b19f98fae6da035d0d5522d093b4f374a868002e272"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
 {North opens 1NT.  
 
-Even when you hold a 6-card Major, if you have 4 cards in the other Major you use Stayman. Partner answers 2\S.  
+With 12 points and a 4-card \S suit this fits the model for Stayman.
 
-You've found an 8-card Major fit and you know there are enough points for game. So you bid 4\S.
-
-Yes, but you already knew you had an 8-card \H fit since partner's 1NT promised at least 2 \Hs. In fact, you could play game in either Major. However, it is often better to play in a 4-4 fit rather than a 5-3 or 6-2. This hand shows why. Played in \Hs you will make exactly 10 tricks with any opening lead. Played in \Ss you will again make 10 tricks when the defenders start with their 3 \C winners. If they start with anything else you are very likely to make 1 or 2 overtricks by discarding dummy losers on your \H suit.}
+But thinking a little further, with this 4-3-3-3 distribution you have no ruffing values whatsoever. So even if partner also has 4 \Ss there might not be an advantage in playing the suit contract. So for this specific distribution you ignore your 4-card Major and just bid 3NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
-[Dealer "W"]
+[Board "6"]
+[Dealer "N"]
 [Vulnerable "EW"]
-[Deal "W:AQJ.KJ.Q764.Q653 985.74.AK82.AKT9 KT42.AQT963..874 763.852.JT953.J2"]
+[Deal "N:KJ7542.AT2.43.QJ 98.KJ4.AQJ7.AT85 3.98653.K862.632 AQT6.Q7.T95.K974"]
 [Declarer "E"]
-[Contract "4H"]
+[Contract "3NT"]
 [Result ""]
-[Auction "W"]
-1NT pass 2C pass 2D pass 4H pass pass pass
+[Auction "N"]
+pass 1NT pass 2C 2S pass pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "22626900e0ca0d9917a5db3b219807010b82b3736dfbcc4ebdf73b09cb53bed7"]
+[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "b2150abdc5bb4045c84d035b9e3c3c7a692b9f7e9a55a476f201c267bb373d7f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
 [Student "S"]
-{This is the follow-up to Deal 10. West opens 1NT.  
+{After you open 1NT partner bids 2\C, then North says 2\S. What do you say next? 
 
-Just like the previous deal with a 4-card Major you use Stayman. This time partner says 2\D. Your turn again. 
+Basically you said your say when you opened 1NT. You don't have a 4-card Major and you have a minimum hand. The best way to convey this information to partner is to pass. At which point partner jumps to 3NT.  
 
-With partner showing no 4-card Major the bidding takes a turn. With your 6 \Hs you are sure of an 8-card fit in the suit. With 11 points you must be sure of reaching game. So you bid 4\H.
-
-In this case the strong hand does not become declarer, but the contract is the right one anyway.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "5"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KT42.A3.QJ95.KQ7 Q765.T62.A8.JT54 83.KQ74.7643.A82 AJ9.J985.KT2.963"]
-[Declarer "S"]
-[Contract "2NT"]
-[Result ""]
-[Auction "S"]
-1NT pass 2C pass 2S pass 2NT pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ff263ce6d8a0f3f822e783edbce7c90de6dda5d4adfa269b0966811fe296feff"]
-[Category "Bidding Conventions"]
-[Difficulty "beginner"]
-[SkillPath "bidding_conventions/stayman"]
-[Student "S"]
-{You open 1NT and partner responds 2\C.  
-
-Partner has commanded you to bid a 4-card Major if you have one. You have one, so you bid 2\S. Partner now says 2NT.  
-
-Partner evidently has 4 \Hs. He also evidently has about 9 points since he is INVITING you to bid 3NT. With your minimum 15 points you decline the invitation by passing.}
+Pass, then "Thank you partner" when dummy comes down. The thing to remember is that partner is in charge. You describe your hand as well as you can and then sit back and let him make the decisions. Perhaps you would have doubled if you held his hand but he didn't.}
 

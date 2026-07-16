@@ -10,79 +10,162 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:AK.QJ8642.KQ3.75 9832.A3.J6542.A4 J65.KT75.A8.9862 QT74.9.T97.KQJT3"]
+[Deal "N:KQJ54.A7.KQ5.J86 72.86532.J87.KQ9 T963.KQ4.9642.A7 A8.JT9.AT3.T5432"]
 [Declarer "N"]
-[Contract "4H"]
+[Contract "4S"]
 [Result ""]
 [Auction "N"]
-1H pass 2H pass 3H pass 4H pass pass pass
+1S pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3c9c135f001fa0fc88c1046abde81f935e383cebdc1ce9189c44e7ccca0d9eab"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ae0afae00c15c60ebbe3ed2548d04761e7d1f70d16318d6918d6459616d33d1b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
 [Student "S"]
-{NORTH has 17 points and six \Hs. 
-This is a mid-range 1\H opening bid.
+{NORTH has 17 points and might open 1NT. But with the 5-card Major suit she prefers 
+to open 1\S.
 
-With 9 points, (1 for the doubleton), SOUTH raises to 2\H.
+SOUTH has good \S support and 10 points, counting 1 for the doubleton \C. 
+It is easily worth a raise to 2\S
 
-NORTH's hand is worth one more try. He invites with 3\H.
+NORTH cannot bid game yet, after all, SOUTH could have as few as 6 points. But she can 
+continue with a 3\S bid in hopes that SOUTH actually has 9 or 10 points.
 
-SOUTH had a strong 2\H raise, considering that she might 
-have only had 6 points. So she carries on to 4\H.}
+SOUTH comes through with 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KJ6.KJ852.A74.85 QT9.T3.Q985.K972 872.Q964.K62.AQ3 A543.A7.JT3.JT64"]
+[Declarer "E"]
+[Contract "3H"]
+[Result ""]
+[Auction "E"]
+1H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "ac08f7efad492d4b88f7d2a3591f6cae3df578420f20ca43c39e2691728f6041"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{EAST has a bare minimum 13 point hand, and he should open 1\H.
+
+WEST has 11 points and good \H support so she jumps to 3\H.
+
+EAST knows he has been invited to bid higher, but with nothing above minimum he must pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:T92.AK542.85.AKQ K53.98.T9762.T64 764.Q763.AJ4.985 AQJ8.JT.KQ3.J732"]
-[Declarer "E"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QJ.J854.A983.QJ7 KT975.96.T7.A843 863.AKQ72.K6.T95 A42.T3.QJ542.K62"]
+[Declarer "S"]
 [Contract "3H"]
 [Result ""]
-[Auction "E"]
-1H pass 2H pass 3H pass pass pass
+[Auction "N"]
+pass pass 1H pass 3H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1daed2889714064afd4433ffc2da9e8decc05a41ca4a61325a6f2436607c00ab"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
 [Student "S"]
-{EAST opens 1\H with 17 points and five \Hs.
+{NORTH has 11 points and she should pass.
 
-WEST, with 7 points and four trumps raises to 2\H.
+SOUTH has a minimum 1\H opening, 13 points and five trumps.
 
-EAST has a mid-range hand, good enough to invite WEST to bid the game.
+NORTH, with 4-card trump support, jumps to 3\H. 
+(This is called a Limit Raise.)
 
-Too bad, but WEST is too weak to accept any invitations.}
+A Limit Raise is an invitational bid, but SOUTH can add and he knows the total points will 
+be either 24 or 25. So he passes 3\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:KQT73.A42.975.A6 4.T63.QJT4.KQ952 J962.KQ75.83.T74 A85.J98.AK62.J83"]
+[Declarer "W"]
+[Contract "2S"]
+[Result ""]
+[Auction "W"]
+1S pass 2S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "623f26f1ab505ea58267738862d1b3f39632fabca9bfabb43423c4cf6e125434"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{WEST has a normal 1\S opening bid, 14 points and five trumps.
+
+EAST has good 4-card support and 7 points, so she raises to 2\S. 
+
+WEST passes, knowing he is not missing a game contract. EAST can have a maximum of 10 points, which would 
+only reach 24 points when added to his 14.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:A63.9853.8643.92 Q92.T6.KQ2.KT875 KJ874.K72.A95.AQ T5.AQJ4.JT7.J643"]
-[Declarer "S"]
-[Contract "1S"]
+[Vulnerable "None"]
+[Deal "N:AQ753.KQ.A876.94 98.A732.QJ4.JT73 K642.J85.K32.A62 JT.T964.T95.KQ85"]
+[Declarer "N"]
+[Contract "4S"]
 [Result ""]
 [Auction "N"]
-pass pass 1S pass pass pass
+1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "825ccd283e150cdc361d8f8523c4c7ae3714811aaa387ac36a2a51f52e6ee1e1"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "beecd9c9df8aae46402731b86c1574be6a9f4e26dd558fe729b5c1100639be4e"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
 [Student "S"]
-{NORTH has a terrible hand, and naturally passes.
+{With a 5-card \S suit and 16 points NORTH should open 1\S.
 
-SOUTH, however, has a nice 18 points and opens 1\S.
+SOUTH has 11 points and four \Ss. So even though he has a balanced hand, 
+he jumps to 3\S, a Limit Raise.
 
-NORTH still has a terrible hand, and passes again. You need at least 6 points to respond to 
-an opening one bid.}
+NORTH adds: her 16 plus SOUTH's 11/12 equals a game, 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:JT864.A6.AK6.KJ3 92.Q2.QJT943.742 AKQ7.743.852.Q95 53.KJT985.7.AT86"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "4d8ed575265fbb16b24eebca512b546ef8b98978b3e16b8065cfd18b7b905ac8"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{EAST has the type of 5-card Major hand that many players would open 1NT. 
+He has 17 points with most of them OUTSIDE the Major suit. But, many others 
+would disagree so for this Deal EAST will open 1\S.
+
+WEST has 11 points and excellent (is that strong enough?) \S support. 
+So she naturally makes a Limit Raise of 3\S.
+
+EAST adds the points and ignores the fact that his \S suit is Jack high. 
+He bids 4\S.}
 
