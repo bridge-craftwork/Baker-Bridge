@@ -8,26 +8,53 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:6.AQJ8754.632.84 QJT83.T9.A8.KJT7 AK75.K63.KQJ54.A 942.2.T97.Q96532"]
+[Deal "S:54.863.AKQ974.85 T98732.J54.82.J9 KQJ.AK7.J63.AK42 A6.QT92.T5.QT763"]
 [Declarer "N"]
-[Contract "6H"]
+[Contract "6NT"]
 [Result ""]
-[Auction "N"]
-3H pass 4NT pass 5D pass 6H pass pass pass
+[Auction "S"]
+2D pass 2NT pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ab3ad96f038dc2e97d6aecfff8039e3ab2f36355bc73ddb6f825e2abf836e4dd"]
+[BoardVersionToken "a24da5119fca54701ebcf38208db8721075eba24cd7fe7745a2037a8ad56c0ca"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{NORTH has a pretty normal 3\H opening bid.
+{The 2NT response to a Weak Two opening is a wonderful tool. You can learn a lot about 
+partner's hand and you are absolutely certain that it will not be passed out.
 
-SOUTH, however, has a big hand, and she launches into Blackwood.
+In this Deal NORTH has a huge hand and SOUTH opens 2\D. 
+There are a lot of approaches NORTH might try, but the simplest is to start with 2NT.
 
-When NORTH shows one Ace SOUTH can bid 6\H with confidence.}
+When SOUTH shows \D A K Q x x x NORTH has an easy 6NT bid.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ9752.K3.852.73 T4.T85.QJ3.J9864 KJ6.AQJ42.964.A5 83.976.AKT7.KQT2"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2S pass 2NT pass 3H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c147c948d4c7a1874470e044ed22705be5eec047adf5c9cada77c8f5997b4faf"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{NORTH is unsure whether to bid game or not. So she temporizes with 2NT.
+
+SOUTH shows an above average hand plus a high card in \Hs. 
+
+NORTH is no longer unsure, so she bids 4\S.}
 
 [Event ""]
 [Site ""]
@@ -35,48 +62,98 @@ When NORTH shows one Ace SOUTH can bid 6\H with confidence.}
 [Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:J3.76.97.KQ98752 9842.AT854.842.4 AQT.KQJ.QJT3.AJT K765.932.AK65.63"]
-[Declarer "S"]
-[Contract "3NT"]
+[Deal "N:AQ9864.53.873.72 T7.KT9.AKT5.J843 KJ3.AQJ42.964.A5 52.876.QJ2.KQT96"]
+[Declarer "N"]
+[Contract "3S"]
 [Result ""]
 [Auction "N"]
-3C pass 3NT pass pass pass
+2S pass 2NT pass 3S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "55434bc1870cefcfdf22c4059f1f165eefa7594294f39e9743297cc8a593f81f"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "74e94cf8e976e0bd5e42af27347d58f70d54ae502c45b8d4055a8e4dab89e30e"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{NORTH doesn't have much of a 3\C opening bid.
+{SOUTH is unsure whether to bid game or not, so he bids 2NT to get more information about 
+NORTH's hand.
 
-But SOUTH has just the type of hand you need to bid 3NT after partner's preempt. The other three 
-suits well stopped, and certain entry in Opener's long suit. Notice here that 3NT is a good contract, 
-but 5\C would go down 1.}
+NORTH's 3\S is discouraging, a hand below average in strength and no outside high card.
+
+SOUTH passes and hopes for the best.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:5.8.9753.KQJ9863 Q94.653.QJ62.T52 A63.AKQJ742.A8.4 KJT872.T9.KT4.A7"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+3C pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "3596bfccb91784c5917513da490a0f5cd47d8a3b47150a557b9ef567fd1e26d2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{SOUTH has no way to tell whether NORTH can provide one winner or not.
+
+So she takes the bold approach and bids 4\H.
+
+If the opening lead is a \S or a \D then SOUTH 
+will probably make the game. Otherwise she will likely go down one.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "NS"]
-[Deal "N:J4.KJT963.875.42 T75.75.J643.A863 AQ63.Q82.AKQ.KQJ K982.A4.T92.T975"]
+[Deal "S:QJT742.KQ72.52.9 A65.T8.J984.KJT3 K3.AJ963.AQ7.864 98.54.KT63.AQ752"]
 [Declarer "N"]
 [Contract "4H"]
 [Result ""]
-[Auction "N"]
-2H pass 2NT pass 3H pass 4H pass pass pass
+[Auction "S"]
+pass pass 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b668b1826052e2bf98e8202cad99657fd8e9d59b7b43e1f58c0fe15e6af50738"]
+[BoardVersionToken "a7d037b847faf2aa2103449652d296eddb120338e68f7ea86ee888b8db3c97ff"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{When NORTH opens with a Weak 2\H bid, SOUTH knows she will 
-force to game but is thinking about slam. 
+{Most good players have an extra restriction in their Weak Two-bid guidelines - they won't 
+open with a Weak Two-bid when they hold an outside 4-card Major, even if the hand qualifies 
+otherwise. This Deal shows why.
 
-But first she needs to know if NORTH has anything extra. She bids 2NT to get more information.
+If SOUTH opened with 2\S, NORTH might well pass and a \H game 
+would be missed.}
 
-NORTH returns to \Hs to show bare minimum so SOUTH settles for game.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:62.742.AJT832.K7 T8754.983.Q.9853 AQ3.AJT.K754.QT4 KJ9.KQ65.96.AJ62"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2D pass 2NT pass 3C pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ac198b30f1d6ba925f1b67149176046c34f57d4f9c683d35680e381ab16f18f0"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{SOUTH responds 2NT, asking for more information. 
+
+When NORTH shows a decent hand with a high \C SOUTH should bid 3NT.}
 

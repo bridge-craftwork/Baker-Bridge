@@ -9,74 +9,150 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:AK65.AT4.QJ97.K8 T842.932.A6.AQ62 73.KQ86.K42.JT95 QJ9.J75.T853.743"]
+[Deal "N:Q63.QT92.A76.AK3 54.K74.JT98.QJ97 AK72.AJ86.53.T84 JT98.53.KQ42.652"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "4H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
+1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "754f7a5cf9d5ff65498e0df99bf0ee58d1580e8b5afe4a28ade5e3dddbec9c62"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "10d4d51aa4815654bf951c6d7c5fb8c39d4a7f91c1ebe1ff690c431607152280"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{SOUTH, with 9 points and a 4-card \H suit is just strong 
-enough to use Stayman.
+{SOUTH has four cards in each Major suit - this is an ideal situation for Stayman.
 
-NORTH shows 4 \Ss and SOUTH describes her minimum hand with no \S fit by bidding 2NT.
+NORTH shows a \H suit and SOUTH immediately bids game in that suit.}
 
-NORTH has a maximum 1NT opening and bids 3NT.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:AQ82.AQ3.KT62.AQ J6.T75.A85.KT742 K974.K862.73.865 T53.J94.QJ94.J93"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+2NT pass 3C pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "c2807b6cd09f09ed126d81455815d3d8ecb677d82ba23030b34d64a65aae3868"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{Stayman convention works just fine after a 2NT opening, just at a higher level.
+
+WEST knows that 6 points will be enough for game opposite EAST's 20-21, she just 
+needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "E:KJ4.QT.KQJ6.A973 Q6532.762.93.Q42 A9.AJ983.752.J86 T87.K54.AT84.KT5"]
-[Declarer "E"]
-[Contract "3NT"]
+[Deal "S:AJT.K9.A872.AT96 K3.Q652.K943.KQ7 Q9874.AJT83.Q6.5 652.74.JT5.J8432"]
+[Declarer "S"]
+[Contract "4S"]
 [Result ""]
-[Auction "E"]
-1NT pass 2D pass 2H pass 3NT pass pass pass
+[Auction "S"]
+1NT pass 2H pass 2S pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "b97795102209d284ed4a901b12071f18bccccccd444fa4088d4963f958deaddb"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "04c19f10f1a82d9d43c96996e053b988fec8f772cf3146ffd5313e51d60d009a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{WEST has 11 points and five \Hs, so she responds 
-2\D as a Jacoby Transfer.
+{NORTH has five cards in each Major and SOUTH opens 1NT.
 
-When EAST bids the required 2\H, WEST jumps to 3NT 
-to show at least 11 points, but only a 5-card \H suit.
+First NORTH bids 2\H, indicating a 5-card \S suit with the Transfer bid. 
+Then, after SOUTH bids the obligatory 2\S, NORTH jumps to 4\H, promising 
+enough strength for game, and also five \Hs to go with the five \Ss.
 
-Since EAST has only a doubleton \H she passes 3NT.}
+SOUTH prefers \Ss, so she corrects the contract to 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:A96.KQ62.K532.K8 JT87.A94.QJ6.T52 KQ542.87.A8.Q764 3.JT53.T974.AJ93"]
+[Declarer "W"]
+[Contract "4S"]
+[Result ""]
+[Auction "W"]
+1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ef7600392606ab185b20dc34c8d664259bce37145450f45041c9b5973a3836f4"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{With 12 points and five \Ss, when EAST hears her partner open 1NT she knows 
+there is a game - either 3NT or 4\S.
+
+EAST first transfers WEST to \Ss, then jumps to 3NT, giving WEST the choice. 
+
+WEST has three \Ss, so he chooses 4\S, taking the 8-card Major fit.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:KJ5.A76.A83.KQ94 94.J432.KQ7.AJ87 Q87632.85.954.53 AT.KQT9.JT62.T62"]
-[Declarer "S"]
-[Contract "2S"]
+[Deal "N:K86.A93.KQ8.AKJ2 AQ2.T6.654.T8654 74.KQJ7542.A92.9 JT953.8.JT73.Q73"]
+[Declarer "N"]
+[Contract "6H"]
 [Result ""]
-[Auction "S"]
-1NT pass 2H pass 2S pass pass pass
+[Auction "N"]
+2NT pass 3D pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "60e69b75b0ff3594abc42048fec4ac80f9d45d84ea4db0652aa3e52f1f496c8c"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ff2958842344390c42890f81f21d918ee299e8216042dbad3edfb9567b6a4028"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
 [Student "S"]
-{SOUTH, with a balanced 17 point hand naturally opens 1NT.
+{After NORTH opens 2NT, SOUTH is pretty sure there will be a slam in \Hs. 
+But, the contract should be played from the NORTH side so the opening lead doesn't go through any vulnerable 
+\S holding NORTH might have.
 
-NORTH has a really awful hand, but she does hold six \Ss. 
-So she uses Jacoby Transfer, and when SOUTH bids 2\S she passes!}
+SOUTH transfers NORTH to \Hs, then uses Blackwood to be sure they aren't 
+off two Aces. Missing one Ace he settles for 6\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "E"]
+[Vulnerable "EW"]
+[Deal "E:A6.KJ53.A654.KT7 JT2.T862.JT2.842 K985.Q7.K87.J965 Q743.A94.Q93.AQ3"]
+[Declarer "E"]
+[Contract "2NT"]
+[Result ""]
+[Auction "E"]
+1NT pass 2C pass 2H pass 2NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "62f6e385687bc1a9c070afff3c2da0706e62b623a08b34c5d5eea411bddc2685"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{WEST has an invitational hand, (9 points), after EAST's 1NT opening. 
+With a 4-card \S suit she uses Stayman.
+
+EAST then shows his 4-card \H suit.
+
+With no \H fit, WEST can only invite with 2NT, an invitation which 
+EAST declines.}
 

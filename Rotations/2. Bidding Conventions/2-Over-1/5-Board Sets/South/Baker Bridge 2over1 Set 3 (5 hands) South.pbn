@@ -8,49 +8,92 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "W"]
+[Dealer "E"]
 [Vulnerable "None"]
-[Deal "W:983.82.T82.AKJT8 AJT74.KT7.A95.72 KQ2.J64.J74.6543 65.AQ953.KQ63.Q9"]
-[BoardVersionToken "0833454e58ff7910a6a8fccd4724605aa9786d75a91016f42c61ec870410b72b"]
+[Deal "E:9754.T6.J72.8653 AJT.AK985.K96.Q7 KQ2.QJ42.T853.92 863.73.AQ4.AKJT4"]
+[BoardVersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
-[Auction "W"]
-Pass 1S Pass 2H Pass 3H Pass 4H Pass Pass Pass
-{What do you open with this hand?
-You opens 1\S and South, responds 2\H. Note that this promises a 5-card or longer \H suit.  (2 of a minor only promises 4+).
-What do you rebid?
-Knowing that South has 5, you bid 3\H to confirm the trump suit.
-South bids 4\h.  
+[Auction "E"]
+Pass 1H Pass 2C Pass 2NT Pass 3NT Pass 4NT Pass 6NT Pass Pass Pass
+{South opens 1\H - how should you respond?
+South rebids 2NT.  How do you continue?
+North shows her minimum by bidding 3NT.
+South continues with 4NT - what does this mean?  How do you continue?
 
-South went straight to game, showing a minimum opener and no slam interest.
-You are also satisfied to just play at game.
-2/1 is a good bidding method, and here, 4\H is a good contract. But you can see that it is not a laydown - there is no bidding system that will always reach 100% contracts. In this hand a 3-3 \D split will provide the 10th trick, or if that fails, taking 2 \S finesses provides a 75% chance of success.}
+ South's 4NT was not Blackwood, but rather a quantitative raise in Notrump, and an invitation to slam.
+You have 15 points, and they are good ones. So you accept the invitation and bid 6NT.
+There are 11 top tricks. A 3-3 \H split would provide the 12th winner, but this is against the odds. Better to try two \S finesses, a 75% chance.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:KT.98762.T72.AK2 AJ8752.AK.Q6.J87 94.JT54.853.QT53 Q63.Q3.AKJ94.964"]
+[BoardVersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "E"]
+Pass 1S Pass 2D Pass 2S Pass 4S Pass Pass Pass
+{South opens 1\S -  
+You responds 2\D, natural and game forcing.  South rebids 2\s.  In our style of 2/1, this promises 6+ cards in spades, and denies a side 4-card suit.  What should we bid now? 
+
+You should jump to 4\S. This is Fast Arrival, indicating a minimum hand with no particular interest in slam.
+South is happy to rest in the game contract.
+Even with a combined 30 points, 10 tricks are certainly not a sure thing. South must hope that East holds the trump King.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "E"]
 [Vulnerable "EW"]
-[Deal "S:AK9652.T983.4.A8 JT8.J4.AT9853.74 7.AK75.K762.KQT6 Q43.Q62.QJ.J9532"]
-[BoardVersionToken "2ce9f2089ccaf4a73f9044dac5cedc65d2c2321d8d4e040affd4e9034c48af16"]
+[Deal "E:743.J.T973.KJ652 AJT62.A62.QJ.T87 Q98.T7.K8652.Q93 K5.KQ98543.A4.A4"]
+[BoardVersionToken "6d91857b7e8060b1bff521bff69e89039428dd58b8ee133d51320916c84d192e"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 2C Pass 2H Pass 3H Pass 4H Pass Pass Pass
-{South opens 1\S.  
-You have 15 HCP, but you only have 4\hs, so you can't bid 2\H (this would promise a 5-card suit).  So instead you bid clubs.  This is natural and game-forcing, but only promises 4+ clubs.
-Note that holding two 4-card minors you bid them up-the-line, just as in standard bidding.
-South rebids 2\h.  This shows at least 4 hearts.  What do you rebid now?
-Your 3\h bid confirms hearts as trump.  There's no worry partner might pass - we are in a game forcing auction.
-South raises to 4\h, showing no slam interest.  
+[Auction "E"]
+Pass 1S Pass 2H Pass 3H Pass 4NT Pass 5H =1= Pass 5NT =2= Pass 6H =3= Pass Pass Pass
+[Note "1:2 keycards, no trump Q"]
+[Note "2:king ask"]
+[Note "3:no kings lower than hearts"]
+{South opens 1\S.  What do you respond with? 
+You have a powerhouse, plenty strong enough to jump-shift. But playing 2/1 it's usually simpler when you make the 2/1 response, and save your jumping for later - if at all. So just bid 2\H, knowing South must keep the bidding open.
+South responds 3\h, setting the trump suit.   
+Now you are definitely  interested in slam.  Since you have controls in all the side suits, you go right to keycard Blackwood, using the 1430 system.  Partner responds 5\H.   
 
-We don't have enough for slam opposite a minimum opener, so we just pass.
-Note South's decision to show the poor 4-card heart suit for their second bid, instead of showing the 6th spade.  In a GF sequence, it's more important to tell about 4 more cards then 1 more card.  South will always have the chance to rebid spades later if there is no heart fit.}
+Partner's 5\H shows two keycards without the trump queen.  But we have the other 3 keycards, and the trump queen.  If partner has the two minor kings we might have a grand.  We ask about these with our 5NT bid.  Unfortunately, partner responds 6\H (playing specific kings, this denies any kings lower than hearts).  We will pass and play there.
+This is a good slam, cold if East makes any opening lead other than a \C. With a \C lead, North will have to pull trumps and play to discard a loser on the \ST.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A.AQJ753.742.KJ4 T874.62.JT.AT962 QJ2.KT.KQ865.Q87 K9653.984.A93.53"]
+[BoardVersionToken "1e6a2e4e6a0e33269be943adb36876d7ab229503b8d9f5deb8d691ad537ad74b"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "N"]
+1H Pass 2D Pass 2H Pass 4H Pass Pass Pass
+{How do you start this action? [Bid 1H]
+You open 1\H and partner responds 2\D.  What do you rebid? 
+Partner's 2 over 1 bid sets up a game force.
+You have a good-looking hand, but you need to find a trump suit before showing extra strength, so she bids just 2\H.  You are in a game forcing auction, so partner won't pass you.
+Partner now jumps to 4\h.  What do you do now? 
+
+Partner's jump to 4\h is Fast Arrival - showing a minimum game forcing hand.  Even though we have extra values, this won't be enough for slam opposite 13 or so points.}
 
 [Event ""]
 [Site ""]
@@ -58,4 +101,18 @@ Note South's decision to show the poor 4-card heart suit for their second bid, i
 [Board "5"]
 [Dealer "S"]
 [Vulnerable "NS"]
-[Deal "S:AK92.AQ983.85.86 J64.75.63.AQT432 875.K4.AQJT7.K97 QT3.JT62.K942.J5"]
+[Deal "S:AQ862.T4.K65.K87 K97543.A6.Q97.J6 J.KQJ753.432.Q54 T.982.AJT8.AT932"]
+[BoardVersionToken "78f1cb2c0bbf3d942cd2340065ef342decf2e53beec255a6a4235c3bb38b88a4"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1S Pass 1NT Pass 2C Pass 2H Pass Pass Pass
+{South opens 1\S.  
+You have 11 points, enough to respond 2\H in standard bidding, but not when using 2/1. So we use the forcing 1NT.  South rebids 2\c.   This only promises 3 clubs, so is really just there so we can better describe our hand with our second bid.  What do we bid now? 
+
+Now we can bid 2H, and it shows 6+\hs and only 6-10 points. 
+South was forced to reply to 1NT, but he is not forced to bid again. With his minimum hand and a tolerance for partner's suit he just passes and the partnership ends up in a reasonable contract.
+This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding North's first response would be 2\H, and South would have to bid again, probably 2NT. The partnership might go even higher but in any case would probably not reach a good contract.}
+

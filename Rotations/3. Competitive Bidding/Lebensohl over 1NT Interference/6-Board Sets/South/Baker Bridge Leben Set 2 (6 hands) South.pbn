@@ -10,22 +10,47 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:KQ93.AT85.AK6.J6 AT2.2.QJ7.AKQT54 86.KQJ73.543.972 J754.964.T982.83"]
+[Deal "N:A84.AQJ.KJ3.Q763 KQJ975.9742.A2.J 62.853.Q98754.K4 T3.KT6.T6.AT9852"]
 [Declarer "S"]
-[Contract "2H"]
+[Contract "3D"]
 [Result ""]
 [Auction "N"]
-1NT 2C 2H pass pass pass
+1NT 2S 2NT pass 3C pass 3D pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8c02e00abca8090c3a64b3ec49645e6d77c346d602e4b0d13f82e5f376b8b53c"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7a9d800ed1987d1ec963db6172f4f585403c40e0aec78d095bce243078616a0b"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Partner's bid at the 2-level is a sign-off, the equivalent of the old "drop-dead" response.
+{With your hand you'd like to sign off in 3\D. But you cannot actually bid 3\D because that would show a forcing-to-game hand. So you bid a lebensohl 2NT.
 
-So even with your great support and maximum hand, you pass.}
+Partner makes the relay bid of 3\C.  
+
+NOW you can bid 3\D, which partner passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:A87.K65.QJT6.KQ6 QJT432.T8.K85.A3 5.QJ9742.943.J74 K96.A3.A72.T9852"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+1NT 2S 2NT pass 3C pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "268e4f21da3088f05a20785d0a5f2e2b0c2a56abb4fd9f0531097af5912ae352"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{Partner's 2NT bid is lebensohl, asking you to bid 3\C. You bid 3\C. Partner says 3\H.
+
+How about . . . . pass? Partner just signed off with this sequence. He couldn't bid 3\H directly, that would have been a game-force.}
 
 [Event ""]
 [Site ""]
@@ -33,47 +58,95 @@ So even with your great support and maximum hand, you pass.}
 [Board "3"]
 [Dealer "S"]
 [Vulnerable "EW"]
-[Deal "S:K9.AQ76.AK92.T76 J3.43.T87.AKQ952 AQT8.KJ95.J54.84 76542.T82.Q63.J3"]
+[Deal "S:752.AKQ6.A3.KT83 AKQJT9.T4.8752.9 84.9853.KQJ4.AQ7 63.J72.T96.J6542"]
 [Declarer "S"]
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1NT 2C 3C pass 3H pass 4H pass pass pass
+1NT 2S 3S pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "feadb59ceb955d643aa5d50e4dfcf8779d88c93735e126fd99c6e512188d7434"]
+[BoardVersionToken "b04b264031187adce815989bd0e545e50a1baeed38b460eefaee27d631a03dbb"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{With 11 points opposite partner's 15-17, this is a forcing-to-game hand, and it is possible that a jump to 3NT (which says you have no \C stopper) would work. However, with two 4-card Major suits you should use the lebensohl equivalent of Stayman, which is a cue-bid of 3\C.
+{With your 12 point hand you need to force to game. It would also be nice to find out if partner has a 4-card \H suit. So you cue-bid 3\S. This is the lebensohl version of Stayman, but WITH NO \S STOPPER. (Direct Denies)
 
-Partner bids 3\H.  
+Partner says 4\H and you pass.}
 
-With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A97.AJT.KT6.KQ94 J43.KQ9764.9.AJ6 KT5.52.AQJ73.875 Q862.83.8542.T32"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT 2H 3D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "215fa4c4121dbdc1a556ee2016ee6fc374943db94dc6c7e44eda792541005ce5"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{Partner has promised at least a 5-card \D suit, and game-forcing strength. With your great \H stoppers you bid 3NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
 [Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KQ93.AT85.Q6.KQ6 AT5.62.AKJ542.94 76.KQJ7.T3.AT732 J842.943.987.J85"]
+[Vulnerable "NS"]
+[Deal "S:752.AQ.AK53.KT83 KJT843.T2.87.AQ9 AQ.K853.QJ94.764 96.J9764.T62.J52"]
 [Declarer "S"]
-[Contract "4H"]
+[Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT 2D 3D pass 3H pass 4H pass pass pass
+1NT 2S 2NT pass 3C pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4fa52e5a642b1a23226f75157a23e2397554f2c61a93106643ab25ce3dee8a2b"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "1a87aa1df471ad64afdc6668d200b4b3e255e7e05e88bea05974dc5b630b3d74"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
 [Student "S"]
-{Partner's direct cue-bid is the lebensohl equivalent of Stayman, but with no \D stopper.
+{With your 12 point hand you need to force to game. It would also be nice to find out if partner has a 4-card \H suit. Since you have West's \S suit stopped, you first bid a lebensohl 2NT.
 
-With 4 cards in both Majors you bid 3\H.
+Partner says 3\C.  
 
-Partner then bids 4\H which you pass.}
+NOW you cue-bid 3\S. This is Stayman, but with a \S stopper, (SLOW SHOWS). Partner says 3NT and you pass.
+
+}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ8.AJ5.T6.KQJ94 AT5.84.K85432.A7 J964.KQ73.AQ9.T3 732.T962.J7.8652"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT 2D 2NT pass 3C pass 3D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c58a5666f1e1cddcd0fb85bc488831e7806be2d74b04a9f5b726c60fab709c4e"]
+[Category "Competitive Bidding"]
+[Difficulty "advanced"]
+[SkillPath "competitive_bidding/lebensohl"]
+[Student "S"]
+{Partner's 2NT bid requests that you bid 3\C, so you do.
+
+He next says 3\D.  
+
+Partner has just described a hand with which he wants to play in game, which has at least one 4-card Major suit, and has \Ds stopped. He wants you to pick the game.
+
+With no 4-card Major of your own, you pick 3NT.}
 

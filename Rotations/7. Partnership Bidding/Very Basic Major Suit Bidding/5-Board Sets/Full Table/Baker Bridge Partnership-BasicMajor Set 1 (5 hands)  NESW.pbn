@@ -32,9 +32,9 @@ has 4 points which is not strong enough to respond. So SOUTH passes.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:QJ964.A9.K74.KQJ T75.J8762.AT95.A K82.K543.86.9832 A3.QT.QJ32.T7654"]
 [Declarer "E"]
 [Contract "3S"]
@@ -42,7 +42,7 @@ has 4 points which is not strong enough to respond. So SOUTH passes.}
 [Auction "E"]
 1S pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [BoardVersionToken "b847ca9bb06fd51a6a492754aff575fa366198c52ff0c50cf654062a4cc36b32"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
@@ -61,7 +61,7 @@ If WEST had 9 or 10 points she would now bid 4\S - but with 7 she passes.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:Q75.KJ74.J942.J8 T.AQT52.853.K762 AJ9642.83.A6.Q54 K83.96.KQT7.AT93"]
@@ -71,4 +71,75 @@ If WEST had 9 or 10 points she would now bid 4\S - but with 7 she passes.}
 [Auction "N"]
 pass pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c1874ece9b8609caa5152ee37bf3e3158f32d145395e08c31b182144b2947a70"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{With 8 points, NORTH is not strong enough to open the bidding.
+
+SOUTH has 13 points, barely meeting the minimum for a 1-opening. Note that the fifth and 
+sixth \S each added 1 point to his count. He opens 1\S.
+
+Although NORTH passed originally, she must respond to SOUTH's opening bid. Since she has 
+three \Ss she raises to 2\S.
+
+In light of NORTH's weak response SOUTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK.QJ8642.KQ3.75 9832.A3.J6542.A4 J65.KT75.A8.9862 QT74.9.T97.KQJT3"]
+[Declarer "W"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1H pass 2H pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "3c9c135f001fa0fc88c1046abde81f935e383cebdc1ce9189c44e7ccca0d9eab"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{WEST has 17 points and six \Hs. 
+This is a mid-range 1\H opening bid.
+
+With 9 points, (1 for the doubleton), EAST raises to 2\H.
+
+WEST's hand is worth one more try. He invites with 3\H.
+
+EAST had a strong 2\H raise, considering that she might 
+have only had 6 points. So she carries on to 4\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T92.AK542.85.AKQ K53.98.T9762.T64 764.Q763.AJ4.985 AQJ8.JT.KQ3.J732"]
+[Declarer "N"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+1H pass 2H pass 3H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_major"]
+[Student "S"]
+{NORTH opens 1\H with 17 points and five \Hs.
+
+SOUTH, with 7 points and four trumps raises to 2\H.
+
+NORTH has a mid-range hand, good enough to invite SOUTH to bid the game.
+
+Too bad, but SOUTH is too weak to accept any invitations.}
+

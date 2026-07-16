@@ -31,9 +31,9 @@ NORTH bids RKC Blackwood 4NT. SOUTH shows two Keycards (two Aces) and NORTH bids
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:AQ7.KT742.KJ3.AK 6543.A3.A52.T975 KJ.QJ85.QT97.Q42 T982.96.864.J863"]
 [Declarer "E"]
 [Contract "5H"]
@@ -41,7 +41,7 @@ NORTH bids RKC Blackwood 4NT. SOUTH shows two Keycards (two Aces) and NORTH bids
 [Auction "E"]
 1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [BoardVersionToken "26ed06b0ddeddcbd1999ac80dfa97b24783e46ac253a45c929bcef1f9080694e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -58,7 +58,7 @@ are only five total. She must have zero and EAST signs off at 5\H.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:KT74.KQJ84.A6.A3 J.A32.T85.JT9842 AQ8632.5.KQ7.KQ5 95.T976.J9432.76"]
@@ -68,7 +68,7 @@ are only five total. She must have zero and EAST signs off at 5\H.}
 [Auction "N"]
 1H pass 1S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "0870b336040ebf3619b71890ff107d5980964e8508d87a33dbc7d4f714b37edf"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -84,4 +84,86 @@ So which is it? Zero or three?
 
 NORTH bid much too strongly to have no Aces. SOUTH 
 bids a confident 6\S, knowing NORTH has either three Aces or two Aces plus the \SK.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:6.AK9754.6.KQJT3 QT842.2.QJ73.874 A75.QT83.A854.92 KJ93.J6.KT92.A65"]
+[Declarer "W"]
+[Contract "6H"]
+[Result ""]
+[Auction "W"]
+1H pass 3H pass 4NT pass 5S pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "f5b7e7b9efc87db138c1eecfe86bcc0d92a63df06fd35e3da9b2a405365731ee"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{With eleven cards in the "round" suits WEST has a lot of playing strength. So when EAST bids 
+a Limit Raise in \Hs WEST wants to know about Aces.
+
+RKCBlackwood tells him that EAST has two Aces plus the trump Queen, so WEST can see that 6\H 
+is practically a certainty.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK9842.KQT6.84.A T.9742.AJ5.Q9876 QJ73.AJ5.T632.K4 65.83.KQ97.JT532"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1S pass 3S pass 4C pass 4H pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0094373ad8de7f26ac0686fd1b8760023898f869adc392b3140464ce2ebb7ebf"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{NORTH has interest in slam after she hears SOUTH's Limit Raise. 
+BUT, she should not use Blackwood holding two quick losers in the \D 
+suit.
+
+Instead she makes a Control showing bid of 4\C. (Not Gerber since it didn't follow a NT bid.)
+
+SOUTH cooperates by making a Control bid of 4\H.
+
+NORTH stops at 4\S because neither partner controls \Ds.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:6.KQ872.AK963.KQ QT42.T43.5.T9532 AJ7.J6.QJT87.A64 K9853.A95.42.J87"]
+[Declarer "E"]
+[Contract "6D"]
+[Result ""]
+[Auction "W"]
+1H pass 2D pass 4NT pass 5S pass 6D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "ffaa3959a7bd057e72d38b6387983c2efaf8551230076f9a0a11092ae80f847c"]
+[Category "Partnership Bidding"]
+[Difficulty "advanced"]
+[SkillPath "partnership_bidding/roman_key_card"]
+[Student "S"]
+{WEST decides it is unlikely that EAST is Aceless, so all he wants to know is the number of Aces EAST does have. 
+He invokes RKC Blackwood.
+
+Since no trump suit has been agreed, EAST bids as if \Ds, the 
+last-bid suit prior to 4NT is agreed. EAST has two Key-cards plus the trump Queen, so she bids 5\S.
+
+WEST bids 6\D. 
+If EAST had just one Key-card, WEST would bid 5\D over the 5\C reply.}
 

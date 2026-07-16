@@ -4,34 +4,74 @@
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
 %bridge-context: 2/1 Game Force; Forcing 1NT response; Jacoby 2NT; Keycard 1430; Specific Kings
-1H Pass 2D Pass 2H Pass 3H Pass 4C Pass 4D Pass 4NT Pass 5H Pass 6H Pass Pass Pass
-{How do you respond with this nice hand?
-With 16+ points and 3 \Hs, you will insist on a \H game at a minimum. But there is no need to start making jump bids, so start with a simple 2\D bid.  This is natural and game forcing.  North rebids 2\H to show a 6-card suit.  What do you rebid now?
-Now you say 3\H to set the trump suit, and show slam interest.  At this point North also shows slam interest, making a control-showing bid of 4\C. Do you cooperate? 
-Yes, you have an easy, 4\D bid, showing the \DA.
-North has heard enough. He bids 4NT, a keycard request using 1430. 
-
-When partner hears about your two keycards without the trump queen, he bids the slam.}
-
 [Event "Baker Bridge - 2-Over-1 Game Force"]
 [Site ""]
 [Date ""]
+[Board "1"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:983.82.T82.AKJT8 AJT74.KT7.A95.72 KQ2.J64.J74.6543 65.AQ953.KQ63.Q9"]
+[BoardVersionToken "0833454e58ff7910a6a8fccd4724605aa9786d75a91016f42c61ec870410b72b"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "E"]
+Pass 1S Pass 2H Pass 3H Pass 4H Pass Pass Pass
+{What do you open with this hand?
+You opens 1\S and North, responds 2\H. Note that this promises a 5-card or longer \H suit.  (2 of a minor only promises 4+).
+What do you rebid?
+Knowing that North has 5, you bid 3\H to confirm the trump suit.
+North bids 4\h.  
+
+North went straight to game, showing a minimum opener and no slam interest.
+You are also satisfied to just play at game.
+2/1 is a good bidding method, and here, 4\H is a good contract. But you can see that it is not a laydown - there is no bidding system that will always reach 100% contracts. In this hand a 3-3 \D split will provide the 10th trick, or if that fails, taking 2 \S finesses provides a 75% chance of success.}
+
+[Event ""]
+[Site ""]
+[Date ""]
 [Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:AK9652.T983.4.A8 JT8.J4.AT9853.74 7.AK75.K762.KQT6 Q43.Q62.QJ.J9532"]
+[BoardVersionToken "2ce9f2089ccaf4a73f9044dac5cedc65d2c2321d8d4e040affd4e9034c48af16"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1S Pass 2C Pass 2H Pass 3H Pass 4H Pass Pass Pass
+{South opens 1\S.  
+You have 15 HCP, but you only have 4\hs, so you can't bid 2\H (this would promise a 5-card suit).  So instead you bid clubs.  This is natural and game-forcing, but only promises 4+ clubs.
+Note that holding two 4-card minors you bid them up-the-line, just as in standard bidding.
+South rebids 2\h.  This shows at least 4 hearts.  What do you rebid now?
+Your 3\h bid confirms hearts as trump.  There's no worry partner might pass - we are in a game forcing auction.
+South raises to 4\h, showing no slam interest.  
+
+We don't have enough for slam opposite a minimum opener, so we just pass.
+Note South's decision to show the poor 4-card heart suit for their second bid, instead of showing the 6th spade.  In a GF sequence, it's more important to tell about 4 more cards then 1 more card.  South will always have the chance to rebid spades later if there is no heart fit.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:AKJ865.43.75.K63 9.QT.AKJT843.QT8 Q.A9865.962.A742 T7432.KJ72.Q.J95"]
-[BoardVersionToken "2247c953e628af447f9741e0aad8619181a0257d0e95ce033e20bc6b7266c0f6"]
+[Deal "N:AK92.AQ983.85.86 J64.75.63.AQT432 875.K4.AQJT7.K97 QT3.JT62.K942.J5"]
+[BoardVersionToken "3bb7dcf0323aa6fa6885ebb26c6fd341b4ac97707eed014d09094a60724d9b58"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-1S 2D 2H Pass 2S Pass Pass Pass
-{North opens 1\S. East overcalls 2\d.  
-After East's 2\D overcall both North and South know that the 2/1 Game Force in no longer on. South can therefore bid 2\H, showing at least 11 points. This bid is forcing on North for 1 round, but not forcing to game.
-North next rebids his \Ss, promising a 6-card suit, but also indicating a minimum strength hand. Since the Game Force is not on, North would have to make a jump bid to show extra strength.  
+1H Pass 2D Pass 2S Pass 2NT Pass 3NT Pass Pass Pass
+{North opens 1\H - how do you respond?
+North next bids 2\S, showing the other Major suit.  In standard bidding this is a Reverse, showing a strong hand with 5\hs and 4\ss.  But after a 2/1 GF response, North doesn't need extra values to show their 4-card spade suit.  What should you rebid?
+You assume North to be 4-5 in the Majors, and since you can't support either one, you bid 2NT.
+If North actually has 6 \Hs (or 5 \Ss) he would rebid the suit. Your 2NT bid guarantees a stopper in the fourth suit.
 
-You have nothing further to say so the partnership arrives in a safe contract.}
+North does not have either 6 \Hs or 5 \Ss so he just bids 3NT.  Notice that North never once considered the possibility of passing what might be a misfit - the initial 2/1 response unconditionally forced the partnership to reach a game somewhere.}
 
 [Event ""]
 [Site ""]
@@ -39,20 +79,46 @@ You have nothing further to say so the partnership arrives in a safe contract.}
 [Board "4"]
 [Dealer "S"]
 [Vulnerable "All"]
-[Deal "S:KJ965.AK843.75.4 A83.J965.93.KQ52 Q4.QT7.AJ6.AT986 T72.2.KQT842.J73"]
-[BoardVersionToken "f1db28dfcc1a39cc12518e0ee948922fa81d516a27e84243279eea90ab89e4c7"]
+[Deal "S:A9742.A983.K6.Q7 T53.Q54.AQ42.T43 K8.JT7.975.AKJ62 QJ6.K62.JT83.985"]
+[BoardVersionToken "a27a8693be69257dc9d291e00b5f58b83b99f653e230f648cd9486a4cc9d81be"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "S"]
-1S Pass 2C Pass 2H Pass 2NT Pass 3H Pass 4H Pass Pass Pass
-{South opens 1\S.  So far you know you belong in game, but you don't know which game.  What do you bid first?
-You respond 2\C, natural and forcing the partnership to game.
-South now bids his \H suit.
-At this point you figurer South for 5 \Ss and 4 \Hs. What should you rebid?
-You cannot support either of South's Majors, but with a good stopper in the fourth suit you bid 2NT. The game force is still on and South may not pass this bid.
-South bids 3\H, indicating that this is also a 5-card suit. What do you rebid now? 
+1S Pass 2C Pass 2H Pass 3D =1= Pass 3NT Pass Pass Pass
+[Note "1:4th suit"]
+{South opens 1\S- how do you respond?
+With 13 points, you respond 2\C, a natural 2/1 force to game.
+South next bids 2\H, showing the other Major suit.  What do you rebid now?
+You assume South to be 5-4 in the Majors, so you cannot support either.  You cannot bid 2NT without a stopper in \Ds. So you bid the fourth suit, 3\D, telling South you knows you must make a bid, but can't find anything appropriate.  This is an artificial bid, and normally denies a diamond stopper (otherwise you would have bid 2NT).
+South rebids 3NT - what do you do now?
 
-Now you can bid the \H game, knowing there is an 8-card fit.}
+South now must find a bid. His choices include rebidding the 5-card \Ss, supporting North's \Cs with a doubleton Queen, or bidding 3NT with the \D K 6 as a stopper. He chooses this last option. It appears that 3NT is the best game for these two hands.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KJ763.AQ7.J4.AQJ Q5.42.A9632.T963 A4.KJT8653.KQ.87 T982.9.T875.K542"]
+[BoardVersionToken "ba9b2d969dcacca9f5aabb891a4e4c42a25b2fee1a4efc4484aa68cdfaf74d39"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1S Pass 2H Pass 3H Pass 3S =1= Pass 4C =2= Pass 4NT Pass 5S =3= Pass 6H Pass Pass Pass
+[Note "1:control"]
+[Note "2:control"]
+[Note "3:2 keycards + trump Q"]
+{How do you open the bidding?
+With 18 HCP and a balanced hand, you open 1\S.  Partner responds  2\H. What do you rebid?
+You know this is a 5-card suit, and bid 3\H, confirming the 8+card trump fit and sets the trump suit.
+Partner rebids 3\S, a control bid, showing first or second round control.  (Some will play this as showing 3-card support for spades, but I recommend playing this as a control bid.).  
+You bid 4C, also a control bid, showing first or second round control in clubs.  Partner bids 4NT, a keycard request using 1430.   
+
+You bid 5\s, showing two keycards and the trump queen.  Partner bids the slam.
+The slam is a good one. If either the \SQ or \CK is right there are 12 tricks by way of a finesse. But the best way to play the hand would be to try to establish a \S in the South hand, and if that fails try the \C finesse.}
 

@@ -34,9 +34,9 @@ the Overcall will not be made with more than 16 points, SOUTH just passes.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "N"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "N:53.Q643.T532.AT9 AKJ74.87.A76.Q54 T8.AKJ9.J98.8732 Q962.T52.KQ4.KJ6"]
 [Declarer "E"]
 [Contract "4S"]
@@ -44,7 +44,7 @@ the Overcall will not be made with more than 16 points, SOUTH just passes.}
 [Auction "N"]
 1H 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [BoardVersionToken "fe2135a2a4921b59ab25b59acd9d3e8a7fa731d9fdbc2d095cf5cfff8e127a68"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -63,9 +63,9 @@ EAST actually has a strong Overcall so he bids 4\S.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "E"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "E:T8.Q964.J854.QT7 AKJ74.87.976.J54 53.AKJ3.QT32.A93 Q962.T52.AK.K862"]
 [Declarer "S"]
 [Contract "3S"]
@@ -73,7 +73,7 @@ EAST actually has a strong Overcall so he bids 4\S.}
 [Auction "E"]
 1H 1S pass 3S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [BoardVersionToken "6620629575e281ed5907badb347500676d9230ed05f1861d5932be2aa7797f67"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -86,4 +86,88 @@ and somewhere between 9 and 16 points.
 NORTH has 13 points. If SOUTH had actually OPENED 1\S, NORTH would insist on game. But SOUTH didn't 
 Open, she just Overcalled. So NORTH must be more cautious. He jumps to 3\S and SOUTH shows her 
 minimum type hand by passing.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:742.Q982.9642.JT K986.4.AK73.KQ75 QJ.AKJ63.JT5.943 AT53.T75.Q8.A862"]
+[Declarer "W"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1H X pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "94585bf4ea05e156f9139f337b791f51600abe694991de8ac37dae3d7cdf2932"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{EAST has 15 points, a singleton in the opponent's suit and 4-card support for any suit 
+partner might name. In other words, a perfect Takeout Double.
+
+WEST needs to make a medium-strong bid to apprise EAST of her 10 points. She jumps to 2\S.
+
+EAST's hand is now worth 17 points because of the singleton. Since he is quite happy with 
+\Ss he bids 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:QT8.KQ5.9752.A63 53.AJ42.KQJ.K742 AKJ9.T98.AT3.QT5 7642.763.864.J98"]
+[Declarer "N"]
+[Contract "2C"]
+[Result ""]
+[Auction "E"]
+1S X pass 2C pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "2462d4fa6b3040659f8477a63b0651a110eab5b962b1b03c69f47b999f3a6f8f"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{SOUTH has 14 points, a doubleton in the opponent's \S suit and at least three cards in 
+each of the other suits. This is a normal Takeout Double.
+
+NORTH has a really awful hand. He has just one point and his only 4-card suit is the one the 
+opponents have already bid. He wants nothing more than to pass.
+
+But he cannot pass. Partner's Double said "Bid your best suit.", so he bids 2\C.
+
+Mercifully SOUTH also passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:432.A62.742.QJ95 Q985.KQT5.AK3.42 K6.9843.T86.KT76 AJT7.J7.QJ95.A83"]
+[Declarer "E"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+1C X pass 2C pass 2H pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "d8802410313e1891e89e92bca328f467defd91a1030ffc772bd010c10fdc10c4"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/overcalls"]
+[Student "S"]
+{With 14 points, \C shortage, and support for the other suits WEST makes a Takeout Double.
+
+EAST has 13 points so she bids 2\C. This is an artificial bid, apprising WEST of EAST's opening 
+hand strength, and forcing the partnership to reach the game level.
+
+WEST sugggests \Hs as trumps. 
+EAST doesn't like \Hs so she suggests \Ss. 
+WEST agrees with \Ss and bids game, 4\S.}
 

@@ -4,55 +4,124 @@
 %HRTitleEvent Negative
 %bridge-classroom-stable: true
 %bridge-context: Negative Doubles, no upper level
-{The bidding has been as shown.   
-
-Partner is showing you a \H suit with at least 6 points. With 4 \Hs in a minimum strength hand your rebid is 2\H. Everyone passes.}
-
 [Event "Baker Bridge - Negative Doubles"]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "1"]
 [Dealer "S"]
-[Vulnerable "NS"]
-[Deal "S:QT75.73.AJT6.AKJ A93.AQT54.K94.93 KJ64.J986.73.Q65 82.K2.Q852.T8742"]
+[Vulnerable "None"]
+[Deal "S:73.AJ95.T64.AKJ3 K9652.3.AJ85.974 AQ4.KQ86.73.QT65 JT8.T742.KQ92.82"]
 [Declarer "S"]
-[Contract "2S"]
+[Contract "4H"]
 [Result ""]
 [Auction "S"]
-1D 1H X pass 2S pass pass pass
+1C 1S X pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "91449562d09ec8e162b87832b62b2578fae8af192ac7f04520b65b1d8fc8fef1"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "fceea8eac67835619a7d0e5304a0e6d8f5800c5bac2262bf12dc86563e19180a"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-You just scrape 7 points together. With your 4-card Major that's enough for a Negative Double. So you double and partner jumps to 2\S. What is your bid? 
+With 13 points and 4 of the "other" Major you make a Negative Double. Partner's rebid is 2\H. What is your next bid? 
 
-Partner's jump is inviting but it takes more than just a simple jump to get you excited with this junk. Even though partner has 16-18 points you pass.}
+Partner has 4 \Hs and an opening hand. You have 4 \Hs and an opening hand. That adds up to a game bid and an 8-card \H fit. You bid 4\H.}
 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "4"]
+[Board "2"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:KJ73.6.AQJ7.AT85 T9.KQ954.K642.Q4 AQ62.872.85.KJ62 854.AJT3.T93.973"]
+[Deal "S:KT.A4.KJT6.KQJ65 J94.52.AQ7543.A7 AQ73.KJT7.82.T84 8652.Q9863.9.932"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1C 1D X pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0756329a12d3fb529f89809c4651e29fbf6f4756292ff9f851a42cecd926fa8f"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Partner's Negative Double in this situation shows both Majors. You can't support either Major but with 18 points and good \D stoppers you jump to 2NT. Partner bids 3NT and everybody passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:K983.T4.KQ52.AKQ 75.AQJ932.73.J98 QJT4.K76.A986.73 A62.85.JT4.T6542"]
 [Declarer "S"]
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
 1D 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3ffeb60f07ab88585a704d5f65b20e6956ab99c5e76f1272f19932ff4fb95b72"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "1303f7beac377ad5d26a14dd03a2a3744406e0dd13631593c977d5a0cf8143bd"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Partner has indicated a 4-card \S suit. Since you also have 4 you will naturally bid them. However, with the \S fit your hand revalues to 17 points. So you jump to 2\S. Partner bids the game.}
+If you bid 1\S now it would be showing a 5-card \S suit. So instead you make a Negative Double. Partner jumps to 2\S.  
+
+Partner's jump shows a Medium hand, 16 - 18 points. Add your 11 and you have enough for game so you bid it.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:63.AQ.AKQT84.KT4 AQJ75.864.2.AQ76 KT84.KJ72.73.J95 92.T953.J965.832"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1D 1S X pass 2S pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "52324c4eb4303bb721ef7d990ebaef61321c07a7e383085382812811cac01530"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You have a very good hand but only 2 of partner's \H suit. You are actually too strong to just jump in \Ds so you cue-bid the opponent's suit. Partner now bids 3NT which you pass.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q3.AKQ872.872.75 AKJ965.JT4.5.KQ2 T82.93.KQ94.AJ96 74.65.AJT63.T843"]
+[Declarer "S"]
+[Contract "2H"]
+[Result ""]
+[Auction "S"]
+1H 1S X pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "a66626ce21641991c720dd5120b5ed0e3b92bdc2481fe5903dcf66c2766c3202"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+Ahhh, a perfect Negative Double. Both Majors have been bid and you have 4 cards in each Minor. So you double. Partner bids 2\H. What do you say next? 
+
+Well let's see. Partner shows no interest in your two Minors or notrump. And he has 6 \Hs and a minimum hand. He wants to play it at 2\H so you pass and let him.}
 

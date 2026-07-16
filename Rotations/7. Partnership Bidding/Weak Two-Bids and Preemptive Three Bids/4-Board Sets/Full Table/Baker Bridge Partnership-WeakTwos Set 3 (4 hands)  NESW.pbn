@@ -8,49 +8,99 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:87.KQJ9732.5.864 K2.T4.T32.AQT532 AJT643.A.AK64.97 Q95.865.QJ987.KJ"]
+[Deal "S:K84.AQT642.4.965 732.K85.KT862.72 AQJT65.7.A95.KJ3 9.J93.QJ73.AQT84"]
 [Declarer "N"]
-[Contract "4H"]
+[Contract "4S"]
 [Result ""]
-[Auction "N"]
-3H pass 4H pass pass pass
+[Auction "S"]
+2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4762bcb7f031b96f32fd4fd1234277ca734c4ed0c6a56a343e8acd84609bb502"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "64a891a90a1c8dff0642ad900e7e83d3f8ebc12fa9a36ffb0af820a62b2c859a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{Here SOUTH has the kind of hand you need to raise a preempt to game.
+{NORTH expects to be better off in \Ss than SOUTH would be in 2\H.
 
-SOUTH assumes that NORTH has a hand with six winners in it. He can provide four more, so 
-that is just enough for game. He bids 4\H.}
+Whether or not you play a new suit as a one round force or not, SOUTH should make the 3\S bid with 
+a hand this good. NORTH then bids the \S game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "NS"]
+[Deal "E:6.AQJ8754.632.84 QJT83.T9.A8.KJT7 AK75.K63.KQJ54.A 942.2.T97.Q96532"]
+[Declarer "E"]
+[Contract "6H"]
+[Result ""]
+[Auction "E"]
+3H pass 4NT pass 5D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "ab3ad96f038dc2e97d6aecfff8039e3ab2f36355bc73ddb6f825e2abf836e4dd"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{EAST has a pretty normal 3\H opening bid.
+
+WEST, however, has a big hand, and she launches into Blackwood.
+
+When EAST shows one Ace WEST can bid 6\H with confidence.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:AQJ9765.QT2.7.63 82.A963.AK53.985 K4.KJ5.942.KQJ72 T3.874.QJT86.AT4"]
-[Declarer "E"]
-[Contract "4S"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:J3.76.97.KQ98752 9842.AT854.842.4 AQT.KQJ.QJT3.AJT K765.932.AK65.63"]
+[Declarer "S"]
+[Contract "3NT"]
 [Result ""]
-[Auction "E"]
-1S pass 2C pass 2S pass 4S pass pass pass
+[Auction "N"]
+3C pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "400ed683cdb61f9116120154633a28eccc9e5e018dabae580a788276de611e40"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "55434bc1870cefcfdf22c4059f1f165eefa7594294f39e9743297cc8a593f81f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
 [Student "S"]
-{EAST has a 7-card \S suit but he is too strong to open with a preemptive bid. 
-So he opens 1\S instead.
+{NORTH doesn't have much of a 3\C opening bid.
 
-WEST should respond 2\C, and EAST can do nothing but rebid the \S suit.
+But SOUTH has just the type of hand you need to bid 3NT after partner's preempt. The other three 
+suits well stopped, and certain entry in Opener's long suit. Notice here that 3NT is a good contract, 
+but 5\C would go down 1.}
 
-WEST thinks there should be game and bids 4\S}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:J4.KJT963.875.42 T75.75.J643.A863 AQ63.Q82.AKQ.KQJ K982.A4.T92.T975"]
+[Declarer "W"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+2H pass 2NT pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "b668b1826052e2bf98e8202cad99657fd8e9d59b7b43e1f58c0fe15e6af50738"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{When WEST opens with a Weak 2\H bid, EAST knows she will 
+force to game but is thinking about slam. 
+
+But first she needs to know if WEST has anything extra. She bids 2NT to get more information.
+
+WEST returns to \Hs to show bare minimum so EAST settles for game.}
 

@@ -7,52 +7,105 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "N:9.KQJ7.AK6.AQT54 AQJ73.T3.Q932.73 T86.A9642.84.K62 K542.85.JT75.J98"]
+[Deal "W:AJ64.62.KJ43.J73 852.AQT93.97.AQ2 KQT3.J5.AQ52.865 97.K874.T86.KT94"]
 [Declarer "N"]
-[Contract "4H"]
+[Contract "3H"]
 [Result ""]
-[Auction "N"]
-1C 1S X pass 4H pass pass pass
+[Auction "W"]
+pass 1H 1S 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "418495dc73f85ae1b5a49d6f38bab3744a08906625a044f4bc8177cd1cc35837"]
+[BoardVersionToken "9e0b08d527410895a0eea4d9dbdbb5c8d505d3f5322d5f45e030bae8cced4888"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{SOUTH would have responded 1\H if EAST had not overcalled. 
-But with only 8 points he cannot bid at the 2-level. The Negative Double solves his problem, 
-giving this information to partner.
+{Compare this with Deal 8.
 
-NORTH has good \Hs and enough points to bid game. 
-Notice that if EAST had remained silent, SOUTH would have responded 1\H, 
-and NORTH would have jumped to game.}
+SOUTH has 7 points, barely enough for a 2\H raise if there had been no overcall.
+But when EAST puts in the \S bid, SOUTH can jump to 3\H as a preemptive 
+measure. He knows NORTH won't think he has strength because he did not make a Support Cue-bid.
+
+NORTH does know it and passes 3\H.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:JT.Q875.KQT8.Q63 AK973.64.63.KJT4 54.JT2.AJ542.975 Q862.AK93.97.A82"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "E"]
+1D 1S pass 2D pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "dcead9f809871eda433d6bfccbe1002cb13c7768a9813cbbf6df03a9a2f28bdf"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{NORTH has the strength for a raise to game in \Ss, but this could be dangerous since SOUTH 
+has overcalled rather than opened. Instead, NORTH shows her strength with a Support Cue-bid.
+
+SOUTH in fact had a pretty good overcall so he jumps to 3\S and NORTH bids the game.
+
+With a weak overcall SOUTH would have just returned to 2\S which NORTH would pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:T97.K87.AK6.KJT4 Q83.AJT4.J54.765 AK62.93.972.Q982 J54.Q652.QT83.A3"]
-[Declarer "S"]
-[Contract "2C"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:54.872.AKT52.KQT AK973.654.Q3.763 JT.QJT.J864.J954 Q862.AK93.97.A82"]
+[Declarer "N"]
+[Contract "2S"]
 [Result ""]
-[Auction "S"]
-1C 1H X pass 1NT pass 2C pass pass pass
+[Auction "W"]
+1D 1S pass 2D pass 2S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6360b64575401540bf676df090fc74b794a2da7cee6a9d835b235a418f87fa2e"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "8492fa58de9dfed2a5d724f98e92680b3acc0874f06da9427ea0be67e8e38ca1"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
 [Student "S"]
-{NORTH has four \Ss, so instead of bidding them she makes a Negative Double.
+{Compare this to Deal 10.
 
-SOUTH knows there is no 8-card fit in \Ss, but he does have \Hs 
-stopped. He bids 1NT.
+SOUTH has the strength for a raise to game in \Ss, but this could be dangerous since NORTH 
+has overcalled rather than opened. Instead, SOUTH shows her strength with a Support Cue-bid.
 
-NORTH has 9 points and with four \Cs she goes back to that suit and SOUTH passes.}
+NORTH has very minimal overcall so he just bids 2\S which SOUTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:8.AKT87.KQJ4.AK6 K432.62.976.T752 Q75.QJ93.AT82.Q8 AJT96.54.53.J943"]
+[Declarer "S"]
+[Contract "6H"]
+[Result ""]
+[Auction "S"]
+1H 1S 2S pass 4NT pass 5D pass 6H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "d301287421b2598b5c55665c1f826384d866e29fdb3e8303fee76bb522d39990"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/negative_doubles"]
+[Student "S"]
+{SOUTH has a maximum 1\H opening bid.
+
+NORTH would have made a Limit Raise in \Hs, but after WEST's overcall she 
+makes a Support Cue-bid instead.
+
+SOUTH thinks there may be a slam and bids 4NT Blackwood to check for Aces. When NORTH admits to one Ace 
+SOUTH bids the slam.}
 

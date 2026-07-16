@@ -28,9 +28,9 @@ Notice that you would bid this hand the same way whether or not you play 2/1.
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:65.KQJ843.A5.Q63 932.T76.Q872.T75 KJ8.A2.KT963.KJ4 AQT74.95.J4.A982"]
 [BoardVersionToken "467d6d0271bbea37b274807c7e45a640ac9c297929cca8cbeccc0048f4647eb7"]
 [Student "S"]
@@ -50,7 +50,65 @@ The hand is harder to bid in standard bidding - you couldn't bid 3\H to show sla
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "S:K5.KQJ743.75.AK4 AJT87.5.T94.JT82 Q6.A82.AKQ63.763 9432.T96.J82.Q95"]
+[BoardVersionToken "5e362e199ebc962abf34278846e520f77fd9325ada4b833d517b4b33bc3bff81"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1H Pass 2D Pass 2H Pass 3H Pass 4C Pass 4D Pass 4NT Pass 5H Pass 6H Pass Pass Pass
+{How do you respond with this nice hand?
+With 16+ points and 3 \Hs, you will insist on a \H game at a minimum. But there is no need to start making jump bids, so start with a simple 2\D bid.  This is natural and game forcing.  South rebids 2\H to show a 6-card suit.  What do you rebid now?
+Now you say 3\H to set the trump suit, and show slam interest.  At this point South also shows slam interest, making a control-showing bid of 4\C. Do you cooperate? 
+Yes, you have an easy, 4\D bid, showing the \DA.
+South has heard enough. He bids 4NT, a keycard request using 1430. 
+
+When partner hears about your two keycards without the trump queen, he bids the slam.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AKJ865.43.75.K63 9.QT.AKJT843.QT8 Q.A9865.962.A742 T7432.KJ72.Q.J95"]
+[BoardVersionToken "2247c953e628af447f9741e0aad8619181a0257d0e95ce033e20bc6b7266c0f6"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "W"]
+1S 2D 2H Pass 2S Pass Pass Pass
+{West opens 1\S. North overcalls 2\d.  
+After North's 2\D overcall both West and East know that the 2/1 Game Force in no longer on. East can therefore bid 2\H, showing at least 11 points. This bid is forcing on West for 1 round, but not forcing to game.
+West next rebids his \Ss, promising a 6-card suit, but also indicating a minimum strength hand. Since the Game Force is not on, West would have to make a jump bid to show extra strength.  
+
+You have nothing further to say so the partnership arrives in a safe contract.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ965.AK843.75.4 A83.J965.93.KQ52 Q4.QT7.AJ6.AT986 T72.2.KQT842.J73"]
+[BoardVersionToken "f1db28dfcc1a39cc12518e0ee948922fa81d516a27e84243279eea90ab89e4c7"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "N"]
+1S Pass 2C Pass 2H Pass 2NT Pass 3H Pass 4H Pass Pass Pass
+{North opens 1\S.  So far you know you belong in game, but you don't know which game.  What do you bid first?
+You respond 2\C, natural and forcing the partnership to game.
+North now bids his \H suit.
+At this point you figurer North for 5 \Ss and 4 \Hs. What should you rebid?
+You cannot support either of North's Majors, but with a good stopper in the fourth suit you bid 2NT. The game force is still on and North may not pass this bid.
+North bids 3\H, indicating that this is also a 5-card suit. What do you rebid now? 
+
+Now you can bid the \H game, knowing there is an 8-card fit.}
+

@@ -8,63 +8,120 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "E"]
 [Vulnerable "None"]
-[Deal "N:QJT5.Q98.AQ4.AJ9 986.J4.K976.K843 AK3.AK7.T82.QT75 742.T6532.J53.62"]
+[Deal "E:A8754.JT72.965.J KQ6.KQ4.A74.KT96 JT92.963.QT82.32 3.A85.KJ3.AQ8754"]
 [Declarer "N"]
-[Contract "6NT"]
+[Contract "6C"]
 [Result ""]
-[Auction "N"]
-1NT pass 4NT pass 6NT pass pass pass
+[Auction "E"]
+pass 1NT pass 3C pass 4C pass 4NT pass 5D pass 6C all pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f0ebc2cf36a1d3d5e1bcbbfbcc8302c0b0b02d54eac959d24d0c59d0bc82f0ef"]
-[Category "Basic Bidding"]
-[Difficulty "beginner"]
-[SkillPath "basic_bidding/notrump_openings"]
-[Student "S"]
-{You open 1NT and partner jumps to 4NT.  
-
-This is the threequel to 4 and 5. With a "good 16" points you accept the invitation and bid 6NT.
-
-As you might expect, this time the slam is not so certain, but there is a good chance. If either Minor suit finesse works you can make 12 tricks.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
-[Dealer "W"]
-[Vulnerable "EW"]
-[Deal "W:AJT98.8.QT96.J73 KQ6.Q5.AJ74.KT96 542.AK42.852.AQ8 73.JT9763.K3.542"]
-[Declarer "S"]
-[Contract "2H"]
-[Result ""]
-[Auction "W"]
-pass 1NT pass 2H pass pass pass
-[BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c120299fea02cdbd9ad082c1747bb17c9507f19b585c2bef28cff23cfb93f1de"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "5855c671f7616b691d8b4ea6aa896369913e3fc9d7b4af8c87ec7f7fae834b43"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Surprise - you open 1NT. Partner responds 2\H.  (no transfers in this lesson) 
+You open 1NT and partner responds 3\C. What is your next bid? 
 
-Pass. Partner has long \Hs (probably 6) and short points (fewer than 9). He has decided that 2\H will be a better spot than 1NT. Trust him.}
+Partner's jump to 3\C shows at least 5 \Cs and slam interest. Your hand is good enough to encourage that interest so you bypass 3NT and say 4\C. Partner now bids 4NT. What do you answer? 
+
+That is Blackwood. You admit to one Ace and partner bids 6\C.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:A752.5.K9875.A72 K96.KJ64.AQ4.QJ5 JT43.AT.JT32.K84 Q8.Q98732.6.T963"]
+[Declarer "S"]
+[Contract "2H"]
+[Result ""]
+[Auction "W"]
+1D 1NT pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "e9ba6f9f809d1bf9316721133c02117ced7422d030339a00463ccbccd47ccf0a"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+A 1NT overcall is almost the same as a 1NT opening. The range is increased to 15-18, but the main difference is that you <b>must</b> have the opponent's suit adequately stopped. Here you certainly have the stopper so you bid 1NT. Partner responds 2\H.  
+
+And the responses are the same also. Partner's 2\H bid is a signoff bid, often called a "drop dead" bid. So even though you really like the \Hs you pass. }
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AJ8.K952.AQ4.AQ9 954.AJT7.K63.654 KQT72.83.75.T872 63.Q64.JT982.KJ3"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2NT pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9a9fd0c82b3f7c5a0cc159ce73445cf71bbb3d96f8c66a7629c00f72a8e564cb"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{With a balanced 20 point hand you open 2NT. Partner responds 3\S.  
+
+Partner is showing a 5-card \S suit and at least 5 points. This is a forcing bid; you are to choose between 3NT and 4\S, depending on your \S holding. With three of them you bid 4\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:QT75.953.A93.KT7 A6.AJ6.KJ62.Q864 J42.T874.Q85.AJ2 K983.KQ2.T74.953"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "E"]
+pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "13da9451852b680c56bad7a9f7b22d432644423eae7fc2609374d3587850bbf6"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You have 8 points. Even if partner has the maximum 17 it would only add to 25, which is probably not enough to make game. You should pass.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:A42.A8.T962.QJ85 J8.QJT73.J53.A73 T9753.9642.K8.42 KQ6.K5.AQ74.KT96"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ2.A97.Q83.KQT4 JT54.JT654.AK.97 K93.KQ2.T974.J53 876.83.J652.A862"]
 [Declarer "N"]
 [Contract "3NT"]
 [Result ""]
-[Auction "E"]
-pass pass pass 1NT pass 3H pass 3NT pass pass pass
+[Auction "N"]
+1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7c503a981246aa7a73c44774f9f2ea187f4248cd7b2225efcf8ab62c536f6b97"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+With 9 points you have just enough strength for an invitation. So you bid 2NT. Partner then says 3NT and everybody passes.}
+

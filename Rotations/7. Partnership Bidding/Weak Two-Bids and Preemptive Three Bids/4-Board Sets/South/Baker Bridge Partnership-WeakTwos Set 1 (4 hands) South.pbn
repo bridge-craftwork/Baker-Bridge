@@ -31,9 +31,9 @@ resist the temptation. To raise a Weak Two-bid to game you should have quick win
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "S"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "S:AK9873.82.986.J4 T4.JT63.QJT3.Q72 QJ2.AK75.A72.A53 65.Q94.K54.KT986"]
 [Declarer "S"]
 [Contract "4S"]
@@ -41,7 +41,7 @@ resist the temptation. To raise a Weak Two-bid to game you should have quick win
 [Auction "S"]
 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [BoardVersionToken "d9e894395b28af34ad2aeaf7f59a200d0358088e6d4820f93b68d41c3cf60d1a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -51,4 +51,61 @@ resist the temptation. To raise a Weak Two-bid to game you should have quick win
 
 This is the type of hand NORTH needs to bid game. Notice that even with all those winners the 
 pair is nowhere close to having a slam. The will probably make just ten tricks.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AK9873.82.986.J4 T4.AT94.QJ43.KT8 QJ62.75.A72.Q753 5.KQJ63.KT5.A962"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "37c0e2f9a89d6f51f975fe751e70fd49f559ac5a003ac86ef5498908eba358c3"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{Once more, SOUTH has the same hand as Deals 1 and 2.
+
+This time NORTH has a very poor hand without any chance of making game. However, he should bid 
+4\S anyway.
+
+It is very likely that the opponents can make 4\H if East gets the 
+opportunity to get into the bidding. Hopefully the 4\S bid will shut him out, and 4\S probably 
+won't go down more than a couple of tricks.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:43.85.KQJ9862.97 T982.JT43.AT.KJ2 KQ76.A62.53.AQ83 AJ5.KQ97.74.T654"]
+[Declarer "S"]
+[Contract "3D"]
+[Result ""]
+[Auction "S"]
+3D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "62af82bb51231f08a23c37388a6ab671aea54b3ca0f0a0b14b3533e40b2905b2"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/weak_twos"]
+[Student "S"]
+{SOUTH has a pretty normal preemptive 3\D bid.
+
+NORTH has the equivalent of an opening 1NT bid and will be very tempted to bid 3NT.
+
+That might turn out to be a disaster, particularly if NORTH is unable to reach the SOUTH hand.
+
+NORTH should assume SOUTH can win six tricks if 
+\Ds are trumps. Thinking this way points NORTH to her 
+best call - PASS.}
 

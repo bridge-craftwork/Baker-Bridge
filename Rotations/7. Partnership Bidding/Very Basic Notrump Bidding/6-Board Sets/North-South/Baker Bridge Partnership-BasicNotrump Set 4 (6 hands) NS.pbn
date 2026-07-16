@@ -8,76 +8,154 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "N:KQJ.A4.KQT8.AJ73 A54.QJ3.J632.T98 T962.K75.954.KQ6 873.T9862.A7.542"]
+[Deal "W:JT854.732.932.A3 KQ93.KQT.AJ7.QT8 62.J965.Q854.965 A7.A84.KT6.KJ742"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "6NT"]
 [Result ""]
-[Auction "N"]
-2NT pass 3NT pass pass pass
+[Auction "W"]
+pass 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bbc0aab189d3f4850d3df5ff623fe5370b810fc83e457b1954dd721f0716eb44"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "11aa4fcca2711326ffdc1e58aaf3b7fee53485005a670877c8233c4d950974e9"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{NORTH has 20 points and 4-4-3-2 distribution, so he opens 2NT.
+{NORTH has a great 1NT hand - 17 points and 4-3-3-3 shape.
 
-SOUTH has 8 points. She adds NORTH's 20 or 21 for a total of 28 or 29, enough for game but 
-nowhere close to the slam requirement. So she bids 3NT and NORTH passes.}
+SOUTH has 16 points; he figures it is possible that NORTH can make a slam, but only 
+if she has a 17 point opener. So he bids 4NT, expecting NORTH to bid 6NT if she has 17 points 
+but to pass if she has fewer.
+
+He figured right - NORTH had 17 points so she bid 6NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A74.Q96.KQ52.KJ8 J652.T872.T97.A4 K8.AK5.A8.QT9632 QT93.J43.J643.75"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "9b666036ec57429a03b0ba45a4785dd0a8a5abfba27cbe63b5b1c2e95f5cab9b"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH definitely does NOT have a balanced hand. She has two doubletons and a 
+6-card Club suit. 
+
+But she DOES have 18 points, (two extra for the fifth and sixth Clubs), and her 18 added to 
+SOUTH's minimum of 15 is enough to bid 6NT.
+
+Notice how easy this will be to play once that Club suit is established.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:9765.T762.T.AT65 KQ4.Q95.KQ62.K83 J32.A84.98743.94 AT8.KJ3.AJ5.QJ72"]
-[Declarer "S"]
-[Contract "4NT"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:A65.KQ83.QT85.T4 QJT.AJ7.AK62.KQJ 9742.T4.J9.A9763 K83.9652.743.852"]
+[Declarer "N"]
+[Contract "2NT"]
 [Result ""]
-[Auction "E"]
-pass 1NT pass 4NT pass pass pass
+[Auction "W"]
+pass 2NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9fe29c1e030e741f4d95ad632fa5db02d90f310d0c44f64a7cde14e8724c430a"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "78e448e81d1ee447bb74e01250fb0586e42a0d3dcb7893af97369e91d6e37343"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{SOUTH has a low-range 1NT opener; a balanced hand with 15 points.
+{With 21 points and 4-3-3-3 distribution, NORTH opens 2NT.
 
-NORTH has 16 points; he figures the partnership holds either 31, 32 or 33. 
-Obviously he wants to at least reach game, but if SOUTH holds 17 points he wants to reach slam.
+SOUTH has just 3 points; he knows that NORTH cannot have more than 21 so the partnership 
+total cannot be more than 24. So he just passes 2NT.}
 
-NORTH bids 4NT. Since this is more than game it should be clear to SOUTH that he is asking 
-her to bid 6NT if she is at the top of her range. It is clear to SOUTH, but with just 15 points she passes.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:A42.A42.A642.A42 QT.876.QJT7.QJT8 K53.K53.K53.K753 J9876.QJT9.98.96"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "6dc4481df2d1b6680a26aa21b11f178c7d4e3fdb2dbf0e4a838210b28e5bbaf2"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{This is an easy one to bid.
+
+SOUTH has a balanced 16 points so he opens 1NT.
+
+NORTH has a balanced 12 points so she responds 3NT.
+
+BUT - just look at how this would play. You might only be able to take 8 tricks. 
+Sometimes correct bidding gets you to unmakeable contracts. But it's only a game.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
-[Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:AQ5.K85.QT76.A97 K32.JT932.8.QJ63 T84.Q76.KJ3.KT52 J976.A4.A9542.84"]
+[Dealer "W"]
+[Vulnerable "None"]
+[Deal "W:T983.42.T8.T5432 AJ5.QT93.KQJ.AK6 Q64.A876.9653.97 K72.KJ5.A742.QJ8"]
 [Declarer "N"]
-[Contract "2NT"]
+[Contract "6NT"]
 [Result ""]
-[Auction "N"]
-1NT pass 2NT pass pass pass
+[Auction "W"]
+pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5017a37d809972d7284b4206b900a513d5fcd4a04b2b26c5838454fcaf117d0b"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "6d2691c805a2c1c9266c0f75c836d2461d5e0d47630b46a6d9ea2227641d56e5"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
 [Student "S"]
-{NORTH has a minimum 1NT opening hand - balanced distribution with 15 points.
+{Notrump bidding really is easy, you just add your points to partner's points and then 
+bid according to that answer.
 
-SOUTH has 9 points, which is not enough to bid game, but is worth making an invitational bid. 
-So she says 2NT.
+Here SOUTH has 14 points. So when NORTH opens 2NT, showing 20 or 21 points SOUTH knows the 
+total will come to 34 or 35 so he bids 6NT.}
 
-Since NORTH is minimum he declines the invitation by passing.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:Q75.Q84.Q62.Q753 J842.A72.J985.94 AK6.K93.K743.A62 T93.JT65.AT.KJT8"]
+[Declarer "S"]
+[Contract "1NT"]
+[Result ""]
+[Auction "N"]
+pass pass 1NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
+[Category "Partnership Bidding"]
+[Difficulty "beginner"]
+[SkillPath "partnership_bidding/basic_notrump"]
+[Student "S"]
+{NORTH cannot open with only 8 points.
+
+Furthermore, when SOUTH opens 1NT NORTH knows that the partnership has a 25 points at most so 
+he passes again.}
 

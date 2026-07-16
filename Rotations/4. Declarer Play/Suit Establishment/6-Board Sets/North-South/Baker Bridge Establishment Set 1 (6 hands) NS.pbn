@@ -40,7 +40,7 @@ Just don't foul up on your \S entry.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:AKJ953.42.A5.A92 876.AJ98.94.QT73 QT2.73.K8763.854 4.KQT65.QJT2.KJ6"]
@@ -50,7 +50,7 @@ Just don't foul up on your \S entry.}
 [Auction "S"]
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "2fb5f963e2e3d26f337887d634c96570f42ac628536715953788ba24995538d9"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -74,9 +74,9 @@ You had to establish the \Ds to make 10 tricks. And once again you had to pay cl
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "N"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "N:AK72.A83.AQ72.62 J4.KT54.JT953.T5 85.J762.86.AKQ43 QT963.Q9.K4.J987"]
 [Declarer "N"]
 [Contract "3NT"]
@@ -84,7 +84,7 @@ You had to establish the \Ds to make 10 tricks. And once again you had to pay cl
 [Auction "N"]
 1NT pass 2C pass 2S pass 3NT all pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [BoardVersionToken "85fcffdb5dc20cd2010991650f5ddcfa4a11af4aa66fee69d2ac2392e23883fa"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -102,4 +102,96 @@ The defense gets a cheap trick in \Cs but you don't mind because you still have 
 
 If you had played the \Cs from the top you would have come up one trick short.}
 [Play "W"]DJ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AK72.A83.A964.92 J4.KQ954.J73.QT5 85.JT.82.AK87643 QT963.762.KQT5.J"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a4fb61ffa95156aa4766a1e485b3d7e52b358c2719d692426d6afdc07d985579"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/suit_establishment"]
+[Student "S"]
+{South is to play 3NT. West leads the \H5, East plays the \H2.
+
+Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
+
+You are very lucky. Apparently West led from \H K Q so you won an undeserved \H trick. Now, if \Cs split 2-2 you can make 12 tricks! But hold it a minute. If you play dummy's two top \Cs and they <b>DON'T</b> split 2-2 you will only  win two \C tricks and the contract will fail. Instead you should play a small \C from dummy right now. The defenders will win the trick easily, but you will win their return and you will still have a \C to get to dummy's 6 \C winners!
+
+Ducking a \C is the only way to make the contract and you might as well do it at the second trick.}
+[Play "W"]H5
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AK5.AK6.763.AK42 QT72.Q94.QT9.JT7 964.732.A8542.65 J83.JT85.KJ.Q983"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "b1283721b73673d66c4a0430c50616817c1bad42fa28397ad0203cff07bbff57"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/suit_establishment"]
+[Student "S"]
+{North is to play 3NT. East leads the \S2, West plays the \SJ.
+
+Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
+
+You need two more winners and dummy's \Dsuit is your only hope. <b>IF</b> \Ds split 3-2 and <b>IF</b> the defenders don't take too many winners in their suit(s) you can establish \Ds by ducking twice.
+
+Win the first \S. If you hold up they might pocket the \S trick and switch to another suit where you only have two stoppers.
+
+Next play a small \D from each hand. Win the return (probably a \S) and duck a second \D.
+
+If the defenders can only take 2 \S tricks now you are home-free since dummy's 3 \Ds are now established.
+
+You had to have the defender's \Ss split 4-3. But in fact you were pretty sure they were going to do so. Since East's \S2 was probably his fourth-down then he couldn't have a fifth-down.}
+[Play "W"]S2
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:K63.QJ.AK42.AT64 QT52.742.87.J872 A74.KT983.J53.Q3 J98.A65.QT96.K95"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2D pass 2H pass 3NT all pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "fbbdeb56e58a69ef39e97d797d062923367addfe45833efcc4ad91608da8e6c7"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/suit_establishment"]
+[Student "S"]
+{North's 3\D bid was a transfer to \Hs. South is to play 3NT. West leads the \S2.
+
+Winners:   \S=2  \H=0  \D=2  \C=1  Total = 5
+
+Obviously you need to establish 4 \H winners and by driving out the \HA you can manage that handily. The problem is that dummy has only one sure entry, (the \SA), and the defenders may be good enough to hold up their \HA twice.
+
+To assure the contract you should win the first trick in your hand with the \SK. Then play \HQ, \HJ overtaking with dummy's \HK so you can continue establishing the suit while you still have that \S entry.
+
+None of the other suits were sitting well so overtaking the \H was the way to go.}
+[Play "W"]S2
 

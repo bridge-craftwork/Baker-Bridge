@@ -35,7 +35,7 @@ SOUTH does not have to bid the double negative over a 2NT bid, so he passes.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:A82.AK75.KQJ.KQT T965.JT6.A743.97 K73.Q82.T986.542 QJ4.943.52.AJ863"]
@@ -45,7 +45,7 @@ SOUTH does not have to bid the double negative over a 2NT bid, so he passes.}
 [Auction "S"]
 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "731b076b22f6d79257a82a2f69e51dd340bca5f4438dd0a87d28866722f1327b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -58,4 +58,61 @@ bids are artificial.
 
 SOUTH now describes his hand by bidding 2NT. 
 NORTH bids 3NT, knowing that the partnership holds at least 27 points.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:K3.KQJ2.AQ98.AK4 94.93.653.QJ9872 QJT72.A5.742.653 A865.T8764.KJT.T"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "7071750f311e73c6a409bbd204ad69aed624e27a96519c0c98a9584f2ab6e9ff"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH opens 2\C with her balanced 22 points.
+
+SOUTH has 8 points AND a 5-card \S suit. This is strong enough for a positive response, so 
+he bids 2\S.
+
+NORTH completes the description of her hand by saying 2NT.
+
+SOUTH does NOT rebid the \Ss; his first bid already promised a 5-card suit. He just 
+bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:KQ2.AKQ75.A72.AT 9874.J4.QT5.KJ53 A3.T982.986.8764 JT65.63.KJ43.Q92"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "607914f955bb539e79738bb2630034b6707f324fbeb305634a7712025cf8cd73"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH has 23 points and opens 2\C.
+
+NORTH, with 4 points, must respond 2\D.
+
+SOUTH now shows a \H suit (at least 5) by bidding 2\H.
+
+NORTH likes \Hs, she has already told SOUTH she has fewer than 8 points, so she 
+bids 4\H.}
 

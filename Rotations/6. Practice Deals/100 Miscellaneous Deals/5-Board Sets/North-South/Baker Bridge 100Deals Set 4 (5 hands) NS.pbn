@@ -4,118 +4,221 @@
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
 %bridge-context: Standard American; NO 2/1; NO Jacoby 2NT; plain Blackwood
-{With 16 points as Responder you are not quite strong enough for a jump-shift to 2 \D. That requires at least 17 points. A jump to 3NT fits the point range (16-18) but promises a stopper in all unbid suits. So instead you bid 1\D, knowing partner is forced to keep the bidding alive. He now replies 1NT. What is your next bid? 
-
-Until now you were thinking the hand might end up in a slam. Now, with partner's minimum rebid, you happily say 3NT which partner passes.
-
-North would play 3NT. 
-
-Click 
-
-South plays 3NT. West leads the \SQ. East puts on the \SK.
-
-<b>South plays 3NT. West leads the \SQ. East puts on the \SK.</b>
-
-Winners: \S 1 : \H 2 : \D 5 : \C 0 : Total = 8
-
-Let's say you hold up on the first \S, hoping they switch suits. HA! They aren't about to switch suits and they drive out your \SA at trick 2. That actually clears the situation up and makes this plan pretty simple to make.
-
-You have taken 1 \S, and you will surely make 5 \Ds. Despite the solidity of those \Cs you dare not try to win a \C trick, because the defenders will pounce on that first \C and then win a bunch of \S tricks. 
-
-So that makes it clear that you need 3 \H tricks, and there's only one way to get them. After taking your five \D tricks, play a \H to the \HK, then a \H back, finessing the \HJ. Half of the time you will make this contract, the other half of the time they will bury you with \Ss.
-
-You might think if you could just sneak one \C through you wouldn't have to depend on the \H finesse. But put yourself in West's chair. Do you really think he will let you win a \C when he sees he can defeat you by taking his \CA and leading \S winners?}
-[Play "W"]SQ
-
 [Event "Baker Bridge - 100 Miscellaneous Deals"]
 [Site ""]
 [Date ""]
-[Board "2"]
+[Board "1"]
 [Dealer "N"]
-[Vulnerable "NS"]
-[Deal "N:T63.AT754.AJ2.AK KQJ8..9764.QT652 952.KQ92.KQ83.J7 A74.J863.T5.9843"]
+[Vulnerable "None"]
+[Deal "N:AK3.K865.9762.AJ QJT4.QT93.QT43.5 95.A742.5.KQT983 8762.J.AKJ8.7642"]
 [Declarer "N"]
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1H pass 3H pass 4H pass pass pass
+1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b8d686e5ff77371d358a6a13c53db3a99c94cd71c2fd93ce7a38b5a07f8775e9"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "28f8fec4b54446289474b66825fa13e0fee6fd16311fa25d4b0eb4e8dee1e350"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{You have 12 points which isn't quite enough to force to game.
+{It is tempting to bid 3NT and hope partner can use your \C suit. But you have something very important in your hand - a 4-card \H suit.
 
-It is just right for a limit raise though, so you bid 3\H.
+So you bid 2\C. (Stayman, not your \C suit!) Partner replies 2\H. What do you say next? 
 
-Partner does bid the game.
+He who knows, goes. You have 11 points and 4 \Hs. Partner has at least 15 points and 4 \Hs. So you bid the game. 
 
 South would play 4\H.
 
 Click 
 
-North plays 4\H. The defense takes the first three \S tricks, then switches to a \C.
+North plays 4\H. East leads the \SQ.
 
-<b>North plays 4\H. The defense takes the first three \S tricks, then switches to a \C.</b>
+<b>North plays 4\H. East leads the \SQ.</b>
 
-Losers: \S 3 : \H ?? : \D 0 : \C 0 : Total = 3+??
+Losers: \S 0 : \H 1 or 2 : \D 1 : \C 0 : Total = 2 or 3
 
-With no more outside losers your task is very very simple:<b>DO NOT LOSE A TRUMP TRICK</b>.
+This PLAN looks awfully simple. Win the \S, play \HA, \HK, then give up a \H. When you get back in run the \Cs.
 
-There is no problem if trumps split 2-2 or 3-1, so you can put your mind to 4-0 splits only. If East holds \H J 8 6 3 then it won't matter whether your first trump play is \HA or \HK, you will still be able to finesse the \HJ. But if West holds \H J 8 6 3 it is vital that you first play either the \HK or \HQ. If you start with the \HA you will have lost your finesse position. The general rule is to first play a high trump from the hand that has two. That preserves a finesse through either defender's \H J x x x.
+But when you play the second high \H West shows out.
 
-Visualize the situation if your first play was the \HA. East would show out and you would learn that West held \H J 8 6 3 but you couldn't do anything about it.
+Make another Plan, then  
 
-Next visualize the situation if your first play was the \HK. East would show out and you would play the \HQ, then a small \H finessing your \H10. 
+<b>North plays 4\H. East leads the \SQ.</b>
 
-Finally visualize the situation if your first play was the \HK and it was West who showed out. You would play a small \H to your \HA, then lead a \H toward dummy finessing with the \H9.
+Let's start over. Play \HK, then \HA. West shows out. If you play another \H East will pull all the trumps and they will start winning \D tricks. Lots of \D tricks.
 
-Using the correct Plan guarantees the contract however \Hs split.}
+So don't lead the third \H. Leave East with his two master trumps and start playing \C winners. East will eventually ruff in with one of his high trumps and perhaps take a \D trick. But you have trump control and can get in again and reach dummy with a ruff to continue \Cs. All East can do is get his one more trump.
+
+When you have pulled a couple of rounds of trumps and the defenders hold a master trump it is usually good technique to leave it out. No sense using two of yours to get one of theirs.
+
+This hand is much rarer - leaving TWO master trumps out. But you can see that it is the correct technique.}
+[Play "W"]SQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "E"]
+[Vulnerable "None"]
+[Deal "E:QJ98.QT3.A942.T7 K52.A96.KQ5.KQJ2 T4.KJ752.T83.853 A763.84.J76.A964"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "E"]
+pass 1C pass 1S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "ab8f5731add89c94c484db70739d8a013189108113470f925333fed6743b8f80"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{This sure looks like an opening 1NT hand, except for one little thing - it is too strong. Make sure you open 1NT <b>ONLY</b> with hands containing 15-17 points. For this one you open 1\C. Partner responds 1\S.  
+
+Do not support partner's Major suit response with only 3 cards. It is good to raise partner's Major suit <b>OPENING</b> with 3 trumps because he guarantees a 5-card suit. As a <b>RESPONSE</b> he only promises a 4-card suit, so you should have 4 in the suit to give immediate support.
+
+In fact you have a perfect bid. With a balanced hand and 18-19 points you open 1 of a suit, then jump in Notrump. Holding 18 points you bid 2NT and partner raises to 3NT.
+
+South plays 3NT. West leads the \H5. East plays the \HQ.
+
+<b>South plays 3NT. West leads the \H5. East plays the \HQ.</b>
+
+Winner count: \S 2 : \H 1 : \D 0 : \C 4 : Total = 7
+
+You need 2 more winners and they will come from the \D suit once you have forced out the \DA. There is a problem though. When the opponents get the lead with the \DA they might cash 4 \H tricks. Of course if it is East who wins the \DA and if he doesn't have a \H to play then all will be well. So you don't take your \HA on the first trick, nor do you take it on the second trick. At trick 3 you have no choice so you win your \HA. 
+
+Now you can take your 4 \C tricks if you like. Then lead a \D honor. If they don't take their \DA on this trick you play another \D honor. One of the defenders will win this trick. If it is East you will make your contract, if it is West you will go down.
+
+Visualize what would happen if you played the \HA on the first or second trick. When you tried to establish \D tricks East would take the \DA and play a \H to West and you would go down 1. By waiting until the third round to take the \HA you exhaust East of his \Hs.
+
+Notice that if West was the one who had the \DA then you would go down despite your hold-up play. This PLAN is not a guarantee - but if you follow it you will make the contract 50% of the time. If you don't follow it you will make the contract 0% of the time.}
+[Play "W"]H5
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "W"]
+[Vulnerable "EW"]
+[Deal "W:K865.9.KQJ4.KJT7 3.AKQJ83.863.963 T974.65.A752.852 AQJ2.T742.T9.AQ4"]
+[Declarer "N"]
+[Contract "4H"]
+[Result ""]
+[Auction "W"]
+1D 1H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "0ac0f7c9765944db8b2c05454790cdb112d720c540d814a28d6f6f994d15996f"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{With 12 points and an excellent suit you overcall 1\H.
+
+Partner raises to 4\H and everyone passes.
+
+North plays 4\H. East leads the \DA and the defense wins two high \Ds then switches to a trump.
+
+<b>North plays 4\H. East leads the \DA and the defense wins two high \Ds then switches to a trump.</b>
+
+Losers: \S 0 : \H 0 : \D 2 : \C 2 : Total = 4
+
+The two \D losers are already lost, so you must eliminate a \C loser. If East has the \CK then a simple finesse will win the day. That would be a 50% chance, right? <b>WRONG!</b> That would be a 0% chance. You and partner hold 23 HCP. East has already produced 4 HCP with the \DA, and if he had 3 more that would mean West opened with only 10 points. Very doubtful.
+
+So face it, West has the \CK.
+
+However, dummy has some nice \S cards. So you pull the last trump, play your \S3 to dummy's \SA, then lead the \SQ. If West puts on his \SK (which you know he must have) you ruff it. Then enter dummy with a \D ruff and discard the small \C on the good \SJ. If West doesn't play his \SK you discard your  \C loser immediately.
+
+If you separate the bidding from the play in your mind you will too often miss clues that should be telling you that certain plans will or won't work.
+
+This was a perfect example. After the opening lead it was easy to deduce that all the rest of the high cards had to be in the West hand.}
+[Play "W"]DA
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "4"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:KQ92.952.K7.KQ83 .A874.QJ632.T764 A8754.T63.A8.AJ2 JT63.KQJ.T954.95"]
+[Deal "S:AK764.AJT.8.KQJ7 J3.K652.KQJ52.63 985.Q.A7643.AT92 QT2.98743.T9.854"]
 [Declarer "S"]
-[Contract "4S"]
+[Contract "6S"]
 [Result ""]
-[Auction "N"]
-1C pass 1S pass 2S pass 4S pass pass pass
+[Auction "S"]
+1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7c47d5a098f8f6a05c8d91df1c6b7c6f4e47d0e46869a8e8fd80703bdcee8ffd"]
+[BoardVersionToken "51ac8e492414769af9783026bc73255dd7a5a01fdfcca77c6bd831fb2d40938f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
 [Student "S"]
-{Partner has opened and you have 14 points. You know you belong in game but there is no need to jump and use up bidding space. You respond 1\S.
+{You open 1\S and partner jumps to 3\S.
 
-Partner now bids 2\S.  
+Wow. It looks like you might have a great fit. You bid 4NT and partner responds 5\H.
 
-You know you should be in game and now you know the suit. You bid 4\S.
+Partner shows 2 Aces so you bid 6\S.
 
-South plays 4\S. The defense quickly takes three \H tricks, then switches to a \D.
+South plays 6\S. West leads the \DK.
 
-<b>South plays 4\S. The defense quickly takes three \H tricks, then switches to a \D.</b>
+<b>South plays 6\S. West leads the \DK.</b>
 
-Losers: \S 0? : \H 3 : \D 0 : \C 0 : Total = 3?
+Losers: \S 1? : \H 1 : \D 0 : \C 0 : Total = 2?
 
-This Deal is <b>VERY</b> similar to Deal 9 in that you are only worried about a 4-0 trump split. The reason that it shows up right here is to point out the difference between J 8 6 3 and J 10 6 3.
+If trumps don't split 3-2 you will definitely go down 1, so assume they do split. You could finesse East once in \Hs, or use a ruffing finesse on West, but the cleanest approach is just to ruff two \Hs in dummy. Of course you must do this before you pull trumps.
 
-If East holds \S J 10 6 3 then there is nothing you can do about it - you will go down. If you lead a \S from dummy he will "split his honors" by playing the \ST. This will force your \SA and he can just sit back and wait for his \SJ to make a trick.
+Win the \DA in dummy. Play the \HQ to the \HA and ruff the \H10 with dummy's \S8. Play the \S5 to your \SA and ruff the \HJ with dummy's \S9.
 
-But if it is West with \S J 10 6 3 you can keep him from winning a \S trick, <b>IF YOUR FIRST \S PLAY IS THE \SA</b>. East shows out and you play a small \S toward dummy's \S K Q 9. If West plays low you insert the \S9, if he plays one of his honors you win it, then return to your hand and finesse him out of the other honor.
+Return to your hand with a \C and pull another round of trumps with your \SK. Leaving the master trump out start playing \C winners. Someone may ruff with their master trump but that's the only trick they will get.
 
-When West holds four trumps you can pick them up if your first \S play is the \SA.
+It was very bold to bid this slam and North/South were fortunate to find a distribution where it could be made.
 
-If your first \S was \SK or \SQ then it would be too late.
+But that would have been all for nothing if South had not found the PLAN to make it.}
+[Play "W"]DK
 
-When East holds four trumps there is no way to avoid a loser. As soon as you lead the first small \S from dummy East will play the \ST. That will force your \SA and leave him with \S J 6 3 behind dummy's \S K Q 9.
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K5.A94.K9873.KT5 A32.QJT72.J.9862 9764.K8.AT62.AQ3 QJT8.653.Q54.J74"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1D pass 1S pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "f17e5b917463a401914703dbad70d06b177628d393728b001dc975670edaddd5"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_miscellaneous"]
+[Student "S"]
+{With 13 points and 4 of partner's minor suit you may be tempted to say 2NT or 3\D. Both these temptations should be resisted - your first obligation is to show a 4-card Major if you have one. As poor as the suit is, you still respond 1\S. 
 
-To summarize: If you are missing <b>J x x x</b> your first play should be from the hand with two honors. Then you will  be able to finesse in either direction. If you are missing <b>J 10 x x</b> your first play should be honor from the hand with only one. This will leave you with a double-finesse position in one direction. If the other defender has the trumps there is nothing you can do. }
+Partner comes back with 1NT.  (Hint: don't rebid the \Ss.) 
+
+Partner has 13/14 points and a balanced hand. You have 13 points and a balanced hand. How about 3NT?
+
+South would play 3NT.
+
+Click 
+
+North plays 3NT. East leads the \HQ. 
+
+<b>North plays 3NT. East leads the \HQ.</b>
+
+Winner count: \S 0 : \H 2 : \D 2 : \C 3 : Total = 7
+
+You need two more winners and you can almost surely get them in \Ds. In fact, if the suit splits 2-2 you could actually get three more winners. But the danger here is that if they <b>DON'T</b> split 2-2 and if West happens to win the third \D he might lead a \S. And that might lead to disaster!
+
+Instead, you allow for the possibility that \Ds may not split evenly and you make sure West (the Danger hand) doesn't get the lead. Win the \HK in dummy. Play the \DA, (which happens to draw the \DJ from East), then play a small \D and finesse with the \D9. If East can win the trick then the \Ds have split 2-2 and your other 3 \Ds are good. Most importantly though, East cannot lead a \S without giving you a trick with your \SK. If the finesse works, you make 5 \D tricks.
+
+Sometimes good play is just visualizing what bad thing might happen.
+
+Here the bad thing would be for West to get the lead and play a \S. In this case you were able to avoid the bad situation by playing a suit differently than you might have done if there were no danger.}
+[Play "W"]HQ
 

@@ -32,9 +32,9 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "S"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "S:KQ5.AK6.AK92.AT8 J96.J872.QJ5.K52 T872.Q53.864.974 A43.T94.T73.QJ63"]
 [Declarer "S"]
 [Contract "2NT"]
@@ -42,7 +42,7 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 [Auction "S"]
 2C pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [BoardVersionToken "04df7124f51daa0463cb157c73e32fa68e75163f17c8b316365dc11e37be0981"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -55,7 +55,7 @@ This isn't as clear-cut a decision as you might think at first. Partner is showi
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:AK82.AK3.AK.KQ94 J7.JT5.J75.J6532 Q65.864.Q986.T87 T943.Q972.T432.A"]
@@ -65,7 +65,7 @@ This isn't as clear-cut a decision as you might think at first. Partner is showi
 [Auction "S"]
 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "cf1e3d4a609a4a8ccf40fba4bc88e9fcdac3c888c9da3b962d5472c50fe18870"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -76,4 +76,77 @@ This isn't as clear-cut a decision as you might think at first. Partner is showi
 With 26 points you naturally open 2\C. Partner responds 2\D.  
 
 You have 26 points and no 5-card suit. Since your hand is balanced you bid 3NT. Everybody passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "All"]
+[Deal "S:KQ5.AK6.AK92.AT8 97643.972.J3.732 JT82.Q53.864.J94 A.JT84.QT75.KQ65"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "3d262e471f5a4a07edc9ac57991acb1b57a861cf15e33139af4aee128830ed58"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{With only 4 points you make a Negative 2\D response to partner's 2\C opener. He now bids 2NT. What is your bid? 
+
+True, 4 points isn't much. But added to partner's 22-24 it becomes enough for a game. Your problem isn't whether to bid to the game or not, (you definitely will), but whether you should use Stayman to find out if there is a 4-4 \S fit. You decide not to do this because your 4-3-3-3 distribution removes the possibility of you getting any ruffs. So you bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:.AKQJ8643.A5.QJ4 Q654.5.KT96.A865 K873.92.J8742.T3 AJT92.T7.Q3.K972"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2H pass 2NT pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c007f6ec53e35479a770a7a5446f710d2e55b7cd0e57104ae094c445dd8f46f7"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{You dealt this hand.  
+
+You only have 20 points, but you have 9 playing tricks. You have two choices, open 4\H or open 2\C. Usually 4\H would show a slightly weaker hand than this, so you bid 2\C. Partner responds 2\D.  
+
+Of course you bid your 8-card suit. But no jumping, just bid 2\H. Partner now says 2NT.  
+
+Partner has between 3 and 7 points. Somewhere in those points might be the one trick you need, but you don't have any scientific way of finding out. So just bid 4\H and hope.(There it is, the \CT.)}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AK4.AQT863.Q.KQT JT62.J97.87.9843 875.K.KJT942.752 Q93.542.A653.AJ6"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2H pass 3D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "548ab2505e13e2dbf3fa818afc5d66c1073d97d34e8374d2d67668a965856f6d"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/strong_2c"]
+[Student "S"]
+{With 7 points you must bid a Negative 2\D. Partner now bids 2\H. What is your bid? 
+
+For someone who made an initial Negative response you have quite a good hand. You can't support partner's \Hs (yet) but you consider jumping to 3NT. All in all it is better to just describe your hand with a 3\D bid, then wait and see what partner says. You don't have to wait long since he bids 3NT which you pass.}
 

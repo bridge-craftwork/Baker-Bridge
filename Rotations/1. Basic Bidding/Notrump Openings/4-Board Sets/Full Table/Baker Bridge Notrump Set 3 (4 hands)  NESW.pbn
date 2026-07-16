@@ -8,49 +8,103 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "W"]
 [Vulnerable "None"]
-[Deal "N:QJT5.Q98.AK4.AJ9 982.J4.Q7653.642 AK3.AK7.T82.QT75 764.T6532.J9.K83"]
+[Deal "W:A82.J974.KJT53.J JT973.A82.62.A75 54.QT63.98.Q8432 KQ6.K5.AQ74.KT96"]
 [Declarer "N"]
-[Contract "6NT"]
+[Contract "4S"]
 [Result ""]
-[Auction "N"]
-1NT pass 4NT pass 6NT pass pass pass
+[Auction "W"]
+pass pass pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "58dc2cda9861980df4952d6be0c7c2ec800c45c35905e87e4bb0c27d1e2c454c"]
+[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "000f7516208ff4dd5c405ba0c17ff6babbc68d6fcb12e335e94457707f175829"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
-{You open 1NT and partner jumps to 4NT.  
+{The bidding has been as shown.   
 
-This is the sequel to Deal 4. This time you have 17 points so you accept partner's invitation to slam and bid 6NT.
+Yes this is exactly the same hand you held in Deal 8. You still open 1NT. This time partner responds 3\S.  
 
-You have 11 top tricks and can easily set up one more in \Cs.}
+Partner shows 10+ points and exactly 5 \Ss. This time, with 3-card support, you choose game in \Ss, knowing there is an 8-card fit.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:J42.J752.95.AQ43 KQ6.KQ4.Q74.KT96 8753.AT96.63.752 AT9.83.AKJT82.J8"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+pass 1NT pass 3D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "de645ca92533368ce6ad62ed913ae0deef6c4cf34e3c0f82e95ed763093e6a93"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+You open 1NT and partner says 3\D. It's your bid. 
+
+Partner has a great hand. A jump to 3 in a Minor suit almost always shows slam interest. But that's partner with interest, not you. You couldn't have a more minimum 1NT opening bid. 
+
+So you just return to 3NT. Partner gives up and passes.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
+[Dealer "W"]
 [Vulnerable "EW"]
-[Deal "E:QJT5.Q98.AQ4.AJ9 986.J4.K976.K843 AK3.AK7.T82.QT75 742.T6532.J53.62"]
-[Declarer "E"]
-[Contract "6NT"]
+[Deal "W:A8754.JT72.965.J KQ6.KQ4.A74.KT96 JT92.963.QT82.32 3.A85.KJ3.AQ8754"]
+[Declarer "S"]
+[Contract "6C"]
 [Result ""]
-[Auction "E"]
-1NT pass 4NT pass 6NT pass pass pass
+[Auction "W"]
+pass 1NT pass 3C pass 4C pass 4NT pass 5D pass 6C all pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "f0ebc2cf36a1d3d5e1bcbbfbcc8302c0b0b02d54eac959d24d0c59d0bc82f0ef"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5855c671f7616b691d8b4ea6aa896369913e3fc9d7b4af8c87ec7f7fae834b43"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
 [Student "S"]
-{You open 1NT and partner jumps to 4NT.  
+{The bidding has been as shown.   
 
-This is the threequel to 4 and 5. With a "good 16" points you accept the invitation and bid 6NT.
+You open 1NT and partner responds 3\C. What is your next bid? 
 
-As you might expect, this time the slam is not so certain, but there is a good chance. If either Minor suit finesse works you can make 12 tricks.}
+Partner's jump to 3\C shows at least 5 \Cs and slam interest. Your hand is good enough to encourage that interest so you bypass 3NT and say 4\C. Partner now bids 4NT. What do you answer? 
+
+That is Blackwood. You admit to one Ace and partner bids 6\C.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:A752.5.K9875.A72 K96.KJ64.AQ4.QJ5 JT43.AT.JT32.K84 Q8.Q98732.6.T963"]
+[Declarer "W"]
+[Contract "2H"]
+[Result ""]
+[Auction "N"]
+1D 1NT pass 2H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "e9ba6f9f809d1bf9316721133c02117ced7422d030339a00463ccbccd47ccf0a"]
+[Category "Basic Bidding"]
+[Difficulty "beginner"]
+[SkillPath "basic_bidding/notrump_openings"]
+[Student "S"]
+{The bidding has been as shown.   
+
+A 1NT overcall is almost the same as a 1NT opening. The range is increased to 15-18, but the main difference is that you <b>must</b> have the opponent's suit adequately stopped. Here you certainly have the stopper so you bid 1NT. Partner responds 2\H.  
+
+And the responses are the same also. Partner's 2\H bid is a signoff bid, often called a "drop dead" bid. So even though you really like the \Hs you pass. }
 

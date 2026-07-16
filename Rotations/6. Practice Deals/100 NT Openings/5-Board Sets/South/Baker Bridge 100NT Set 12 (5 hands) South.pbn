@@ -4,76 +4,145 @@
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
 %bridge-context: Plain Blackwood; Lebensohl over interference
-{You could either use a transfer or you could jump to 3\S. You decide on the transfer and bid 2\H. Partner jumps to 3\S!  
-
-You could either use a transfer or you could jump to 3\S. You decide on the transfer and bid 2\H. Partner jumps to 3\S! 
-
-The 3\S bid is a "Super-accept", showing a maximum 1NT opener, 4 \Ss and a doubleton. In other words, partner's hand has revalued to 18 points. So you bid 6\S (or you could ask for Aces instead).
-
-The contract would be 6\S played by North.
-
-South plays 6\S. West leads the \CQ, East follows with the \C2.
-
-You win the first trick with the \CA in your hand.
-
-Loser List: \S = 0 : \H = 2 : \D = 0 : \C = 0 :: Total = 2
-
-There are two obvious possibilities for avoiding the \H loser. You could finesse East for the \HK; this is a 50% chance. The \Ds could split 3-3; this is a 36% chance.
-
-In fact, your chances are better than either of those percentages because you can try the \Ds first, and if they <b>DON'T</b> split you can then try the \H finesse. 
-
-Pull trumps; West shows up with 3 trumps. Play the \DK, then a small \D to dummy's \DA. On this trick West follows with the \D10.  
-
-Your contract just became a sure thing! Play the \CK to strip both your hands of \Cs. Lead dummy's last \D,  and when East plays low, finesse the \D9. If the finesse wins, discard a \H from dummy on your good \D. But if the finesse loses to West's \DJ, he will be endplayed and have to lead a \H into your \H A Q or give you a ruff/sluff with a \C. And on top of that your fourth \D will be good. 
-
-In this actual Deal your \D finesse worked which gave you 4 \D tricks.
-
-But imagine that the \DJ is transposed to the West hand. He wins that \D trick but must give you the contract with his return.}
-[Play "W"]CQ
-
 [Event "Baker Bridge - 100 Notrump Deals"]
 [Site ""]
 [Date ""]
-[Board "2"]
-[Dealer "S"]
+[Board "1"]
+[Dealer "E"]
 [Vulnerable "None"]
-[Deal "S:AK6.AT3.A82.T974 Q92.KQJ975.KQ3.6 873.62.754.AKQ53 JT54.84.JT96.J82"]
+[Deal "E:KJ7.K53.AQJ8.753 AQ82.QT9.KT4.AT6 T964.74.963.Q842 53.AJ862.752.KJ9"]
 [Declarer "S"]
-[Contract "3NT"]
+[Contract "4H"]
 [Result ""]
-[Auction "S"]
-1NT 2H 3NT pass pass pass
+[Auction "E"]
+1D 1NT pass 2D pass 2H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "00b1f87262034243d09b486294944248523b78adbb10c802c5dc05a43417edd0"]
+[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "c37efa8c58fcf37e5180b4851c9e85997b5b91c4a8bcae089ccccc8bb9eab477"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Partner's jump to 3NT is a lebensohl method.
+{<b><i></i></b>The question is: Do you use Transfers after a 1NT OVERCALL? And in particular, can you bid the opponent's suit and have it mean a transfer instead of a cue-bid? This is something you and your partner need to agree on - as for me and my partner, we think 2\D is a transfer. Partner replies 2\H.  
 
-He is describing a hand with which he would have bid 3NT if there had been no overcall. But he is warning you that he <b>DOES NOT HAVE</b> a \H stopper!
+<b><i></i></b>The question is: Do you use Transfers after a 1NT OVERCALL? And in particular, can you bid the opponent's suit and have it mean a transfer instead of a cue-bid? This is something you and your partner need to agree on - as for me and my partner, we think 2\D is a transfer. Partner replies 2\H. 
 
-Since you <b>DO</b> have a \H stopper you decide to pass and play 3NT.
+With 10 points you are between Invitational and Game-forcing. Which means you bid either 2NT or 3NT, whichever suits your fancy. Today let's say it is 3NT which partner converts to 4\H.
 
-South plays 3NT. West leads the \HK.
+The contract would be 4\H played by North.
 
-You hold up your \HA until the third round.
+South plays 4\H. West leads the \D9. East wins the first trick with the \DA, then plays \DQ. You take your \DK now, fearing that the next one could be ruffed by West.
 
-Winner List: \S = 2 : \H = 1 : \D = 1 : \C = 3 :: Total = 7
+Loser List: \S = 1 : \H = 1 : \D = 2 : \C = 1 :: Total = 5
 
-You need two more winners. Barring a 4-0 \C split your two extra winners will be the \C5 and \C3.
+You hope East, who opened the bidding, (as West before the hands were rotated), will have the \SK, which would reduce your losers to 4.
 
-So after winning the \HA, you play a \C to dummy's \CQ and breathe a sigh of relief when both defenders follow suit. 
+You win the second \D and play your \HQ, taken by East with the \HK. He cashes the \DJ, West following, then exits with a small \H. 
 
-UhOh. Surely you didn't play your \C4 to dummy's \CQ???
+Win this trump and play one more, pulling East's last trump and ending in dummy. Play a \S to your \SQ (which wins) then play \SA and ruff a \S in dummy. East follows with the \S7, \SJ and \SK. Now you must try the \C finesse, but through whom? 
 
-If you did then just look at the situation now. If the \CJ doesn't fall on the next trick the suit will be blocked. Now go back in time and play the \CT to dummy's \CQ. 
+Is it a 50-50 guess? Or is East more likely to have the \CQ since he had the opening hand? 
 
-That's better. Now under the \C A K you can unblock the \C 9 7, which will leave you with the \C4 to slip under dummy's \C5.
+No, it is not a 50-50 guess. No, East doesn't have the \CQ, West does. If you watched the cards that East has played you will realize he started with 3-3-4-3 distribution. You will also know that he started with 14 points outside the \C suit. If he had the \CQ he would have a balanced 16 point hand and would have opened 1NT, not 1\D. So West has the \CQ.
 
-Watch those spot cards. You may have to unblock them to stay in the hand you want to be in.}
-[Play "W"]HK
+You can go through 100 hands and on 99 of them it won't matter if you pay attention to the cards played by the defenders or not.
+
+But if you don't pay attention on all 100 of them you will miss the one time where your attention was needed.}
+[Play "W"]D9
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:8654.AK2.Q4.AKT3 AK9.QT54.JT9.Q86 73.973.K87652.95 QJT2.J86.A3.J742"]
+[Declarer "S"]
+[Contract "3D"]
+[Result ""]
+[Auction "N"]
+1NT pass 2S pass 3C pass 3D pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "61485f657dc1f55e3f6f5e84d85c2c49b3d1f4eaed5bedc98f6ddecf16e1104d"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{In the old days (before transfer bids) you could have just bid a "drop-dead" 2\D. But those days are gone so you must improvise. You bid 2\S, transferring partner to \Cs.
+
+Partner says 3\C;  
+
+In the old days (before transfer bids) you could have just bid a "drop-dead" 2\D. But those days are gone so you must improvise. You bid 2\S, transferring partner to \Cs.
+
+Partner says 3\C; 
+
+You now bid 3\D and partner knows to pass.
+
+South plays 3\D. West leads the \SQ. East overtakes and plays \S A K 9.
+
+Loser List: \S = 2 : \H = 1 : \D = ? : \C = 0 :: Total = 3 + ?
+
+Rather than trying to figure out how many losers this \D holding may produce, approach it from the other direction; you can only afford ONE loser, so you assume the cards lie in a way that will give you that result. 
+
+That means that the \Ds must be splitting 3-2, and it also means that you must knock out the \DA without using either the \DK or \DQ. Can you do it? 
+
+Your only hope is for West to hold a doubleton \D A x. You ruff the third \S, then play a small \D toward dummy's \DQ. When this wins the trick, play another \D, and duck in your hand. If West's \DA falls you will be golden. 
+
+There are times when your only hope of making a contract is if the defender's cards lie in a particular way.
+
+When this happens you should play as if they actually <b>DO</b> lie in that way, even though it may be against the percentages.
+
+This hand is a perfect example - your only hope was for West to hold \D A x, so -  you base your plan on West holding \D A x.}
+[Play "W"]SQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:J4.AT2.AJ62.AK73 82.K9863.Q73.QT4 KQT93.QJ4.85.652 A765.75.KT94.J98"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "6e3ccc8e5ed6f39359e6fdcba56e136871f343fd5d1d7d4c3c3fa05007885a4e"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{With 9 points and a 5-card Major suit you should definitely transfer, so you bid 2\H. Partner replies 2\S.  
+
+With 9 points and a 5-card Major suit you should definitely transfer, so you bid 2\H. Partner replies 2\S. 
+
+Now you complete the sequence by bidding 2NT, trusting partner to put it in the right place. He has maximum points and a doubleton \S so he puts it in 3NT.
+
+The contract would be 3NT played by North.
+
+South plays 3NT. West leads the \H6, East follows with the \H5. What will you play from dummy? And what will you play from your hand.
+
+Winner List: \S = 0 : \H = 2 : \D = 1 : \C = 2 :: Total = 5
+
+It's not as bad as that Winner List looks; you can establish 4 \S winners very easily.
+
+In fact, it looks so good you might wonder what could possibly go wrong. Here's something that can go wrong. The defenders take the <b>SECOND</b> \S trick with their \SA. Can you get back to dummy for those other three winners? 
+
+Maybe you can and maybe you can't. It depends on what you played from your hand at the first trick. If you won that trick in your hand with the \HA, then YES, you can get to dummy by leading twice toward the \H Q J.
+
+But if you won the first trick more cheaply with your \H10, (or perhaps dummy's \HJ), and you still have that \HA in your hand then West will prevent you from ever getting to dummy.
+
+It is ingrained in Bridge players to win tricks with the smallest card possible. And while that is usually a good idea it can sometimes be a huge mistake.
+
+Suppose you win the first trick with your \H10. If you later play your \HA then West's \HK will stop you from getting to dummy. But if instead you play a small \H toward the \H Q J West will grab his \HK and your own \HA will block your entry.
+
+But if you take the first trick with a "spendthrift" \HA then dummy's \H Q J will become a guaranteed entry to the \Ss.
+
+And notice - no matter which way you play it you still end up with exactly 2 \H tricks. So the play doesn't cost a trick, it just gains an entry.}
+[Play "W"]H6
 
 [Event ""]
 [Site ""]
@@ -81,39 +150,85 @@ Watch those spot cards. You may have to unblock them to stay in the hand you wan
 [Board "4"]
 [Dealer "S"]
 [Vulnerable "None"]
-[Deal "S:A42.A6.AJ843.Q72 T87.T4.K975.KT95 KQJ953.KJ7.62.84 6.Q98532.QT.AJ63"]
+[Deal "S:AJ72.A8.AK64.AJ3 .QJ953.Q972.9765 KQ9653.62.J5.KT4 T84.KT74.T83.Q82"]
 [Declarer "S"]
-[Contract "4S"]
+[Contract "6S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2H pass 2S pass 4S pass pass pass
+2NT pass 3H pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6d1580bbb49e4bb2e637ad31b4be258177c686c806e3180471af0aed67524d15"]
+[BoardVersionToken "ceb1ac6f0565f904dd009d5ee2760593f8bae1284bf71de25b20fdb11b26386f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{You decide to use a transfer so the lead will be into whatever holding partner has in the minor suits. You bid 2\H and partner bids  2\S.  
+{With a maximum 2NT opener, 4 of partner's \Ss and a doubleton you jump to 4\S, the Super-Accept.
 
-You decide to use a transfer so the lead will be into whatever holding partner has in the minor suits. You bid 2\H and partner bids  2\S. 
+Partner wastes no time bidding the slam.
 
-You are nowhere near strong enough to be thinking of slam so you bid 4\S.
+South plays 6\S. West leads the \HQ. West finds their best lead, exposing your \H loser. With a different lead you could have led toward dummy's \DJ, but not now.
 
-The contract would be 4\S played by North.
+Loser List: \S = 0 : \H = 1 : \D = 0 : \C = 1 :: Total = 2
 
-South plays 4\S. West leads the \CT. East wins the \CA. They continue  \Cs and you ruff the third one in dummy.
+A very simple Plan would be for you to pull trumps and then guess who holds the \CQ. Simple, but putting your slam on a 50% chance isn't very satisfying. 
 
-Loser List: \S = 0 : \H = 0 : \D = 1 : \C = 2 :: Total = 3
+How about an elimination play instead? Win the \HA. Then play to dummy's \SK. West shows out and you must temporarily stop drawing trumps. 
 
-Those losers are based on dummy's hand, not yours. You can figure them either way but it is usually easier to determine losers based on the long-trump hand. It's important to remember it in this Deal because the zero losers in \Hs assumes you will ruff a \H in your hand. 
+For the elimination play to work you must strip \Ds from both hands. So play both the \D A K, then ruff a \D with the \SQ. Pull trumps with your \S A J, then ruff the last \D in dummy.
 
-Pull one round of trumps with dummy's \SK. Both defenders follow suit. Play the \HA, then \H6 to dummy's \HK. On this trick West follows with the \H10.  
+The work is done. Just play a \H. Whichever defender wins must either play a \C into your split tenaces, or play a red card and give you a ruff/sluff.
 
-The Plan is still the same, you will ruff the \H in your hand, but you better be sure to ruff with your \SA. Aha! Your precaution pays off when West shows out of \Hs, but of course he cannot over-ruff your \SA.
+This is the complete Deal.
 
-A very good Bridge maxim is this:When you are ruffing, ruff with as high a trump as you can afford.
+If you knew who held the \CQ then you wouldn't have to learn Elimination plays.
 
-Here, with only 2 trumps left out, you can afford the \SA.}
-[Play "W"]CT
+These are the hands after the trumps have been pulled and \Ds eliminated from both North and South.
+
+You now play the \H, eliminating that suit from both hands. Whichever defender wins the trick must either play another \H and give you a ruff/sluff, or play a \C and give you a free finesse. Either way you will make the slam.}
+[Play "W"]HQ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQ.AJ32.942.AK3 864.QT9.KJ5.QT72 J2.654.A8763.965 T9753.K87.QT.J84"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "3898f97309d6172df329f06c6f826590cd74cbe777f678b5dddd1a76bd2806f9"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{Partner has 20 or 21 points, balanced, and you have 6. You bid 3NT, hoping partner has \D K Q x.
+
+The contract would be 3NT played by North.
+
+South plays 3NT. West leads the \C2 and East plays the \CJ.
+
+Question 1: Do you hold up?
+
+Winner List: \S = 3 : \H = 1 : \D = 1 : \C = 2 :: Total = 7
+
+The lead of the \C2 tells you that West has only a 4-card suit, so there is no need to hold up. In fact if you did hold up East might play an unwelcome \H back.
+
+Your best bet is going to be the \D suit, but dummy isn't exactly loaded with entries. How will you manage it? 
+
+When entries are really scarce the best approach is ducking. Win the \CK and play a low \D from both hands. A defender will win this and probably continue with a \C. 
+
+Stick to the plan. Win the \CA and again play small \Ds from both hands, relaxing when both defenders follow suit to the second \D.
+
+They can now cash their 2 \Cs, and you had to give them 2 \Ds. But that's the only tricks they will get. Dummy's 3 \Ds are good and you still have a \D in your hand to get there.
+
+When dummy has a long suit with no outside entries, always consider using a duck to make up for the lack of entries.
+
+In this case it was a double-duck.}
+[Play "W"]C2
 

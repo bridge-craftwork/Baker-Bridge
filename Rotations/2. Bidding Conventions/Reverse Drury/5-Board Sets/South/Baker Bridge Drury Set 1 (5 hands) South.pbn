@@ -32,7 +32,7 @@ Partner's 2\H rebid tells you that he opened light. So you pass.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:Q874.A53.KQ3.T82 63.T762.AT8.KQ74 AKJ95.Q94.76.965 T2.KJ8.J9542.AJ3"]
@@ -42,7 +42,7 @@ Partner's 2\H rebid tells you that he opened light. So you pass.}
 [Auction "N"]
 pass pass 1S pass 2C pass 2S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "f58f0c9b827448ab9fa94bfa9c972d17074d2982cd2bdf2cb9eb348a661aced6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -57,9 +57,9 @@ Partner passes.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "N"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "N:QJT7.A4.KT953.94 83.QJ962.876.QJ3 AK952.K83.QJ.752 64.T75.A42.AKT86"]
 [Declarer "S"]
 [Contract "4S"]
@@ -67,4 +67,63 @@ Partner passes.}
 [Auction "N"]
 pass pass 1S pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "976be0b0ad17df44f5533943b92a6b59454f604ce50111db16170c61fcfbf9a6"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/reverse_drury"]
+[Student "S"]
+{Bold bidders might have opened with this hand, so when partner opens in third seat you naturally want to show your strength. If you play Reverse Drury there is only one way to do that, so you bid 2\C.
+
+Partner rebids 2\D. What do you say next? 
+
+The 2\D rebid shows a hand that partner would have opened in any position. So here it gets a little ambiguous. Surely a jump to 3\S would be forcing, but to keep the possibility of misunderstandings low a jump to 4\S is no doubt safer. After all, you can revalue your hand up to 13 points in support of \Ss.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A94.AJ7.KT83.T82 QT3.954.42.QJ643 752.KQT63.QJ9.A7 KJ86.82.A765.K95"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "N"]
+pass pass 1H pass 2C pass 2D pass 3H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "0c55e593a3cc3ace4a1d52fb1c47a8116e17d6d448b037fb66d1833d30173c8b"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/reverse_drury"]
+[Student "S"]
+{You open in third seat and the bidding continues as shown.  
+
+Partner has a limit raise in \Hs and wonders if you have a full strength opening bid. Your 13 point hand qualifies as a decent opening bid, but certainly not enough extra to just jump to game. You bid 2\D, confirming the legitimate opener. Partner jumps to 3\H.  
+
+Partner shows a maximum limit-raise with his jump, so you bid the game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:7.Q9864.T743.K83 K9652.7.KQ6.QT96 Q84.AKJ53.82.A74 AJT3.T2.AJ95.J52"]
+[Declarer "S"]
+[Contract "3H"]
+[Result ""]
+[Auction "N"]
+pass pass 1H pass 3H pass pass pass
+[BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ebae8578c44abf7c0e2e2ed253e21f5eaf88b0050fc0af71f6f2984d72ee6076"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/reverse_drury"]
+[Student "S"]
+{You like partner's \H suit but you have very little defensive strength. This is a good hand to preempt the bidding, trying to keep them from finding a \S fit.
+
+So you jump to 3\H. Partner realizes you don't have any strength since you did not invoke Reverse Drury. He passes and you have bought the contract. It appears that their side might be able to make 4\S.}
+

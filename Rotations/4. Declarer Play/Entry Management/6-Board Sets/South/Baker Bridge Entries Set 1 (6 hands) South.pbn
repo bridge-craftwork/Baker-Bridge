@@ -44,7 +44,7 @@ Making a plan before they play to the first trick is one of the strengths of win
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:765.62.QJ9.JT985 QT83.QJ97.74.A62 AJ4.AK54.A63.KQ3 K92.T83.KT852.74"]
@@ -54,7 +54,7 @@ Making a plan before they play to the first trick is one of the strengths of win
 [Auction "N"]
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "b2f794bbde1b62e08090381bdda05b25952b222908f54ccdf4bc7f34b08c5bc2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -82,7 +82,7 @@ But look carefully at the \D situation. You are going to get exactly two \D tric
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:AK4.KJ954.AT.A62 Q9862.A8.K42.985 75.63.QJ9873.QJ3 JT3.QT72.65.KT74"]
@@ -92,7 +92,7 @@ But look carefully at the \D situation. You are going to get exactly two \D tric
 [Auction "N"]
 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [BoardVersionToken "438852c25b36364a1ebcc0271a8cd42cc7aa9e86be2d5cb5e5d0a904f2ea0092"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -112,4 +112,108 @@ Not quite, there is one more hurdle to hurdle. You must put all thought of a \D 
 
 Once again notice that playing the \CA at trick one doesn't cost a thing, you get two \C tricks however you play it.}
 [Play "W"]C4
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQJ7.KQJ985.8.62 T2.T2.Q964.AKQ83 863.A743.J73.J94 K954.6.AKT52.T75"]
+[Declarer "S"]
+[Contract "4H"]
+[Result ""]
+[Auction "S"]
+1H pass 2H pass 4H pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "eef2ceb492a6bc52c512c978ce0457c6f14ed3385d05605977924bd7e89ffb2c"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
+{South is to play 4\H. West leads the \CA, \C K, \CQ.
+
+Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
+
+There is nothing to be done about the 2 \Cs you've already lost, and the \D loser is also inescapable. So you cannot afford a \S loser which means you will have to find the \SK with East and finesse him out of it.
+
+That won't be a problem, will it?
+
+No, no problem. You will probably have to finesse twice so you will need two dummy entries, but the trump suit will provide both of those, the \HA and \H7, as long as you saved your \H5 for the second entry. Wait a minute, you surely didn't ruff that \C with your \H5 did you? Surely you ruffed with the \H8?
+
+So, you ruffed the \C with the \H8, pulled one round of trumps with the \HK, pulled the last trump by playing \H9 to \HA and finessed the \S. Then \H5 to \H7, finesse the \S a second time. Play \SA and ruff the fourth \S in dummy.
+
+If you ruffed with the \H8 that is a good sign. But remember, this is the fourth Deal of a set where you are watching entries carefully.
+
+Ask yourself if you would have done the correct thing at the table, say playing for the Bermuda Bowl championship.}
+[Play "W"]CA
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:A6.AK2.AQ73.Q875 QT8.JT53.K92.JT3 743.976.85.AK642 KJ952.Q84.JT64.9"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1D pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "a09196dbcc3807d38692eaca4d776603578e49c6864729358e2a9d4c2077fcf2"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
+{South is to play 3NT. West leads the \S5. 
+
+Winners:   \S=1  \H=2  \D=1  \C=5  Total = 9
+
+Wow! The winners add up to 9 already. We have assumed that \Cs will split no worse than 3-1, which is exactly how they do split. Is there any other pitfall you might need to worry about?
+
+Just one minor problem. The \Cs will block if you are not careful! So you win the \SA, then play dummy's \CQ. Next you play dummy's \C8 to your \CK. Then your \CA on which you put dummy's \C7. Aha! Now when you play your \C6 you will be able to keep the lead.
+
+If the \C5 and \C6 were swapped around the contract could not be made.
+
+As they are, though, the contract is cold. But only if you are a good bridge player!}
+[Play "W"]S5
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AQ9.A753.AJ64.AK 63.JT982.QT2.974 KJ4.Q6.853.JT632 T8752.K4.K97.Q85"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1af76f1cd66b5571aa9b5bd23b1006feb2bc1b1d30c19621a1d32bbecb03b7a3"]
+[Category "Declarer Play"]
+[Difficulty "intermediate"]
+[SkillPath "declarer_play/entry_management"]
+[Student "S"]
+{South is to play 3NT. West leads the \S5. 
+
+Winners:   \S=3  \H=1  \D=1  \C=2  Total = 7
+
+Needing two winners you will naturally consider your 5-card \C suit. After unblocking the \C A K you will need two entries to your hand; one to lead the \CJ and drive out the \CQ, then a second to enjoy your good \Cs.
+
+The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?
+
+No, for two reasons. Firstly the \HQ only gives you a 50% chance of being an entry. But more importantly, you already have your two sure entries in \Ss. As long as you take the first trick with dummy's \SA both your \SK and  \SJ can be entries.
+
+Win the \SA. Play off dummy's \C A K. Lead the \S9 to your \SJ. Play your \CJ (and another one if necessary) to establish the \C suit. Win whatever red card they play next with dummy's Ace. Play the \SQ to your \SK and cash your established ! C(s). Dummy's other red Ace will be your ninth trick.
+
+The more you make a point of looking for entries the easier they are to find.
+
+You'd have to be very careless to miss this one.}
+[Play "W"]S5
 

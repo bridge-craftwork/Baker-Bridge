@@ -8,56 +8,106 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:AJ87.AK.A86.AKQJ K54.JT6.743.T764 Q62.9753.Q52.953 T93.Q842.KJT9.82"]
+[Deal "S:KQ86.AKJ2.AKQ.86 95.T53.T7653.KT2 AJT72.987.82.Q53 43.Q64.J94.AJ974"]
 [Declarer "N"]
-[Contract "3NT"]
+[Contract "4S"]
 [Result ""]
-[Auction "N"]
-2C pass 2D pass 3NT pass pass pass
+[Auction "S"]
+2C pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "889efab8458a4b157fd9046afcf2118d2e06991be3f67f90165807fdf80d9b9a"]
+[RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "96b4eb44cf5ab66245fb301976ffefa19cdcc59a957c7ce68a4124b403010d6f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{NORTH has lots of points - 26 to be exact. She opens 2\C. 
-In the old days this hand would have been opened 3NT.
+{SOUTH has a minimum 2\C opening.
 
-SOUTH has 4 points and responds 2\D.
+NORTH, with 8 points and a 5-card suit, should make a positive response, 2\S.
 
-NORTH now shows her full strength by jumping to 3NT (25-27 points, balanced).
+SOUTH shows the \S support first, to set the trump suit, and to give NORTH an opportunity 
+for a move toward slam if he wants to do so.
 
-SOUTH knows there is no slam, so he passes 3NT.}
+NORTH would now make a Control-showing bid IF HE HAD A CONTROL. Since he doesn't he just returns 
+to 4\S which SOUTH passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AQ9.AK2.A83.AJ74 42.T943.QJ2.KQT2 K63.Q85.K764.953 JT875.J76.T95.86"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "93e6c837f3d3a3f997ab1d2c8bc0c709e98ea4668e2fda4e5771100e8fc060e7"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH, with 22 points and balanced, opens 2\C, expecting to rebid 2NT.
+
+But SOUTH responds a positive 2NT, showing a balanced hand with 8 or more points.
+
+NORTH bids what his hand is worth, 3NT and SOUTH passes.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "None"]
-[Deal "S:A73.AKQ862.86.AK QT985.93.KT53.Q4 642.754.J72.8653 KJ.JT.AQ94.JT972"]
-[Declarer "S"]
-[Contract "3H"]
+[Deal "N:AK9.AJ82.A6.AK93 654.9643.QJ9.J76 QJ72.QT75.72.854 T83.K.KT8543.QT2"]
+[Declarer "N"]
+[Contract "4H"]
 [Result ""]
-[Auction "S"]
-2C pass 2D pass 2H pass 3C pass 3H pass pass pass
+[Auction "N"]
+2C pass 2D pass 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "09de171f43d5af99dc7ab4e6ee5daeb0443b06ee8a5f16dd60f89a90bf17fe81"]
+[RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e0b5e6cd97604cb1266dd1a7216c70ebbbc60760b553d6080d9fd3b75f2504a9"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{SOUTH has 22 points and opens 2\C.
+{NORTH opens 2\C and SOUTH responds 2\D showing fewer than 8 points.
 
-NORTH is pretty weak, right? She responds 2\D.
+NORTH bids 2NT with a 23 point balanced hand.
 
-SOUTH bids his suit, 2\H.
+SOUTH has enough points to bid 3NT, but with two 4-card Major suits bids 3\C Stayman instead. NORTH 
+won't confuse this as the second negative since that bid isn't used after a 2NT rebid.
 
-NORTH is so weak she bids the second negative - 3\C.
+So NORTH shows her 4-card \H suit and SOUTH bids 4\H.}
 
-SOUTH rebids his suit, 3\H, and NORTH passes.}
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:AK9.AK2.A83.AQ74 542.JT976.2.T852 Q63.Q85.K764.KJ3 JT87.43.QJT95.96"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "N"]
+2C pass 2NT pass 3NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "01e0efa7c03115794b8c383918d9d0158afb2523347b2260890a83502d244f61"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH has a balanced hand with 11 points, so she responds 2NT to NORTH's 2\C opening bid.
+
+NORTH bids 3NT. This shows 22-24 points, a hand he was planning to rebid 2NT.
+
+SOUTH knows the side has at least 33 points, but no more than 35 so she bids 6NT.}
 

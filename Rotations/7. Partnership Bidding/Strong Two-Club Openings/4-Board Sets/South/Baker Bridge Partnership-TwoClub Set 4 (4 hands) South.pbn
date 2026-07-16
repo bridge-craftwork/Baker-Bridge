@@ -8,55 +8,110 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
-[Deal "N:AK63.AK82.KQJ.KQ Q95.63.T87.AJT92 42.QJ975.A52.753 JT87.T4.9643.864"]
+[Deal "S:AKQ86.AKT82.A.86 J95.J4.JT853.JT4 72.9753.Q742.Q93 T43.Q6.K96.AK752"]
 [Declarer "S"]
-[Contract "6H"]
+[Contract "4H"]
 [Result ""]
-[Auction "N"]
-2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
+[Auction "S"]
+2C pass 2D pass 2S pass 2NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
+[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "0215a4acae5ab4042ee3fab09dc7b44ec2d878196d686e4155ebc9f80cd8168b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{NORTH has a nice 2\C opening hand.
+{SOUTH has both Majors and enough points to open 2\C. 
+NORTH, with 4 points, responds with a negative 2\D.
 
-With 8 points, SOUTH can make a positive response so he bids his 5-card \Hsuit.
+SOUTH first bids her higher ranking suit, 2\S. 
+NORTH is too strong for second negative, he bids 2NT.
 
-NORTH likes \Hs, knows there are at least 33 points, but needs to make 
-sure the opponents don't have two Aces so she uses Blackwood.
+SOUTH now shows her second suit, 3\H.
 
-When SOUTH shows one Ace NORTH bids 6\H.}
+NORTH is happy to bid the game in \Hs.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AQ2.AKQ5.K75.KQT T54.T3.T92.A9875 K73.982.AQJ86.J2 J986.J764.43.643"]
+[Declarer "S"]
+[Contract "6NT"]
+[Result ""]
+[Auction "S"]
+2C pass 3D pass 3NT pass 6NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "11402e192ced18415a448527e4e2b4907ee7c1d55241f6a75d8b3d7ba7428459"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{SOUTH has a balanced hand with 23 points. He opens 2\C and expects to rebid 2NT.
+
+NORTH has 12 points so makes a positive response in her best suit. Since that suit is 
+\Ds she must jump to the 3-level. 
+
+SOUTH now describes his balanced, minimum hand by bidding 3NT.
+
+NORTH bids 6NT, knowing that the partnership holds at least 34 points.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
-[Deal "N:KQT2.AQJT5.AK2.K 74.84.9843.QT965 AJ983.K72.6.A874 65.963.QJT75.J32"]
+[Deal "S:K6.AKQJ2.KQJ.KQJ 43.43.A9643.9762 AT972.975.852.A3 QJ85.T86.T7.T854"]
 [Declarer "S"]
-[Contract "7S"]
+[Contract "6H"]
 [Result ""]
-[Auction "N"]
-2C pass 2S pass 3S pass 4C pass 4D pass 4NT pass 5S pass 7S all pass pass pass
+[Auction "S"]
+2C pass 2S pass 3H pass 4H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
+[BoardVersionToken "6b5c4cfd3b78b0abf85792daf4a9070e16b3763025ce166432c1e252478766c3"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
-{NORTH opens 2\C and is pleased when SOUTH makes a positive response of 2\S. 
-His first step is to set the trump suit by bidding 3\S. There is NO chance that SOUTH will pass.
+{NORTH, with 9 points and a 5-card suit, should make a positive response, 2\S.
 
-SOUTH now bids 4\C a Control-showing bid. 
-NORTH continues Control-showing with 4\D.
+SOUTH bids her \Hs and NORTH agrees the trump suit with a 
+4\H bid.
 
-That's enough for SOUTH to hear. She invokes Blackwood and learning they have all the Aces 
-bids 7\S.}
+SOUTH thinks there is a slam, so she invokes Blackwood. Hearing that NORTH holds two Aces she bids 
+6NT. She could also have bid 6\H but 6NT scores a little more.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AKQT3.AK6.86.AQ4 875.QJT4.Q54.T85 J42.8752.J72.K63 96.93.AKT93.J972"]
+[Declarer "S"]
+[Contract "4S"]
+[Result ""]
+[Auction "S"]
+2C pass 2D pass 2S pass 3S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "1097c38bc165438c9be861a2d0e3ee36b7aae114a74e03fc1ca6ce4d46cc24f0"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/two_club"]
+[Student "S"]
+{NORTH has 5 points, so she responds 2\D to SOUTH's opening 2\C bid.
+
+SOUTH bids his 5-card \S suit.
+
+NORTH is too good for the second negative, so she supports SOUTH's \S.
+
+SOUTH doesn't have enough to think about slam, so he signs off at 4\S.}
 

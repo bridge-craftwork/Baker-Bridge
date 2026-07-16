@@ -31,9 +31,9 @@ It is far too risky to play for that possibility. So you just pass.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:KQJ5.T63.AQ9.KQT 98763.K72.KJ4.J2 A4.AJ98.T872.865 T2.Q54.653.A9743"]
 [Declarer "E"]
 [Contract "3NT"]
@@ -41,7 +41,7 @@ It is far too risky to play for that possibility. So you just pass.}
 [Auction "E"]
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
 [BoardVersionToken "0b8294a91c4db35f5cb9eb035d9c10ac9f07731cd7b7986937b91537c1b8f089"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
@@ -58,9 +58,9 @@ He has a maximum and he bids 3NT.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "S:A983.AK5.A95.J94 75.J832.742.AT65 KQT6.964.KJT8.73 J42.QT7.Q63.KQ82"]
 [Declarer "S"]
 [Contract "4S"]
@@ -68,4 +68,69 @@ He has a maximum and he bids 3NT.}
 [Auction "S"]
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "d8cdb2d1c2fcc00eb8bde429d6cfecf2f9007d884b72e691d19bb4e01286f652"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{South opens 1NT.  
+
+Of course you bid 2\C. Partner now bids 2\S. What is your next bid? 
+
+Partner hit your suit. When you add a point for your doubleton \C you are up to 10 points. This is the situation where you have to use your judgement, either to invite or to bid the game yourself.
+
+There is really no right or wrong here, between 3\S and 4\S. Those extra 10's and 9's swing you to 4\S. As you see it will be a close call, but even if you misguess the \D finesse you will still establish a \D winner for a discard.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:965.A9.AQT5.KQ86 Q8.876.J94.A9543 AJT4.KQJ5.863.J7 K732.T432.K72.T2"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1NT pass 2C pass 2D pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "718af101ecd307d64c1e68eaf2b83b76b1368a63a2eef8e429e001b81cd24f5c"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{West opens 1NT.  
+
+Both Majors! Lucky you. So you bid a Stayman 2\C. Unfortunately partner comes back with 2\D. What is your next bid? 
+
+Partner doesn't have a 4-card Major so your side doesn't have an 8-card Major fit. Therefore you will play in notrump. And with your 12 points you <b>MUST</b> play in game. So you bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T982.KQ6.A94.AK5 A74.972.JT65.QJ7 KQJ3.AJ5.72.9843 65.T843.KQ83.T62"]
+[Declarer "N"]
+[Contract "4S"]
+[Result ""]
+[Auction "N"]
+1NT pass 2C pass 2S pass 4S pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "79dd3098553afc8ecb322e74fdc915fb4d3028f0ec130c30d2dba5a76d6fb00c"]
+[Category "Bidding Conventions"]
+[Difficulty "beginner"]
+[SkillPath "bidding_conventions/stayman"]
+[Student "S"]
+{North opens 1NT.  
+
+With 11 points and a 4-card Major suit you bid 2\C. Partner answers 2\S. What is your next bid? 
+
+Stayman bidding can be very straightforward. Partner has 4 \Ss, you have 4 \Ss. That makes 8. Partner has 15-17 points, you have 11-12 points. That makes 26-29.
+
+You bid 4\S.}
+

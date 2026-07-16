@@ -32,9 +32,9 @@ so he bids 3NT.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:QT.KQ93.A52.AT86 A63.A72.JT96.QJ3 KJ8754.86.KQ3.72 92.JT54.874.K954"]
 [Declarer "E"]
 [Contract "4S"]
@@ -42,7 +42,7 @@ so he bids 3NT.}
 [Auction "E"]
 1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [BoardVersionToken "2c7eaaa8410fbe6e0413a3374bb9c37bffdaa1e168b5b1fb1e8b885962102b2b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -58,9 +58,9 @@ closes the auction with EAST as Declarer.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "S:K75.Q93.K75.AKJ3 A82.82.QT94.9852 643.AKJ765.82.Q7 QJT9.T4.AJ63.T64"]
 [Declarer "S"]
 [Contract "4H"]
@@ -68,4 +68,70 @@ closes the auction with EAST as Declarer.}
 [Auction "S"]
 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "692a30271fae12c6785243e963c862ca33d8ed13bed40b25c4bc9bfd98e71dea"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{NORTH knows the partnership has a fit in \Hs since SOUTH 
+must have at least a doubleton. He also knows the partnership holds at least 27 points.
+
+He prefers SOUTH be the Declarer, (to protect against 
+the opening lead), so he uses a Jacoby Transfer.
+
+The contract might go down if played by NORTH, but is odds on when played by SOUTH.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK65.AT4.QJ97.K8 T842.932.A6.AQ62 73.KQ86.K42.JT95 QJ9.J75.T853.743"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "754f7a5cf9d5ff65498e0df99bf0ee58d1580e8b5afe4a28ade5e3dddbec9c62"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{EAST, with 9 points and a 4-card \H suit is just strong 
+enough to use Stayman.
+
+WEST shows 4 \Ss and EAST describes her minimum hand with no \S fit by bidding 2NT.
+
+WEST has a maximum 1NT opening and bids 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KJ4.QT.KQJ6.A973 Q6532.762.93.Q42 A9.AJ983.752.J86 T87.K54.AT84.KT5"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "N"]
+1NT pass 2D pass 2H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "b97795102209d284ed4a901b12071f18bccccccd444fa4088d4963f958deaddb"]
+[Category "Partnership Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "partnership_bidding/stayman_transfers"]
+[Student "S"]
+{SOUTH has 11 points and five \Hs, so she responds 
+2\D as a Jacoby Transfer.
+
+When NORTH bids the required 2\H, SOUTH jumps to 3NT 
+to show at least 11 points, but only a 5-card \H suit.
+
+Since NORTH has only a doubleton \H she passes 3NT.}
+

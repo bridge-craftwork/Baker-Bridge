@@ -32,9 +32,9 @@ Partner tells you he has 3 \Hs. You bid the \H game.}
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "3"]
+[Board "2"]
 [Dealer "E"]
-[Vulnerable "EW"]
+[Vulnerable "NS"]
 [Deal "E:Q986.82.AK74.AT4 JT4.754.J32.QJ87 K72.AJT93.Q6.953 A53.KQ6.T985.K62"]
 [Declarer "E"]
 [Contract "2NT"]
@@ -42,7 +42,7 @@ Partner tells you he has 3 \Hs. You bid the \H game.}
 [Auction "E"]
 1D pass 1H pass 1S pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [BoardVersionToken "5548be9e31b215a40f01d1e6a2a5086b52c6d5621ca5f0c48630c039322f88aa"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -57,9 +57,9 @@ This is Fourth Suit Forcing and partner may or may not have a \C suit. You do no
 [Event ""]
 [Site ""]
 [Date ""]
-[Board "5"]
+[Board "3"]
 [Dealer "S"]
-[Vulnerable "NS"]
+[Vulnerable "EW"]
 [Deal "S:KQ92.T6.AJ5.K954 JT87.7.KQ8743.T8 A5.KQ982.T96.A63 643.AJ543.2.QJ72"]
 [Declarer "S"]
 [Contract "3NT"]
@@ -67,4 +67,67 @@ This is Fourth Suit Forcing and partner may or may not have a \C suit. You do no
 [Auction "S"]
 1C pass 1H pass 1S pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "da29f677d285036671e70d96696f4387d39973bdd7bb8b4117c80bcdadb829e8"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/fourth_suit_forcing"]
+[Student "S"]
+{With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\H. Partner rebids 1\S.  
+
+Partner shows nothing extra. All you know now is that he doesn't have 4 \Hs. You know you want to be in game, but you aren't sure which game. If partner has 3 \Hs then 4\H would be good. If not though, 3NT would be good if he has a \D stopper. The way to find out what he has is with Fourth Suit Forcing. So you bid 2\D. Partner answers with 2NT.  
+
+Partner does not have 3 \Hs, but he does have \Ds stopped. So you bid 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:6.AJT.QT954.AQ73 J93.KQ75.87.T652 AK752.863.AK.984 QT84.942.J632.KJ"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1D pass 1S pass 2C pass 2H pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "c1b7640fba17416089f8d971b6c0cdc721a66b37db288977fa3e99d7c866af3d"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/fourth_suit_forcing"]
+[Student "S"]
+{You open your 5-card suit, 1\D. Partner responds 1\S.  
+
+You might bid 1NT, but since you have a singleton you prefer to say 2\C.
+
+Partner bids 2\H.  
+
+This is Fourth Suit Forcing and partner is fishing for more information. You certainly don't have 3 of his \Ss so that is out. On the other hand, you have a double stopper in \Hs, so with 14 points you go right to 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "5"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:Q4.AT864.83.AK82 A983.K72.A6.T953 KJT7.QJ.KQJ9.J76 652.953.T7542.Q4"]
+[Declarer "N"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1H pass 1S pass 2C pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "5479dbcb9a23eed183e3264d8b5fd955358ff439e4fe5a6a5c06af3979a024f4"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/fourth_suit_forcing"]
+[Student "S"]
+{You show your 4-card Major. Bid 1\S. Partner rebids 2\C. What do you say next? 
+
+You have a nice \D suit but don't bid it now. That would be FSF and partner would assume you didn't have a \D stopper. 
+
+With 13 points, bid what you expect to make, 3NT. Partner passes.}
+

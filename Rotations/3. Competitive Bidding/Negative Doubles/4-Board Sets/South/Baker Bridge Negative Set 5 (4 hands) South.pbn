@@ -8,47 +8,97 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "N"]
+[Dealer "E"]
 [Vulnerable "None"]
-[Deal "N:63.AQ.AKQT84.KT4 AQJ75.864.2.AQ76 KT84.KJ72.73.J95 92.T953.J965.832"]
+[Deal "E:8.AK764.QJT84.A8 JT64.Q.AK9652.KT AKQ5.53.73.J9632 9732.JT982..Q754"]
 [Declarer "S"]
-[Contract "3NT"]
+[Contract "2D"]
 [Result ""]
-[Auction "N"]
-1D 1S X pass 2S pass 3NT pass pass pass
+[Auction "E"]
+1H 2D X pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "52324c4eb4303bb721ef7d990ebaef61321c07a7e383085382812811cac01530"]
+[RotationNote "Board 1, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "fa23944fee4069d18533262f3447f35d0e71832b9dbe4624ab97e4300f0bdbd7"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-You have a very good hand but only 2 of partner's \H suit. You are actually too strong to just jump in \Ds so you cue-bid the opponent's suit. Partner now bids 3NT which you pass.}
+Partner has 10+ points, a \S suit and fewer than 3 \Hs. Doesn't this look like the perfect hand to pass for penalties? Yes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:K87.T53.AQT.AT93 Q.974.K8754.QJ52 AT96.KQJ6.932.K8 J5432.A82.J6.764"]
+[Declarer "S"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1C 1D X pass 1NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
+[BoardVersionToken "ac030e6e78ab3f5c8bd2fda01097e4afe61e45b38d9f9e61e929796b1f2cbc9a"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+This is one of the nicer parts of Negative Doubles. When the bidding is 1\C - 1\D, a double by you promises both Majors. It's like you are allowed to bid both suits at once, 1\S\H. So you double and partner says 1NT.  
+
+Partner doesn't have 4 of either Major. But he does have 13 points and \Ds stopped. You also have 13 points so you bid 3NT.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "S"]
+[Dealer "N"]
 [Vulnerable "EW"]
-[Deal "S:Q3.AKQ872.872.75 AKJ965.JT4.5.KQ2 T82.93.KQ94.AJ96 74.65.AJT63.T843"]
+[Deal "N:J73.53.KQJT4.AJ6 A52.KJ942.2.Q985 KQT94.A86.95.KT4 86.QT7.A8763.732"]
 [Declarer "S"]
-[Contract "2H"]
+[Contract "4S"]
 [Result ""]
-[Auction "S"]
-1H 1S X pass 2H pass pass pass
+[Auction "N"]
+1D 1H 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a66626ce21641991c720dd5120b5ed0e3b92bdc2481fe5903dcf66c2766c3202"]
+[BoardVersionToken "5843830dce8eaf0418f2ffe4e69036162b1533881f9370b073e95e48979a978e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
 [Student "S"]
 {The bidding has been as shown.   
 
-Ahhh, a perfect Negative Double. Both Majors have been bid and you have 4 cards in each Minor. So you double. Partner bids 2\H. What do you say next? 
+It is the sign of a novice to support responder's 1-level response with only 3 of the suit. Very often he will have responded in a 4-card suit and you end up playing in a 7-card fit.
 
-Well let's see. Partner shows no interest in your two Minors or notrump. And he has 6 \Hs and a minimum hand. He wants to play it at 2\H so you pass and let him.}
+But that is not the case here. If partner had only 4 \Ss he would not have bid the suit, he would have made a Negative Double. Since his \S bid promises 5 it is quite correct for you to support with only 3. So you raise to 2\S and partner bids the game.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "E"]
+[Vulnerable "All"]
+[Deal "E:AK75.A983.K86.95 Q.K.QJT94.AJ7432 963.T52.A2.KQT86 JT842.QJ764.753."]
+[Declarer "S"]
+[Contract "2C"]
+[Result ""]
+[Auction "E"]
+1D 2C pass pass X pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: S, chBasis: E, basisKind:Declarer, nOption:2, nBasis: 1, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "1fe6ae02af8b4ec8126ffe83cc1c91102606052efd50c7657d3213754528c415"]
+[Category "Competitive Bidding"]
+[Difficulty "intermediate"]
+[SkillPath "competitive_bidding/negative_doubles"]
+[Student "S"]
+{The bidding has been as shown.   
+
+First let's agree on what you <b>DON'T</b> say. You don't say "double" because that would a Negative Double showing at least one 4-card Major. You don't support partner's \Ds with just two of them. You probably don't bid 1NT with no honor in either Major. So you pass. This is called a "Trap Pass". Partner re-opens with a double.  
+
+Now you see why it's called a "Trap Pass". When an overcall is followed by two passes Opener should try to find another bid. In particular he should try to double for takeout if he can. That's what East did here, but you converted it to a Penalty Double by passing.}
 

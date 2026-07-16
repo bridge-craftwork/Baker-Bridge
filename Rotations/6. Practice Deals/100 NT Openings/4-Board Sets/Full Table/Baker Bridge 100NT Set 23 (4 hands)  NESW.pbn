@@ -10,83 +10,171 @@
 [Board "1"]
 [Dealer "N"]
 [Vulnerable "None"]
-[Deal "N:J97.A5.AKJT3.AK6 KQT4.9862.54.853 A63.KQ73.Q87.J72 852.JT4.962.QT94"]
+[Deal "N:963.AK2.A43.A752 Q8.JT984.K872.QT A7542.653.T65.84 KJT.Q7.QJ9.KJ963"]
 [Declarer "N"]
-[Contract "6NT"]
+[Contract "1NT"]
 [Result ""]
 [Auction "N"]
-2NT pass 4NT pass 6NT pass pass pass
+1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f1107d8a797de91157902507f0879a4dd76f582c57068cdcd3232ce1ec1f7ffd"]
+[BoardVersionToken "f878fde463643e74c1a0871a9adb4854b08e4ed7b662442b217d41c5e6ee8472"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Because of his 3-4-3-3 distribution, partner chose not to look for a \H fit. If he had opted for Stayman the contract would have turned out the same. The 4NT response is quantitative, inviting you to bid 6NT if you have a maximum.
+{Here is the question. Is 2\S a better contract than 1NT? If so, you should transfer partner, then pass. If not, you should just pass now. With just a 5-card suit, and with no singleton, pass is probably better.
 
-You do. 6NT.
+The contract would be 1NT played by South.
 
-North plays 6NT. East leads the \SK. You will have to make an early decision on whether to hold up or not.
+North plays 1NT. East leads the \HJ and West plays the \HQ.
 
-Winner List: \S = 1 : \H = 3 : \D = 5 : \C = 2 :: Total = 11
+Do you hold up or not?
 
-Only one more winner is needed. You should play a low \S from dummy in the hope that East will lead the suit again, giving you a trick with your \SJ (you know East holds \SQ). In fact, you should even give him some incentive to play another \S by dropping your \S9, pretending to hold just the \S J 9. But East noticed his partner's discouraging \S2 and switched to the \C8. 
+Winner List: \S = 1 : \H = 2 : \D = 1 : \C = 1 :: Total = 5
 
-You try the \CJ but West plays the \CQ and you have to win with your \CK. 
+Outside \Ss you have 6 combined cards in each suit, so you must assume that you aren't any worse off in \Hs than in one of the minors. And, in \Hs you have 2 stops. So don't hold up.
 
-Your chances for success are slipping away and you are down to your last hope. Your \SJ is a threat that only East can guard against. If East also is the defender with long \Hs then he would also have to guard dummy's fourth \H. In that case you could squeeze him. But there is one important play you must make for the squeeze to function. 
+You need 2 additional \S winners, but dummy has but one entry. So? 
 
-You must play dummy's \SA to unblock so your \SJ can be the threat you need. Then play the \HA, \CA and 5 \D winners. 
+So you must duck twice. Win the \HK and play a low \S from each hand. A defender will win and probably continue \Hs.
 
-If East has thrown the \SQ you win your \SJ and dummy's two high \Hs. But since he probably held onto the \SQ you just play a \H to dummy and hope all three \Hs are winners.
+Win the \HA and play another low \S from each hand. East wins and cashes 3 \Hs. He then plays the \CQ. 
 
-Since East had to guard both the \Hs and your \SJ, he was unable to do both, and the squeeze worked.
+You win the \CA and take the \DA and the 3 good \Ss in dummy. The 4 high cards from your hand plus the 3 \S tricks from dummy add up to 7. Hallelujah.
 
-You were lucky it wasn't West with the 4 \Hs.}
+They say 1NT is the hardest contract to make. (whoever <b>THEY</b> are).
+
+But since they may be right you need to be on the lookout for ducking plays because one entry in dummy may be all you are going to have.}
+[Play "W"]HJ
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "S"]
+[Vulnerable "NS"]
+[Deal "S:KQJ63.K94.KJT.T5 85.Q65.Q82.A9863 974.JT72.9643.72 AT2.A83.A75.KQJ4"]
+[Declarer "E"]
+[Contract "3NT"]
+[Result ""]
+[Auction "S"]
+1S pass pass 1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
+[BoardVersionToken "c637dbd1fa751d1227783f15f30a830735ed79ba71d41c57dc77a55b3f57028a"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{It is good to be a little bold with your overcalls. But with a suit this tattered and only two outside Queens this is not good enough for a 2-level overcall. So you pass. Then you hear partner say 1NT.  
+
+It is good to be a little bold with your overcalls. But with a suit this tattered and only two outside Queens this is not good enough for a 2-level overcall. So you pass. Then you hear partner say 1NT. 
+
+A 1NT overcall shows 15-18 points and a stopper(s) in their suit. With 9 points you invite with 2NT and partner bids the game.
+
+The contract would be 3NT played by West.
+
+East plays 3NT. South leads the \SK. Do you hold up twice? Or just once? Or not at all?
+
+Winner List: \S = 1 : \H = 1 : \D = 1 : \C = 5 :: Total = 8
+
+You need to find one winner and it seems that it must come from one of dummy's red Queens. You are certain that South has both red Kings for his opening bid, (you and dummy have 26 HCP between you so that only leaves 14). But you also know that South has at least 5 \Ss, so if you lead toward a red Queen South will grab his red King plus 4 \S tricks.
+
+Does that resolve the holdup question for you? 
+
+Yes. You hold up <b>ONCE</b>, and take the \SA at trick 2. Next you play \C K Q J to strip South of that suit. Then play the \ST to throw South into the lead.
+
+He can take his other 3 \S winners, but after that he must lead a red card. Of course you confidently put up dummy's Queen which will be your ninth trick.
+
+Hold ups are designed to disrupt enemy communication.
+
+Here you couldn't afford to hold up twice because then you would not have a throw in card left to put South on lead. 
+
+But you had to hold up on the first trick to make sure North couldn't gain entry in the suit.
+
+By the way, if South had a 6-card suit this plan wouldn't work. But then, no other plan would either.}
 [Play "W"]SK
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "3"]
-[Dealer "E"]
-[Vulnerable "EW"]
-[Deal "E:AKQ4.J83.98.AK62 73.T974.K76542.T J9862.Q2.AQ.8743 T5.AK65.JT3.QJ95"]
-[Declarer "E"]
+[Dealer "S"]
+[Vulnerable "None"]
+[Deal "S:AT85.KQ74.AQJ.KJ J3.J952.K65.A852 K972.6.743.QT743 Q64.AT83.T982.96"]
+[Declarer "S"]
 [Contract "4S"]
 [Result ""]
-[Auction "E"]
-1NT pass 2H pass 3S pass 4S pass pass pass
+[Auction "S"]
+2NT pass 3C pass 3H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
-[RotationNote "Board 3, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "e538c755ee82c9dfb330782489844d1aec6aec0f74900ef2f70a7761d2ea3491"]
+[RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
+[BoardVersionToken "e863c758967e51aae5c4cf9584af411329022a0b9ba20dbff3371aa49d7508bb"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
 [Student "S"]
-{Partner expects you to bid 2\S.
+{When you have 4 cards in both Majors you respond 2\H to a Stayman request. Partner now bids 3NT.   
 
-But your hand has suddenly increased in value - with the known \S fit you add another point for your doubleton and you have 18 points. So you jump to 3\S; this is called a Super-Accept. But so what. Partner just bids the game anyway.
+When you have 4 cards in both Majors you respond 2\H to a Stayman request. Partner now bids 3NT.   
 
-East plays 4\S. South leads the \H10. North plays the \HK, then \HA, then \H5.
+Partner denies having 4 \Hs so he must have 4 \Ss (or he would not have used Stayman). You correct the contract to4\S.
 
-Loser List: \S = 0 : \H = 2 : \D = 1 : \C = 2 :: Total = 5
+South plays 4\S. West leads the \H2. East grabs the opening lead with the \HA and plays the \D10.
 
-You need to eliminate two losers. If South has the \DK a finesse will save one loser. If \Cs split 3-2 that will eliminate one loser. And of course your \HJ is ready to provide an immediate discard. 
+Loser List: \S = 1 : \H = 1 : \D = 1 : \C = 1 :: Total = 4
 
-So what are you going to discard right now on that \HJ? It looks obvious to discard the \DQ; then if the \Cs do split 3-2 (68% chance) you will be home free, losing only two \Hs and one\C. 
+The \S, \H and \C losers are inevitable so you'd better not lose a \D. Even though East has returned a \D it is still possible that he holds the \DK so the finesse has a chance of working. Let's say a 50% chance. Do you take it? 
 
-Throwing the \DQ is a bad idea. And basically unnecessary. If the \Cs are splitting 3-2 you don't need to keep a fourth \C in both hands. So discard a small \C from dummy and keep the \DQ just in case the \Cs turn out 4-1 and you have to fall back on the \D finesse. 
+No, of course not. Not when you have a play that offers almost a 100% chance. Win the \DA, play \SK, \SA, then \H K Q, discarding dummy's 2 \D losers.  
 
-Looking at all four hands you can see why you needed to keep the \DQ.
+With one master trump still out you start on the \Cs, playing first the \CK, then overtake the \CJ with dummy's \CQ. The defense is welcome to take their \CA whenever they want, and they are also welcome to their trump trick. You are so gracious because you have your ten tricks!
 
-After you pull trumps you play the top two \Cs and discover (too late) that you cannot set up a \C winner.
+Half the time the \DK will be with East, and the inferior plan of taking the finesse will work. On those Deals your superior plan shows no payoff.
 
-But what if the \DK was actually with North, and the \Cs were splitting 3-2 all the time?
+But the other 50% of the time West will have the \DK. On those Deals you get your just reward.}
+[Play "W"]H2
 
-In this scenario it is still ok to discard a small \C from dummy.
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AK5.A984.A863.Q5 QJT8.J732.K974.K 73.65.J2.AJ98743 9642.KQT.QT5.T62"]
+[Declarer "W"]
+[Contract "3NT"]
+[Result ""]
+[Auction "W"]
+1NT pass 2NT pass 3NT pass pass pass
+[BCFlags "1f"]
+[RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
+[BoardVersionToken "f6a3decde606fc24c70368da4a90ea7205ecbce22d2021b4aba6d6162a69d15f"]
+[Category "Practice Deals"]
+[Difficulty "mixed"]
+[SkillPath "practice_deals/100_notrump"]
+[Student "S"]
+{You do have 9 points, of a sort anyway. Hoping your \C suit will be of use, you invite with 2NT. Partner says 3NT.
 
-You pull trumps first, then play two top \Cs. When both defenders follow you give up a \C. South wins and plays a \D, but you go up with dummy's \DA, enter your hand with a trump and <b>NOW</b> discard that \DQ on your good \C. }
-[Play "W"]HT
+The contract would be 3NT played by East.
+
+West plays 3NT. North leads the \SQ, South following with the \S2. Do you hold up or not?
+
+Winner List: \S = 2 : \H = 1 : \D = 1 : \C = 1 :: Total = 5
+
+No, don't hold up. At least you have \Ss stopped twice, your other suits are stopped only once.
+
+Realizing that your only hope is for a bunch of \C tricks you win the \SK and play the \CQ. North covers with the \CK. What do you do? 
+
+If you win with dummy's \CA, and if the \Cs split 2-2, you can win 7 \C tricks and 4 other high cards. Wow! 
+
+But if it turns out that the \CK was singleton you will win just TWO \C tricks because dummy has no other entries. 
+
+So if you feel like gambling, go up with the \CA. But if you like the idea of a guaranteed contract let North hold the \CK, and you make sure of the six other \Cs.
+
+This Deal is not a "made up" one, it was actually played at our Monday Duplicate game in May 2012.
+
+The play went exactly as shown above. When her LHO played the \CK our declarer ducked in dummy and made the contract.}
+[Play "W"]SQ
 

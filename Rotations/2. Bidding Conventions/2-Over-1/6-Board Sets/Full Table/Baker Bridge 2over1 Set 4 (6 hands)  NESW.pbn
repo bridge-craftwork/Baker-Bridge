@@ -8,69 +8,123 @@
 [Site ""]
 [Date ""]
 [Board "1"]
-[Dealer "S"]
-[Vulnerable "None"]
-[Deal "S:KJ763.AQ7.J4.AQJ Q5.42.A9632.T963 A4.KJT8653.KQ.87 T982.9.T875.K542"]
-[BoardVersionToken "ba9b2d969dcacca9f5aabb891a4e4c42a25b2fee1a4efc4484aa68cdfaf74d39"]
-[Student "S"]
-[Category "Bidding Conventions"]
-[Difficulty "intermediate"]
-[SkillPath "bidding_conventions/two_over_one"]
-[Auction "S"]
-1S Pass 2H Pass 3H Pass 3S =1= Pass 4C =2= Pass 4NT Pass 5S =3= Pass 6H Pass Pass Pass
-[Note "1:control"]
-[Note "2:control"]
-[Note "3:2 keycards + trump Q"]
-{How do you open the bidding?
-With 18 HCP and a balanced hand, you open 1\S.  Partner responds  2\H. What do you rebid?
-You know this is a 5-card suit, and bid 3\H, confirming the 8+card trump fit and sets the trump suit.
-Partner rebids 3\S, a control bid, showing first or second round control.  (Some will play this as showing 3-card support for spades, but I recommend playing this as a control bid.).  
-You bid 4C, also a control bid, showing first or second round control in clubs.  Partner bids 4NT, a keycard request using 1430.   
-
-You bid 5\s, showing two keycards and the trump queen.  Partner bids the slam.
-The slam is a good one. If either the \SQ or \CK is right there are 12 tricks by way of a finesse. But the best way to play the hand would be to try to establish a \S in the South hand, and if that fails try the \C finesse.}
-
-[Event ""]
-[Site ""]
-[Date ""]
-[Board "3"]
 [Dealer "N"]
-[Vulnerable "EW"]
-[Deal "N:9754.T6.J72.8653 AJT.AK985.K96.Q7 KQ2.QJ42.T853.92 863.73.AQ4.AKJT4"]
-[BoardVersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
+[Vulnerable "None"]
+[Deal "N:K92.AK874.KT7.T8 A743.Q.A642.7643 JT6.9.853.KQJ952 Q85.JT6532.QJ9.A"]
+[BoardVersionToken "5bc5b94224c2db49afb7bd921b01f9bb568f205b0bf1e157ecff4ac57e9f69d9"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "N"]
-Pass 1H Pass 2C Pass 2NT Pass 3NT Pass 4NT Pass 6NT Pass Pass Pass
-{East opens 1\H - how should you respond?
-East rebids 2NT.  How do you continue?
-West shows her minimum by bidding 3NT.
-East continues with 4NT - what does this mean?  How do you continue?
+1H Dbl 2C =1= Pass Pass Pass
+[Note "1:6+ \cs, fewer than 10 points"]
+{North opens 1\H and East Doubles.   
 
- East's 4NT was not Blackwood, but rather a quantitative raise in Notrump, and an invitation to slam.
-You have 15 points, and they are good ones. So you accept the invitation and bid 6NT.
-There are 11 top tricks. A 3-3 \H split would provide the 12th winner, but this is against the odds. Better to try two \S finesses, a 75% chance.}
+After the intervening Takeout Double <b>2/1 is OFF</b>. If you had 10 or more points you would Redouble. So even with only 9 points you can bid 2\C without fear that North will think you have a strong hand.
+North also knows everything mentioned above so he passes.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "2"]
+[Dealer "W"]
+[Vulnerable "NS"]
+[Deal "W:AK98764.KQ7.K73. T3.984.A9.Q87632 QJ2.J2.QJ862.AKJ 5.AT653.T54.T954"]
+[BoardVersionToken "481c500d3d21408333604badccfb00261deaac9dbc9ce7903e488bbdcea54b9a"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "W"]
+1S Pass 2D Pass 2S Pass 3S Pass 4C Pass 4S Pass Pass Pass
+{You have a great hand - how will you start the bidding? 
+You open 1\S. East responds 2\D, a 2/1 force to game.   
+You have a big hand, perhaps in the slam range, but first priority is to set a trump suit. So you contend yourself with a rebid of 2\S.  East agrees on trumps by bidding 3\S (not Fast Arrival).  What do you do now? 
+Now you make your slam try by using a Control-showing cue-bid. She bids 4\C, showing first or second round control of the suit (Ace or king, or singleton or void).
+East bids 4\s.  What do you do now? 
+
+East's next bid would be a control-showing bid of her own - IF SHE HAD ONE. Since she cannot win the first or second round of either red suit she just returns to 4\S. West realizes that they are off two red Aces and passes.
+Notice that West did not fall into the Blackwood trap. If you HAD asked for Aces, East would have shown one Ace and West wouldn't know what to do next. She might have figured the odds favored that one Ace being a red one and tried the slam. Moral: Don't use Blackwood when you have a void.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "3"]
+[Dealer "S"]
+[Vulnerable "EW"]
+[Deal "S:AJT82.AK82.Q2.T5 Q96.J964.T9.8642 74.Q73.AKJ73.KJ9 K53.T5.8654.AQ73"]
+[BoardVersionToken "755824da85b38449c3d4509696e32235413f82a823823e44512976ceac117792"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "S"]
+1S Pass 2D Pass 2H Pass 2NT Pass 3NT Pass Pass Pass
+{South opens 1\S.  
+You respond 2\D, a 2/1 force to game.  Partner rebids 2\h, showing a 4-card side suit.
+
+You don't have 4 \Hs, nor do you have have 3 \Ss. You do, however, have stoppers in \Cs so you bid 2NT. 
+South happily says 3NT.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "4"]
+[Dealer "W"]
+[Vulnerable "All"]
+[Deal "W:AJT82.AT82.Q2.K5 65.965.654.QJ842 74.KQ3.AKJ73.T97 KQ93.J74.T98.A63"]
+[BoardVersionToken "2b97c9c93208a7b980ff8a49de7825d3fa74ffc73ed3d5f54307809f6eab3451"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "W"]
+1S Pass 2D Pass 2H Pass 3C Pass 3NT Pass Pass Pass
+{West opens 1\S. How do you respond? 
+You bid 2\d, a 2/1 force to game.  West rebids 2\h, showing a 4-card heart suit.   
+
+You don't have 4 \Hs, nor do you have 3 \Ss. Furthermore,  you don't have stoppers in \Cs so you cannot bid NT. Since you have to keep bidding, but have no reasonable bid you can make, you bid the fourth suit, 3\C. Compare this Deal with Deal 21.
+West understands that East's \C bid is Fourth-Suit-Forcing, and does not actually show \Cs. However since West does have a \C stopper he bids 3NT. In this case this turns out to be the best game contract.}
 
 [Event ""]
 [Site ""]
 [Date ""]
 [Board "5"]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T82.A2.A8542.Q85 QJ.JT874.JT6.KJ2 AK974.KQ63.73.T7 653.95.KQ9.A9643"]
+[BoardVersionToken "bbdcfd9abf9bfc32fcc8fdf6229d55de4a6d4d48be19ecd4952077b5dc49c4f2"]
+[Student "S"]
+[Category "Bidding Conventions"]
+[Difficulty "intermediate"]
+[SkillPath "bidding_conventions/two_over_one"]
+[Auction "N"]
+Pass Pass 1S Pass 2D Pass 2H Pass 2S Pass Pass Pass
+{North passes - what should you open? 
+North now bids 2\D.  
+Since North originally passed this is <b>NOT</b> 2/1 Game Force. Instead, it is non-forcing and shows 11 or more points. 
+You should show your 4-card \H suit. North gives a preference to 2\S.  What do you do now? 
+
+Knowing that North does not have opening strength you pass 2\S.}
+
+[Event ""]
+[Site ""]
+[Date ""]
+[Board "6"]
 [Dealer "E"]
-[Vulnerable "NS"]
-[Deal "E:KT.98762.T72.AK2 AJ8752.AK.Q6.J87 94.JT54.853.QT53 Q63.Q3.AKJ94.964"]
-[BoardVersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
+[Vulnerable "EW"]
+[Deal "E:KQT62.A74.84.A85 85.52.KQT953.642 74.9863.A762.KQ3 AJ93.KQJT.J.JT97"]
+[BoardVersionToken "52aef7f69e2611c5da706ce1c63ff4eb02ba1bf96adfc95c573705204bfea810"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "E"]
-Pass 1S Pass 2D Pass 2S Pass 4S Pass Pass Pass
-{South opens 1\S -  
-You responds 2\D, natural and game forcing.  South rebids 2\s.  In our style of 2/1, this promises 6+ cards in spades, and denies a side 4-card suit.  What should we bid now? 
+1S Pass 1NT Pass 2C Pass 2S Pass Pass Pass
+{East opens 1\S.  
+With 9 points and a doubleton \S you must respond 1NT.   Partner rebids 2\c.   
 
-You should jump to 4\S. This is Fast Arrival, indicating a minimum hand with no particular interest in slam.
-South is happy to rest in the game contract.
-Even with a combined 30 points, 10 tricks are certainly not a sure thing. South must hope that East holds the trump King.}
+West prefers \C over \S but must allow for the possibility that East has bid a 3-card suit. So West gives a preference to 2\S. This is called a "false preference", but it assures the team of being in at least a 7-card fit. 
+East happily passes and the pair lands in a reasonable contract, probably better than 1NT.}
 
