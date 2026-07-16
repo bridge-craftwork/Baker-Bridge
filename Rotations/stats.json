@@ -1,0 +1,429 @@
+{
+  "collection": "Baker Bridge",
+  "generatedAt": "2026-07-16T04:30:12Z",
+  "lessonCount": 50,
+  "boards": {
+    "total": 1173,
+    "min": 8,
+    "max": 100,
+    "median": 20,
+    "mean": 23.5,
+    "distribution": {
+      "1-6": 0,
+      "7-12": 5,
+      "13-20": 24,
+      "21+": 21
+    }
+  },
+  "declarerPlan": {
+    "withPlan": 7,
+    "withoutPlan": 43
+  },
+  "skillPath": {
+    "withSkillPath": 50,
+    "withoutSkillPath": 0
+  },
+  "buildDurations": null,
+  "lessons": [
+    {
+      "category": "1. Basic Bidding",
+      "lesson": "Major Suit Openings",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "basic_bidding/major_suit_openings",
+      "difficulty": null
+    },
+    {
+      "category": "1. Basic Bidding",
+      "lesson": "Minor Suit Openings",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "basic_bidding/minor_suit_openings",
+      "difficulty": null
+    },
+    {
+      "category": "1. Basic Bidding",
+      "lesson": "Notrump Openings",
+      "boards": 25,
+      "declarerPlan": false,
+      "skillPath": "basic_bidding/notrump_openings",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "2-Over-1",
+      "boards": 28,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/two_over_one",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Blackwood and Gerber",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/blackwood",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Fourth Suit Forcing",
+      "boards": 14,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/fourth_suit_forcing",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Help Suit Game Try",
+      "boards": 10,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/help_suit_game_try",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Jacoby 2NT and Splinter Bids",
+      "boards": 25,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/jacoby_2nt_splinters",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Jacoby Transfers",
+      "boards": 25,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/jacoby_transfers",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Keycard Blackwood 1430",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/roman_keycard",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "New Minor Forcing",
+      "boards": 14,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/new_minor_forcing",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Ogust after Weak 2-Bid",
+      "boards": 10,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/ogust",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Preemptive Bids",
+      "boards": 12,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/preemptive_bids",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Reverse Bid",
+      "boards": 14,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/reverse_bids",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Reverse Drury",
+      "boards": 8,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/reverse_drury",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Stayman",
+      "boards": 25,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/stayman",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Strong 2C-Bids",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/strong_2c",
+      "difficulty": null
+    },
+    {
+      "category": "2. Bidding Conventions",
+      "lesson": "Weak 2-Bids",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "bidding_conventions/weak_2s",
+      "difficulty": null
+    },
+    {
+      "category": "3. Competitive Bidding",
+      "lesson": "DONT",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "competitive_bidding/dont",
+      "difficulty": null
+    },
+    {
+      "category": "3. Competitive Bidding",
+      "lesson": "Lebensohl over 1NT Interference",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "competitive_bidding/lebensohl",
+      "difficulty": null
+    },
+    {
+      "category": "3. Competitive Bidding",
+      "lesson": "Michaels Cue Bids and Unusual 2NT",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "competitive_bidding/michaels_unusual",
+      "difficulty": null
+    },
+    {
+      "category": "3. Competitive Bidding",
+      "lesson": "Negative Doubles",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "competitive_bidding/negative_doubles",
+      "difficulty": null
+    },
+    {
+      "category": "3. Competitive Bidding",
+      "lesson": "Overcalls",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "competitive_bidding/overcalls",
+      "difficulty": null
+    },
+    {
+      "category": "3. Competitive Bidding",
+      "lesson": "Support Cue-bids",
+      "boards": 10,
+      "declarerPlan": false,
+      "skillPath": "competitive_bidding/support_cuebids",
+      "difficulty": null
+    },
+    {
+      "category": "3. Competitive Bidding",
+      "lesson": "Takeout Doubles",
+      "boards": 25,
+      "declarerPlan": false,
+      "skillPath": "competitive_bidding/takeout_doubles",
+      "difficulty": null
+    },
+    {
+      "category": "4. Declarer Play",
+      "lesson": "Elimination Plays",
+      "boards": 25,
+      "declarerPlan": true,
+      "skillPath": "declarer_play/elimination_plays",
+      "difficulty": null
+    },
+    {
+      "category": "4. Declarer Play",
+      "lesson": "Entry Management",
+      "boards": 20,
+      "declarerPlan": true,
+      "skillPath": "declarer_play/entry_management",
+      "difficulty": null
+    },
+    {
+      "category": "4. Declarer Play",
+      "lesson": "Finessing",
+      "boards": 20,
+      "declarerPlan": true,
+      "skillPath": "declarer_play/finessing",
+      "difficulty": null
+    },
+    {
+      "category": "4. Declarer Play",
+      "lesson": "Holdup Plays",
+      "boards": 15,
+      "declarerPlan": true,
+      "skillPath": "declarer_play/holdup_plays",
+      "difficulty": null
+    },
+    {
+      "category": "4. Declarer Play",
+      "lesson": "Squeeze Plays",
+      "boards": 20,
+      "declarerPlan": true,
+      "skillPath": "declarer_play/squeeze_plays",
+      "difficulty": null
+    },
+    {
+      "category": "4. Declarer Play",
+      "lesson": "Suit Establishment",
+      "boards": 20,
+      "declarerPlan": true,
+      "skillPath": "declarer_play/suit_establishment",
+      "difficulty": null
+    },
+    {
+      "category": "4. Declarer Play",
+      "lesson": "Trump Management",
+      "boards": 20,
+      "declarerPlan": true,
+      "skillPath": "declarer_play/trump_management",
+      "difficulty": null
+    },
+    {
+      "category": "5. Defense",
+      "lesson": "Defensive Signals",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "defense/defensive_signals",
+      "difficulty": null
+    },
+    {
+      "category": "5. Defense",
+      "lesson": "Opening Leads",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "defense/opening_leads",
+      "difficulty": null
+    },
+    {
+      "category": "5. Defense",
+      "lesson": "Second Hand Play",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "defense/second_hand_play",
+      "difficulty": null
+    },
+    {
+      "category": "5. Defense",
+      "lesson": "Third Hand Play",
+      "boards": 20,
+      "declarerPlan": false,
+      "skillPath": "defense/third_hand_play",
+      "difficulty": null
+    },
+    {
+      "category": "6. Practice Deals",
+      "lesson": "100 Miscellaneous Deals",
+      "boards": 100,
+      "declarerPlan": false,
+      "skillPath": "practice_deals/100_miscellaneous",
+      "difficulty": null
+    },
+    {
+      "category": "6. Practice Deals",
+      "lesson": "100 NT Openings",
+      "boards": 100,
+      "declarerPlan": false,
+      "skillPath": "practice_deals/100_notrump",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "4th Suit Forcing",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/advanced_forcing",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Basic Bidding With No Conventions",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/basic_bidding",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Blackwood and Gerber",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/blackwood",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Competitive Bidding - Negative Doubles and Cue-Bid Support",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/negative_doubles",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Competitive Bidding - Overcalls and Takeout Doubles",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/overcalls",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Jacoby 2NT and Splinter Bids",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/jacoby_2nt",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Roman Key Card Blackwood",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/roman_key_card",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Stayman and Jacoby Transfers",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/stayman_transfers",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Strong Two-Club Openings",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/two_club",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Very Basic Major Suit Bidding",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/basic_major",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Very Basic Notrump Bidding",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/basic_notrump",
+      "difficulty": null
+    },
+    {
+      "category": "7. Partnership Bidding",
+      "lesson": "Weak Two-Bids and Preemptive Three Bids",
+      "boards": 24,
+      "declarerPlan": false,
+      "skillPath": "partnership_bidding/weak_twos",
+      "difficulty": null
+    }
+  ]
+}
