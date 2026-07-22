@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2S pass 4NT pass 6D pass 7S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a226ea3953ee493405389cca108e7858330efee68a59bccc30dffc8795330003"]
+[VersionToken "a226ea3953ee493405389cca108e7858330efee68a59bccc30dffc8795330003"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -46,7 +46,7 @@ NORTH readjusts her thinking and decides to bid the Grand.}
 1NT pass 3H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c115fcbe47e053fc10f99ef3fad0a7340163744f0ce2556ef388ba2cb5544a77"]
+[VersionToken "c115fcbe47e053fc10f99ef3fad0a7340163744f0ce2556ef388ba2cb5544a77"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -73,7 +73,7 @@ That is enough for NORTH to bid the slam.}
 2C pass 2S pass 3S pass 4NT pass 5D pass 5H pass 6C pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e48a5d2c140481030110d15d5ba07cce1b5da321f38ebd50c7871e323fdbe74e"]
+[VersionToken "e48a5d2c140481030110d15d5ba07cce1b5da321f38ebd50c7871e323fdbe74e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -101,7 +101,7 @@ SOUTH figures the \S suit will run, and this should be enough for Grand Slam. He
 1NT pass 3S pass 4S pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "df187c7c8165daf3954c1033e7ab87f1eceaf59244f0bd2ef6fa07f1a6720125"]
+[VersionToken "df187c7c8165daf3954c1033e7ab87f1eceaf59244f0bd2ef6fa07f1a6720125"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]

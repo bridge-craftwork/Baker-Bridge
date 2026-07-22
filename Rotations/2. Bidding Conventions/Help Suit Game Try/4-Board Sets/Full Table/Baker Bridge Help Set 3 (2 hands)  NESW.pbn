@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Help
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass 2S pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1327ef65d116b9ed345585dcb3bc64d4c73160b32cfc804d7831f781a6363169"]
+[VersionToken "1327ef65d116b9ed345585dcb3bc64d4c73160b32cfc804d7831f781a6363169"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -41,7 +41,7 @@ So you bid 2\S and partner bids 4\H. Sometimes it is easy.}
 1S pass 2S pass 3D pass 3H pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "d162386884406e2f11de365448cbe36dfbaf4389dd100a47abc6e854da351d93"]
+[VersionToken "d162386884406e2f11de365448cbe36dfbaf4389dd100a47abc6e854da351d93"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1fe2a28a338bfdeb1be4d8a2dc7e1e086cb3c901e75a47fb1c811b509905c59f"]
+[VersionToken "1fe2a28a338bfdeb1be4d8a2dc7e1e086cb3c901e75a47fb1c811b509905c59f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -54,7 +54,7 @@ If you played your \D5 too early you would not have been able to enter dummy thr
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "63f4027af472e0f3d9e3af5b9c1c05b57eeaeb84d70431e35cda6601c27fdbd1"]
+[VersionToken "63f4027af472e0f3d9e3af5b9c1c05b57eeaeb84d70431e35cda6601c27fdbd1"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -92,7 +92,7 @@ You can only win 3 \S tricks however you play it, so you play to suit your entry
 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3fc21179abf29808a02cb3f8e98a72767df39f5b9f69c097fd4ab06e3dce1aff"]
+[VersionToken "3fc21179abf29808a02cb3f8e98a72767df39f5b9f69c097fd4ab06e3dce1aff"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -138,7 +138,7 @@ But, if you hold up your \SA until the third round, East will have no \S left wh
 1NT pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2cbefba2781574fa793013480058c43aa9aaa4ac1465d5c69426aa664fc2395d"]
+[VersionToken "2cbefba2781574fa793013480058c43aa9aaa4ac1465d5c69426aa664fc2395d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

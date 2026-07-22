@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "30a1ed3755ab40ebbb38eea301535444d9e5ee6cf2ce3dd193d0f6ab533d8f62"]
+[VersionToken "30a1ed3755ab40ebbb38eea301535444d9e5ee6cf2ce3dd193d0f6ab533d8f62"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -64,7 +64,7 @@ With the \S Q J instead you just have to take care with entries. (Make that entr
 1S pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5fbd7b655000cccf138046ac6017aba8cbcd9f661b040433464510f431c03646"]
+[VersionToken "5fbd7b655000cccf138046ac6017aba8cbcd9f661b040433464510f431c03646"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -108,7 +108,7 @@ And with any cross-ruff it is best to pull as many trumps as you can spare befor
 1S pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "fc1432427e5340064b126b6afc01f0ee1b3def3b4a6697bee9c3d446d23baf6c"]
+[VersionToken "fc1432427e5340064b126b6afc01f0ee1b3def3b4a6697bee9c3d446d23baf6c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -154,7 +154,7 @@ The only time it is a mistake is when West holds the \H K Q and East holds the \
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "28484081d309f0f3a5dbbfe6e997bed9e97f6f9ce550e2689f12f48bfbf1507e"]
+[VersionToken "28484081d309f0f3a5dbbfe6e997bed9e97f6f9ce550e2689f12f48bfbf1507e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -202,7 +202,7 @@ Suppose when you led toward your \SQ it held the trick. Would you be convinced t
 pass 1C pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9fb0c25f2d58db3e3df648e49d90472f9a1c901a4f83ade05e064e8c3047fbef"]
+[VersionToken "9fb0c25f2d58db3e3df648e49d90472f9a1c901a4f83ade05e064e8c3047fbef"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -239,7 +239,7 @@ This was a very difficult hand.}
 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
+[VersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

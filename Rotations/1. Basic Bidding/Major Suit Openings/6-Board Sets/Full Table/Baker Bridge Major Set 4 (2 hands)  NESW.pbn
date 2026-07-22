@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 2S pass 3C pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "78a2bc716deeb78545e04cf42053663718b6a29fc8303cd39b807cfdbf325dca"]
+[VersionToken "78a2bc716deeb78545e04cf42053663718b6a29fc8303cd39b807cfdbf325dca"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -45,7 +45,7 @@ You are at the bottom of your range and you have no help in \Cs, so you just ret
 1H pass 2H pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "89038ad7437af08f47db7ad874cbcbcc474c7ac273a25df42e0a1f2e39fce17c"]
+[VersionToken "89038ad7437af08f47db7ad874cbcbcc474c7ac273a25df42e0a1f2e39fce17c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Stayman
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3c76f1a08b1f9a7425d27881b115a7f9ae5273efd784835e20c08337c0322670"]
+[VersionToken "3c76f1a08b1f9a7425d27881b115a7f9ae5273efd784835e20c08337c0322670"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -42,7 +42,7 @@ It is far too risky to play for that possibility. So you just pass.}
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0b8294a91c4db35f5cb9eb035d9c10ac9f07731cd7b7986937b91537c1b8f089"]
+[VersionToken "0b8294a91c4db35f5cb9eb035d9c10ac9f07731cd7b7986937b91537c1b8f089"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -69,7 +69,7 @@ He has a maximum and he bids 3NT.}
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d8cdb2d1c2fcc00eb8bde429d6cfecf2f9007d884b72e691d19bb4e01286f652"]
+[VersionToken "d8cdb2d1c2fcc00eb8bde429d6cfecf2f9007d884b72e691d19bb4e01286f652"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -96,7 +96,7 @@ There is really no right or wrong here, between 3\S and 4\S. Those extra 10's an
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "718af101ecd307d64c1e68eaf2b83b76b1368a63a2eef8e429e001b81cd24f5c"]
+[VersionToken "718af101ecd307d64c1e68eaf2b83b76b1368a63a2eef8e429e001b81cd24f5c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -121,7 +121,7 @@ Partner doesn't have a 4-card Major so your side doesn't have an 8-card Major fi
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "79dd3098553afc8ecb322e74fdc915fb4d3028f0ec130c30d2dba5a76d6fb00c"]
+[VersionToken "79dd3098553afc8ecb322e74fdc915fb4d3028f0ec130c30d2dba5a76d6fb00c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]

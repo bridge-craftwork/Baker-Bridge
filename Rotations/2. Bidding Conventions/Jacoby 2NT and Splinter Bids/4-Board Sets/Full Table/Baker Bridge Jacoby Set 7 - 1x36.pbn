@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 2NT pass 3NT pass 4C pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3701816e99ea39d256ad058f1be42ef9bb4bc580552c2bae01d891cdb2b16535"]
+[VersionToken "3701816e99ea39d256ad058f1be42ef9bb4bc580552c2bae01d891cdb2b16535"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]

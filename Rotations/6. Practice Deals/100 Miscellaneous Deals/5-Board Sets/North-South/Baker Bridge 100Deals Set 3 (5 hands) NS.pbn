@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "09cd26a28de3868a2eadb3fde675d07e3207c546e675f213e45aa756634224d3"]
+[VersionToken "09cd26a28de3868a2eadb3fde675d07e3207c546e675f213e45aa756634224d3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -56,7 +56,7 @@ As you can see your plan was the only way to make the contract.}
 1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "879e93bdb713778f4aba4232da6f348e6e2a015be88a5cea5b5df2a2d5da0136"]
+[VersionToken "879e93bdb713778f4aba4232da6f348e6e2a015be88a5cea5b5df2a2d5da0136"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -102,7 +102,7 @@ If you had just played the \Cs from the top you would have made an overtrick whe
 1S pass 1NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "32b6b626276aa387b19fe3b7fe219c1dac751189f9ae328e1d06112c241b8b80"]
+[VersionToken "32b6b626276aa387b19fe3b7fe219c1dac751189f9ae328e1d06112c241b8b80"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -146,7 +146,7 @@ But if your second \S play is a small \S West will win the \SK and you will be l
 1NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "80ebc26a2808abc82f6e7a9160f4165c8a479e83a355f5c1feb6dcd4697e68ef"]
+[VersionToken "80ebc26a2808abc82f6e7a9160f4165c8a479e83a355f5c1feb6dcd4697e68ef"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -188,7 +188,7 @@ As you can see, if you don't play the \Hs as suggested East can prevent you from
 1H 1S 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b22c9f5aa51b3631c30c5f3380a884518053da394c294e0d5500cc8e577f55b3"]
+[VersionToken "b22c9f5aa51b3631c30c5f3380a884518053da394c294e0d5500cc8e577f55b3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

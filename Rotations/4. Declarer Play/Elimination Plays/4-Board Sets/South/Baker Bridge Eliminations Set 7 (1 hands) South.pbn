@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2S 3C pass 4NT pass 5H pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a2f55233a84b69719dec878678601202be1d30998cb54de100ba4b63c3c522ca"]
+[VersionToken "a2f55233a84b69719dec878678601202be1d30998cb54de100ba4b63c3c522ca"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b99a4796a1c13e583edbb0a6ba9b3e281ad5f9c1cb7132a47ca23dd7621161e3"]
+[VersionToken "b99a4796a1c13e583edbb0a6ba9b3e281ad5f9c1cb7132a47ca23dd7621161e3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -62,7 +62,7 @@ But, if you finesse in \Cs first, East can win and establish the \H suit. But, w
 1NT pass 2C pass 2H pass 4NT pass 5H pass 6H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ccd8e12955dfdea9d68a4154cb801687d62116d20ec9e9c220561b003e0900ba"]
+[VersionToken "ccd8e12955dfdea9d68a4154cb801687d62116d20ec9e9c220561b003e0900ba"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -114,7 +114,7 @@ This is much more obvious play when you are missing 5 trumps including the Queen
 1NT 2S 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "07cab2aabf7b877d51327cd6c363705559ed3611312e1f16f33982bb949d33ac"]
+[VersionToken "07cab2aabf7b877d51327cd6c363705559ed3611312e1f16f33982bb949d33ac"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -154,7 +154,7 @@ And just look at the EW hands. They can easily make 3\S.}
 1NT pass 2C pass 2D pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "fa6655e8efbed8e839570f04670dd4d61bfada31499182510900e692210b6dff"]
+[VersionToken "fa6655e8efbed8e839570f04670dd4d61bfada31499182510900e692210b6dff"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -200,7 +200,7 @@ East could play a \C, knocking out one of your \C A K. When East won his first \
 1NT 2H 2NT pass 3C pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0bc8f639dccfea9c92fafdafc58562e388291f21ec45f947c1b8e18bbdc9ae0e"]
+[VersionToken "0bc8f639dccfea9c92fafdafc58562e388291f21ec45f947c1b8e18bbdc9ae0e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

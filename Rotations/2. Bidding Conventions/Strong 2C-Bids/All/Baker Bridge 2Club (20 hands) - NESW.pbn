@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2Club
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1af0cde344856499d51e8e9cc146cf1210ef4ac3cf89bb4444c8dd9a3561a7a4"]
+[VersionToken "1af0cde344856499d51e8e9cc146cf1210ef4ac3cf89bb4444c8dd9a3561a7a4"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -43,7 +43,7 @@ You have 23 points and no 5-card suit. Since your hand is balanced you bid 2NT. 
 2C pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "04df7124f51daa0463cb157c73e32fa68e75163f17c8b316365dc11e37be0981"]
+[VersionToken "04df7124f51daa0463cb157c73e32fa68e75163f17c8b316365dc11e37be0981"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -66,7 +66,7 @@ This isn't as clear-cut a decision as you might think at first. Partner is showi
 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cf1e3d4a609a4a8ccf40fba4bc88e9fcdac3c888c9da3b962d5472c50fe18870"]
+[VersionToken "cf1e3d4a609a4a8ccf40fba4bc88e9fcdac3c888c9da3b962d5472c50fe18870"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -91,7 +91,7 @@ You have 26 points and no 5-card suit. Since your hand is balanced you bid 3NT. 
 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "3d262e471f5a4a07edc9ac57991acb1b57a861cf15e33139af4aee128830ed58"]
+[VersionToken "3d262e471f5a4a07edc9ac57991acb1b57a861cf15e33139af4aee128830ed58"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -114,7 +114,7 @@ True, 4 points isn't much. But added to partner's 22-24 it becomes enough for a 
 2C pass 2D pass 2H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c007f6ec53e35479a770a7a5446f710d2e55b7cd0e57104ae094c445dd8f46f7"]
+[VersionToken "c007f6ec53e35479a770a7a5446f710d2e55b7cd0e57104ae094c445dd8f46f7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -141,7 +141,7 @@ Partner has between 3 and 7 points. Somewhere in those points might be the one t
 2C pass 2D pass 2H pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "548ab2505e13e2dbf3fa818afc5d66c1073d97d34e8374d2d67668a965856f6d"]
+[VersionToken "548ab2505e13e2dbf3fa818afc5d66c1073d97d34e8374d2d67668a965856f6d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -164,7 +164,7 @@ For someone who made an initial Negative response you have quite a good hand. Yo
 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9b8c68027b442a22258a0e77deb4893b33b92b6c513684c4830172e67029009a"]
+[VersionToken "9b8c68027b442a22258a0e77deb4893b33b92b6c513684c4830172e67029009a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -189,7 +189,7 @@ You have 22 points and 5-card Major suit. Your rebid is therefore 2\S. Partner r
 2C pass 2D pass 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "3e8fac1f4f525083a37db6f22c160df25bb8dbd94ea69d3280d6feab37d37c37"]
+[VersionToken "3e8fac1f4f525083a37db6f22c160df25bb8dbd94ea69d3280d6feab37d37c37"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -214,7 +214,7 @@ Knowing of the 4-4 fit you bid 4\H. By the way: Partner knew your 3\C bid was no
 2C pass 2D pass 2H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "62eb58b258c2a58107ff3db103b4162b1abaaccd5566552d28a65d43b05decdd"]
+[VersionToken "62eb58b258c2a58107ff3db103b4162b1abaaccd5566552d28a65d43b05decdd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -241,7 +241,7 @@ Partner's 2NT shows scattered values and fewer than 3 \Hs. He has 3 or more poin
 2C pass 2NT pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "fb81ef62e62bd2820a488cdd82d23680e996c209361d99f08e90c36b5151d939"]
+[VersionToken "fb81ef62e62bd2820a488cdd82d23680e996c209361d99f08e90c36b5151d939"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -264,7 +264,7 @@ Hmmm, 22-24 balanced, plus 11 balanced equals 33-35 balanced. It makes you think
 2C pass 2D pass 2S pass 3C pass 3H pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5b1f436ff5c8a3611a9f3cf3534becaa1e2246e170d0634ffef2d5257adb679a"]
+[VersionToken "5b1f436ff5c8a3611a9f3cf3534becaa1e2246e170d0634ffef2d5257adb679a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -289,7 +289,7 @@ No, you still may not pass. First, because partner's bid of a new suit is forcin
 2C pass 2D pass 3C pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "8ae7c917234f3f6be0a32798c90d83b8ca81ff50562017c19be1faa258b68c68"]
+[VersionToken "8ae7c917234f3f6be0a32798c90d83b8ca81ff50562017c19be1faa258b68c68"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -314,7 +314,7 @@ You definitely pass. Good thing he has 9 cold tricks in his hand!}
 2C pass 2H pass 3H pass 4H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f6acce46623bbd704eb4eba23042f70f0590b18841bd1f69bfea7d8fdea645e2"]
+[VersionToken "f6acce46623bbd704eb4eba23042f70f0590b18841bd1f69bfea7d8fdea645e2"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -343,7 +343,7 @@ You now say 6\H and lay down a great dummy.}
 2C pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "c9ae8b108f4413cc9914373bb1f5bd3bafc26c57ba8e699f62f5fd1f7dc67e57"]
+[VersionToken "c9ae8b108f4413cc9914373bb1f5bd3bafc26c57ba8e699f62f5fd1f7dc67e57"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -366,7 +366,7 @@ You told him that you have 8 or more points, now you must tell him that it is on
 2C pass 2NT pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4acf7feafe09742786c62713298d177a8ef698006b6e64624b89ece8449ab5b5"]
+[VersionToken "4acf7feafe09742786c62713298d177a8ef698006b6e64624b89ece8449ab5b5"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -391,7 +391,7 @@ You show your balanced minimum by bidding 3NT, leaving further moves to partner.
 2C pass 2NT pass 3NT pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "d6ba6fcdda41adf876fae088067bac072c200ec7b6c13cbdf6d95abbb2206e33"]
+[VersionToken "d6ba6fcdda41adf876fae088067bac072c200ec7b6c13cbdf6d95abbb2206e33"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -414,7 +414,7 @@ Hmmm, 22-24 points added to your 16 comes to 38-40 points. Looking apologeticall
 2C pass 2D pass 2H pass 3H pass 4C pass 4D pass 6H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5c42dde8f3a20fc9ed93d36bb6756a6259f3a07a0dc7d04618478ec1a081dd44"]
+[VersionToken "5c42dde8f3a20fc9ed93d36bb6756a6259f3a07a0dc7d04618478ec1a081dd44"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -439,7 +439,7 @@ Partner is not introducing a new suit here, you have already agreed on \Hs. He i
 2C pass 2D pass 2H pass 2S pass 2NT pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "0158a684ee2abdbc66eef24efd75aa6b1ce3db32e1852cebc506924a722c1bad"]
+[VersionToken "0158a684ee2abdbc66eef24efd75aa6b1ce3db32e1852cebc506924a722c1bad"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -464,7 +464,7 @@ You know there are enough points for game so you must keep bidding. You should b
 2C pass 2S pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ada9e16dcb0b02774d68e11395a424ee19bd944b75c2000b388a43305b564ce5"]
+[VersionToken "ada9e16dcb0b02774d68e11395a424ee19bd944b75c2000b388a43305b564ce5"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -491,7 +491,7 @@ Obviously you could bid 7\S. But in fact you can count that there will be thirte
 2C pass 2D pass 2S pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "b6bccdc70ba77818a62284b92352e4467c043c15fac24d53609e71fb6b21f865"]
+[VersionToken "b6bccdc70ba77818a62284b92352e4467c043c15fac24d53609e71fb6b21f865"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]

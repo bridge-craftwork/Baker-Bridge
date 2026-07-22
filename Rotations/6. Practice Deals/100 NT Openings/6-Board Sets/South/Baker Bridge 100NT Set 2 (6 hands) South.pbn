@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8b714c2cc587c94749e466c4994f375f9eda9b8fa6458e8690fdd4350e473a9b"]
+[VersionToken "8b714c2cc587c94749e466c4994f375f9eda9b8fa6458e8690fdd4350e473a9b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -60,7 +60,7 @@ It only fails if West holds 4 or more \Ss headed by A K.}
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "57b908ad507776921fb667553119dae7480eeca07605b9efe1c5359785dfd16a"]
+[VersionToken "57b908ad507776921fb667553119dae7480eeca07605b9efe1c5359785dfd16a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -100,7 +100,7 @@ You would put on dummy's \DQ and East would win the \DK. But you aren't down yet
 2NT pass 3C pass 3D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "afe20af1da4e08d7db05389caec80fe3a647c627819df27604720ceae7c3631c"]
+[VersionToken "afe20af1da4e08d7db05389caec80fe3a647c627819df27604720ceae7c3631c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -146,7 +146,7 @@ But you are very lucky that you took the time to read this hand so you know how 
 1NT pass 2C pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "75c93ac095833731ea417c47f33ad2a119a58be003b19591697d2c44e4f9df1b"]
+[VersionToken "75c93ac095833731ea417c47f33ad2a119a58be003b19591697d2c44e4f9df1b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -194,7 +194,7 @@ But if she hadn't, you'd still have a 50% chance in \Hs.}
 1NT pass 3C pass 4C pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "203644cab546c4d176a614dab8f73d2cade7a0f4a274d648330b5e908b59c2c9"]
+[VersionToken "203644cab546c4d176a614dab8f73d2cade7a0f4a274d648330b5e908b59c2c9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -242,7 +242,7 @@ But in cases like this one, with a 4-2 split, you cannot afford to waste an entr
 1NT pass 2D pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "12383fb78feab29defdf6b56e4c5ee564eef31fc003ea3acdd5de3260c5bc4b9"]
+[VersionToken "12383fb78feab29defdf6b56e4c5ee564eef31fc003ea3acdd5de3260c5bc4b9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

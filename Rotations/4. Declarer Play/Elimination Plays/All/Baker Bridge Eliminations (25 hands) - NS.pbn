@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4b4cc948921190ad559e1e209004ce45123635f2a762f20749e74dbce912cd94"]
+[VersionToken "4b4cc948921190ad559e1e209004ce45123635f2a762f20749e74dbce912cd94"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -55,7 +55,7 @@ With an elimination play you make it no matter who holds the Queen.}
 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ec86208eadf1c5b978a127509b2307880a26481922a19632b13076efc4599f5"]
+[VersionToken "0ec86208eadf1c5b978a127509b2307880a26481922a19632b13076efc4599f5"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -93,7 +93,7 @@ Only by forcing them to start the \Ds can you take a trick in the suit. }
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "25769393f18e438fa6be610b138701cc97c468b86dcf8e2ac3f34051c6e724a3"]
+[VersionToken "25769393f18e438fa6be610b138701cc97c468b86dcf8e2ac3f34051c6e724a3"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -131,7 +131,7 @@ By forcing them to start the \Ds you make three tricks when the two outstanding 
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "280d9354da1f0fbcb5e2b24a85d134be7f9f7ed42183243af207f582a0e3ba30"]
+[VersionToken "280d9354da1f0fbcb5e2b24a85d134be7f9f7ed42183243af207f582a0e3ba30"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -165,7 +165,7 @@ Here you were lucky the defense didn't start by taking their three \Ss. If they 
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bdc6d4f2558ca00dede5dd2276cddb649b19d39f4f2a1ed39fda999d794c4a31"]
+[VersionToken "bdc6d4f2558ca00dede5dd2276cddb649b19d39f4f2a1ed39fda999d794c4a31"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -201,7 +201,7 @@ In either case you will no longer have a \C loser.}
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f3f4f5876961df43a5d69c547b6809e6dc9c37194a18ac9adbc5f1be4c310011"]
+[VersionToken "f3f4f5876961df43a5d69c547b6809e6dc9c37194a18ac9adbc5f1be4c310011"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -245,7 +245,7 @@ Here it took two ruffs, one in each hand.}
 1NT pass 2D pass 2H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "56373bbf002e93a21993ff20547f8f6870b3aef9a08668d48eafa663e9ebc8d0"]
+[VersionToken "56373bbf002e93a21993ff20547f8f6870b3aef9a08668d48eafa663e9ebc8d0"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -287,7 +287,7 @@ Decide for yourself!}
 2C pass 2D pass 3D pass 4D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "01618350bda46f12a7248708f4ea4ba9cb356a501754d620485032d9a9d0baf8"]
+[VersionToken "01618350bda46f12a7248708f4ea4ba9cb356a501754d620485032d9a9d0baf8"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -325,7 +325,7 @@ As you see, A Q 9 actually works just as well.}
 1C pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "39b8aaddaf4aeacb4cbb540f0969d04d9175ac66f3d33b4c486754f4beeba3dd"]
+[VersionToken "39b8aaddaf4aeacb4cbb540f0969d04d9175ac66f3d33b4c486754f4beeba3dd"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -363,7 +363,7 @@ If West makes the first play by leading a low \S you play low from your hand. Ea
 pass 1D 1H 2H X 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e126a649de863297a90bdfd2cb656f86eb2e352a0ff742817d2369ca71f0ec86"]
+[VersionToken "e126a649de863297a90bdfd2cb656f86eb2e352a0ff742817d2369ca71f0ec86"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -399,7 +399,7 @@ But never mind the percentages for a finesse, the end-play was a sure thing.}
 1C 1S 2S pass 3C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f7cff408a596316143cd7ae183f94e9b09943fbdda151795a058dadd6928bcbb"]
+[VersionToken "f7cff408a596316143cd7ae183f94e9b09943fbdda151795a058dadd6928bcbb"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -439,7 +439,7 @@ About the only way the elimination/throw-in could fail is if the \Cs split 3-0. 
 pass 1NT pass 3H pass 4H pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d2d0ac79b4e9658c2563e90d1ac9a4d47a592681d6813a40ac44a08265806d09"]
+[VersionToken "d2d0ac79b4e9658c2563e90d1ac9a4d47a592681d6813a40ac44a08265806d09"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -483,7 +483,7 @@ If East just happens to hold both the \CK and \CJ you will make all thirteen tri
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "843a8039f10d3e41354a45ec90fca80f6ce0d2f33b2a6ffcf3b6323b898501b9"]
+[VersionToken "843a8039f10d3e41354a45ec90fca80f6ce0d2f33b2a6ffcf3b6323b898501b9"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -515,7 +515,7 @@ Wow! End-played at trick #6. }
 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5970d91ba0bc0dca8bae3be2c66fdfae2d55619232c662e00a799dea0552c31a"]
+[VersionToken "5970d91ba0bc0dca8bae3be2c66fdfae2d55619232c662e00a799dea0552c31a"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -557,7 +557,7 @@ You'd be no better off. Although you would avoid the \S loser you would now have
 1NT pass 3C pass 4C pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ae89ac2ff54bece0214fc0b45f06e5d1c583a46c4df8d2c8b91e79179c3f45e8"]
+[VersionToken "ae89ac2ff54bece0214fc0b45f06e5d1c583a46c4df8d2c8b91e79179c3f45e8"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -597,7 +597,7 @@ Here you had two chances. First, East might have HAD to win the throw-in, either
 1C pass 1S pass 2NT pass 4C pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6bb7b8475000c23132f03a8c88d4600eb427a9869f3d9ac561cb340be6f49153"]
+[VersionToken "6bb7b8475000c23132f03a8c88d4600eb427a9869f3d9ac561cb340be6f49153"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -631,7 +631,7 @@ Hopefully in the future you will be the one with the reputation!}
 1S 4H 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "54a5b4c938cfbff34a53fb11f67b8a099c22ae6640395071e5c69bf9baf9baf1"]
+[VersionToken "54a5b4c938cfbff34a53fb11f67b8a099c22ae6640395071e5c69bf9baf9baf1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -675,7 +675,7 @@ Not you or me, of course.}
 pass 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "18f9252abdc77fa40dfac7014991db61692a465c73cdddb1c212d7d95e5c2fa5"]
+[VersionToken "18f9252abdc77fa40dfac7014991db61692a465c73cdddb1c212d7d95e5c2fa5"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -709,7 +709,7 @@ It is a pretty simple problem, but you are no doubt getting a lot better.}
 1C pass pass X pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "599c4eb026158830579d99fe9d9d4b37ea2ec0115405786d4bffe9a1e1fb6fb1"]
+[VersionToken "599c4eb026158830579d99fe9d9d4b37ea2ec0115405786d4bffe9a1e1fb6fb1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -747,7 +747,7 @@ It was not a complete elimination since West still had a trump when you threw Ea
 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "862deb757d4930f723374d428a5dcde8c2cf3f7bee3aa4496cb0b0c888548dc2"]
+[VersionToken "862deb757d4930f723374d428a5dcde8c2cf3f7bee3aa4496cb0b0c888548dc2"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -789,7 +789,7 @@ It also depended upon the defenders not switching to \Cs at the second trick. If
 1H pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 21, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a1738896eae981ec81559136d06b28cf8d48f1e28b7b50c9813682de4600af30"]
+[VersionToken "a1738896eae981ec81559136d06b28cf8d48f1e28b7b50c9813682de4600af30"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -825,7 +825,7 @@ But if it had turned out that East DID have another \D, and led it, all would no
 2NT 3S 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 22, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c39bc60c1a7727c3c416964f2649404cb31ed786c0548b8d76c74846f9d29cd9"]
+[VersionToken "c39bc60c1a7727c3c416964f2649404cb31ed786c0548b8d76c74846f9d29cd9"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -869,7 +869,7 @@ In fact, it just kept you from making a losing play, (leading toward the \SQ), a
 1NT pass 2C 2S 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 23, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7e5efb6866dbbc9015d6bea663537a955fef0cf29da614fe4acfd5ce7a60a1a8"]
+[VersionToken "7e5efb6866dbbc9015d6bea663537a955fef0cf29da614fe4acfd5ce7a60a1a8"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -909,7 +909,7 @@ In many hands an opponent who opens with a preemptive bid gives you the informat
 1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 24, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2cc40b1e4077ee89c64b4c19ecfdd0c523baed677b2977902eeaa4890916c2c0"]
+[VersionToken "2cc40b1e4077ee89c64b4c19ecfdd0c523baed677b2977902eeaa4890916c2c0"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -957,7 +957,7 @@ This trickery would fail if West held the \DK, or if East held it and went up ri
 2S 3C pass 4NT pass 5H pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 25, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a2f55233a84b69719dec878678601202be1d30998cb54de100ba4b63c3c522ca"]
+[VersionToken "a2f55233a84b69719dec878678601202be1d30998cb54de100ba4b63c3c522ca"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]

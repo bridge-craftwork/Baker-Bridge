@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 1S pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e92ede52ee5a0f6ee5a94679cf74825e215bd32acfb6120f1ff3d4f1c1fb1a6e"]
+[VersionToken "e92ede52ee5a0f6ee5a94679cf74825e215bd32acfb6120f1ff3d4f1c1fb1a6e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -41,7 +41,7 @@ With a minimum hand and no singletons you bid the game immediately. Partner has 
 1S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "61ea921278aaef9bc3f81ef1691e56f682b74ec8b6d2b17cad30347d5e331f15"]
+[VersionToken "61ea921278aaef9bc3f81ef1691e56f682b74ec8b6d2b17cad30347d5e331f15"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -64,7 +64,7 @@ You couldn't hear much worse news. Partner has a singleton \H so your \H K J are
 1S pass 2NT pass 3C pass 3H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7a13c8d69508237ec9e172845c540b871889d5642bd473bf82f05a800bdf40c9"]
+[VersionToken "7a13c8d69508237ec9e172845c540b871889d5642bd473bf82f05a800bdf40c9"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -89,7 +89,7 @@ You could equally have just bid 4\S yourself.}
 1S pass 2NT pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "66eaa22cb5cf4d192b22b33ec81b0ac8229d3960b9a93417920baa294270f793"]
+[VersionToken "66eaa22cb5cf4d192b22b33ec81b0ac8229d3960b9a93417920baa294270f793"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -112,7 +112,7 @@ South has some extra strength and a 5-card \S suit. This is the point in the bid
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ddcdc7442e99122c261560f3d182229728e1c8b51b408932ee4f7ced75e1f2bd"]
+[VersionToken "ddcdc7442e99122c261560f3d182229728e1c8b51b408932ee4f7ced75e1f2bd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]

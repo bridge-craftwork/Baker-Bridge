@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-TwoClub
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "889efab8458a4b157fd9046afcf2118d2e06991be3f67f90165807fdf80d9b9a"]
+[VersionToken "889efab8458a4b157fd9046afcf2118d2e06991be3f67f90165807fdf80d9b9a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -46,7 +46,7 @@ NORTH knows there is no slam, so he passes 3NT.}
 2C pass 2D pass 2H pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "09de171f43d5af99dc7ab4e6ee5daeb0443b06ee8a5f16dd60f89a90bf17fe81"]
+[VersionToken "09de171f43d5af99dc7ab4e6ee5daeb0443b06ee8a5f16dd60f89a90bf17fe81"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -75,7 +75,7 @@ SOUTH rebids his suit, 3\H, and NORTH passes.}
 2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
+[VersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -103,7 +103,7 @@ When SOUTH shows one Ace NORTH bids 6\H.}
 2C pass 2S pass 3S pass 4C pass 4D pass 4NT pass 5S pass 7S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
+[VersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f3f4f5876961df43a5d69c547b6809e6dc9c37194a18ac9adbc5f1be4c310011"]
+[VersionToken "f3f4f5876961df43a5d69c547b6809e6dc9c37194a18ac9adbc5f1be4c310011"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -61,7 +61,7 @@ Here it took two ruffs, one in each hand.}
 1NT pass 2D pass 2H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "56373bbf002e93a21993ff20547f8f6870b3aef9a08668d48eafa663e9ebc8d0"]
+[VersionToken "56373bbf002e93a21993ff20547f8f6870b3aef9a08668d48eafa663e9ebc8d0"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -103,7 +103,7 @@ Decide for yourself!}
 2C pass 2D pass 3D pass 4D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "01618350bda46f12a7248708f4ea4ba9cb356a501754d620485032d9a9d0baf8"]
+[VersionToken "01618350bda46f12a7248708f4ea4ba9cb356a501754d620485032d9a9d0baf8"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -141,7 +141,7 @@ As you see, A Q 9 actually works just as well.}
 1C pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "39b8aaddaf4aeacb4cbb540f0969d04d9175ac66f3d33b4c486754f4beeba3dd"]
+[VersionToken "39b8aaddaf4aeacb4cbb540f0969d04d9175ac66f3d33b4c486754f4beeba3dd"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -179,7 +179,7 @@ If East makes the first play by leading a low \S you play low from your hand. We
 pass 1D 1H 2H X 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e126a649de863297a90bdfd2cb656f86eb2e352a0ff742817d2369ca71f0ec86"]
+[VersionToken "e126a649de863297a90bdfd2cb656f86eb2e352a0ff742817d2369ca71f0ec86"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Finesse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c2628ed0b4542d83daa7441d1bba9ef908a5f7b369e8be6129d3392588e113c9"]
+[VersionToken "c2628ed0b4542d83daa7441d1bba9ef908a5f7b369e8be6129d3392588e113c9"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -53,7 +53,7 @@ So it is basically a 50% chance.}
 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "15a5ddf7153cb4eeb409e0b220ad0e41eae962898bc59f924b32bbdefa5ac775"]
+[VersionToken "15a5ddf7153cb4eeb409e0b220ad0e41eae962898bc59f924b32bbdefa5ac775"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -89,7 +89,7 @@ And the rewards are great.}
 1D pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a8cee77f4fd39dc6de17574fa9750633499369d4e4a32695278612c64c39da3e"]
+[VersionToken "a8cee77f4fd39dc6de17574fa9750633499369d4e4a32695278612c64c39da3e"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -127,7 +127,7 @@ But at Match Point Pairs the reward would be much greater, a probable very high 
 1D pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "0eb41cd3a5699a7ed960cd7e1b6ebe1231dde1951cd0724290594c1d8f775b1a"]
+[VersionToken "0eb41cd3a5699a7ed960cd7e1b6ebe1231dde1951cd0724290594c1d8f775b1a"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]

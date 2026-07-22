@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Weak2
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "45652ef8ed571962e7b4c862a7aaf67e7d674537ff9ecca42d83615b16a50e39"]
+[VersionToken "45652ef8ed571962e7b4c862a7aaf67e7d674537ff9ecca42d83615b16a50e39"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -43,7 +43,7 @@ The 2NT bid is forcing and your suit is A K Q x x x. This is the standard guidel
 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2b2b71713f6c46c8d26b72293bdc736bc68ac68346c13e20de3411a66ca82b62"]
+[VersionToken "2b2b71713f6c46c8d26b72293bdc736bc68ac68346c13e20de3411a66ca82b62"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -64,7 +64,7 @@ The 2NT bid is forcing and your suit is A K Q x x x. This is the standard guidel
 2H pass 2NT pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d489c6fd42f88040bef894b34466acd59acd99205dca9d8f224b87ba1be5090c"]
+[VersionToken "d489c6fd42f88040bef894b34466acd59acd99205dca9d8f224b87ba1be5090c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -89,7 +89,7 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 2H pass 2NT pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d0739de688023bba032f4591beaa450e491f5371d7c096f07e1053eabf2ccefe"]
+[VersionToken "d0739de688023bba032f4591beaa450e491f5371d7c096f07e1053eabf2ccefe"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]

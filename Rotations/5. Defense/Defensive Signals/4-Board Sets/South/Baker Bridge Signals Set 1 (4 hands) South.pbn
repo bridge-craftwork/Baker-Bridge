@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C 1S 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "03df2add2bea2541aa8ce849bb9655d4fcd0c0473ec21b0d1da376cf942ac238"]
+[VersionToken "03df2add2bea2541aa8ce849bb9655d4fcd0c0473ec21b0d1da376cf942ac238"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -52,7 +52,7 @@ If you play the \D10 East will win the \DA and return a \S, allowing you to driv
 1C 1S 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "dc2ac3dae9e401c09f668040c99891b74adbb796abf305126024fd324da8faa8"]
+[VersionToken "dc2ac3dae9e401c09f668040c99891b74adbb796abf305126024fd324da8faa8"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -86,7 +86,7 @@ There IS another possibility if South is a better than average Declarer. East ju
 1H 2C 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "60f6d6f8ca375ad7e817b4fcf3e07aa6f99559fb17cdd1588a9cb63dfe1e4607"]
+[VersionToken "60f6d6f8ca375ad7e817b4fcf3e07aa6f99559fb17cdd1588a9cb63dfe1e4607"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -116,7 +116,7 @@ When he next plays the \CK dummy will ruff, but whatever card he ruffs with you 
 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "606b7c3abe6faffb2e869b885bc8607efde2f07813b56f7655c6b743b36b291a"]
+[VersionToken "606b7c3abe6faffb2e869b885bc8607efde2f07813b56f7655c6b743b36b291a"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]

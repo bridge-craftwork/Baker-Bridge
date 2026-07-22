@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Jacoby2NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "db23c29bcfc94d5b429f707cd63198770dfdcbe3ab6ec150837ee17df7121691"]
+[VersionToken "db23c29bcfc94d5b429f707cd63198770dfdcbe3ab6ec150837ee17df7121691"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -43,7 +43,7 @@ and stop at 5\H if he has just one. If South has no Aces NORTH will get a new pa
 1S pass 2NT pass 3NT pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ae90034c7a3f2e53a2c501c1008fbf36c8104cf8783b574ad339e1a89864581f"]
+[VersionToken "ae90034c7a3f2e53a2c501c1008fbf36c8104cf8783b574ad339e1a89864581f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -70,7 +70,7 @@ Control bid of 4\H denied first-round control in both \Cs and
 1S pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ca728d47b00000f0051d26f3b897137de7bfb37b0ae3c4c13eef8eb87f0df251"]
+[VersionToken "ca728d47b00000f0051d26f3b897137de7bfb37b0ae3c4c13eef8eb87f0df251"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -95,7 +95,7 @@ to initiate the investigation herself.}
 1H pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "77b478640eafb62b83b72ecc0e828fd68ee8652858b06eac1878bdb3a20b8949"]
+[VersionToken "77b478640eafb62b83b72ecc0e828fd68ee8652858b06eac1878bdb3a20b8949"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -120,7 +120,7 @@ it does nothing to help the value of her hand. So she bids the \H game.}
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "74aabfc2d425d8d7678a1a0317f6415823d4d3c035ebe325627b991c5cd7a77f"]
+[VersionToken "74aabfc2d425d8d7678a1a0317f6415823d4d3c035ebe325627b991c5cd7a77f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]

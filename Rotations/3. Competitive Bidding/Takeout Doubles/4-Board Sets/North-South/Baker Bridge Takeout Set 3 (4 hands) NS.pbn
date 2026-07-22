@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1S X pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2cc6d5510d143f1e1057490230a2f9c6d5380eab30384769f352b4edb611c07f"]
+[VersionToken "2cc6d5510d143f1e1057490230a2f9c6d5380eab30384769f352b4edb611c07f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -42,7 +42,7 @@ You bid 2\H, describing your hand as a 1-suited hand, too strong to merely overc
 1C pass 1S X pass 2D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d096daf126f7e366fd82e0dda7ffaf93f829e4a347b4e690c8bfe37ad3f3d6da"]
+[VersionToken "d096daf126f7e366fd82e0dda7ffaf93f829e4a347b4e690c8bfe37ad3f3d6da"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -69,7 +69,7 @@ Just pass. This is obviously a fight for the partscore and you have the advantag
 pass 2S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "47dda3471bfa1f23d67fe0de415f47710f73cf78d4f416bf2e018569cd4b281b"]
+[VersionToken "47dda3471bfa1f23d67fe0de415f47710f73cf78d4f416bf2e018569cd4b281b"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -94,7 +94,7 @@ Some questions don't have a correct answer. If partner has \H Q x x x along with
 1D X pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f4e8b10b516e351a922ca16c6ce9dde668e0c591f2280717abb26db157ef7a1f"]
+[VersionToken "f4e8b10b516e351a922ca16c6ce9dde668e0c591f2280717abb26db157ef7a1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]

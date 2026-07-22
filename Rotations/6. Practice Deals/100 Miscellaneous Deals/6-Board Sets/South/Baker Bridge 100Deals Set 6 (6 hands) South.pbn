@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C pass 1H pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6243c501682f64fd6707aa66c3ce13fdc0f61e6ff4db3f47c4865efc3b6e490a"]
+[VersionToken "6243c501682f64fd6707aa66c3ce13fdc0f61e6ff4db3f47c4865efc3b6e490a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -66,7 +66,7 @@ If East ruffs the fourth \H with his master \SQ South just discards a \D loser a
 pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6eff14b149a7275c1b4777e3baa9cc920f41e4025d014abb0359fac1abeddc6a"]
+[VersionToken "6eff14b149a7275c1b4777e3baa9cc920f41e4025d014abb0359fac1abeddc6a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -104,7 +104,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 pass 1C pass 3C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b95f9a3aae99db32e67e3437b640643c6002a318213c373478e5a6a1ceca62b5"]
+[VersionToken "b95f9a3aae99db32e67e3437b640643c6002a318213c373478e5a6a1ceca62b5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -150,7 +150,7 @@ In this hand that something is to establish the \SK so you can discard your \D l
 pass 1H pass 3H pass 4NT pass 5C pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0dfd9bd8315bf21c0c524fd688e6f4415757794182068df2eaa4539e1dedc18f"]
+[VersionToken "0dfd9bd8315bf21c0c524fd688e6f4415757794182068df2eaa4539e1dedc18f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -190,7 +190,7 @@ Imagine what the defense will do if you lead a round of trumps. Then imagine wha
 1D pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ad45d9f9afe0ef016809ea4fbefffd5077a57b519ded0b69b50ecabae5e1eb7e"]
+[VersionToken "ad45d9f9afe0ef016809ea4fbefffd5077a57b519ded0b69b50ecabae5e1eb7e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -228,7 +228,7 @@ When East holds the \SK you can always get 3 \S tricks if you play correctly. }
 1NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "33423badc1f173fce45cf3e4b1e9393a69aa41867fcb09189258672bd060d432"]
+[VersionToken "33423badc1f173fce45cf3e4b1e9393a69aa41867fcb09189258672bd060d432"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

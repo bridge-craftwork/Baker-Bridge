@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "822079dcff3ac8584f35a55f0b7b69c1f4a808a3ec4a13d96f60d1c12ddadf68"]
+[VersionToken "822079dcff3ac8584f35a55f0b7b69c1f4a808a3ec4a13d96f60d1c12ddadf68"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -56,7 +56,7 @@ West would have won and played a \H, removing your second stopper. When \Cs did 
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "33ae21c892e4c307eeb4b1cb3e4820b5f951ec797e090e3250b290866cf66001"]
+[VersionToken "33ae21c892e4c307eeb4b1cb3e4820b5f951ec797e090e3250b290866cf66001"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -92,7 +92,7 @@ Some would go down on this hand when they ruffed the first \S with dummy's \H3 a
 1NT pass 2C pass 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "495c55509c4e0500ffd53c83b5c56290db8f7d926cdcb68327f14cac4e9f4d21"]
+[VersionToken "495c55509c4e0500ffd53c83b5c56290db8f7d926cdcb68327f14cac4e9f4d21"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -134,7 +134,7 @@ The play for this hand was not straightforward at all, and might have taken a di
 pass 1D pass 1H pass 2NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "65683f3980b8e5a8b58f6d1f2e2c2283738abc779f8a6a6a66b0124ab349e691"]
+[VersionToken "65683f3980b8e5a8b58f6d1f2e2c2283738abc779f8a6a6a66b0124ab349e691"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

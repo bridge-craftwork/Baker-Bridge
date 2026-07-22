@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8883589de4d504cce095abcb5eff39a4f759b59a66ce08334d0be39ae85b27e7"]
+[VersionToken "8883589de4d504cce095abcb5eff39a4f759b59a66ce08334d0be39ae85b27e7"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -48,7 +48,7 @@ So if you put on your \DA, North will have TWO \D winners established. If instea
 1S pass 3D pass 3H pass 3NT pass 4H pass 4NT pass 5H pass 6H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c3d4d230afc9b65e7aeb6829de2968537566dbf5eb1af45ab45062616e89dbbf"]
+[VersionToken "c3d4d230afc9b65e7aeb6829de2968537566dbf5eb1af45ab45062616e89dbbf"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -80,7 +80,7 @@ As it turns out, when you play low South calls for dummy's \HK, East's \HQ falls
 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0aebf656f7f2bc3bec156d439d12678e2a77a91b7ae76c6d7d674ad85dd0e750"]
+[VersionToken "0aebf656f7f2bc3bec156d439d12678e2a77a91b7ae76c6d7d674ad85dd0e750"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -114,7 +114,7 @@ Now that you have looked at the hands aren't you glad you didn't cover?}
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7ce83dc2022a3d24890426c3fde360f59476c088cf0d5869153f463354dc66f5"]
+[VersionToken "7ce83dc2022a3d24890426c3fde360f59476c088cf0d5869153f463354dc66f5"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]

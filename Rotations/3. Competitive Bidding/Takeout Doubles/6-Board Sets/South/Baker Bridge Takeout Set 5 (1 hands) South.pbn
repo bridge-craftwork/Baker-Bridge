@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C X pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "09111367b1645be09714b4f8af3944f8ac9e8a2b7473a86ff045e30c88c8651c"]
+[VersionToken "09111367b1645be09714b4f8af3944f8ac9e8a2b7473a86ff045e30c88c8651c"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]

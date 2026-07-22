@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 3D pass 4D pass 4H pass 4S pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9bafa616421a57799b9a50ce3605be9f8c96479014d27f69979911eb2aaea018"]
+[VersionToken "9bafa616421a57799b9a50ce3605be9f8c96479014d27f69979911eb2aaea018"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -72,7 +72,7 @@ So whenever you see your contract depending on a finesse, just look again and se
 2H 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cff2da3ec5a62de5cc4b4389fa5687f164139278569dd13329a97e8f3da7cbd3"]
+[VersionToken "cff2da3ec5a62de5cc4b4389fa5687f164139278569dd13329a97e8f3da7cbd3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -110,7 +110,7 @@ But it wouldn't matter, you would still play the same way. As long as you can st
 1NT pass 2C pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "dfd8f33f47ff8b8def7bb288202d445e8d09e9ad0172210a7582920487f6cbf0"]
+[VersionToken "dfd8f33f47ff8b8def7bb288202d445e8d09e9ad0172210a7582920487f6cbf0"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -154,7 +154,7 @@ It would be tough for East to come up with a \S lead from \S K 7 3, but it would
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2ba36d44b5d1f955ac62311ef1f6ea06aec35b5e296327b81996cf3c88ac620e"]
+[VersionToken "2ba36d44b5d1f955ac62311ef1f6ea06aec35b5e296327b81996cf3c88ac620e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -196,7 +196,7 @@ If East had not followed to the second \C you might not have been able to use th
 1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b80c224611872a6b8fd0a0213c3c07036913e7c971f42c9e63fafa65e54ca306"]
+[VersionToken "b80c224611872a6b8fd0a0213c3c07036913e7c971f42c9e63fafa65e54ca306"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

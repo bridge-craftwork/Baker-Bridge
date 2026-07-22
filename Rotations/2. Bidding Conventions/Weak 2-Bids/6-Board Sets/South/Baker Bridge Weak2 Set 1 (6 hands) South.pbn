@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Weak2
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2D pass 4D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8dcdf210301b490ae5d2b2c02ec6dfd22663e46fedcd1b3c222eff3b0b12b61d"]
+[VersionToken "8dcdf210301b490ae5d2b2c02ec6dfd22663e46fedcd1b3c222eff3b0b12b61d"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -43,7 +43,7 @@ This is not an invitation to bid game. If partner had game interest he would bid
 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4bca658e513690c84b448b2f035c37a88246339f788a60a2eb3fb87261f00952"]
+[VersionToken "4bca658e513690c84b448b2f035c37a88246339f788a60a2eb3fb87261f00952"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -64,7 +64,7 @@ This is not an invitation to bid game. If partner had game interest he would bid
 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5ba90610581acd0f860a6ac2b5ae7a95db026eb272b9e804321a1adc8db351d1"]
+[VersionToken "5ba90610581acd0f860a6ac2b5ae7a95db026eb272b9e804321a1adc8db351d1"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -89,7 +89,7 @@ You say "pass". Partner has no interest in game since he didn't bid 2NT. This is
 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9f1eb766c1f9eeadb433f381705ae01cfe27af782c516601a742694b4cd8912d"]
+[VersionToken "9f1eb766c1f9eeadb433f381705ae01cfe27af782c516601a742694b4cd8912d"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -110,7 +110,7 @@ You say "pass". Partner has no interest in game since he didn't bid 2NT. This is
 2H pass 2NT pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2d4debb402076ceaaf1865c1d6450223f3e7ad3d7c0de341c40c27894dca52fc"]
+[VersionToken "2d4debb402076ceaaf1865c1d6450223f3e7ad3d7c0de341c40c27894dca52fc"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -135,7 +135,7 @@ The 2NT bid is forcing. Your \DK is a feature, but your immediate priority is to
 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1ae2c3501612aeb61ac98f4a4ff951c06ca3baa02287c44cd8ed82757eb73a07"]
+[VersionToken "1ae2c3501612aeb61ac98f4a4ff951c06ca3baa02287c44cd8ed82757eb73a07"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]

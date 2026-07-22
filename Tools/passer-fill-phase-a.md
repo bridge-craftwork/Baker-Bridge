@@ -99,7 +99,7 @@ non-pass, so rejected candidates are cheap (~1 BBA call).
 - Integrate into `fill_hands.py` (make the Windows/SSH path legacy) or replace it.
 - Carry the managed-variety knobs (`--variety`, `--max-suit`) forward; tune defaults per
   lesson only if wanted.
-- Token re-stamping: changing passers changes `[BoardVersionToken]`; the build's
+- Token re-stamping: changing passers changes `[VersionToken]`; the build's
   `stamp_board_tokens.py` re-stamps, but a fill regeneration is a board-identity change BC
   will see — coordinate per the producer contract when this actually reships.
 

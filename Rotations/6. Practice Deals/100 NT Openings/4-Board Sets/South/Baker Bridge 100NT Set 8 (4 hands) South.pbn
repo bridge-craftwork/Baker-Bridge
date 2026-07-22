@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2H 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "00b1f87262034243d09b486294944248523b78adbb10c802c5dc05a43417edd0"]
+[VersionToken "00b1f87262034243d09b486294944248523b78adbb10c802c5dc05a43417edd0"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -62,7 +62,7 @@ Watch those spot cards. You may have to unblock them to stay in the hand you wan
 1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6d1580bbb49e4bb2e637ad31b4be258177c686c806e3180471af0aed67524d15"]
+[VersionToken "6d1580bbb49e4bb2e637ad31b4be258177c686c806e3180471af0aed67524d15"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -104,7 +104,7 @@ Here, with only 2 trumps left out, you can afford the \SA.}
 1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f61679b11e34962715c06ba13e3a32da671705a22171126e97f7315297d26471"]
+[VersionToken "f61679b11e34962715c06ba13e3a32da671705a22171126e97f7315297d26471"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -144,7 +144,7 @@ You had to get rid of dummy's singleton \H first - the fact that it was a winner
 pass 1NT pass 2S pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "79a51d7e0f0814164be2ceca8fd5414e095fddef03a35128312d0a59d4800fd6"]
+[VersionToken "79a51d7e0f0814164be2ceca8fd5414e095fddef03a35128312d0a59d4800fd6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

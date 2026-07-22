@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent DONT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT X pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a14ec074824365e37e4eaca260556fd856056f558e3eff65aa980c7414133dc6"]
+[VersionToken "a14ec074824365e37e4eaca260556fd856056f558e3eff65aa980c7414133dc6"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -41,7 +41,7 @@ But you don't want him to bid his 6-card suit, your hand is useless unless \Ss a
 1NT pass pass X pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f4f7497daf69562b96f4a1857e5dbc370acc316d4f608e767e3eed522619e4fd"]
+[VersionToken "f4f7497daf69562b96f4a1857e5dbc370acc316d4f608e767e3eed522619e4fd"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -66,7 +66,7 @@ You bid your suit, 2\H, and everybody passes. Notice that partner had a decent h
 1NT pass pass X pass 2C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2e53dd53385cff309b8751764e410976e94f3bbac423aaa5df2ecb65f687892c"]
+[VersionToken "2e53dd53385cff309b8751764e410976e94f3bbac423aaa5df2ecb65f687892c"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -93,7 +93,7 @@ Your premonition came true. Partner passes and you are left playing 2\C with a s
 1NT X pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "57aa7c03853542ad44f5fde88701491f96d6d580d456bdb6cd9c2b1cf7a91efb"]
+[VersionToken "57aa7c03853542ad44f5fde88701491f96d6d580d456bdb6cd9c2b1cf7a91efb"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -116,7 +116,7 @@ There is a reason partner didn't say 2\C (which you were going to pass). And the
 1NT 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bde999b3681b0c9f8c9dfad1442634dafda206c5bfbac811d2f34ef03d1ac42f"]
+[VersionToken "bde999b3681b0c9f8c9dfad1442634dafda206c5bfbac811d2f34ef03d1ac42f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]

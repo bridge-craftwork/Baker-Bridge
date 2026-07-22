@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "445659d7fdb9e244c9ebaf8df3a400c3c6a531c8abae93abbc39cf46a994fb0f"]
+[VersionToken "445659d7fdb9e244c9ebaf8df3a400c3c6a531c8abae93abbc39cf46a994fb0f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -60,7 +60,7 @@ You cannot make 10 tricks unless West's opening lead is a \S. }
 1D pass 1S pass 2S pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "758be55ed8a59f84b57260b86e63234b1c1ecb14b690863ab65ad709b6ca62df"]
+[VersionToken "758be55ed8a59f84b57260b86e63234b1c1ecb14b690863ab65ad709b6ca62df"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -116,7 +116,7 @@ In this hand you could not be defeated unless the \Ds split 5-1.}
 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "edacb27611bf165d4e4740b48b45529b9dbda8401523641eb8124eb586bc8491"]
+[VersionToken "edacb27611bf165d4e4740b48b45529b9dbda8401523641eb8124eb586bc8491"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -162,7 +162,7 @@ But did you see there is another way to reach your hand? You could play \SA then
 1S pass 2S pass 3D pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a49b618b165e8a918c972acf59d413d78b9bf6f46577f9cf9084bd024dc70140"]
+[VersionToken "a49b618b165e8a918c972acf59d413d78b9bf6f46577f9cf9084bd024dc70140"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -210,7 +210,7 @@ Look at what would have happened if you had led a trump at trick 2. East could h
 1C pass 1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6b2bd1e48b34f5f5321a3dbb746ab48c71e25f42e84c7bcd140df5a963a08ee7"]
+[VersionToken "6b2bd1e48b34f5f5321a3dbb746ab48c71e25f42e84c7bcd140df5a963a08ee7"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -250,7 +250,7 @@ If you did not have the \SJ you would never consider doing anything except hold 
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "18c40cdb1130ffca0abeb5f924ae2e828a82ded479c134aa45d36d38dcf58132"]
+[VersionToken "18c40cdb1130ffca0abeb5f924ae2e828a82ded479c134aa45d36d38dcf58132"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

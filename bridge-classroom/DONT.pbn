@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent DONT
 %bridge-classroom-stable: true
@@ -15,7 +15,7 @@
 [Auction "E"]
 1NT 2D pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "e614c2b0ce4732d5dc6d864088625a769da784e7168be76e9a781dbbf9017946"]
+[VersionToken "e614c2b0ce4732d5dc6d864088625a769da784e7168be76e9a781dbbf9017946"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -46,7 +46,7 @@ Don't get carried away, partner isn't really bidding a \H suit as much as he is 
 [Auction "W"]
 1NT X pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "155e917449dfa2d79b5976a13609dc23e6707e848577d53d78f5274d262a49f4"]
+[VersionToken "155e917449dfa2d79b5976a13609dc23e6707e848577d53d78f5274d262a49f4"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -77,7 +77,7 @@ You didn't want to bid the first time, this time you definitely pass.}
 [Auction "W"]
 1NT pass pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "e0e55049aa97a93d9a45e91e715b7019380dc62d440d7fbf07bea6b25bfa553a"]
+[VersionToken "e0e55049aa97a93d9a45e91e715b7019380dc62d440d7fbf07bea6b25bfa553a"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -108,7 +108,7 @@ Partner prefers \Ss to \Hs. Since you were bare minimum you pass.}
 [Auction "E"]
 1NT pass pass 2D pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "9c27797ab2d4f7faeccb9436d9700ff44449dad304e418df47665fbf2b05445f"]
+[VersionToken "9c27797ab2d4f7faeccb9436d9700ff44449dad304e418df47665fbf2b05445f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -141,7 +141,7 @@ Since you can tolerate \Ds your safest call is pass.}
 [Auction "E"]
 1NT X pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "9cb37a0f166611056a188b6bf8b2a1e0f5106831e4857a0732a679d6c942f6b0"]
+[VersionToken "9cb37a0f166611056a188b6bf8b2a1e0f5106831e4857a0732a679d6c942f6b0"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -172,7 +172,7 @@ Now you follow procedure by showing your 6-card suit. You bid 2\H and everybody 
 [Auction "W"]
 1NT X pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a14ec074824365e37e4eaca260556fd856056f558e3eff65aa980c7414133dc6"]
+[VersionToken "a14ec074824365e37e4eaca260556fd856056f558e3eff65aa980c7414133dc6"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -199,7 +199,7 @@ But you don't want him to bid his 6-card suit, your hand is useless unless \Ss a
 [Auction "W"]
 1NT pass pass X pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f4f7497daf69562b96f4a1857e5dbc370acc316d4f608e767e3eed522619e4fd"]
+[VersionToken "f4f7497daf69562b96f4a1857e5dbc370acc316d4f608e767e3eed522619e4fd"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -230,7 +230,7 @@ You bid your suit, 2\H, and everybody passes. Notice that partner had a decent h
 [Auction "E"]
 1NT pass pass X pass 2C pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "2e53dd53385cff309b8751764e410976e94f3bbac423aaa5df2ecb65f687892c"]
+[VersionToken "2e53dd53385cff309b8751764e410976e94f3bbac423aaa5df2ecb65f687892c"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -263,7 +263,7 @@ Your premonition came true. Partner passes and you are left playing 2\C with a s
 [Auction "E"]
 1NT X pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "57aa7c03853542ad44f5fde88701491f96d6d580d456bdb6cd9c2b1cf7a91efb"]
+[VersionToken "57aa7c03853542ad44f5fde88701491f96d6d580d456bdb6cd9c2b1cf7a91efb"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -294,7 +294,7 @@ There is a reason partner didn't say 2\C (which you were going to pass). And the
 [Auction "W"]
 1NT 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "bde999b3681b0c9f8c9dfad1442634dafda206c5bfbac811d2f34ef03d1ac42f"]
+[VersionToken "bde999b3681b0c9f8c9dfad1442634dafda206c5bfbac811d2f34ef03d1ac42f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -323,7 +323,7 @@ So you bid 3\H and partner says 4\H.}
 [Auction "W"]
 1NT pass pass 2C pass 2D pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "c93034d235d8d91024d3a1fac9cacff945f3b3221824b123ad60a7f124f3e444"]
+[VersionToken "c93034d235d8d91024d3a1fac9cacff945f3b3221824b123ad60a7f124f3e444"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -356,7 +356,7 @@ You bid 2\S and everybody passes.}
 [Auction "E"]
 1NT pass pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "acdac8596aac3387a0f7630b590d0d9b7e8a80c065c3dd1a0d31c171dd23471d"]
+[VersionToken "acdac8596aac3387a0f7630b590d0d9b7e8a80c065c3dd1a0d31c171dd23471d"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -389,7 +389,7 @@ Still, you know he has a 6-card suit and you also know that every finesse is goi
 [Auction "E"]
 1NT X pass 2C pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "20815f147e1c8cd21548e087ff234a1c8e74762bbc29f183a5c29ac909e4b376"]
+[VersionToken "20815f147e1c8cd21548e087ff234a1c8e74762bbc29f183a5c29ac909e4b376"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -420,7 +420,7 @@ You say pass, of course.}
 [Auction "W"]
 1NT 2C pass 2D pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7326f14cc986597a418ff84eb09bc30b446d8a6e395feec1a980299949440880"]
+[VersionToken "7326f14cc986597a418ff84eb09bc30b446d8a6e395feec1a980299949440880"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -449,7 +449,7 @@ Partner corrects to 2\S, his "something else" and you pass.}
 [Auction "W"]
 1NT pass pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "b209ed09999ba0f472eb03ea8b50ad8f803c81a6d8c84abfc354c102a3199054"]
+[VersionToken "b209ed09999ba0f472eb03ea8b50ad8f803c81a6d8c84abfc354c102a3199054"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -482,7 +482,7 @@ So you pass.}
 [Auction "E"]
 1NT pass pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7a02ad263c036ef7d5e958a5d144325e6dfa35895c9b8acc59085e61460ef390"]
+[VersionToken "7a02ad263c036ef7d5e958a5d144325e6dfa35895c9b8acc59085e61460ef390"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -515,7 +515,7 @@ You like \Hs better and don't have enough strength to think about game so you pa
 [Auction "E"]
 1NT 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "fe7b81da98486fe7d27eb90c625d34d94edab3999cdf5336ede48b558f6a68e7"]
+[VersionToken "fe7b81da98486fe7d27eb90c625d34d94edab3999cdf5336ede48b558f6a68e7"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -542,7 +542,7 @@ But with the weak hand you bid 2\S instead of double. Everybody passes.}
 [Auction "E"]
 1NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a10c25a4e74cb98ccdeed39a1408d44f1b3e53f00a2032096018eea335013562"]
+[VersionToken "a10c25a4e74cb98ccdeed39a1408d44f1b3e53f00a2032096018eea335013562"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -571,7 +571,7 @@ So you pass.}
 [Auction "W"]
 1NT pass pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "45192f1b753cc6c9ced41ee5ef7a84fbd10c01a6ad65d80c38f397858c550994"]
+[VersionToken "45192f1b753cc6c9ced41ee5ef7a84fbd10c01a6ad65d80c38f397858c550994"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -598,7 +598,7 @@ You do bid just 2\S though, rather than a double followed by 2\S, which would sh
 [Auction "E"]
 1NT pass pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d411c6187e94ced29ae64e222b3bc2d4119bf9102a8bf358be4db15e8d44f41f"]
+[VersionToken "d411c6187e94ced29ae64e222b3bc2d4119bf9102a8bf358be4db15e8d44f41f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]

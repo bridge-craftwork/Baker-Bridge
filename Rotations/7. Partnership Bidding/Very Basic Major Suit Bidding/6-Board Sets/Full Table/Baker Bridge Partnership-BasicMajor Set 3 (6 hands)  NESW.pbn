@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicMajor
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0c81bdc80a0d700154112d1e2b3eb043af95b4645a493e7aea4b28d40403ad1c"]
+[VersionToken "0c81bdc80a0d700154112d1e2b3eb043af95b4645a493e7aea4b28d40403ad1c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -46,7 +46,7 @@ would arrive at the same contract. See some of the other BakerBridge lessons for
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "794dfb2793a4b0cb9f15d381cc42dae2b6e268d3a2c82fafd228e2d647f71ccb"]
+[VersionToken "794dfb2793a4b0cb9f15d381cc42dae2b6e268d3a2c82fafd228e2d647f71ccb"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -72,7 +72,7 @@ the opponents have no way to win the first two tricks he decides to bid the slam
 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "80891590179a7f78daae066ee93420887b832a06fb5f15bd6349aee79aa95969"]
+[VersionToken "80891590179a7f78daae066ee93420887b832a06fb5f15bd6349aee79aa95969"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -100,7 +100,7 @@ need to find another way to describe your opening-hand-strength type hands.}
 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "ce091be898ce64418528dcf1f0ee453153720d4dc4946499db07e18f05f2952c"]
+[VersionToken "ce091be898ce64418528dcf1f0ee453153720d4dc4946499db07e18f05f2952c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -128,7 +128,7 @@ This is similar to Deal 13.}
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7d560d3d2e1a2c7d206d4c111f976f1ba2e736734837651bd84406ced2741248"]
+[VersionToken "7d560d3d2e1a2c7d206d4c111f976f1ba2e736734837651bd84406ced2741248"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -154,7 +154,7 @@ take the safe position and just bid 4\H.}
 pass pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "7e16888ac4db0e766ab2deb93a2a7023d082624b2eaf1c895465ea7b844822d3"]
+[VersionToken "7e16888ac4db0e766ab2deb93a2a7023d082624b2eaf1c895465ea7b844822d3"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]

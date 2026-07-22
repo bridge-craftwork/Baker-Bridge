@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Leben
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2S 2NT pass 3C pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1a87aa1df471ad64afdc6668d200b4b3e255e7e05e88bea05974dc5b630b3d74"]
+[VersionToken "1a87aa1df471ad64afdc6668d200b4b3e255e7e05e88bea05974dc5b630b3d74"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -45,7 +45,7 @@ NOW you cue-bid 3\S. This is Stayman, but with a \S stopper, (SLOW SHOWS). Partn
 1NT 2D 2NT pass 3C pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c58a5666f1e1cddcd0fb85bc488831e7806be2d74b04a9f5b726c60fab709c4e"]
+[VersionToken "c58a5666f1e1cddcd0fb85bc488831e7806be2d74b04a9f5b726c60fab709c4e"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -72,7 +72,7 @@ With no 4-card Major of your own, you pick 3NT.}
 1NT 2H 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1cea8d2119f2d537a0f4344e35571b2deda08e5a552075a6a58ccd1bfa23a763"]
+[VersionToken "1cea8d2119f2d537a0f4344e35571b2deda08e5a552075a6a58ccd1bfa23a763"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -97,7 +97,7 @@ Partner does have them stopped so he passes.}
 1NT 2H 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "adf746a22b35bc8be933310558c9d9f18dba20295dae88edc0ebba79c6922522"]
+[VersionToken "adf746a22b35bc8be933310558c9d9f18dba20295dae88edc0ebba79c6922522"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -122,7 +122,7 @@ Partner's bidding shows a hand with which he would have bid 3NT without the over
 1NT 2S 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "06fd738bb9b1b181fad23f5f76152b9ec92e48a8a467e05f3f33ad95e52d44f9"]
+[VersionToken "06fd738bb9b1b181fad23f5f76152b9ec92e48a8a467e05f3f33ad95e52d44f9"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]

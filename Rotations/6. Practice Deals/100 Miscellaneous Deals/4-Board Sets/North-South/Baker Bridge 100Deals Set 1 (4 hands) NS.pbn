@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "681caff5b9a2526a9443a99f32a96fd5fb808c32d6a343d9b34c7e3bf47bbc45"]
+[VersionToken "681caff5b9a2526a9443a99f32a96fd5fb808c32d6a343d9b34c7e3bf47bbc45"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -58,7 +58,7 @@ But even with this type of hand you should make sure you take them in the right 
 1D pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "78149227fe40d8e1740db7cb0a9c665e3b658d318b140af454a58275c568832a"]
+[VersionToken "78149227fe40d8e1740db7cb0a9c665e3b658d318b140af454a58275c568832a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -102,7 +102,7 @@ Making a PLAN is a necessary part of being a good Declarer and Visualizing what 
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bfb953b5cb574363f8f648053a4c9052497406333c66e11384747d347a38a340"]
+[VersionToken "bfb953b5cb574363f8f648053a4c9052497406333c66e11384747d347a38a340"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -144,7 +144,7 @@ This wasn't one of those times.}
 1S pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "840318e13e6fb18382aa8452ed1cecdca8d6dbf84df264243eaa2932cdd1d574"]
+[VersionToken "840318e13e6fb18382aa8452ed1cecdca8d6dbf84df264243eaa2932cdd1d574"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

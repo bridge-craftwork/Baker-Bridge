@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Jacoby2NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 3S pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a56fbf6bc22912cb28aef7efe823d1320fbed7a1bc06c95c5872bc7d20dbb2e7"]
+[VersionToken "a56fbf6bc22912cb28aef7efe823d1320fbed7a1bc06c95c5872bc7d20dbb2e7"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -43,7 +43,7 @@ she had just one \S loser anyway. She signs off in 4\H.}
 1H pass 3S pass 4C pass 4D pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c43df3d872b84ef5ab79e92e24ea60b1abb53aea6236999e4f1fa13cf669f9a9"]
+[VersionToken "c43df3d872b84ef5ab79e92e24ea60b1abb53aea6236999e4f1fa13cf669f9a9"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -69,7 +69,7 @@ uses Blackwood to make sure NORTH also has the trump Ace.}
 1H pass 2C pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "de02635bb51d388cc188394b757e2c1e5c4480c80621dbcfa3e368a9c3bf922f"]
+[VersionToken "de02635bb51d388cc188394b757e2c1e5c4480c80621dbcfa3e368a9c3bf922f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -96,7 +96,7 @@ NOTE: if you used Jacoby 2NT and reached the 4\H game, give yourself credit anyw
 1H pass 2NT pass 3S pass 4C pass 4NT pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d4a8a8fcaed305a95b5023ce065b082bb84e750fd3740335aba074e22edd25bb"]
+[VersionToken "d4a8a8fcaed305a95b5023ce065b082bb84e750fd3740335aba074e22edd25bb"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -121,7 +121,7 @@ When Blackwood reveals just two Aces in NORTH, SOUTH stops at 5\H.}
 1H pass 2NT pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d35019672c728834bb96bf1aeb967e36547fdc6c464788ce2d40bb66b0aeba57"]
+[VersionToken "d35019672c728834bb96bf1aeb967e36547fdc6c464788ce2d40bb66b0aeba57"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -148,7 +148,7 @@ just bids 4\H.}
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c636edbad0a9502087c0a02060e950d46f4d13df3efdce45c88f23db922e3e20"]
+[VersionToken "c636edbad0a9502087c0a02060e950d46f4d13df3efdce45c88f23db922e3e20"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]

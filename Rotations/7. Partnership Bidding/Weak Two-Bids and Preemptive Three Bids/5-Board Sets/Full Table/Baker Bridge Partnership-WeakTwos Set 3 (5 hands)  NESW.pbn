@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-WeakTwos
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "55434bc1870cefcfdf22c4059f1f165eefa7594294f39e9743297cc8a593f81f"]
+[VersionToken "55434bc1870cefcfdf22c4059f1f165eefa7594294f39e9743297cc8a593f81f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -43,7 +43,7 @@ but 5\C would go down 1.}
 2H pass 2NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "b668b1826052e2bf98e8202cad99657fd8e9d59b7b43e1f58c0fe15e6af50738"]
+[VersionToken "b668b1826052e2bf98e8202cad99657fd8e9d59b7b43e1f58c0fe15e6af50738"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -69,7 +69,7 @@ EAST returns to \Hs to show bare minimum so WEST settles for game.}
 2S pass 2NT pass 3C pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "78b1ecd0e5ac525adc6a19f76993a042e9b231322792372d830f16b4bf6f32a2"]
+[VersionToken "78b1ecd0e5ac525adc6a19f76993a042e9b231322792372d830f16b4bf6f32a2"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -96,7 +96,7 @@ he signs off in 3\S}
 2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "9197ee62b9ca49e529c39539295302c0d48918b5752103f35959026cb9050115"]
+[VersionToken "9197ee62b9ca49e529c39539295302c0d48918b5752103f35959026cb9050115"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -123,7 +123,7 @@ she bids 3NT.}
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6d06ca8612284f137f95b1a8c3c9109c4309d86dabcd525e9c529e543f816e06"]
+[VersionToken "6d06ca8612284f137f95b1a8c3c9109c4309d86dabcd525e9c529e543f816e06"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]

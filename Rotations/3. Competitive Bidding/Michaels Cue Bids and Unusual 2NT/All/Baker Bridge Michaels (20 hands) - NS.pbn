@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Michaels
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D 2D pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2dc92f0c7c24d6f1e128d7484d436599deb6c22e6c76ef3925d4b891143e4c1d"]
+[VersionToken "2dc92f0c7c24d6f1e128d7484d436599deb6c22e6c76ef3925d4b891143e4c1d"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -43,7 +43,7 @@ You have a rather minimum Michaels type hand and you asked partner to choose a M
 1C 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "218694e328d7a35ab193a2ac582448172c7cc5ba94b148209bc3f93b8a4a1f5f"]
+[VersionToken "218694e328d7a35ab193a2ac582448172c7cc5ba94b148209bc3f93b8a4a1f5f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -66,7 +66,7 @@ You have a fair hand with a guaranteed 8-card fit in either Major. You are not, 
 1H 2NT pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1c8fff7bcab08c3c41a49b40f248fe7338244c33b5564f1489a98743634c06de"]
+[VersionToken "1c8fff7bcab08c3c41a49b40f248fe7338244c33b5564f1489a98743634c06de"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -91,7 +91,7 @@ As mentioned, you have a pretty good hand, but partner only bid because you forc
 1S 2NT pass 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3a7483e4268982f4e08a9b5b04547c8405dca7ba400a65471303c8b066b374f4"]
+[VersionToken "3a7483e4268982f4e08a9b5b04547c8405dca7ba400a65471303c8b066b374f4"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -114,7 +114,7 @@ Your best suit is \Hs. But partner didn't ask you to bid \Hs, he asked you to pi
 1S 2S pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "24d73d8c393d7f1575c55a617df4658ba4855b68e31ca37329a8f788219cbd09"]
+[VersionToken "24d73d8c393d7f1575c55a617df4658ba4855b68e31ca37329a8f788219cbd09"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -139,7 +139,7 @@ Partner's jump might indicate he has a really good hand, or he might just have a
 1H 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d5c430bed8025ee25ed45d880da0e675b0e867d7c45cbdedfb58446d18be160b"]
+[VersionToken "d5c430bed8025ee25ed45d880da0e675b0e867d7c45cbdedfb58446d18be160b"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -162,7 +162,7 @@ You have no idea what you can make with this hand. Slam in one of the minors may
 1C 2NT pass 4D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "82365a7c4e0a1b419ff1cde3b510b8eff801649ccb16e5107104ec95ad2eb283"]
+[VersionToken "82365a7c4e0a1b419ff1cde3b510b8eff801649ccb16e5107104ec95ad2eb283"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -189,7 +189,7 @@ As you can see, <b>IF</b> they open the lead with a \C, and <b>IF</b> the \H fin
 1D 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "80b5ede0494ab446d0a216a66a0d945482a2e36250b4da6512949b074adbae69"]
+[VersionToken "80b5ede0494ab446d0a216a66a0d945482a2e36250b4da6512949b074adbae69"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -216,7 +216,7 @@ You will surely make this game if trumps split 2-2. If they don't then you will 
 1S 2S pass 2NT pass 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e22d81a22e78caef8fe5b81d1ea41f478e7f475c21cefa01489d059fdcdbe968"]
+[VersionToken "e22d81a22e78caef8fe5b81d1ea41f478e7f475c21cefa01489d059fdcdbe968"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -241,7 +241,7 @@ Is it possible that partner wants to play Notrump? Not at all. He hates \Hs and 
 1C 2NT pass 3D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "834754959ca2c7a971cf498d2db8556bb05717ea57c48260d14b70878b1635a1"]
+[VersionToken "834754959ca2c7a971cf498d2db8556bb05717ea57c48260d14b70878b1635a1"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -266,7 +266,7 @@ If you say to yourself "I only have 7 HCP" then you might pass. But if you say "
 1H 1S pass 2H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "56254b27f17d8bb6741716c78d4f43b6980c24a4d0a040d00a03ff5050127d1d"]
+[VersionToken "56254b27f17d8bb6741716c78d4f43b6980c24a4d0a040d00a03ff5050127d1d"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -291,7 +291,7 @@ Partner's cue-bid shows a limit-raise or better in \Ss. So you bid 4\S without t
 1H 2H pass 2NT pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5b28a9491e3e085cf8494d319bca3952176d3411848456d9ab034e4a7408ec92"]
+[VersionToken "5b28a9491e3e085cf8494d319bca3952176d3411848456d9ab034e4a7408ec92"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -316,7 +316,7 @@ Partner only made a minimum bid, so you have no choice but to pass.}
 1D 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f2322b1829de7f5d06ddf2bba6779223d965d1521f4275e106f5c161f22a9a44"]
+[VersionToken "f2322b1829de7f5d06ddf2bba6779223d965d1521f4275e106f5c161f22a9a44"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -341,7 +341,7 @@ Yes, you have a high-level Michaels hand but don't get carried away. Remember th
 1C 2NT pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e072f78c45879dc5beec1a47ccc649b3f7e9212946d630606c87477c6980af7a"]
+[VersionToken "e072f78c45879dc5beec1a47ccc649b3f7e9212946d630606c87477c6980af7a"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -364,7 +364,7 @@ Partner wants you to bid \Hs or \Ds. You figure that in either of the red suits 
 1C 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "eafe6fb46c9b06099f2f9328e5593fe99a308ce381520de2063541108008dff0"]
+[VersionToken "eafe6fb46c9b06099f2f9328e5593fe99a308ce381520de2063541108008dff0"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -391,7 +391,7 @@ Will you look at that. Partner has only 2 points, but what great ones to have!}
 1D 2D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "69bd706b9ac5461751c2b9a94a3511629f1208979dd4f669ac640dccc24bdc88"]
+[VersionToken "69bd706b9ac5461751c2b9a94a3511629f1208979dd4f669ac640dccc24bdc88"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -414,7 +414,7 @@ Partner has 5 of each Major suit so you know of a good 9-card \H fit. You have a
 1S 2NT pass 3S pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c71670ad9e80ad93a00d932243d2e82f24f69f8c239705c6a569e2ce09acf753"]
+[VersionToken "c71670ad9e80ad93a00d932243d2e82f24f69f8c239705c6a569e2ce09acf753"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -439,7 +439,7 @@ Partner apparently has a big hand. His cue-bid is forcing, and probably means he
 1C 2C 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "acfd95abd2129c69631a3f2c633d366ded1fb47ee02258a8ca3bbd9a55ed6955"]
+[VersionToken "acfd95abd2129c69631a3f2c633d366ded1fb47ee02258a8ca3bbd9a55ed6955"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -462,7 +462,7 @@ Many times at Bridge you want to fight for the contract. This isn't one of them.
 1D 2D pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d7bfb5effebe1bbf1930167e30eafe7e8152362d33440a2cdf5cbf4f7a977b1b"]
+[VersionToken "d7bfb5effebe1bbf1930167e30eafe7e8152362d33440a2cdf5cbf4f7a977b1b"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -487,7 +487,7 @@ This wasn't according to your script. Partner was supposed to choose a Major. Th
 1D 2D 3D 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "fd4becd5959a36e7a5195962b03c6cd894223f02d87c39174b8a65232191470e"]
+[VersionToken "fd4becd5959a36e7a5195962b03c6cd894223f02d87c39174b8a65232191470e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]

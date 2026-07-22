@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2D 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "aec71594fe61fcd05ff83228693a6b7d9491420ceef3cbce0c2154669dd6407a"]
+[VersionToken "aec71594fe61fcd05ff83228693a6b7d9491420ceef3cbce0c2154669dd6407a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -60,7 +60,7 @@ Then you will lose all those \C tricks in dummy.}
 1D 1NT pass 2D pass 2H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c37efa8c58fcf37e5180b4851c9e85997b5b91c4a8bcae089ccccc8bb9eab477"]
+[VersionToken "c37efa8c58fcf37e5180b4851c9e85997b5b91c4a8bcae089ccccc8bb9eab477"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -106,7 +106,7 @@ But if you don't pay attention on all 100 of them you will miss the one time whe
 1NT pass 2S pass 3C pass 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "61485f657dc1f55e3f6f5e84d85c2c49b3d1f4eaed5bedc98f6ddecf16e1104d"]
+[VersionToken "61485f657dc1f55e3f6f5e84d85c2c49b3d1f4eaed5bedc98f6ddecf16e1104d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -152,7 +152,7 @@ This hand is a perfect example - your only hope was for West to hold \D A x, so 
 1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6e3ccc8e5ed6f39359e6fdcba56e136871f343fd5d1d7d4c3c3fa05007885a4e"]
+[VersionToken "6e3ccc8e5ed6f39359e6fdcba56e136871f343fd5d1d7d4c3c3fa05007885a4e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -200,7 +200,7 @@ And notice - no matter which way you play it you still end up with exactly 2 \H 
 2NT pass 3H pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ceb1ac6f0565f904dd009d5ee2760593f8bae1284bf71de25b20fdb11b26386f"]
+[VersionToken "ceb1ac6f0565f904dd009d5ee2760593f8bae1284bf71de25b20fdb11b26386f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -244,7 +244,7 @@ You now play the \H, eliminating that suit from both hands. Whichever defender w
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3898f97309d6172df329f06c6f826590cd74cbe777f678b5dddd1a76bd2806f9"]
+[VersionToken "3898f97309d6172df329f06c6f826590cd74cbe777f678b5dddd1a76bd2806f9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

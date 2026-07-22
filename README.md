@@ -143,7 +143,7 @@ HTML Files -> bbparse.py -> BakerBridge.csv
 | **pbn** | `CSV_to_PBN.py` | Convert CSV to PBN files -> `pbns/`; generate `toc.json` |
 | **pbn-pdf** | `convert_pbns_to_pdfs.py` | Convert PBNs to PDFs using bridge-wrangler |
 | **package** | `package_results.py` | Copy PBN/PDF to `Collection/`, merge `Curated/` overrides |
-| **stamp** | `stamp_board_tokens.py` + `generate_manifest.py` | Stamp `[BoardVersionToken]`s, emit `manifest.json` |
+| **stamp** | `stamp_board_tokens.py` + `generate_manifest.py` | Stamp `[VersionToken]`s, emit `manifest.json` |
 | **export** | (build-mac.sh) | Copy the contract files `Collection/` -> `bridge-classroom/` |
 | **presentation** | `package_presentation.py` | Organize `Collection/` into `Presentation/` by category, strip interactive directives |
 | **rotate** | the shared `package.sh` (bridge-lesson-packaging) | Slice into board sets, rotate hands, generate dealing sheets -> `Rotations/` |
@@ -208,7 +208,7 @@ The PBN files include custom directives that control the Bridge Classroom app:
 | `[AUCTION on/off]` | Show/hide the auction table |
 | `[SHOW_LEAD]` | Display the opening lead banner |
 
-Board-identity metadata (`[BoardVersionToken]`, the `%bridge-classroom-stable` header) is stamped by `stamp_board_tokens.py`; see `CLAUDE.md` for the contract details.
+Board-identity metadata (`[VersionToken]`, the `%bridge-classroom-stable` header) is stamped by `stamp_board_tokens.py`; see `CLAUDE.md` for the contract details.
 
 ## Lesson Categories
 

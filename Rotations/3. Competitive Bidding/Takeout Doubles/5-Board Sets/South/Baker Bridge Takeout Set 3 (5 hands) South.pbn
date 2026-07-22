@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 pass 2S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "47dda3471bfa1f23d67fe0de415f47710f73cf78d4f416bf2e018569cd4b281b"]
+[VersionToken "47dda3471bfa1f23d67fe0de415f47710f73cf78d4f416bf2e018569cd4b281b"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -42,7 +42,7 @@ Some questions don't have a correct answer. If partner has \H Q x x x along with
 1D X pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f4e8b10b516e351a922ca16c6ce9dde668e0c591f2280717abb26db157ef7a1f"]
+[VersionToken "f4e8b10b516e351a922ca16c6ce9dde668e0c591f2280717abb26db157ef7a1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -67,7 +67,7 @@ You could not say 1NT on your first bid because that would show 15-18 points. Do
 1C X pass 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "56e01da1455540dde04a17f85f5690997f21cc8223126dbae64edd7747e639d6"]
+[VersionToken "56e01da1455540dde04a17f85f5690997f21cc8223126dbae64edd7747e639d6"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -92,7 +92,7 @@ The pattern continues. Overcall 1NT with 15-18. Double, then bid notrump with 19
 1D X pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "683f7645c276526e813a9cc216766a7c66adb1467e4d8c7299e73ad5334168c2"]
+[VersionToken "683f7645c276526e813a9cc216766a7c66adb1467e4d8c7299e73ad5334168c2"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -117,7 +117,7 @@ Partner obviously has a good hand. Your response showed 0-8 points and he still 
 1H X pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0fa1c570cf7991a4d814702501ca2176fccf1c085e253ca3cb7b5ccf8554c4df"]
+[VersionToken "0fa1c570cf7991a4d814702501ca2176fccf1c085e253ca3cb7b5ccf8554c4df"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]

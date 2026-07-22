@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C 2S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "198dc9bade0a7bc646483d857a5c5f6b92534d32492427e1550b979d13d37be0"]
+[VersionToken "198dc9bade0a7bc646483d857a5c5f6b92534d32492427e1550b979d13d37be0"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -54,7 +54,7 @@ Just like the previous deal, North gets two \S tricks either way, but one way he
 1H Dbl Rdbl 2C pass 3C 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "03f387be35011ea367168a98eff165b0c4e57f5ec1ddd82c401a839f54c10106"]
+[VersionToken "03f387be35011ea367168a98eff165b0c4e57f5ec1ddd82c401a839f54c10106"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -86,7 +86,7 @@ Partner loves it - whatever East does South takes the next two \Ss, then leads a
 1D pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6265e6285bec9707d6d07231e8db1c44a60d88a439b7dfc4690712e41a166f29"]
+[VersionToken "6265e6285bec9707d6d07231e8db1c44a60d88a439b7dfc4690712e41a166f29"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -118,7 +118,7 @@ If you have a partner who pays attention he will now play a \H for you to ruff. 
 1C pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "fa597030d12005d2a164cc151063d24326c6c345b11252d974e0f145703c20dd"]
+[VersionToken "fa597030d12005d2a164cc151063d24326c6c345b11252d974e0f145703c20dd"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]

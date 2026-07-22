@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Overcalls
 %bridge-classroom-stable: true
@@ -14,7 +14,7 @@
 [Auction "W"]
 1H 1S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5ea274cd38975c2eb6b78142a58c8479ae49c44f97a2ada84c5fc632b249c972"]
+[VersionToken "5ea274cd38975c2eb6b78142a58c8479ae49c44f97a2ada84c5fc632b249c972"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -47,7 +47,7 @@ the Overcall will not be made with more than 16 points, SOUTH just passes.}
 [Auction "E"]
 1H 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "fe2135a2a4921b59ab25b59acd9d3e8a7fa731d9fdbc2d095cf5cfff8e127a68"]
+[VersionToken "fe2135a2a4921b59ab25b59acd9d3e8a7fa731d9fdbc2d095cf5cfff8e127a68"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -83,7 +83,7 @@ SOUTH actually has a strong Overcall so he bids 4\S.}
 [Auction "W"]
 1H 1S pass 3S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "6620629575e281ed5907badb347500676d9230ed05f1861d5932be2aa7797f67"]
+[VersionToken "6620629575e281ed5907badb347500676d9230ed05f1861d5932be2aa7797f67"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -113,7 +113,7 @@ minimum type hand by passing.}
 [Auction "E"]
 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "94585bf4ea05e156f9139f337b791f51600abe694991de8ac37dae3d7cdf2932"]
+[VersionToken "94585bf4ea05e156f9139f337b791f51600abe694991de8ac37dae3d7cdf2932"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -145,7 +145,7 @@ SOUTH's hand is now worth 17 points because of the singleton. Since he is quite 
 [Auction "W"]
 1S X pass 2C pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "2462d4fa6b3040659f8477a63b0651a110eab5b962b1b03c69f47b999f3a6f8f"]
+[VersionToken "2462d4fa6b3040659f8477a63b0651a110eab5b962b1b03c69f47b999f3a6f8f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -181,7 +181,7 @@ Mercifully NORTH also passes.}
 [Auction "E"]
 1C X pass 2C pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d8802410313e1891e89e92bca328f467defd91a1030ffc772bd010c10fdc10c4"]
+[VersionToken "d8802410313e1891e89e92bca328f467defd91a1030ffc772bd010c10fdc10c4"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -214,7 +214,7 @@ SOUTH agrees with \Ss and bids game, 4\S.}
 [Auction "W"]
 1H pass pass X pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d390e4e68dafc1b2b00e1cddac3c2cdb24daab74a768c26ff2496c364f03221a"]
+[VersionToken "d390e4e68dafc1b2b00e1cddac3c2cdb24daab74a768c26ff2496c364f03221a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -251,7 +251,7 @@ NORTH raises to 4\S.}
 [Auction "E"]
 1S 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "c84e41d9ef48ec7773c4e8abac3a82b48ab608a17806c8a20a5287767fbbec75"]
+[VersionToken "c84e41d9ef48ec7773c4e8abac3a82b48ab608a17806c8a20a5287767fbbec75"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -280,7 +280,7 @@ since SOUTH promised he had the suit controlled.}
 [Auction "W"]
 1D X pass 1S pass 1NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "525ff1aa584e9d5f2391e6aca874c25f96a8415c11579c249fdbe92d9f34b222"]
+[VersionToken "525ff1aa584e9d5f2391e6aca874c25f96a8415c11579c249fdbe92d9f34b222"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -312,7 +312,7 @@ NORTH now bids 1NT, showing the balanced 19-21 point hand. SOUTH passes, of cour
 [Auction "E"]
 1H X pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "540e53b7349d9deee7952d54ae5f3956f89f273c0143c2d3d16e2c9757e9c17a"]
+[VersionToken "540e53b7349d9deee7952d54ae5f3956f89f273c0143c2d3d16e2c9757e9c17a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -344,7 +344,7 @@ go ahead and bid 3NT instead.}
 [Auction "W"]
 1H 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f3eb1307f86e36c8fceec662f922f893947b83e9b689a14ff7b476563069a980"]
+[VersionToken "f3eb1307f86e36c8fceec662f922f893947b83e9b689a14ff7b476563069a980"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -375,7 +375,7 @@ NORTH has better than a minimum overcall so she accepts the invitation and bids 
 [Auction "E"]
 1D X pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "ab46bf38d8ff5ed7650ffc8b230cffc8f251022c7204c43f96964d10f49d0586"]
+[VersionToken "ab46bf38d8ff5ed7650ffc8b230cffc8f251022c7204c43f96964d10f49d0586"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -406,7 +406,7 @@ SOUTH passes happily.}
 [Auction "W"]
 1D X pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f4a89cc4892d8f2f9fc1a096a383e977eab455159111adbee07329d205069b3d"]
+[VersionToken "f4a89cc4892d8f2f9fc1a096a383e977eab455159111adbee07329d205069b3d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -439,7 +439,7 @@ so she bids 3NT.}
 [Auction "E"]
 1H 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "31979ace9e5b7bf02840e7443eaaa2659c16de473b533725da1751740f38f209"]
+[VersionToken "31979ace9e5b7bf02840e7443eaaa2659c16de473b533725da1751740f38f209"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -473,7 +473,7 @@ he happily bids 3NT.}
 [Auction "W"]
 1S X pass 2S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d688c412a1ddfdc0bdfe134d98f83c38bdb3b9f1066305c44b9e710e791d0c32"]
+[VersionToken "d688c412a1ddfdc0bdfe134d98f83c38bdb3b9f1066305c44b9e710e791d0c32"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -505,7 +505,7 @@ makes it easy for SOUTH - he bids 4\H.}
 [Auction "E"]
 1H X pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "632f16168a862c8cb5fd2286fdac490ff16d904998b34e4b3e5bf9bad3c2a3e0"]
+[VersionToken "632f16168a862c8cb5fd2286fdac490ff16d904998b34e4b3e5bf9bad3c2a3e0"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -537,7 +537,7 @@ NORTH has fine trump support and 8 points so she bids a confident 4\S.}
 [Auction "W"]
 1D pass pass X pass 2D pass 2H pass 2S pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d69fed6f7545b33c33a9de694bb82ba864fecfffa1a3b690d4083af235e5f79d"]
+[VersionToken "d69fed6f7545b33c33a9de694bb82ba864fecfffa1a3b690d4083af235e5f79d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -570,7 +570,7 @@ SOUTH shows his \C suit, NORTH likes it fine, but decides 3NT will be easier tha
 [Auction "E"]
 1S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "01d11fd554f795a38f23f5019ff255d344b8710d42c59e43caf6f351f383c1e4"]
+[VersionToken "01d11fd554f795a38f23f5019ff255d344b8710d42c59e43caf6f351f383c1e4"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -598,7 +598,7 @@ And so does everybody else pass.}
 [Auction "W"]
 1C 3S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5384859383065be68f624904d24f933047682ed39f68fd6ed7fe85e471e9a676"]
+[VersionToken "5384859383065be68f624904d24f933047682ed39f68fd6ed7fe85e471e9a676"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -630,7 +630,7 @@ In this case, SOUTH passes.}
 [Auction "E"]
 1C 1S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a03ff51f8e96ef047cbc3c143c9abc2d55f970786f3d41d966d610db90b7881b"]
+[VersionToken "a03ff51f8e96ef047cbc3c143c9abc2d55f970786f3d41d966d610db90b7881b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -659,7 +659,7 @@ everybody should pass.}
 [Auction "W"]
 1S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "4fb692148b3206f53d40d717bb8bf15620d46b8838115e4194baa6bf81546fd7"]
+[VersionToken "4fb692148b3206f53d40d717bb8bf15620d46b8838115e4194baa6bf81546fd7"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -688,7 +688,7 @@ And SOUTH of course must also pass.}
 [Auction "E"]
 1S pass pass X pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "4a79a4556f66f088d177ce88293f7c99280457091f07a83d22d3a3fea54938b6"]
+[VersionToken "4a79a4556f66f088d177ce88293f7c99280457091f07a83d22d3a3fea54938b6"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -721,7 +721,7 @@ Penalty Double.}
 [Auction "W"]
 1C 1S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "bc50e909a6d6bab3cfd161859055133e2b4992f4ac0481ac9055e2805c7adcec"]
+[VersionToken "bc50e909a6d6bab3cfd161859055133e2b4992f4ac0481ac9055e2805c7adcec"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]
@@ -748,7 +748,7 @@ not have more than 16 points. So he just bids what he thinks NORTH can make, 4\S
 [Auction "E"]
 1D 1H pass 1NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "85e74313c952b643231714eaf6ea78b5d418621d1c50ea75daee64254f9c4bd2"]
+[VersionToken "85e74313c952b643231714eaf6ea78b5d418621d1c50ea75daee64254f9c4bd2"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/overcalls"]

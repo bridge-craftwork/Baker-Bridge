@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicNotrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "78e448e81d1ee447bb74e01250fb0586e42a0d3dcb7893af97369e91d6e37343"]
+[VersionToken "78e448e81d1ee447bb74e01250fb0586e42a0d3dcb7893af97369e91d6e37343"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -42,7 +42,7 @@ total cannot be more than 24. So he just passes 2NT.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "6dc4481df2d1b6680a26aa21b11f178c7d4e3fdb2dbf0e4a838210b28e5bbaf2"]
+[VersionToken "6dc4481df2d1b6680a26aa21b11f178c7d4e3fdb2dbf0e4a838210b28e5bbaf2"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -70,7 +70,7 @@ Sometimes correct bidding gets you to unmakeable contracts. But it's only a game
 pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6d2691c805a2c1c9266c0f75c836d2461d5e0d47630b46a6d9ea2227641d56e5"]
+[VersionToken "6d2691c805a2c1c9266c0f75c836d2461d5e0d47630b46a6d9ea2227641d56e5"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -95,7 +95,7 @@ total will come to 34 or 35 so he bids 6NT.}
 pass pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
+[VersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]

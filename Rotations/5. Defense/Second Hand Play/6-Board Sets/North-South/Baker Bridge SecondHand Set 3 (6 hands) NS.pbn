@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "493056941a4bb7846c6867b4a6448db2977b8848549eac574192e5d8b7bd0eda"]
+[VersionToken "493056941a4bb7846c6867b4a6448db2977b8848549eac574192e5d8b7bd0eda"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -52,7 +52,7 @@ Play low instead and North will win his \CQ. But now your \C K 10 sits behind du
 1H pass 3H pass 4NT pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "012e271648ed2003300f8e3d32c64e2c4f7396318b5a07c943bf3b064ae0c812"]
+[VersionToken "012e271648ed2003300f8e3d32c64e2c4f7396318b5a07c943bf3b064ae0c812"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -86,7 +86,7 @@ When you correctly play your small \C life becomes harder for South. Sometimes h
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c74de5374d34b2d6883dce3d1cfa1684000d60d28cdd619662964f2b7c7bb478"]
+[VersionToken "c74de5374d34b2d6883dce3d1cfa1684000d60d28cdd619662964f2b7c7bb478"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -124,7 +124,7 @@ If you play low, East will have to take the \DK now, and although he can play a 
 1S pass 2H pass 4H pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "85c472d580878bf89c1d18643d12a29089f0d3fb0e9474e516ebcf9866573463"]
+[VersionToken "85c472d580878bf89c1d18643d12a29089f0d3fb0e9474e516ebcf9866573463"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -162,7 +162,7 @@ But if you take your \HA now, then exit with your \H2, South can win the \HK but
 1H pass 3D pass 3NT pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2ba61aef2d762e7370875bc5bf723ead1ad304c444e27437a67a09f9d72f29a0"]
+[VersionToken "2ba61aef2d762e7370875bc5bf723ead1ad304c444e27437a67a09f9d72f29a0"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -198,7 +198,7 @@ If you cover the \HJ with your \HQ North will again win with one of his high one
 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d2f5bc4eca465f5b4808023e26a043c5e3c6857ba6b6fa3ad6fb99267977f9bb"]
+[VersionToken "d2f5bc4eca465f5b4808023e26a043c5e3c6857ba6b6fa3ad6fb99267977f9bb"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]

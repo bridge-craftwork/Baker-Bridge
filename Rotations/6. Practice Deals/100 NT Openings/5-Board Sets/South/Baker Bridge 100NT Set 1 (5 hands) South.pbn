@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8de7b6caf86ae8b0d221453fe2ee6f69bcc0551c801e552743a4ba045fada4a1"]
+[VersionToken "8de7b6caf86ae8b0d221453fe2ee6f69bcc0551c801e552743a4ba045fada4a1"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -54,7 +54,7 @@ Holding up twice can never hurt, and in this case it is the only way to make the
 1NT pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1ca31bdd448704f6fc2e5a3fccfea20e4ce42ae6395bd8a1527f89ef0d79abcb"]
+[VersionToken "1ca31bdd448704f6fc2e5a3fccfea20e4ce42ae6395bd8a1527f89ef0d79abcb"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -98,7 +98,7 @@ Usually you should not risk your contract for the sake of an overtrick.}
 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "acca61062840784efb609ee9a9ce4a6c4777d72bf90a9099a63017393ab410f2"]
+[VersionToken "acca61062840784efb609ee9a9ce4a6c4777d72bf90a9099a63017393ab410f2"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -138,7 +138,7 @@ But if you hold up your \SK East will have no \S to put his partner in with. }
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7fa986d1a64ea7657244f0b0701fcc66aaeaaddfaeb46801935f2f53f039b8b9"]
+[VersionToken "7fa986d1a64ea7657244f0b0701fcc66aaeaaddfaeb46801935f2f53f039b8b9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -182,7 +182,7 @@ Good Bridge players like to take tricks, but they are not greedy.}
 1NT pass 2H pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "241e5cefc6c6ac47be18676c57e5f2e999631d6b46ffa9a4e9f39578c3c7e299"]
+[VersionToken "241e5cefc6c6ac47be18676c57e5f2e999631d6b46ffa9a4e9f39578c3c7e299"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

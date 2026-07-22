@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicMajor
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
+[VersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -45,7 +45,7 @@ Too bad, but SOUTH is too weak to accept any invitations.}
 pass pass 1S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "825ccd283e150cdc361d8f8523c4c7ae3714811aaa387ac36a2a51f52e6ee1e1"]
+[VersionToken "825ccd283e150cdc361d8f8523c4c7ae3714811aaa387ac36a2a51f52e6ee1e1"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -71,7 +71,7 @@ an opening one bid.}
 1S pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ae0afae00c15c60ebbe3ed2548d04761e7d1f70d16318d6918d6459616d33d1b"]
+[VersionToken "ae0afae00c15c60ebbe3ed2548d04761e7d1f70d16318d6918d6459616d33d1b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -101,7 +101,7 @@ NORTH comes through with 4\S.}
 1H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "ac08f7efad492d4b88f7d2a3591f6cae3df578420f20ca43c39e2691728f6041"]
+[VersionToken "ac08f7efad492d4b88f7d2a3591f6cae3df578420f20ca43c39e2691728f6041"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]

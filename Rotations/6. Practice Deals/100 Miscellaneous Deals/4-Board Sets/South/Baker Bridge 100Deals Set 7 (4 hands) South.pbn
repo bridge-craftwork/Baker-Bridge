@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 2C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "80e5c256f184860c6f24f7f8020fd8ae2b2a74ec036d2c1218c33bad6d7c8154"]
+[VersionToken "80e5c256f184860c6f24f7f8020fd8ae2b2a74ec036d2c1218c33bad6d7c8154"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -54,7 +54,7 @@ East would have used his master \SQ to ruff the second \C, before you had taken 
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "eb3bb07a8d42e5772f574450a53f5e65b854773f0fb6c8e673dd0f6ce93b477a"]
+[VersionToken "eb3bb07a8d42e5772f574450a53f5e65b854773f0fb6c8e673dd0f6ce93b477a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -96,7 +96,7 @@ Only if you establish your \Hs can you set up a winner for <b>YOU</b> without gi
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "43c629f39cba5df1d0b8ac6bc811249df4e096b15f0ad07c2ac68746a6143f1e"]
+[VersionToken "43c629f39cba5df1d0b8ac6bc811249df4e096b15f0ad07c2ac68746a6143f1e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -136,7 +136,7 @@ Notice this. You cannot fault West for his opening lead, top of an honor sequenc
 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "08660f4a8b922f6a59b4c6fa6bb145d124c2b6257fa68cf4d161e7f48dd742c5"]
+[VersionToken "08660f4a8b922f6a59b4c6fa6bb145d124c2b6257fa68cf4d161e7f48dd742c5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

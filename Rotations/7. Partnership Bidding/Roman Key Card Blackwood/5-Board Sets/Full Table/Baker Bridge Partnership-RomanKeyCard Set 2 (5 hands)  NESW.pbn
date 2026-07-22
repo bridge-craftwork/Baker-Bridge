@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2D pass 4NT pass 5S pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ffaa3959a7bd057e72d38b6387983c2efaf8551230076f9a0a11092ae80f847c"]
+[VersionToken "ffaa3959a7bd057e72d38b6387983c2efaf8551230076f9a0a11092ae80f847c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -46,7 +46,7 @@ If NORTH had just one Key-card, SOUTH would bid 5\D over the 5\C reply.}
 1H pass 2C pass 4NT pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "848f3dfd7030e201a38c38eb6f7cbda94962701642615a920c8f8d50b874ec8f"]
+[VersionToken "848f3dfd7030e201a38c38eb6f7cbda94962701642615a920c8f8d50b874ec8f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -73,7 +73,7 @@ That's what happens here.}
 1NT pass 4C pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1de3bd2006e47ebedf09973e7b3732d9a4cbf847760473386accb327543a1829"]
+[VersionToken "1de3bd2006e47ebedf09973e7b3732d9a4cbf847760473386accb327543a1829"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -100,7 +100,7 @@ The first way is probably better but we needed a Gerber example.}
 2C pass 2S pass 4NT pass 6D pass 7S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "a226ea3953ee493405389cca108e7858330efee68a59bccc30dffc8795330003"]
+[VersionToken "a226ea3953ee493405389cca108e7858330efee68a59bccc30dffc8795330003"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -128,7 +128,7 @@ EAST readjusts her thinking and decides to bid the Grand.}
 1NT pass 3H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c115fcbe47e053fc10f99ef3fad0a7340163744f0ce2556ef388ba2cb5544a77"]
+[VersionToken "c115fcbe47e053fc10f99ef3fad0a7340163744f0ce2556ef388ba2cb5544a77"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]

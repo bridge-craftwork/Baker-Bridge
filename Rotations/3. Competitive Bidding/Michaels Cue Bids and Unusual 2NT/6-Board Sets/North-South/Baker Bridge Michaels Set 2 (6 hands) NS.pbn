@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Michaels
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C 2NT pass 4D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "82365a7c4e0a1b419ff1cde3b510b8eff801649ccb16e5107104ec95ad2eb283"]
+[VersionToken "82365a7c4e0a1b419ff1cde3b510b8eff801649ccb16e5107104ec95ad2eb283"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -45,7 +45,7 @@ As you can see, <b>IF</b> they open the lead with a \C, and <b>IF</b> the \H fin
 1D 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "80b5ede0494ab446d0a216a66a0d945482a2e36250b4da6512949b074adbae69"]
+[VersionToken "80b5ede0494ab446d0a216a66a0d945482a2e36250b4da6512949b074adbae69"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -72,7 +72,7 @@ You will surely make this game if trumps split 2-2. If they don't then you will 
 1S 2S pass 2NT pass 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e22d81a22e78caef8fe5b81d1ea41f478e7f475c21cefa01489d059fdcdbe968"]
+[VersionToken "e22d81a22e78caef8fe5b81d1ea41f478e7f475c21cefa01489d059fdcdbe968"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -97,7 +97,7 @@ Is it possible that partner wants to play Notrump? Not at all. He hates \Hs and 
 1C 2NT pass 3D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "834754959ca2c7a971cf498d2db8556bb05717ea57c48260d14b70878b1635a1"]
+[VersionToken "834754959ca2c7a971cf498d2db8556bb05717ea57c48260d14b70878b1635a1"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -122,7 +122,7 @@ If you say to yourself "I only have 7 HCP" then you might pass. But if you say "
 1H 1S pass 2H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "56254b27f17d8bb6741716c78d4f43b6980c24a4d0a040d00a03ff5050127d1d"]
+[VersionToken "56254b27f17d8bb6741716c78d4f43b6980c24a4d0a040d00a03ff5050127d1d"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -147,7 +147,7 @@ Partner's cue-bid shows a limit-raise or better in \Ss. So you bid 4\S without t
 1H 2H pass 2NT pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5b28a9491e3e085cf8494d319bca3952176d3411848456d9ab034e4a7408ec92"]
+[VersionToken "5b28a9491e3e085cf8494d319bca3952176d3411848456d9ab034e4a7408ec92"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]

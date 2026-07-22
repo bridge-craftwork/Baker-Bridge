@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f4b86bea009e33139fdcf9d8543ffbb9605b8ee226da1b22a773984e75637833"]
+[VersionToken "f4b86bea009e33139fdcf9d8543ffbb9605b8ee226da1b22a773984e75637833"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -51,7 +51,7 @@ Here is an interesting point. Suppose that East's opening lead had been a \H and
 2C pass 2D pass 3D pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "c3d7d6e4981df88af5a245977921aa6a9146f355f718003d8bfb81153e609dcf"]
+[VersionToken "c3d7d6e4981df88af5a245977921aa6a9146f355f718003d8bfb81153e609dcf"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -85,7 +85,7 @@ Maybe after the hand is over he will appreciate it more and congratulate you.}
 2C pass 2S pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "76ac88a0d37e1c24300a78b820075019dcc5b26ea66095ce0fa456b719f6276f"]
+[VersionToken "76ac88a0d37e1c24300a78b820075019dcc5b26ea66095ce0fa456b719f6276f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -119,7 +119,7 @@ Isn't it nice to have a finesse that wins if it wins but also wins if it loses?}
 2C pass 2H pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "a2a16f1c34f5d2db2d7fcb27204f70cb96c8655dc73f53f2b111d9cff2cfa748"]
+[VersionToken "a2a16f1c34f5d2db2d7fcb27204f70cb96c8655dc73f53f2b111d9cff2cfa748"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -157,7 +157,7 @@ And as you have figured by now, assessing how many entries you are going to need
 2C pass 2H pass 2S pass 3H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "75e15b9e6fee7e3295eb2c8e9602097b0c74a61138acf5c78324fb3484992567"]
+[VersionToken "75e15b9e6fee7e3295eb2c8e9602097b0c74a61138acf5c78324fb3484992567"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent FSF
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2C pass 2D pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "aa6b6262c9670f43cb77c6e58464d5d7fb4b0815b4f35c42931a379fdfdc8327"]
+[VersionToken "aa6b6262c9670f43cb77c6e58464d5d7fb4b0815b4f35c42931a379fdfdc8327"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -45,7 +45,7 @@ It couldn't have worked out better. Notrump played from partner's side. You bid 
 1C pass 1D pass 1H pass 1S pass 2S pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "93d931e350ae4ccf1245f8a870025abf0608dded8228128bf55eaa4e756cc1df"]
+[VersionToken "93d931e350ae4ccf1245f8a870025abf0608dded8228128bf55eaa4e756cc1df"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -70,7 +70,7 @@ Be careful! This is NOT Fourth Suit Forcing. It is true that you are forced to b
 1H pass 1S pass 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e9596787474d6b9ab54ba09ff9bf5c91d09199b0551c2079af817c325efd1550"]
+[VersionToken "e9596787474d6b9ab54ba09ff9bf5c91d09199b0551c2079af817c325efd1550"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -95,7 +95,7 @@ Partner says 2\S, telling you he has three of them, and you bid 4\S.}
 1C pass 1H pass 1S pass 2D pass 3H pass 4H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc"]
+[VersionToken "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]

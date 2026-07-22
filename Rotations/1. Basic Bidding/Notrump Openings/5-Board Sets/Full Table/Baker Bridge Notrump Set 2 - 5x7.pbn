@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f0ebc2cf36a1d3d5e1bcbbfbcc8302c0b0b02d54eac959d24d0c59d0bc82f0ef"]
+[VersionToken "f0ebc2cf36a1d3d5e1bcbbfbcc8302c0b0b02d54eac959d24d0c59d0bc82f0ef"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -43,7 +43,7 @@ As you might expect, this time the slam is not so certain, but there is a good c
 pass 1NT pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "c120299fea02cdbd9ad082c1747bb17c9507f19b585c2bef28cff23cfb93f1de"]
+[VersionToken "c120299fea02cdbd9ad082c1747bb17c9507f19b585c2bef28cff23cfb93f1de"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -68,7 +68,7 @@ Pass. Partner has long \Hs (probably 6) and short points (fewer than 9). He has 
 pass pass pass 1NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "411ce656323cabfeb6e53df0cadc23cf8785e3969af2d271d93c21f7b84c3424"]
+[VersionToken "411ce656323cabfeb6e53df0cadc23cf8785e3969af2d271d93c21f7b84c3424"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -95,7 +95,7 @@ NOTE: Jacoby Transfers are very useful for this type of hand.}
 pass pass pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "000f7516208ff4dd5c405ba0c17ff6babbc68d6fcb12e335e94457707f175829"]
+[VersionToken "000f7516208ff4dd5c405ba0c17ff6babbc68d6fcb12e335e94457707f175829"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -120,7 +120,7 @@ Partner shows 10+ points and exactly 5 \Ss. This time, with 3-card support, you 
 pass 1NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "de645ca92533368ce6ad62ed913ae0deef6c4cf34e3c0f82e95ed763093e6a93"]
+[VersionToken "de645ca92533368ce6ad62ed913ae0deef6c4cf34e3c0f82e95ed763093e6a93"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]

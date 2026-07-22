@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Leben
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2C 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "feadb59ceb955d643aa5d50e4dfcf8779d88c93735e126fd99c6e512188d7434"]
+[VersionToken "feadb59ceb955d643aa5d50e4dfcf8779d88c93735e126fd99c6e512188d7434"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -43,7 +43,7 @@ With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
 1NT 2D 3D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "4fa52e5a642b1a23226f75157a23e2397554f2c61a93106643ab25ce3dee8a2b"]
+[VersionToken "4fa52e5a642b1a23226f75157a23e2397554f2c61a93106643ab25ce3dee8a2b"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -68,7 +68,7 @@ Partner then bids 4\H which you pass.}
 1NT 2S 2NT pass 3C pass 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7a9d800ed1987d1ec963db6172f4f585403c40e0aec78d095bce243078616a0b"]
+[VersionToken "7a9d800ed1987d1ec963db6172f4f585403c40e0aec78d095bce243078616a0b"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -93,7 +93,7 @@ NOW you can bid 3\D, which partner passes.}
 1NT 2S 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "268e4f21da3088f05a20785d0a5f2e2b0c2a56abb4fd9f0531097af5912ae352"]
+[VersionToken "268e4f21da3088f05a20785d0a5f2e2b0c2a56abb4fd9f0531097af5912ae352"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "dbc7b8d0a0a42beddc3e3bd2442eddc27ef4be3a7298c99f850f6f777995ab6d"]
+[VersionToken "dbc7b8d0a0a42beddc3e3bd2442eddc27ef4be3a7298c99f850f6f777995ab6d"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -52,7 +52,7 @@ East dutifully plays a \H and you take the next three tricks. Had he switched to
 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "6b62e9c3bcb430818c897a847307fc01034a73d5a50e8e5201e89c64b9865c52"]
+[VersionToken "6b62e9c3bcb430818c897a847307fc01034a73d5a50e8e5201e89c64b9865c52"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -82,7 +82,7 @@ But this time you really want him to take his \CK. So play the discouraging \D2 
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6a06c6b5bfd783b65bf988faddbed42c181b3518cfa79547f1a87c1964fda786"]
+[VersionToken "6a06c6b5bfd783b65bf988faddbed42c181b3518cfa79547f1a87c1964fda786"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -114,7 +114,7 @@ So grab your \CA and return partner's \H suit. }
 1NT pass 2H pass 2S pass 5NT pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "94d8c2ecbe5c63c5265976ba80524270c8c45b9f51c3a1585fd1f1273ec2899c"]
+[VersionToken "94d8c2ecbe5c63c5265976ba80524270c8c45b9f51c3a1585fd1f1273ec2899c"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -146,7 +146,7 @@ If you had not been paying attention to North's signal you might have decided to
 1C pass pass 1H pass 2C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "feba9b533ac287a43ed114b3457e7918d00256b21e15c5be0e651c039c2d4840"]
+[VersionToken "feba9b533ac287a43ed114b3457e7918d00256b21e15c5be0e651c039c2d4840"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]

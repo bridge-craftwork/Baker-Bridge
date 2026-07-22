@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicBidding
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "705dd01f7e79441d64c63f6219612aaf67d157e15f18ebdc9ba9f574b2e34b61"]
+[VersionToken "705dd01f7e79441d64c63f6219612aaf67d157e15f18ebdc9ba9f574b2e34b61"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
@@ -46,7 +46,7 @@ with 15 points, and use best judgment with 16. Here NORTH bids the slam.}
 pass pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "385299c5c0534d9a15aa4865965900450bce15e74c1bbdfcf5feddb97c70528c"]
+[VersionToken "385299c5c0534d9a15aa4865965900450bce15e74c1bbdfcf5feddb97c70528c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
@@ -71,7 +71,7 @@ EAST has just 13 points, and knowing WEST has less than 13 he passes.}
 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "25d40ccc510a3b2f55be9125eff6c4e01b7b16d4de9259b5cf1d2f440389290b"]
+[VersionToken "25d40ccc510a3b2f55be9125eff6c4e01b7b16d4de9259b5cf1d2f440389290b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
@@ -97,7 +97,7 @@ with you should just jump right to game.}
 1D pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "6dcde794abaae38038da186b6a257a532301f016d9674df66fe72be35787003b"]
+[VersionToken "6dcde794abaae38038da186b6a257a532301f016d9674df66fe72be35787003b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
@@ -125,7 +125,7 @@ She bids 4\S.}
 1S pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4915772d07e2f8081bbb42d82f83affc6ddf03cc91fb6ca27b295dac8d50cdad"]
+[VersionToken "4915772d07e2f8081bbb42d82f83affc6ddf03cc91fb6ca27b295dac8d50cdad"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]

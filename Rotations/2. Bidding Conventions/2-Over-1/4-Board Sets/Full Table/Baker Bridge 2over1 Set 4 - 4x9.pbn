@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -11,7 +11,7 @@
 [Dealer "W"]
 [Vulnerable "None"]
 [Deal "W:743.J.T973.KJ652 AJT62.A62.QJ.T87 Q98.T7.K8652.Q93 K5.KQ98543.A4.A4"]
-[BoardVersionToken "6d91857b7e8060b1bff521bff69e89039428dd58b8ee133d51320916c84d192e"]
+[VersionToken "6d91857b7e8060b1bff521bff69e89039428dd58b8ee133d51320916c84d192e"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -36,7 +36,7 @@ This is a good slam, cold if West makes any opening lead other than a \C. With a
 [Dealer "W"]
 [Vulnerable "NS"]
 [Deal "W:A.AQJ753.742.KJ4 T874.62.JT.AT962 QJ2.KT.KQ865.Q87 K9653.984.A93.53"]
-[BoardVersionToken "1e6a2e4e6a0e33269be943adb36876d7ab229503b8d9f5deb8d691ad537ad74b"]
+[VersionToken "1e6a2e4e6a0e33269be943adb36876d7ab229503b8d9f5deb8d691ad537ad74b"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -58,7 +58,7 @@ Partner's jump to 4\h is Fast Arrival - showing a minimum game forcing hand.  Ev
 [Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:AQ862.T4.K65.K87 K97543.A6.Q97.J6 J.KQJ753.432.Q54 T.982.AJT8.AT932"]
-[BoardVersionToken "78f1cb2c0bbf3d942cd2340065ef342decf2e53beec255a6a4235c3bb38b88a4"]
+[VersionToken "78f1cb2c0bbf3d942cd2340065ef342decf2e53beec255a6a4235c3bb38b88a4"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -79,7 +79,7 @@ This hand demonstrates one of the benefits of Forcing 1NT. In standard bidding N
 [Dealer "W"]
 [Vulnerable "All"]
 [Deal "W:AQ862.A4.95.AK87 T93.QT62.QJ74.T2 K.K753.AT32.J954 J754.J98.K86.Q63"]
-[BoardVersionToken "29b9c67f7e301c1e228816e7aab0af8c165f0273d6eaff94e25e7288d220071b"]
+[VersionToken "29b9c67f7e301c1e228816e7aab0af8c165f0273d6eaff94e25e7288d220071b"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

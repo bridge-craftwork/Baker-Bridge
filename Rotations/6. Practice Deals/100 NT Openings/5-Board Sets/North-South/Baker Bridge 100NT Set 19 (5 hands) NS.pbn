@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 3C pass 3H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e863c758967e51aae5c4cf9584af411329022a0b9ba20dbff3371aa49d7508bb"]
+[VersionToken "e863c758967e51aae5c4cf9584af411329022a0b9ba20dbff3371aa49d7508bb"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -58,7 +58,7 @@ But the other 50% of the time East will have the \DK. On those Deals you get you
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f6a3decde606fc24c70368da4a90ea7205ecbce22d2021b4aba6d6162a69d15f"]
+[VersionToken "f6a3decde606fc24c70368da4a90ea7205ecbce22d2021b4aba6d6162a69d15f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -100,7 +100,7 @@ The play went exactly as shown above. When her LHO played the \CK our declarer d
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "71b06e99ae5bc0e4957a98e55bf1d929285dbac258ba2b8b0b115ef62154c4f6"]
+[VersionToken "71b06e99ae5bc0e4957a98e55bf1d929285dbac258ba2b8b0b115ef62154c4f6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -148,7 +148,7 @@ If you stop with the \Ss and start running \Ds you will make your contract 100% 
 1NT pass 2C pass 2D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4fe5910b43443edc4931136c27435f172ef1f6f14658bfbec6d1b5bdd01ab2c9"]
+[VersionToken "4fe5910b43443edc4931136c27435f172ef1f6f14658bfbec6d1b5bdd01ab2c9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -200,7 +200,7 @@ By the way, ruffing a card to purposely shorten your trump holding is called a T
 1NT 2S 3S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0f9c70d9c1d33421ea540ae2b69d57ad35f5c72154eeea144bb984800cbdb521"]
+[VersionToken "0f9c70d9c1d33421ea540ae2b69d57ad35f5c72154eeea144bb984800cbdb521"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

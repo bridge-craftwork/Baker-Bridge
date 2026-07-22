@@ -109,7 +109,7 @@ Carried in the PBN when available; **not required** for the face-to-face product
 Recommendation: **support `[SkillPath]` as optional** in the shared contract. A collection
 that adds it gets cross-collection filtered search "for free"; one that omits it (Grant
 today) still conforms. It is cheap to add later — a per-lesson string — without touching the
-deals. (App-only metadata — `[BoardVersionToken]`, `manifest.json`, `%bridge-classroom-stable`
+deals. (App-only metadata — `[VersionToken]`, `manifest.json`, `%bridge-classroom-stable`
 — is **out of scope** for this contract; those belong to the Bridge Classroom product, which
 the face-to-face materials don't use.)
 

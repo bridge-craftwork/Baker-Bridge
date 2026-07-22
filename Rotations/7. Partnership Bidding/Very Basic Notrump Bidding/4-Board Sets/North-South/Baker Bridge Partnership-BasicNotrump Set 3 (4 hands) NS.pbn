@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicNotrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d870f306cb4e7a1e2d786c91cb6f3b60865b9eab4252f3b222f5dee9f25cc781"]
+[VersionToken "d870f306cb4e7a1e2d786c91cb6f3b60865b9eab4252f3b222f5dee9f25cc781"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -46,7 +46,7 @@ and bids 3NT.}
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "bbc0aab189d3f4850d3df5ff623fe5370b810fc83e457b1954dd721f0716eb44"]
+[VersionToken "bbc0aab189d3f4850d3df5ff623fe5370b810fc83e457b1954dd721f0716eb44"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -70,7 +70,7 @@ nowhere close to the slam requirement. So she bids 3NT and SOUTH passes.}
 pass 1NT pass 4NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9fe29c1e030e741f4d95ad632fa5db02d90f310d0c44f64a7cde14e8724c430a"]
+[VersionToken "9fe29c1e030e741f4d95ad632fa5db02d90f310d0c44f64a7cde14e8724c430a"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -97,7 +97,7 @@ her to bid 6NT if she is at the top of her range. It is clear to NORTH, but with
 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5017a37d809972d7284b4206b900a513d5fcd4a04b2b26c5838454fcaf117d0b"]
+[VersionToken "5017a37d809972d7284b4206b900a513d5fcd4a04b2b26c5838454fcaf117d0b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]

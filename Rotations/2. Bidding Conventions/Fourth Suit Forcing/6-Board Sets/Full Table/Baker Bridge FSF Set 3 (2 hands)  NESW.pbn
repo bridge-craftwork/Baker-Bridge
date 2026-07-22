@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent FSF
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 1S pass 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e9596787474d6b9ab54ba09ff9bf5c91d09199b0551c2079af817c325efd1550"]
+[VersionToken "e9596787474d6b9ab54ba09ff9bf5c91d09199b0551c2079af817c325efd1550"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -43,7 +43,7 @@ Partner says 2\S, telling you he has three of them, and you bid 4\S.}
 1C pass 1H pass 1S pass 2D pass 3H pass 4H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc"]
+[VersionToken "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]

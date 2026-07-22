@@ -74,7 +74,7 @@ audit_passers.py`): **biddable-passer boards 141 → 34.**
 - **N/S untouched:** 0 N/S hands changed vs `HEAD`; exactly 553 E/W rows changed.
 - **Variety managed:** balanced 65% (target), 0 gratuitous outliers (the 1 forced-void
   counts as outlier but is deal-forced, not gratuitous).
-- **Tokens track the change:** re-rolled boards get new `[BoardVersionToken]`s;
+- **Tokens track the change:** re-rolled boards get new `[VersionToken]`s;
   curated/source boards keep the same token as `Package/`.
 
 ## Output moved to `bridge-classroom/`
@@ -116,4 +116,4 @@ BB_PACKAGE_DIR=bridge-classroom python3 audit_passers.py   # regression audit
   passer; harmless, but the audit could exclude boards whose all-pass side contains the
   `[Student]` seat.
 - **BC cutover:** point Bridge-Classroom's props at `bridge-classroom/`; the re-rolled boards
-  carry new `[BoardVersionToken]`s (new board identity) — coordinate per the producer contract.
+  carry new `[VersionToken]`s (new board identity) — coordinate per the producer contract.

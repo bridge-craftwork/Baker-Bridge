@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
 %bridge-classroom-stable: true
@@ -14,7 +14,7 @@
 [Auction "N"]
 pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7221c3471fc6b2ef1b344c4724e1d716e8c0cd2cf19e6da4429694fb385eec1f"]
+[VersionToken "7221c3471fc6b2ef1b344c4724e1d716e8c0cd2cf19e6da4429694fb385eec1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -47,7 +47,7 @@ South only has 7 winners unless he can establish the \C suit, and when you win y
 [Auction "N"]
 1C pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "431e5251afa7bbd14177f81d35d1196d025f5ff7166ef092acc935265b717456"]
+[VersionToken "431e5251afa7bbd14177f81d35d1196d025f5ff7166ef092acc935265b717456"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -82,7 +82,7 @@ Declarer would be better off to go up with the \HA at the first trick and try to
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3e6f0fabe833c5b77bd5e4bd84444c5f5d86d4920ed1145e7f97f45e20089c17"]
+[VersionToken "3e6f0fabe833c5b77bd5e4bd84444c5f5d86d4920ed1145e7f97f45e20089c17"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -117,7 +117,7 @@ If you had led any card other than a low \S declarer would take 10 tricks.}
 [Auction "S"]
 1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "c49483f490b57eb655b46cc352587da34d66e4f79a7b379d85298f27ac88e9a6"]
+[VersionToken "c49483f490b57eb655b46cc352587da34d66e4f79a7b379d85298f27ac88e9a6"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -150,7 +150,7 @@ Notice that with any other lead declarer would have been able to discard a \S lo
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "e75af1242f3e4704874796049da936925c057f41b187fff015e2a07e1e8a167c"]
+[VersionToken "e75af1242f3e4704874796049da936925c057f41b187fff015e2a07e1e8a167c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -183,7 +183,7 @@ South will likely try the \C finesse, and when East wins the \CK he will return 
 [Auction "S"]
 1D pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "b742afe2826b9ac67b677a11acb56a20c7efcf62a4b6110076822704f9899f9e"]
+[VersionToken "b742afe2826b9ac67b677a11acb56a20c7efcf62a4b6110076822704f9899f9e"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -222,7 +222,7 @@ As you can imagine, declarer will be in a whole lot of trouble.}
 [Auction "S"]
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "85f3e08e57b0879fd8c9656e0700f04275c6f702026140a1720d9e6c77e103eb"]
+[VersionToken "85f3e08e57b0879fd8c9656e0700f04275c6f702026140a1720d9e6c77e103eb"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -259,7 +259,7 @@ Declarer has 11 winners sitting there; if you had led a low \S you would have ha
 [Auction "S"]
 1D pass 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3ab6029ef25bb4601ec1095b52d0a0c4d5c2c519a3910a304aecf0d73ccd5e32"]
+[VersionToken "3ab6029ef25bb4601ec1095b52d0a0c4d5c2c519a3910a304aecf0d73ccd5e32"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -296,7 +296,7 @@ Without a \S lead declarer will have smooth sailing.}
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "e87f583d46e9cf70a481a18a983cff045f575fe6ad72310ff14acb1cf0faae6a"]
+[VersionToken "e87f583d46e9cf70a481a18a983cff045f575fe6ad72310ff14acb1cf0faae6a"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -329,7 +329,7 @@ Leading a \H from your 5-card suit is riskier, but it has the potential of setti
 [Auction "S"]
 1H pass 1S pass 2C pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "59a17bd3f27882fd10e040d595eb4ba4cfb38cf4ed7c64e19e751e50473ab13f"]
+[VersionToken "59a17bd3f27882fd10e040d595eb4ba4cfb38cf4ed7c64e19e751e50473ab13f"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -364,7 +364,7 @@ And when South plays \Cs, (preparing to ruff in dummy), you will win and play an
 [Auction "N"]
 1C 1S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7af8413622b311cfb0c7c6b07ce6f8e043c2e4a308f69346ac0ff755ededf6ed"]
+[VersionToken "7af8413622b311cfb0c7c6b07ce6f8e043c2e4a308f69346ac0ff755ededf6ed"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -401,7 +401,7 @@ There is another, more subtle, reason for leading partner's suit. If the lead tu
 [Auction "S"]
 1C X pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "b55389af98ef499ae41f9ecd112aa7235cea71a032faafcf49e38980cf408cb9"]
+[VersionToken "b55389af98ef499ae41f9ecd112aa7235cea71a032faafcf49e38980cf408cb9"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -436,7 +436,7 @@ With the trump lead South might not make more than three tricks.}
 [Auction "N"]
 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7e1e707637c2dc4f9c43e5ee6bd4700e2ab582b40dc0efb84a52ff4759d8c0ad"]
+[VersionToken "7e1e707637c2dc4f9c43e5ee6bd4700e2ab582b40dc0efb84a52ff4759d8c0ad"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -473,7 +473,7 @@ Declarer must play \Ds to get some winners, and when East takes the \DA he will 
 [Auction "E"]
 1H 2S 3D 3S 4C pass 4H pass pass 4S X pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "2d402a319ebc6602f0853d50766bfb1a2d1f64e7cb8d45ff9b7b5d9bc8013f00"]
+[VersionToken "2d402a319ebc6602f0853d50766bfb1a2d1f64e7cb8d45ff9b7b5d9bc8013f00"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -514,7 +514,7 @@ So take the \SA and then play another \S. Declarer will still be able to ruff on
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5d8289bfa0255902f28bdfa1f53aab13de9a979b019a5f32ce8ea96c9d0496da"]
+[VersionToken "5d8289bfa0255902f28bdfa1f53aab13de9a979b019a5f32ce8ea96c9d0496da"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -551,7 +551,7 @@ But when you lead the \H3 it does not promote a \H winner for declarer, and left
 [Auction "N"]
 1D pass 1S pass 3D pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3778b495f4aeba537b3dc9592622cb668724aece64d0b299c99fb07d3bca6790"]
+[VersionToken "3778b495f4aeba537b3dc9592622cb668724aece64d0b299c99fb07d3bca6790"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -586,7 +586,7 @@ It is important for your side to create a winner before your \DA is forced out. 
 [Auction "N"]
 1S pass 2NT pass 3NT X pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "2423f7379b6651921dc5137cf9e7360e15e73601b0473ed48b9629f6c0c5d15c"]
+[VersionToken "2423f7379b6651921dc5137cf9e7360e15e73601b0473ed48b9629f6c0c5d15c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -623,7 +623,7 @@ With any other lead declarer will make the contract.}
 [Auction "S"]
 1NT pass 2C X 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a33f1e35045005f241f42821eddbd87eaf16064784c8b1ec9e0b0ff273c1c9da"]
+[VersionToken "a33f1e35045005f241f42821eddbd87eaf16064784c8b1ec9e0b0ff273c1c9da"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -660,7 +660,7 @@ Declarer may still make the contract if he guesses the \HQ correctly, but maybe 
 [Auction "N"]
 1H pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "b8474f967356bf64696c1c2846dff472f9b45898761fe32a44926fe7305a678c"]
+[VersionToken "b8474f967356bf64696c1c2846dff472f9b45898761fe32a44926fe7305a678c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -695,7 +695,7 @@ With any lead other than a \H honor he cannot come to 12 tricks.}
 [Auction "S"]
 1S pass 2C pass 3C pass 4S pass pass X pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a39a4ba09232c7ad22a25c863fd28981baff16424168cfb4c564e32ba2af09a4"]
+[VersionToken "a39a4ba09232c7ad22a25c863fd28981baff16424168cfb4c564e32ba2af09a4"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]

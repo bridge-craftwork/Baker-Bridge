@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a09196dbcc3807d38692eaca4d776603578e49c6864729358e2a9d4c2077fcf2"]
+[VersionToken "a09196dbcc3807d38692eaca4d776603578e49c6864729358e2a9d4c2077fcf2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -49,7 +49,7 @@ As they are, though, the contract is cold. But only if you are a good bridge pla
 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1af76f1cd66b5571aa9b5bd23b1006feb2bc1b1d30c19621a1d32bbecb03b7a3"]
+[VersionToken "1af76f1cd66b5571aa9b5bd23b1006feb2bc1b1d30c19621a1d32bbecb03b7a3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -85,7 +85,7 @@ You'd have to be very careless to miss this one.}
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "43c90356b46d6fde2c3ce935b69b680a16d03d9d8bfecaa00225ac5a9d2175c3"]
+[VersionToken "43c90356b46d6fde2c3ce935b69b680a16d03d9d8bfecaa00225ac5a9d2175c3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -121,7 +121,7 @@ It is only because the \C opening lead gives you the chance for a Cheap-Trick th
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a977ae6536d627739b7ee5897c2611b045e7f86882c3e577b3d984f4ae61d318"]
+[VersionToken "a977ae6536d627739b7ee5897c2611b045e7f86882c3e577b3d984f4ae61d318"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]

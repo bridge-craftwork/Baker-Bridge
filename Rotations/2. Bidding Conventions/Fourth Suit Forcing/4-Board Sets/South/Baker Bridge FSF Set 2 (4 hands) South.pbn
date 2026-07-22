@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent FSF
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 1S pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5479dbcb9a23eed183e3264d8b5fd955358ff439e4fe5a6a5c06af3979a024f4"]
+[VersionToken "5479dbcb9a23eed183e3264d8b5fd955358ff439e4fe5a6a5c06af3979a024f4"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -43,7 +43,7 @@ With 13 points, bid what you expect to make, 3NT. Partner passes.}
 1H pass 1S pass 2C pass 2D pass 3C pass 5C all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "333935c04299af90f8c22cd36eddfbd740e98f9a339693655f489735b9b38b5e"]
+[VersionToken "333935c04299af90f8c22cd36eddfbd740e98f9a339693655f489735b9b38b5e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -70,7 +70,7 @@ Partner's bid is FSF. He wants to know if you have 3 \Ss, (you don't), or if you
 1H pass 1S pass 2D pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f952607447f52287b6f173fcb048198ddd0b67f02c0f35933192850e48bd5c1c"]
+[VersionToken "f952607447f52287b6f173fcb048198ddd0b67f02c0f35933192850e48bd5c1c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -95,7 +95,7 @@ So you say 3\C (FSF) to find out if either possibility exists. Partner does have
 1D pass 1S pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5b8cdb1bfbafd2dade1ae8933c6e6624d9a376eb65126cd7a5cdc291fd48f0e9"]
+[VersionToken "5b8cdb1bfbafd2dade1ae8933c6e6624d9a376eb65126cd7a5cdc291fd48f0e9"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]

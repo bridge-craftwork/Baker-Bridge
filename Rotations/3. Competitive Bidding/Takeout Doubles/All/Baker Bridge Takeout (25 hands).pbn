@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
 %bridge-classroom-stable: true
@@ -14,7 +14,7 @@
 [Auction "E"]
 1D X pass 1H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "83371b917ff8aae2e570813dab1fffba9f16691134130ee91869671898dc0bd6"]
+[VersionToken "83371b917ff8aae2e570813dab1fffba9f16691134130ee91869671898dc0bd6"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -36,7 +36,7 @@ Yes, you like the \Hs. But remember, you forced partner to bid and his response 
 [Auction "E"]
 1D X pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "2a1fa842e97d641d1cf481750f17cb8f70d5902df89e0243bfcc3c574721d390"]
+[VersionToken "2a1fa842e97d641d1cf481750f17cb8f70d5902df89e0243bfcc3c574721d390"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -58,7 +58,7 @@ With 17 HCP and the singleton you are not strong enough to insist on game. On th
 [Auction "E"]
 1C X pass 1H pass 3H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "0cfa14cbfea0b6058814059a875790230fd7bf5d56d978b922ba6a8120ae44ca"]
+[VersionToken "0cfa14cbfea0b6058814059a875790230fd7bf5d56d978b922ba6a8120ae44ca"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -80,7 +80,7 @@ You need to make a strong invitation since partner needs very little for your si
 [Auction "E"]
 1H X pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "0c115a401b7cfe6f7a79f69e5aabf21d83eeb804bf62a77fc3767a877e233e69"]
+[VersionToken "0c115a401b7cfe6f7a79f69e5aabf21d83eeb804bf62a77fc3767a877e233e69"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -102,7 +102,7 @@ Partner shows 9-11 points and a \S suit. However, he didn't force you to game, a
 [Auction "E"]
 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5d12561d552519286de54e9525a79e93b63f8264b631d1a76d9af90a25a2cd4c"]
+[VersionToken "5d12561d552519286de54e9525a79e93b63f8264b631d1a76d9af90a25a2cd4c"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -124,7 +124,7 @@ That extra 3 points makes all the difference. With that singleton \H your hand i
 [Auction "E"]
 1D X pass 2D 3D 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "254b698f55888a0e066aeddf4b3100c69da8b61053e2c2559ad1f09515804791"]
+[VersionToken "254b698f55888a0e066aeddf4b3100c69da8b61053e2c2559ad1f09515804791"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -148,7 +148,7 @@ That was what partner needed to hear, he bids 4\S.}
 [Auction "E"]
 1S X pass 1NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f3fef4f0ee6283773b36ff3ed54b470286b27f10dba9cebe555190ab57cb9739"]
+[VersionToken "f3fef4f0ee6283773b36ff3ed54b470286b27f10dba9cebe555190ab57cb9739"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -170,7 +170,7 @@ With no suit fit you can't even count a point for your doubleton so you have jus
 [Auction "E"]
 1S X pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3398aa0f01ed62514d00cce0d4d9da6f0c9e89f54ec7985a9cf596fe8af55cf6"]
+[VersionToken "3398aa0f01ed62514d00cce0d4d9da6f0c9e89f54ec7985a9cf596fe8af55cf6"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -192,7 +192,7 @@ With no Major fit you are happy to play in notrump, knowing partner can stop the
 [Auction "E"]
 1S X pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "2cc6d5510d143f1e1057490230a2f9c6d5380eab30384769f352b4edb611c07f"]
+[VersionToken "2cc6d5510d143f1e1057490230a2f9c6d5380eab30384769f352b4edb611c07f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -214,7 +214,7 @@ You bid 2\H, describing your hand as a 1-suited hand, too strong to merely overc
 [Auction "W"]
 1C pass 1S X pass 2D pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d096daf126f7e366fd82e0dda7ffaf93f829e4a347b4e690c8bfe37ad3f3d6da"]
+[VersionToken "d096daf126f7e366fd82e0dda7ffaf93f829e4a347b4e690c8bfe37ad3f3d6da"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -238,7 +238,7 @@ Just pass. This is obviously a fight for the partscore and you have the advantag
 [Auction "N"]
 pass 2S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "47dda3471bfa1f23d67fe0de415f47710f73cf78d4f416bf2e018569cd4b281b"]
+[VersionToken "47dda3471bfa1f23d67fe0de415f47710f73cf78d4f416bf2e018569cd4b281b"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -260,7 +260,7 @@ Some questions don't have a correct answer. If partner has \H Q x x x along with
 [Auction "E"]
 1D X pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f4e8b10b516e351a922ca16c6ce9dde668e0c591f2280717abb26db157ef7a1f"]
+[VersionToken "f4e8b10b516e351a922ca16c6ce9dde668e0c591f2280717abb26db157ef7a1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -282,7 +282,7 @@ You could not say 1NT on your first bid because that would show 15-18 points. Do
 [Auction "E"]
 1C X pass 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "56e01da1455540dde04a17f85f5690997f21cc8223126dbae64edd7747e639d6"]
+[VersionToken "56e01da1455540dde04a17f85f5690997f21cc8223126dbae64edd7747e639d6"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -304,7 +304,7 @@ The pattern continues. Overcall 1NT with 15-18. Double, then bid notrump with 19
 [Auction "W"]
 1D X pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "683f7645c276526e813a9cc216766a7c66adb1467e4d8c7299e73ad5334168c2"]
+[VersionToken "683f7645c276526e813a9cc216766a7c66adb1467e4d8c7299e73ad5334168c2"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -326,7 +326,7 @@ Partner obviously has a good hand. Your response showed 0-8 points and he still 
 [Auction "W"]
 1H X pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "0fa1c570cf7991a4d814702501ca2176fccf1c085e253ca3cb7b5ccf8554c4df"]
+[VersionToken "0fa1c570cf7991a4d814702501ca2176fccf1c085e253ca3cb7b5ccf8554c4df"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -348,7 +348,7 @@ Your first response showed 0-8 points. Knowing that, partner still invited you t
 [Auction "W"]
 1S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "83e19d8c563f27fb073ca83ad853d2f81b87394406ef43ce0d7de920d191f8d5"]
+[VersionToken "83e19d8c563f27fb073ca83ad853d2f81b87394406ef43ce0d7de920d191f8d5"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -368,7 +368,7 @@ Your hand falls in the 9-11 point mid-range response where you make a jump bid. 
 [Auction "W"]
 1C X pass 2C pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d3d81706bf24630e7b6a28be7e3dd26aff0c1a63c70b1836ef58a39c04a0cd1f"]
+[VersionToken "d3d81706bf24630e7b6a28be7e3dd26aff0c1a63c70b1836ef58a39c04a0cd1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -390,7 +390,7 @@ With both of you knowing you will reach game, partner has suggested \Hs. You don
 [Auction "W"]
 1S X pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "261963434c6e2470c9cc21071a3ae5bff17c3f17d8259cd537c70bbf64950288"]
+[VersionToken "261963434c6e2470c9cc21071a3ae5bff17c3f17d8259cd537c70bbf64950288"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -412,7 +412,7 @@ Notice that if you had made a cuebid, partner would probably end up playing 4\H 
 [Auction "W"]
 1D X pass 1H pass 2S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "ed19e457fee508a7a56f157c538c2c78d50428b06d50dc90c8879ab8aae07c63"]
+[VersionToken "ed19e457fee508a7a56f157c538c2c78d50428b06d50dc90c8879ab8aae07c63"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -434,7 +434,7 @@ You say pass. Despite partner showing you a big hand you just can't help him. }
 [Auction "W"]
 1H X pass 2C 2H 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "43f8c4a406268d724ec0f1af308c7b479b5154c8e49b907a2c54dd48cea5fe15"]
+[VersionToken "43f8c4a406268d724ec0f1af308c7b479b5154c8e49b907a2c54dd48cea5fe15"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -456,7 +456,7 @@ By doubling and then bidding his own suit, partner is showing a good hand, at le
 [Auction "W"]
 1D X 1S pass 2D X pass 3C pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3f7a7380235238819d08d777a387548db6b87f40529ca9a52ddced2045dcf98e"]
+[VersionToken "3f7a7380235238819d08d777a387548db6b87f40529ca9a52ddced2045dcf98e"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -482,7 +482,7 @@ You may be one too high, but that still might be a good score if they can make 2
 [Auction "W"]
 1D X 1S 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "cbd53dff9b3a8144834709fca28e011c2d95d4026a36769932efd64233737764"]
+[VersionToken "cbd53dff9b3a8144834709fca28e011c2d95d4026a36769932efd64233737764"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -506,7 +506,7 @@ You bid 2\H and everybody passes.}
 [Auction "W"]
 1D X XX 1H pass pass 2D pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "e6874fa38f13afcd4ed3bcc6307fb5fe7b0145724934684259afa630c7cb4a11"]
+[VersionToken "e6874fa38f13afcd4ed3bcc6307fb5fe7b0145724934684259afa630c7cb4a11"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -530,7 +530,7 @@ On this deal your \H bid gets passed around to East who bids 2\D, the final cont
 [Auction "E"]
 2H X pass 3H pass 3S pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "e5f93804841664fc942513acc0d54f005b27f5264670fabedd6372387028ec74"]
+[VersionToken "e5f93804841664fc942513acc0d54f005b27f5264670fabedd6372387028ec74"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -554,7 +554,7 @@ You cannot stop short of game. Partner has apparently rejected your \S suggestio
 [Auction "W"]
 1C X pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "09111367b1645be09714b4f8af3944f8ac9e8a2b7473a86ff045e30c88c8651c"]
+[VersionToken "09111367b1645be09714b4f8af3944f8ac9e8a2b7473a86ff045e30c88c8651c"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]

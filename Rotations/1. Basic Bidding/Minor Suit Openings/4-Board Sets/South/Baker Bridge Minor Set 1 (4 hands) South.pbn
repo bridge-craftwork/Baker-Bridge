@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Minor
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D pass 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6af927da085756b132ec8aaa8f5a6001dc1e2dce7691608de6dba94dbe3bff72"]
+[VersionToken "6af927da085756b132ec8aaa8f5a6001dc1e2dce7691608de6dba94dbe3bff72"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -43,7 +43,7 @@ Partner's response is forcing. He might have anywhere from 6 points to about 17.
 1D pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b830a1ef2da3e84c000bc7f875d5c73181c5a0fae7ae241b2df2a642710ed335"]
+[VersionToken "b830a1ef2da3e84c000bc7f875d5c73181c5a0fae7ae241b2df2a642710ed335"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -72,7 +72,7 @@ So you pass and hope for the best.}
 1C pass 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "41d03d1a273fb77ad74a43e8f29672416b6fa3ef4d3372afe031d431f42b59b1"]
+[VersionToken "41d03d1a273fb77ad74a43e8f29672416b6fa3ef4d3372afe031d431f42b59b1"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -99,7 +99,7 @@ That gives you 20 points; add partner's 6-10 and you have enough for game. She w
 1C pass 1S pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1ccdd400f45b24e47d8d83593ef66ec10464d575f69c336601ce64d349a1d7c7"]
+[VersionToken "1ccdd400f45b24e47d8d83593ef66ec10464d575f69c336601ce64d349a1d7c7"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Weak2
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "90b52882f5cdfdb7c9df9f5041bf2db4b217f22ffacf81e1e8279541ac2e2a58"]
+[VersionToken "90b52882f5cdfdb7c9df9f5041bf2db4b217f22ffacf81e1e8279541ac2e2a58"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -43,7 +43,7 @@ The 2NT bid is forcing and you have better than a minimum. You show your "featur
 2S pass 2NT pass 3D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6fb90e54191c7b1dde442a02888fc04c0d5ddac02e1ffa7a51072c310608e8c4"]
+[VersionToken "6fb90e54191c7b1dde442a02888fc04c0d5ddac02e1ffa7a51072c310608e8c4"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -66,7 +66,7 @@ You weren't sure whether to take partner to game or not. His 3\D bid tells you t
 1H 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "830d418fa88eb06581d05b6afb771d4118a4faa3f4509cd75e91d8bb9dcfbf82"]
+[VersionToken "830d418fa88eb06581d05b6afb771d4118a4faa3f4509cd75e91d8bb9dcfbf82"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -89,7 +89,7 @@ Pass. Partner is in charge. If he had wanted you to bid again he could have forc
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "12546e8d30ff12df9562e7d83150b93746248b687ee6a887ddecca33c63e5bce"]
+[VersionToken "12546e8d30ff12df9562e7d83150b93746248b687ee6a887ddecca33c63e5bce"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -112,7 +112,7 @@ You pass of course. Partner's 3NT says his suit is A K Q x x x and you can there
 pass pass pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "35eb680eda0e9001a536f736be79b08835d65ebe57c9922cb176c98e50faf713"]
+[VersionToken "35eb680eda0e9001a536f736be79b08835d65ebe57c9922cb176c98e50faf713"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]
@@ -135,7 +135,7 @@ Well, we have passed out of the realm of Weak Twos and into Major Suit Raises! N
 2S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f4a8f2f6a22630cadaa38cf0a5527590f9ee6b5781bcde7267dbf9ddfe7a0774"]
+[VersionToken "f4a8f2f6a22630cadaa38cf0a5527590f9ee6b5781bcde7267dbf9ddfe7a0774"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/weak_2s"]

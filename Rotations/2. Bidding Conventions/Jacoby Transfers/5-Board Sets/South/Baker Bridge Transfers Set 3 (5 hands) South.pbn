@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Transfers
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2D pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "05b074efdb02ed018bd4e1267913bf716f0c3de636c99b0fbad00c9f7b9963b8"]
+[VersionToken "05b074efdb02ed018bd4e1267913bf716f0c3de636c99b0fbad00c9f7b9963b8"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -46,7 +46,7 @@ So you pass.}
 1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8d33e5b8fad6057be080b35b554704c5084b4a823ec906b8ca4e4c74897fd24f"]
+[VersionToken "8d33e5b8fad6057be080b35b554704c5084b4a823ec906b8ca4e4c74897fd24f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -73,7 +73,7 @@ So you bid 3NT.}
 1NT pass 2D pass 2H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "030e5d28f77bb2c1fc170e5a059b1e9c5eae5052dcf6c7f93a5444b381262774"]
+[VersionToken "030e5d28f77bb2c1fc170e5a059b1e9c5eae5052dcf6c7f93a5444b381262774"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -104,7 +104,7 @@ With your 3-3-3-4 distribution you might have been tempted to bid 3NT instead of
 1NT pass 2H pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a6a9dd179679affd14748e2809e170dad57189bcae39c612c4dd6fd827dba1e9"]
+[VersionToken "a6a9dd179679affd14748e2809e170dad57189bcae39c612c4dd6fd827dba1e9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -135,7 +135,7 @@ You pass. And you're going to have to play great to make even 9 tricks!}
 1NT pass 2D pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7383e54931b370eee269c3d07c012b3c9e0ca9656442b73d9e6aa2c69b5b6de2"]
+[VersionToken "7383e54931b370eee269c3d07c012b3c9e0ca9656442b73d9e6aa2c69b5b6de2"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]

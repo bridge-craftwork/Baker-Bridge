@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 3C pass 4NT pass 5D pass 5NT pass 6D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "587016a9b342ef7a58999bdd49f97d32c492102daab3fe1d1a9be61fa73a500d"]
+[VersionToken "587016a9b342ef7a58999bdd49f97d32c492102daab3fe1d1a9be61fa73a500d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -70,7 +70,7 @@ The choice between a single finesse and a double finesse is one that you will fa
 1C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "d35298162e94f5e5851bfcaea45c29fd9251d00af9a67bfb7a2f174a3632f633"]
+[VersionToken "d35298162e94f5e5851bfcaea45c29fd9251d00af9a67bfb7a2f174a3632f633"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -118,7 +118,7 @@ The key play was dumping the \S on your \DK rather than a \H.}
 1H pass 2H pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "bc73e7f4888baf768833918b664cb438d1fe754213975c1300daa684d53f3df5"]
+[VersionToken "bc73e7f4888baf768833918b664cb438d1fe754213975c1300daa684d53f3df5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -164,7 +164,7 @@ And you couldn't get the \D ruff until after you had forced out the \DA.}
 1H dbl pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "9538a31893a295ec7a606f173435375464df43551d4e2dfc1f3f6ab729d549bd"]
+[VersionToken "9538a31893a295ec7a606f173435375464df43551d4e2dfc1f3f6ab729d549bd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

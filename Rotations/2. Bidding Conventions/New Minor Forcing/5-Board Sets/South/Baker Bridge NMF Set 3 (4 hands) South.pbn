@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent NMF
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 1NT pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5de6d29653d80429cb2127301e30f5b044871b79f6493b033ede69b114c3fbd3"]
+[VersionToken "5de6d29653d80429cb2127301e30f5b044871b79f6493b033ede69b114c3fbd3"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -44,7 +44,7 @@ OK, partner has a 4-card \H suit - may or may not have 3 \Ss. Since you don't ha
 1C pass 1S pass 2NT pass 3D pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c667accebc38b99850e05d026c53cf12dbe22ad0d2667fd5c186006dcdbf04ee"]
+[VersionToken "c667accebc38b99850e05d026c53cf12dbe22ad0d2667fd5c186006dcdbf04ee"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -71,7 +71,7 @@ This is New Minor Forcing. Partner wants to know if you have 3 \Ss. Since you do
 1H pass 1S pass 2NT pass 3C pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "cdb2cacbb813ee00d30cfeb890dea64313139165925ca8d068c8617788d7425e"]
+[VersionToken "cdb2cacbb813ee00d30cfeb890dea64313139165925ca8d068c8617788d7425e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -98,7 +98,7 @@ Partner does not have 3 \Ss. That was the information you needed, so you bid 6NT
 1D pass 1S pass 1NT pass 2C pass 2D pass 3NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f690149921f3f8288977ac249fb01bd3f08d214d391fcf6cecc054f431412260"]
+[VersionToken "f690149921f3f8288977ac249fb01bd3f08d214d391fcf6cecc054f431412260"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]

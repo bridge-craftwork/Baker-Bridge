@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass pass X pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "599c4eb026158830579d99fe9d9d4b37ea2ec0115405786d4bffe9a1e1fb6fb1"]
+[VersionToken "599c4eb026158830579d99fe9d9d4b37ea2ec0115405786d4bffe9a1e1fb6fb1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -55,7 +55,7 @@ It was not a complete elimination since East still had a trump when you threw We
 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "862deb757d4930f723374d428a5dcde8c2cf3f7bee3aa4496cb0b0c888548dc2"]
+[VersionToken "862deb757d4930f723374d428a5dcde8c2cf3f7bee3aa4496cb0b0c888548dc2"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -97,7 +97,7 @@ It also depended upon the defenders not switching to \Cs at the second trick. If
 1H pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a1738896eae981ec81559136d06b28cf8d48f1e28b7b50c9813682de4600af30"]
+[VersionToken "a1738896eae981ec81559136d06b28cf8d48f1e28b7b50c9813682de4600af30"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -133,7 +133,7 @@ But if it had turned out that West DID have another \D, and led it, all would no
 2NT 3S 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c39bc60c1a7727c3c416964f2649404cb31ed786c0548b8d76c74846f9d29cd9"]
+[VersionToken "c39bc60c1a7727c3c416964f2649404cb31ed786c0548b8d76c74846f9d29cd9"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -177,7 +177,7 @@ In fact, it just kept you from making a losing play, (leading toward the \SQ), a
 1NT pass 2C 2S 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7e5efb6866dbbc9015d6bea663537a955fef0cf29da614fe4acfd5ce7a60a1a8"]
+[VersionToken "7e5efb6866dbbc9015d6bea663537a955fef0cf29da614fe4acfd5ce7a60a1a8"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -217,7 +217,7 @@ In many hands an opponent who opens with a preemptive bid gives you the informat
 1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2cc40b1e4077ee89c64b4c19ecfdd0c523baed677b2977902eeaa4890916c2c0"]
+[VersionToken "2cc40b1e4077ee89c64b4c19ecfdd0c523baed677b2977902eeaa4890916c2c0"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Roman
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2H pass 4NT pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0934b5d8716b16b59031e4d45eca90c2b24e1525470f453f2cd9952f18f0a8c5"]
+[VersionToken "0934b5d8716b16b59031e4d45eca90c2b24e1525470f453f2cd9952f18f0a8c5"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -41,7 +41,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, so you bid 5\C.
 1S pass 3H pass 3S pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "1ad2597114a02cd7342dfe9a90d14a664414779cf73e06083c23ae36b3d9c908"]
+[VersionToken "1ad2597114a02cd7342dfe9a90d14a664414779cf73e06083c23ae36b3d9c908"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -66,7 +66,7 @@ Partner has two Aces and the \SQ. That should be all he needs to make slam so yo
 2C pass 2H pass 4NT pass 6C pass 7H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "250e8b506084b621dddc815b86a8acee46ae66ee2985025abb6c483971f7da4c"]
+[VersionToken "250e8b506084b621dddc815b86a8acee46ae66ee2985025abb6c483971f7da4c"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -89,7 +89,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, but you also ha
 1NT pass 2C pass 2S pass 4NT pass 5C pass 5D pass 5S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "171538e8fcdbebb22dc1572ece0df278be7b72abba093fa6e0efaaeff70f7d97"]
+[VersionToken "171538e8fcdbebb22dc1572ece0df278be7b72abba093fa6e0efaaeff70f7d97"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]

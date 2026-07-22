@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cccd41802764a07a7d07f3017305090a5d28dbd61ec20d3e78c49af40d8b90c1"]
+[VersionToken "cccd41802764a07a7d07f3017305090a5d28dbd61ec20d3e78c49af40d8b90c1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -42,7 +42,7 @@ Since you know of an 8-card \H fit and at least 27 points you bid 4\H.}
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "20376091cbbbbb34fd6570a4fa0452817327d32f5d4a6ab0da6a6057b7d3ae17"]
+[VersionToken "20376091cbbbbb34fd6570a4fa0452817327d32f5d4a6ab0da6a6057b7d3ae17"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -69,7 +69,7 @@ Things would have gotten confusing, to say the least.}
 1C pass 1H pass 2D pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ddeceb7f7f9d7cbd9745795acd2d96b11a25f33d2602a37fdb8c13d64a444eea"]
+[VersionToken "ddeceb7f7f9d7cbd9745795acd2d96b11a25f33d2602a37fdb8c13d64a444eea"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -94,7 +94,7 @@ Mercifully he passes.}
 1D pass 1S pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "b7924e6a4134b61ba8b23e0d6eb7e7b6e19d2e967838c75c88f92f4ab0a3f338"]
+[VersionToken "b7924e6a4134b61ba8b23e0d6eb7e7b6e19d2e967838c75c88f92f4ab0a3f338"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]

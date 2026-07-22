@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1D pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "95c86a1ab25c1dc0d26d2e63c03df09d90165981008971fbfa6b16e9b2e033ad"]
+[VersionToken "95c86a1ab25c1dc0d26d2e63c03df09d90165981008971fbfa6b16e9b2e033ad"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -51,7 +51,7 @@ Here's a question: How many times at the table have situations like this present
 1D pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d3f315277c65aad02920bc9980bbdc12558e77ee13bcbd560fe5f5f9b5df1aad"]
+[VersionToken "d3f315277c65aad02920bc9980bbdc12558e77ee13bcbd560fe5f5f9b5df1aad"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -87,7 +87,7 @@ It looks a little different, but the theme is the same. PROTECT YOUR ENTRY.}
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "edcbc1862b8ca27fdbeed2fde4ad146bce223dd1a5491dbf3350e97d275a9048"]
+[VersionToken "edcbc1862b8ca27fdbeed2fde4ad146bce223dd1a5491dbf3350e97d275a9048"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -127,7 +127,7 @@ Or you might try leading the \CQ hoping that West will see this as a time to "co
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f4b86bea009e33139fdcf9d8543ffbb9605b8ee226da1b22a773984e75637833"]
+[VersionToken "f4b86bea009e33139fdcf9d8543ffbb9605b8ee226da1b22a773984e75637833"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -161,7 +161,7 @@ Here is an interesting point. Suppose that West's opening lead had been a \H and
 2C pass 2D pass 3D pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c3d7d6e4981df88af5a245977921aa6a9146f355f718003d8bfb81153e609dcf"]
+[VersionToken "c3d7d6e4981df88af5a245977921aa6a9146f355f718003d8bfb81153e609dcf"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -195,7 +195,7 @@ Maybe after the hand is over he will appreciate it more and congratulate you.}
 2C pass 2S pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "76ac88a0d37e1c24300a78b820075019dcc5b26ea66095ce0fa456b719f6276f"]
+[VersionToken "76ac88a0d37e1c24300a78b820075019dcc5b26ea66095ce0fa456b719f6276f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]

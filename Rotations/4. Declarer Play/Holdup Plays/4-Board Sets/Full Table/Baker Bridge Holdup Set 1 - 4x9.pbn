@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "da54ef8b80f5fefc1b75db6ad3e109615fc171770f65ebfebfc5bc8b88b324d3"]
+[VersionToken "da54ef8b80f5fefc1b75db6ad3e109615fc171770f65ebfebfc5bc8b88b324d3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -51,7 +51,7 @@ But if you had not held-up your \DA even good luck wouldn't have helped you.}
 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "39afe1e632c840d251609a108e72146073e7b61413d5fee3147ccfc44e81608d"]
+[VersionToken "39afe1e632c840d251609a108e72146073e7b61413d5fee3147ccfc44e81608d"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -87,7 +87,7 @@ The hold-up lets you make the contract whenever North holds the \DA. And if Sout
 pass pass 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ac1a86ee24a6280ffc6b56145681ac1b54ef74bc9d36938b8f726667d30fafc"]
+[VersionToken "0ac1a86ee24a6280ffc6b56145681ac1b54ef74bc9d36938b8f726667d30fafc"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -121,7 +121,7 @@ And as long as you had held up on the \SK until the third round you could ensure
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "41378b3fe61b95e147059c4e42b3f731a4fb0408f14d9a6a449c6f6ba57d1763"]
+[VersionToken "41378b3fe61b95e147059c4e42b3f731a4fb0408f14d9a6a449c6f6ba57d1763"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]

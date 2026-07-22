@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Blackwood
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C pass 2S pass 3S pass 4NT pass 5S pass 5NT pass 6C pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5cf51c8a25d1e46185a94473e4dfda159e7ff6a01b0bd6d3f48c470cfa522a85"]
+[VersionToken "5cf51c8a25d1e46185a94473e4dfda159e7ff6a01b0bd6d3f48c470cfa522a85"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -45,7 +45,7 @@ SOUTH bids 6\S since NORTH has not bid strongly enough to think about 7.}
 2C pass 2H pass 3H pass 3S pass 4NT pass 6C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "71958b730cbce42b5533a2db67279fd97742aa446d63872b052bd44adf63b4ea"]
+[VersionToken "71958b730cbce42b5533a2db67279fd97742aa446d63872b052bd44adf63b4ea"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -73,7 +73,7 @@ NORTH bids 6\H, knowing they must lose the \DA.}
 1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "905d145e4cba4847a4fb965babf86ebdb1e63d20fe0e429058146b2deac267c4"]
+[VersionToken "905d145e4cba4847a4fb965babf86ebdb1e63d20fe0e429058146b2deac267c4"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -101,7 +101,7 @@ SOUTH counts thirteen tricks and bids 7\H.}
 1H pass 3H pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c47bc2efc2fb894d2a1deca07905573999d8258dcc2f50673ac807e26cc41224"]
+[VersionToken "c47bc2efc2fb894d2a1deca07905573999d8258dcc2f50673ac807e26cc41224"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -127,7 +127,7 @@ SOUTH manages to figure out that NORTH has a \S void and bids the slam anyway.}
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "032129083d96323a2fe163b023adee60032f82892d8f5c9cb8c97c1af32cbcb0"]
+[VersionToken "032129083d96323a2fe163b023adee60032f82892d8f5c9cb8c97c1af32cbcb0"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -149,7 +149,7 @@ Even if NORTH has a maximum there won't be a slam.}
 1H pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7af3e5e84cc86fa25e03c9e5074c341f95ede60add5f41a7fa158c5e8e58dd6c"]
+[VersionToken "7af3e5e84cc86fa25e03c9e5074c341f95ede60add5f41a7fa158c5e8e58dd6c"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]

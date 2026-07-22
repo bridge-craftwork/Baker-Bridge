@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Transfers
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2H pass 2S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6cfefc4ea8f3a8a39f8708d2c934f222856115addab5dab22d48520904873af7"]
+[VersionToken "6cfefc4ea8f3a8a39f8708d2c934f222856115addab5dab22d48520904873af7"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -48,7 +48,7 @@ If you held an even stronger hand and wished to move toward a slam you would sta
 1NT pass 2H pass 2S pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "dc20c13937c2ebe6123b32e92c50a3bc42e6f9b80a21aabb1e127282fe4035eb"]
+[VersionToken "dc20c13937c2ebe6123b32e92c50a3bc42e6f9b80a21aabb1e127282fe4035eb"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -75,7 +75,7 @@ Having made the try, you accept whatever partner decides. In this case, with a 1
 1NT pass 2H pass 2S pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "381b84c2ebebc40d581b0fd0c9c3c751398caa6cd0d4899327a8376178a81ca3"]
+[VersionToken "381b84c2ebebc40d581b0fd0c9c3c751398caa6cd0d4899327a8376178a81ca3"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -108,7 +108,7 @@ Here both partners understood the bid and South bid 6NT.}
 2NT pass 3D pass 3H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8ce4f9c124c78127a34c8930165584800c5a22db737945a27decb2aa4adffce9"]
+[VersionToken "8ce4f9c124c78127a34c8930165584800c5a22db737945a27decb2aa4adffce9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -137,7 +137,7 @@ Notice that when partner opens 2NT the invitation to game option is no longer av
 1NT pass 2D pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "05b074efdb02ed018bd4e1267913bf716f0c3de636c99b0fbad00c9f7b9963b8"]
+[VersionToken "05b074efdb02ed018bd4e1267913bf716f0c3de636c99b0fbad00c9f7b9963b8"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -166,7 +166,7 @@ So you pass.}
 1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8d33e5b8fad6057be080b35b554704c5084b4a823ec906b8ca4e4c74897fd24f"]
+[VersionToken "8d33e5b8fad6057be080b35b554704c5084b4a823ec906b8ca4e4c74897fd24f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]

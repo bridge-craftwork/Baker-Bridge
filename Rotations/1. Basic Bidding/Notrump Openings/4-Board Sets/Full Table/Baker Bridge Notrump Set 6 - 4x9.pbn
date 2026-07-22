@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a9346b52803b131cedcfa7af1b370fcde82b8ea314af65571622711aa2a63377"]
+[VersionToken "a9346b52803b131cedcfa7af1b370fcde82b8ea314af65571622711aa2a63377"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -45,7 +45,7 @@ As you see, it is going to take some luck.}
 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "a529039aef9ccc1a6da57f3d9a21e698e71d6183a5aad42712424dabd8f5e441"]
+[VersionToken "a529039aef9ccc1a6da57f3d9a21e698e71d6183a5aad42712424dabd8f5e441"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -70,7 +70,7 @@ Partner has 3 of them so he bids 4\S.}
 1NT pass 3C pass 4C pass 4D pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8e1af2b252ae000e8023541d067ef2da09cdce847dc82d31bc0afe31cbd57801"]
+[VersionToken "8e1af2b252ae000e8023541d067ef2da09cdce847dc82d31bc0afe31cbd57801"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -95,7 +95,7 @@ Don't make the mistake of bidding Blackwood when you have a doubleton-nothing in
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "2994798ee4306a034d26e7cab9515231709f20bae1a846ea28f0622ac0cd6dbd"]
+[VersionToken "2994798ee4306a034d26e7cab9515231709f20bae1a846ea28f0622ac0cd6dbd"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]

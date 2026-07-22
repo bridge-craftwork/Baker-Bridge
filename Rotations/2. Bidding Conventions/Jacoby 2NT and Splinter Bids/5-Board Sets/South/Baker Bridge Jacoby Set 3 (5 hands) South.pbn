@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 2NT pass 4NT pass 5S pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a7c732f2b06d2a843273210e3160b61149797324ed941985815ef091ada7fa74"]
+[VersionToken "a7c732f2b06d2a843273210e3160b61149797324ed941985815ef091ada7fa74"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -41,7 +41,7 @@ The three Aces does it for you. You can count 7 \S tricks, 3 \H tricks, 2 \D tri
 1H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "acad6ab884b40bfeaee635b2419101854028e7cb3cf89b6a5bc8a610fcfe9166"]
+[VersionToken "acad6ab884b40bfeaee635b2419101854028e7cb3cf89b6a5bc8a610fcfe9166"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -66,7 +66,7 @@ As you can see, South should make 12 tricks by discarding one \C loser on your \
 1S 2C 3C pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "067e2b314ceb7bfc287e099e46438995e10e347c40b5f6a2f03d5fc9eeeb6fcd"]
+[VersionToken "067e2b314ceb7bfc287e099e46438995e10e347c40b5f6a2f03d5fc9eeeb6fcd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -89,7 +89,7 @@ But he definitely has \S support. You show your minimum hand by bidding 3\S and 
 1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9aeb631d981a3fb456acf131eb063d4617f0007beaab7063c10221658a10ae81"]
+[VersionToken "9aeb631d981a3fb456acf131eb063d4617f0007beaab7063c10221658a10ae81"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -112,7 +112,7 @@ Note that in this hand the three points you credited for your \SK are completely
 1H pass 4C pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4f51a6b0b6b4418986629d57a003449b6b7aaf3e04d5eb0f2dbad89ad24e7bfa"]
+[VersionToken "4f51a6b0b6b4418986629d57a003449b6b7aaf3e04d5eb0f2dbad89ad24e7bfa"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]

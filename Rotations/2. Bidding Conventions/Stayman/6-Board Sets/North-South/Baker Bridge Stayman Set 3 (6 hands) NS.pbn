@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Stayman
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c615e70272c43f477ffb51305b1491cabab2d2719ce97a256feb66ea6ac38707"]
+[VersionToken "c615e70272c43f477ffb51305b1491cabab2d2719ce97a256feb66ea6ac38707"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -42,7 +42,7 @@ Partner seems to have about 9 points and is inviting you to say 3NT. Since you h
 1NT pass 2C pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "be7a0dfc6877fa3dc6b06572a46ae7eddaebdb8c8f5c967608e8df6e54189132"]
+[VersionToken "be7a0dfc6877fa3dc6b06572a46ae7eddaebdb8c8f5c967608e8df6e54189132"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -67,7 +67,7 @@ Considering the bidding you have done so far you couldn't have a worse hand. Wit
 1NT pass 2C pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c65c32efa50c723439df0ed70425a0aa0550e098a06d4f0a987cf57eda90c6da"]
+[VersionToken "c65c32efa50c723439df0ed70425a0aa0550e098a06d4f0a987cf57eda90c6da"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -92,7 +92,7 @@ Partner has told you he has 4 \Hs and approximately 9 points. Add that to your 4
 1NT pass 2C pass 2H pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "40532c0f6be51b6cee6c0966039aafc247ddbc40727aa7ed5b075f6fdb9df9e0"]
+[VersionToken "40532c0f6be51b6cee6c0966039aafc247ddbc40727aa7ed5b075f6fdb9df9e0"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -117,7 +117,7 @@ Partner would never bid Stayman without a 4-card Major. Since he did not like yo
 1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "624508ba7bb27a8cc57e50f2cec36d60f5cb514fc44072e6990107e9088f11a3"]
+[VersionToken "624508ba7bb27a8cc57e50f2cec36d60f5cb514fc44072e6990107e9088f11a3"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -142,7 +142,7 @@ Partner has described a hand with 4 \Ss and 5 \Hs. You don't know his strength b
 1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "47015da5b6e87b7db29660a94052e807c2d05b61664201ae3a6013fc04d0191a"]
+[VersionToken "47015da5b6e87b7db29660a94052e807c2d05b61664201ae3a6013fc04d0191a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]

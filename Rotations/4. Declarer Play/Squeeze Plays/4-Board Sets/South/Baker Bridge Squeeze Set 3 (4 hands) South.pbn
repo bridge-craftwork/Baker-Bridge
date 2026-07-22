@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2S pass 2NT pass 3NT pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ee8ebf5c0422fe6afcd659b8f0c99ca93c651402439b1e6715f7b0ff51a8d398"]
+[VersionToken "ee8ebf5c0422fe6afcd659b8f0c99ca93c651402439b1e6715f7b0ff51a8d398"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -53,7 +53,7 @@ If he throws the \CJ, you win. But if he throws a \S you also win. This is what 
 pass 1NT pass 2C pass 2S pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "afcf44506860979a7185d1f190bd8f14f40ad63802343617317f79b867617397"]
+[VersionToken "afcf44506860979a7185d1f190bd8f14f40ad63802343617317f79b867617397"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -97,7 +97,7 @@ If he discards the \D10 then you throw dummy's small \H and dummy wins the last 
 1C pass 2D pass 2S pass 4NT pass 5H pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ed7d41feaebf85081bb75504454fe418c1f01adf6866157c6bd94eb7c2dc2b85"]
+[VersionToken "ed7d41feaebf85081bb75504454fe418c1f01adf6866157c6bd94eb7c2dc2b85"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -139,7 +139,7 @@ East is squeezed. He can't throw his \CK without letting your \CQ become a winne
 1H pass 3C pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d71392be7ee1b62838a307cfb355e1d1abe636b62066e4475d707864cc6a89ff"]
+[VersionToken "d71392be7ee1b62838a307cfb355e1d1abe636b62066e4475d707864cc6a89ff"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]

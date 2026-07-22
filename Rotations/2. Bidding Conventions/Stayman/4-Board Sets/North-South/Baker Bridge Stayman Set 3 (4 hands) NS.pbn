@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Stayman
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "73fb2c2e56acef285e864779875b37f499c05473e3f8877cf719a483213f529a"]
+[VersionToken "73fb2c2e56acef285e864779875b37f499c05473e3f8877cf719a483213f529a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -44,7 +44,7 @@ If partner had just 2 \Ss he would have bid 3NT. Since he has 3 \Ss he bids 4\S.
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "411f1de49f2a04bc96618bfcbaa812f5f868509fbe888a83f76c7a696d461cb9"]
+[VersionToken "411f1de49f2a04bc96618bfcbaa812f5f868509fbe888a83f76c7a696d461cb9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -71,7 +71,7 @@ Yes, but you already knew you had an 8-card \H fit since partner's 1NT promised 
 1NT pass 2C pass 2D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "22626900e0ca0d9917a5db3b219807010b82b3736dfbcc4ebdf73b09cb53bed7"]
+[VersionToken "22626900e0ca0d9917a5db3b219807010b82b3736dfbcc4ebdf73b09cb53bed7"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -98,7 +98,7 @@ In this case the strong hand does not become declarer, but the contract is the r
 1NT pass 2C pass 2S pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ff263ce6d8a0f3f822e783edbce7c90de6dda5d4adfa269b0966811fe296feff"]
+[VersionToken "ff263ce6d8a0f3f822e783edbce7c90de6dda5d4adfa269b0966811fe296feff"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]

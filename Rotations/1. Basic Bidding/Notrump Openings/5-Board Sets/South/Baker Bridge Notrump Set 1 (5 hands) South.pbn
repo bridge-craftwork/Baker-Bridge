@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "88b7bc4c0463d267a034bd58b7a3fbf3be9b86c02cb79944571321c1336c24d9"]
+[VersionToken "88b7bc4c0463d267a034bd58b7a3fbf3be9b86c02cb79944571321c1336c24d9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -41,7 +41,7 @@ Partner's 2NT bid invites you to bid 3NT if you are at the top of your 15-17 poi
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2477ae532bf098c6aa9b6bcb370ab33526535f2d963c0a16aa6be525c72b678b"]
+[VersionToken "2477ae532bf098c6aa9b6bcb370ab33526535f2d963c0a16aa6be525c72b678b"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -64,7 +64,7 @@ You should count on partner for 9 points for his invitation. Your 17 brings the 
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cec050fc40fad291005a730669cab58b06834bd241ad1625fb8ccb8e3f92fc72"]
+[VersionToken "cec050fc40fad291005a730669cab58b06834bd241ad1625fb8ccb8e3f92fc72"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -89,7 +89,7 @@ With all the 10s and 9s this hand is stronger than 16 points, so you bid 3NT.}
 1NT pass 4NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6c99955a6ff6d958ed4dd2c335e450de2f9fe223110e221391fd57e3fc3cf4cd"]
+[VersionToken "6c99955a6ff6d958ed4dd2c335e450de2f9fe223110e221391fd57e3fc3cf4cd"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -116,7 +116,7 @@ As you see, there are 9 easy tricks and you can probably set up another. But you
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "58dc2cda9861980df4952d6be0c7c2ec800c45c35905e87e4bb0c27d1e2c454c"]
+[VersionToken "58dc2cda9861980df4952d6be0c7c2ec800c45c35905e87e4bb0c27d1e2c454c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]

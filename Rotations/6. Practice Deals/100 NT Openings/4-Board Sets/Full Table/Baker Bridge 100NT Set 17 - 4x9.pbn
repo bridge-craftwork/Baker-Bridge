@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2602e7657b7b07450c4aa11522f3081a5f9ee141a2a7554a73728a4097f5e5d5"]
+[VersionToken "2602e7657b7b07450c4aa11522f3081a5f9ee141a2a7554a73728a4097f5e5d5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -64,7 +64,7 @@ The method given here gives up the possibility of an overtrick for an improved c
 2NT pass 3C pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "f1f7a58f40311cc30652b3fc91bde72697d73d37d28c210cf59bb740324762de"]
+[VersionToken "f1f7a58f40311cc30652b3fc91bde72697d73d37d28c210cf59bb740324762de"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -112,7 +112,7 @@ It is unlikely that North would lead the \S8 from any holding containing one or 
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "918cef197fcf403f8a75f691b43ca5bc0d51ad9f4ada5db98e4f51a7a7cdc11c"]
+[VersionToken "918cef197fcf403f8a75f691b43ca5bc0d51ad9f4ada5db98e4f51a7a7cdc11c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -160,7 +160,7 @@ Here that principle applied even though there were <b>TWO</b> master trumps out.
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "8f4f9d435322b45492bffb7cda27f61f9662151d28bbc8d5b00f7178798c72e2"]
+[VersionToken "8f4f9d435322b45492bffb7cda27f61f9662151d28bbc8d5b00f7178798c72e2"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

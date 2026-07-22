@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "51ac8e492414769af9783026bc73255dd7a5a01fdfcca77c6bd831fb2d40938f"]
+[VersionToken "51ac8e492414769af9783026bc73255dd7a5a01fdfcca77c6bd831fb2d40938f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -60,7 +60,7 @@ But that would have been all for nothing if North had not found the PLAN to make
 1D pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "f17e5b917463a401914703dbad70d06b177628d393728b001dc975670edaddd5"]
+[VersionToken "f17e5b917463a401914703dbad70d06b177628d393728b001dc975670edaddd5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -104,7 +104,7 @@ Here the bad thing would be for North to get the lead and play a \S. In this cas
 pass 2C pass 2D pass 2S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5fb6195b42c9a61e5bdd58a0b9fcd2dd2eabe15942f7d8c069993ace8d430772"]
+[VersionToken "5fb6195b42c9a61e5bdd58a0b9fcd2dd2eabe15942f7d8c069993ace8d430772"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -152,7 +152,7 @@ You would have played \CA, \C K, then a small \C to dummy's \CJ. East would ruff
 1C pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "ee2d4cda4ba3ae4300cead6f8cdff20f35c9194f921477fdd630513816af4f30"]
+[VersionToken "ee2d4cda4ba3ae4300cead6f8cdff20f35c9194f921477fdd630513816af4f30"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -196,7 +196,7 @@ You were a little lucky that the defender who got the ruff, South, was the one w
 1D pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "40832d796e653ab753c5d22cf9b67324d886e4dd146121e1347d57c001f96a15"]
+[VersionToken "40832d796e653ab753c5d22cf9b67324d886e4dd146121e1347d57c001f96a15"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -232,7 +232,7 @@ The best thing about this plan is that when you test the \Ds, if it turns out th
 1C pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "e18bc138ae131e867801fe1ca7163d99bd61e11d1c7572756c01b640346f4525"]
+[VersionToken "e18bc138ae131e867801fe1ca7163d99bd61e11d1c7572756c01b640346f4525"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

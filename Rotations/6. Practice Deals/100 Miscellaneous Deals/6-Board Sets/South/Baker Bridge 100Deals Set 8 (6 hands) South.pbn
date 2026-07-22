@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2C pass 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "495c55509c4e0500ffd53c83b5c56290db8f7d926cdcb68327f14cac4e9f4d21"]
+[VersionToken "495c55509c4e0500ffd53c83b5c56290db8f7d926cdcb68327f14cac4e9f4d21"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -60,7 +60,7 @@ The play for this hand was not straightforward at all, and might have taken a di
 pass 1D pass 1H pass 2NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "65683f3980b8e5a8b58f6d1f2e2c2283738abc779f8a6a6a66b0124ab349e691"]
+[VersionToken "65683f3980b8e5a8b58f6d1f2e2c2283738abc779f8a6a6a66b0124ab349e691"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -110,7 +110,7 @@ Correctly played you would lead a \H honor to establish one trick in the suit an
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c26458f11fe34c5d4b68c0a9beaff1164a86b252486cb7dba5480b94bf3d0ed3"]
+[VersionToken "c26458f11fe34c5d4b68c0a9beaff1164a86b252486cb7dba5480b94bf3d0ed3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -146,7 +146,7 @@ Ruffing with the \SQ might cost a trick if the \Ss split 4-1 and East did not ha
 1D dbl pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3d0cea4dc1f8fd43319304cd171259655831cd32a4c9831ab2a9bbf010d94708"]
+[VersionToken "3d0cea4dc1f8fd43319304cd171259655831cd32a4c9831ab2a9bbf010d94708"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -182,7 +182,7 @@ If you had ruffed, East would have over-ruffed. And you would still have a \C lo
 pass 1D pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2f9b1f08eeb99e673545c9a3d87bf2eed12440fc6ff1a8380e2b10e8ea8309ab"]
+[VersionToken "2f9b1f08eeb99e673545c9a3d87bf2eed12440fc6ff1a8380e2b10e8ea8309ab"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -220,7 +220,7 @@ As you see, this time the \Ss didn't split so you had to make the \CJ to succeed
 pass pass pass 1S 2H 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b02b48c945129a4c38e2a62825f937628f731cc430c241181754dac333c85c73"]
+[VersionToken "b02b48c945129a4c38e2a62825f937628f731cc430c241181754dac333c85c73"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

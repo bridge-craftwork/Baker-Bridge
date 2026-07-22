@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b0ec53ec2990042f083b1ae815e57f5251f34704375d2b8f5f323eb70b9184d7"]
+[VersionToken "b0ec53ec2990042f083b1ae815e57f5251f34704375d2b8f5f323eb70b9184d7"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -56,7 +56,7 @@ Ducking the \D was the correct play - not just because it worked, but because it
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c229b363ae439ac6aa372bd1d754b2ad8bd43a9899deb0a55b6c12bd2a00ab06"]
+[VersionToken "c229b363ae439ac6aa372bd1d754b2ad8bd43a9899deb0a55b6c12bd2a00ab06"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -104,7 +104,7 @@ West could hold <b>EITHER</b> \H A J x <b>OR</b>\H K J x in which case finessing
 1H 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ec36dfa0f7a49a86d39871ccc92f6aedd45f7e91c2215252e594054734e0f363"]
+[VersionToken "ec36dfa0f7a49a86d39871ccc92f6aedd45f7e91c2215252e594054734e0f363"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -144,7 +144,7 @@ Don't give him the chance.}
 1NT 2S 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ffc5f566bf2cfff6e1724bb5cb8e2bfb5a69eaa44f7e30d3781a186fe19c78af"]
+[VersionToken "ffc5f566bf2cfff6e1724bb5cb8e2bfb5a69eaa44f7e30d3781a186fe19c78af"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

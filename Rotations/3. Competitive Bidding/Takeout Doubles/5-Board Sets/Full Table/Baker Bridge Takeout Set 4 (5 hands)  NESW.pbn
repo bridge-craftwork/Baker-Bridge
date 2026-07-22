@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "83e19d8c563f27fb073ca83ad853d2f81b87394406ef43ce0d7de920d191f8d5"]
+[VersionToken "83e19d8c563f27fb073ca83ad853d2f81b87394406ef43ce0d7de920d191f8d5"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -40,7 +40,7 @@ Your hand falls in the 9-11 point mid-range response where you make a jump bid. 
 1C X pass 2C pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "d3d81706bf24630e7b6a28be7e3dd26aff0c1a63c70b1836ef58a39c04a0cd1f"]
+[VersionToken "d3d81706bf24630e7b6a28be7e3dd26aff0c1a63c70b1836ef58a39c04a0cd1f"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -65,7 +65,7 @@ With both of you knowing you will reach game, partner has suggested \Hs. You don
 1S X pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "261963434c6e2470c9cc21071a3ae5bff17c3f17d8259cd537c70bbf64950288"]
+[VersionToken "261963434c6e2470c9cc21071a3ae5bff17c3f17d8259cd537c70bbf64950288"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -90,7 +90,7 @@ Notice that if you had made a cuebid, partner would probably end up playing 4\H 
 1D X pass 1H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "ed19e457fee508a7a56f157c538c2c78d50428b06d50dc90c8879ab8aae07c63"]
+[VersionToken "ed19e457fee508a7a56f157c538c2c78d50428b06d50dc90c8879ab8aae07c63"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -115,7 +115,7 @@ You say pass. Despite partner showing you a big hand you just can't help him. }
 1H X pass 2C 2H 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "43f8c4a406268d724ec0f1af308c7b479b5154c8e49b907a2c54dd48cea5fe15"]
+[VersionToken "43f8c4a406268d724ec0f1af308c7b479b5154c8e49b907a2c54dd48cea5fe15"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]

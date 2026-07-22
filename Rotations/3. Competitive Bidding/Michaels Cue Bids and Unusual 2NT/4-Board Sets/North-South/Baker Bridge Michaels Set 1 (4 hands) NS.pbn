@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Michaels
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D 2D pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2dc92f0c7c24d6f1e128d7484d436599deb6c22e6c76ef3925d4b891143e4c1d"]
+[VersionToken "2dc92f0c7c24d6f1e128d7484d436599deb6c22e6c76ef3925d4b891143e4c1d"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -43,7 +43,7 @@ You have a rather minimum Michaels type hand and you asked partner to choose a M
 1C 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "218694e328d7a35ab193a2ac582448172c7cc5ba94b148209bc3f93b8a4a1f5f"]
+[VersionToken "218694e328d7a35ab193a2ac582448172c7cc5ba94b148209bc3f93b8a4a1f5f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -66,7 +66,7 @@ You have a fair hand with a guaranteed 8-card fit in either Major. You are not, 
 1H 2NT pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1c8fff7bcab08c3c41a49b40f248fe7338244c33b5564f1489a98743634c06de"]
+[VersionToken "1c8fff7bcab08c3c41a49b40f248fe7338244c33b5564f1489a98743634c06de"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -91,7 +91,7 @@ As mentioned, you have a pretty good hand, but partner only bid because you forc
 1S 2NT pass 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3a7483e4268982f4e08a9b5b04547c8405dca7ba400a65471303c8b066b374f4"]
+[VersionToken "3a7483e4268982f4e08a9b5b04547c8405dca7ba400a65471303c8b066b374f4"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicNotrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0cbbf700a7dcbf3eaaeddede928f1f62118693b61c01c74b5f85e0787fa997a3"]
+[VersionToken "0cbbf700a7dcbf3eaaeddede928f1f62118693b61c01c74b5f85e0787fa997a3"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -42,7 +42,7 @@ Since this is below the 26 point game requirement he passes.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "ad18e6d547a9eb6b5cf6d72c79df9af0d3f267911ef4eed4864975fed5b8a401"]
+[VersionToken "ad18e6d547a9eb6b5cf6d72c79df9af0d3f267911ef4eed4864975fed5b8a401"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -67,7 +67,7 @@ but not enough to think about slam. Since WEST also has a balanced hand she bids
 pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "db7c0ca7140c1eb8220b0aff540b11177fcd1489a4c188f22df19e8941b6b220"]
+[VersionToken "db7c0ca7140c1eb8220b0aff540b11177fcd1489a4c188f22df19e8941b6b220"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -96,7 +96,7 @@ NORTH just bids 3NT, knowing SOUTH will respect his decision and pass.}
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "353ea77537fd763ad5713b97c8f5afc47e36601c183d0fc04b4f26c021cf7bf7"]
+[VersionToken "353ea77537fd763ad5713b97c8f5afc47e36601c183d0fc04b4f26c021cf7bf7"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -118,7 +118,7 @@ than 17 points. So with her 7 points, she knows there is no reason to respond.}
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5f7d78ae3a7e60f107a72a9ad369634f01ef5b48f9d8d77351cb93a1248c38f0"]
+[VersionToken "5f7d78ae3a7e60f107a72a9ad369634f01ef5b48f9d8d77351cb93a1248c38f0"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -147,7 +147,7 @@ NORTH has a maximum 17 point hand so she accepts the invitation.}
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "8cc4c9dc9d505670302d14da0b64cc84067b493f75882c56195c5da98076d45c"]
+[VersionToken "8cc4c9dc9d505670302d14da0b64cc84067b493f75882c56195c5da98076d45c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -172,7 +172,7 @@ game if he has maximum, pass if he has minimum. On this Deal EAST has 17 points 
 pass 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "741c04f2b2bf31d669507f1fd1df4bc2361ed3df540e7924122d60a39df443f9"]
+[VersionToken "741c04f2b2bf31d669507f1fd1df4bc2361ed3df540e7924122d60a39df443f9"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -198,7 +198,7 @@ SOUTH, with a minimum, declines the invitation by passing.}
 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "6d050ec8f3ff2b08f918ade52e3efd20727f68937e88e98c63df08a76f33fccd"]
+[VersionToken "6d050ec8f3ff2b08f918ade52e3efd20727f68937e88e98c63df08a76f33fccd"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -223,7 +223,7 @@ magic game number of 26 points she just passes.}
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d870f306cb4e7a1e2d786c91cb6f3b60865b9eab4252f3b222f5dee9f25cc781"]
+[VersionToken "d870f306cb4e7a1e2d786c91cb6f3b60865b9eab4252f3b222f5dee9f25cc781"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -251,7 +251,7 @@ and bids 3NT.}
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "bbc0aab189d3f4850d3df5ff623fe5370b810fc83e457b1954dd721f0716eb44"]
+[VersionToken "bbc0aab189d3f4850d3df5ff623fe5370b810fc83e457b1954dd721f0716eb44"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -275,7 +275,7 @@ nowhere close to the slam requirement. So she bids 3NT and EAST passes.}
 pass 1NT pass 4NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9fe29c1e030e741f4d95ad632fa5db02d90f310d0c44f64a7cde14e8724c430a"]
+[VersionToken "9fe29c1e030e741f4d95ad632fa5db02d90f310d0c44f64a7cde14e8724c430a"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -302,7 +302,7 @@ her to bid 6NT if she is at the top of her range. It is clear to SOUTH, but with
 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "5017a37d809972d7284b4206b900a513d5fcd4a04b2b26c5838454fcaf117d0b"]
+[VersionToken "5017a37d809972d7284b4206b900a513d5fcd4a04b2b26c5838454fcaf117d0b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -328,7 +328,7 @@ Since WEST is minimum he declines the invitation by passing.}
 pass 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f7d71a8c8721fcb72b3026e7b110785e2cd0a9c2bd267e3f7f954fb1d48e7b0d"]
+[VersionToken "f7d71a8c8721fcb72b3026e7b110785e2cd0a9c2bd267e3f7f954fb1d48e7b0d"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -354,7 +354,7 @@ below the 37 points needed for Grand Slam so he bids 6NT.}
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "fd23dc6fd45ced88e95798ba548d2595af1c1dfa85fe4c3dc4ec0c93be01d3a1"]
+[VersionToken "fd23dc6fd45ced88e95798ba548d2595af1c1dfa85fe4c3dc4ec0c93be01d3a1"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -381,7 +381,7 @@ Therefore she GOES to 6NT.}
 pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5ff686edb4aa3eeef06fb537b36c78a27b6ba34751f73f1b951cf8177d0493f8"]
+[VersionToken "5ff686edb4aa3eeef06fb537b36c78a27b6ba34751f73f1b951cf8177d0493f8"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -404,7 +404,7 @@ NORTH has 7 points; he knows the partnership has either 27 or 28 points so he bi
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "056feda18a4c1fb23922abdd170cbb36f8cad78787c9111a25523514e0eb23b1"]
+[VersionToken "056feda18a4c1fb23922abdd170cbb36f8cad78787c9111a25523514e0eb23b1"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -430,7 +430,7 @@ In any case they should be in slam, so EAST GOES to 6NT.}
 pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "aaaabdeffa40c5958dcfd4ac3b17a4303b23acf80e5ba5b453a088321ffb9645"]
+[VersionToken "aaaabdeffa40c5958dcfd4ac3b17a4303b23acf80e5ba5b453a088321ffb9645"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -454,7 +454,7 @@ SOUTH has 6 points, just enough to bid 3NT.
 pass pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "cc9b1224a08c178f57d440fbff65cb034d90b7d0b5cbaca1602e50998a3a6326"]
+[VersionToken "cc9b1224a08c178f57d440fbff65cb034d90b7d0b5cbaca1602e50998a3a6326"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -481,7 +481,7 @@ she bids 3NT. If those 10's and 9's had been 4's and 3's she would have passed.}
 pass 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "11aa4fcca2711326ffdc1e58aaf3b7fee53485005a670877c8233c4d950974e9"]
+[VersionToken "11aa4fcca2711326ffdc1e58aaf3b7fee53485005a670877c8233c4d950974e9"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -508,7 +508,7 @@ He figured right - SOUTH had 17 points so she bid 6NT.}
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "9b666036ec57429a03b0ba45a4785dd0a8a5abfba27cbe63b5b1c2e95f5cab9b"]
+[VersionToken "9b666036ec57429a03b0ba45a4785dd0a8a5abfba27cbe63b5b1c2e95f5cab9b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -535,7 +535,7 @@ Notice how easy this will be to play once that Club suit is established.}
 pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 21, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "78e448e81d1ee447bb74e01250fb0586e42a0d3dcb7893af97369e91d6e37343"]
+[VersionToken "78e448e81d1ee447bb74e01250fb0586e42a0d3dcb7893af97369e91d6e37343"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -559,7 +559,7 @@ total cannot be more than 24. So he just passes 2NT.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 22, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "6dc4481df2d1b6680a26aa21b11f178c7d4e3fdb2dbf0e4a838210b28e5bbaf2"]
+[VersionToken "6dc4481df2d1b6680a26aa21b11f178c7d4e3fdb2dbf0e4a838210b28e5bbaf2"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -587,7 +587,7 @@ Sometimes correct bidding gets you to unmakeable contracts. But it's only a game
 pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 23, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6d2691c805a2c1c9266c0f75c836d2461d5e0d47630b46a6d9ea2227641d56e5"]
+[VersionToken "6d2691c805a2c1c9266c0f75c836d2461d5e0d47630b46a6d9ea2227641d56e5"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -612,7 +612,7 @@ total will come to 34 or 35 so he bids 6NT.}
 pass pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 24, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
+[VersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]

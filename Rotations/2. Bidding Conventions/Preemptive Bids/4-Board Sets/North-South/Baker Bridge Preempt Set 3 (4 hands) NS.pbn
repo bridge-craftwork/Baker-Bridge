@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Preempt
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 3D X 4D 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: E, basisKind:Declarer, nOption:0, nBasis: 1, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "edf1f3dd9ee15c7d82e9fabfa45f24585b52ccc573498a205cea005ca517f220"]
+[VersionToken "edf1f3dd9ee15c7d82e9fabfa45f24585b52ccc573498a205cea005ca517f220"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -44,7 +44,7 @@ It is partner's decision, not yours, whether to continue to 5\D as a sacrifice.}
 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "350f681c005b582f484a392ec617ea212c89237071cd9b0cd2cbe38bd7b338f3"]
+[VersionToken "350f681c005b582f484a392ec617ea212c89237071cd9b0cd2cbe38bd7b338f3"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -71,7 +71,7 @@ Somewhere in some of these lessons there should be a guideline that says:}
 1H 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2b4ea22acfab3e4e3f033c0684f5afaaebed14bd95a813e9b985be353a0569dc"]
+[VersionToken "2b4ea22acfab3e4e3f033c0684f5afaaebed14bd95a813e9b985be353a0569dc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -96,7 +96,7 @@ This time everybody passes.}
 1C 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "44b2aa534c1ab1e00afb7dda62645150882d2629d39d47e52d32557a5303f69b"]
+[VersionToken "44b2aa534c1ab1e00afb7dda62645150882d2629d39d47e52d32557a5303f69b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]

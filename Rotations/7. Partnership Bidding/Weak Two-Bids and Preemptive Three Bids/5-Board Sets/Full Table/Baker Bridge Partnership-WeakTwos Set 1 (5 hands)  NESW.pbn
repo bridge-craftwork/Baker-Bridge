@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-WeakTwos
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ff7bc1fb9b03aa3ec1df38d7d06332c46d7e2244649f2b3cab86530ca68e22c"]
+[VersionToken "0ff7bc1fb9b03aa3ec1df38d7d06332c46d7e2244649f2b3cab86530ca68e22c"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -42,7 +42,7 @@ resist the temptation. To raise a Weak Two-bid to game you should have quick win
 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "d9e894395b28af34ad2aeaf7f59a200d0358088e6d4820f93b68d41c3cf60d1a"]
+[VersionToken "d9e894395b28af34ad2aeaf7f59a200d0358088e6d4820f93b68d41c3cf60d1a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -66,7 +66,7 @@ pair is nowhere close to having a slam. The will probably make just ten tricks.}
 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "37c0e2f9a89d6f51f975fe751e70fd49f559ac5a003ac86ef5498908eba358c3"]
+[VersionToken "37c0e2f9a89d6f51f975fe751e70fd49f559ac5a003ac86ef5498908eba358c3"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -94,7 +94,7 @@ won't go down more than a couple of tricks.}
 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "62af82bb51231f08a23c37388a6ab671aea54b3ca0f0a0b14b3533e40b2905b2"]
+[VersionToken "62af82bb51231f08a23c37388a6ab671aea54b3ca0f0a0b14b3533e40b2905b2"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -123,7 +123,7 @@ best call - PASS.}
 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4762bcb7f031b96f32fd4fd1234277ca734c4ed0c6a56a343e8acd84609bb502"]
+[VersionToken "4762bcb7f031b96f32fd4fd1234277ca734c4ed0c6a56a343e8acd84609bb502"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]

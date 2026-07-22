@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 2D pass 2S pass 4NT pass 5H pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ed7d41feaebf85081bb75504454fe418c1f01adf6866157c6bd94eb7c2dc2b85"]
+[VersionToken "ed7d41feaebf85081bb75504454fe418c1f01adf6866157c6bd94eb7c2dc2b85"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -59,7 +59,7 @@ West is squeezed. He can't throw his \CK without letting your \CQ become a winne
 1H pass 3C pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "d71392be7ee1b62838a307cfb355e1d1abe636b62066e4475d707864cc6a89ff"]
+[VersionToken "d71392be7ee1b62838a307cfb355e1d1abe636b62066e4475d707864cc6a89ff"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -95,7 +95,7 @@ North has no answer.}
 pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7e5a05fd38fdd7b0b3586e2952c94e4ea70132c3c8c61de2a0319ff31fb126ba"]
+[VersionToken "7e5a05fd38fdd7b0b3586e2952c94e4ea70132c3c8c61de2a0319ff31fb126ba"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -157,7 +157,7 @@ This is called a Double Squeeze.}
 2C pass 3D pass 4NT pass 5D pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "7202b0029d1efd40d9bb92459da730ad13e416caa3e9719e87d1b6d179f59339"]
+[VersionToken "7202b0029d1efd40d9bb92459da730ad13e416caa3e9719e87d1b6d179f59339"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -207,7 +207,7 @@ You win the last three \H tricks with another Double Squeeze.}
 1H 1S 2C pass 3H pass 4H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "835eda48a403a4bd440de8ddd439a077be66e8a880b1b6536c48c7a38a15e1c1"]
+[VersionToken "835eda48a403a4bd440de8ddd439a077be66e8a880b1b6536c48c7a38a15e1c1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]

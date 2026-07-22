@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Ogust
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2H pass 2NT pass 3S pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c3f95be26ecd8593379aa05595e59d1f0de36e76cd4519c375c80bc93528948e"]
+[VersionToken "c3f95be26ecd8593379aa05595e59d1f0de36e76cd4519c375c80bc93528948e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -39,7 +39,7 @@
 pass 2S pass 2NT pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "376d931f2971e2f3cdb85068f8880036b09ea8362b0da21f4a7f5384fc25c66c"]
+[VersionToken "376d931f2971e2f3cdb85068f8880036b09ea8362b0da21f4a7f5384fc25c66c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]

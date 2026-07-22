@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 1S pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "422e5511d97bc0eb8b7573ff1dfd0e8fec5bb4ebb3d1eb58bcbff795fa5193af"]
+[VersionToken "422e5511d97bc0eb8b7573ff1dfd0e8fec5bb4ebb3d1eb58bcbff795fa5193af"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -48,7 +48,7 @@ East looks at your signal, then looks at dummy, then looks at your signal. He kn
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "7b18ffc4410cff2fe0bbe7914420a703fc3c1028e080b2b81593f8f582c7168f"]
+[VersionToken "7b18ffc4410cff2fe0bbe7914420a703fc3c1028e080b2b81593f8f582c7168f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -78,7 +78,7 @@ North next plays the \DQ and however East tries it your side will take the next 
 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a1488389e14db29efd34973a971749d667e94e88efb33a7d9764ab9883163d1d"]
+[VersionToken "a1488389e14db29efd34973a971749d667e94e88efb33a7d9764ab9883163d1d"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -112,7 +112,7 @@ West next plays a small \D which you win with your \DJ. You return the \ST. This
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "189e970de5549389ec75f257ce8246c7dd2e765da80c2d79851410c21abdc3be"]
+[VersionToken "189e970de5549389ec75f257ce8246c7dd2e765da80c2d79851410c21abdc3be"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -144,7 +144,7 @@ Hopefully South will come to the conclusion that this is Suit Preference for a \
 1H 1S 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a63de8e9153032905e39024e7fea49532b85777dd53edc7aae374a65d2af9969"]
+[VersionToken "a63de8e9153032905e39024e7fea49532b85777dd53edc7aae374a65d2af9969"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]

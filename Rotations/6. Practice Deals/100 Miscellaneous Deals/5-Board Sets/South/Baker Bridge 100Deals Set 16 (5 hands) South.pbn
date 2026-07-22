@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 2S dbl 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ce7c369fe9ed781090a746e138cef89afa010f94cdeef129f5351d5dd9e0dfd6"]
+[VersionToken "ce7c369fe9ed781090a746e138cef89afa010f94cdeef129f5351d5dd9e0dfd6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -62,7 +62,7 @@ If you decided to play for trumps to split 2-2 so you could use the \S8 as an en
 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "bb8d8aaef411ff12892afc878eb0795fa49fef828fac99bb8e6a7365c75f6441"]
+[VersionToken "bb8d8aaef411ff12892afc878eb0795fa49fef828fac99bb8e6a7365c75f6441"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -102,7 +102,7 @@ Then think about how to keep East from getting the lead - in this case holding u
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "738fb41c770714aa48762992456a2248a7658e6efe17e049b056d317c2b34798"]
+[VersionToken "738fb41c770714aa48762992456a2248a7658e6efe17e049b056d317c2b34798"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -148,7 +148,7 @@ A very important part of this Plan was where you chose to win the first trick. S
 1C pass 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b4c815a98d472019046d99e954b9262ebacbba69c05821f11ac6228d387e2fbc"]
+[VersionToken "b4c815a98d472019046d99e954b9262ebacbba69c05821f11ac6228d387e2fbc"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -190,7 +190,7 @@ This wasn't a guaranteed Plan like some. If East held the \DA then you would go 
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a4b9aab2c9d1c7464a92917b85dfcae6dced16a28b871e86cdab8a3c805b969b"]
+[VersionToken "a4b9aab2c9d1c7464a92917b85dfcae6dced16a28b871e86cdab8a3c805b969b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

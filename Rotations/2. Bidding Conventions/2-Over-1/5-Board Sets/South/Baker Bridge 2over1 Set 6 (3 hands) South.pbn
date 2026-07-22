@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -11,7 +11,7 @@
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:QJ8763.AK8.8.K75 K95.T97542.A3.Q2 A4.QJ6.7642.A963 T2.3.KQJT95.JT84"]
-[BoardVersionToken "d1290c72303a75a315ce08ec467569feefbdf61634cdbd7d2f1e118a7ce428c2"]
+[VersionToken "d1290c72303a75a315ce08ec467569feefbdf61634cdbd7d2f1e118a7ce428c2"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -32,7 +32,7 @@ South has a little extra so he bids 4\S, which is a pretty good contract.}
 [Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:QJ9842.AJ95.83.K K3.742.T9754.983 T7.QT3.AJ6.AQ642 A65.K86.KQ2.JT75"]
-[BoardVersionToken "81bcad7130779d5a5eaba875d2dae55c9b1516c3ddd3f751b007aae8120555e9"]
+[VersionToken "81bcad7130779d5a5eaba875d2dae55c9b1516c3ddd3f751b007aae8120555e9"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -54,7 +54,7 @@ Your two \Ss are enough support so you bid the \S game.}
 [Dealer "N"]
 [Vulnerable "EW"]
 [Deal "N:KQ753.87.KQ6.Q95 42.KJ94.T95.T863 AJ8.Q652.873.A74 T96.AT3.AJ42.KJ2"]
-[BoardVersionToken "40cdd9d9acb396fd92851d9c3e75fe57c9bcf38e59cf8288334bd685374ebaaf"]
+[VersionToken "40cdd9d9acb396fd92851d9c3e75fe57c9bcf38e59cf8288334bd685374ebaaf"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

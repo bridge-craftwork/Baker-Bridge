@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Finesse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2C pass 2D pass 2S pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "56a32c802851317deb6514f714404b805b3968865da5ac8a1c784355c85ff54a"]
+[VersionToken "56a32c802851317deb6514f714404b805b3968865da5ac8a1c784355c85ff54a"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -49,7 +49,7 @@ But as you can see, only the \C finesse will actually save you a trick.}
 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c514a5ac18f5652910797098f178f31a16af1283bf8f19629863f99834f28450"]
+[VersionToken "c514a5ac18f5652910797098f178f31a16af1283bf8f19629863f99834f28450"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -83,7 +83,7 @@ But they are easy to overlook, mainly because we don't use them often.}
 1D pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "260bf998c38e48cedeb5988182eef4f69952c028ab825c73afacc106dbea8cca"]
+[VersionToken "260bf998c38e48cedeb5988182eef4f69952c028ab825c73afacc106dbea8cca"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -119,7 +119,7 @@ Sometimes that may be right. But there are other times when information from the
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f96a58ca16b34a84c570c2970c30e2c2dec232414525683e6572e72263b932f0"]
+[VersionToken "f96a58ca16b34a84c570c2970c30e2c2dec232414525683e6572e72263b932f0"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -153,7 +153,7 @@ The only hope is to try to drop the \SK without wasting an extra honor.}
 pass 1H pass 1NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7a4b5f8896af3d27c29406312f8c39fbbfa9c3d564f2374398e5f9432186db12"]
+[VersionToken "7a4b5f8896af3d27c29406312f8c39fbbfa9c3d564f2374398e5f9432186db12"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]

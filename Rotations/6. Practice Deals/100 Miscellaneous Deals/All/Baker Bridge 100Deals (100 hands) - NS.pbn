@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "681caff5b9a2526a9443a99f32a96fd5fb808c32d6a343d9b34c7e3bf47bbc45"]
+[VersionToken "681caff5b9a2526a9443a99f32a96fd5fb808c32d6a343d9b34c7e3bf47bbc45"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -58,7 +58,7 @@ But even with this type of hand you should make sure you take them in the right 
 1D pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "78149227fe40d8e1740db7cb0a9c665e3b658d318b140af454a58275c568832a"]
+[VersionToken "78149227fe40d8e1740db7cb0a9c665e3b658d318b140af454a58275c568832a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -102,7 +102,7 @@ Making a PLAN is a necessary part of being a good Declarer and Visualizing what 
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bfb953b5cb574363f8f648053a4c9052497406333c66e11384747d347a38a340"]
+[VersionToken "bfb953b5cb574363f8f648053a4c9052497406333c66e11384747d347a38a340"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -144,7 +144,7 @@ This wasn't one of those times.}
 1S pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "840318e13e6fb18382aa8452ed1cecdca8d6dbf84df264243eaa2932cdd1d574"]
+[VersionToken "840318e13e6fb18382aa8452ed1cecdca8d6dbf84df264243eaa2932cdd1d574"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -182,7 +182,7 @@ It's never great when the success of your contract depends on a finesse, but som
 pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c86ae85c642c4e52c317f22e4b5bbb918b86ae4081076b7d60aa46bb78991018"]
+[VersionToken "c86ae85c642c4e52c317f22e4b5bbb918b86ae4081076b7d60aa46bb78991018"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -216,7 +216,7 @@ You can see what could have happened if you had tried to sneak even one \S trick
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "fadf085eaba5dd9de20c3280a32f7167c4e9c1462b6d24807005b076ccf43e17"]
+[VersionToken "fadf085eaba5dd9de20c3280a32f7167c4e9c1462b6d24807005b076ccf43e17"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -254,7 +254,7 @@ What would you try next? A \S finesse? Whether West took his \SK right then or l
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "497e3661c8554b15ed6958d178d419829ae1a6f9f92c66b9f432429dac7d7d59"]
+[VersionToken "497e3661c8554b15ed6958d178d419829ae1a6f9f92c66b9f432429dac7d7d59"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -294,7 +294,7 @@ Only a real beginner would have pulled all the trumps and not been able to ruff 
 pass 1C pass 1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f183abf0456ac924c1a9273edaa32b60a2727e34fae124b32c764bb2877cdeb4"]
+[VersionToken "f183abf0456ac924c1a9273edaa32b60a2727e34fae124b32c764bb2877cdeb4"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -336,7 +336,7 @@ You might think if you could just sneak one \C through you wouldn't have to depe
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b8d686e5ff77371d358a6a13c53db3a99c94cd71c2fd93ce7a38b5a07f8775e9"]
+[VersionToken "b8d686e5ff77371d358a6a13c53db3a99c94cd71c2fd93ce7a38b5a07f8775e9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -383,7 +383,7 @@ Using the correct Plan guarantees the contract however \Hs split.}
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7c47d5a098f8f6a05c8d91df1c6b7c6f4e47d0e46869a8e8fd80703bdcee8ffd"]
+[VersionToken "7c47d5a098f8f6a05c8d91df1c6b7c6f4e47d0e46869a8e8fd80703bdcee8ffd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -428,7 +428,7 @@ To summarize: If you are missing <b>J x x x</b> your first play should be from t
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "09cd26a28de3868a2eadb3fde675d07e3207c546e675f213e45aa756634224d3"]
+[VersionToken "09cd26a28de3868a2eadb3fde675d07e3207c546e675f213e45aa756634224d3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -466,7 +466,7 @@ As you can see your plan was the only way to make the contract.}
 1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "879e93bdb713778f4aba4232da6f348e6e2a015be88a5cea5b5df2a2d5da0136"]
+[VersionToken "879e93bdb713778f4aba4232da6f348e6e2a015be88a5cea5b5df2a2d5da0136"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -512,7 +512,7 @@ If you had just played the \Cs from the top you would have made an overtrick whe
 1S pass 1NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "32b6b626276aa387b19fe3b7fe219c1dac751189f9ae328e1d06112c241b8b80"]
+[VersionToken "32b6b626276aa387b19fe3b7fe219c1dac751189f9ae328e1d06112c241b8b80"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -556,7 +556,7 @@ But if your second \S play is a small \S West will win the \SK and you will be l
 1NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "80ebc26a2808abc82f6e7a9160f4165c8a479e83a355f5c1feb6dcd4697e68ef"]
+[VersionToken "80ebc26a2808abc82f6e7a9160f4165c8a479e83a355f5c1feb6dcd4697e68ef"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -598,7 +598,7 @@ As you can see, if you don't play the \Hs as suggested East can prevent you from
 1H 1S 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b22c9f5aa51b3631c30c5f3380a884518053da394c294e0d5500cc8e577f55b3"]
+[VersionToken "b22c9f5aa51b3631c30c5f3380a884518053da394c294e0d5500cc8e577f55b3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -636,7 +636,7 @@ Make sure you visualize how the play would have gone if you had played a trump t
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "28f8fec4b54446289474b66825fa13e0fee6fd16311fa25d4b0eb4e8dee1e350"]
+[VersionToken "28f8fec4b54446289474b66825fa13e0fee6fd16311fa25d4b0eb4e8dee1e350"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -688,7 +688,7 @@ This hand is much rarer - leaving TWO master trumps out. But you can see that it
 pass 1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ab8f5731add89c94c484db70739d8a013189108113470f925333fed6743b8f80"]
+[VersionToken "ab8f5731add89c94c484db70739d8a013189108113470f925333fed6743b8f80"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -728,7 +728,7 @@ Notice that if East was the one who had the \DA then you would go down despite y
 1D 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ac0f7c9765944db8b2c05454790cdb112d720c540d814a28d6f6f994d15996f"]
+[VersionToken "0ac0f7c9765944db8b2c05454790cdb112d720c540d814a28d6f6f994d15996f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -768,7 +768,7 @@ This was a perfect example. After the opening lead it was easy to deduce that al
 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "51ac8e492414769af9783026bc73255dd7a5a01fdfcca77c6bd831fb2d40938f"]
+[VersionToken "51ac8e492414769af9783026bc73255dd7a5a01fdfcca77c6bd831fb2d40938f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -810,7 +810,7 @@ But that would have been all for nothing if North had not found the PLAN to make
 1D pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f17e5b917463a401914703dbad70d06b177628d393728b001dc975670edaddd5"]
+[VersionToken "f17e5b917463a401914703dbad70d06b177628d393728b001dc975670edaddd5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -854,7 +854,7 @@ Here the bad thing would be for East to get the lead and play a \S. In this case
 pass 2C pass 2D pass 2S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 21, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5fb6195b42c9a61e5bdd58a0b9fcd2dd2eabe15942f7d8c069993ace8d430772"]
+[VersionToken "5fb6195b42c9a61e5bdd58a0b9fcd2dd2eabe15942f7d8c069993ace8d430772"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -902,7 +902,7 @@ You would have played \CA, \C K, then a small \C to dummy's \CJ. West would ruff
 1C pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 22, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ee2d4cda4ba3ae4300cead6f8cdff20f35c9194f921477fdd630513816af4f30"]
+[VersionToken "ee2d4cda4ba3ae4300cead6f8cdff20f35c9194f921477fdd630513816af4f30"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -946,7 +946,7 @@ You were a little lucky that the defender who got the ruff, East, was the one wh
 1D pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 23, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "40832d796e653ab753c5d22cf9b67324d886e4dd146121e1347d57c001f96a15"]
+[VersionToken "40832d796e653ab753c5d22cf9b67324d886e4dd146121e1347d57c001f96a15"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -982,7 +982,7 @@ The best thing about this plan is that when you test the \Ds, if it turns out th
 1C pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 24, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e18bc138ae131e867801fe1ca7163d99bd61e11d1c7572756c01b640346f4525"]
+[VersionToken "e18bc138ae131e867801fe1ca7163d99bd61e11d1c7572756c01b640346f4525"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1030,7 +1030,7 @@ A slightly different Plan would also have worked. At trick two you could have pl
 1S pass 2C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 25, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "80e5c256f184860c6f24f7f8020fd8ae2b2a74ec036d2c1218c33bad6d7c8154"]
+[VersionToken "80e5c256f184860c6f24f7f8020fd8ae2b2a74ec036d2c1218c33bad6d7c8154"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1066,7 +1066,7 @@ West would have used his master \SQ to ruff the second \C, before you had taken 
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 26, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "eb3bb07a8d42e5772f574450a53f5e65b854773f0fb6c8e673dd0f6ce93b477a"]
+[VersionToken "eb3bb07a8d42e5772f574450a53f5e65b854773f0fb6c8e673dd0f6ce93b477a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1108,7 +1108,7 @@ Only if you establish your \Hs can you set up a winner for <b>YOU</b> without gi
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 27, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "43c629f39cba5df1d0b8ac6bc811249df4e096b15f0ad07c2ac68746a6143f1e"]
+[VersionToken "43c629f39cba5df1d0b8ac6bc811249df4e096b15f0ad07c2ac68746a6143f1e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1148,7 +1148,7 @@ Notice this. You cannot fault East for his opening lead, top of an honor sequenc
 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 28, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "08660f4a8b922f6a59b4c6fa6bb145d124c2b6257fa68cf4d161e7f48dd742c5"]
+[VersionToken "08660f4a8b922f6a59b4c6fa6bb145d124c2b6257fa68cf4d161e7f48dd742c5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1188,7 +1188,7 @@ The only way to make the contract was to ruff a \H in dummy. }
 pass 1D pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 29, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d5c18a172844c84137f9e15b669c95f70612cc8b1974a9437a6dda64a91b32b1"]
+[VersionToken "d5c18a172844c84137f9e15b669c95f70612cc8b1974a9437a6dda64a91b32b1"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1228,7 +1228,7 @@ Suppose you held up until the third \C. When West won the \DK  here he had a fou
 1S 2D 3D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 30, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d59501d6baab098becfa9eb7baacaf2b99079b38c11fbc512a9ed310fba68eed"]
+[VersionToken "d59501d6baab098becfa9eb7baacaf2b99079b38c11fbc512a9ed310fba68eed"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1272,7 +1272,7 @@ But did you notice that West made a bad play? He should have cashed his \HA befo
 1C pass 1H pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 31, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6243c501682f64fd6707aa66c3ce13fdc0f61e6ff4db3f47c4865efc3b6e490a"]
+[VersionToken "6243c501682f64fd6707aa66c3ce13fdc0f61e6ff4db3f47c4865efc3b6e490a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1320,7 +1320,7 @@ If West ruffs the fourth \H with his master \SQ North just discards a \D loser a
 pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 32, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6eff14b149a7275c1b4777e3baa9cc920f41e4025d014abb0359fac1abeddc6a"]
+[VersionToken "6eff14b149a7275c1b4777e3baa9cc920f41e4025d014abb0359fac1abeddc6a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1358,7 +1358,7 @@ But just imagine you had played \CA, \CK, \C2. At that point \C 9 6 5 would all 
 pass 1C pass 3C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 33, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b95f9a3aae99db32e67e3437b640643c6002a318213c373478e5a6a1ceca62b5"]
+[VersionToken "b95f9a3aae99db32e67e3437b640643c6002a318213c373478e5a6a1ceca62b5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1404,7 +1404,7 @@ In this hand that something is to establish the \SK so you can discard your \D l
 pass 1H pass 3H pass 4NT pass 5C pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 34, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0dfd9bd8315bf21c0c524fd688e6f4415757794182068df2eaa4539e1dedc18f"]
+[VersionToken "0dfd9bd8315bf21c0c524fd688e6f4415757794182068df2eaa4539e1dedc18f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1444,7 +1444,7 @@ Imagine what the defense will do if you lead a round of trumps. Then imagine wha
 1D pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 35, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ad45d9f9afe0ef016809ea4fbefffd5077a57b519ded0b69b50ecabae5e1eb7e"]
+[VersionToken "ad45d9f9afe0ef016809ea4fbefffd5077a57b519ded0b69b50ecabae5e1eb7e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1482,7 +1482,7 @@ When West holds the \SK you can always get 3 \S tricks if you play correctly. }
 1NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 36, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "33423badc1f173fce45cf3e4b1e9393a69aa41867fcb09189258672bd060d432"]
+[VersionToken "33423badc1f173fce45cf3e4b1e9393a69aa41867fcb09189258672bd060d432"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1524,7 +1524,7 @@ This is untrue for a very classy-named reason - <b>The Principle of Restricted C
 1D pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 37, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8a8cb3a58cbc6e879ae6d44f19d02aabf55050500060e4f616987187261d4d34"]
+[VersionToken "8a8cb3a58cbc6e879ae6d44f19d02aabf55050500060e4f616987187261d4d34"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1568,7 +1568,7 @@ Since you would only have one more honor you'd be bound to lose a trick.}
 1NT 2S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 38, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "405c6580b5a078f3e3c37db188bc7babcd78733b35f48624763a0c541d129f75"]
+[VersionToken "405c6580b5a078f3e3c37db188bc7babcd78733b35f48624763a0c541d129f75"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1608,7 +1608,7 @@ With the holdup it didn't matter which red suit you established first.}
 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 39, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "57d568f5b1c1463f46eee9ca8378db7f05551632b15762db6a9c853a8a9b0f5c"]
+[VersionToken "57d568f5b1c1463f46eee9ca8378db7f05551632b15762db6a9c853a8a9b0f5c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1648,7 +1648,7 @@ It costs nothing to make a careful play. Most of the time it doesn't matter, but
 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 40, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ce1492ce1275d7dec3e7331abc98a178056ef3f4e29335fe9e0b7d9a4145eda0"]
+[VersionToken "ce1492ce1275d7dec3e7331abc98a178056ef3f4e29335fe9e0b7d9a4145eda0"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1688,7 +1688,7 @@ Some contracts are impossible. So you just play to keep the damage as low as pos
 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 41, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "822079dcff3ac8584f35a55f0b7b69c1f4a808a3ec4a13d96f60d1c12ddadf68"]
+[VersionToken "822079dcff3ac8584f35a55f0b7b69c1f4a808a3ec4a13d96f60d1c12ddadf68"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1726,7 +1726,7 @@ West would have won and played a \H, removing your second stopper. When \Cs did 
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 42, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "33ae21c892e4c307eeb4b1cb3e4820b5f951ec797e090e3250b290866cf66001"]
+[VersionToken "33ae21c892e4c307eeb4b1cb3e4820b5f951ec797e090e3250b290866cf66001"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1762,7 +1762,7 @@ Some would go down on this hand when they ruffed the first \S with dummy's \H3 a
 1NT pass 2C pass 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 43, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "495c55509c4e0500ffd53c83b5c56290db8f7d926cdcb68327f14cac4e9f4d21"]
+[VersionToken "495c55509c4e0500ffd53c83b5c56290db8f7d926cdcb68327f14cac4e9f4d21"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1804,7 +1804,7 @@ The play for this hand was not straightforward at all, and might have taken a di
 pass 1D pass 1H pass 2NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 44, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "65683f3980b8e5a8b58f6d1f2e2c2283738abc779f8a6a6a66b0124ab349e691"]
+[VersionToken "65683f3980b8e5a8b58f6d1f2e2c2283738abc779f8a6a6a66b0124ab349e691"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1854,7 +1854,7 @@ Correctly played you would lead a \H honor to establish one trick in the suit an
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 45, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c26458f11fe34c5d4b68c0a9beaff1164a86b252486cb7dba5480b94bf3d0ed3"]
+[VersionToken "c26458f11fe34c5d4b68c0a9beaff1164a86b252486cb7dba5480b94bf3d0ed3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1890,7 +1890,7 @@ Ruffing with the \SQ might cost a trick if the \Ss split 4-1 and West did not ha
 1D dbl pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 46, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3d0cea4dc1f8fd43319304cd171259655831cd32a4c9831ab2a9bbf010d94708"]
+[VersionToken "3d0cea4dc1f8fd43319304cd171259655831cd32a4c9831ab2a9bbf010d94708"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1926,7 +1926,7 @@ If you had ruffed, East would have over-ruffed. And you would still have a \C lo
 pass 1D pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 47, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2f9b1f08eeb99e673545c9a3d87bf2eed12440fc6ff1a8380e2b10e8ea8309ab"]
+[VersionToken "2f9b1f08eeb99e673545c9a3d87bf2eed12440fc6ff1a8380e2b10e8ea8309ab"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1964,7 +1964,7 @@ As you see, this time the \Ss didn't split so you had to make the \CJ to succeed
 pass pass pass 1S 2H 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 48, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b02b48c945129a4c38e2a62825f937628f731cc430c241181754dac333c85c73"]
+[VersionToken "b02b48c945129a4c38e2a62825f937628f731cc430c241181754dac333c85c73"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -1998,7 +1998,7 @@ You have to listen to the bidding and draw conclusions from what is bid - and no
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 49, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "445659d7fdb9e244c9ebaf8df3a400c3c6a531c8abae93abbc39cf46a994fb0f"]
+[VersionToken "445659d7fdb9e244c9ebaf8df3a400c3c6a531c8abae93abbc39cf46a994fb0f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2040,7 +2040,7 @@ You cannot make 10 tricks unless East's opening lead is a \S. }
 1D pass 1S pass 2S pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 50, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "758be55ed8a59f84b57260b86e63234b1c1ecb14b690863ab65ad709b6ca62df"]
+[VersionToken "758be55ed8a59f84b57260b86e63234b1c1ecb14b690863ab65ad709b6ca62df"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2096,7 +2096,7 @@ In this hand you could not be defeated unless the \Ds split 5-1.}
 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 51, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "edacb27611bf165d4e4740b48b45529b9dbda8401523641eb8124eb586bc8491"]
+[VersionToken "edacb27611bf165d4e4740b48b45529b9dbda8401523641eb8124eb586bc8491"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2142,7 +2142,7 @@ But did you see there is another way to reach your hand? You could play \SA then
 1S pass 2S pass 3D pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 52, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a49b618b165e8a918c972acf59d413d78b9bf6f46577f9cf9084bd024dc70140"]
+[VersionToken "a49b618b165e8a918c972acf59d413d78b9bf6f46577f9cf9084bd024dc70140"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2190,7 +2190,7 @@ Look at what would have happened if you had led a trump at trick 2. East could h
 1C pass 1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 53, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6b2bd1e48b34f5f5321a3dbb746ab48c71e25f42e84c7bcd140df5a963a08ee7"]
+[VersionToken "6b2bd1e48b34f5f5321a3dbb746ab48c71e25f42e84c7bcd140df5a963a08ee7"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2230,7 +2230,7 @@ If you did not have the \SJ you would never consider doing anything except hold 
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 54, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "18c40cdb1130ffca0abeb5f924ae2e828a82ded479c134aa45d36d38dcf58132"]
+[VersionToken "18c40cdb1130ffca0abeb5f924ae2e828a82ded479c134aa45d36d38dcf58132"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2274,7 +2274,7 @@ In this deal pulling trumps is secondary to finding a place for that slow \D los
 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 55, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "31d83508b9a49c19de7b416fa2d19d3b16fa3a5104207c68f240eafec18f88f8"]
+[VersionToken "31d83508b9a49c19de7b416fa2d19d3b16fa3a5104207c68f240eafec18f88f8"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2312,7 +2312,7 @@ But you should still ask yourself if there is some distribution that will allow 
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 56, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "059bf59d05405cbf8ec88b3cbc469fdb400bdb666eac1c7690fef69eb9212691"]
+[VersionToken "059bf59d05405cbf8ec88b3cbc469fdb400bdb666eac1c7690fef69eb9212691"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2352,7 +2352,7 @@ Be on the lookout for this type of situation because many times you have a fines
 3H 3S 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 57, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4b1b71b88cb7419a654b3e29d0939abefdc467761e849bac87cd4d6345991d12"]
+[VersionToken "4b1b71b88cb7419a654b3e29d0939abefdc467761e849bac87cd4d6345991d12"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2390,7 +2390,7 @@ To make sure the \SA didn't disappear you had to hold it until West no longer ha
 2C pass 2NT pass 4C pass 4D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 58, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8d597019b10dd71cd5ef1b949bd0122c2564d27d18cd78a6a0e09c8c4125a1b4"]
+[VersionToken "8d597019b10dd71cd5ef1b949bd0122c2564d27d18cd78a6a0e09c8c4125a1b4"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2432,7 +2432,7 @@ You must abandon \Cs temporarily and take the \D finesse. You take your good \Ds
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 59, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9e047c8d51867dd62485c485b27b9ce17bc529dd9231d16bc2604aa5fd4b9040"]
+[VersionToken "9e047c8d51867dd62485c485b27b9ce17bc529dd9231d16bc2604aa5fd4b9040"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2476,7 +2476,7 @@ Here the \D finesse was one possibility, but by ducking a \H you could test the 
 1S pass 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 60, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9a4bca5d13f881d1bcf4cbe186a4a068cf8471d78c0718b0704fec0532b1e897"]
+[VersionToken "9a4bca5d13f881d1bcf4cbe186a4a068cf8471d78c0718b0704fec0532b1e897"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2516,7 +2516,7 @@ But in this deal the ruffing finesse is the only Plan that works. }
 2C pass 2D pass 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 61, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "875732389523c452a58f57c78776d96caeb2e15f783a3ffc3bd2ec470a6b8e93"]
+[VersionToken "875732389523c452a58f57c78776d96caeb2e15f783a3ffc3bd2ec470a6b8e93"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2572,7 +2572,7 @@ To prove that only the original \H9 play will work . . <b>VISUALIZE</b>:
 1C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 62, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "07100242bf2da8e3ab465b767292cdced113cd6e7c900d6600f143b61f5e6b63"]
+[VersionToken "07100242bf2da8e3ab465b767292cdced113cd6e7c900d6600f143b61f5e6b63"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2614,7 +2614,7 @@ All else being equal, it's a good guideline. But sometimes all else <b>ISN'T</b>
 1D pass 1H pass 3D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 63, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7a3c76e0ed273f7b5b842d75c61e29e73069df41bbd699d684b7e1fc00091df2"]
+[VersionToken "7a3c76e0ed273f7b5b842d75c61e29e73069df41bbd699d684b7e1fc00091df2"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2662,7 +2662,7 @@ So you couldn't ruff the third \C at all, you had to discard it on something. An
 2C pass 2D pass 2S pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 64, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "83bb2689dff08ddeff5b3541a563195dba562cff3ff382bbdddd59fffe8c6a0a"]
+[VersionToken "83bb2689dff08ddeff5b3541a563195dba562cff3ff382bbdddd59fffe8c6a0a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2708,7 +2708,7 @@ It made no difference in tricks whether you ruffed the third or fourth \C so tha
 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 65, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7e1c7bcfe9a55bbed4d9cd7b5da3a5cbcd98dfa8b616f0a8c62b77cc010544f8"]
+[VersionToken "7e1c7bcfe9a55bbed4d9cd7b5da3a5cbcd98dfa8b616f0a8c62b77cc010544f8"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2756,7 +2756,7 @@ The second part is figuring out that the \S suit could provide them.}
 1C pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 66, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
+[VersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2802,7 +2802,7 @@ Notice that the Danger Hand <b>WAS</b> on lead at one point - the opening lead. 
 2H pass 2NT pass 3D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 67, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f2a50035480374aa722f2a6d266d54c8d59c39d513c38dd55c04163560b774ab"]
+[VersionToken "f2a50035480374aa722f2a6d266d54c8d59c39d513c38dd55c04163560b774ab"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2854,7 +2854,7 @@ In this case dummy had a certain entry in the \D suit so you take advantage of t
 1H 2D 2H 2S pass pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 68, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "dbafb51e8e08b7bd981f3e9b9047d6e37dfbb8272426a1b96bbab5ba7ff0818a"]
+[VersionToken "dbafb51e8e08b7bd981f3e9b9047d6e37dfbb8272426a1b96bbab5ba7ff0818a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2904,7 +2904,7 @@ Often, like in this deal, you can discard a loser instead.}
 2C pass 3C pass 4NT pass 5D pass 5NT pass 6D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 69, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "587016a9b342ef7a58999bdd49f97d32c492102daab3fe1d1a9be61fa73a500d"]
+[VersionToken "587016a9b342ef7a58999bdd49f97d32c492102daab3fe1d1a9be61fa73a500d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -2956,7 +2956,7 @@ The choice between a single finesse and a double finesse is one that you will fa
 1C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 70, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d35298162e94f5e5851bfcaea45c29fd9251d00af9a67bfb7a2f174a3632f633"]
+[VersionToken "d35298162e94f5e5851bfcaea45c29fd9251d00af9a67bfb7a2f174a3632f633"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3004,7 +3004,7 @@ The key play was dumping the \S on your \DK rather than a \H.}
 1H pass 2H pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 71, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bc73e7f4888baf768833918b664cb438d1fe754213975c1300daa684d53f3df5"]
+[VersionToken "bc73e7f4888baf768833918b664cb438d1fe754213975c1300daa684d53f3df5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3050,7 +3050,7 @@ And you couldn't get the \D ruff until after you had forced out the \DA.}
 1H dbl pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 72, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9538a31893a295ec7a606f173435375464df43551d4e2dfc1f3f6ab729d549bd"]
+[VersionToken "9538a31893a295ec7a606f173435375464df43551d4e2dfc1f3f6ab729d549bd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3090,7 +3090,7 @@ If you tried that East would have won his \SQ, then played another \S. That woul
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 73, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "466d995730983da8b88bfa731b4db6e3d700bc52c1b083e6582c6435e30578d0"]
+[VersionToken "466d995730983da8b88bfa731b4db6e3d700bc52c1b083e6582c6435e30578d0"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3132,7 +3132,7 @@ Any other plan that was based on East holding the \DK would work <b>ALMOST</b> 5
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 74, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "950bf22029e7a609d6004b2d5d59948367f2598440a17b41b605846eed932625"]
+[VersionToken "950bf22029e7a609d6004b2d5d59948367f2598440a17b41b605846eed932625"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3176,7 +3176,7 @@ Set up the \D winner before you take the \H finesse and you will always be able 
 1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 75, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f8c6c7a78b4984016b752bbde4f1793817b0e9272813c1288e42e8afe89c3246"]
+[VersionToken "f8c6c7a78b4984016b752bbde4f1793817b0e9272813c1288e42e8afe89c3246"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3222,7 +3222,7 @@ East's lead of the \D2 should have made you pretty sure that he had led from a 4
 1S pass 2S dbl 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 76, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ce7c369fe9ed781090a746e138cef89afa010f94cdeef129f5351d5dd9e0dfd6"]
+[VersionToken "ce7c369fe9ed781090a746e138cef89afa010f94cdeef129f5351d5dd9e0dfd6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3266,7 +3266,7 @@ If you decided to play for trumps to split 2-2 so you could use the \S8 as an en
 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 77, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bb8d8aaef411ff12892afc878eb0795fa49fef828fac99bb8e6a7365c75f6441"]
+[VersionToken "bb8d8aaef411ff12892afc878eb0795fa49fef828fac99bb8e6a7365c75f6441"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3306,7 +3306,7 @@ Then think about how to keep West from getting the lead - in this case holding u
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 78, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "738fb41c770714aa48762992456a2248a7658e6efe17e049b056d317c2b34798"]
+[VersionToken "738fb41c770714aa48762992456a2248a7658e6efe17e049b056d317c2b34798"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3352,7 +3352,7 @@ A very important part of this Plan was where you chose to win the first trick. S
 1C pass 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 79, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b4c815a98d472019046d99e954b9262ebacbba69c05821f11ac6228d387e2fbc"]
+[VersionToken "b4c815a98d472019046d99e954b9262ebacbba69c05821f11ac6228d387e2fbc"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3394,7 +3394,7 @@ This wasn't a guaranteed Plan like some. If West held the \DA then you would go 
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 80, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a4b9aab2c9d1c7464a92917b85dfcae6dced16a28b871e86cdab8a3c805b969b"]
+[VersionToken "a4b9aab2c9d1c7464a92917b85dfcae6dced16a28b871e86cdab8a3c805b969b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3440,7 +3440,7 @@ Notice that West cannot prevent you from reaching dummy with the \S Q J.}
 1D 1H 1S 2H 2S 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 81, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c88374afb167560b860814b20ed00f72ffd270a9fefa26597f0f7fba0b06952d"]
+[VersionToken "c88374afb167560b860814b20ed00f72ffd270a9fefa26597f0f7fba0b06952d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3482,7 +3482,7 @@ If you hadn't been able to find that extra entry you would have had no choice bu
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 82, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "42eb8d59176551d461ba5983f731073944c023a5c8f1c165f57e6377b9368e1f"]
+[VersionToken "42eb8d59176551d461ba5983f731073944c023a5c8f1c165f57e6377b9368e1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3524,7 +3524,7 @@ The percentages are right but the logic is wrong. If you are going to benefit fr
 1H pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 83, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "13971835a7a378d038cd7551d4a6768d76f43ae11117288629d3c54bcfe314f5"]
+[VersionToken "13971835a7a378d038cd7551d4a6768d76f43ae11117288629d3c54bcfe314f5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3576,7 +3576,7 @@ This deal is a good example of that principle.}
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 84, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "029a7561b3d1026ac7230a8108c430a6377b2f845883de3eafb10d4ce2a8cef1"]
+[VersionToken "029a7561b3d1026ac7230a8108c430a6377b2f845883de3eafb10d4ce2a8cef1"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3628,7 +3628,7 @@ The same general plan, but with slightly different details, applies with all ope
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 85, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "562189bf91a1f213cc4ebd6ff79a0c2477ec6ef8c722cf82afcbade82b851660"]
+[VersionToken "562189bf91a1f213cc4ebd6ff79a0c2477ec6ef8c722cf82afcbade82b851660"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3684,7 +3684,7 @@ But there was no other choice so you have to try it. }
 1H 1S pass pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 86, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8e3c838074766d182833c775d9fc98802e0e97c68496f413ac39a8ecf3a5ef8e"]
+[VersionToken "8e3c838074766d182833c775d9fc98802e0e97c68496f413ac39a8ecf3a5ef8e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3722,7 +3722,7 @@ The problem is that East would have over-ruffed the \H9 and then played another 
 1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 87, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8a3c34487a8be227c451b6f146da6af515bf0cb434d77fcfeec444c3af49058b"]
+[VersionToken "8a3c34487a8be227c451b6f146da6af515bf0cb434d77fcfeec444c3af49058b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3768,7 +3768,7 @@ This will happen about 75% of the time, so the double finesse is a good Plan. An
 1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 88, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "42a06b33ede243b7806944f8b73aa3bea20a433dd7f3fc8dfbd7e94586b3c5bd"]
+[VersionToken "42a06b33ede243b7806944f8b73aa3bea20a433dd7f3fc8dfbd7e94586b3c5bd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3816,7 +3816,7 @@ So you won that trick and still had your \CQ to use after you pulled trumps.}
 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 89, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e3b05ad3f9dfd77ed42707cc0bdb35212153d370f27381c88a76bfaffd012de9"]
+[VersionToken "e3b05ad3f9dfd77ed42707cc0bdb35212153d370f27381c88a76bfaffd012de9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3854,7 +3854,7 @@ Fortunately that occurs a high percentage of the time. In any case, there was no
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 90, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b3b7c3263a56a4ee04797a157cfc1ac69dc5951583b23a803834ec8f371f3672"]
+[VersionToken "b3b7c3263a56a4ee04797a157cfc1ac69dc5951583b23a803834ec8f371f3672"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3902,7 +3902,7 @@ Since West is unlikely to underlead an Ace against 6NT you play East for the \SA
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 91, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "30a1ed3755ab40ebbb38eea301535444d9e5ee6cf2ce3dd193d0f6ab533d8f62"]
+[VersionToken "30a1ed3755ab40ebbb38eea301535444d9e5ee6cf2ce3dd193d0f6ab533d8f62"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3948,7 +3948,7 @@ With the \S Q J instead you just have to take care with entries. (Make that entr
 1S pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 92, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5fbd7b655000cccf138046ac6017aba8cbcd9f661b040433464510f431c03646"]
+[VersionToken "5fbd7b655000cccf138046ac6017aba8cbcd9f661b040433464510f431c03646"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -3992,7 +3992,7 @@ And with any cross-ruff it is best to pull as many trumps as you can spare befor
 1S pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 93, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "fc1432427e5340064b126b6afc01f0ee1b3def3b4a6697bee9c3d446d23baf6c"]
+[VersionToken "fc1432427e5340064b126b6afc01f0ee1b3def3b4a6697bee9c3d446d23baf6c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -4038,7 +4038,7 @@ The only time it is a mistake is when East holds the \H K Q and West holds the \
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 94, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "28484081d309f0f3a5dbbfe6e997bed9e97f6f9ce550e2689f12f48bfbf1507e"]
+[VersionToken "28484081d309f0f3a5dbbfe6e997bed9e97f6f9ce550e2689f12f48bfbf1507e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -4086,7 +4086,7 @@ Suppose when you led toward your \SQ it held the trick. Would you be convinced t
 pass 1C pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 95, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9fb0c25f2d58db3e3df648e49d90472f9a1c901a4f83ade05e064e8c3047fbef"]
+[VersionToken "9fb0c25f2d58db3e3df648e49d90472f9a1c901a4f83ade05e064e8c3047fbef"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -4123,7 +4123,7 @@ This was a very difficult hand.}
 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 96, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
+[VersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -4171,7 +4171,7 @@ If instead you decide to lead a \S to dummy's \SJ and lead a \H toward your \HK 
 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 97, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "cb5d6491cdc6e1e00888dff8d2ed4d7b162f5557aa0a9f305c095e0118f3e16b"]
+[VersionToken "cb5d6491cdc6e1e00888dff8d2ed4d7b162f5557aa0a9f305c095e0118f3e16b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -4213,7 +4213,7 @@ You must modify the Plan a little bit. Now your only hope is that East still hol
 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 98, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e11380ecd3b6a329a3ffe3b41ebb88e82fe0bea79d9370c31bf0417d585d685d"]
+[VersionToken "e11380ecd3b6a329a3ffe3b41ebb88e82fe0bea79d9370c31bf0417d585d685d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -4253,7 +4253,7 @@ But you don't want to get into the habit of doing what is <b>USUALLY</b> good wi
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 99, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2d72bd879110c4ca9f6dfc0b233dd4da734735640f4246a888fe44c7275e24c6"]
+[VersionToken "2d72bd879110c4ca9f6dfc0b233dd4da734735640f4246a888fe44c7275e24c6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -4293,7 +4293,7 @@ Notice how strange this game can be. If your holding was \S K 2 rather than \S K
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 100, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "29e747ccfdb525cc20011a8dd6549190395dc33c9d516a6867a2bb9502368574"]
+[VersionToken "29e747ccfdb525cc20011a8dd6549190395dc33c9d516a6867a2bb9502368574"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

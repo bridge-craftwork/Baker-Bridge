@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Leben
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2H 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "54031d64f639d3207dbcbd0f19fe47eb9dc1cc260a35870a3f42d89cb972c0ad"]
+[VersionToken "54031d64f639d3207dbcbd0f19fe47eb9dc1cc260a35870a3f42d89cb972c0ad"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -41,7 +41,7 @@ With lebensohl you can do the same thing, so you bid 2\S and partner passes.}
 1NT 2H 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f4b47f7a20aa1e3293cc1de82b65ec89cb464553df335fd05c9b536f9946aff0"]
+[VersionToken "f4b47f7a20aa1e3293cc1de82b65ec89cb464553df335fd05c9b536f9946aff0"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -64,7 +64,7 @@ With 3-card support you are happy to bid 4\S.}
 1NT 2D 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "23b150300fe617da52539bd3fdb5e866c74200cdff6862b3b3880c8e069fd80f"]
+[VersionToken "23b150300fe617da52539bd3fdb5e866c74200cdff6862b3b3880c8e069fd80f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -87,7 +87,7 @@ Partner has 3-card support and is happy to bid game in that suit.}
 1NT 2C 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8c02e00abca8090c3a64b3ec49645e6d77c346d602e4b0d13f82e5f376b8b53c"]
+[VersionToken "8c02e00abca8090c3a64b3ec49645e6d77c346d602e4b0d13f82e5f376b8b53c"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -110,7 +110,7 @@ So even with your great support and maximum hand, you pass.}
 1NT 2C 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "feadb59ceb955d643aa5d50e4dfcf8779d88c93735e126fd99c6e512188d7434"]
+[VersionToken "feadb59ceb955d643aa5d50e4dfcf8779d88c93735e126fd99c6e512188d7434"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -135,7 +135,7 @@ With a known 8-card Major fit and a known 26-28 points you bid 4\H.}
 1NT 2D 3D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4fa52e5a642b1a23226f75157a23e2397554f2c61a93106643ab25ce3dee8a2b"]
+[VersionToken "4fa52e5a642b1a23226f75157a23e2397554f2c61a93106643ab25ce3dee8a2b"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]

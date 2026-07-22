@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Finesse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "fb388f561863e6a9433d22d69fd0c6cd3b558985fede43209945aaf09666a115"]
+[VersionToken "fb388f561863e6a9433d22d69fd0c6cd3b558985fede43209945aaf09666a115"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -51,7 +51,7 @@ A Simple Finesse has only a 50% success rate. That's why we only take finesses a
 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "085243a68ce6d0b7fe41b626d9ef80b2503033f4328fef266e90ca9032edff12"]
+[VersionToken "085243a68ce6d0b7fe41b626d9ef80b2503033f4328fef266e90ca9032edff12"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -83,7 +83,7 @@ But remember, finesses only work half the time. The other half they lose.}
 pass pass 2NT pass 3C pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1d1ddac129aa61529761005386c6531a366005763d4b830140d7b37129915cc3"]
+[VersionToken "1d1ddac129aa61529761005386c6531a366005763d4b830140d7b37129915cc3"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -117,7 +117,7 @@ Welcome to the real world.}
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "64bc310090f2660f480c4ac97550871d74a800354b4a72a99933579700c9bb2c"]
+[VersionToken "64bc310090f2660f480c4ac97550871d74a800354b4a72a99933579700c9bb2c"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -151,7 +151,7 @@ The risk was worthwhile though since it gave you your only chance of making the 
 1C pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "61908f0f0bf951a42e6706b2f06337b980633cb7b743137d3d19414a1cefaf42"]
+[VersionToken "61908f0f0bf951a42e6706b2f06337b980633cb7b743137d3d19414a1cefaf42"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -189,7 +189,7 @@ The double \C finesse is much better because its success depends on East holding
 2C pass 2D pass 2S pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "56a32c802851317deb6514f714404b805b3968865da5ac8a1c784355c85ff54a"]
+[VersionToken "56a32c802851317deb6514f714404b805b3968865da5ac8a1c784355c85ff54a"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -221,7 +221,7 @@ But as you can see, only the \C finesse will actually save you a trick.}
 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c514a5ac18f5652910797098f178f31a16af1283bf8f19629863f99834f28450"]
+[VersionToken "c514a5ac18f5652910797098f178f31a16af1283bf8f19629863f99834f28450"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -255,7 +255,7 @@ But they are easy to overlook, mainly because we don't use them often.}
 1D pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "260bf998c38e48cedeb5988182eef4f69952c028ab825c73afacc106dbea8cca"]
+[VersionToken "260bf998c38e48cedeb5988182eef4f69952c028ab825c73afacc106dbea8cca"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -291,7 +291,7 @@ Sometimes that may be right. But there are other times when information from the
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f96a58ca16b34a84c570c2970c30e2c2dec232414525683e6572e72263b932f0"]
+[VersionToken "f96a58ca16b34a84c570c2970c30e2c2dec232414525683e6572e72263b932f0"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -325,7 +325,7 @@ The only hope is to try to drop the \SK without wasting an extra honor.}
 pass 1H pass 1NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7a4b5f8896af3d27c29406312f8c39fbbfa9c3d564f2374398e5f9432186db12"]
+[VersionToken "7a4b5f8896af3d27c29406312f8c39fbbfa9c3d564f2374398e5f9432186db12"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -359,7 +359,7 @@ It was probably a better example of watching your entries. If you had pulled ano
 pass 1D pass 2D pass 3H pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d3dd1a504cc04a7e2376174b93348d9430dac52b8f93c0fe53ec83cef791f3eb"]
+[VersionToken "d3dd1a504cc04a7e2376174b93348d9430dac52b8f93c0fe53ec83cef791f3eb"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -397,7 +397,7 @@ This method of play gave you two chances instead of just one.}
 2NT pass 4C pass 4NT pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ed278faaa2a8a23313458dea52955ab03e30d972c1f6da07d12c4bebd957b463"]
+[VersionToken "ed278faaa2a8a23313458dea52955ab03e30d972c1f6da07d12c4bebd957b463"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -435,7 +435,7 @@ Why not try to drop the \HQ and keep the finesse for the \CQ in reserve? Because
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c2628ed0b4542d83daa7441d1bba9ef908a5f7b369e8be6129d3392588e113c9"]
+[VersionToken "c2628ed0b4542d83daa7441d1bba9ef908a5f7b369e8be6129d3392588e113c9"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -471,7 +471,7 @@ So it is basically a 50% chance.}
 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "15a5ddf7153cb4eeb409e0b220ad0e41eae962898bc59f924b32bbdefa5ac775"]
+[VersionToken "15a5ddf7153cb4eeb409e0b220ad0e41eae962898bc59f924b32bbdefa5ac775"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -507,7 +507,7 @@ And the rewards are great.}
 1D pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a8cee77f4fd39dc6de17574fa9750633499369d4e4a32695278612c64c39da3e"]
+[VersionToken "a8cee77f4fd39dc6de17574fa9750633499369d4e4a32695278612c64c39da3e"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -545,7 +545,7 @@ But at Match Point Pairs the reward would be much greater, a probable very high 
 1D pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0eb41cd3a5699a7ed960cd7e1b6ebe1231dde1951cd0724290594c1d8f775b1a"]
+[VersionToken "0eb41cd3a5699a7ed960cd7e1b6ebe1231dde1951cd0724290594c1d8f775b1a"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -585,7 +585,7 @@ You could also have gotten 3 \S winners with this distribution.}
 1C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e9cc677cf4fd85c015a846d656db98a7cad45e45da315370783a0cac39657cba"]
+[VersionToken "e9cc677cf4fd85c015a846d656db98a7cad45e45da315370783a0cac39657cba"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -625,7 +625,7 @@ The problem is that you might run into this very distribution. You would establi
 1D pass pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "87a8878a6a3131a60ccb6727483e154bacdaef88e971731167fb29bd830cf77f"]
+[VersionToken "87a8878a6a3131a60ccb6727483e154bacdaef88e971731167fb29bd830cf77f"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -663,7 +663,7 @@ By the way. Those of you with great short-term memories might think they have se
 pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a965e2343bac778ed12080055ea697474547b89fa75f0b4e7f327edd83f5b2e4"]
+[VersionToken "a965e2343bac778ed12080055ea697474547b89fa75f0b4e7f327edd83f5b2e4"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -699,7 +699,7 @@ But in a situation like this you don't play odds. By finessing East you guarante
 2C pass 2NT pass 3C pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "bb85d60d9aba624bdb5258bcc4836bf7b1525bdf65aadc644c5c7f9245ca9c35"]
+[VersionToken "bb85d60d9aba624bdb5258bcc4836bf7b1525bdf65aadc644c5c7f9245ca9c35"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]

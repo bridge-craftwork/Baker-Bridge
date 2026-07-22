@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Stayman
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "79dd3098553afc8ecb322e74fdc915fb4d3028f0ec130c30d2dba5a76d6fb00c"]
+[VersionToken "79dd3098553afc8ecb322e74fdc915fb4d3028f0ec130c30d2dba5a76d6fb00c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -44,7 +44,7 @@ You bid 4\S.}
 1NT pass 2C pass 2D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "f7c64ab5e62b3bba44f73c6cf3bb7545a043b8c5381948e80ce6b60966b1e2e5"]
+[VersionToken "f7c64ab5e62b3bba44f73c6cf3bb7545a043b8c5381948e80ce6b60966b1e2e5"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -71,7 +71,7 @@ There is a lot to be said for bidding 6NT immediately. You could ask for Aces if
 1NT pass 2C pass 2H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "900cf08eccf6109a683786f9d3d8237db0c703f0836fc1b2c7d1e18dab0edb61"]
+[VersionToken "900cf08eccf6109a683786f9d3d8237db0c703f0836fc1b2c7d1e18dab0edb61"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -98,7 +98,7 @@ Missing one Ace you bid 6\H.}
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "bae8d932635ec1a15b7c22e73bd7e990c2d7de05e935256080a8413aa0be176a"]
+[VersionToken "bae8d932635ec1a15b7c22e73bd7e990c2d7de05e935256080a8413aa0be176a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]

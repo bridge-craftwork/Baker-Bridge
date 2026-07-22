@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent DONT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2D pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e614c2b0ce4732d5dc6d864088625a769da784e7168be76e9a781dbbf9017946"]
+[VersionToken "e614c2b0ce4732d5dc6d864088625a769da784e7168be76e9a781dbbf9017946"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -43,7 +43,7 @@ Don't get carried away, partner isn't really bidding a \H suit as much as he is 
 1NT X pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "155e917449dfa2d79b5976a13609dc23e6707e848577d53d78f5274d262a49f4"]
+[VersionToken "155e917449dfa2d79b5976a13609dc23e6707e848577d53d78f5274d262a49f4"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -68,7 +68,7 @@ You didn't want to bid the first time, this time you definitely pass.}
 1NT pass pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e0e55049aa97a93d9a45e91e715b7019380dc62d440d7fbf07bea6b25bfa553a"]
+[VersionToken "e0e55049aa97a93d9a45e91e715b7019380dc62d440d7fbf07bea6b25bfa553a"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -93,7 +93,7 @@ Partner prefers \Ss to \Hs. Since you were bare minimum you pass.}
 1NT pass pass 2D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9c27797ab2d4f7faeccb9436d9700ff44449dad304e418df47665fbf2b05445f"]
+[VersionToken "9c27797ab2d4f7faeccb9436d9700ff44449dad304e418df47665fbf2b05445f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -120,7 +120,7 @@ Since you can tolerate \Ds your safest call is pass.}
 1NT X pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9cb37a0f166611056a188b6bf8b2a1e0f5106831e4857a0732a679d6c942f6b0"]
+[VersionToken "9cb37a0f166611056a188b6bf8b2a1e0f5106831e4857a0732a679d6c942f6b0"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -143,7 +143,7 @@ Now you follow procedure by showing your 6-card suit. You bid 2\H and everybody 
 1NT X pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a14ec074824365e37e4eaca260556fd856056f558e3eff65aa980c7414133dc6"]
+[VersionToken "a14ec074824365e37e4eaca260556fd856056f558e3eff65aa980c7414133dc6"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]

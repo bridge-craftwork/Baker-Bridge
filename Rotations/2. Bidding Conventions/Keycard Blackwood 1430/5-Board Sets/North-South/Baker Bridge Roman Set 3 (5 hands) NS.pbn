@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Roman
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2H pass 4NT pass 6C pass 7H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "250e8b506084b621dddc815b86a8acee46ae66ee2985025abb6c483971f7da4c"]
+[VersionToken "250e8b506084b621dddc815b86a8acee46ae66ee2985025abb6c483971f7da4c"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -41,7 +41,7 @@ The 4NT bid agrees \Hs as trump. You have one Key-Card, the \HK, but you also ha
 1NT pass 2C pass 2S pass 4NT pass 5C pass 5D pass 5S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "171538e8fcdbebb22dc1572ece0df278be7b72abba093fa6e0efaaeff70f7d97"]
+[VersionToken "171538e8fcdbebb22dc1572ece0df278be7b72abba093fa6e0efaaeff70f7d97"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -68,7 +68,7 @@ Partner denies having the \SQ. Knowing that the best you could hope for would be
 pass 1D pass 1S pass 2H pass 4NT pass 5C pass 5D pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7a12a763caed335cd1b201e71257a8a11377c2f14e45648d2bf87be57739cafb"]
+[VersionToken "7a12a763caed335cd1b201e71257a8a11377c2f14e45648d2bf87be57739cafb"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -93,7 +93,7 @@ There has been no agreement on trumps, so you assume that South has implicitly a
 1H pass 2D pass 3H pass 4NT pass 5C pass 5NT pass 6D pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1179ea27800a993cb2bfe45b4808ea07a1563f441b3b7a6aa517b5dafe8919cb"]
+[VersionToken "1179ea27800a993cb2bfe45b4808ea07a1563f441b3b7a6aa517b5dafe8919cb"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -120,7 +120,7 @@ Partner has 1 King, the only one left, the \DK. You can count about 17 high-card
 1H pass 3S pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ef0013671b8756a62d2b762ac94af06713c33e1fdbd4828019ea017a34225923"]
+[VersionToken "ef0013671b8756a62d2b762ac94af06713c33e1fdbd4828019ea017a34225923"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]

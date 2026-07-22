@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Help
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f53ad618ba13045e55d18b12a37d59008f8a5f724e4a61977e88eec8c6e7d698"]
+[VersionToken "f53ad618ba13045e55d18b12a37d59008f8a5f724e4a61977e88eec8c6e7d698"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -39,7 +39,7 @@
 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "af54f07e869a47c32bdc71944766ab8b4cef872cd8c499e6c0dd7e294b141f43"]
+[VersionToken "af54f07e869a47c32bdc71944766ab8b4cef872cd8c499e6c0dd7e294b141f43"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -60,7 +60,7 @@
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4cadecb08085faf14a5d9ef1c84a7c6522483c9a54bc84eddfc7db4168442e13"]
+[VersionToken "4cadecb08085faf14a5d9ef1c84a7c6522483c9a54bc84eddfc7db4168442e13"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -81,7 +81,7 @@
 1H pass 2H pass 3D pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b7ffb2db273d971b4e1f01269a0d027500b0e431c2ccefbaf95cec264ab8bc33"]
+[VersionToken "b7ffb2db273d971b4e1f01269a0d027500b0e431c2ccefbaf95cec264ab8bc33"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -104,7 +104,7 @@ But he has asked you to use judgement based on your \D holding, which is awful. 
 1H pass 2H pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c4fe90df5834b712a3e92e1c5e3e530445f5e17d11752246037afa2140e8d664"]
+[VersionToken "c4fe90df5834b712a3e92e1c5e3e530445f5e17d11752246037afa2140e8d664"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]
@@ -127,7 +127,7 @@ When you ask partner to make a judgement call and he does so, you don't then ove
 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8c10b3f4c62ecf36c11a0d35b17bd1ed06e59def595fa89f9ef005c74b3dc85a"]
+[VersionToken "8c10b3f4c62ecf36c11a0d35b17bd1ed06e59def595fa89f9ef005c74b3dc85a"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]

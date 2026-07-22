@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Blackwood
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2D pass 2S pass 3S pass 4NT pass 5C pass 5S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a605fb082d00c1f1d715d38d731592daeaa93118fc926aa44eb6cb80ad3e0b21"]
+[VersionToken "a605fb082d00c1f1d715d38d731592daeaa93118fc926aa44eb6cb80ad3e0b21"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -42,7 +42,7 @@ when SOUTH bids 5\C NORTH settles for 5\S}
 2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "fd52292089077aabcd6df9b31dbf32a26d1779653293620d7d509b9214bf9a08"]
+[VersionToken "fd52292089077aabcd6df9b31dbf32a26d1779653293620d7d509b9214bf9a08"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -67,7 +67,7 @@ A Blackwood 4NT tells her the answer is one, so she bids 6\H.}
 1NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4fe90518194c950fa165923dad29d59c00d3d4d30c6eb1e9b9636b09999c4b93"]
+[VersionToken "4fe90518194c950fa165923dad29d59c00d3d4d30c6eb1e9b9636b09999c4b93"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -93,7 +93,7 @@ So NORTH settles for the small slam.}
 1H pass 2S pass 3S pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "68fded37f6747620ca3b3eb8c5c8928ca2b22fa7cb5a23d9dd73380019f5ebd2"]
+[VersionToken "68fded37f6747620ca3b3eb8c5c8928ca2b22fa7cb5a23d9dd73380019f5ebd2"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -121,7 +121,7 @@ She bids 7NT.}
 2C pass 2H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "510ca648f4185f86aec45ca9a258323d66059ca6f635d3749589ebd4a6e38f48"]
+[VersionToken "510ca648f4185f86aec45ca9a258323d66059ca6f635d3749589ebd4a6e38f48"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]

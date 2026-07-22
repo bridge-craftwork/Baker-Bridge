@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Transfers
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2D 2S pass pass X pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: E, basisKind:Declarer, nOption:2, nBasis: 1, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "51b09af6cbfeab28911b03109aadb0949d69d959325bc7c4cca34bcb582f18b7"]
+[VersionToken "51b09af6cbfeab28911b03109aadb0949d69d959325bc7c4cca34bcb582f18b7"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]

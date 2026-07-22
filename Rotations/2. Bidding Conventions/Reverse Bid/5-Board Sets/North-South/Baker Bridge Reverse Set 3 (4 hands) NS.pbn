@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1D pass 1S pass 2H pass 3D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b9456988c8fb90b6a535613428b87952eed527913d95082bc0ffcbf545bce370"]
+[VersionToken "b9456988c8fb90b6a535613428b87952eed527913d95082bc0ffcbf545bce370"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -44,7 +44,7 @@ There are no guarantees here, but you should probably try 5\D.}
 1C pass 1S pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a0d909730b0e8d2d9ad5d650fda0c8b96b2033fed649e7f454fe25bff331aab3"]
+[VersionToken "a0d909730b0e8d2d9ad5d650fda0c8b96b2033fed649e7f454fe25bff331aab3"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -69,7 +69,7 @@ Be very glad that you did.3NT would go down with a \H opening lead while 4\S is 
 1C pass 1S pass 2D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "85edf8af3491336ab620b283687123a64d0555e91e45e3e920482d9a54377d00"]
+[VersionToken "85edf8af3491336ab620b283687123a64d0555e91e45e3e920482d9a54377d00"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -90,7 +90,7 @@ Be very glad that you did.3NT would go down with a \H opening lead while 4\S is 
 1D pass 1S pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "00d00b594fd381868df41f47cc7593189196acbe1cfda1ee6329683aa78cdbf9"]
+[VersionToken "00d00b594fd381868df41f47cc7593189196acbe1cfda1ee6329683aa78cdbf9"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2H pass 2S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "09de14156372dab18b335d0c719ea1a930be69b23aaa6a461ca98bcd587344cb"]
+[VersionToken "09de14156372dab18b335d0c719ea1a930be69b23aaa6a461ca98bcd587344cb"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -66,7 +66,7 @@ Obviously you couldn't afford to lose a trick so you would have to bang down the
 1NT 2D 2NT pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "76909183bcf8ca7d13ed1380ab7de0b664d2951309f7e2ad6ec9c33aed9db686"]
+[VersionToken "76909183bcf8ca7d13ed1380ab7de0b664d2951309f7e2ad6ec9c33aed9db686"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -114,7 +114,7 @@ The holdup would of course fail if West held both black Aces, but in this case n
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c3ffb57ce4db802d9c23c39f6ac7afbf6f7a4c0c5e5e43c5842abc5744c788c6"]
+[VersionToken "c3ffb57ce4db802d9c23c39f6ac7afbf6f7a4c0c5e5e43c5842abc5744c788c6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -154,7 +154,7 @@ It goes without saying that if your \SK holds the trick you immediately switch t
 2NT pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f107a40b3d44031929446ce73af1e7dd8ae32a3c04f307dc84b5219257177068"]
+[VersionToken "f107a40b3d44031929446ce73af1e7dd8ae32a3c04f307dc84b5219257177068"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -198,7 +198,7 @@ This is an Automatic Squeeze, which just means you don't have to do any preparat
 1NT pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2602e7657b7b07450c4aa11522f3081a5f9ee141a2a7554a73728a4097f5e5d5"]
+[VersionToken "2602e7657b7b07450c4aa11522f3081a5f9ee141a2a7554a73728a4097f5e5d5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -244,7 +244,7 @@ The method given here gives up the possibility of an overtrick for an improved c
 2NT pass 3C pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f1f7a58f40311cc30652b3fc91bde72697d73d37d28c210cf59bb740324762de"]
+[VersionToken "f1f7a58f40311cc30652b3fc91bde72697d73d37d28c210cf59bb740324762de"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

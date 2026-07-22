@@ -222,7 +222,7 @@ dealer files and the app in sync — the divergence that caused the 2026-07-14 c
 2. **CSV_to_PBN.py** → Converts CSV to PBN files in `Tools/pbns/`, also generates `Package/toc.json`
    - **apply_showcards_dummy.py** → injects the defense-lesson `[showcards]` dummy-card fixes from `showcards_dummy_key.md` (bbparse can't recover dummy's played card from the HTML; see "Defense `[showcards]` dummy cards" below)
 3. **package_results.py** → Copies all `.pbn` and `.pdf` files from `pbns/` to `Package/`, then merges in curated boards from `Curated/`
-4. **stamp_board_tokens.py** → Stamps `[BoardVersionToken]` on every board in `Package/*.pbn` and backstops the `%bridge-classroom-stable: true` header (see "Board Identity Metadata" below)
+4. **stamp_board_tokens.py** → Stamps `[VersionToken]` on every board in `Package/*.pbn` and backstops the `%bridge-classroom-stable: true` header (see "Board Identity Metadata" below)
 5. **generate_manifest.py** → Emits `Package/manifest.json`, the build-generated collection manifest (producer-contract R5); reads the fully-stamped `Package/*.pbn`
 
 ## Board Identity Metadata (Bridge Classroom)
@@ -231,7 +231,7 @@ Bridge Classroom uses board-identity + readiness metadata to decide whether Bake
 
 - **`%bridge-classroom-stable: true`** — a file-level header comment. Present ⇒ that file's boards count toward mastery; absent/`false` ⇒ BC treats them as prerelease (recorded + navigable, but excluded from mastery/stats). Emitted by `CSV_to_PBN.py` next to `%bridge-context:`, and backstopped by `stamp_board_tokens.py` so curated-only files can't slip through. (Collection is **not** a PBN concern — BC sources `collection_id` from its own config.)
   - To mark a single board under active revision inside an otherwise-stable file, add a board-level override `[Stable "false"]`.
-- **`[BoardVersionToken "…"]`** — a 64-char lowercase sha256 hex per board, stamped by `stamp_board_tokens.py`. It is a **rotation-canonical** hash of the deal + auction: the deal is rotated so the ♠A holder becomes North, then `sha256(canonicalDeal + "|" + canonicalAuction)`. Identical across all rotational variants of a deal. **BC treats it as opaque** (records/echoes only).
+- **`[VersionToken "…"]`** — a 64-char lowercase sha256 hex per board, stamped by `stamp_board_tokens.py`. It is a **rotation-canonical** hash of the deal + auction: the deal is rotated so the ♠A holder becomes North, then `sha256(canonicalDeal + "|" + canonicalAuction)`. Identical across all rotational variants of a deal. **BC treats it as opaque** (records/echoes only).
   - **The normalization is frozen.** Changing it changes every token and breaks BC's ability to match previously-recorded tokens. See the module docstring in `stamp_board_tokens.py` for the exact rules; any new scheme must be a versioned, additive change.
 
 `stamp_board_tokens.py` runs **after** the curated merge so generated, merged, and any future pure-curated boards are all stamped from their final released content. It fails the build (exit 1) if any board can't be tokenized or has a blank/`uncategorized` `[SkillPath]`.
@@ -243,7 +243,7 @@ Bridge Classroom uses board-identity + readiness metadata to decide whether Bake
 `bbparse.py` builds `[showcards]` directives from partial-hand diffs in the source HTML. Dummy is rendered as a *full* hand (`[show N]`), so its **played** card is never a diffable partial hand — every defense-lesson `[showcards]` (Signals, SecondHand, ThirdHand) omits dummy's card, and a few originals are malformed. The card can't be recovered from the HTML, so it is supplied out of band:
 
 - **`Tools/showcards_dummy_key.md`** — the answer key, one line per board: `<Lesson> <Board> | <FROM directive> => <TO directive>`. Corrected directives (not just "the card") so it also covers dummy-led decision tricks and malformed-directive rebuilds. See BC issues #11/#12; the under-specified boards that need a full display rebuild are deferred to #13.
-- **`apply_showcards_dummy.py`** — a build step (right after `CSV_to_PBN.py`, over `pbns/*.pbn`) that replaces each board's FROM directive with TO, scoped per board (the same directive text recurs across boards with different fixes). Idempotent and re-applied every build. Does **not** affect `[BoardVersionToken]` (the token hashes only the deal + auction, not commentary).
+- **`apply_showcards_dummy.py`** — a build step (right after `CSV_to_PBN.py`, over `pbns/*.pbn`) that replaces each board's FROM directive with TO, scoped per board (the same directive text recurs across boards with different fixes). Idempotent and re-applied every build. Does **not** affect `[VersionToken]` (the token hashes only the deal + auction, not commentary).
 
 ### Debug Anchor Output
 
@@ -302,7 +302,7 @@ https://raw.githubusercontent.com/bridge-craftwork/Baker-Bridge/main/Package/{le
 ```
 (Issue #21, Phase B moved the build's output to a new `bridge-classroom/` folder; `Package/`
 is a frozen orphan. Once BC repoints its props at `bridge-classroom/{lesson}.pbn`, update the
-URL above. The re-rolled boards carry new `[BoardVersionToken]`s — a board-identity change BC
+URL above. The re-rolled boards carry new `[VersionToken]`s — a board-identity change BC
 coordinates per the producer contract.)
 
 The app's `pbnParser.js` parses these directives and `useDealPractice.js` tracks state to control UI visibility.

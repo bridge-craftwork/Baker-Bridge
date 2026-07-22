@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f1107d8a797de91157902507f0879a4dd76f582c57068cdcd3232ce1ec1f7ffd"]
+[VersionToken "f1107d8a797de91157902507f0879a4dd76f582c57068cdcd3232ce1ec1f7ffd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -60,7 +60,7 @@ You were lucky it wasn't East with the 4 \Hs.}
 1NT pass 2H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e538c755ee82c9dfb330782489844d1aec6aec0f74900ef2f70a7761d2ea3491"]
+[VersionToken "e538c755ee82c9dfb330782489844d1aec6aec0f74900ef2f70a7761d2ea3491"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -104,7 +104,7 @@ You pull trumps first, then play two top \Cs. When both defenders follow you giv
 2H 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6300b525a4c1ac5910ccaf9f5aea3e2ffbae07936ddc4d77f4bc40d9477fffd3"]
+[VersionToken "6300b525a4c1ac5910ccaf9f5aea3e2ffbae07936ddc4d77f4bc40d9477fffd3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -148,7 +148,7 @@ If you hold up on first trick luck won't come into it. It will no longer matter 
 1NT 2H 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "89517cc52532143a3c91d03c239c32c9f47f44317a77dc50286b89b2de232047"]
+[VersionToken "89517cc52532143a3c91d03c239c32c9f47f44317a77dc50286b89b2de232047"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-StaymanTransfers
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9090a6c191c1b7a69ba2cc13945a0d0cffcf0e4a6f705f24f3525c3cc007d98c"]
+[VersionToken "9090a6c191c1b7a69ba2cc13945a0d0cffcf0e4a6f705f24f3525c3cc007d98c"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -43,7 +43,7 @@ so he bids 3NT.}
 1NT pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2c7eaaa8410fbe6e0413a3374bb9c37bffdaa1e168b5b1fb1e8b885962102b2b"]
+[VersionToken "2c7eaaa8410fbe6e0413a3374bb9c37bffdaa1e168b5b1fb1e8b885962102b2b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -69,7 +69,7 @@ closes the auction with SOUTH as Declarer.}
 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "692a30271fae12c6785243e963c862ca33d8ed13bed40b25c4bc9bfd98e71dea"]
+[VersionToken "692a30271fae12c6785243e963c862ca33d8ed13bed40b25c4bc9bfd98e71dea"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -96,7 +96,7 @@ The contract might go down if played by SOUTH, but is odds on when played by NOR
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "754f7a5cf9d5ff65498e0df99bf0ee58d1580e8b5afe4a28ade5e3dddbec9c62"]
+[VersionToken "754f7a5cf9d5ff65498e0df99bf0ee58d1580e8b5afe4a28ade5e3dddbec9c62"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -122,7 +122,7 @@ SOUTH has a maximum 1NT opening and bids 3NT.}
 1NT pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b97795102209d284ed4a901b12071f18bccccccd444fa4088d4963f958deaddb"]
+[VersionToken "b97795102209d284ed4a901b12071f18bccccccd444fa4088d4963f958deaddb"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -149,7 +149,7 @@ Since NORTH has only a doubleton \H she passes 3NT.}
 1NT pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "60e69b75b0ff3594abc42048fec4ac80f9d45d84ea4db0652aa3e52f1f496c8c"]
+[VersionToken "60e69b75b0ff3594abc42048fec4ac80f9d45d84ea4db0652aa3e52f1f496c8c"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -173,7 +173,7 @@ So she uses Jacoby Transfer, and when SOUTH bids 2\S she passes!}
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "10d4d51aa4815654bf951c6d7c5fb8c39d4a7f91c1ebe1ff690c431607152280"]
+[VersionToken "10d4d51aa4815654bf951c6d7c5fb8c39d4a7f91c1ebe1ff690c431607152280"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -196,7 +196,7 @@ NORTH shows a \H suit and SOUTH immediately bids game in that suit.}
 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c2807b6cd09f09ed126d81455815d3d8ecb677d82ba23030b34d64a65aae3868"]
+[VersionToken "c2807b6cd09f09ed126d81455815d3d8ecb677d82ba23030b34d64a65aae3868"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -220,7 +220,7 @@ needs to find out if there is a 4-4 Major suit fit. There is, in \Ss.}
 1NT pass 2H pass 2S pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "04c19f10f1a82d9d43c96996e053b988fec8f772cf3146ffd5313e51d60d009a"]
+[VersionToken "04c19f10f1a82d9d43c96996e053b988fec8f772cf3146ffd5313e51d60d009a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -247,7 +247,7 @@ NORTH prefers \Ss, so she corrects the contract to 4\S.}
 1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ef7600392606ab185b20dc34c8d664259bce37145450f45041c9b5973a3836f4"]
+[VersionToken "ef7600392606ab185b20dc34c8d664259bce37145450f45041c9b5973a3836f4"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -273,7 +273,7 @@ SOUTH has three \Ss, so he chooses 4\S, taking the 8-card Major fit.}
 2NT pass 3D pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ff2958842344390c42890f81f21d918ee299e8216042dbad3edfb9567b6a4028"]
+[VersionToken "ff2958842344390c42890f81f21d918ee299e8216042dbad3edfb9567b6a4028"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -299,7 +299,7 @@ off two Aces. Missing one Ace he settles for 6\H.}
 1NT pass 2C pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "62f6e385687bc1a9c070afff3c2da0706e62b623a08b34c5d5eea411bddc2685"]
+[VersionToken "62f6e385687bc1a9c070afff3c2da0706e62b623a08b34c5d5eea411bddc2685"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -326,7 +326,7 @@ SOUTH declines.}
 1NT pass 2C pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b3e9da1986b4a8b852d508646594a9f4420a9c3bd464ee13ae5e4679dff13432"]
+[VersionToken "b3e9da1986b4a8b852d508646594a9f4420a9c3bd464ee13ae5e4679dff13432"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -354,7 +354,7 @@ With three trumps SOUTH chooses 4\S.}
 1NT pass 2C pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "086a1436c747a76f00c2e55632cffee1b3bf6a48e454b6b0c09a94ef86c1bb08"]
+[VersionToken "086a1436c747a76f00c2e55632cffee1b3bf6a48e454b6b0c09a94ef86c1bb08"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -380,7 +380,7 @@ SOUTH has a full 17 points so he accepts the invitation.}
 1NT pass 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "864d958a52b8598be594c44c8c9915b5b7eabddfbbdf158eb706ca0bd2067081"]
+[VersionToken "864d958a52b8598be594c44c8c9915b5b7eabddfbbdf158eb706ca0bd2067081"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -407,7 +407,7 @@ So she bids the \S game.}
 1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
+[VersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -434,7 +434,7 @@ she bids 4\H.}
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e0442c581a98c98f349465bb7454c4a79dbd90ddf6958048e4d530565b09f5fb"]
+[VersionToken "e0442c581a98c98f349465bb7454c4a79dbd90ddf6958048e4d530565b09f5fb"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -460,7 +460,7 @@ an 8-card Major suit fit. With the fit her hand now revalues to 11 points so she
 1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "399a8b59118a0071f11e10a39d97b31f067d344c142f6dd61b951606c7563ef8"]
+[VersionToken "399a8b59118a0071f11e10a39d97b31f067d344c142f6dd61b951606c7563ef8"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -487,7 +487,7 @@ chooses to play 3NT.}
 1NT pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8fe31d18db89299c308926fcd052e2ea65bc23f5affae36978aa90da2bfe84df"]
+[VersionToken "8fe31d18db89299c308926fcd052e2ea65bc23f5affae36978aa90da2bfe84df"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -513,7 +513,7 @@ the game where he knows the partnership holds eight trumps.}
 1NT pass 2D pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "df843d9755544a1f225349eebd07877c86ca31a34df004c686a4c4296a6fb2a0"]
+[VersionToken "df843d9755544a1f225349eebd07877c86ca31a34df004c686a4c4296a6fb2a0"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -539,7 +539,7 @@ round control of the suit that was bid.}
 1NT pass 2C pass 2H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 21, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e700449ee54f7abe28d88c02b5ee996438e0a2738b8fdc762e806a4078278c90"]
+[VersionToken "e700449ee54f7abe28d88c02b5ee996438e0a2738b8fdc762e806a4078278c90"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -567,7 +567,7 @@ So NORTH bids 4\S.}
 1NT pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 22, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d61eaf08b746f7ff89bccb96edba145f8c6f77f7f11c8e206fc8c9a97e995725"]
+[VersionToken "d61eaf08b746f7ff89bccb96edba145f8c6f77f7f11c8e206fc8c9a97e995725"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -594,7 +594,7 @@ either 2\S or 2\D also.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 23, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "789a2466d448fac6eb4d036062dde95ea65fe9bd989b82ff03133f5fafda02bf"]
+[VersionToken "789a2466d448fac6eb4d036062dde95ea65fe9bd989b82ff03133f5fafda02bf"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -621,7 +621,7 @@ a \S contract because neither hand can ruff any losers.}
 1NT pass 2H pass 2S pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 24, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f6c4428d5ee081e84cacac58e985109d1c6fbba8eec80b6c1ce2c8da3ae0b867"]
+[VersionToken "f6c4428d5ee081e84cacac58e985109d1c6fbba8eec80b6c1ce2c8da3ae0b867"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]

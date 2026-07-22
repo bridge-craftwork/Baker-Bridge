@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2D pass 2H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "56373bbf002e93a21993ff20547f8f6870b3aef9a08668d48eafa663e9ebc8d0"]
+[VersionToken "56373bbf002e93a21993ff20547f8f6870b3aef9a08668d48eafa663e9ebc8d0"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -59,7 +59,7 @@ Decide for yourself!}
 2C pass 2D pass 3D pass 4D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "01618350bda46f12a7248708f4ea4ba9cb356a501754d620485032d9a9d0baf8"]
+[VersionToken "01618350bda46f12a7248708f4ea4ba9cb356a501754d620485032d9a9d0baf8"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -97,7 +97,7 @@ As you see, A Q 9 actually works just as well.}
 1C pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "39b8aaddaf4aeacb4cbb540f0969d04d9175ac66f3d33b4c486754f4beeba3dd"]
+[VersionToken "39b8aaddaf4aeacb4cbb540f0969d04d9175ac66f3d33b4c486754f4beeba3dd"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -135,7 +135,7 @@ If West makes the first play by leading a low \S you play low from your hand. Ea
 pass 1D 1H 2H X 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e126a649de863297a90bdfd2cb656f86eb2e352a0ff742817d2369ca71f0ec86"]
+[VersionToken "e126a649de863297a90bdfd2cb656f86eb2e352a0ff742817d2369ca71f0ec86"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -171,7 +171,7 @@ But never mind the percentages for a finesse, the end-play was a sure thing.}
 1C 1S 2S pass 3C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f7cff408a596316143cd7ae183f94e9b09943fbdda151795a058dadd6928bcbb"]
+[VersionToken "f7cff408a596316143cd7ae183f94e9b09943fbdda151795a058dadd6928bcbb"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -211,7 +211,7 @@ About the only way the elimination/throw-in could fail is if the \Cs split 3-0. 
 pass 1NT pass 3H pass 4H pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d2d0ac79b4e9658c2563e90d1ac9a4d47a592681d6813a40ac44a08265806d09"]
+[VersionToken "d2d0ac79b4e9658c2563e90d1ac9a4d47a592681d6813a40ac44a08265806d09"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]

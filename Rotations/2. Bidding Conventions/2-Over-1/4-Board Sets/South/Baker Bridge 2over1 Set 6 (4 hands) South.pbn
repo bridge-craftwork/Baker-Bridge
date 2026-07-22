@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -11,7 +11,7 @@
 [Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:AJT82.AK82.Q2.T5 Q96.J964.T9.8642 74.Q73.AKJ73.KJ9 K53.T5.8654.AQ73"]
-[BoardVersionToken "755824da85b38449c3d4509696e32235413f82a823823e44512976ceac117792"]
+[VersionToken "755824da85b38449c3d4509696e32235413f82a823823e44512976ceac117792"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -31,7 +31,7 @@ South happily says 3NT.}
 [Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:AJT82.AT82.Q2.K5 65.965.654.QJ842 74.KQ3.AKJ73.T97 KQ93.J74.T98.A63"]
-[BoardVersionToken "2b97c9c93208a7b980ff8a49de7825d3fa74ffc73ed3d5f54307809f6eab3451"]
+[VersionToken "2b97c9c93208a7b980ff8a49de7825d3fa74ffc73ed3d5f54307809f6eab3451"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -51,7 +51,7 @@ South understands that North's \C bid is Fourth-Suit-Forcing, and does not actua
 [Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:T82.A2.A8542.Q85 QJ.JT874.JT6.KJ2 AK974.KQ63.73.T7 653.95.KQ9.A9643"]
-[BoardVersionToken "bbdcfd9abf9bfc32fcc8fdf6229d55de4a6d4d48be19ecd4952077b5dc49c4f2"]
+[VersionToken "bbdcfd9abf9bfc32fcc8fdf6229d55de4a6d4d48be19ecd4952077b5dc49c4f2"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -72,7 +72,7 @@ Knowing that South does not have opening strength you pass 2\S.}
 [Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:KQT62.A74.84.A85 85.52.KQT953.642 74.9863.A762.KQ3 AJ93.KQJT.J.JT97"]
-[BoardVersionToken "52aef7f69e2611c5da706ce1c63ff4eb02ba1bf96adfc95c573705204bfea810"]
+[VersionToken "52aef7f69e2611c5da706ce1c63ff4eb02ba1bf96adfc95c573705204bfea810"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

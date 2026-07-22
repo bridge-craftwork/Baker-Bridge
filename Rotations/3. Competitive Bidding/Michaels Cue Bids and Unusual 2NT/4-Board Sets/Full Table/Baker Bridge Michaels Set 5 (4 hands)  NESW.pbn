@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Michaels
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S 2NT pass 3S pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c71670ad9e80ad93a00d932243d2e82f24f69f8c239705c6a569e2ce09acf753"]
+[VersionToken "c71670ad9e80ad93a00d932243d2e82f24f69f8c239705c6a569e2ce09acf753"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -43,7 +43,7 @@ Partner apparently has a big hand. His cue-bid is forcing, and probably means he
 1C 2C 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: W, basisKind:Declarer, nOption:1, nBasis: 3, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "acfd95abd2129c69631a3f2c633d366ded1fb47ee02258a8ca3bbd9a55ed6955"]
+[VersionToken "acfd95abd2129c69631a3f2c633d366ded1fb47ee02258a8ca3bbd9a55ed6955"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -66,7 +66,7 @@ Many times at Bridge you want to fight for the contract. This isn't one of them.
 1D 2D pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d7bfb5effebe1bbf1930167e30eafe7e8152362d33440a2cdf5cbf4f7a977b1b"]
+[VersionToken "d7bfb5effebe1bbf1930167e30eafe7e8152362d33440a2cdf5cbf4f7a977b1b"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]
@@ -91,7 +91,7 @@ This wasn't according to your script. Partner was supposed to choose a Major. Th
 1D 2D 3D 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "fd4becd5959a36e7a5195962b03c6cd894223f02d87c39174b8a65232191470e"]
+[VersionToken "fd4becd5959a36e7a5195962b03c6cd894223f02d87c39174b8a65232191470e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/michaels_unusual"]

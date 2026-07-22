@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2D pass 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "875732389523c452a58f57c78776d96caeb2e15f783a3ffc3bd2ec470a6b8e93"]
+[VersionToken "875732389523c452a58f57c78776d96caeb2e15f783a3ffc3bd2ec470a6b8e93"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -74,7 +74,7 @@ To prove that only the original \H9 play will work . . <b>VISUALIZE</b>:
 1C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "07100242bf2da8e3ab465b767292cdced113cd6e7c900d6600f143b61f5e6b63"]
+[VersionToken "07100242bf2da8e3ab465b767292cdced113cd6e7c900d6600f143b61f5e6b63"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -116,7 +116,7 @@ All else being equal, it's a good guideline. But sometimes all else <b>ISN'T</b>
 1D pass 1H pass 3D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7a3c76e0ed273f7b5b842d75c61e29e73069df41bbd699d684b7e1fc00091df2"]
+[VersionToken "7a3c76e0ed273f7b5b842d75c61e29e73069df41bbd699d684b7e1fc00091df2"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -164,7 +164,7 @@ So you couldn't ruff the third \C at all, you had to discard it on something. An
 2C pass 2D pass 2S pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "83bb2689dff08ddeff5b3541a563195dba562cff3ff382bbdddd59fffe8c6a0a"]
+[VersionToken "83bb2689dff08ddeff5b3541a563195dba562cff3ff382bbdddd59fffe8c6a0a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -210,7 +210,7 @@ It made no difference in tricks whether you ruffed the third or fourth \C so tha
 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7e1c7bcfe9a55bbed4d9cd7b5da3a5cbcd98dfa8b616f0a8c62b77cc010544f8"]
+[VersionToken "7e1c7bcfe9a55bbed4d9cd7b5da3a5cbcd98dfa8b616f0a8c62b77cc010544f8"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -258,7 +258,7 @@ The second part is figuring out that the \S suit could provide them.}
 1C pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
+[VersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

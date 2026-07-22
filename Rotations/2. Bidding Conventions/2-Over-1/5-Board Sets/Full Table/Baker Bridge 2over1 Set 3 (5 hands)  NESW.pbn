@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -11,7 +11,7 @@
 [Dealer "W"]
 [Vulnerable "None"]
 [Deal "W:9754.T6.J72.8653 AJT.AK985.K96.Q7 KQ2.QJ42.T853.92 863.73.AQ4.AKJT4"]
-[BoardVersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
+[VersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -34,7 +34,7 @@ There are 11 top tricks. A 3-3 \H split would provide the 12th winner, but this 
 [Dealer "N"]
 [Vulnerable "NS"]
 [Deal "N:KT.98762.T72.AK2 AJ8752.AK.Q6.J87 94.JT54.853.QT53 Q63.Q3.AKJ94.964"]
-[BoardVersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
+[VersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -55,7 +55,7 @@ Even with a combined 30 points, 10 tricks are certainly not a sure thing. East m
 [Dealer "E"]
 [Vulnerable "EW"]
 [Deal "E:743.J.T973.KJ652 AJT62.A62.QJ.T87 Q98.T7.K8652.Q93 K5.KQ98543.A4.A4"]
-[BoardVersionToken "6d91857b7e8060b1bff521bff69e89039428dd58b8ee133d51320916c84d192e"]
+[VersionToken "6d91857b7e8060b1bff521bff69e89039428dd58b8ee133d51320916c84d192e"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -80,7 +80,7 @@ This is a good slam, cold if East makes any opening lead other than a \C. With a
 [Dealer "E"]
 [Vulnerable "All"]
 [Deal "E:A.AQJ753.742.KJ4 T874.62.JT.AT962 QJ2.KT.KQ865.Q87 K9653.984.A93.53"]
-[BoardVersionToken "1e6a2e4e6a0e33269be943adb36876d7ab229503b8d9f5deb8d691ad537ad74b"]
+[VersionToken "1e6a2e4e6a0e33269be943adb36876d7ab229503b8d9f5deb8d691ad537ad74b"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -102,7 +102,7 @@ Partner's jump to 4\h is Fast Arrival - showing a minimum game forcing hand.  Ev
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:AQ862.T4.K65.K87 K97543.A6.Q97.J6 J.KQJ753.432.Q54 T.982.AJT8.AT932"]
-[BoardVersionToken "78f1cb2c0bbf3d942cd2340065ef342decf2e53beec255a6a4235c3bb38b88a4"]
+[VersionToken "78f1cb2c0bbf3d942cd2340065ef342decf2e53beec255a6a4235c3bb38b88a4"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

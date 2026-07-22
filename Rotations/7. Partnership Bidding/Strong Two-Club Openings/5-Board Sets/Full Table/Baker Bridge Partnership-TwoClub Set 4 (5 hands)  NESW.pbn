@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-TwoClub
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2D pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1097c38bc165438c9be861a2d0e3ee36b7aae114a74e03fc1ca6ce4d46cc24f0"]
+[VersionToken "1097c38bc165438c9be861a2d0e3ee36b7aae114a74e03fc1ca6ce4d46cc24f0"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -45,7 +45,7 @@ NORTH doesn't have enough to think about slam, so he signs off at 4\S.}
 2C pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "f7d2bef6ac955fb953daae2e0ab99c970080a65b728e4fa90ea1aac18a034407"]
+[VersionToken "f7d2bef6ac955fb953daae2e0ab99c970080a65b728e4fa90ea1aac18a034407"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -71,7 +71,7 @@ WEST figures EAST for 8 points and bids 6NT. If EAST has significantly more than
 2C pass 2H pass 2S pass 3H pass 6H pass pass all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "70bbdd9a2b755e255e0bc407d55cd4b048da1526de6a1039bbe4540220083a13"]
+[VersionToken "70bbdd9a2b755e255e0bc407d55cd4b048da1526de6a1039bbe4540220083a13"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -99,7 +99,7 @@ good, he might bid 6NT.}
 2C pass 2NT pass 3C pass 3S pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "449caef41a8344b8ee50abdfa17a7fe3ad80161549e9f88b276eb537e49d033b"]
+[VersionToken "449caef41a8344b8ee50abdfa17a7fe3ad80161549e9f88b276eb537e49d033b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -126,7 +126,7 @@ Now WEST adds his 12 points to EAST's 22 minimum and gets 34. He bids 6\S.}
 2C pass 2D pass 2S pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3026efd51c9531d32eca78f734b74452ba68e17b750787d575c15f1e2b1fac0e"]
+[VersionToken "3026efd51c9531d32eca78f734b74452ba68e17b750787d575c15f1e2b1fac0e"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]

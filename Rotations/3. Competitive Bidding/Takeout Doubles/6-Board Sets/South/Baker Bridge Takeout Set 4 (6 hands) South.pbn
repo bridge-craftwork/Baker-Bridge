@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Takeout
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1D X pass 1H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ed19e457fee508a7a56f157c538c2c78d50428b06d50dc90c8879ab8aae07c63"]
+[VersionToken "ed19e457fee508a7a56f157c538c2c78d50428b06d50dc90c8879ab8aae07c63"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -42,7 +42,7 @@ You say pass. Despite partner showing you a big hand you just can't help him. }
 1H X pass 2C 2H 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "43f8c4a406268d724ec0f1af308c7b479b5154c8e49b907a2c54dd48cea5fe15"]
+[VersionToken "43f8c4a406268d724ec0f1af308c7b479b5154c8e49b907a2c54dd48cea5fe15"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -67,7 +67,7 @@ By doubling and then bidding his own suit, partner is showing a good hand, at le
 1D X 1S pass 2D X pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3f7a7380235238819d08d777a387548db6b87f40529ca9a52ddced2045dcf98e"]
+[VersionToken "3f7a7380235238819d08d777a387548db6b87f40529ca9a52ddced2045dcf98e"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -96,7 +96,7 @@ You may be one too high, but that still might be a good score if they can make 2
 1D X 1S 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cbd53dff9b3a8144834709fca28e011c2d95d4026a36769932efd64233737764"]
+[VersionToken "cbd53dff9b3a8144834709fca28e011c2d95d4026a36769932efd64233737764"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -123,7 +123,7 @@ You bid 2\H and everybody passes.}
 1D X XX 1H pass pass 2D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: W, basisKind:Declarer, nOption:2, nBasis: 3, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "e6874fa38f13afcd4ed3bcc6307fb5fe7b0145724934684259afa630c7cb4a11"]
+[VersionToken "e6874fa38f13afcd4ed3bcc6307fb5fe7b0145724934684259afa630c7cb4a11"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]
@@ -150,7 +150,7 @@ On this deal your \H bid gets passed around to North who bids 2\D, the final con
 2H X pass 3H pass 3S pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e5f93804841664fc942513acc0d54f005b27f5264670fabedd6372387028ec74"]
+[VersionToken "e5f93804841664fc942513acc0d54f005b27f5264670fabedd6372387028ec74"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/takeout_doubles"]

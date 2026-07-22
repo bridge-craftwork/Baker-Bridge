@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Negative
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C 1D X pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0756329a12d3fb529f89809c4651e29fbf6f4756292ff9f851a42cecd926fa8f"]
+[VersionToken "0756329a12d3fb529f89809c4651e29fbf6f4756292ff9f851a42cecd926fa8f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -41,7 +41,7 @@ Partner's Negative Double in this situation shows both Majors. You can't support
 1D 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1303f7beac377ad5d26a14dd03a2a3744406e0dd13631593c977d5a0cf8143bd"]
+[VersionToken "1303f7beac377ad5d26a14dd03a2a3744406e0dd13631593c977d5a0cf8143bd"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -66,7 +66,7 @@ Partner's jump shows a Medium hand, 16 - 18 points. Add your 11 and you have eno
 1D 1S X pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "52324c4eb4303bb721ef7d990ebaef61321c07a7e383085382812811cac01530"]
+[VersionToken "52324c4eb4303bb721ef7d990ebaef61321c07a7e383085382812811cac01530"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -89,7 +89,7 @@ You have a very good hand but only 2 of partner's \H suit. You are actually too 
 1H 1S X pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a66626ce21641991c720dd5120b5ed0e3b92bdc2481fe5903dcf66c2766c3202"]
+[VersionToken "a66626ce21641991c720dd5120b5ed0e3b92bdc2481fe5903dcf66c2766c3202"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -114,7 +114,7 @@ Well let's see. Partner shows no interest in your two Minors or notrump. And he 
 1H 1S X pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b8a129d880d438f241b2de815bd3c53e86967fca9d78b9ab5227b061c9cf4acc"]
+[VersionToken "b8a129d880d438f241b2de815bd3c53e86967fca9d78b9ab5227b061c9cf4acc"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -137,7 +137,7 @@ Partner is showing both Minors but you are not interested in either one. Bidding
 1S 2H X pass 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "141704eaae24d2495eb44bce4ff85e46e51ae7f5f490947edd74ce8153fd2e1b"]
+[VersionToken "141704eaae24d2495eb44bce4ff85e46e51ae7f5f490947edd74ce8153fd2e1b"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Leben
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2D X pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: E, basisKind:Declarer, nOption:0, nBasis: 1, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "0b0c2de6b5e0dbecab23c9d81cc3cc78b6b4842c64cf61717f387892452fef1f"]
+[VersionToken "0b0c2de6b5e0dbecab23c9d81cc3cc78b6b4842c64cf61717f387892452fef1f"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
@@ -41,7 +41,7 @@ However you should look for an even bigger reward by doubling. North is in serio
 1NT 2D 2NT pass 3C pass 3D pass 3H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "80d2438f1ee0a6a729d409ba64648a5856c1afdd7d61a1ce68558601d5a59003"]
+[VersionToken "80d2438f1ee0a6a729d409ba64648a5856c1afdd7d61a1ce68558601d5a59003"]
 [Category "Competitive Bidding"]
 [Difficulty "advanced"]
 [SkillPath "competitive_bidding/lebensohl"]
