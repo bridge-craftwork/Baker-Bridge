@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7e1e707637c2dc4f9c43e5ee6bd4700e2ab582b40dc0efb84a52ff4759d8c0ad"]
+[VersionToken "7e1e707637c2dc4f9c43e5ee6bd4700e2ab582b40dc0efb84a52ff4759d8c0ad"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -49,7 +49,7 @@ Declarer must play \Ds to get some winners, and when East takes the \DA he will 
 1H 2S 3D 3S 4C pass 4H pass pass 4S X pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2d402a319ebc6602f0853d50766bfb1a2d1f64e7cb8d45ff9b7b5d9bc8013f00"]
+[VersionToken "2d402a319ebc6602f0853d50766bfb1a2d1f64e7cb8d45ff9b7b5d9bc8013f00"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -83,7 +83,7 @@ So take the \SA and then play another \S. Declarer will still be able to ruff on
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5d8289bfa0255902f28bdfa1f53aab13de9a979b019a5f32ce8ea96c9d0496da"]
+[VersionToken "5d8289bfa0255902f28bdfa1f53aab13de9a979b019a5f32ce8ea96c9d0496da"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -115,7 +115,7 @@ But when you lead the \H3 it does not promote a \H winner for declarer, and left
 1D pass 1S pass 3D pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3778b495f4aeba537b3dc9592622cb668724aece64d0b299c99fb07d3bca6790"]
+[VersionToken "3778b495f4aeba537b3dc9592622cb668724aece64d0b299c99fb07d3bca6790"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]

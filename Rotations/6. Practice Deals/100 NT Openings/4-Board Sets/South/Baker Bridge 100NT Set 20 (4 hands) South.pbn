@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2H pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b4010ea219dd4cfa67d0c815c7dd51e0a335fc177fd0a76a45dd7a197499bc05"]
+[VersionToken "b4010ea219dd4cfa67d0c815c7dd51e0a335fc177fd0a76a45dd7a197499bc05"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -60,7 +60,7 @@ West would have taken the second \S, then pulled your last \S. When the \C fines
 1NT pass 2H pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "260fb85af449f219c2479c3db5f4a3d480e1d0dda684fcb6471f16a952d7bc9d"]
+[VersionToken "260fb85af449f219c2479c3db5f4a3d480e1d0dda684fcb6471f16a952d7bc9d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -104,7 +104,7 @@ But visualize the \SJ and \S7 transposed. If you don't make the safety play it i
 1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7b21f15dba843fb3a3956e3cf5f466b940992d7de08bab27a456b67bb8ed020a"]
+[VersionToken "7b21f15dba843fb3a3956e3cf5f466b940992d7de08bab27a456b67bb8ed020a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -144,7 +144,7 @@ Play the \HA on the first trick and East is hog-tied. If he plays low the suit b
 1NT 2H 2NT pass 3C pass 3H pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5c50305402a0c48514d42ae209c3bab22ddabf358cc78bd153f37436af30b3e9"]
+[VersionToken "5c50305402a0c48514d42ae209c3bab22ddabf358cc78bd153f37436af30b3e9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

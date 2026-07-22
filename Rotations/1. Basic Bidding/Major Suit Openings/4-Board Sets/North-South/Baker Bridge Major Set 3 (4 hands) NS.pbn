@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ee3354aed09b7ff6e3ef8dddecbf7f99610f92fd401cdae2afb53e1e0afacfa3"]
+[VersionToken "ee3354aed09b7ff6e3ef8dddecbf7f99610f92fd401cdae2afb53e1e0afacfa3"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -43,7 +43,7 @@ Partner has shown 11+ points and at least 4 \Hs. Your hand revalues to 16 points
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "85109fe0d7603c55555706de569dbf433f3a9cd57d9206d7c672eb2220c7770a"]
+[VersionToken "85109fe0d7603c55555706de569dbf433f3a9cd57d9206d7c672eb2220c7770a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -68,7 +68,7 @@ With 6 of them you can rebid \Ss but you are too strong to say just 2\S. Your 17
 1H pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a7a1e6bf113d4ee85ca32153b46604823b7265d5d0e199952d1578110ec3b929"]
+[VersionToken "a7a1e6bf113d4ee85ca32153b46604823b7265d5d0e199952d1578110ec3b929"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -95,7 +95,7 @@ You have all the Aces but don't go crazy. Partner only has 11-12 points so don't
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c10ff186f8e277f2946d37c992d106b0bdc207568202c33c77e3bf9e518d8fd1"]
+[VersionToken "c10ff186f8e277f2946d37c992d106b0bdc207568202c33c77e3bf9e518d8fd1"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

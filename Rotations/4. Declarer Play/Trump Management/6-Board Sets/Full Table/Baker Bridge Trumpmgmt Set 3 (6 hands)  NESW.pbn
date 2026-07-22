@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Trumpmgmt
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "443acb64b9581da15271f70d648a065e34d18a98f5821e635c330bd4d72ae4e0"]
+[VersionToken "443acb64b9581da15271f70d648a065e34d18a98f5821e635c330bd4d72ae4e0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -55,7 +55,7 @@ Did you notice that East is a pretty good defender? Playing the \DQ on the third
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "3a7e030155a4b4ce356d56e0707b43663249300c8e737e4649548ff29e8b5b57"]
+[VersionToken "3a7e030155a4b4ce356d56e0707b43663249300c8e737e4649548ff29e8b5b57"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -87,7 +87,7 @@ But, it was a good plan because dummy held the \S9. Keep that in mind when you l
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ea9fe8fc85d8e9fc8a970f61f5f1755792e85cd16f68b8a844c6a47c11210be3"]
+[VersionToken "ea9fe8fc85d8e9fc8a970f61f5f1755792e85cd16f68b8a844c6a47c11210be3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -123,7 +123,7 @@ But you also had to be extremely clever to pull it off. This is probably the har
 1D pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "621935106977f082226ffaf372ae89b6c236d19bd5cedf9a00fd8b427767a902"]
+[VersionToken "621935106977f082226ffaf372ae89b6c236d19bd5cedf9a00fd8b427767a902"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -165,7 +165,7 @@ This time it worked, another time it might not.}
 pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f4d953b05dedca5511f97583351ec8435f427e3b68f66ee6fb82d4cc6c6408e4"]
+[VersionToken "f4d953b05dedca5511f97583351ec8435f427e3b68f66ee6fb82d4cc6c6408e4"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -201,7 +201,7 @@ Just the fact that you had to use the trump suit for entries to dummy, and there
 pass 1S pass 1NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "00fa7c441f12b487d1535f103f59c0d8d069c0d2c6040a784c3edbb673a525e1"]
+[VersionToken "00fa7c441f12b487d1535f103f59c0d8d069c0d2c6040a784c3edbb673a525e1"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]

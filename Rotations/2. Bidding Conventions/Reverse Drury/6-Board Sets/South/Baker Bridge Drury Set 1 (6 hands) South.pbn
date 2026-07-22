@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Drury
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass pass 1H pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "293b37d6c849b0c7c23838244c27f540834c12bf8b8910031eda3dd3dae471d0"]
+[VersionToken "293b37d6c849b0c7c23838244c27f540834c12bf8b8910031eda3dd3dae471d0"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -43,7 +43,7 @@ Partner's 2\H rebid tells you that he opened light. So you pass.}
 pass pass 1S pass 2C pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f58f0c9b827448ab9fa94bfa9c972d17074d2982cd2bdf2cb9eb348a661aced6"]
+[VersionToken "f58f0c9b827448ab9fa94bfa9c972d17074d2982cd2bdf2cb9eb348a661aced6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -68,7 +68,7 @@ Partner passes.}
 pass pass 1S pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "976be0b0ad17df44f5533943b92a6b59454f604ce50111db16170c61fcfbf9a6"]
+[VersionToken "976be0b0ad17df44f5533943b92a6b59454f604ce50111db16170c61fcfbf9a6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -93,7 +93,7 @@ The 2\D rebid shows a hand that partner would have opened in any position. So he
 pass pass 1H pass 2C pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0c55e593a3cc3ace4a1d52fb1c47a8116e17d6d448b037fb66d1833d30173c8b"]
+[VersionToken "0c55e593a3cc3ace4a1d52fb1c47a8116e17d6d448b037fb66d1833d30173c8b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -118,7 +118,7 @@ Partner shows a maximum limit-raise with his jump, so you bid the game.}
 pass pass 1H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ebae8578c44abf7c0e2e2ed253e21f5eaf88b0050fc0af71f6f2984d72ee6076"]
+[VersionToken "ebae8578c44abf7c0e2e2ed253e21f5eaf88b0050fc0af71f6f2984d72ee6076"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -141,7 +141,7 @@ So you jump to 3\H. Partner realizes you don't have any strength since you did n
 pass pass 1S pass 2C pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "47df23cffd0168b3a6b8b9fbff69a27b3ac067f575019d208a03e6ed8b807a84"]
+[VersionToken "47df23cffd0168b3a6b8b9fbff69a27b3ac067f575019d208a03e6ed8b807a84"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]

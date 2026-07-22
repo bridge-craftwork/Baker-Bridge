@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 3D pass 3NT pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2ba61aef2d762e7370875bc5bf723ead1ad304c444e27437a67a09f9d72f29a0"]
+[VersionToken "2ba61aef2d762e7370875bc5bf723ead1ad304c444e27437a67a09f9d72f29a0"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -54,7 +54,7 @@ If you cover the \HJ with your \HQ North will again win with one of his high one
 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "d2f5bc4eca465f5b4808023e26a043c5e3c6857ba6b6fa3ad6fb99267977f9bb"]
+[VersionToken "d2f5bc4eca465f5b4808023e26a043c5e3c6857ba6b6fa3ad6fb99267977f9bb"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -90,7 +90,7 @@ If you play low on East's \S play North will be forced to win the trick and he c
 1H pass 3H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "012db5ef1ee8bd1705ba5d4e5c56623869d67563a32ff2e97df94b5d65dc7432"]
+[VersionToken "012db5ef1ee8bd1705ba5d4e5c56623869d67563a32ff2e97df94b5d65dc7432"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
@@ -126,7 +126,7 @@ Now assume you play low. South will play the \SQ which will win the trick and he
 1NT pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "9c38fc9daa5f2e98a1d00a1716ac0fd5ed334eec38df377b152f29311de9d5c4"]
+[VersionToken "9c38fc9daa5f2e98a1d00a1716ac0fd5ed334eec38df377b152f29311de9d5c4"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]

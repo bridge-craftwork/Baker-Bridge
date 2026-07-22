@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 3D pass 4H pass 4NT pass 5S pass 6H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "84bf20a8116d759b4994731054acdb5cc90819602ac7228e2f9e637c059b735c"]
+[VersionToken "84bf20a8116d759b4994731054acdb5cc90819602ac7228e2f9e637c059b735c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -70,7 +70,7 @@ But call it whatever you like, that's the way to make this Deal.}
 2NT pass 4C pass 4S pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "27cf4ebe407bfdfc7e9dc8f70a0383805f91d2b4d1c2c8091dc9aec7b0b4a005"]
+[VersionToken "27cf4ebe407bfdfc7e9dc8f70a0383805f91d2b4d1c2c8091dc9aec7b0b4a005"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -116,7 +116,7 @@ Of course if the \Ds were breaking 3-3 all the time you haven't lost anything by
 1NT pass 2H pass 2S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "666008b457577a8035ccf4bae54b42ec23ebe3b8337baaabf4c2e0d75c39b37a"]
+[VersionToken "666008b457577a8035ccf4bae54b42ec23ebe3b8337baaabf4c2e0d75c39b37a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -160,7 +160,7 @@ It was the fourth \S that was a loser, and you couldn't get rid of that one.}
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "e99bb7c8196a31a16828a0afaba024001dbffbfb0cdaa60d94315285b931a300"]
+[VersionToken "e99bb7c8196a31a16828a0afaba024001dbffbfb0cdaa60d94315285b931a300"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Jacoby2NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "530996b053ba5b01c04b8e1fa5228a9bb1270fa5857681115216d116d2df8d04"]
+[VersionToken "530996b053ba5b01c04b8e1fa5228a9bb1270fa5857681115216d116d2df8d04"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -41,7 +41,7 @@ SOUTH has a minimum opening hand with nothing extra to show, so signs off at 4\H
 1S pass 2NT pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c1cf4e421d48fde097ec59cb2e254bb45ad63313b407bfd80acb77c19fc003b1"]
+[VersionToken "c1cf4e421d48fde097ec59cb2e254bb45ad63313b407bfd80acb77c19fc003b1"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -67,7 +67,7 @@ NORTH cannot make any positive move, so she bids 4\S which SOUTH passes.}
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d5a9fdc1c70f779bca390ef122f7b8cf410f3910e0286e8be497aaa9779da380"]
+[VersionToken "d5a9fdc1c70f779bca390ef122f7b8cf410f3910e0286e8be497aaa9779da380"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -91,7 +91,7 @@ NORTH has already bid the full strength of his hand so he signs off with 4\S whi
 1S pass 2NT pass 3C pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "aa9cf7529feceeacb6d6e8c22bb1b991034e58dc56c20bfc52660e62ad841e8c"]
+[VersionToken "aa9cf7529feceeacb6d6e8c22bb1b991034e58dc56c20bfc52660e62ad841e8c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -118,7 +118,7 @@ and he knows that NORTH doesn't have first-round control. He bids 4\S and NORTH 
 1S pass 2NT pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "69688a13bbb5873a40a7587c6a4c76ee50c251767506279c66a6723c831e2bf5"]
+[VersionToken "69688a13bbb5873a40a7587c6a4c76ee50c251767506279c66a6723c831e2bf5"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -145,7 +145,7 @@ Blackwood to check for Aces, then bids 6\S.}
 1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "db23c29bcfc94d5b429f707cd63198770dfdcbe3ab6ec150837ee17df7121691"]
+[VersionToken "db23c29bcfc94d5b429f707cd63198770dfdcbe3ab6ec150837ee17df7121691"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]

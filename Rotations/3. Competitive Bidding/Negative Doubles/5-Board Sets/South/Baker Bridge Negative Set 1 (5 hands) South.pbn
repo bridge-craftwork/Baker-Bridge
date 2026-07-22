@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Negative
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H 1S 2S pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c36198dbd6bf7a28b651bfef7ec7de414dd53513bd77627f85985ecc58e68930"]
+[VersionToken "c36198dbd6bf7a28b651bfef7ec7de414dd53513bd77627f85985ecc58e68930"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -43,7 +43,7 @@ Partner now bids 4\H which you pass.}
 1D 1S X pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "12053353341680332c0f827d5ce5b67b2fc488993282e31f7192148b69edee6f"]
+[VersionToken "12053353341680332c0f827d5ce5b67b2fc488993282e31f7192148b69edee6f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -68,7 +68,7 @@ Partner also has 4 \Hs. Unfortunately his strength is only in the 13-15 point ra
 1C 1S X pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b71a44ba5c87a42063fcbb121cdc667bad894f0a76749545902058eaf2c84db6"]
+[VersionToken "b71a44ba5c87a42063fcbb121cdc667bad894f0a76749545902058eaf2c84db6"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -91,7 +91,7 @@ Partner is showing you a \H suit with at least 6 points. With 4 \Hs in a minimum
 1D 1H X pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "91449562d09ec8e162b87832b62b2578fae8af192ac7f04520b65b1d8fc8fef1"]
+[VersionToken "91449562d09ec8e162b87832b62b2578fae8af192ac7f04520b65b1d8fc8fef1"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -116,7 +116,7 @@ Partner's jump is inviting but it takes more than just a simple jump to get you 
 1D 1H X pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3ffeb60f07ab88585a704d5f65b20e6956ab99c5e76f1272f19932ff4fb95b72"]
+[VersionToken "3ffeb60f07ab88585a704d5f65b20e6956ab99c5e76f1272f19932ff4fb95b72"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]

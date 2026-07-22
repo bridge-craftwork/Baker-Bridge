@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3ce3a67d2ff5ca9b43d9bf458a7e27fd0489e31589b50caf4cbf2ca37e869aea"]
+[VersionToken "3ce3a67d2ff5ca9b43d9bf458a7e27fd0489e31589b50caf4cbf2ca37e869aea"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -50,7 +50,7 @@ South is one trick short and he sees he can easily get that trick in \Hs. So he 
 2H 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e6e1ad8867c787422b896d8a20f35b3894b5522ca675b2e80d4ae0fb10f80f32"]
+[VersionToken "e6e1ad8867c787422b896d8a20f35b3894b5522ca675b2e80d4ae0fb10f80f32"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -78,7 +78,7 @@ Partner takes the \CA and gives you a second \H ruff.}
 1H pass 1S pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "422e5511d97bc0eb8b7573ff1dfd0e8fec5bb4ebb3d1eb58bcbff795fa5193af"]
+[VersionToken "422e5511d97bc0eb8b7573ff1dfd0e8fec5bb4ebb3d1eb58bcbff795fa5193af"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -108,7 +108,7 @@ West looks at your signal, then looks at dummy, then looks at your signal. He kn
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7b18ffc4410cff2fe0bbe7914420a703fc3c1028e080b2b81593f8f582c7168f"]
+[VersionToken "7b18ffc4410cff2fe0bbe7914420a703fc3c1028e080b2b81593f8f582c7168f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]

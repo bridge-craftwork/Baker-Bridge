@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C pass 1S 2H 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "92433a205efcd3c9dc47bfea2af97a85cea2919cedc21f6f48713f0cffcd1a6c"]
+[VersionToken "92433a205efcd3c9dc47bfea2af97a85cea2919cedc21f6f48713f0cffcd1a6c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -50,7 +50,7 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 1D pass 1H 1S 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1e1fadd7a4a44074027cfa73989d38095b8898ac156a9ce8b2701b0490c25855"]
+[VersionToken "1e1fadd7a4a44074027cfa73989d38095b8898ac156a9ce8b2701b0490c25855"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -82,7 +82,7 @@ To allow for this situation it will be better to play \Cs from your side of the 
 1D 1H 2C pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "cef6f181efbf5c06afae7b7945899dce19d1e3cdb5d0917fc55ff2babc3955cf"]
+[VersionToken "cef6f181efbf5c06afae7b7945899dce19d1e3cdb5d0917fc55ff2babc3955cf"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -116,7 +116,7 @@ Not today. Partner takes the \CK and returns his \H2 to your four winners.}
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "616332e5f73bf5f8feb36f9db40d04fab95eeb701c8458850a374af36f1ea2eb"]
+[VersionToken "616332e5f73bf5f8feb36f9db40d04fab95eeb701c8458850a374af36f1ea2eb"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -150,7 +150,7 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 1H X pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3728495567284aef35f37add46d0452cc38ba8ec9fa17e50e5b6b743bebd2301"]
+[VersionToken "3728495567284aef35f37add46d0452cc38ba8ec9fa17e50e5b6b743bebd2301"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]

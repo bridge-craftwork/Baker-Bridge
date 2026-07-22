@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9da868e00cbbbe3581ec73397be4978e0164adbcbfde8b960c0503f000702040"]
+[VersionToken "9da868e00cbbbe3581ec73397be4978e0164adbcbfde8b960c0503f000702040"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -43,7 +43,7 @@ You say pass. You have a minimum opening hand and partner has 6-10 points so no 
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8ed17feff1fd02d8c157aacac40c284d99bd89c5cd57acfcba1432b665c7e3ec"]
+[VersionToken "8ed17feff1fd02d8c157aacac40c284d99bd89c5cd57acfcba1432b665c7e3ec"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -68,7 +68,7 @@ You revalue to 20 points (doubleton \S) and partner has between 6 and 10. So, 26
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4aefa41ebb4d95b4c1748a70a85197909c77a9297ee642967174646604dddb87"]
+[VersionToken "4aefa41ebb4d95b4c1748a70a85197909c77a9297ee642967174646604dddb87"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -93,7 +93,7 @@ Your 15 points gets revalued to 16/17 for the singleton. Add partner's 10-12 and
 pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "924a2938e6cfe0226fd7a0c0b154e8c23a1e8101bd51f88eab6397fc1b98cb00"]
+[VersionToken "924a2938e6cfe0226fd7a0c0b154e8c23a1e8101bd51f88eab6397fc1b98cb00"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -118,7 +118,7 @@ Figure partner for 11-12 points. You have 13 but could revalue to 14 with the do
 1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6087a019ca919db6f8e0c5428fa3983b77ea0c3e23922859fc694c1bb1399b3d"]
+[VersionToken "6087a019ca919db6f8e0c5428fa3983b77ea0c3e23922859fc694c1bb1399b3d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -143,7 +143,7 @@ Partner's bid forces you to bid again. You have a bare-minimum hand, but at leas
 1H pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9483f1ae80ef26c62ee48fa81c00f2f7471b3288333fab06a6618a4a553ff9ca"]
+[VersionToken "9483f1ae80ef26c62ee48fa81c00f2f7471b3288333fab06a6618a4a553ff9ca"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -168,7 +168,7 @@ You have good \S support but you must tell partner of your minimum hand. So you 
 1H pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f9023832f0ca9d16c2cbc444c59b97b16b2e9e7651ea410724b515562c996bbb"]
+[VersionToken "f9023832f0ca9d16c2cbc444c59b97b16b2e9e7651ea410724b515562c996bbb"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -195,7 +195,7 @@ Partner bids the game.}
 1S pass 2C pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "cd6c21e047aa88a555fcd290a15a6df73d5841cebced7501b6aee9fea430bbfb"]
+[VersionToken "cd6c21e047aa88a555fcd290a15a6df73d5841cebced7501b6aee9fea430bbfb"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -220,7 +220,7 @@ Partner has shown at least 11 points and you are forced to bid again. Since the 
 1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ee3354aed09b7ff6e3ef8dddecbf7f99610f92fd401cdae2afb53e1e0afacfa3"]
+[VersionToken "ee3354aed09b7ff6e3ef8dddecbf7f99610f92fd401cdae2afb53e1e0afacfa3"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -245,7 +245,7 @@ Partner has shown 11+ points and at least 4 \Hs. Your hand revalues to 16 points
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "85109fe0d7603c55555706de569dbf433f3a9cd57d9206d7c672eb2220c7770a"]
+[VersionToken "85109fe0d7603c55555706de569dbf433f3a9cd57d9206d7c672eb2220c7770a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -270,7 +270,7 @@ With 6 of them you can rebid \Ss but you are too strong to say just 2\S. Your 17
 1H pass 3H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a7a1e6bf113d4ee85ca32153b46604823b7265d5d0e199952d1578110ec3b929"]
+[VersionToken "a7a1e6bf113d4ee85ca32153b46604823b7265d5d0e199952d1578110ec3b929"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -297,7 +297,7 @@ You have all the Aces but don't go crazy. Partner only has 11-12 points so don't
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c10ff186f8e277f2946d37c992d106b0bdc207568202c33c77e3bf9e518d8fd1"]
+[VersionToken "c10ff186f8e277f2946d37c992d106b0bdc207568202c33c77e3bf9e518d8fd1"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -320,7 +320,7 @@ With 6 points you must respond and you should let partner know you have support 
 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0d5d897dbc23ff727f603376c01c6e0945794f190115504b1f86426d247efe8f"]
+[VersionToken "0d5d897dbc23ff727f603376c01c6e0945794f190115504b1f86426d247efe8f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -345,7 +345,7 @@ This is a good example. Partner may be lucky and make 4\H. But if they had had a
 1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9f9455839c7bf2a2e7b1b276b3cffb8f4ff73b247f1f4c06a9aed9c824e59856"]
+[VersionToken "9f9455839c7bf2a2e7b1b276b3cffb8f4ff73b247f1f4c06a9aed9c824e59856"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -370,7 +370,7 @@ Here's where a lot of players go wrong. Since they only promised 4 \Ss with thei
 1S pass 2C pass 2D pass 4S pass 4NT pass 5D pass 6S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a0435a9b730d4ea1ba41de1d5f0c046afc610aaa25c380111ccc447689267d3f"]
+[VersionToken "a0435a9b730d4ea1ba41de1d5f0c046afc610aaa25c380111ccc447689267d3f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -397,7 +397,7 @@ This is Blackwood so you answer 5\D for one Ace. Partner says 6\S.}
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ea76c5b3e19e0d28c04d923d48de244787f97bbb74f4ce05ea5e96912fca814b"]
+[VersionToken "ea76c5b3e19e0d28c04d923d48de244787f97bbb74f4ce05ea5e96912fca814b"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -424,7 +424,7 @@ With 11 points and 4 trumps you bid 3\H, a limit raise. Partner raises to game.}
 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8509738c42e427648052281f15cedc0b3ee0c285059370f3b02758294c783824"]
+[VersionToken "8509738c42e427648052281f15cedc0b3ee0c285059370f3b02758294c783824"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -449,7 +449,7 @@ Partner would not support a response which might be 4 cards unless he had 4 hims
 1S pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4d494a12fa3c81ea404b72ade86c8a83b9d1abe446b70e9bc94504e6cc4e4b46"]
+[VersionToken "4d494a12fa3c81ea404b72ade86c8a83b9d1abe446b70e9bc94504e6cc4e4b46"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -474,7 +474,7 @@ Partner's bid is an invitation. You have told him you have 6-10 points and he pr
 1S pass 2S pass 3C pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "78a2bc716deeb78545e04cf42053663718b6a29fc8303cd39b807cfdbf325dca"]
+[VersionToken "78a2bc716deeb78545e04cf42053663718b6a29fc8303cd39b807cfdbf325dca"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -501,7 +501,7 @@ You are at the bottom of your range and you have no help in \Cs, so you just ret
 1H pass 2H pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "89038ad7437af08f47db7ad874cbcbcc474c7ac273a25df42e0a1f2e39fce17c"]
+[VersionToken "89038ad7437af08f47db7ad874cbcbcc474c7ac273a25df42e0a1f2e39fce17c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

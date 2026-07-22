@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
+[VersionToken "451e68751ec158704f6f1cd244b1033957b96b2437c4637c4cdad96154fc21d7"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -66,7 +66,7 @@ If instead you decide to lead a \S to dummy's \SJ and lead a \H toward your \HK 
 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cb5d6491cdc6e1e00888dff8d2ed4d7b162f5557aa0a9f305c095e0118f3e16b"]
+[VersionToken "cb5d6491cdc6e1e00888dff8d2ed4d7b162f5557aa0a9f305c095e0118f3e16b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -108,7 +108,7 @@ You must modify the Plan a little bit. Now your only hope is that West still hol
 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e11380ecd3b6a329a3ffe3b41ebb88e82fe0bea79d9370c31bf0417d585d685d"]
+[VersionToken "e11380ecd3b6a329a3ffe3b41ebb88e82fe0bea79d9370c31bf0417d585d685d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -148,7 +148,7 @@ But you don't want to get into the habit of doing what is <b>USUALLY</b> good wi
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2d72bd879110c4ca9f6dfc0b233dd4da734735640f4246a888fe44c7275e24c6"]
+[VersionToken "2d72bd879110c4ca9f6dfc0b233dd4da734735640f4246a888fe44c7275e24c6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -188,7 +188,7 @@ Notice how strange this game can be. If your holding was \S K 2 rather than \S K
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "29e747ccfdb525cc20011a8dd6549190395dc33c9d516a6867a2bb9502368574"]
+[VersionToken "29e747ccfdb525cc20011a8dd6549190395dc33c9d516a6867a2bb9502368574"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

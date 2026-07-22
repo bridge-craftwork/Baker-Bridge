@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2C pass 2S pass 3C pass 3NT pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "820a0d86976cf64f7da3d9bdbfa818a943201329c7d02c4112fe4b25e356c9d8"]
+[VersionToken "820a0d86976cf64f7da3d9bdbfa818a943201329c7d02c4112fe4b25e356c9d8"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -57,7 +57,7 @@ But the singleton can be any one of four cards - in this case it can be the \CT,
 1H pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ccd08b6756b270f629b47a0bc12c72b606e1808d736a637b8d89fe1c999a5aaa"]
+[VersionToken "ccd08b6756b270f629b47a0bc12c72b606e1808d736a637b8d89fe1c999a5aaa"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -89,7 +89,7 @@ It is an important concept. When you have to use a trump as a later entry you co
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5c76b42c76112484974b1da515b3cc8811fce284bf9cdf08ec32708336ec7d6e"]
+[VersionToken "5c76b42c76112484974b1da515b3cc8811fce284bf9cdf08ec32708336ec7d6e"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -123,7 +123,7 @@ By unblocking the \CK you were still pretty confident that you would get the two
 1S pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9e673921e849b36c5455a1eeb28e5b11680e40470169e1f811adfdb47c092c9d"]
+[VersionToken "9e673921e849b36c5455a1eeb28e5b11680e40470169e1f811adfdb47c092c9d"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]

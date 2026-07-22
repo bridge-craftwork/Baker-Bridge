@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 2D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "85edf8af3491336ab620b283687123a64d0555e91e45e3e920482d9a54377d00"]
+[VersionToken "85edf8af3491336ab620b283687123a64d0555e91e45e3e920482d9a54377d00"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -38,7 +38,7 @@
 1D pass 1S pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "00d00b594fd381868df41f47cc7593189196acbe1cfda1ee6329683aa78cdbf9"]
+[VersionToken "00d00b594fd381868df41f47cc7593189196acbe1cfda1ee6329683aa78cdbf9"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]

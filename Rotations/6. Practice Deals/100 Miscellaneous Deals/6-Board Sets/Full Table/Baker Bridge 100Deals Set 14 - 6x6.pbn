@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C pass 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b4c815a98d472019046d99e954b9262ebacbba69c05821f11ac6228d387e2fbc"]
+[VersionToken "b4c815a98d472019046d99e954b9262ebacbba69c05821f11ac6228d387e2fbc"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -60,7 +60,7 @@ This wasn't a guaranteed Plan like some. If West held the \DA then you would go 
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "a4b9aab2c9d1c7464a92917b85dfcae6dced16a28b871e86cdab8a3c805b969b"]
+[VersionToken "a4b9aab2c9d1c7464a92917b85dfcae6dced16a28b871e86cdab8a3c805b969b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -106,7 +106,7 @@ Notice that South cannot prevent you from reaching dummy with the \S Q J.}
 1D 1H 1S 2H 2S 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c88374afb167560b860814b20ed00f72ffd270a9fefa26597f0f7fba0b06952d"]
+[VersionToken "c88374afb167560b860814b20ed00f72ffd270a9fefa26597f0f7fba0b06952d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -148,7 +148,7 @@ If you hadn't been able to find that extra entry you would have had no choice bu
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "42eb8d59176551d461ba5983f731073944c023a5c8f1c165f57e6377b9368e1f"]
+[VersionToken "42eb8d59176551d461ba5983f731073944c023a5c8f1c165f57e6377b9368e1f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -190,7 +190,7 @@ The percentages are right but the logic is wrong. If you are going to benefit fr
 1H pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "13971835a7a378d038cd7551d4a6768d76f43ae11117288629d3c54bcfe314f5"]
+[VersionToken "13971835a7a378d038cd7551d4a6768d76f43ae11117288629d3c54bcfe314f5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -242,7 +242,7 @@ This deal is a good example of that principle.}
 1S pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "029a7561b3d1026ac7230a8108c430a6377b2f845883de3eafb10d4ce2a8cef1"]
+[VersionToken "029a7561b3d1026ac7230a8108c430a6377b2f845883de3eafb10d4ce2a8cef1"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

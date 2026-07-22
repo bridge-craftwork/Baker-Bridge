@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
+[VersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -64,7 +64,7 @@ Notice that the Danger Hand <b>WAS</b> on lead at one point - the opening lead. 
 2H pass 2NT pass 3D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f2a50035480374aa722f2a6d266d54c8d59c39d513c38dd55c04163560b774ab"]
+[VersionToken "f2a50035480374aa722f2a6d266d54c8d59c39d513c38dd55c04163560b774ab"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -116,7 +116,7 @@ In this case dummy had a certain entry in the \D suit so you take advantage of t
 1H 2D 2H 2S pass pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "dbafb51e8e08b7bd981f3e9b9047d6e37dfbb8272426a1b96bbab5ba7ff0818a"]
+[VersionToken "dbafb51e8e08b7bd981f3e9b9047d6e37dfbb8272426a1b96bbab5ba7ff0818a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -166,7 +166,7 @@ Often, like in this deal, you can discard a loser instead.}
 2C pass 3C pass 4NT pass 5D pass 5NT pass 6D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "587016a9b342ef7a58999bdd49f97d32c492102daab3fe1d1a9be61fa73a500d"]
+[VersionToken "587016a9b342ef7a58999bdd49f97d32c492102daab3fe1d1a9be61fa73a500d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -218,7 +218,7 @@ The choice between a single finesse and a double finesse is one that you will fa
 1C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d35298162e94f5e5851bfcaea45c29fd9251d00af9a67bfb7a2f174a3632f633"]
+[VersionToken "d35298162e94f5e5851bfcaea45c29fd9251d00af9a67bfb7a2f174a3632f633"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

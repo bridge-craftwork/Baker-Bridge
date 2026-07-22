@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "562189bf91a1f213cc4ebd6ff79a0c2477ec6ef8c722cf82afcbade82b851660"]
+[VersionToken "562189bf91a1f213cc4ebd6ff79a0c2477ec6ef8c722cf82afcbade82b851660"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -74,7 +74,7 @@ But there was no other choice so you have to try it. }
 1H 1S pass pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8e3c838074766d182833c775d9fc98802e0e97c68496f413ac39a8ecf3a5ef8e"]
+[VersionToken "8e3c838074766d182833c775d9fc98802e0e97c68496f413ac39a8ecf3a5ef8e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -112,7 +112,7 @@ The problem is that East would have over-ruffed the \H9 and then played another 
 1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8a3c34487a8be227c451b6f146da6af515bf0cb434d77fcfeec444c3af49058b"]
+[VersionToken "8a3c34487a8be227c451b6f146da6af515bf0cb434d77fcfeec444c3af49058b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -158,7 +158,7 @@ This will happen about 75% of the time, so the double finesse is a good Plan. An
 1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "42a06b33ede243b7806944f8b73aa3bea20a433dd7f3fc8dfbd7e94586b3c5bd"]
+[VersionToken "42a06b33ede243b7806944f8b73aa3bea20a433dd7f3fc8dfbd7e94586b3c5bd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -206,7 +206,7 @@ So you won that trick and still had your \CQ to use after you pulled trumps.}
 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e3b05ad3f9dfd77ed42707cc0bdb35212153d370f27381c88a76bfaffd012de9"]
+[VersionToken "e3b05ad3f9dfd77ed42707cc0bdb35212153d370f27381c88a76bfaffd012de9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -244,7 +244,7 @@ Fortunately that occurs a high percentage of the time. In any case, there was no
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b3b7c3263a56a4ee04797a157cfc1ac69dc5951583b23a803834ec8f371f3672"]
+[VersionToken "b3b7c3263a56a4ee04797a157cfc1ac69dc5951583b23a803834ec8f371f3672"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

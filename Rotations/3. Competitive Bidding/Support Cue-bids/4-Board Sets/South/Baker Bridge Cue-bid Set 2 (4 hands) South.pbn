@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Cue-bid
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S 2H 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8ae54732c85d3f5121642ca42ae40aeddaa9c78c96c6f22741ecd0d031e1105e"]
+[VersionToken "8ae54732c85d3f5121642ca42ae40aeddaa9c78c96c6f22741ecd0d031e1105e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -43,7 +43,7 @@ The jump to 3 is based on the Law of Total Tricks - bidding to a trick level equ
 1H 1S 2S pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "dab9f9f9aae1e069219c6ae51ea6b44243b4e9fe17a9c0e120b3aefad1eb5e81"]
+[VersionToken "dab9f9f9aae1e069219c6ae51ea6b44243b4e9fe17a9c0e120b3aefad1eb5e81"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -66,7 +66,7 @@ You, however, have a bare-bones minimum. So you rebid a minimum 3\H, which partn
 1H 1S pass 2H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4a77e1412bdd04b07c1e1ec9758c6a0b6433897d86a59c9b2b22908458cea19e"]
+[VersionToken "4a77e1412bdd04b07c1e1ec9758c6a0b6433897d86a59c9b2b22908458cea19e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -91,7 +91,7 @@ So you cue-bid 2\H, showing a good hand with support and forcing partner to bid 
 1S 2H 3H pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8679e70fc36cdf58ed5b82df3a2e921a124c78d14d70b0fcf3113a016b2f6129"]
+[VersionToken "8679e70fc36cdf58ed5b82df3a2e921a124c78d14d70b0fcf3113a016b2f6129"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]

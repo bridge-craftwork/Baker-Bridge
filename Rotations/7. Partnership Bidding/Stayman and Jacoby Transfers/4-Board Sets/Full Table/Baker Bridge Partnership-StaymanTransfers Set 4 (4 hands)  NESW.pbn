@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-StaymanTransfers
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b3e9da1986b4a8b852d508646594a9f4420a9c3bd464ee13ae5e4679dff13432"]
+[VersionToken "b3e9da1986b4a8b852d508646594a9f4420a9c3bd464ee13ae5e4679dff13432"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -45,7 +45,7 @@ With three trumps SOUTH chooses 4\S.}
 1NT pass 2C pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "086a1436c747a76f00c2e55632cffee1b3bf6a48e454b6b0c09a94ef86c1bb08"]
+[VersionToken "086a1436c747a76f00c2e55632cffee1b3bf6a48e454b6b0c09a94ef86c1bb08"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -71,7 +71,7 @@ EAST has a full 17 points so he accepts the invitation.}
 1NT pass 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "864d958a52b8598be594c44c8c9915b5b7eabddfbbdf158eb706ca0bd2067081"]
+[VersionToken "864d958a52b8598be594c44c8c9915b5b7eabddfbbdf158eb706ca0bd2067081"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -98,7 +98,7 @@ So she bids the \S game.}
 1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
+[VersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]

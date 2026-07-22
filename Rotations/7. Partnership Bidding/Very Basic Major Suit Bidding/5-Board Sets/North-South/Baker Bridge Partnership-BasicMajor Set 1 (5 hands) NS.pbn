@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicMajor
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "736afe31e2dd63a392396ceeeeb7bf8a631780e28475bbd022d4ebd63b1818b0"]
+[VersionToken "736afe31e2dd63a392396ceeeeb7bf8a631780e28475bbd022d4ebd63b1818b0"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -43,7 +43,7 @@ has 4 points which is not strong enough to respond. So SOUTH passes.}
 1S pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b847ca9bb06fd51a6a492754aff575fa366198c52ff0c50cf654062a4cc36b32"]
+[VersionToken "b847ca9bb06fd51a6a492754aff575fa366198c52ff0c50cf654062a4cc36b32"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -72,7 +72,7 @@ If NORTH had 9 or 10 points she would now bid 4\S - but with 7 she passes.}
 pass pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c1874ece9b8609caa5152ee37bf3e3158f32d145395e08c31b182144b2947a70"]
+[VersionToken "c1874ece9b8609caa5152ee37bf3e3158f32d145395e08c31b182144b2947a70"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -101,7 +101,7 @@ In light of SOUTH's weak response NORTH passes.}
 1H pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3c9c135f001fa0fc88c1046abde81f935e383cebdc1ce9189c44e7ccca0d9eab"]
+[VersionToken "3c9c135f001fa0fc88c1046abde81f935e383cebdc1ce9189c44e7ccca0d9eab"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -130,7 +130,7 @@ have only had 6 points. So she carries on to 4\H.}
 1H pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
+[VersionToken "2faee6f4a55dd8bf06d4befc94684f58455dbe4de208d7c0dc515013987d98db"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]

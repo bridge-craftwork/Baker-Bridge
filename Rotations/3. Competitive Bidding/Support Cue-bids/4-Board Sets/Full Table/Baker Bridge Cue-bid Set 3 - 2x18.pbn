@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Cue-bid
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C 1H 1S 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "67e163ccf4165a0ef394581f7c3cdaa91f07d6ccbb59e3d85c659bd649687918"]
+[VersionToken "67e163ccf4165a0ef394581f7c3cdaa91f07d6ccbb59e3d85c659bd649687918"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -43,7 +43,7 @@ Pass. Partner had a minimum overcall so he made a minimum rebid.}
 1H 2C 3C pass 4H pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "7e04e94b4d15403aa09335e54c47090449b430ad47b9414eb8db6003e8d3b881"]
+[VersionToken "7e04e94b4d15403aa09335e54c47090449b430ad47b9414eb8db6003e8d3b881"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]

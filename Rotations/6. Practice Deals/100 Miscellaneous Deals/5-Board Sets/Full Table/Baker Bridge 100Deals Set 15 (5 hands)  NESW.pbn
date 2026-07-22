@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass 3D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bc73e7f4888baf768833918b664cb438d1fe754213975c1300daa684d53f3df5"]
+[VersionToken "bc73e7f4888baf768833918b664cb438d1fe754213975c1300daa684d53f3df5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -64,7 +64,7 @@ And you couldn't get the \D ruff until after you had forced out the \DA.}
 1H dbl pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "9538a31893a295ec7a606f173435375464df43551d4e2dfc1f3f6ab729d549bd"]
+[VersionToken "9538a31893a295ec7a606f173435375464df43551d4e2dfc1f3f6ab729d549bd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -104,7 +104,7 @@ If you tried that North would have won his \SQ, then played another \S. That wou
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "466d995730983da8b88bfa731b4db6e3d700bc52c1b083e6582c6435e30578d0"]
+[VersionToken "466d995730983da8b88bfa731b4db6e3d700bc52c1b083e6582c6435e30578d0"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -146,7 +146,7 @@ Any other plan that was based on West holding the \DK would work <b>ALMOST</b> 5
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "950bf22029e7a609d6004b2d5d59948367f2598440a17b41b605846eed932625"]
+[VersionToken "950bf22029e7a609d6004b2d5d59948367f2598440a17b41b605846eed932625"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -190,7 +190,7 @@ Set up the \D winner before you take the \H finesse and you will always be able 
 1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f8c6c7a78b4984016b752bbde4f1793817b0e9272813c1288e42e8afe89c3246"]
+[VersionToken "f8c6c7a78b4984016b752bbde4f1793817b0e9272813c1288e42e8afe89c3246"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

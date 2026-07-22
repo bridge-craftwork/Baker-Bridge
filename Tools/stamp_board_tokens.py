@@ -10,7 +10,7 @@ For every ``Package/*.pbn`` file it:
 
   1. Ensures the file-level ``%bridge-classroom-stable: true`` header is present
      (backstop for files that bypass CSV_to_PBN.py, e.g. pure-curated ones).
-  2. Stamps ``[BoardVersionToken "<64-hex-sha256>"]`` on every board — a
+  2. Stamps ``[VersionToken "<64-hex-sha256>"]`` on every board — a
      rotation-canonical content hash of the deal + auction (see below).
   3. Audits ``[SkillPath]`` on every board (non-empty, not "uncategorized").
 
@@ -101,7 +101,7 @@ def find_spade_ace(seat_hand):
 
 
 def compute_token(deal_value, dealer, call_tokens):
-    """Compute the rotation-canonical BoardVersionToken (lowercase sha256 hex)."""
+    """Compute the rotation-canonical VersionToken (lowercase sha256 hex)."""
     seat_hand = parse_deal(deal_value)
     holder = find_spade_ace(seat_hand)
     k = SEATS_CW.index(holder)  # rotation: shift so `holder` becomes North
@@ -148,14 +148,14 @@ def extract_auction(lines):
 
 
 def insert_token(board_text, token):
-    """Return board_text with [BoardVersionToken] inserted/replaced.
+    """Return board_text with [VersionToken] inserted/replaced.
 
     Placed among the optional metadata tags: after [BCFlags] when present,
     otherwise just before the first other optional tag or commentary.
     """
     lines = board_text.split("\n")
-    lines = [l for l in lines if not l.strip().startswith("[BoardVersionToken")]
-    token_line = f'[BoardVersionToken "{token}"]'
+    lines = [l for l in lines if not l.strip().startswith("[VersionToken")]
+    token_line = f'[VersionToken "{token}"]'
 
     idx = None
     for i, l in enumerate(lines):

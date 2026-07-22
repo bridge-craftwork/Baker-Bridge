@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0d5d897dbc23ff727f603376c01c6e0945794f190115504b1f86426d247efe8f"]
+[VersionToken "0d5d897dbc23ff727f603376c01c6e0945794f190115504b1f86426d247efe8f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -43,7 +43,7 @@ This is a good example. Partner may be lucky and make 4\H. But if they had had a
 1H pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9f9455839c7bf2a2e7b1b276b3cffb8f4ff73b247f1f4c06a9aed9c824e59856"]
+[VersionToken "9f9455839c7bf2a2e7b1b276b3cffb8f4ff73b247f1f4c06a9aed9c824e59856"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -68,7 +68,7 @@ Here's where a lot of players go wrong. Since they only promised 4 \Ss with thei
 1S pass 2C pass 2D pass 4S pass 4NT pass 5D pass 6S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a0435a9b730d4ea1ba41de1d5f0c046afc610aaa25c380111ccc447689267d3f"]
+[VersionToken "a0435a9b730d4ea1ba41de1d5f0c046afc610aaa25c380111ccc447689267d3f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -95,7 +95,7 @@ This is Blackwood so you answer 5\D for one Ace. Partner says 6\S.}
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ea76c5b3e19e0d28c04d923d48de244787f97bbb74f4ce05ea5e96912fca814b"]
+[VersionToken "ea76c5b3e19e0d28c04d923d48de244787f97bbb74f4ce05ea5e96912fca814b"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 %bridge-classroom-stable: true
@@ -14,7 +14,7 @@
 [Auction "N"]
 1H pass 1S pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "881b44891120bdb5792e3c4150dd83598704fff7e04b58918a3d03c645afdf29"]
+[VersionToken "881b44891120bdb5792e3c4150dd83598704fff7e04b58918a3d03c645afdf29"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -67,7 +67,7 @@ Making a plan before they play to the first trick is one of the strengths of win
 [Auction "N"]
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "b2f794bbde1b62e08090381bdda05b25952b222908f54ccdf4bc7f34b08c5bc2"]
+[VersionToken "b2f794bbde1b62e08090381bdda05b25952b222908f54ccdf4bc7f34b08c5bc2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -118,7 +118,7 @@ But look carefully at the \D situation. You are going to get exactly two \D tric
 [Auction "N"]
 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "438852c25b36364a1ebcc0271a8cd42cc7aa9e86be2d5cb5e5d0a904f2ea0092"]
+[VersionToken "438852c25b36364a1ebcc0271a8cd42cc7aa9e86be2d5cb5e5d0a904f2ea0092"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -171,7 +171,7 @@ Once again notice that playing the \CA at trick one doesn't cost a thing, you ge
 [Auction "S"]
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "eef2ceb492a6bc52c512c978ce0457c6f14ed3385d05605977924bd7e89ffb2c"]
+[VersionToken "eef2ceb492a6bc52c512c978ce0457c6f14ed3385d05605977924bd7e89ffb2c"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -220,7 +220,7 @@ Ask yourself if you would have done the correct thing at the table, say playing 
 [Auction "N"]
 1D pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a09196dbcc3807d38692eaca4d776603578e49c6864729358e2a9d4c2077fcf2"]
+[VersionToken "a09196dbcc3807d38692eaca4d776603578e49c6864729358e2a9d4c2077fcf2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -267,7 +267,7 @@ As they are, though, the contract is cold. But only if you are a good bridge pla
 [Auction "N"]
 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "1af76f1cd66b5571aa9b5bd23b1006feb2bc1b1d30c19621a1d32bbecb03b7a3"]
+[VersionToken "1af76f1cd66b5571aa9b5bd23b1006feb2bc1b1d30c19621a1d32bbecb03b7a3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -318,7 +318,7 @@ You'd have to be very careless to miss this one.}
 [Auction "N"]
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "43c90356b46d6fde2c3ce935b69b680a16d03d9d8bfecaa00225ac5a9d2175c3"]
+[VersionToken "43c90356b46d6fde2c3ce935b69b680a16d03d9d8bfecaa00225ac5a9d2175c3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -369,7 +369,7 @@ It is only because the \C opening lead gives you the chance for a Cheap-Trick th
 [Auction "N"]
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a977ae6536d627739b7ee5897c2611b045e7f86882c3e577b3d984f4ae61d318"]
+[VersionToken "a977ae6536d627739b7ee5897c2611b045e7f86882c3e577b3d984f4ae61d318"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -420,7 +420,7 @@ Then your chance of success goes way down. You would have to find East with the 
 [Auction "S"]
 2C pass 2S pass 3C pass 3NT pass 6C pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "820a0d86976cf64f7da3d9bdbfa818a943201329c7d02c4112fe4b25e356c9d8"]
+[VersionToken "820a0d86976cf64f7da3d9bdbfa818a943201329c7d02c4112fe4b25e356c9d8"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -475,7 +475,7 @@ But the singleton can be any one of four cards - in this case it can be the \CT,
 [Auction "S"]
 1H pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "ccd08b6756b270f629b47a0bc12c72b606e1808d736a637b8d89fe1c999a5aaa"]
+[VersionToken "ccd08b6756b270f629b47a0bc12c72b606e1808d736a637b8d89fe1c999a5aaa"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -522,7 +522,7 @@ It is an important concept. When you have to use a trump as a later entry you co
 [Auction "S"]
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5c76b42c76112484974b1da515b3cc8811fce284bf9cdf08ec32708336ec7d6e"]
+[VersionToken "5c76b42c76112484974b1da515b3cc8811fce284bf9cdf08ec32708336ec7d6e"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -571,7 +571,7 @@ By unblocking the \CK you were still pretty confident that you would get the two
 [Auction "S"]
 1S pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "9e673921e849b36c5455a1eeb28e5b11680e40470169e1f811adfdb47c092c9d"]
+[VersionToken "9e673921e849b36c5455a1eeb28e5b11680e40470169e1f811adfdb47c092c9d"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -624,7 +624,7 @@ Since it gave you all 6 \C tricks the sacrifice was well worth it.}
 [Auction "S"]
 1D pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "95c86a1ab25c1dc0d26d2e63c03df09d90165981008971fbfa6b16e9b2e033ad"]
+[VersionToken "95c86a1ab25c1dc0d26d2e63c03df09d90165981008971fbfa6b16e9b2e033ad"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -673,7 +673,7 @@ Here's a question: How many times at the table have situations like this present
 [Auction "N"]
 1D pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d3f315277c65aad02920bc9980bbdc12558e77ee13bcbd560fe5f5f9b5df1aad"]
+[VersionToken "d3f315277c65aad02920bc9980bbdc12558e77ee13bcbd560fe5f5f9b5df1aad"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -720,7 +720,7 @@ It looks a little different, but the theme is the same. PROTECT YOUR ENTRY.}
 [Auction "S"]
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "edcbc1862b8ca27fdbeed2fde4ad146bce223dd1a5491dbf3350e97d275a9048"]
+[VersionToken "edcbc1862b8ca27fdbeed2fde4ad146bce223dd1a5491dbf3350e97d275a9048"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -775,7 +775,7 @@ Or you might try leading the \CQ hoping that East will see this as a time to "co
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f4b86bea009e33139fdcf9d8543ffbb9605b8ee226da1b22a773984e75637833"]
+[VersionToken "f4b86bea009e33139fdcf9d8543ffbb9605b8ee226da1b22a773984e75637833"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -824,7 +824,7 @@ Here is an interesting point. Suppose that West's opening lead had been a \H and
 [Auction "S"]
 2C pass 2D pass 3D pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "c3d7d6e4981df88af5a245977921aa6a9146f355f718003d8bfb81153e609dcf"]
+[VersionToken "c3d7d6e4981df88af5a245977921aa6a9146f355f718003d8bfb81153e609dcf"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -873,7 +873,7 @@ Maybe after the hand is over he will appreciate it more and congratulate you.}
 [Auction "N"]
 2C pass 2S pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "76ac88a0d37e1c24300a78b820075019dcc5b26ea66095ce0fa456b719f6276f"]
+[VersionToken "76ac88a0d37e1c24300a78b820075019dcc5b26ea66095ce0fa456b719f6276f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -922,7 +922,7 @@ Isn't it nice to have a finesse that wins if it wins but also wins if it loses?}
 [Auction "S"]
 2C pass 2H pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a2a16f1c34f5d2db2d7fcb27204f70cb96c8655dc73f53f2b111d9cff2cfa748"]
+[VersionToken "a2a16f1c34f5d2db2d7fcb27204f70cb96c8655dc73f53f2b111d9cff2cfa748"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -975,7 +975,7 @@ And as you have figured by now, assessing how many entries you are going to need
 [Auction "S"]
 2C pass 2H pass 2S pass 3H pass 6S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "75e15b9e6fee7e3295eb2c8e9602097b0c74a61138acf5c78324fb3484992567"]
+[VersionToken "75e15b9e6fee7e3295eb2c8e9602097b0c74a61138acf5c78324fb3484992567"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]

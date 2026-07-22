@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Trumpmgmt
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 1NT pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ad92fcb945f75a068cdefd732fefd768ee38b5c4d94d704441617f8ddd5fc857"]
+[VersionToken "ad92fcb945f75a068cdefd732fefd768ee38b5c4d94d704441617f8ddd5fc857"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -55,7 +55,7 @@ But you don't have to lose anything else as long as you don't lose trump control
 2C pass 2D pass 2S pass 3H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "7cf0a21b190cbd6be97c0bc2414ae593614f8b5c0068a65c0ab1d76806fe7319"]
+[VersionToken "7cf0a21b190cbd6be97c0bc2414ae593614f8b5c0068a65c0ab1d76806fe7319"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -91,7 +91,7 @@ So you give up a trump trick and gain two \H tricks in return. What a deal.}
 1C pass 1NT pass 3C pass 4C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6aaff617c1d18a20f06954a1aba0e48cbc4c360573ca5cbd4e8a032dbf6f0d19"]
+[VersionToken "6aaff617c1d18a20f06954a1aba0e48cbc4c360573ca5cbd4e8a032dbf6f0d19"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -129,7 +129,7 @@ So you couldn't pull that one round of trumps because you couldn't waste either 
 1H pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "f4f81eb05aa3d306ea1f3a53488de9c6003128d3b25374cd4eb996f5a5ce0b57"]
+[VersionToken "f4f81eb05aa3d306ea1f3a53488de9c6003128d3b25374cd4eb996f5a5ce0b57"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -163,7 +163,7 @@ He would have ruffed the third \C, before you could discard a \S loser from your
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "41b52bbe7604648ff95146b01354afc64788b7ee030cd54cc4697ee3c51593f0"]
+[VersionToken "41b52bbe7604648ff95146b01354afc64788b7ee030cd54cc4697ee3c51593f0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]

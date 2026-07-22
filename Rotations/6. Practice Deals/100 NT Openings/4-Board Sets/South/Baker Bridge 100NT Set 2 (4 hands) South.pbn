@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2H pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "241e5cefc6c6ac47be18676c57e5f2e999631d6b46ffa9a4e9f39578c3c7e299"]
+[VersionToken "241e5cefc6c6ac47be18676c57e5f2e999631d6b46ffa9a4e9f39578c3c7e299"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -58,7 +58,7 @@ If they had been 3-1 you would have had to leave the last trump undrawn until af
 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e39f438cf2ec3eae87a904dcb4b2204342ab8825fb80dde7db0fef30377d9e90"]
+[VersionToken "e39f438cf2ec3eae87a904dcb4b2204342ab8825fb80dde7db0fef30377d9e90"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -104,7 +104,7 @@ When the cards MUST lie in a particular way for the contract to be makeable, jus
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8b714c2cc587c94749e466c4994f375f9eda9b8fa6458e8690fdd4350e473a9b"]
+[VersionToken "8b714c2cc587c94749e466c4994f375f9eda9b8fa6458e8690fdd4350e473a9b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -146,7 +146,7 @@ It only fails if West holds 4 or more \Ss headed by A K.}
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "57b908ad507776921fb667553119dae7480eeca07605b9efe1c5359785dfd16a"]
+[VersionToken "57b908ad507776921fb667553119dae7480eeca07605b9efe1c5359785dfd16a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

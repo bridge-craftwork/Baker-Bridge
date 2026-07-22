@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-WeakTwos
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "64a891a90a1c8dff0642ad900e7e83d3f8ebc12fa9a36ffb0af820a62b2c859a"]
+[VersionToken "64a891a90a1c8dff0642ad900e7e83d3f8ebc12fa9a36ffb0af820a62b2c859a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -42,7 +42,7 @@ a hand this good. SOUTH then bids the \S game.}
 3H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ab3ad96f038dc2e97d6aecfff8039e3ab2f36355bc73ddb6f825e2abf836e4dd"]
+[VersionToken "ab3ad96f038dc2e97d6aecfff8039e3ab2f36355bc73ddb6f825e2abf836e4dd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -67,7 +67,7 @@ When SOUTH shows one Ace NORTH can bid 6\H with confidence.}
 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "55434bc1870cefcfdf22c4059f1f165eefa7594294f39e9743297cc8a593f81f"]
+[VersionToken "55434bc1870cefcfdf22c4059f1f165eefa7594294f39e9743297cc8a593f81f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]
@@ -92,7 +92,7 @@ but 5\C would go down 1.}
 2H pass 2NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b668b1826052e2bf98e8202cad99657fd8e9d59b7b43e1f58c0fe15e6af50738"]
+[VersionToken "b668b1826052e2bf98e8202cad99657fd8e9d59b7b43e1f58c0fe15e6af50738"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/weak_twos"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT 2S 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bc91bbba8bfd214666ae80261e10fc33ae6cedee313312d0f89761b499f67ee7"]
+[VersionToken "bc91bbba8bfd214666ae80261e10fc33ae6cedee313312d0f89761b499f67ee7"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -68,7 +68,7 @@ But think about it. If West does in fact hold the singleton \HK, and if you clev
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "0f56a9276ce8d60b97de59910048578b794f0ee05ab6a6aa21d79c3cda8ade80"]
+[VersionToken "0f56a9276ce8d60b97de59910048578b794f0ee05ab6a6aa21d79c3cda8ade80"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -110,7 +110,7 @@ The key is your ability to choose which defender you want to duck the trick into
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "220adb2bd8aadb43d061263ee4cfbc22113e3b655dd4de6fe350e44dbd260c4b"]
+[VersionToken "220adb2bd8aadb43d061263ee4cfbc22113e3b655dd4de6fe350e44dbd260c4b"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -156,7 +156,7 @@ He would have been very, very sorry. You would have had no choice but to win the
 1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "2c0174c72c279453eaf023ba7edf7ef0ddbbe7c38207b28f07038d049a3afc2a"]
+[VersionToken "2c0174c72c279453eaf023ba7edf7ef0ddbbe7c38207b28f07038d049a3afc2a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -200,7 +200,7 @@ So you use the duck instead.}
 2NT pass 3H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ebff17d09299ca9eb8447514c81f651015d76437a168008023b65e01d86b783d"]
+[VersionToken "ebff17d09299ca9eb8447514c81f651015d76437a168008023b65e01d86b783d"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

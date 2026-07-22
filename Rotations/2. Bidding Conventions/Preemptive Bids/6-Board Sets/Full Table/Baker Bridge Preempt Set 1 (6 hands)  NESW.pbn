@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Preempt
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 3D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bc2c8fd946afad7547cce4b529bf2e1a846199ce24fcbc102b56212b9974e48b"]
+[VersionToken "bc2c8fd946afad7547cce4b529bf2e1a846199ce24fcbc102b56212b9974e48b"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -40,7 +40,7 @@ You estimate you can win 6 \D tricks so you open 3\D. Everybody passes.}
 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "0d5486e9619b295878ab2b051dd1e8aa3e5927f5b0630a42d18f8dd18398f72d"]
+[VersionToken "0d5486e9619b295878ab2b051dd1e8aa3e5927f5b0630a42d18f8dd18398f72d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -65,7 +65,7 @@ Here's a pretty good tip:When partner opens with a 3-bid and you are trying to d
 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ed0d6104e1958d0da5617320e8901e055deb6d77c93c827e0736efac16c8daaf"]
+[VersionToken "ed0d6104e1958d0da5617320e8901e055deb6d77c93c827e0736efac16c8daaf"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -90,7 +90,7 @@ When you preempted 3\H you described your hand perfectly. You have nothing more 
 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "02f2f3812266079072115d59901b47eecf1a5e7e53ff90a733ea8ab590b5f3e8"]
+[VersionToken "02f2f3812266079072115d59901b47eecf1a5e7e53ff90a733ea8ab590b5f3e8"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -115,7 +115,7 @@ Fortune favors the bold so you bid 4\H . . . and live happily ever after.}
 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "211c212707f45cf0da5cd3398e8d7924ce8c7d1c8b87dab864b642a7b2aa3110"]
+[VersionToken "211c212707f45cf0da5cd3398e8d7924ce8c7d1c8b87dab864b642a7b2aa3110"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]
@@ -142,7 +142,7 @@ This is what preempting is all about.}
 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "cac8a8c47f2e3edd2b46df55b8355cb17e8e370fa506d16bbcb9abec7bb164bf"]
+[VersionToken "cac8a8c47f2e3edd2b46df55b8355cb17e8e370fa506d16bbcb9abec7bb164bf"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/preemptive_bids"]

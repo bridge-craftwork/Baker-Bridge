@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Minor
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3187dd05d014520d5eeb9ffd8e8ee626e6cdc8bd8cb3ce8ddc6b0d7ad1f510e9"]
+[VersionToken "3187dd05d014520d5eeb9ffd8e8ee626e6cdc8bd8cb3ce8ddc6b0d7ad1f510e9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -43,7 +43,7 @@ Are you tempted to bid 3\S since partner raised you? Don't be. He showed a minim
 1D pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "b250f5778fcdab04d3d22360290f49cba41e8a203bc57770ef14c6877c0af3b9"]
+[VersionToken "b250f5778fcdab04d3d22360290f49cba41e8a203bc57770ef14c6877c0af3b9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -68,7 +68,7 @@ Remember "She who knows, goes"? You know of the 8-card Major fit. You know of at
 1C pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a56a373031641c0ebc412a6887383e859cd34e1b762dcf01668166c519512760"]
+[VersionToken "a56a373031641c0ebc412a6887383e859cd34e1b762dcf01668166c519512760"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -93,7 +93,7 @@ Perfect bidding isn't always rewarded. They can win three \D tricks and the Ace 
 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "d372841fd5a548e83265cb58f01e158bef6addd6c1f7efacc9fbd5d9aaa94569"]
+[VersionToken "d372841fd5a548e83265cb58f01e158bef6addd6c1f7efacc9fbd5d9aaa94569"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -118,7 +118,7 @@ Anyway, you bid 2NT and partner raises to 3NT.}
 1C pass 1H pass 1S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "341b8767c8d9bd3ae7f6267d18342607a7831e755ff0132c1aca491863f9f498"]
+[VersionToken "341b8767c8d9bd3ae7f6267d18342607a7831e755ff0132c1aca491863f9f498"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]

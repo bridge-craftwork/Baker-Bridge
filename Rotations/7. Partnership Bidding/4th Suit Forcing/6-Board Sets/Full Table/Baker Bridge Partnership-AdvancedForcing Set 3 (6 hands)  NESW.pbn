@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-AdvancedForcing
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5d596aebd8df44a3851cf700d3086f75311262a383e8ffa5587415d7925b067b"]
+[VersionToken "5d596aebd8df44a3851cf700d3086f75311262a383e8ffa5587415d7925b067b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -41,7 +41,7 @@ SOUTH has 8 points and the doubleton \C K Q so he bids the game.}
 1C pass 1D pass 1H pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "6eeda228475348205d86c2245265ebc5864f05061754a72a80e55210e237fffb"]
+[VersionToken "6eeda228475348205d86c2245265ebc5864f05061754a72a80e55210e237fffb"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -68,7 +68,7 @@ EAST, win a fine \S stopper, bids 3NT.}
 1C pass 1S pass 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e4530204b203acc529ddfa56b36d2ce3a48b48bff94d9b4e1f28c49eae736435"]
+[VersionToken "e4530204b203acc529ddfa56b36d2ce3a48b48bff94d9b4e1f28c49eae736435"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -94,7 +94,7 @@ first priority.}
 1C pass 1D pass 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "112b1de66d20bf5a5b7d11ae765af9d591d7dd9008addc71b8d87bf456ba9be2"]
+[VersionToken "112b1de66d20bf5a5b7d11ae765af9d591d7dd9008addc71b8d87bf456ba9be2"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -118,7 +118,7 @@ So EAST shows the 4-card support and WEST bids game.}
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d5c08543c608c22147aaff3e2290fd33d835aaf480395c7e3dc438e16737e43b"]
+[VersionToken "d5c08543c608c22147aaff3e2290fd33d835aaf480395c7e3dc438e16737e43b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -143,7 +143,7 @@ so he bids the game.}
 1C pass 1D pass 1S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "0f345c1e54c48ddc2acf80c7243b52affca74b9641fd0a99370229b6ef7652a9"]
+[VersionToken "0f345c1e54c48ddc2acf80c7243b52affca74b9641fd0a99370229b6ef7652a9"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]

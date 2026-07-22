@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-TwoClub
 %bridge-classroom-stable: true
@@ -15,7 +15,7 @@
 [Auction "N"]
 2C pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "0b8c66d928866f97e527106f4e897c1c78de61f5d105f30463d2904650e20567"]
+[VersionToken "0b8c66d928866f97e527106f4e897c1c78de61f5d105f30463d2904650e20567"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -48,7 +48,7 @@ SOUTH does not have to bid the double negative over a 2NT bid, so he passes.}
 [Auction "S"]
 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "731b076b22f6d79257a82a2f69e51dd340bca5f4438dd0a87d28866722f1327b"]
+[VersionToken "731b076b22f6d79257a82a2f69e51dd340bca5f4438dd0a87d28866722f1327b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -80,7 +80,7 @@ NORTH bids 3NT, knowing that the partnership holds at least 27 points.}
 [Auction "N"]
 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7071750f311e73c6a409bbd204ad69aed624e27a96519c0c98a9584f2ab6e9ff"]
+[VersionToken "7071750f311e73c6a409bbd204ad69aed624e27a96519c0c98a9584f2ab6e9ff"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -116,7 +116,7 @@ bids 3NT.}
 [Auction "S"]
 2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "607914f955bb539e79738bb2630034b6707f324fbeb305634a7712025cf8cd73"]
+[VersionToken "607914f955bb539e79738bb2630034b6707f324fbeb305634a7712025cf8cd73"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -151,7 +151,7 @@ bids 4\H.}
 [Auction "N"]
 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "889efab8458a4b157fd9046afcf2118d2e06991be3f67f90165807fdf80d9b9a"]
+[VersionToken "889efab8458a4b157fd9046afcf2118d2e06991be3f67f90165807fdf80d9b9a"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -186,7 +186,7 @@ SOUTH knows there is no slam, so he passes 3NT.}
 [Auction "S"]
 2C pass 2D pass 2H pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "09de171f43d5af99dc7ab4e6ee5daeb0443b06ee8a5f16dd60f89a90bf17fe81"]
+[VersionToken "09de171f43d5af99dc7ab4e6ee5daeb0443b06ee8a5f16dd60f89a90bf17fe81"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -224,7 +224,7 @@ SOUTH rebids his suit, 3\H, and NORTH passes.}
 [Auction "N"]
 2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
+[VersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -259,7 +259,7 @@ When SOUTH shows one Ace NORTH bids 6\H.}
 [Auction "S"]
 2C pass 2S pass 3S pass 4C pass 4D pass 4NT pass 5S pass 7S all pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
+[VersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -292,7 +292,7 @@ bids 7\S.}
 [Auction "N"]
 2C pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "96b4eb44cf5ab66245fb301976ffefa19cdcc59a957c7ce68a4124b403010d6f"]
+[VersionToken "96b4eb44cf5ab66245fb301976ffefa19cdcc59a957c7ce68a4124b403010d6f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -328,7 +328,7 @@ to 4\S which NORTH passes.}
 [Auction "S"]
 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "93e6c837f3d3a3f997ab1d2c8bc0c709e98ea4668e2fda4e5771100e8fc060e7"]
+[VersionToken "93e6c837f3d3a3f997ab1d2c8bc0c709e98ea4668e2fda4e5771100e8fc060e7"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -358,7 +358,7 @@ SOUTH bids what his hand is worth, 3NT and NORTH passes.}
 [Auction "N"]
 2C pass 2D pass 2NT pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "e0b5e6cd97604cb1266dd1a7216c70ebbbc60760b553d6080d9fd3b75f2504a9"]
+[VersionToken "e0b5e6cd97604cb1266dd1a7216c70ebbbc60760b553d6080d9fd3b75f2504a9"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -393,7 +393,7 @@ So NORTH shows her 4-card \H suit and SOUTH bids 4\H.}
 [Auction "S"]
 2C pass 2NT pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "01e0efa7c03115794b8c383918d9d0158afb2523347b2260890a83502d244f61"]
+[VersionToken "01e0efa7c03115794b8c383918d9d0158afb2523347b2260890a83502d244f61"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -423,7 +423,7 @@ NORTH knows the side has at least 33 points, but no more than 35 so she bids 6NT
 [Auction "N"]
 2C pass 2D pass 2S pass 2NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "0215a4acae5ab4042ee3fab09dc7b44ec2d878196d686e4155ebc9f80cd8168b"]
+[VersionToken "0215a4acae5ab4042ee3fab09dc7b44ec2d878196d686e4155ebc9f80cd8168b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -459,7 +459,7 @@ SOUTH is happy to bid the game in \Hs.}
 [Auction "S"]
 2C pass 3D pass 3NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "11402e192ced18415a448527e4e2b4907ee7c1d55241f6a75d8b3d7ba7428459"]
+[VersionToken "11402e192ced18415a448527e4e2b4907ee7c1d55241f6a75d8b3d7ba7428459"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -494,7 +494,7 @@ NORTH bids 6NT, knowing that the partnership holds at least 34 points.}
 [Auction "N"]
 2C pass 2S pass 3H pass 4H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "6b5c4cfd3b78b0abf85792daf4a9070e16b3763025ce166432c1e252478766c3"]
+[VersionToken "6b5c4cfd3b78b0abf85792daf4a9070e16b3763025ce166432c1e252478766c3"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -526,7 +526,7 @@ NORTH thinks there is a slam, so she invokes Blackwood. Hearing that SOUTH holds
 [Auction "S"]
 2C pass 2D pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "1097c38bc165438c9be861a2d0e3ee36b7aae114a74e03fc1ca6ce4d46cc24f0"]
+[VersionToken "1097c38bc165438c9be861a2d0e3ee36b7aae114a74e03fc1ca6ce4d46cc24f0"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -560,7 +560,7 @@ SOUTH doesn't have enough to think about slam, so he signs off at 4\S.}
 [Auction "N"]
 2C pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "f7d2bef6ac955fb953daae2e0ab99c970080a65b728e4fa90ea1aac18a034407"]
+[VersionToken "f7d2bef6ac955fb953daae2e0ab99c970080a65b728e4fa90ea1aac18a034407"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -591,7 +591,7 @@ NORTH figures SOUTH for 8 points and bids 6NT. If SOUTH has significantly more t
 [Auction "S"]
 2C pass 2H pass 2S pass 3H pass 6H pass pass all pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "70bbdd9a2b755e255e0bc407d55cd4b048da1526de6a1039bbe4540220083a13"]
+[VersionToken "70bbdd9a2b755e255e0bc407d55cd4b048da1526de6a1039bbe4540220083a13"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -626,7 +626,7 @@ good, he might bid 6NT.}
 [Auction "N"]
 2C pass 2NT pass 3C pass 3S pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "449caef41a8344b8ee50abdfa17a7fe3ad80161549e9f88b276eb537e49d033b"]
+[VersionToken "449caef41a8344b8ee50abdfa17a7fe3ad80161549e9f88b276eb537e49d033b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -658,7 +658,7 @@ Now SOUTH adds his 12 points to NORTH's 22 minimum and gets 34. He bids 6\S.}
 [Auction "S"]
 2C pass 2D pass 2S pass 3C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3026efd51c9531d32eca78f734b74452ba68e17b750787d575c15f1e2b1fac0e"]
+[VersionToken "3026efd51c9531d32eca78f734b74452ba68e17b750787d575c15f1e2b1fac0e"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -686,7 +686,7 @@ and bids 4\H.}
 [Auction "N"]
 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "fc8cbe218c67697fac7d45f49e904607295084c68dad6656e21b32b9040abcb1"]
+[VersionToken "fc8cbe218c67697fac7d45f49e904607295084c68dad6656e21b32b9040abcb1"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -717,7 +717,7 @@ Since NORTH has just the 8 points minimum that he promised, he passes 3NT.}
 [Auction "S"]
 2C pass 2D pass 2NT pass 3C pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d79a7bda5f5f01df2316a50b090e0c113bd27cbca7bc7008cef5a9051d85388b"]
+[VersionToken "d79a7bda5f5f01df2316a50b090e0c113bd27cbca7bc7008cef5a9051d85388b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -755,7 +755,7 @@ When SOUTH shows his \S suit NORTH bids 4\S.}
 [Auction "N"]
 2C pass 2NT pass 4C pass 4S pass 5C pass 5H pass 7NT all pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a6170f9334002978ef14c6609c5dafbf381683edb5646b066be8239337113071"]
+[VersionToken "a6170f9334002978ef14c6609c5dafbf381683edb5646b066be8239337113071"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -791,7 +791,7 @@ Next NORTH should ask for Kings, and when SOUTH shows one King NORTH should bid 
 [Auction "S"]
 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "95490a29956197eac5dd5c354a5365e4d1ab93003bd98cd50ad65761d3452309"]
+[VersionToken "95490a29956197eac5dd5c354a5365e4d1ab93003bd98cd50ad65761d3452309"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Ogust
 %bridge-classroom-stable: true
@@ -15,7 +15,7 @@
 [Auction "S"]
 2H pass 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7a7d676d15b13b4b6a64f9e4698dc22e36b3084b03d004efaab624b763db0b83"]
+[VersionToken "7a7d676d15b13b4b6a64f9e4698dc22e36b3084b03d004efaab624b763db0b83"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -35,7 +35,7 @@ In reply to partner's Ogust 2NT you say 3\C, showing a minimum hand along with a
 [Auction "W"]
 pass 2H pass 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "8ad2453f14d3fef9f82de582660eaf470b5a18660e9923fa1a018a2b57e0d444"]
+[VersionToken "8ad2453f14d3fef9f82de582660eaf470b5a18660e9923fa1a018a2b57e0d444"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -57,7 +57,7 @@ Partner's 3\C bid shows a weak hand and a poor suit. So you reluctantly settle f
 [Auction "S"]
 2S pass 2NT pass 3D pass 3S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "1ec42e438532b32f9082927118c1ce7016a46f76295cf1cdbc4ae1b45e2c5f78"]
+[VersionToken "1ec42e438532b32f9082927118c1ce7016a46f76295cf1cdbc4ae1b45e2c5f78"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -77,7 +77,7 @@ In reply to partner's Ogust 2NT you say 3\D, showing a minimum hand along with a
 [Auction "W"]
 pass 2S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "94cc3560c4d4621b0159f6cf53a3d32008923b86454f738870ea6a6cf904da9f"]
+[VersionToken "94cc3560c4d4621b0159f6cf53a3d32008923b86454f738870ea6a6cf904da9f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -99,7 +99,7 @@ Partner's 3\H bid shows a maximum hand and a poor suit. Your \SK should be enoug
 [Auction "S"]
 2S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "ca17fd059ecee02f9bc77cd7f6ec758eb3b50d64b28ba656c60a5f0962c34b74"]
+[VersionToken "ca17fd059ecee02f9bc77cd7f6ec758eb3b50d64b28ba656c60a5f0962c34b74"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -117,7 +117,7 @@ Partner's 3\H bid shows a maximum hand and a poor suit. Your \SK should be enoug
 [Auction "W"]
 pass 2D pass 2NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a0522312d4d038e8c1444cba96cd416dee0b6dc19601b2a2c38832b02ff957bc"]
+[VersionToken "a0522312d4d038e8c1444cba96cd416dee0b6dc19601b2a2c38832b02ff957bc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -139,7 +139,7 @@ Partner's 3\D bid shows a minimum hand but a good suit, which should mean two of
 [Auction "S"]
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5b645c9cb44326d50235ddf11f598d60f2e2e2c5ab2e70a8f6072a0fa6cf61be"]
+[VersionToken "5b645c9cb44326d50235ddf11f598d60f2e2e2c5ab2e70a8f6072a0fa6cf61be"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -157,7 +157,7 @@ Partner's 3\D bid shows a minimum hand but a good suit, which should mean two of
 [Auction "W"]
 pass 2H pass 2NT pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a0b061e172663f1c2c0ffa0091c30ff465a3e956056c042db7a4108e9111281c"]
+[VersionToken "a0b061e172663f1c2c0ffa0091c30ff465a3e956056c042db7a4108e9111281c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -177,7 +177,7 @@ Partner's 3NT bid describes his hand exactly; \H A K Q x x x and nothing else. Y
 [Auction "S"]
 2H pass 2NT pass 3S pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "c3f95be26ecd8593379aa05595e59d1f0de36e76cd4519c375c80bc93528948e"]
+[VersionToken "c3f95be26ecd8593379aa05595e59d1f0de36e76cd4519c375c80bc93528948e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -195,7 +195,7 @@ Partner's 3NT bid describes his hand exactly; \H A K Q x x x and nothing else. Y
 [Auction "W"]
 pass 2S pass 2NT pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "376d931f2971e2f3cdb85068f8880036b09ea8362b0da21f4a7f5384fc25c66c"]
+[VersionToken "376d931f2971e2f3cdb85068f8880036b09ea8362b0da21f4a7f5384fc25c66c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]

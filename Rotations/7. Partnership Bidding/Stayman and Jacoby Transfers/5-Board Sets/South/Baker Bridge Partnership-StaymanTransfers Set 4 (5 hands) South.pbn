@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-StaymanTransfers
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
+[VersionToken "43451006b5ac54ff677d3b4631eeed60118d80b57ec314783fd69015d636a487"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -44,7 +44,7 @@ she bids 4\H.}
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e0442c581a98c98f349465bb7454c4a79dbd90ddf6958048e4d530565b09f5fb"]
+[VersionToken "e0442c581a98c98f349465bb7454c4a79dbd90ddf6958048e4d530565b09f5fb"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -70,7 +70,7 @@ an 8-card Major suit fit. With the fit her hand now revalues to 11 points so she
 1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "399a8b59118a0071f11e10a39d97b31f067d344c142f6dd61b951606c7563ef8"]
+[VersionToken "399a8b59118a0071f11e10a39d97b31f067d344c142f6dd61b951606c7563ef8"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -97,7 +97,7 @@ chooses to play 3NT.}
 1NT pass 2C pass 2D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8fe31d18db89299c308926fcd052e2ea65bc23f5affae36978aa90da2bfe84df"]
+[VersionToken "8fe31d18db89299c308926fcd052e2ea65bc23f5affae36978aa90da2bfe84df"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]
@@ -123,7 +123,7 @@ the game where he knows the partnership holds eight trumps.}
 1NT pass 2D pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "df843d9755544a1f225349eebd07877c86ca31a34df004c686a4c4296a6fb2a0"]
+[VersionToken "df843d9755544a1f225349eebd07877c86ca31a34df004c686a4c4296a6fb2a0"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/stayman_transfers"]

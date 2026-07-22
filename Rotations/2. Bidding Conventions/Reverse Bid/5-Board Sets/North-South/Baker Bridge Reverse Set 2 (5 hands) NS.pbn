@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "20376091cbbbbb34fd6570a4fa0452817327d32f5d4a6ab0da6a6057b7d3ae17"]
+[VersionToken "20376091cbbbbb34fd6570a4fa0452817327d32f5d4a6ab0da6a6057b7d3ae17"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -44,7 +44,7 @@ Things would have gotten confusing, to say the least.}
 1C pass 1H pass 2D pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ddeceb7f7f9d7cbd9745795acd2d96b11a25f33d2602a37fdb8c13d64a444eea"]
+[VersionToken "ddeceb7f7f9d7cbd9745795acd2d96b11a25f33d2602a37fdb8c13d64a444eea"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -69,7 +69,7 @@ Mercifully he passes.}
 1D pass 1S pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b7924e6a4134b61ba8b23e0d6eb7e7b6e19d2e967838c75c88f92f4ab0a3f338"]
+[VersionToken "b7924e6a4134b61ba8b23e0d6eb7e7b6e19d2e967838c75c88f92f4ab0a3f338"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -90,7 +90,7 @@ Mercifully he passes.}
 1C pass 1H pass 2D pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5b898c86243dbaa0cd7f8a1e51db2ba86b3e033b0c0814b0cec511a75a0d55f1"]
+[VersionToken "5b898c86243dbaa0cd7f8a1e51db2ba86b3e033b0c0814b0cec511a75a0d55f1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -115,7 +115,7 @@ So you pass. It's a good thing, too.}
 1C pass 1H pass 2D pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d0b50d58dd1f48d36e32c37c2ef7c778238a4df673d0ffd10ccd65ab0ffe0120"]
+[VersionToken "d0b50d58dd1f48d36e32c37c2ef7c778238a4df673d0ffd10ccd65ab0ffe0120"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]

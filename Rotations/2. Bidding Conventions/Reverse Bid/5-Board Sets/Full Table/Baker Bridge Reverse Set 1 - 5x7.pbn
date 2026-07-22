@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Reverse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "facedc511c61c6474a068a4c54254de7ebf8b34ca040a7c89b2157c70d634dec"]
+[VersionToken "facedc511c61c6474a068a4c54254de7ebf8b34ca040a7c89b2157c70d634dec"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -42,7 +42,7 @@ Partner now takes control and bids the \S game.}
 1C pass 1S pass 1NT pass 3NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "26f6fdcba8b783849953a3915a245b65171da544215e280ff873cbed33ebc3fd"]
+[VersionToken "26f6fdcba8b783849953a3915a245b65171da544215e280ff873cbed33ebc3fd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -65,7 +65,7 @@ So with your minimum hand you bid 1NT which partner raises to 3NT.}
 1C pass 1H pass 2D pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5bc1256602f174713158e1d218d55c40493e991de5c7cb2da880ff485323a946"]
+[VersionToken "5bc1256602f174713158e1d218d55c40493e991de5c7cb2da880ff485323a946"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -92,7 +92,7 @@ Instead you bid 2NT. Partner has a bare 17 so he passes.}
 1C pass 1S pass 2D pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "33562323938997e9c8a159044f3975e4de416b37f07e35f39b34883f21cfe361"]
+[VersionToken "33562323938997e9c8a159044f3975e4de416b37f07e35f39b34883f21cfe361"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]
@@ -115,7 +115,7 @@ Partner's jump bid shows a 6-card suit and enough points to insist on game. You 
 1C pass 1S pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cccd41802764a07a7d07f3017305090a5d28dbd61ec20d3e78c49af40d8b90c1"]
+[VersionToken "cccd41802764a07a7d07f3017305090a5d28dbd61ec20d3e78c49af40d8b90c1"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2D pass 2S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8b089d2112bd62bbe1f1a66b4ff5b880961a1f33e1da0ae70fa0e912d1c88d21"]
+[VersionToken "8b089d2112bd62bbe1f1a66b4ff5b880961a1f33e1da0ae70fa0e912d1c88d21"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -44,7 +44,7 @@ might possibly make all thirteen tricks with a finesse.}
 2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "fb516c5c6ea54277b454cf9cddc1d1e0e7290cde93a79016aadacbedfd215b61"]
+[VersionToken "fb516c5c6ea54277b454cf9cddc1d1e0e7290cde93a79016aadacbedfd215b61"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -72,7 +72,7 @@ to 6\H.}
 2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "303dcc5618cb1c3c520c9aa3684d7d8bcb0c18da9cf6523558495dac830c4a74"]
+[VersionToken "303dcc5618cb1c3c520c9aa3684d7d8bcb0c18da9cf6523558495dac830c4a74"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -100,7 +100,7 @@ to 6\H anyway.}
 1H pass 2S pass 3C pass 3H pass 4H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "50825a82ed96d5140ab7e583545c56833d45557b2cc5e6013f2ebefc4e31e3cc"]
+[VersionToken "50825a82ed96d5140ab7e583545c56833d45557b2cc5e6013f2ebefc4e31e3cc"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]

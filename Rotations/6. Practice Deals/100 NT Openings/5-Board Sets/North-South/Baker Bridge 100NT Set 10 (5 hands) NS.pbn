@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e538c755ee82c9dfb330782489844d1aec6aec0f74900ef2f70a7761d2ea3491"]
+[VersionToken "e538c755ee82c9dfb330782489844d1aec6aec0f74900ef2f70a7761d2ea3491"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -62,7 +62,7 @@ You pull trumps first, then play two top \Cs. When both defenders follow you giv
 2H 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6300b525a4c1ac5910ccaf9f5aea3e2ffbae07936ddc4d77f4bc40d9477fffd3"]
+[VersionToken "6300b525a4c1ac5910ccaf9f5aea3e2ffbae07936ddc4d77f4bc40d9477fffd3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -106,7 +106,7 @@ If you hold up on first trick luck won't come into it. It will no longer matter 
 1NT 2H 3C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "89517cc52532143a3c91d03c239c32c9f47f44317a77dc50286b89b2de232047"]
+[VersionToken "89517cc52532143a3c91d03c239c32c9f47f44317a77dc50286b89b2de232047"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -146,7 +146,7 @@ Always keep in the back of your mind the possibility of an elimination play. In 
 1NT pass 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "48405443ad8844a8e0ae5bd389a2a8ff287ec84d5a4630165694d54c7a9ae990"]
+[VersionToken "48405443ad8844a8e0ae5bd389a2a8ff287ec84d5a4630165694d54c7a9ae990"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -194,7 +194,7 @@ This is called "trump elopement".}
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "86badfbf6e014825175bf3f3cfb58bd86269c9d91dd1412b95bfd8b1ef71bd98"]
+[VersionToken "86badfbf6e014825175bf3f3cfb58bd86269c9d91dd1412b95bfd8b1ef71bd98"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

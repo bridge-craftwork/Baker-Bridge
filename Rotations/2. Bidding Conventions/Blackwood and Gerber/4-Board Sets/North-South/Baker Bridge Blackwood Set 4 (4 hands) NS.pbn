@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Blackwood
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 3S pass 4C pass 4H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e78905ee605da9e433e89a7bec296763ad234866ff88aa25244bfce4a1628304"]
+[VersionToken "e78905ee605da9e433e89a7bec296763ad234866ff88aa25244bfce4a1628304"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -45,7 +45,7 @@ The good news is that partner's control-showing bid says he has the \HA. The bad
 pass 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2978084c8bab0c6c65268af85f61db85e47da46ec5dd3924182b01ff953f22ea"]
+[VersionToken "2978084c8bab0c6c65268af85f61db85e47da46ec5dd3924182b01ff953f22ea"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -68,7 +68,7 @@ pass 1NT pass 4NT pass 6NT pass pass pass
 1H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1678be9e527d4ba976e187056194fe953390cc3c54f176d327ea61d4109e0f1f"]
+[VersionToken "1678be9e527d4ba976e187056194fe953390cc3c54f176d327ea61d4109e0f1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -91,7 +91,7 @@ Missing one Ace you bid 6\H.}
 1D pass 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "64c7b2196464306c5fabad1453f15cc7ba6d922e930474158a68b0656bacfaf6"]
+[VersionToken "64c7b2196464306c5fabad1453f15cc7ba6d922e930474158a68b0656bacfaf6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]

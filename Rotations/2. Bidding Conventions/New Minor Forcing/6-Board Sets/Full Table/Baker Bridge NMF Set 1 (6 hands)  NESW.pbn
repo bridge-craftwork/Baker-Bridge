@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent NMF
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 1NT pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "95395af2e3655dd4e7a7c6e4cace44b0b97979d009a793b8d22334bb0f56b86f"]
+[VersionToken "95395af2e3655dd4e7a7c6e4cace44b0b97979d009a793b8d22334bb0f56b86f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -42,7 +42,7 @@ Partner tells you he has 3 \Ss. You already know he has a minimum strength hand.
 1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "180778ab9a3848ce2095c357cf40b9d245fcceba09cc220cda143e2045e65f39"]
+[VersionToken "180778ab9a3848ce2095c357cf40b9d245fcceba09cc220cda143e2045e65f39"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -67,7 +67,7 @@ Do not support the \Cs if you have another decent bid. This is New Minor Forcing
 1D pass 1H pass 1NT pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3164a77967c05d6b3190679c4459891784a7c9dd9eb5b79ce7ed12b87af139de"]
+[VersionToken "3164a77967c05d6b3190679c4459891784a7c9dd9eb5b79ce7ed12b87af139de"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -92,7 +92,7 @@ Partner tells you he has 3 \Hs. But he also tells you he has minimum strength - 
 1D pass 1S pass 1NT pass 2C pass 2H pass 4H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "4ce286d8301eb5977f77793ef6dcfabdf4d58884cb050a3e573a13d627ed3d9f"]
+[VersionToken "4ce286d8301eb5977f77793ef6dcfabdf4d58884cb050a3e573a13d627ed3d9f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -119,7 +119,7 @@ This is New Minor Forcing and your first priority is to show a 4-card \H suit. Y
 1D pass 1H pass 1NT pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f161942f85f2357eba8dbccb6069fe6e5b918b22a8c8b55847fc49fb2c33a925"]
+[VersionToken "f161942f85f2357eba8dbccb6069fe6e5b918b22a8c8b55847fc49fb2c33a925"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -144,7 +144,7 @@ Partner tells you he has only 2 \Hs. He also tells you he only has 12-13 points.
 1C pass 1H pass 1NT pass 2D pass 3H pass 4H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "17486b9f8879fe94005ef75de4521a4d5c1430f76cb8665cdf06bf13a4f250ef"]
+[VersionToken "17486b9f8879fe94005ef75de4521a4d5c1430f76cb8665cdf06bf13a4f250ef"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]

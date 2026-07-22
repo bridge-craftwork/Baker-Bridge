@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ab8f5731add89c94c484db70739d8a013189108113470f925333fed6743b8f80"]
+[VersionToken "ab8f5731add89c94c484db70739d8a013189108113470f925333fed6743b8f80"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -58,7 +58,7 @@ Notice that if East was the one who had the \DA then you would go down despite y
 1D 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ac0f7c9765944db8b2c05454790cdb112d720c540d814a28d6f6f994d15996f"]
+[VersionToken "0ac0f7c9765944db8b2c05454790cdb112d720c540d814a28d6f6f994d15996f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -98,7 +98,7 @@ This was a perfect example. After the opening lead it was easy to deduce that al
 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "51ac8e492414769af9783026bc73255dd7a5a01fdfcca77c6bd831fb2d40938f"]
+[VersionToken "51ac8e492414769af9783026bc73255dd7a5a01fdfcca77c6bd831fb2d40938f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -140,7 +140,7 @@ But that would have been all for nothing if North had not found the PLAN to make
 1D pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f17e5b917463a401914703dbad70d06b177628d393728b001dc975670edaddd5"]
+[VersionToken "f17e5b917463a401914703dbad70d06b177628d393728b001dc975670edaddd5"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

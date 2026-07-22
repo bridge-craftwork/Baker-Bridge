@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Trumpmgmt
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8bac2ae5a863a61d71607f692656e9d25357f727fe02c2a24db63eac3ab39b69"]
+[VersionToken "8bac2ae5a863a61d71607f692656e9d25357f727fe02c2a24db63eac3ab39b69"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -53,7 +53,7 @@ Clear thinking is important, too. Can you imagine any Bridge player in the East 
 pass pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8877c3b313768ea6a3ed5c634060b917d30dd836b4dbc4d3de596e96bdbf32b0"]
+[VersionToken "8877c3b313768ea6a3ed5c634060b917d30dd836b4dbc4d3de596e96bdbf32b0"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -87,7 +87,7 @@ So you must stay a jump ahead of them. In this Deal the only way they could have
 1H pass 1NT pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "af1f66f6aa44d6e4767c933360582666e20ac1cff3e5cbf3ce589ca9bd797fb3"]
+[VersionToken "af1f66f6aa44d6e4767c933360582666e20ac1cff3e5cbf3ce589ca9bd797fb3"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -119,7 +119,7 @@ Here there was no realistic hope of making this contract without playing twice t
 1D pass 2NT pass 3D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b42b6cf1914625b776aa60162889a0472671cceec7ea750d4766b2654c3464f4"]
+[VersionToken "b42b6cf1914625b776aa60162889a0472671cceec7ea750d4766b2654c3464f4"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
@@ -159,7 +159,7 @@ In other words, with one of these opening leads a mediocre player, one who had n
 1D pass 1H pass 1S pass 3D pass 4C pass 4H pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "23bf863ad85ab30a72697205da243913cfa326d9600df414535858762aa0a525"]
+[VersionToken "23bf863ad85ab30a72697205da243913cfa326d9600df414535858762aa0a525"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]

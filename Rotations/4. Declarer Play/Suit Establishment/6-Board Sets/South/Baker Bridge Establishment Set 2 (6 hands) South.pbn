@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Establishment
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 2S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "eba7628e76f89365ee225d8f812c9a3f8877aed0c14c0930c5978c989fa1b5e7"]
+[VersionToken "eba7628e76f89365ee225d8f812c9a3f8877aed0c14c0930c5978c989fa1b5e7"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -45,7 +45,7 @@ As long as the \Cs were no worse than 4-2 you can establish the suit.}
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "31b547a37173a5ccc06a21155f116192bbb7add6b08ca828a0372e74e70a7c04"]
+[VersionToken "31b547a37173a5ccc06a21155f116192bbb7add6b08ca828a0372e74e70a7c04"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -79,7 +79,7 @@ Only by establishing \Ss can you make the contract.}
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6c1eb76107fb3c47512c335adb69b5be319be109fb9d642d8dfc4781ab006fad"]
+[VersionToken "6c1eb76107fb3c47512c335adb69b5be319be109fb9d642d8dfc4781ab006fad"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -109,7 +109,7 @@ As you see, you couldn't set up a \D trick so the \C overtake was necessary to m
 1NT pass 2C pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "45f358c243c8d0078909a89abd5b74449b2de8709fbfe2f118e8c93d4dd5264e"]
+[VersionToken "45f358c243c8d0078909a89abd5b74449b2de8709fbfe2f118e8c93d4dd5264e"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -139,7 +139,7 @@ This time you were lucky and the \Ss split evenly. Next time they probably won't
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "962c4a43b04cbb20881edc33ad6d269fd0d6f58a32563e075de93d04bbb29911"]
+[VersionToken "962c4a43b04cbb20881edc33ad6d269fd0d6f58a32563e075de93d04bbb29911"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -171,7 +171,7 @@ It took a 2-2 trump split and a 4-3 \S split. But that was your best shot.}
 2C pass 2H pass 3C pass 3NT pass 4NT pass 5D pass 5NT pass 6H pass 7C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ccb6415a2625f929ae286376c01c340eac5662b216c2cdd2f5e33e09cc8e6706"]
+[VersionToken "ccb6415a2625f929ae286376c01c340eac5662b216c2cdd2f5e33e09cc8e6706"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]

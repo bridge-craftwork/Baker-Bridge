@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b8d686e5ff77371d358a6a13c53db3a99c94cd71c2fd93ce7a38b5a07f8775e9"]
+[VersionToken "b8d686e5ff77371d358a6a13c53db3a99c94cd71c2fd93ce7a38b5a07f8775e9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -65,7 +65,7 @@ Using the correct Plan guarantees the contract however \Hs split.}
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "7c47d5a098f8f6a05c8d91df1c6b7c6f4e47d0e46869a8e8fd80703bdcee8ffd"]
+[VersionToken "7c47d5a098f8f6a05c8d91df1c6b7c6f4e47d0e46869a8e8fd80703bdcee8ffd"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -110,7 +110,7 @@ To summarize: If you are missing <b>J x x x</b> your first play should be from t
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "09cd26a28de3868a2eadb3fde675d07e3207c546e675f213e45aa756634224d3"]
+[VersionToken "09cd26a28de3868a2eadb3fde675d07e3207c546e675f213e45aa756634224d3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -148,7 +148,7 @@ As you can see your plan was the only way to make the contract.}
 1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "879e93bdb713778f4aba4232da6f348e6e2a015be88a5cea5b5df2a2d5da0136"]
+[VersionToken "879e93bdb713778f4aba4232da6f348e6e2a015be88a5cea5b5df2a2d5da0136"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

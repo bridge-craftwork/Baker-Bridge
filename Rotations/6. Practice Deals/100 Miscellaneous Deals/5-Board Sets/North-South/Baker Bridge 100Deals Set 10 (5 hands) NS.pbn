@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D dbl pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3d0cea4dc1f8fd43319304cd171259655831cd32a4c9831ab2a9bbf010d94708"]
+[VersionToken "3d0cea4dc1f8fd43319304cd171259655831cd32a4c9831ab2a9bbf010d94708"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -54,7 +54,7 @@ If you had ruffed, West would have over-ruffed. And you would still have a \C lo
 pass 1D pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2f9b1f08eeb99e673545c9a3d87bf2eed12440fc6ff1a8380e2b10e8ea8309ab"]
+[VersionToken "2f9b1f08eeb99e673545c9a3d87bf2eed12440fc6ff1a8380e2b10e8ea8309ab"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -92,7 +92,7 @@ As you see, this time the \Ss didn't split so you had to make the \CJ to succeed
 pass pass pass 1S 2H 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b02b48c945129a4c38e2a62825f937628f731cc430c241181754dac333c85c73"]
+[VersionToken "b02b48c945129a4c38e2a62825f937628f731cc430c241181754dac333c85c73"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -126,7 +126,7 @@ You have to listen to the bidding and draw conclusions from what is bid - and no
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "445659d7fdb9e244c9ebaf8df3a400c3c6a531c8abae93abbc39cf46a994fb0f"]
+[VersionToken "445659d7fdb9e244c9ebaf8df3a400c3c6a531c8abae93abbc39cf46a994fb0f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -168,7 +168,7 @@ You cannot make 10 tricks unless West's opening lead is a \S. }
 1D pass 1S pass 2S pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "758be55ed8a59f84b57260b86e63234b1c1ecb14b690863ab65ad709b6ca62df"]
+[VersionToken "758be55ed8a59f84b57260b86e63234b1c1ecb14b690863ab65ad709b6ca62df"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

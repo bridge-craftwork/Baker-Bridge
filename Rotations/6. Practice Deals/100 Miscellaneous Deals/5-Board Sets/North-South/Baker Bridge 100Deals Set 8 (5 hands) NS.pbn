@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "33423badc1f173fce45cf3e4b1e9393a69aa41867fcb09189258672bd060d432"]
+[VersionToken "33423badc1f173fce45cf3e4b1e9393a69aa41867fcb09189258672bd060d432"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -60,7 +60,7 @@ This is untrue for a very classy-named reason - <b>The Principle of Restricted C
 1D pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8a8cb3a58cbc6e879ae6d44f19d02aabf55050500060e4f616987187261d4d34"]
+[VersionToken "8a8cb3a58cbc6e879ae6d44f19d02aabf55050500060e4f616987187261d4d34"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -104,7 +104,7 @@ Since you would only have one more honor you'd be bound to lose a trick.}
 1NT 2S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "405c6580b5a078f3e3c37db188bc7babcd78733b35f48624763a0c541d129f75"]
+[VersionToken "405c6580b5a078f3e3c37db188bc7babcd78733b35f48624763a0c541d129f75"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -144,7 +144,7 @@ With the holdup it didn't matter which red suit you established first.}
 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "57d568f5b1c1463f46eee9ca8378db7f05551632b15762db6a9c853a8a9b0f5c"]
+[VersionToken "57d568f5b1c1463f46eee9ca8378db7f05551632b15762db6a9c853a8a9b0f5c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -184,7 +184,7 @@ It costs nothing to make a careful play. Most of the time it doesn't matter, but
 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ce1492ce1275d7dec3e7331abc98a178056ef3f4e29335fe9e0b7d9a4145eda0"]
+[VersionToken "ce1492ce1275d7dec3e7331abc98a178056ef3f4e29335fe9e0b7d9a4145eda0"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

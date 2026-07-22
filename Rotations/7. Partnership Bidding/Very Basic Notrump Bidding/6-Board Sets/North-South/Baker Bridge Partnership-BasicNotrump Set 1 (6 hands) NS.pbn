@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicNotrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0cbbf700a7dcbf3eaaeddede928f1f62118693b61c01c74b5f85e0787fa997a3"]
+[VersionToken "0cbbf700a7dcbf3eaaeddede928f1f62118693b61c01c74b5f85e0787fa997a3"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -42,7 +42,7 @@ Since this is below the 26 point game requirement he passes.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ad18e6d547a9eb6b5cf6d72c79df9af0d3f267911ef4eed4864975fed5b8a401"]
+[VersionToken "ad18e6d547a9eb6b5cf6d72c79df9af0d3f267911ef4eed4864975fed5b8a401"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -67,7 +67,7 @@ but not enough to think about slam. Since NORTH also has a balanced hand she bid
 pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "db7c0ca7140c1eb8220b0aff540b11177fcd1489a4c188f22df19e8941b6b220"]
+[VersionToken "db7c0ca7140c1eb8220b0aff540b11177fcd1489a4c188f22df19e8941b6b220"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -96,7 +96,7 @@ SOUTH just bids 3NT, knowing NORTH will respect his decision and pass.}
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "353ea77537fd763ad5713b97c8f5afc47e36601c183d0fc04b4f26c021cf7bf7"]
+[VersionToken "353ea77537fd763ad5713b97c8f5afc47e36601c183d0fc04b4f26c021cf7bf7"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -118,7 +118,7 @@ than 17 points. So with her 7 points, she knows there is no reason to respond.}
 pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5f7d78ae3a7e60f107a72a9ad369634f01ef5b48f9d8d77351cb93a1248c38f0"]
+[VersionToken "5f7d78ae3a7e60f107a72a9ad369634f01ef5b48f9d8d77351cb93a1248c38f0"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -147,7 +147,7 @@ NORTH has a maximum 17 point hand so she accepts the invitation.}
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8cc4c9dc9d505670302d14da0b64cc84067b493f75882c56195c5da98076d45c"]
+[VersionToken "8cc4c9dc9d505670302d14da0b64cc84067b493f75882c56195c5da98076d45c"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]

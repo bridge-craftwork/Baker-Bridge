@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9da868e00cbbbe3581ec73397be4978e0164adbcbfde8b960c0503f000702040"]
+[VersionToken "9da868e00cbbbe3581ec73397be4978e0164adbcbfde8b960c0503f000702040"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -43,7 +43,7 @@ You say pass. You have a minimum opening hand and partner has 6-10 points so no 
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8ed17feff1fd02d8c157aacac40c284d99bd89c5cd57acfcba1432b665c7e3ec"]
+[VersionToken "8ed17feff1fd02d8c157aacac40c284d99bd89c5cd57acfcba1432b665c7e3ec"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -68,7 +68,7 @@ You revalue to 20 points (doubleton \S) and partner has between 6 and 10. So, 26
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4aefa41ebb4d95b4c1748a70a85197909c77a9297ee642967174646604dddb87"]
+[VersionToken "4aefa41ebb4d95b4c1748a70a85197909c77a9297ee642967174646604dddb87"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -93,7 +93,7 @@ Your 15 points gets revalued to 16/17 for the singleton. Add partner's 10-12 and
 pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "924a2938e6cfe0226fd7a0c0b154e8c23a1e8101bd51f88eab6397fc1b98cb00"]
+[VersionToken "924a2938e6cfe0226fd7a0c0b154e8c23a1e8101bd51f88eab6397fc1b98cb00"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -118,7 +118,7 @@ Figure partner for 11-12 points. You have 13 but could revalue to 14 with the do
 1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6087a019ca919db6f8e0c5428fa3983b77ea0c3e23922859fc694c1bb1399b3d"]
+[VersionToken "6087a019ca919db6f8e0c5428fa3983b77ea0c3e23922859fc694c1bb1399b3d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

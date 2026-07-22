@@ -7,7 +7,7 @@ Classroom fetches it directly to learn how many boards a lesson has and which ar
 stable -- it does not re-parse the PBNs for sizing.
 
 This runs as the FINAL build step, AFTER stamp_board_tokens.py, because it reads
-the per-board [BoardVersionToken] (R3) that only exists once the tokens are
+the per-board [VersionToken] (R3) that only exists once the tokens are
 stamped onto the released Package/*.pbn (post curated-merge). Same reason the
 token stamp itself can't live in CSV_to_PBN.py.
 
@@ -90,7 +90,7 @@ def parse_file(path):
         if "[Board " not in part:
             continue
         num_m = re.search(r'\[Board "([^"]*)"\]', part)
-        tok_m = re.search(r'\[BoardVersionToken "([^"]*)"\]', part)
+        tok_m = re.search(r'\[VersionToken "([^"]*)"\]', part)
         skill_m = re.search(r'\[SkillPath "([^"]*)"\]', part)
         number = num_m.group(1).strip() if num_m else None
         try:
@@ -175,7 +175,7 @@ def main():
                 problems.append(f"{name}: board with missing/non-integer number "
                                 f"({b['number']!r})")
             if not b["boardVersionToken"]:
-                problems.append(f"{name} board {b['number']}: missing BoardVersionToken")
+                problems.append(f"{name} board {b['number']}: missing VersionToken")
             if not b["skillPath"]:
                 problems.append(f"{name} board {b['number']}: missing SkillPath")
 

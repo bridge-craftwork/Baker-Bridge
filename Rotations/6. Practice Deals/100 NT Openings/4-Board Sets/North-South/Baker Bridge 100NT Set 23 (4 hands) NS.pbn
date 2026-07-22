@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f878fde463643e74c1a0871a9adb4854b08e4ed7b662442b217d41c5e6ee8472"]
+[VersionToken "f878fde463643e74c1a0871a9adb4854b08e4ed7b662442b217d41c5e6ee8472"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -62,7 +62,7 @@ But since they may be right you need to be on the lookout for ducking plays beca
 1S pass pass 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c637dbd1fa751d1227783f15f30a830735ed79ba71d41c57dc77a55b3f57028a"]
+[VersionToken "c637dbd1fa751d1227783f15f30a830735ed79ba71d41c57dc77a55b3f57028a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -110,7 +110,7 @@ By the way, if West had a 6-card suit this plan wouldn't work. But then, no othe
 2NT pass 3C pass 3H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e863c758967e51aae5c4cf9584af411329022a0b9ba20dbff3371aa49d7508bb"]
+[VersionToken "e863c758967e51aae5c4cf9584af411329022a0b9ba20dbff3371aa49d7508bb"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -150,7 +150,7 @@ But the other 50% of the time East will have the \DK. On those Deals you get you
 1NT pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f6a3decde606fc24c70368da4a90ea7205ecbce22d2021b4aba6d6162a69d15f"]
+[VersionToken "f6a3decde606fc24c70368da4a90ea7205ecbce22d2021b4aba6d6162a69d15f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

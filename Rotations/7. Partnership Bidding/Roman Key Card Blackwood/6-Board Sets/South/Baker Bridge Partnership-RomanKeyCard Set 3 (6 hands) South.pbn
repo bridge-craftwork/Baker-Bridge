@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-RomanKeyCard
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "84f2a04e04273a208861f30763b10b848a031d843302535633be2b8faa9e1935"]
+[VersionToken "84f2a04e04273a208861f30763b10b848a031d843302535633be2b8faa9e1935"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -46,7 +46,7 @@ enough points for a Grand slam.}
 3H pass 4NT pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "55367d13e7ca4e86770e01b943302d9d4669eb1b6adc92061cb8fec9bf252e0d"]
+[VersionToken "55367d13e7ca4e86770e01b943302d9d4669eb1b6adc92061cb8fec9bf252e0d"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -74,7 +74,7 @@ She bids a confident 7NT (and hopes NORTH didn't open 3\H with a 6-card suit.}
 1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "ddf4be00f495a9e1e214bbf4b7ca026f575dc0fb1a97ad4f4ace4a7f20adb6de"]
+[VersionToken "ddf4be00f495a9e1e214bbf4b7ca026f575dc0fb1a97ad4f4ace4a7f20adb6de"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -100,7 +100,7 @@ Of course she didn't expect the two missing Key Cards to be the Ace and King of 
 1D pass 1H pass 2NT pass 4NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "759d8e06e0e6ecf75dea9c9aea52af2b47c3a900a1208f047367f72785e11284"]
+[VersionToken "759d8e06e0e6ecf75dea9c9aea52af2b47c3a900a1208f047367f72785e11284"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -126,7 +126,7 @@ to bid 6NT if he felt his hand was a "maximum". He didn't, so he passed.}
 1H pass 4C pass 4NT pass 6C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5c31371784ed4ce0d2923e279e867d0ebe6d5862f871166762fe3896f12172cc"]
+[VersionToken "5c31371784ed4ce0d2923e279e867d0ebe6d5862f871166762fe3896f12172cc"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]
@@ -152,7 +152,7 @@ Just what SOUTH needed for the 6\H bid.}
 1NT pass 2C pass 2S pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e75822b3e6c2c5c959b9e0fa6e2a8f4076dbac27a7bac4ea627d60e9665cfd6b"]
+[VersionToken "e75822b3e6c2c5c959b9e0fa6e2a8f4076dbac27a7bac4ea627d60e9665cfd6b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/roman_key_card"]

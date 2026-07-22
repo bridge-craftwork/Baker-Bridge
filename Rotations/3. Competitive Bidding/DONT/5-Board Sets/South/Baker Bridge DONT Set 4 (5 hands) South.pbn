@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent DONT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7a02ad263c036ef7d5e958a5d144325e6dfa35895c9b8acc59085e61460ef390"]
+[VersionToken "7a02ad263c036ef7d5e958a5d144325e6dfa35895c9b8acc59085e61460ef390"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -45,7 +45,7 @@ You like \Hs better and don't have enough strength to think about game so you pa
 1NT 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "fe7b81da98486fe7d27eb90c625d34d94edab3999cdf5336ede48b558f6a68e7"]
+[VersionToken "fe7b81da98486fe7d27eb90c625d34d94edab3999cdf5336ede48b558f6a68e7"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -68,7 +68,7 @@ But with the weak hand you bid 2\S instead of double. Everybody passes.}
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: E, basisKind:Declarer, nOption:2, nBasis: 1, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "a10c25a4e74cb98ccdeed39a1408d44f1b3e53f00a2032096018eea335013562"]
+[VersionToken "a10c25a4e74cb98ccdeed39a1408d44f1b3e53f00a2032096018eea335013562"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -93,7 +93,7 @@ So you pass.}
 1NT pass pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "45192f1b753cc6c9ced41ee5ef7a84fbd10c01a6ad65d80c38f397858c550994"]
+[VersionToken "45192f1b753cc6c9ced41ee5ef7a84fbd10c01a6ad65d80c38f397858c550994"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -116,7 +116,7 @@ You do bid just 2\S though, rather than a double followed by 2\S, which would sh
 1NT pass pass 2H pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d411c6187e94ced29ae64e222b3bc2d4119bf9102a8bf358be4db15e8d44f41f"]
+[VersionToken "d411c6187e94ced29ae64e222b3bc2d4119bf9102a8bf358be4db15e8d44f41f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]

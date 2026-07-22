@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C 2H X pass 2NT pass 6NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8ae93f3d069591845d429611e04dafba0d671a90bb09a5177ca6ccc8ff3ae0d4"]
+[VersionToken "8ae93f3d069591845d429611e04dafba0d671a90bb09a5177ca6ccc8ff3ae0d4"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -63,7 +63,7 @@ Squeezes are so very satisfying.}
 1D pass 2NT pass 4D pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9fbb1d1410946c5035fcf8785fd2c666d20d9c16d4a89c3fcf3404bec94c890b"]
+[VersionToken "9fbb1d1410946c5035fcf8785fd2c666d20d9c16d4a89c3fcf3404bec94c890b"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -107,7 +107,7 @@ So he will discard the \H10 instead. At this point you know that the \SQ is wort
 1NT 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d1b49b2cb2df74017ea093a7f12866f3ad892d3c4b12615bb9a94215cba5c10e"]
+[VersionToken "d1b49b2cb2df74017ea093a7f12866f3ad892d3c4b12615bb9a94215cba5c10e"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -167,7 +167,7 @@ Only by visualizing the ending and using the Vienna Coup can this hand be made.}
 1C pass 2D pass 3C pass 4C pass 4H pass 4S pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3b8b9f5778528667f8d1dfb3843f16b8e3ce0c70799c1687e657bcfeb8b8afeb"]
+[VersionToken "3b8b9f5778528667f8d1dfb3843f16b8e3ce0c70799c1687e657bcfeb8b8afeb"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]

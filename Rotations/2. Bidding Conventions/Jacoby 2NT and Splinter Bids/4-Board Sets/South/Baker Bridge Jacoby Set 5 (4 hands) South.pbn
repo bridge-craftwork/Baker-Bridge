@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2NT pass 4H pass 4S pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "229237496ab0cf58840c7bd3ec148941295086cf70fc1e4a398b767d6b840d0e"]
+[VersionToken "229237496ab0cf58840c7bd3ec148941295086cf70fc1e4a398b767d6b840d0e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -41,7 +41,7 @@ Partner is definitely showing slam interest. If you had a first round control in
 1S pass 4H pass 5C pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6bdfe970d0c8d5d0194a9763dc8d58a138de3a6e4d13690dfbb600d4e288adf8"]
+[VersionToken "6bdfe970d0c8d5d0194a9763dc8d58a138de3a6e4d13690dfbb600d4e288adf8"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -64,7 +64,7 @@ Partner has the \CA. Good. You are pretty worried about \Ds and also your 11 hig
 1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5S pass 7S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "026cf7953abcfd48ad6b552f92dd06f335e74775762234e73b94a04ca9eebf55"]
+[VersionToken "026cf7953abcfd48ad6b552f92dd06f335e74775762234e73b94a04ca9eebf55"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -89,7 +89,7 @@ You are being Blackwooded, and with three Aces you reply 5\S. That was apparentl
 1H 1S 2S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c13fb16d3aacfa1e070cf0fca79b06acabc5d0070a82088aeb793ad8e4545994"]
+[VersionToken "c13fb16d3aacfa1e070cf0fca79b06acabc5d0070a82088aeb793ad8e4545994"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]

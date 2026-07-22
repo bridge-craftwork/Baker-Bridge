@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Major
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6087a019ca919db6f8e0c5428fa3983b77ea0c3e23922859fc694c1bb1399b3d"]
+[VersionToken "6087a019ca919db6f8e0c5428fa3983b77ea0c3e23922859fc694c1bb1399b3d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -43,7 +43,7 @@ Partner's bid forces you to bid again. You have a bare-minimum hand, but at leas
 1H pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9483f1ae80ef26c62ee48fa81c00f2f7471b3288333fab06a6618a4a553ff9ca"]
+[VersionToken "9483f1ae80ef26c62ee48fa81c00f2f7471b3288333fab06a6618a4a553ff9ca"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -68,7 +68,7 @@ You have good \S support but you must tell partner of your minimum hand. So you 
 1H pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f9023832f0ca9d16c2cbc444c59b97b16b2e9e7651ea410724b515562c996bbb"]
+[VersionToken "f9023832f0ca9d16c2cbc444c59b97b16b2e9e7651ea410724b515562c996bbb"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]
@@ -95,7 +95,7 @@ Partner bids the game.}
 1S pass 2C pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "cd6c21e047aa88a555fcd290a15a6df73d5841cebced7501b6aee9fea430bbfb"]
+[VersionToken "cd6c21e047aa88a555fcd290a15a6df73d5841cebced7501b6aee9fea430bbfb"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Drury
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass pass 1S pass 2C pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "47df23cffd0168b3a6b8b9fbff69a27b3ac067f575019d208a03e6ed8b807a84"]
+[VersionToken "47df23cffd0168b3a6b8b9fbff69a27b3ac067f575019d208a03e6ed8b807a84"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -43,7 +43,7 @@ So you sign-off at 4\S.}
 pass pass 1S pass 2C pass 2D pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4edfd4dc50700942e7fcc87afa5f74e0c46a557e105041dae6cb9460d71fbb8d"]
+[VersionToken "4edfd4dc50700942e7fcc87afa5f74e0c46a557e105041dae6cb9460d71fbb8d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]
@@ -68,7 +68,7 @@ You've told partner you had at least a limit raise, now you need to tell him tha
 pass pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "fb08a6c8c06063fa8af1f5f680018b1e67078280636e254ce293c4f27b97b65d"]
+[VersionToken "fb08a6c8c06063fa8af1f5f680018b1e67078280636e254ce293c4f27b97b65d"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_drury"]

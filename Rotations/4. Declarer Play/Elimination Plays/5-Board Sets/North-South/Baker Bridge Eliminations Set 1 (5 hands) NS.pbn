@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4b4cc948921190ad559e1e209004ce45123635f2a762f20749e74dbce912cd94"]
+[VersionToken "4b4cc948921190ad559e1e209004ce45123635f2a762f20749e74dbce912cd94"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -55,7 +55,7 @@ With an elimination play you make it no matter who holds the Queen.}
 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ec86208eadf1c5b978a127509b2307880a26481922a19632b13076efc4599f5"]
+[VersionToken "0ec86208eadf1c5b978a127509b2307880a26481922a19632b13076efc4599f5"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -93,7 +93,7 @@ Only by forcing them to start the \Ds can you take a trick in the suit. }
 1S pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "25769393f18e438fa6be610b138701cc97c468b86dcf8e2ac3f34051c6e724a3"]
+[VersionToken "25769393f18e438fa6be610b138701cc97c468b86dcf8e2ac3f34051c6e724a3"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -131,7 +131,7 @@ By forcing them to start the \Ds you make three tricks when the two outstanding 
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "280d9354da1f0fbcb5e2b24a85d134be7f9f7ed42183243af207f582a0e3ba30"]
+[VersionToken "280d9354da1f0fbcb5e2b24a85d134be7f9f7ed42183243af207f582a0e3ba30"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -165,7 +165,7 @@ Here you were lucky the defense didn't start by taking their three \Ss. If they 
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bdc6d4f2558ca00dede5dd2276cddb649b19d39f4f2a1ed39fda999d794c4a31"]
+[VersionToken "bdc6d4f2558ca00dede5dd2276cddb649b19d39f4f2a1ed39fda999d794c4a31"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]

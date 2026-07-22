@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5ae445135c570445977794a2353b45c0951a84c3147ef2853cf9757f84075d08"]
+[VersionToken "5ae445135c570445977794a2353b45c0951a84c3147ef2853cf9757f84075d08"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -50,7 +50,7 @@ It was a good thing you held the \HK rather than declarer, but it is a nuisance 
 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ef60ad4a9cf7bcc9ef6dc6c69b3cec5994bc5dbca3f51c86bf437a09616ce578"]
+[VersionToken "ef60ad4a9cf7bcc9ef6dc6c69b3cec5994bc5dbca3f51c86bf437a09616ce578"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -84,7 +84,7 @@ If declarer played low on the first trick you would win the \HQ, then play the \
 1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "fb696c65ee7609f6788eb738fe2572079be39b0bcf983c08cd97c2c8dc9ac5ed"]
+[VersionToken "fb696c65ee7609f6788eb738fe2572079be39b0bcf983c08cd97c2c8dc9ac5ed"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -118,7 +118,7 @@ Note that if dummy's \S9 was played you would cover with your \SJ, leading to th
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "37e1834d9d2f531db9df494254a0598a7bd6c1633c4bab02d55e5f8812c5b2fe"]
+[VersionToken "37e1834d9d2f531db9df494254a0598a7bd6c1633c4bab02d55e5f8812c5b2fe"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -154,7 +154,7 @@ So what happens if you play the \HQ at trick one? South could still make the con
 1C pass 1S 2H 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "92433a205efcd3c9dc47bfea2af97a85cea2919cedc21f6f48713f0cffcd1a6c"]
+[VersionToken "92433a205efcd3c9dc47bfea2af97a85cea2919cedc21f6f48713f0cffcd1a6c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -186,7 +186,7 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 1D pass 1H 1S 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1e1fadd7a4a44074027cfa73989d38095b8898ac156a9ce8b2701b0490c25855"]
+[VersionToken "1e1fadd7a4a44074027cfa73989d38095b8898ac156a9ce8b2701b0490c25855"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]

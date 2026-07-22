@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-NegativeDoubles
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C 1D X pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4c074f5d27564f65fae810afca3f05f1ff8ebb9586489112006632894f91fbcc"]
+[VersionToken "4c074f5d27564f65fae810afca3f05f1ff8ebb9586489112006632894f91fbcc"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -44,7 +44,7 @@ SOUTH has 13 points and the \S fit so he bids game.}
 1C 1D X pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "e31d6f44bc04a7c6519f30c4ff7ba2caeaea10f3def3874a6749f971eb23e118"]
+[VersionToken "e31d6f44bc04a7c6519f30c4ff7ba2caeaea10f3def3874a6749f971eb23e118"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -71,7 +71,7 @@ WEST happily bids 3NT.}
 1C 1D 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8ed0287bc8f1f11798b32ecf0de05beac77ba2c35f264718551dab4fc8d15ce6"]
+[VersionToken "8ed0287bc8f1f11798b32ecf0de05beac77ba2c35f264718551dab4fc8d15ce6"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -98,7 +98,7 @@ has enough strength to bid game.}
 1S 2H X pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "6cac296dc73fe834aaec432e999378531ac07c3d73c29eea7d5169999db6f6cd"]
+[VersionToken "6cac296dc73fe834aaec432e999378531ac07c3d73c29eea7d5169999db6f6cd"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -125,7 +125,7 @@ EAST is more than happy to raise to 3NT.}
 1C 1S X pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "418495dc73f85ae1b5a49d6f38bab3744a08906625a044f4bc8177cd1cc35837"]
+[VersionToken "418495dc73f85ae1b5a49d6f38bab3744a08906625a044f4bc8177cd1cc35837"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -152,7 +152,7 @@ and NORTH would have jumped to game.}
 1C 1H X pass 1NT pass 2C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "6360b64575401540bf676df090fc74b794a2da7cee6a9d835b235a418f87fa2e"]
+[VersionToken "6360b64575401540bf676df090fc74b794a2da7cee6a9d835b235a418f87fa2e"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Finesse
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f96a58ca16b34a84c570c2970c30e2c2dec232414525683e6572e72263b932f0"]
+[VersionToken "f96a58ca16b34a84c570c2970c30e2c2dec232414525683e6572e72263b932f0"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -51,7 +51,7 @@ The only hope is to try to drop the \SK without wasting an extra honor.}
 pass 1H pass 1NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "7a4b5f8896af3d27c29406312f8c39fbbfa9c3d564f2374398e5f9432186db12"]
+[VersionToken "7a4b5f8896af3d27c29406312f8c39fbbfa9c3d564f2374398e5f9432186db12"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -85,7 +85,7 @@ It was probably a better example of watching your entries. If you had pulled ano
 pass 1D pass 2D pass 3H pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d3dd1a504cc04a7e2376174b93348d9430dac52b8f93c0fe53ec83cef791f3eb"]
+[VersionToken "d3dd1a504cc04a7e2376174b93348d9430dac52b8f93c0fe53ec83cef791f3eb"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
@@ -123,7 +123,7 @@ This method of play gave you two chances instead of just one.}
 2NT pass 4C pass 4NT pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "ed278faaa2a8a23313458dea52955ab03e30d972c1f6da07d12c4bebd957b463"]
+[VersionToken "ed278faaa2a8a23313458dea52955ab03e30d972c1f6da07d12c4bebd957b463"]
 [Category "Declarer Play"]
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]

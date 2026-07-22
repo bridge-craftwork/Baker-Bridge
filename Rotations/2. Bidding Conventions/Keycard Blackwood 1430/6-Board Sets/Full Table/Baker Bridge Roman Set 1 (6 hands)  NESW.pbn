@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Roman
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S pass 2H pass 4NT pass 5S pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b73a7e5313466604d0b6c2dbb6cb4f1f2e16ec2a5790a501315af9b3f1093fc0"]
+[VersionToken "b73a7e5313466604d0b6c2dbb6cb4f1f2e16ec2a5790a501315af9b3f1093fc0"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -41,7 +41,7 @@ So you have two Key-Cards (\SA and \HK, along with the \HQ). You therefore bid 5
 1C pass 1S pass 4S pass 5C pass 5H pass 5S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "a73f4431e0da50daf819dca08994e3b95cd4d8dcc9cfce9eece3791a369f753a"]
+[VersionToken "a73f4431e0da50daf819dca08994e3b95cd4d8dcc9cfce9eece3791a369f753a"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -68,7 +68,7 @@ Yes, partner should probably have opened 2NT. Sometimes partners don't make the 
 1D pass 1S pass 3S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "eb393cce34420ceb8d58ef145f72b4318068a3c383d20e2f32f30811b095970c"]
+[VersionToken "eb393cce34420ceb8d58ef145f72b4318068a3c383d20e2f32f30811b095970c"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -89,7 +89,7 @@ Yes, partner should probably have opened 2NT. Sometimes partners don't make the 
 1S pass 2NT pass 3NT pass 4H pass 4NT pass 5S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "4ce32521c09f2e95eb6679c76e43e59239f1a70ce6a87f593f554e7025a67c61"]
+[VersionToken "4ce32521c09f2e95eb6679c76e43e59239f1a70ce6a87f593f554e7025a67c61"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -114,7 +114,7 @@ Partner's response says 2 Key-Cards and the \SQ. So you are missing either the t
 1NT pass 3D pass 4D pass 4NT pass 5H pass 6D all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "afa7baa1e854fdf0bffcfa36673dd5bf963d60219042ac7322507fcf207414c1"]
+[VersionToken "afa7baa1e854fdf0bffcfa36673dd5bf963d60219042ac7322507fcf207414c1"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -137,7 +137,7 @@ You have 2 Key-Cards, the \SA and \DK. But you don't have the \DQ so you answer 
 1H pass 3H pass 4C pass 4H pass 4NT pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "8d9425ae7f4c96934e9a559ec88143d92a379c5105e2df63239c928a88aae2c0"]
+[VersionToken "8d9425ae7f4c96934e9a559ec88143d92a379c5105e2df63239c928a88aae2c0"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]

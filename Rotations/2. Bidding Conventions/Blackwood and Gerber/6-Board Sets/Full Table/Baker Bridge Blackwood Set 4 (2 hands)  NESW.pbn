@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Blackwood
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e080df19ea4a99bf0f23e44d3742d27deb4538bb0f5e3377d4822e1b179ecabe"]
+[VersionToken "e080df19ea4a99bf0f23e44d3742d27deb4538bb0f5e3377d4822e1b179ecabe"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -41,7 +41,7 @@ Partner has only a single Ace in his 2NT opener. No slam for your team. You pass
 1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "a070d26ccbaef002bb9a774e8f1e67e676f1ce25443749857bca6c2977165ec9"]
+[VersionToken "a070d26ccbaef002bb9a774e8f1e67e676f1ce25443749857bca6c2977165ec9"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]

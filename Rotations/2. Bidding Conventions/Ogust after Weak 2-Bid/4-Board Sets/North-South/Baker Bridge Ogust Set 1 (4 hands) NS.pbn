@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Ogust
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2H pass 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7a7d676d15b13b4b6a64f9e4698dc22e36b3084b03d004efaab624b763db0b83"]
+[VersionToken "7a7d676d15b13b4b6a64f9e4698dc22e36b3084b03d004efaab624b763db0b83"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -41,7 +41,7 @@ In reply to partner's Ogust 2NT you say 3\C, showing a minimum hand along with a
 pass 2H pass 2NT pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8ad2453f14d3fef9f82de582660eaf470b5a18660e9923fa1a018a2b57e0d444"]
+[VersionToken "8ad2453f14d3fef9f82de582660eaf470b5a18660e9923fa1a018a2b57e0d444"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -66,7 +66,7 @@ Partner's 3\C bid shows a weak hand and a poor suit. So you reluctantly settle f
 2S pass 2NT pass 3D pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1ec42e438532b32f9082927118c1ce7016a46f76295cf1cdbc4ae1b45e2c5f78"]
+[VersionToken "1ec42e438532b32f9082927118c1ce7016a46f76295cf1cdbc4ae1b45e2c5f78"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -89,7 +89,7 @@ In reply to partner's Ogust 2NT you say 3\D, showing a minimum hand along with a
 pass 2S pass 2NT pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "94cc3560c4d4621b0159f6cf53a3d32008923b86454f738870ea6a6cf904da9f"]
+[VersionToken "94cc3560c4d4621b0159f6cf53a3d32008923b86454f738870ea6a6cf904da9f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]

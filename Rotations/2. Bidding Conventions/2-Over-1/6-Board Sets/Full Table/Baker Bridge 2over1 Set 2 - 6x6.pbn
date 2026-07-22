@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -11,7 +11,7 @@
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:AK9652.T983.4.A8 JT8.J4.AT9853.74 7.AK75.K762.KQT6 Q43.Q62.QJ.J9532"]
-[BoardVersionToken "2ce9f2089ccaf4a73f9044dac5cedc65d2c2321d8d4e040affd4e9034c48af16"]
+[VersionToken "2ce9f2089ccaf4a73f9044dac5cedc65d2c2321d8d4e040affd4e9034c48af16"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -35,7 +35,7 @@ Note North's decision to show the poor 4-card heart suit for their second bid, i
 [Dealer "E"]
 [Vulnerable "NS"]
 [Deal "E:AK92.AQ983.85.86 J64.75.63.AQT432 875.K4.AQJT7.K97 QT3.JT62.K942.J5"]
-[BoardVersionToken "3bb7dcf0323aa6fa6885ebb26c6fd341b4ac97707eed014d09094a60724d9b58"]
+[VersionToken "3bb7dcf0323aa6fa6885ebb26c6fd341b4ac97707eed014d09094a60724d9b58"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -56,7 +56,7 @@ East does not have either 6 \Hs or 5 \Ss so he just bids 3NT.  Notice that East 
 [Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:A9742.A983.K6.Q7 T53.Q54.AQ42.T43 K8.JT7.975.AKJ62 QJ6.K62.JT83.985"]
-[BoardVersionToken "a27a8693be69257dc9d291e00b5f58b83b99f653e230f648cd9486a4cc9d81be"]
+[VersionToken "a27a8693be69257dc9d291e00b5f58b83b99f653e230f648cd9486a4cc9d81be"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -79,7 +79,7 @@ South now must find a bid. His choices include rebidding the 5-card \Ss, support
 [Dealer "E"]
 [Vulnerable "All"]
 [Deal "E:KJ763.AQ7.J4.AQJ Q5.42.A9632.T963 A4.KJT8653.KQ.87 T982.9.T875.K542"]
-[BoardVersionToken "ba9b2d969dcacca9f5aabb891a4e4c42a25b2fee1a4efc4484aa68cdfaf74d39"]
+[VersionToken "ba9b2d969dcacca9f5aabb891a4e4c42a25b2fee1a4efc4484aa68cdfaf74d39"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -105,7 +105,7 @@ The slam is a good one. If either the \SQ or \CK is right there are 12 tricks by
 [Dealer "W"]
 [Vulnerable "None"]
 [Deal "W:9754.T6.J72.8653 AJT.AK985.K96.Q7 KQ2.QJ42.T853.92 863.73.AQ4.AKJT4"]
-[BoardVersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
+[VersionToken "a0a8edcc0e377065cd05649a78f2b1ee923048d6ede7fb100020c29192e4b25f"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -128,7 +128,7 @@ There are 11 top tricks. A 3-3 \H split would provide the 12th winner, but this 
 [Dealer "N"]
 [Vulnerable "EW"]
 [Deal "N:KT.98762.T72.AK2 AJ8752.AK.Q6.J87 94.JT54.853.QT53 Q63.Q3.AKJ94.964"]
-[BoardVersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
+[VersionToken "343a95e8aef2726db19c9efbca9f4a1190d49f1e5af9f38c768afe611e822182"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

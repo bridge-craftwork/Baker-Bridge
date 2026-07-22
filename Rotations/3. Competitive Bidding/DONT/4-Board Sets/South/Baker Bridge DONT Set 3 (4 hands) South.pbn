@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent DONT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT X pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "57aa7c03853542ad44f5fde88701491f96d6d580d456bdb6cd9c2b1cf7a91efb"]
+[VersionToken "57aa7c03853542ad44f5fde88701491f96d6d580d456bdb6cd9c2b1cf7a91efb"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -41,7 +41,7 @@ There is a reason partner didn't say 2\C (which you were going to pass). And the
 1NT 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bde999b3681b0c9f8c9dfad1442634dafda206c5bfbac811d2f34ef03d1ac42f"]
+[VersionToken "bde999b3681b0c9f8c9dfad1442634dafda206c5bfbac811d2f34ef03d1ac42f"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -66,7 +66,7 @@ So you bid 3\H and partner says 4\H.}
 1NT pass pass 2C pass 2D pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c93034d235d8d91024d3a1fac9cacff945f3b3221824b123ad60a7f124f3e444"]
+[VersionToken "c93034d235d8d91024d3a1fac9cacff945f3b3221824b123ad60a7f124f3e444"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]
@@ -93,7 +93,7 @@ You bid 2\S and everybody passes.}
 1NT pass pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "acdac8596aac3387a0f7630b590d0d9b7e8a80c065c3dd1a0d31c171dd23471d"]
+[VersionToken "acdac8596aac3387a0f7630b590d0d9b7e8a80c065c3dd1a0d31c171dd23471d"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/dont"]

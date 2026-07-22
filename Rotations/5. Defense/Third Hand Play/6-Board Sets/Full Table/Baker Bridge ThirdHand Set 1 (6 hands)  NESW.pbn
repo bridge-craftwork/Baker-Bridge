@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8a9e5065716e1cee71c4247decc14d141e23dafd22fe917ae05a8bb084d37ca3"]
+[VersionToken "8a9e5065716e1cee71c4247decc14d141e23dafd22fe917ae05a8bb084d37ca3"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -46,7 +46,7 @@ If you do not put your \SQ on this trick declarer will get an undeserved winner 
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "711b7abf609a99eace81c91331715fc799db23bf078e88ef584acbe1ba29fa41"]
+[VersionToken "711b7abf609a99eace81c91331715fc799db23bf078e88ef584acbe1ba29fa41"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -78,7 +78,7 @@ Played this way you will defeat the contract by one trick. If you allow declarer
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b3eb1be89c62f929c124a16fe062055fd0ff1a25670d5468060b67881a7b6046"]
+[VersionToken "b3eb1be89c62f929c124a16fe062055fd0ff1a25670d5468060b67881a7b6046"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -108,7 +108,7 @@ If instead you play the \CQ, figuring it makes no difference, you'd be right tha
 1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "9194e26882f8dd389b71d3ffd8a3645213e23cd9535ad5d9636ae593531ce3ad"]
+[VersionToken "9194e26882f8dd389b71d3ffd8a3645213e23cd9535ad5d9636ae593531ce3ad"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -142,7 +142,7 @@ For your side, 2 \S tricks and the two minor Aces spell defeat.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bec8cf454cedd5f470bd507bbbddf8323498ddc794fe787a6886d2d01761466b"]
+[VersionToken "bec8cf454cedd5f470bd507bbbddf8323498ddc794fe787a6886d2d01761466b"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -176,7 +176,7 @@ If you play ANY card except your \S2 on the first trick you will not be able to 
 1H 1S pass 2H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "3feed69143df6cc349946bfc985acf5844864eb6e0f1b575ca3499f6b6e751d9"]
+[VersionToken "3feed69143df6cc349946bfc985acf5844864eb6e0f1b575ca3499f6b6e751d9"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]

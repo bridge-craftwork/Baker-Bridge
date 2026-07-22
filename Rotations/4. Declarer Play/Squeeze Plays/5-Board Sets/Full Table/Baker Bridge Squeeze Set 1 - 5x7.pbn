@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2C pass 2D pass 3D pass 3S pass 4NT pass 5D pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4e2843443de8250acb4d412fa6320e7f28039677fbce17a7a4f32b3ab6ede1a1"]
+[VersionToken "4e2843443de8250acb4d412fa6320e7f28039677fbce17a7a4f32b3ab6ede1a1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -61,7 +61,7 @@ You play the \CA and he must give up one of those Guards.}
 2C pass 2D pass 3C pass 3H pass 4NT pass 5C pass 7C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "1a5292a32e6622f25314b5571b9b0d6b27f894de8cf4d80adfb4327f801685a4"]
+[VersionToken "1a5292a32e6622f25314b5571b9b0d6b27f894de8cf4d80adfb4327f801685a4"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -109,7 +109,7 @@ If you discard the \HQ North will throw his \HA. If you discard dummy's fourth \
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c3f30a8173f001854c86d5dcac53d8c2140f8d1c640346a52bfdbd4c572ce542"]
+[VersionToken "c3f30a8173f001854c86d5dcac53d8c2140f8d1c640346a52bfdbd4c572ce542"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -147,7 +147,7 @@ You will toss dummy's \C8 and East will have to decide whether it is better for 
 1NT 2H 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "29573b885fb8fb1be725ac6d5cade5baa354be750ae9c80735448ff455ce753e"]
+[VersionToken "29573b885fb8fb1be725ac6d5cade5baa354be750ae9c80735448ff455ce753e"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -191,7 +191,7 @@ But if he instead throws the \H9, both of dummy's \Hs will become winners.}
 1C 2H X pass 2NT pass 6NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8ae93f3d069591845d429611e04dafba0d671a90bb09a5177ca6ccc8ff3ae0d4"]
+[VersionToken "8ae93f3d069591845d429611e04dafba0d671a90bb09a5177ca6ccc8ff3ae0d4"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]

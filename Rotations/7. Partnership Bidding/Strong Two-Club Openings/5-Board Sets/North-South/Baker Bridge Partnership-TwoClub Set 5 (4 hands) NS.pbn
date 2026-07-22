@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-TwoClub
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "fc8cbe218c67697fac7d45f49e904607295084c68dad6656e21b32b9040abcb1"]
+[VersionToken "fc8cbe218c67697fac7d45f49e904607295084c68dad6656e21b32b9040abcb1"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -44,7 +44,7 @@ Since SOUTH has just the 8 points minimum that he promised, he passes 3NT.}
 2C pass 2D pass 2NT pass 3C pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d79a7bda5f5f01df2316a50b090e0c113bd27cbca7bc7008cef5a9051d85388b"]
+[VersionToken "d79a7bda5f5f01df2316a50b090e0c113bd27cbca7bc7008cef5a9051d85388b"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -73,7 +73,7 @@ When SOUTH shows his \S suit NORTH bids 4\S.}
 2C pass 2NT pass 4C pass 4S pass 5C pass 5H pass 7NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a6170f9334002978ef14c6609c5dafbf381683edb5646b066be8239337113071"]
+[VersionToken "a6170f9334002978ef14c6609c5dafbf381683edb5646b066be8239337113071"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -102,7 +102,7 @@ Next SOUTH should ask for Kings, and when NORTH shows one King SOUTH should bid 
 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "95490a29956197eac5dd5c354a5365e4d1ab93003bd98cd50ad65761d3452309"]
+[VersionToken "95490a29956197eac5dd5c354a5365e4d1ab93003bd98cd50ad65761d3452309"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]

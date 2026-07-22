@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "059bf59d05405cbf8ec88b3cbc469fdb400bdb666eac1c7690fef69eb9212691"]
+[VersionToken "059bf59d05405cbf8ec88b3cbc469fdb400bdb666eac1c7690fef69eb9212691"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -58,7 +58,7 @@ Be on the lookout for this type of situation because many times you have a fines
 3H 3S 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4b1b71b88cb7419a654b3e29d0939abefdc467761e849bac87cd4d6345991d12"]
+[VersionToken "4b1b71b88cb7419a654b3e29d0939abefdc467761e849bac87cd4d6345991d12"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -96,7 +96,7 @@ To make sure the \SA didn't disappear you had to hold it until East no longer ha
 2C pass 2NT pass 4C pass 4D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8d597019b10dd71cd5ef1b949bd0122c2564d27d18cd78a6a0e09c8c4125a1b4"]
+[VersionToken "8d597019b10dd71cd5ef1b949bd0122c2564d27d18cd78a6a0e09c8c4125a1b4"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -138,7 +138,7 @@ You must abandon \Cs temporarily and take the \D finesse. You take your good \Ds
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9e047c8d51867dd62485c485b27b9ce17bc529dd9231d16bc2604aa5fd4b9040"]
+[VersionToken "9e047c8d51867dd62485c485b27b9ce17bc529dd9231d16bc2604aa5fd4b9040"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -182,7 +182,7 @@ Here the \D finesse was one possibility, but by ducking a \H you could test the 
 1S pass 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9a4bca5d13f881d1bcf4cbe186a4a068cf8471d78c0718b0704fec0532b1e897"]
+[VersionToken "9a4bca5d13f881d1bcf4cbe186a4a068cf8471d78c0718b0704fec0532b1e897"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

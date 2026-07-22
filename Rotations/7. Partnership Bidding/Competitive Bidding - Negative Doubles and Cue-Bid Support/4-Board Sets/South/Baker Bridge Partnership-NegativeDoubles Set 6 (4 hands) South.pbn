@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-NegativeDoubles
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1C 1H X pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7e9aacc4bd74b58bbc702f95c07d334dff754ae2ad4929773907a824ea368de1"]
+[VersionToken "7e9aacc4bd74b58bbc702f95c07d334dff754ae2ad4929773907a824ea368de1"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -42,7 +42,7 @@ With 11 points NORTH makes an invitational bid of 3\S but SOUTH declines the inv
 1C 1S 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a1d02e5b0a197e0c0ca90e32dc9b97280dc0f2e141bc8db738f5595c37171a37"]
+[VersionToken "a1d02e5b0a197e0c0ca90e32dc9b97280dc0f2e141bc8db738f5595c37171a37"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -68,7 +68,7 @@ SOUTH bids the \H game.}
 1H 2C 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7a4887448e6e4337c007e197f8d1038b77744e0273d7b61dd5da6fcca4e6186c"]
+[VersionToken "7a4887448e6e4337c007e197f8d1038b77744e0273d7b61dd5da6fcca4e6186c"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]
@@ -95,7 +95,7 @@ NORTH doesn't have a real block-buster.}
 1H 1S 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6af084da710521cf551fb8f070ee468cb0f9dfe9ed8ec6607f96956a6ad85400"]
+[VersionToken "6af084da710521cf551fb8f070ee468cb0f9dfe9ed8ec6607f96956a6ad85400"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/negative_doubles"]

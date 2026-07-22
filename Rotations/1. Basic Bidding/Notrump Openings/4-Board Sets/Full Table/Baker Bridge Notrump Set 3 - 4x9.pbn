@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass pass pass 1NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "000f7516208ff4dd5c405ba0c17ff6babbc68d6fcb12e335e94457707f175829"]
+[VersionToken "000f7516208ff4dd5c405ba0c17ff6babbc68d6fcb12e335e94457707f175829"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -43,7 +43,7 @@ Partner shows 10+ points and exactly 5 \Ss. This time, with 3-card support, you 
 pass 1NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "de645ca92533368ce6ad62ed913ae0deef6c4cf34e3c0f82e95ed763093e6a93"]
+[VersionToken "de645ca92533368ce6ad62ed913ae0deef6c4cf34e3c0f82e95ed763093e6a93"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -70,7 +70,7 @@ So you just return to 3NT. Partner gives up and passes.}
 pass 1NT pass 3C pass 4C pass 4NT pass 5D pass 6C all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5855c671f7616b691d8b4ea6aa896369913e3fc9d7b4af8c87ec7f7fae834b43"]
+[VersionToken "5855c671f7616b691d8b4ea6aa896369913e3fc9d7b4af8c87ec7f7fae834b43"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]
@@ -97,7 +97,7 @@ That is Blackwood. You admit to one Ace and partner bids 6\C.}
 1D 1NT pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "e9ba6f9f809d1bf9316721133c02117ced7422d030339a00463ccbccd47ccf0a"]
+[VersionToken "e9ba6f9f809d1bf9316721133c02117ced7422d030339a00463ccbccd47ccf0a"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]

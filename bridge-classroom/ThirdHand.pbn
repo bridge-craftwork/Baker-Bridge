@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -15,7 +15,7 @@
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "8a9e5065716e1cee71c4247decc14d141e23dafd22fe917ae05a8bb084d37ca3"]
+[VersionToken "8a9e5065716e1cee71c4247decc14d141e23dafd22fe917ae05a8bb084d37ca3"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -48,7 +48,7 @@ If you do not put your \SQ on this trick declarer will get an undeserved winner 
 [Auction "S"]
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "711b7abf609a99eace81c91331715fc799db23bf078e88ef584acbe1ba29fa41"]
+[VersionToken "711b7abf609a99eace81c91331715fc799db23bf078e88ef584acbe1ba29fa41"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -85,7 +85,7 @@ Played this way you will defeat the contract by one trick. If you allow declarer
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "b3eb1be89c62f929c124a16fe062055fd0ff1a25670d5468060b67881a7b6046"]
+[VersionToken "b3eb1be89c62f929c124a16fe062055fd0ff1a25670d5468060b67881a7b6046"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -120,7 +120,7 @@ If instead you play the \CQ, figuring it makes no difference, you'd be right tha
 [Auction "S"]
 1H pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "9194e26882f8dd389b71d3ffd8a3645213e23cd9535ad5d9636ae593531ce3ad"]
+[VersionToken "9194e26882f8dd389b71d3ffd8a3645213e23cd9535ad5d9636ae593531ce3ad"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -159,7 +159,7 @@ For your side, 2 \S tricks and the two minor Aces spell defeat.}
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "bec8cf454cedd5f470bd507bbbddf8323498ddc794fe787a6886d2d01761466b"]
+[VersionToken "bec8cf454cedd5f470bd507bbbddf8323498ddc794fe787a6886d2d01761466b"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -198,7 +198,7 @@ If you play ANY card except your \S2 on the first trick you will not be able to 
 [Auction "E"]
 1H 1S pass 2H pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3feed69143df6cc349946bfc985acf5844864eb6e0f1b575ca3499f6b6e751d9"]
+[VersionToken "3feed69143df6cc349946bfc985acf5844864eb6e0f1b575ca3499f6b6e751d9"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -237,7 +237,7 @@ The extra winner would permit South to discard 2 of dummy's \D losers, and this 
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5ae445135c570445977794a2353b45c0951a84c3147ef2853cf9757f84075d08"]
+[VersionToken "5ae445135c570445977794a2353b45c0951a84c3147ef2853cf9757f84075d08"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -274,7 +274,7 @@ It was a good thing you held the \HK rather than declarer, but it is a nuisance 
 [Auction "N"]
 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "ef60ad4a9cf7bcc9ef6dc6c69b3cec5994bc5dbca3f51c86bf437a09616ce578"]
+[VersionToken "ef60ad4a9cf7bcc9ef6dc6c69b3cec5994bc5dbca3f51c86bf437a09616ce578"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -313,7 +313,7 @@ If declarer played low on the first trick you would win the \HQ, then play the \
 [Auction "N"]
 1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "fb696c65ee7609f6788eb738fe2572079be39b0bcf983c08cd97c2c8dc9ac5ed"]
+[VersionToken "fb696c65ee7609f6788eb738fe2572079be39b0bcf983c08cd97c2c8dc9ac5ed"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -352,7 +352,7 @@ Note that if dummy's \S9 was played you would cover with your \SJ, leading to th
 [Auction "S"]
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "37e1834d9d2f531db9df494254a0598a7bd6c1633c4bab02d55e5f8812c5b2fe"]
+[VersionToken "37e1834d9d2f531db9df494254a0598a7bd6c1633c4bab02d55e5f8812c5b2fe"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -393,7 +393,7 @@ So what happens if you play the \HQ at trick one? South could still make the con
 [Auction "N"]
 1C pass 1S 2H 3S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "92433a205efcd3c9dc47bfea2af97a85cea2919cedc21f6f48713f0cffcd1a6c"]
+[VersionToken "92433a205efcd3c9dc47bfea2af97a85cea2919cedc21f6f48713f0cffcd1a6c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -430,7 +430,7 @@ So win the first \HK (so partner will know you also have the \HA), and play the 
 [Auction "N"]
 1D pass 1H 1S 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "1e1fadd7a4a44074027cfa73989d38095b8898ac156a9ce8b2701b0490c25855"]
+[VersionToken "1e1fadd7a4a44074027cfa73989d38095b8898ac156a9ce8b2701b0490c25855"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -467,7 +467,7 @@ To allow for this situation it will be better to play \Cs from your side of the 
 [Auction "N"]
 1D 1H 2C pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "cef6f181efbf5c06afae7b7945899dce19d1e3cdb5d0917fc55ff2babc3955cf"]
+[VersionToken "cef6f181efbf5c06afae7b7945899dce19d1e3cdb5d0917fc55ff2babc3955cf"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -506,7 +506,7 @@ Not today. Partner takes the \CK and returns his \H2 to your four winners.}
 [Auction "S"]
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "616332e5f73bf5f8feb36f9db40d04fab95eeb701c8458850a374af36f1ea2eb"]
+[VersionToken "616332e5f73bf5f8feb36f9db40d04fab95eeb701c8458850a374af36f1ea2eb"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -545,7 +545,7 @@ So partner's \C9 is not a singleton, and you should wait. Declarer then runs dum
 [Auction "E"]
 1H X pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3728495567284aef35f37add46d0452cc38ba8ec9fa17e50e5b6b743bebd2301"]
+[VersionToken "3728495567284aef35f37add46d0452cc38ba8ec9fa17e50e5b6b743bebd2301"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -582,7 +582,7 @@ Now suppose you duck the \HJ. Again South will push \Cs, and again you hold up u
 [Auction "N"]
 1C 1S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "5460cec4bcb4e64ca93059aaa8aae68d093c4adc2a62ee520ef124a810e32fb8"]
+[VersionToken "5460cec4bcb4e64ca93059aaa8aae68d093c4adc2a62ee520ef124a810e32fb8"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -621,7 +621,7 @@ Notice that South will always make two \S tricks, so your overtake costs nothing
 [Auction "N"]
 1C 2S 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "198dc9bade0a7bc646483d857a5c5f6b92534d32492427e1550b979d13d37be0"]
+[VersionToken "198dc9bade0a7bc646483d857a5c5f6b92534d32492427e1550b979d13d37be0"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -662,7 +662,7 @@ Just like the previous deal, South gets two \S tricks either way, but one way he
 [Auction "S"]
 1H Dbl Rdbl 2C pass 3C 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "03f387be35011ea367168a98eff165b0c4e57f5ec1ddd82c401a839f54c10106"]
+[VersionToken "03f387be35011ea367168a98eff165b0c4e57f5ec1ddd82c401a839f54c10106"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -699,7 +699,7 @@ Partner loves it - whatever South does West takes the next two \Ss, then leads a
 [Auction "N"]
 1D pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "6265e6285bec9707d6d07231e8db1c44a60d88a439b7dfc4690712e41a166f29"]
+[VersionToken "6265e6285bec9707d6d07231e8db1c44a60d88a439b7dfc4690712e41a166f29"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
@@ -736,7 +736,7 @@ If you have a partner who pays attention he will now play a \H for you to ruff. 
 [Auction "S"]
 1C pass 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "fa597030d12005d2a164cc151063d24326c6c345b11252d974e0f145703c20dd"]
+[VersionToken "fa597030d12005d2a164cc151063d24326c6c345b11252d974e0f145703c20dd"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]

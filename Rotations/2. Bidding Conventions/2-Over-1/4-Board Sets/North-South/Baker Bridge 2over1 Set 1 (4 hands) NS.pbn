@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -11,7 +11,7 @@
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:QT5.KQJT5.74.AQ6 K963.86.852.9752 J84.A2.KT963.KJ4 A72.9743.AQJ.T83"]
-[BoardVersionToken "2c634de496e5d304bc360f01c5796ac73e0dbf35c2201f9ebd3538c437674e90"]
+[VersionToken "2c634de496e5d304bc360f01c5796ac73e0dbf35c2201f9ebd3538c437674e90"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -32,7 +32,7 @@ Notice that you would bid this hand the same way whether or not you play 2/1.
 [Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:65.KQJ843.A5.Q63 932.T76.Q872.T75 KJ8.A2.KT963.KJ4 AQT74.95.J4.A982"]
-[BoardVersionToken "467d6d0271bbea37b274807c7e45a640ac9c297929cca8cbeccc0048f4647eb7"]
+[VersionToken "467d6d0271bbea37b274807c7e45a640ac9c297929cca8cbeccc0048f4647eb7"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -54,7 +54,7 @@ The hand is harder to bid in standard bidding - you couldn't bid 3\H to show sla
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:K5.KQJ743.75.AK4 AJT87.5.T94.JT82 Q6.A82.AKQ63.763 9432.T96.J82.Q95"]
-[BoardVersionToken "5e362e199ebc962abf34278846e520f77fd9325ada4b833d517b4b33bc3bff81"]
+[VersionToken "5e362e199ebc962abf34278846e520f77fd9325ada4b833d517b4b33bc3bff81"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -76,7 +76,7 @@ When partner hears about your two keycards without the trump queen, he bids the 
 [Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:AKJ865.43.75.K63 9.QT.AKJT843.QT8 Q.A9865.962.A742 T7432.KJ72.Q.J95"]
-[BoardVersionToken "2247c953e628af447f9741e0aad8619181a0257d0e95ce033e20bc6b7266c0f6"]
+[VersionToken "2247c953e628af447f9741e0aad8619181a0257d0e95ce033e20bc6b7266c0f6"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

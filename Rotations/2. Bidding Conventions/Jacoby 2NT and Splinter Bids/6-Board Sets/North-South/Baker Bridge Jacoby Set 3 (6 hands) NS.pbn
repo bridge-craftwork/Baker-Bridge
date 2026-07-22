@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1S 2C 3C pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "067e2b314ceb7bfc287e099e46438995e10e347c40b5f6a2f03d5fc9eeeb6fcd"]
+[VersionToken "067e2b314ceb7bfc287e099e46438995e10e347c40b5f6a2f03d5fc9eeeb6fcd"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -41,7 +41,7 @@ But he definitely has \S support. You show your minimum hand by bidding 3\S and 
 1H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9aeb631d981a3fb456acf131eb063d4617f0007beaab7063c10221658a10ae81"]
+[VersionToken "9aeb631d981a3fb456acf131eb063d4617f0007beaab7063c10221658a10ae81"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -64,7 +64,7 @@ Note that in this hand the three points you credited for your \SK are completely
 1H pass 4C pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4f51a6b0b6b4418986629d57a003449b6b7aaf3e04d5eb0f2dbad89ad24e7bfa"]
+[VersionToken "4f51a6b0b6b4418986629d57a003449b6b7aaf3e04d5eb0f2dbad89ad24e7bfa"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -85,7 +85,7 @@ Note that in this hand the three points you credited for your \SK are completely
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "94ec3722b13b3fa29a78e9ea945e10babd0e822795048448cd2fbfd94ec19982"]
+[VersionToken "94ec3722b13b3fa29a78e9ea945e10babd0e822795048448cd2fbfd94ec19982"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -108,7 +108,7 @@ Your partner has a better than minimum hand with 6 \Ss. However, you have an ave
 1H pass 2NT pass 4H pass 4S pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "229237496ab0cf58840c7bd3ec148941295086cf70fc1e4a398b767d6b840d0e"]
+[VersionToken "229237496ab0cf58840c7bd3ec148941295086cf70fc1e4a398b767d6b840d0e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -131,7 +131,7 @@ Partner is definitely showing slam interest. If you had a first round control in
 1S pass 4H pass 5C pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6bdfe970d0c8d5d0194a9763dc8d58a138de3a6e4d13690dfbb600d4e288adf8"]
+[VersionToken "6bdfe970d0c8d5d0194a9763dc8d58a138de3a6e4d13690dfbb600d4e288adf8"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]

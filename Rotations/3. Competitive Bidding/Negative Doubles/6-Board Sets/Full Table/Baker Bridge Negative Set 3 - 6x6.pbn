@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Negative
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D 2C X pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c40a2bfdc9b13ba3713830689267c860533b21b9df3ce30d64b9738de219958b"]
+[VersionToken "c40a2bfdc9b13ba3713830689267c860533b21b9df3ce30d64b9738de219958b"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -43,7 +43,7 @@ Once partner confirms he has the \Hs you can revalue your hand to 17 points. Thi
 1C 1D X pass 1S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "29592f789ea26c54d9f0e95edecb2a8e6826730169dfb30806f551a807cbe415"]
+[VersionToken "29592f789ea26c54d9f0e95edecb2a8e6826730169dfb30806f551a807cbe415"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -68,7 +68,7 @@ Partner has a minimum opener with 4 \Ss. You have a minimum response with 4 \Ss.
 1H 2D X pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b4709d72943fdfd69fc56b2e9aa7cfba0c7aa12e3d808127629abcc6145e1010"]
+[VersionToken "b4709d72943fdfd69fc56b2e9aa7cfba0c7aa12e3d808127629abcc6145e1010"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -91,7 +91,7 @@ Sometimes using Negative Doubles seems like you can read minds. You know for sur
 1C 1D 1S pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "5a93fc95f704fe77135c282514c5e7a7131733e129b0fb8496dac6d45a9df806"]
+[VersionToken "5a93fc95f704fe77135c282514c5e7a7131733e129b0fb8496dac6d45a9df806"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -116,7 +116,7 @@ Partner has a minimum hand and fewer than 4 \Ss. A good time for you to pass.}
 1H 2D X pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: W, basisKind:Declarer, nOption:0, nBasis: 3, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "fa23944fee4069d18533262f3447f35d0e71832b9dbe4624ab97e4300f0bdbd7"]
+[VersionToken "fa23944fee4069d18533262f3447f35d0e71832b9dbe4624ab97e4300f0bdbd7"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]
@@ -139,7 +139,7 @@ Partner has 10+ points, a \S suit and fewer than 3 \Hs. Doesn't this look like t
 1C 1D X pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "ac030e6e78ab3f5c8bd2fda01097e4afe61e45b38d9f9e61e929796b1f2cbc9a"]
+[VersionToken "ac030e6e78ab3f5c8bd2fda01097e4afe61e45b38d9f9e61e929796b1f2cbc9a"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/negative_doubles"]

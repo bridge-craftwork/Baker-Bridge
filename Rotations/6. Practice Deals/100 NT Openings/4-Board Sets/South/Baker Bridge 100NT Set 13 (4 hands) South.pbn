@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2H pass 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "48405443ad8844a8e0ae5bd389a2a8ff287ec84d5a4630165694d54c7a9ae990"]
+[VersionToken "48405443ad8844a8e0ae5bd389a2a8ff287ec84d5a4630165694d54c7a9ae990"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -66,7 +66,7 @@ This is called "trump elopement".}
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "86badfbf6e014825175bf3f3cfb58bd86269c9d91dd1412b95bfd8b1ef71bd98"]
+[VersionToken "86badfbf6e014825175bf3f3cfb58bd86269c9d91dd1412b95bfd8b1ef71bd98"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -110,7 +110,7 @@ But if only the \HK is in a favorable position, (with West), you can make the co
 1NT pass 2D pass 2H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "134839755bdb55f312f0ae15e76dc998485a4937b90f6a7c9d8b8efda3336f8c"]
+[VersionToken "134839755bdb55f312f0ae15e76dc998485a4937b90f6a7c9d8b8efda3336f8c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -152,7 +152,7 @@ But there is no reason to go down once every seven times when you don't need to.
 1NT pass 2C pass 2H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8c5b8f49fe1183cc59810dc0391c935a162249aafb70fd348aa7dbe59d0a7114"]
+[VersionToken "8c5b8f49fe1183cc59810dc0391c935a162249aafb70fd348aa7dbe59d0a7114"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

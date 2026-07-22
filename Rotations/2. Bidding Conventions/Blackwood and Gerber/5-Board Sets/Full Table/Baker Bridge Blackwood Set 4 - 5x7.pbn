@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Blackwood
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D pass 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "64c7b2196464306c5fabad1453f15cc7ba6d922e930474158a68b0656bacfaf6"]
+[VersionToken "64c7b2196464306c5fabad1453f15cc7ba6d922e930474158a68b0656bacfaf6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -43,7 +43,7 @@ You are missing one Ace but 6\S should be a good slam.}
 1NT pass 3D pass 4D pass 4NT pass 5H pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "52cff4e0584a4028aa06c3486aca9f52a004308582c45670ec96a071ccd7f910"]
+[VersionToken "52cff4e0584a4028aa06c3486aca9f52a004308582c45670ec96a071ccd7f910"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -68,7 +68,7 @@ Tempting though it may be it is too dangerous to try 6NT. So you bid 6\D which t
 3S pass 4NT pass 6C pass 7S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "deddc343f49f2fe6e4c60d1998ba6ba8ae8123b25461741c96bc2fd147942988"]
+[VersionToken "deddc343f49f2fe6e4c60d1998ba6ba8ae8123b25461741c96bc2fd147942988"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -93,7 +93,7 @@ With 1 Ace and a void in a lower-ranking suit you should bid 6 of that suit. So 
 2NT pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "e080df19ea4a99bf0f23e44d3742d27deb4538bb0f5e3377d4822e1b179ecabe"]
+[VersionToken "e080df19ea4a99bf0f23e44d3742d27deb4538bb0f5e3377d4822e1b179ecabe"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]
@@ -116,7 +116,7 @@ Partner has only a single Ace in his 2NT opener. No slam for your team. You pass
 1H pass 4C pass 4NT pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a070d26ccbaef002bb9a774e8f1e67e676f1ce25443749857bca6c2977165ec9"]
+[VersionToken "a070d26ccbaef002bb9a774e8f1e67e676f1ce25443749857bca6c2977165ec9"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/blackwood"]

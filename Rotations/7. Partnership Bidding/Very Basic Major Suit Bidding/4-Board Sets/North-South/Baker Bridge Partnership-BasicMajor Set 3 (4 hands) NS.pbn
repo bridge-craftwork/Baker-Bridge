@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicMajor
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass pass 1H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1daed2889714064afd4433ffc2da9e8decc05a41ca4a61325a6f2436607c00ab"]
+[VersionToken "1daed2889714064afd4433ffc2da9e8decc05a41ca4a61325a6f2436607c00ab"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -47,7 +47,7 @@ be either 24 or 25. So he passes 3\H.}
 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "623f26f1ab505ea58267738862d1b3f39632fabca9bfabb43423c4cf6e125434"]
+[VersionToken "623f26f1ab505ea58267738862d1b3f39632fabca9bfabb43423c4cf6e125434"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -73,7 +73,7 @@ only reach 24 points when added to his 14.}
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "beecd9c9df8aae46402731b86c1574be6a9f4e26dd558fe729b5c1100639be4e"]
+[VersionToken "beecd9c9df8aae46402731b86c1574be6a9f4e26dd558fe729b5c1100639be4e"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]
@@ -99,7 +99,7 @@ NORTH adds: her 16 plus SOUTH's 11/12 equals a game, 4\S.}
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "4d8ed575265fbb16b24eebca512b546ef8b98978b3e16b8065cfd18b7b905ac8"]
+[VersionToken "4d8ed575265fbb16b24eebca512b546ef8b98978b3e16b8065cfd18b7b905ac8"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_major"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7e1c7bcfe9a55bbed4d9cd7b5da3a5cbcd98dfa8b616f0a8c62b77cc010544f8"]
+[VersionToken "7e1c7bcfe9a55bbed4d9cd7b5da3a5cbcd98dfa8b616f0a8c62b77cc010544f8"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -66,7 +66,7 @@ The second part is figuring out that the \S suit could provide them.}
 1C pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
+[VersionToken "d60b0886ff4d1d8703be91873790b3921a8bd3d415bf44ab5a1c10c3fb952b29"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -112,7 +112,7 @@ Notice that the Danger Hand <b>WAS</b> on lead at one point - the opening lead. 
 2H pass 2NT pass 3D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f2a50035480374aa722f2a6d266d54c8d59c39d513c38dd55c04163560b774ab"]
+[VersionToken "f2a50035480374aa722f2a6d266d54c8d59c39d513c38dd55c04163560b774ab"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -164,7 +164,7 @@ In this case dummy had a certain entry in the \D suit so you take advantage of t
 1H 2D 2H 2S pass pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "dbafb51e8e08b7bd981f3e9b9047d6e37dfbb8272426a1b96bbab5ba7ff0818a"]
+[VersionToken "dbafb51e8e08b7bd981f3e9b9047d6e37dfbb8272426a1b96bbab5ba7ff0818a"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

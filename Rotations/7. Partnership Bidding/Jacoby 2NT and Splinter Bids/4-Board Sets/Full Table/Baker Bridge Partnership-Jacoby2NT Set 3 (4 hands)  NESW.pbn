@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Jacoby2NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 4C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "77b478640eafb62b83b72ecc0e828fd68ee8652858b06eac1878bdb3a20b8949"]
+[VersionToken "77b478640eafb62b83b72ecc0e828fd68ee8652858b06eac1878bdb3a20b8949"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -43,7 +43,7 @@ it does nothing to help the value of her hand. So she bids the \H game.}
 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "74aabfc2d425d8d7678a1a0317f6415823d4d3c035ebe325627b991c5cd7a77f"]
+[VersionToken "74aabfc2d425d8d7678a1a0317f6415823d4d3c035ebe325627b991c5cd7a77f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -70,7 +70,7 @@ So EAST settles for game.}
 1H pass 2NT pass 3H pass 3S pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f9beb32fdcb8aad803cda83536da8cbe9bebfb97a120446bbac3926bc191ae4c"]
+[VersionToken "f9beb32fdcb8aad803cda83536da8cbe9bebfb97a120446bbac3926bc191ae4c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -93,7 +93,7 @@ The next three bids are all Control-showing cue bids.}
 1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "19cb9413c2edad7c1167c0f76c54439db3b00662461904c39ce82db953e3a335"]
+[VersionToken "19cb9413c2edad7c1167c0f76c54439db3b00662461904c39ce82db953e3a335"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]

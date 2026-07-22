@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1H pass 1S pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "881b44891120bdb5792e3c4150dd83598704fff7e04b58918a3d03c645afdf29"]
+[VersionToken "881b44891120bdb5792e3c4150dd83598704fff7e04b58918a3d03c645afdf29"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -55,7 +55,7 @@ Making a plan before they play to the first trick is one of the strengths of win
 pass pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b2f794bbde1b62e08090381bdda05b25952b222908f54ccdf4bc7f34b08c5bc2"]
+[VersionToken "b2f794bbde1b62e08090381bdda05b25952b222908f54ccdf4bc7f34b08c5bc2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -93,7 +93,7 @@ But look carefully at the \D situation. You are going to get exactly two \D tric
 1H pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "438852c25b36364a1ebcc0271a8cd42cc7aa9e86be2d5cb5e5d0a904f2ea0092"]
+[VersionToken "438852c25b36364a1ebcc0271a8cd42cc7aa9e86be2d5cb5e5d0a904f2ea0092"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
@@ -127,7 +127,7 @@ Once again notice that playing the \CA at trick one doesn't cost a thing, you ge
 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "eef2ceb492a6bc52c512c978ce0457c6f14ed3385d05605977924bd7e89ffb2c"]
+[VersionToken "eef2ceb492a6bc52c512c978ce0457c6f14ed3385d05605977924bd7e89ffb2c"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 3C pass 4C pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "203644cab546c4d176a614dab8f73d2cade7a0f4a274d648330b5e908b59c2c9"]
+[VersionToken "203644cab546c4d176a614dab8f73d2cade7a0f4a274d648330b5e908b59c2c9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -66,7 +66,7 @@ But in cases like this one, with a 4-2 split, you cannot afford to waste an entr
 1NT pass 2D pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "12383fb78feab29defdf6b56e4c5ee564eef31fc003ea3acdd5de3260c5bc4b9"]
+[VersionToken "12383fb78feab29defdf6b56e4c5ee564eef31fc003ea3acdd5de3260c5bc4b9"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -112,7 +112,7 @@ Here is an example of when that principle is <b>NOT</b> correct; when you need t
 2NT pass 3C pass 3H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "65aa6f25531be1a7b1d9c6fc21a0152b8aaf2b30cfa99ff0ac25038a9f6ea8c3"]
+[VersionToken "65aa6f25531be1a7b1d9c6fc21a0152b8aaf2b30cfa99ff0ac25038a9f6ea8c3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -162,7 +162,7 @@ Or you could have made it whoever held the \SQ by using the "improved" plan.}
 1NT 2H X pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: E, basisKind:Declarer, nOption:3, nBasis: 1, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "8bbe8beccddb92a68a75ff132d0f47669491e97872ec5f3623a3a48431f367e6"]
+[VersionToken "8bbe8beccddb92a68a75ff132d0f47669491e97872ec5f3623a3a48431f367e6"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -198,7 +198,7 @@ Just play through the deal as you think it might go and see how many tricks you 
 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "35f20b32c7aec0d0ae43fadd1908e05102bb86d96148377f58c4700f7d605eed"]
+[VersionToken "35f20b32c7aec0d0ae43fadd1908e05102bb86d96148377f58c4700f7d605eed"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

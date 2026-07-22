@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Ogust
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 2D pass 2NT pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a0522312d4d038e8c1444cba96cd416dee0b6dc19601b2a2c38832b02ff957bc"]
+[VersionToken "a0522312d4d038e8c1444cba96cd416dee0b6dc19601b2a2c38832b02ff957bc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -43,7 +43,7 @@ Partner's 3\D bid shows a minimum hand but a good suit, which should mean two of
 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "5b645c9cb44326d50235ddf11f598d60f2e2e2c5ab2e70a8f6072a0fa6cf61be"]
+[VersionToken "5b645c9cb44326d50235ddf11f598d60f2e2e2c5ab2e70a8f6072a0fa6cf61be"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -64,7 +64,7 @@ Partner's 3\D bid shows a minimum hand but a good suit, which should mean two of
 pass 2H pass 2NT pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a0b061e172663f1c2c0ffa0091c30ff465a3e956056c042db7a4108e9111281c"]
+[VersionToken "a0b061e172663f1c2c0ffa0091c30ff465a3e956056c042db7a4108e9111281c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -87,7 +87,7 @@ Partner's 3NT bid describes his hand exactly; \H A K Q x x x and nothing else. Y
 2H pass 2NT pass 3S pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "c3f95be26ecd8593379aa05595e59d1f0de36e76cd4519c375c80bc93528948e"]
+[VersionToken "c3f95be26ecd8593379aa05595e59d1f0de36e76cd4519c375c80bc93528948e"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]
@@ -108,7 +108,7 @@ Partner's 3NT bid describes his hand exactly; \H A K Q x x x and nothing else. Y
 pass 2S pass 2NT pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "376d931f2971e2f3cdb85068f8880036b09ea8362b0da21f4a7f5384fc25c66c"]
+[VersionToken "376d931f2971e2f3cdb85068f8880036b09ea8362b0da21f4a7f5384fc25c66c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/ogust"]

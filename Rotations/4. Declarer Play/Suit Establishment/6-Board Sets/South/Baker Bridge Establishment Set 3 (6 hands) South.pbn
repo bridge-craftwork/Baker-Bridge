@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Establishment
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1D pass 1H pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d500d2baba6183bff18470738f535f01864d0066fe7332fd8f85ab6347cf1739"]
+[VersionToken "d500d2baba6183bff18470738f535f01864d0066fe7332fd8f85ab6347cf1739"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -53,7 +53,7 @@ If looked different because of the two finesses you took.}
 pass pass 1C pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "46280b274e8bc70ce9968af6a653b1cd1dbf8b54d7338772ab1b824fe73dca3d"]
+[VersionToken "46280b274e8bc70ce9968af6a653b1cd1dbf8b54d7338772ab1b824fe73dca3d"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -87,7 +87,7 @@ West's play of the \CK may have made you want to jump up with the \CA, but you m
 pass pass 1D pass 1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1eb3e32ce0dfd94173a6fac9a006f33303a53474b52a35e0c7271da465063b8b"]
+[VersionToken "1eb3e32ce0dfd94173a6fac9a006f33303a53474b52a35e0c7271da465063b8b"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -119,7 +119,7 @@ But, it is your only chance to make the contract.}
 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1968fd36c8b086f9099399c76b702d0026e747fdd27ab9676255387de35192db"]
+[VersionToken "1968fd36c8b086f9099399c76b702d0026e747fdd27ab9676255387de35192db"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -151,7 +151,7 @@ If East does not take the second \D you continue the suit, and whether you ruff 
 1NT pass 2D pass 2H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5a003616f325d2898aae8e1bfedf34486ed674d3fae902c4e3dcda4dfc872a64"]
+[VersionToken "5a003616f325d2898aae8e1bfedf34486ed674d3fae902c4e3dcda4dfc872a64"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -183,7 +183,7 @@ But if you win the first trick with the \SA, then dummy's \S Q J will provide a 
 pass pass pass 1D pass 1H pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "1f7ef4cff1ccd88dd67b848d0e1318cb7b491058195abfb624ef6aba5c5b4e6e"]
+[VersionToken "1f7ef4cff1ccd88dd67b848d0e1318cb7b491058195abfb624ef6aba5c5b4e6e"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]

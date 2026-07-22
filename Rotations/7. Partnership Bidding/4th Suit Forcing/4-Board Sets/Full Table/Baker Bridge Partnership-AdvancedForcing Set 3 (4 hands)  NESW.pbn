@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-AdvancedForcing
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass pass 1S pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "7f13b98fd561a0c4cdb22a345654f443cca3d569154f0fef597494501fb78737"]
+[VersionToken "7f13b98fd561a0c4cdb22a345654f443cca3d569154f0fef597494501fb78737"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -43,7 +43,7 @@ raise to game.}
 1H pass 1S pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "4a9bd404b00ec6b0d149a229556eace5a37276b08f1f1eaa5eaea0c904ba87ec"]
+[VersionToken "4a9bd404b00ec6b0d149a229556eace5a37276b08f1f1eaa5eaea0c904ba87ec"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -68,7 +68,7 @@ So EAST should bid the Notrump game.}
 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "712f484745bf1f173195729c9c8794411f56cdf867b3a95c627fe03cd013784d"]
+[VersionToken "712f484745bf1f173195729c9c8794411f56cdf867b3a95c627fe03cd013784d"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -90,7 +90,7 @@ try for game.}
 1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "dcc3bcc2429ce4b14475ace83a4975fe304e2cafe2bba7d4b0f8cdea11146d76"]
+[VersionToken "dcc3bcc2429ce4b14475ace83a4975fe304e2cafe2bba7d4b0f8cdea11146d76"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-AdvancedForcing
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 2H pass 3C pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d5c08543c608c22147aaff3e2290fd33d835aaf480395c7e3dc438e16737e43b"]
+[VersionToken "d5c08543c608c22147aaff3e2290fd33d835aaf480395c7e3dc438e16737e43b"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -43,7 +43,7 @@ so he bids the game.}
 1C pass 1D pass 1S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "0f345c1e54c48ddc2acf80c7243b52affca74b9641fd0a99370229b6ef7652a9"]
+[VersionToken "0f345c1e54c48ddc2acf80c7243b52affca74b9641fd0a99370229b6ef7652a9"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -69,7 +69,7 @@ EAST should ignore the \H suit and bid 3NT.}
 1D pass 1S pass 2C pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "34306a4920ed27da2988c2cacac6fcb3021a6d82a61bbc483ff6ae9da95e02f2"]
+[VersionToken "34306a4920ed27da2988c2cacac6fcb3021a6d82a61bbc483ff6ae9da95e02f2"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -94,7 +94,7 @@ NORTH recognizes that SOUTH must hold five \Ss and bids the \S game.}
 1D pass 1H pass 1NT pass 2C pass 2D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "69736e156bb4f41613bd5959a630abcaa8134606800c3abeb6c23089c4c09e2d"]
+[VersionToken "69736e156bb4f41613bd5959a630abcaa8134606800c3abeb6c23089c4c09e2d"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]

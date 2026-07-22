@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Notrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 4C pass 4S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "4a3da30e349388557383781b830831264ddf020616306d3fd079e1a1eff0b399"]
+[VersionToken "4a3da30e349388557383781b830831264ddf020616306d3fd079e1a1eff0b399"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]

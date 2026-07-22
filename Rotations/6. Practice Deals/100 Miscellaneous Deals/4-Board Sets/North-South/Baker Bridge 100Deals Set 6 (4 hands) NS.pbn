@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 2C pass 2D pass 2S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "5fb6195b42c9a61e5bdd58a0b9fcd2dd2eabe15942f7d8c069993ace8d430772"]
+[VersionToken "5fb6195b42c9a61e5bdd58a0b9fcd2dd2eabe15942f7d8c069993ace8d430772"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -66,7 +66,7 @@ You would have played \CA, \C K, then a small \C to dummy's \CJ. West would ruff
 1C pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ee2d4cda4ba3ae4300cead6f8cdff20f35c9194f921477fdd630513816af4f30"]
+[VersionToken "ee2d4cda4ba3ae4300cead6f8cdff20f35c9194f921477fdd630513816af4f30"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -110,7 +110,7 @@ You were a little lucky that the defender who got the ruff, East, was the one wh
 1D pass 2C pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "40832d796e653ab753c5d22cf9b67324d886e4dd146121e1347d57c001f96a15"]
+[VersionToken "40832d796e653ab753c5d22cf9b67324d886e4dd146121e1347d57c001f96a15"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]
@@ -146,7 +146,7 @@ The best thing about this plan is that when you test the \Ds, if it turns out th
 1C pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e18bc138ae131e867801fe1ca7163d99bd61e11d1c7572756c01b640346f4525"]
+[VersionToken "e18bc138ae131e867801fe1ca7163d99bd61e11d1c7572756c01b640346f4525"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_miscellaneous"]

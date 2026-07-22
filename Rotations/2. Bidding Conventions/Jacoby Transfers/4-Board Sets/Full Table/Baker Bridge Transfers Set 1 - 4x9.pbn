@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Transfers
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2D pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "82c8a5754350c766a5110daaf1adeb37c15b605285353ca4fe53c710471953aa"]
+[VersionToken "82c8a5754350c766a5110daaf1adeb37c15b605285353ca4fe53c710471953aa"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -44,7 +44,7 @@ As you can see from partner's hand you made the right call. Played in \Hs your h
 1NT pass 2H pass 2S pass 2NT pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "8a6d534cd0bca37f1c94053135c29ada806db180a3676d2d3a3505d41ab5f0df"]
+[VersionToken "8a6d534cd0bca37f1c94053135c29ada806db180a3676d2d3a3505d41ab5f0df"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -75,7 +75,7 @@ As you can see, a 4\S contract would have no chance, losing 1 trick in each side
 1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "34beab0298ac8a39d2af4624f3549474b2e3511e625f6153947153e2a1a315cd"]
+[VersionToken "34beab0298ac8a39d2af4624f3549474b2e3511e625f6153947153e2a1a315cd"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -106,7 +106,7 @@ A 4\S contract is definitely the place to be. }
 1NT pass 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "4ef7412a0e856dc8d463a988de73534b9565289b94083ff74a8939bc22c3f693"]
+[VersionToken "4ef7412a0e856dc8d463a988de73534b9565289b94083ff74a8939bc22c3f693"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]

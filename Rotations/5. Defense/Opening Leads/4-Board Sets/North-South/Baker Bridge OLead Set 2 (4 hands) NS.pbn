@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent OLead
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "e75af1242f3e4704874796049da936925c057f41b187fff015e2a07e1e8a167c"]
+[VersionToken "e75af1242f3e4704874796049da936925c057f41b187fff015e2a07e1e8a167c"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -45,7 +45,7 @@ North will likely try the \C finesse, and when West wins the \CK he will return 
 1D pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b742afe2826b9ac67b677a11acb56a20c7efcf62a4b6110076822704f9899f9e"]
+[VersionToken "b742afe2826b9ac67b677a11acb56a20c7efcf62a4b6110076822704f9899f9e"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -78,7 +78,7 @@ As you can imagine, declarer will be in a whole lot of trouble.}
 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "85f3e08e57b0879fd8c9656e0700f04275c6f702026140a1720d9e6c77e103eb"]
+[VersionToken "85f3e08e57b0879fd8c9656e0700f04275c6f702026140a1720d9e6c77e103eb"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]
@@ -110,7 +110,7 @@ Declarer has 11 winners sitting there; if you had led a low \S you would have ha
 1D pass 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3ab6029ef25bb4601ec1095b52d0a0c4d5c2c519a3910a304aecf0d73ccd5e32"]
+[VersionToken "3ab6029ef25bb4601ec1095b52d0a0c4d5c2c519a3910a304aecf0d73ccd5e32"]
 [Category "Defense"]
 [Difficulty "beginner"]
 [SkillPath "defense/opening_leads"]

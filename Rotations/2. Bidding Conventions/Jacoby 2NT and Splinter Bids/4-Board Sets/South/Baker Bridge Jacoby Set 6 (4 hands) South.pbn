@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 4C pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "277a7f1e970e148a112764caf8f0547599256213edd721426780cad99e6516fa"]
+[VersionToken "277a7f1e970e148a112764caf8f0547599256213edd721426780cad99e6516fa"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -41,7 +41,7 @@ If partner can take care of your three \C losers you will have just one \S loser
 1S pass 2NT pass 3H pass 4D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d7e88889bb81b5e7a4eb7ad7407756a476ea0a6e8254480ee4e90110daf1a119"]
+[VersionToken "d7e88889bb81b5e7a4eb7ad7407756a476ea0a6e8254480ee4e90110daf1a119"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -64,7 +64,7 @@ Your \H holding hasn't been enhanced by partner's singleton. You feel like just 
 1H pass 2NT pass 3H pass 3S pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "372a774b86db25a4b53ef4350bb31a86232f745fc951e891471fe498640edd10"]
+[VersionToken "372a774b86db25a4b53ef4350bb31a86232f745fc951e891471fe498640edd10"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
@@ -89,7 +89,7 @@ Oops. Despite all the points you are missing two Aces. So you thank Mr. Blackwoo
 1S pass 2NT pass 4D pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6273957b4cec394bcdb5ec40836c28192273fb7a66e700212f39de6fa1a9668c"]
+[VersionToken "6273957b4cec394bcdb5ec40836c28192273fb7a66e700212f39de6fa1a9668c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]

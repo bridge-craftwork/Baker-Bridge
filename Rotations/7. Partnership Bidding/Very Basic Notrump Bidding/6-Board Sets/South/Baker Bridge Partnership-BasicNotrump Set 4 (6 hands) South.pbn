@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicNotrump
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 pass 1NT pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "11aa4fcca2711326ffdc1e58aaf3b7fee53485005a670877c8233c4d950974e9"]
+[VersionToken "11aa4fcca2711326ffdc1e58aaf3b7fee53485005a670877c8233c4d950974e9"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -45,7 +45,7 @@ He figured right - SOUTH had 17 points so she bid 6NT.}
 1NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "9b666036ec57429a03b0ba45a4785dd0a8a5abfba27cbe63b5b1c2e95f5cab9b"]
+[VersionToken "9b666036ec57429a03b0ba45a4785dd0a8a5abfba27cbe63b5b1c2e95f5cab9b"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -72,7 +72,7 @@ Notice how easy this will be to play once that Club suit is established.}
 pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "78e448e81d1ee447bb74e01250fb0586e42a0d3dcb7893af97369e91d6e37343"]
+[VersionToken "78e448e81d1ee447bb74e01250fb0586e42a0d3dcb7893af97369e91d6e37343"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -96,7 +96,7 @@ total cannot be more than 24. So he just passes 2NT.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6dc4481df2d1b6680a26aa21b11f178c7d4e3fdb2dbf0e4a838210b28e5bbaf2"]
+[VersionToken "6dc4481df2d1b6680a26aa21b11f178c7d4e3fdb2dbf0e4a838210b28e5bbaf2"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -124,7 +124,7 @@ Sometimes correct bidding gets you to unmakeable contracts. But it's only a game
 pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "6d2691c805a2c1c9266c0f75c836d2461d5e0d47630b46a6d9ea2227641d56e5"]
+[VersionToken "6d2691c805a2c1c9266c0f75c836d2461d5e0d47630b46a6d9ea2227641d56e5"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]
@@ -149,7 +149,7 @@ total will come to 34 or 35 so he bids 6NT.}
 pass pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
+[VersionToken "761d5b3569815e7429813b9c4953fad51334f349f7be0771000e204a8e876398"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_notrump"]

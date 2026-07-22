@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3c5d16aea1cbcceec6efb4bcd1b74874103715c6958b292929c515cf14fa154a"]
+[VersionToken "3c5d16aea1cbcceec6efb4bcd1b74874103715c6958b292929c515cf14fa154a"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -81,7 +81,7 @@ So you establish a \D winner and make your contract.}
 2C pass 3D pass 4NT pass 5D pass 5NT pass 6D pass 7C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "e71b40e5c33b4458280cdcea1ab5e9128301b3fcad20ab11e93677741e91eadc"]
+[VersionToken "e71b40e5c33b4458280cdcea1ab5e9128301b3fcad20ab11e93677741e91eadc"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -131,7 +131,7 @@ And you take the last three tricks with the \H suit. There were only two defende
 2C 4S pass pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "f466d794eb08a4081e03427744dda02940d5c133f70cdbaf4f586e8691027945"]
+[VersionToken "f466d794eb08a4081e03427744dda02940d5c133f70cdbaf4f586e8691027945"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -177,7 +177,7 @@ Yet another slam, courtesy of the Squeeze Play!}
 1S pass pass X 2D 2NT pass 4H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "bd4c429419f383161aeb37f9c943eacf26b4ee6b055cf46b268cb6bfa00d0a45"]
+[VersionToken "bd4c429419f383161aeb37f9c943eacf26b4ee6b055cf46b268cb6bfa00d0a45"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
@@ -229,7 +229,7 @@ So you dump dummy's \SK and win the last two tricks with the \DA and then the \D
 1H 1S pass 2H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2371184727df45669276ca5b1a1802a0882938aa89b709b40096d063e4e9718a"]
+[VersionToken "2371184727df45669276ca5b1a1802a0882938aa89b709b40096d063e4e9718a"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]

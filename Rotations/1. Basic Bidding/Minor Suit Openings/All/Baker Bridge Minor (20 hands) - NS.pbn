@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Minor
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1D pass 1H pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "6af927da085756b132ec8aaa8f5a6001dc1e2dce7691608de6dba94dbe3bff72"]
+[VersionToken "6af927da085756b132ec8aaa8f5a6001dc1e2dce7691608de6dba94dbe3bff72"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -43,7 +43,7 @@ Partner's response is forcing. He might have anywhere from 6 points to about 17.
 1D pass 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b830a1ef2da3e84c000bc7f875d5c73181c5a0fae7ae241b2df2a642710ed335"]
+[VersionToken "b830a1ef2da3e84c000bc7f875d5c73181c5a0fae7ae241b2df2a642710ed335"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -72,7 +72,7 @@ So you pass and hope for the best.}
 1C pass 1H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "41d03d1a273fb77ad74a43e8f29672416b6fa3ef4d3372afe031d431f42b59b1"]
+[VersionToken "41d03d1a273fb77ad74a43e8f29672416b6fa3ef4d3372afe031d431f42b59b1"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -99,7 +99,7 @@ That gives you 20 points; add partner's 6-10 and you have enough for game. She w
 1C pass 1S pass 3S pass 4S all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "1ccdd400f45b24e47d8d83593ef66ec10464d575f69c336601ce64d349a1d7c7"]
+[VersionToken "1ccdd400f45b24e47d8d83593ef66ec10464d575f69c336601ce64d349a1d7c7"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -126,7 +126,7 @@ When you are in-between like this you just invite. So you jump to 3\S. This tell
 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "38347b996639bcc0a9d89d19d436632717418653e317cbdf622a0665adae7485"]
+[VersionToken "38347b996639bcc0a9d89d19d436632717418653e317cbdf622a0665adae7485"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -153,7 +153,7 @@ Partner's bid shows 13-16 points, balanced. And most importantly, it denies hold
 1D pass 1NT pass 2C pass 3C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "61b76d593df988b04990568a544fe634fa4295228b571b682fc040b1e1e8f66b"]
+[VersionToken "61b76d593df988b04990568a544fe634fa4295228b571b682fc040b1e1e8f66b"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -180,7 +180,7 @@ Partner evidently found some hidden treasure when he revalued! But you still hav
 1C pass 3C pass 4NT pass 5D pass 6C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "fbf171d01244c85f99d615a159fba2dc066c5cf62ecd3bbab5b75da093b658fd"]
+[VersionToken "fbf171d01244c85f99d615a159fba2dc066c5cf62ecd3bbab5b75da093b658fd"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -209,7 +209,7 @@ Blackwood did its job. You are missing one Ace so all thoughts of a Grand are pu
 1D pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e953a16e145dc3c28419ee26c840b445ab638f79d748ff92dd9b0f71fdb1fbf4"]
+[VersionToken "e953a16e145dc3c28419ee26c840b445ab638f79d748ff92dd9b0f71fdb1fbf4"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -234,7 +234,7 @@ Partner suggests that \Ds is your suit, and he may be right. But you would much 
 1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "772164cca6fca1ba2d2485f5f15ff47bf32e97b5eabc409e9c1b45689169c0d9"]
+[VersionToken "772164cca6fca1ba2d2485f5f15ff47bf32e97b5eabc409e9c1b45689169c0d9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -259,7 +259,7 @@ This would be an ideal hand to open 1NT - well, it would be with one less point.
 1D pass 1S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3969570423bd82d757846bb9c1cab594218ffca28ccb6c3078ae9e1b250bbf83"]
+[VersionToken "3969570423bd82d757846bb9c1cab594218ffca28ccb6c3078ae9e1b250bbf83"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -288,7 +288,7 @@ Bidding 4\S was a good choice. It makes easily, yet 3NT might have gone down.}
 1C pass 1S pass 2S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3187dd05d014520d5eeb9ffd8e8ee626e6cdc8bd8cb3ce8ddc6b0d7ad1f510e9"]
+[VersionToken "3187dd05d014520d5eeb9ffd8e8ee626e6cdc8bd8cb3ce8ddc6b0d7ad1f510e9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -313,7 +313,7 @@ Are you tempted to bid 3\S since partner raised you? Don't be. He showed a minim
 1D pass 1H pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b250f5778fcdab04d3d22360290f49cba41e8a203bc57770ef14c6877c0af3b9"]
+[VersionToken "b250f5778fcdab04d3d22360290f49cba41e8a203bc57770ef14c6877c0af3b9"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -338,7 +338,7 @@ Remember "She who knows, goes"? You know of the 8-card Major fit. You know of at
 1C pass 1H pass 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a56a373031641c0ebc412a6887383e859cd34e1b762dcf01668166c519512760"]
+[VersionToken "a56a373031641c0ebc412a6887383e859cd34e1b762dcf01668166c519512760"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -363,7 +363,7 @@ Perfect bidding isn't always rewarded. They can win three \D tricks and the Ace 
 1D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d372841fd5a548e83265cb58f01e158bef6addd6c1f7efacc9fbd5d9aaa94569"]
+[VersionToken "d372841fd5a548e83265cb58f01e158bef6addd6c1f7efacc9fbd5d9aaa94569"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -388,7 +388,7 @@ Anyway, you bid 2NT and partner raises to 3NT.}
 1C pass 1H pass 1S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "341b8767c8d9bd3ae7f6267d18342607a7831e755ff0132c1aca491863f9f498"]
+[VersionToken "341b8767c8d9bd3ae7f6267d18342607a7831e755ff0132c1aca491863f9f498"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -413,7 +413,7 @@ Partner doesn't have 4 \Hs so you go back to thinking this is an ideal notrump h
 1D pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3de9ae671ab9d96633401d09ed93f6099110b2617366010cadf7639d873439f0"]
+[VersionToken "3de9ae671ab9d96633401d09ed93f6099110b2617366010cadf7639d873439f0"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -438,7 +438,7 @@ You described your hand very well with your first bid. Partner heard the descrip
 1C pass 1S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "603db5e353821feaefe87627253672b64eb791881f39cf7d752d31bbf6b40d4f"]
+[VersionToken "603db5e353821feaefe87627253672b64eb791881f39cf7d752d31bbf6b40d4f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -463,7 +463,7 @@ You started with just 6 points, and after discovering the \S fit you revalue all
 1D pass 1H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ee6705712fab889e3c079c5212b74a2df80ec7e42845a17861d32d413b95c38"]
+[VersionToken "0ee6705712fab889e3c079c5212b74a2df80ec7e42845a17861d32d413b95c38"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -486,7 +486,7 @@ Partner knows you may have only 6 points and went to the 3-level anyway. He is i
 1C pass 1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3d9b8c407077e40e8ca214eed825e2ff523e9e3bba2709b10d16fdebbef1db9d"]
+[VersionToken "3d9b8c407077e40e8ca214eed825e2ff523e9e3bba2709b10d16fdebbef1db9d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -513,7 +513,7 @@ You probably say "Oh Darn!" or perhaps something less printable. But then you ju
 1D pass 2D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "a3a40f383f9a63d38ab67aedec2b7454a45f0e470bc340ca4550966be98eeb0c"]
+[VersionToken "a3a40f383f9a63d38ab67aedec2b7454a45f0e470bc340ca4550966be98eeb0c"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]

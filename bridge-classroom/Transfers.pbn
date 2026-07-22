@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Transfers
 %bridge-classroom-stable: true
@@ -14,7 +14,7 @@
 [Auction "N"]
 1NT pass 2D pass 2H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "82c8a5754350c766a5110daaf1adeb37c15b605285353ca4fe53c710471953aa"]
+[VersionToken "82c8a5754350c766a5110daaf1adeb37c15b605285353ca4fe53c710471953aa"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -43,7 +43,7 @@ As you can see from partner's hand you made the right call. Played in \Hs your h
 [Auction "N"]
 1NT pass 2H pass 2S pass 2NT pass 3S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "8a6d534cd0bca37f1c94053135c29ada806db180a3676d2d3a3505d41ab5f0df"]
+[VersionToken "8a6d534cd0bca37f1c94053135c29ada806db180a3676d2d3a3505d41ab5f0df"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -76,7 +76,7 @@ As you can see, a 4\S contract would have no chance, losing 1 trick in each side
 [Auction "N"]
 1NT pass 2H pass 2S pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "34beab0298ac8a39d2af4624f3549474b2e3511e625f6153947153e2a1a315cd"]
+[VersionToken "34beab0298ac8a39d2af4624f3549474b2e3511e625f6153947153e2a1a315cd"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -109,7 +109,7 @@ A 4\S contract is definitely the place to be. }
 [Auction "N"]
 1NT pass 2D pass 2H pass 3H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "4ef7412a0e856dc8d463a988de73534b9565289b94083ff74a8939bc22c3f693"]
+[VersionToken "4ef7412a0e856dc8d463a988de73534b9565289b94083ff74a8939bc22c3f693"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -144,7 +144,7 @@ As you can see, making even 9 tricks is going to be a challenge.}
 [Auction "N"]
 1NT pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "fcf513047d7b53744b4c1e1ccefddcbba189a9cd16f0e1a8eb90b265cd83f1c8"]
+[VersionToken "fcf513047d7b53744b4c1e1ccefddcbba189a9cd16f0e1a8eb90b265cd83f1c8"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -171,7 +171,7 @@ You know you have at least an 8-card \H fit. You know you have at least 26 point
 [Auction "N"]
 1NT pass 2D pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a6dcb0f5282592930278916cae6d2a7af437d959b8a0031c58b14301d65a96ed"]
+[VersionToken "a6dcb0f5282592930278916cae6d2a7af437d959b8a0031c58b14301d65a96ed"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -202,7 +202,7 @@ Note that you must have at least one Major suit fit since partner cannot have a 
 [Auction "N"]
 1NT pass 2H pass 2S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "6cfefc4ea8f3a8a39f8708d2c934f222856115addab5dab22d48520904873af7"]
+[VersionToken "6cfefc4ea8f3a8a39f8708d2c934f222856115addab5dab22d48520904873af7"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -235,7 +235,7 @@ If you held an even stronger hand and wished to move toward a slam you would sta
 [Auction "N"]
 1NT pass 2H pass 2S pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "dc20c13937c2ebe6123b32e92c50a3bc42e6f9b80a21aabb1e127282fe4035eb"]
+[VersionToken "dc20c13937c2ebe6123b32e92c50a3bc42e6f9b80a21aabb1e127282fe4035eb"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -264,7 +264,7 @@ Having made the try, you accept whatever partner decides. In this case, with a 1
 [Auction "N"]
 1NT pass 2H pass 2S pass 4NT pass 6NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "381b84c2ebebc40d581b0fd0c9c3c751398caa6cd0d4899327a8376178a81ca3"]
+[VersionToken "381b84c2ebebc40d581b0fd0c9c3c751398caa6cd0d4899327a8376178a81ca3"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -299,7 +299,7 @@ Here both partners understood the bid and North bid 6NT.}
 [Auction "N"]
 2NT pass 3D pass 3H pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "8ce4f9c124c78127a34c8930165584800c5a22db737945a27decb2aa4adffce9"]
+[VersionToken "8ce4f9c124c78127a34c8930165584800c5a22db737945a27decb2aa4adffce9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -330,7 +330,7 @@ Notice that when partner opens 2NT the invitation to game option is no longer av
 [Auction "S"]
 1NT pass 2D pass 2H pass 2NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "05b074efdb02ed018bd4e1267913bf716f0c3de636c99b0fbad00c9f7b9963b8"]
+[VersionToken "05b074efdb02ed018bd4e1267913bf716f0c3de636c99b0fbad00c9f7b9963b8"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -361,7 +361,7 @@ So you pass.}
 [Auction "S"]
 1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "8d33e5b8fad6057be080b35b554704c5084b4a823ec906b8ca4e4c74897fd24f"]
+[VersionToken "8d33e5b8fad6057be080b35b554704c5084b4a823ec906b8ca4e4c74897fd24f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -392,7 +392,7 @@ So you bid 3NT.}
 [Auction "S"]
 1NT pass 2D pass 2H pass 2NT pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "030e5d28f77bb2c1fc170e5a059b1e9c5eae5052dcf6c7f93a5444b381262774"]
+[VersionToken "030e5d28f77bb2c1fc170e5a059b1e9c5eae5052dcf6c7f93a5444b381262774"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -425,7 +425,7 @@ With your 3-3-3-4 distribution you might have been tempted to bid 3NT instead of
 [Auction "S"]
 1NT pass 2H pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "a6a9dd179679affd14748e2809e170dad57189bcae39c612c4dd6fd827dba1e9"]
+[VersionToken "a6a9dd179679affd14748e2809e170dad57189bcae39c612c4dd6fd827dba1e9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -458,7 +458,7 @@ You pass. And you're going to have to play great to make even 9 tricks!}
 [Auction "S"]
 1NT pass 2D pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "7383e54931b370eee269c3d07c012b3c9e0ca9656442b73d9e6aa2c69b5b6de2"]
+[VersionToken "7383e54931b370eee269c3d07c012b3c9e0ca9656442b73d9e6aa2c69b5b6de2"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -487,7 +487,7 @@ Partner has 9 points and 6 \Hs. You have 17 points and 3 \Hs. That adds up to 26
 [Auction "S"]
 1NT pass 2H pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "edda2598543865879cafae594b6690dd4fde28c43918cef917e52fff50d7f76e"]
+[VersionToken "edda2598543865879cafae594b6690dd4fde28c43918cef917e52fff50d7f76e"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -516,7 +516,7 @@ Since you have 17 points you accept the invitation, but with only 2 \Ss you choo
 [Auction "S"]
 1NT pass 2D pass 2H pass 2S pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "01b0600e204ce36517ead4a6f89db8ac8340303c6dfb3314f2e4423f51fe486c"]
+[VersionToken "01b0600e204ce36517ead4a6f89db8ac8340303c6dfb3314f2e4423f51fe486c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -547,7 +547,7 @@ Despite your \Ss being so beautiful there are only two of them so you pick \Hs. 
 [Auction "S"]
 1NT pass 2H pass 2S pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "3e26981a7977cdf69ca15986e141580a6d8d6ce96dc77efcf857a85d9d1d3bc3"]
+[VersionToken "3e26981a7977cdf69ca15986e141580a6d8d6ce96dc77efcf857a85d9d1d3bc3"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -578,7 +578,7 @@ What does matter is those minor suits. If the opening lead is a \C or \D, which 
 [Auction "S"]
 1NT pass 2D pass 3H pass 4C pass 4D pass 6H all pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "d47989381a251976a82c05494feaa37802b1d4a3061fd82e01ea1f74b620878a"]
+[VersionToken "d47989381a251976a82c05494feaa37802b1d4a3061fd82e01ea1f74b620878a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -613,7 +613,7 @@ That was all partner needed to hear, he jumps straight to 6\H.}
 [Auction "S"]
 2NT pass 3H pass 3S pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "4209d3ca1f6b4dadbf678e5fb9c8e1b677fc1766ad8d52e4fa20e6ca90e2e4db"]
+[VersionToken "4209d3ca1f6b4dadbf678e5fb9c8e1b677fc1766ad8d52e4fa20e6ca90e2e4db"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -644,7 +644,7 @@ One hand doesn't mean it will always be like this, but usually if you have an 8-
 [Auction "S"]
 1NT pass 2D pass 2H pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "61723d84f412a1cf0a884e950130518e338de7f312a0c5052945fc4ba8f5a97d"]
+[VersionToken "61723d84f412a1cf0a884e950130518e338de7f312a0c5052945fc4ba8f5a97d"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -675,7 +675,7 @@ Once you understand partner's bid, your next move is simple. You have a maximum 
 [Auction "S"]
 1NT pass 2D pass 2H pass 3C pass 3NT pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "eccef3be0d4472bbae180a788298cebdd84a4a40dd1166d821ba8f4662d88524"]
+[VersionToken "eccef3be0d4472bbae180a788298cebdd84a4a40dd1166d821ba8f4662d88524"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -706,7 +706,7 @@ He is interested in slam and wants help from you in either of his suits. You hav
 [Auction "S"]
 1NT pass 2D 2S pass pass 3NT pass 4H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "60d7c871e76e1f91587bf85b26dc6f711b27d0be808b0aecf614277d0e95c63c"]
+[VersionToken "60d7c871e76e1f91587bf85b26dc6f711b27d0be808b0aecf614277d0e95c63c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -739,7 +739,7 @@ You have a minimum, but with 3 \Hs you prefer the suit game to 3NT so you bid 4\
 [Auction "S"]
 1NT pass 2D 2S 3H pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "610d917e8188614274fe4ce6bfd4536eac7280986397b1e2062d454b568deaba"]
+[VersionToken "610d917e8188614274fe4ce6bfd4536eac7280986397b1e2062d454b568deaba"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]
@@ -768,7 +768,7 @@ However, in this case you know that your side has at least 9 \Hs, and you are we
 [Auction "S"]
 1NT pass 2D 2S pass pass X pass pass pass
 [BCFlags "1f"]
-[BoardVersionToken "51b09af6cbfeab28911b03109aadb0949d69d959325bc7c4cca34bcb582f18b7"]
+[VersionToken "51b09af6cbfeab28911b03109aadb0949d69d959325bc7c4cca34bcb582f18b7"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/jacoby_transfers"]

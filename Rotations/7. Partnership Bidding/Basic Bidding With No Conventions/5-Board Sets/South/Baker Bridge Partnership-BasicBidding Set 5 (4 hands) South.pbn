@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-BasicBidding
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 4NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "44f13fed1e2a6257e3e9c43592df520dc265ec49c39b745899b74daeac51d1e2"]
+[VersionToken "44f13fed1e2a6257e3e9c43592df520dc265ec49c39b745899b74daeac51d1e2"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
@@ -44,7 +44,7 @@ With one more point SOUTH might bid the slam, but here she just passes.}
 1NT pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "bcdc021d26bfa00b49730f2064528310717671bb32507e5f051758da43561743"]
+[VersionToken "bcdc021d26bfa00b49730f2064528310717671bb32507e5f051758da43561743"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
@@ -70,7 +70,7 @@ SOUTH doesn't have maximum, he has minimum, so he passes.}
 1C pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "0ba88ce06337d975e9c6dd52c30d8a86922fdeef08414a167bf37da3be01e814"]
+[VersionToken "0ba88ce06337d975e9c6dd52c30d8a86922fdeef08414a167bf37da3be01e814"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]
@@ -95,7 +95,7 @@ NORTH now shows her 4-card support plus her extra strength by jumping to 3\S and
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "cdc39156a3847189fe8b2c74a320d62ebbce3dcfcb3875813948f4d1c2ea0694"]
+[VersionToken "cdc39156a3847189fe8b2c74a320d62ebbce3dcfcb3875813948f4d1c2ea0694"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]
 [SkillPath "partnership_bidding/basic_bidding"]

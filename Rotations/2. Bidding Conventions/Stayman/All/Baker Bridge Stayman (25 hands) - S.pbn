@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Stayman
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "3c76f1a08b1f9a7425d27881b115a7f9ae5273efd784835e20c08337c0322670"]
+[VersionToken "3c76f1a08b1f9a7425d27881b115a7f9ae5273efd784835e20c08337c0322670"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -42,7 +42,7 @@ It is far too risky to play for that possibility. So you just pass.}
 1NT pass 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "0b8294a91c4db35f5cb9eb035d9c10ac9f07731cd7b7986937b91537c1b8f089"]
+[VersionToken "0b8294a91c4db35f5cb9eb035d9c10ac9f07731cd7b7986937b91537c1b8f089"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -69,7 +69,7 @@ He has a maximum and he bids 3NT.}
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d8cdb2d1c2fcc00eb8bde429d6cfecf2f9007d884b72e691d19bb4e01286f652"]
+[VersionToken "d8cdb2d1c2fcc00eb8bde429d6cfecf2f9007d884b72e691d19bb4e01286f652"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -96,7 +96,7 @@ There is really no right or wrong here, between 3\S and 4\S. Those extra 10's an
 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "718af101ecd307d64c1e68eaf2b83b76b1368a63a2eef8e429e001b81cd24f5c"]
+[VersionToken "718af101ecd307d64c1e68eaf2b83b76b1368a63a2eef8e429e001b81cd24f5c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -121,7 +121,7 @@ Partner doesn't have a 4-card Major so your side doesn't have an 8-card Major fi
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "79dd3098553afc8ecb322e74fdc915fb4d3028f0ec130c30d2dba5a76d6fb00c"]
+[VersionToken "79dd3098553afc8ecb322e74fdc915fb4d3028f0ec130c30d2dba5a76d6fb00c"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -148,7 +148,7 @@ You bid 4\S.}
 1NT pass 2C pass 2D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f7c64ab5e62b3bba44f73c6cf3bb7545a043b8c5381948e80ce6b60966b1e2e5"]
+[VersionToken "f7c64ab5e62b3bba44f73c6cf3bb7545a043b8c5381948e80ce6b60966b1e2e5"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -175,7 +175,7 @@ There is a lot to be said for bidding 6NT immediately. You could ask for Aces if
 1NT pass 2C pass 2H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "900cf08eccf6109a683786f9d3d8237db0c703f0836fc1b2c7d1e18dab0edb61"]
+[VersionToken "900cf08eccf6109a683786f9d3d8237db0c703f0836fc1b2c7d1e18dab0edb61"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -202,7 +202,7 @@ Missing one Ace you bid 6\H.}
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bae8d932635ec1a15b7c22e73bd7e990c2d7de05e935256080a8413aa0be176a"]
+[VersionToken "bae8d932635ec1a15b7c22e73bd7e990c2d7de05e935256080a8413aa0be176a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -227,7 +227,7 @@ That is why you used Stayman - to uncover a 4-4 Major suit fit. Having done so y
 1NT pass 2C pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 9, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "73fb2c2e56acef285e864779875b37f499c05473e3f8877cf719a483213f529a"]
+[VersionToken "73fb2c2e56acef285e864779875b37f499c05473e3f8877cf719a483213f529a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -254,7 +254,7 @@ If partner had just 2 \Ss he would have bid 3NT. Since he has 3 \Ss he bids 4\S.
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "411f1de49f2a04bc96618bfcbaa812f5f868509fbe888a83f76c7a696d461cb9"]
+[VersionToken "411f1de49f2a04bc96618bfcbaa812f5f868509fbe888a83f76c7a696d461cb9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -281,7 +281,7 @@ Yes, but you already knew you had an 8-card \H fit since partner's 1NT promised 
 1NT pass 2C pass 2D pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 11, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "22626900e0ca0d9917a5db3b219807010b82b3736dfbcc4ebdf73b09cb53bed7"]
+[VersionToken "22626900e0ca0d9917a5db3b219807010b82b3736dfbcc4ebdf73b09cb53bed7"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -308,7 +308,7 @@ In this case the strong hand does not become declarer, but the contract is the r
 1NT pass 2C pass 2S pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ff263ce6d8a0f3f822e783edbce7c90de6dda5d4adfa269b0966811fe296feff"]
+[VersionToken "ff263ce6d8a0f3f822e783edbce7c90de6dda5d4adfa269b0966811fe296feff"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -333,7 +333,7 @@ Partner evidently has 4 \Hs. He also evidently has about 9 points since he is IN
 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 13, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c615e70272c43f477ffb51305b1491cabab2d2719ce97a256feb66ea6ac38707"]
+[VersionToken "c615e70272c43f477ffb51305b1491cabab2d2719ce97a256feb66ea6ac38707"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -358,7 +358,7 @@ Partner seems to have about 9 points and is inviting you to say 3NT. Since you h
 1NT pass 2C pass 2S pass 3S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "be7a0dfc6877fa3dc6b06572a46ae7eddaebdb8c8f5c967608e8df6e54189132"]
+[VersionToken "be7a0dfc6877fa3dc6b06572a46ae7eddaebdb8c8f5c967608e8df6e54189132"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -383,7 +383,7 @@ Considering the bidding you have done so far you couldn't have a worse hand. Wit
 1NT pass 2C pass 2H pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "c65c32efa50c723439df0ed70425a0aa0550e098a06d4f0a987cf57eda90c6da"]
+[VersionToken "c65c32efa50c723439df0ed70425a0aa0550e098a06d4f0a987cf57eda90c6da"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -408,7 +408,7 @@ Partner has told you he has 4 \Hs and approximately 9 points. Add that to your 4
 1NT pass 2C pass 2H pass 2NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 16, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "40532c0f6be51b6cee6c0966039aafc247ddbc40727aa7ed5b075f6fdb9df9e0"]
+[VersionToken "40532c0f6be51b6cee6c0966039aafc247ddbc40727aa7ed5b075f6fdb9df9e0"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -433,7 +433,7 @@ Partner would never bid Stayman without a 4-card Major. Since he did not like yo
 1NT pass 2C pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 17, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "624508ba7bb27a8cc57e50f2cec36d60f5cb514fc44072e6990107e9088f11a3"]
+[VersionToken "624508ba7bb27a8cc57e50f2cec36d60f5cb514fc44072e6990107e9088f11a3"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -458,7 +458,7 @@ Partner has described a hand with 4 \Ss and 5 \Hs. You don't know his strength b
 1NT pass 2C pass 2D pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "47015da5b6e87b7db29660a94052e807c2d05b61664201ae3a6013fc04d0191a"]
+[VersionToken "47015da5b6e87b7db29660a94052e807c2d05b61664201ae3a6013fc04d0191a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -483,7 +483,7 @@ Partner knows you do not have 4 \Hs, but he bid the suit anyway. He must have 5 
 2NT pass 3C pass 3D pass 3S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 19, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8516b3191836ea6301a9263de09e741a99515da1ff3e0d899a88ab578aea1c2f"]
+[VersionToken "8516b3191836ea6301a9263de09e741a99515da1ff3e0d899a88ab578aea1c2f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -508,7 +508,7 @@ Partner is showing 5 \Ss and 4 \Hs. In neither case would you have the 8-card fi
 2NT pass 3C pass 3H pass 3NT pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 20, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "197a5088dd8b169b1721810b7f19061aa6ab45eff90dc1fede2a761cfbb93130"]
+[VersionToken "197a5088dd8b169b1721810b7f19061aa6ab45eff90dc1fede2a761cfbb93130"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -535,7 +535,7 @@ If you want to make yourself happy you use Stayman, just imagine playing 3NT aft
 2NT pass 3C pass 3S pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 21, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "9efad7c19913f99274ea69cec18da37f35ef3515041a28ea0d68792b876dd917"]
+[VersionToken "9efad7c19913f99274ea69cec18da37f35ef3515041a28ea0d68792b876dd917"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -562,7 +562,7 @@ Good thing it's being played by South, right?}
 1NT pass 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 22, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "cc53768368b7a601d874d038a8fba3d9fa4299d806d90cb66a94f806f89895f9"]
+[VersionToken "cc53768368b7a601d874d038a8fba3d9fa4299d806d90cb66a94f806f89895f9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -587,7 +587,7 @@ What's next is your PASS. And if he had bid 2\S you also would have passed. And 
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 23, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "74e4c1fc52cbbe352ad01b19f98fae6da035d0d5522d093b4f374a868002e272"]
+[VersionToken "74e4c1fc52cbbe352ad01b19f98fae6da035d0d5522d093b4f374a868002e272"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -612,7 +612,7 @@ But thinking a little further, with this 4-3-3-3 distribution you have no ruffin
 pass 1NT pass 2C 2S pass pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 24, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b2150abdc5bb4045c84d035b9e3c3c7a692b9f7e9a55a476f201c267bb373d7f"]
+[VersionToken "b2150abdc5bb4045c84d035b9e3c3c7a692b9f7e9a55a476f201c267bb373d7f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -637,7 +637,7 @@ Pass, then "Thank you partner" when dummy comes down. The thing to remember is t
 1NT 2D 3D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 25, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "716798a2f176ae011ef225749ea4a38c262ddf0ee57d2524ae548d4cbcc4402a"]
+[VersionToken "716798a2f176ae011ef225749ea4a38c262ddf0ee57d2524ae548d4cbcc4402a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]

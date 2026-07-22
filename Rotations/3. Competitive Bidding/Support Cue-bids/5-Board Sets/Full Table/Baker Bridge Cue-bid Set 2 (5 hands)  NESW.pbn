@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Cue-bid
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H 1S 2S pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "dab9f9f9aae1e069219c6ae51ea6b44243b4e9fe17a9c0e120b3aefad1eb5e81"]
+[VersionToken "dab9f9f9aae1e069219c6ae51ea6b44243b4e9fe17a9c0e120b3aefad1eb5e81"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -41,7 +41,7 @@ You, however, have a bare-bones minimum. So you rebid a minimum 3\H, which partn
 1H 1S pass 2H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "4a77e1412bdd04b07c1e1ec9758c6a0b6433897d86a59c9b2b22908458cea19e"]
+[VersionToken "4a77e1412bdd04b07c1e1ec9758c6a0b6433897d86a59c9b2b22908458cea19e"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -66,7 +66,7 @@ So you cue-bid 2\H, showing a good hand with support and forcing partner to bid 
 1S 2H 3H pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8679e70fc36cdf58ed5b82df3a2e921a124c78d14d70b0fcf3113a016b2f6129"]
+[VersionToken "8679e70fc36cdf58ed5b82df3a2e921a124c78d14d70b0fcf3113a016b2f6129"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -91,7 +91,7 @@ You know you have a loser. Bid 6\S. }
 1C 1H 1S 2C pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "67e163ccf4165a0ef394581f7c3cdaa91f07d6ccbb59e3d85c659bd649687918"]
+[VersionToken "67e163ccf4165a0ef394581f7c3cdaa91f07d6ccbb59e3d85c659bd649687918"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]
@@ -116,7 +116,7 @@ Pass. Partner had a minimum overcall so he made a minimum rebid.}
 1H 2C 3C pass 4H pass 5C pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "7e04e94b4d15403aa09335e54c47090449b430ad47b9414eb8db6003e8d3b881"]
+[VersionToken "7e04e94b4d15403aa09335e54c47090449b430ad47b9414eb8db6003e8d3b881"]
 [Category "Competitive Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "competitive_bidding/support_cuebids"]

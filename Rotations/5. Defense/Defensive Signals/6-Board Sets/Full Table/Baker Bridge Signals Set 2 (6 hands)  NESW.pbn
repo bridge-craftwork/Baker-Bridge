@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "17d275a5ba764437bd419994f053e54cb1172d2e7de18e9ab3f6e8ed08746c0d"]
+[VersionToken "17d275a5ba764437bd419994f053e54cb1172d2e7de18e9ab3f6e8ed08746c0d"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -52,7 +52,7 @@ This defense holds North to one \D tricks, if you had let him win the second one
 1C pass 1S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "41f3c0febd8580324452c9fe8df6f249c8b22dcc16b7292a2dc1c106b484928d"]
+[VersionToken "41f3c0febd8580324452c9fe8df6f249c8b22dcc16b7292a2dc1c106b484928d"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -84,7 +84,7 @@ East may now turn to the \D suit, but your side can win the first \D and drive o
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "3ce3a67d2ff5ca9b43d9bf458a7e27fd0489e31589b50caf4cbf2ca37e869aea"]
+[VersionToken "3ce3a67d2ff5ca9b43d9bf458a7e27fd0489e31589b50caf4cbf2ca37e869aea"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -116,7 +116,7 @@ South is one trick short and he sees he can easily get that trick in \Hs. So he 
 2H 2S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "e6e1ad8867c787422b896d8a20f35b3894b5522ca675b2e80d4ae0fb10f80f32"]
+[VersionToken "e6e1ad8867c787422b896d8a20f35b3894b5522ca675b2e80d4ae0fb10f80f32"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -144,7 +144,7 @@ Partner takes the \CA and gives you a second \H ruff.}
 1H pass 1S pass 2H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "422e5511d97bc0eb8b7573ff1dfd0e8fec5bb4ebb3d1eb58bcbff795fa5193af"]
+[VersionToken "422e5511d97bc0eb8b7573ff1dfd0e8fec5bb4ebb3d1eb58bcbff795fa5193af"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
@@ -174,7 +174,7 @@ East looks at your signal, then looks at dummy, then looks at your signal. He kn
 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "7b18ffc4410cff2fe0bbe7914420a703fc3c1028e080b2b81593f8f582c7168f"]
+[VersionToken "7b18ffc4410cff2fe0bbe7914420a703fc3c1028e080b2b81593f8f582c7168f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]

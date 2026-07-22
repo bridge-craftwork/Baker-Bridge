@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1S 4H 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "54a5b4c938cfbff34a53fb11f67b8a099c22ae6640395071e5c69bf9baf9baf1"]
+[VersionToken "54a5b4c938cfbff34a53fb11f67b8a099c22ae6640395071e5c69bf9baf9baf1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -61,7 +61,7 @@ Not you or me, of course.}
 pass 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "18f9252abdc77fa40dfac7014991db61692a465c73cdddb1c212d7d95e5c2fa5"]
+[VersionToken "18f9252abdc77fa40dfac7014991db61692a465c73cdddb1c212d7d95e5c2fa5"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -95,7 +95,7 @@ It is a pretty simple problem, but you are no doubt getting a lot better.}
 1C pass pass X pass 1S pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "599c4eb026158830579d99fe9d9d4b37ea2ec0115405786d4bffe9a1e1fb6fb1"]
+[VersionToken "599c4eb026158830579d99fe9d9d4b37ea2ec0115405786d4bffe9a1e1fb6fb1"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
@@ -133,7 +133,7 @@ It was not a complete elimination since East still had a trump when you threw We
 1S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "862deb757d4930f723374d428a5dcde8c2cf3f7bee3aa4496cb0b0c888548dc2"]
+[VersionToken "862deb757d4930f723374d428a5dcde8c2cf3f7bee3aa4496cb0b0c888548dc2"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]

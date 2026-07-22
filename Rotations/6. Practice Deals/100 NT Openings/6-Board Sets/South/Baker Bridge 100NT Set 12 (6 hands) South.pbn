@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100NT
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "918cef197fcf403f8a75f691b43ca5bc0d51ad9f4ada5db98e4f51a7a7cdc11c"]
+[VersionToken "918cef197fcf403f8a75f691b43ca5bc0d51ad9f4ada5db98e4f51a7a7cdc11c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -66,7 +66,7 @@ Here that principle applied even though there were <b>TWO</b> master trumps out.
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "8f4f9d435322b45492bffb7cda27f61f9662151d28bbc8d5b00f7178798c72e2"]
+[VersionToken "8f4f9d435322b45492bffb7cda27f61f9662151d28bbc8d5b00f7178798c72e2"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -110,7 +110,7 @@ This may seem lucky to you, but don't knock it, it was your <b>ONLY</b> chance.}
 1NT pass 2D pass 3H pass 4NT pass 5S pass 6H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d269d9799b0d86189f60650aebb135127e3d9efc25ce8cf832e747e33a45ae44"]
+[VersionToken "d269d9799b0d86189f60650aebb135127e3d9efc25ce8cf832e747e33a45ae44"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -160,7 +160,7 @@ You can try the \S finesse then, but you will make the slam whether it works or 
 1H 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a58b23394fba9f9be0016de5252bc05dcd66beb24d06b61ff3e500e14802be4c"]
+[VersionToken "a58b23394fba9f9be0016de5252bc05dcd66beb24d06b61ff3e500e14802be4c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -200,7 +200,7 @@ And you have to be careful to unblock so you don't inadvertently lose your place
 1NT pass 2C pass 2D pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b99a4796a1c13e583edbb0a6ba9b3e281ad5f9c1cb7132a47ca23dd7621161e3"]
+[VersionToken "b99a4796a1c13e583edbb0a6ba9b3e281ad5f9c1cb7132a47ca23dd7621161e3"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -244,7 +244,7 @@ But, if you finesse in \Cs first, West can win and establish the \H suit. But, w
 1NT pass 2C pass 2H pass 4NT pass 5H pass 6H all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ccd8e12955dfdea9d68a4154cb801687d62116d20ec9e9c220561b003e0900ba"]
+[VersionToken "ccd8e12955dfdea9d68a4154cb801687d62116d20ec9e9c220561b003e0900ba"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

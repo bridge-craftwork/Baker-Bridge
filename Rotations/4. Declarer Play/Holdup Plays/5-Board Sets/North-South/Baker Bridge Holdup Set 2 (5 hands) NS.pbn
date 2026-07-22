@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "08c313fe0d68b8bcb9d8852e4a7d9082a12f62e5ad530113349431fa7ae3c94e"]
+[VersionToken "08c313fe0d68b8bcb9d8852e4a7d9082a12f62e5ad530113349431fa7ae3c94e"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -55,7 +55,7 @@ This might have turned out even better. If East had decided to play his partner 
 3H 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2347324d4bce95522fb7b7f66cd981db85af3954c1f3678eec0c756f3c7c6fc2"]
+[VersionToken "2347324d4bce95522fb7b7f66cd981db85af3954c1f3678eec0c756f3c7c6fc2"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -93,7 +93,7 @@ You'd feel bad on this hand if you let East hold the \H10 only to see him next l
 1C 1S pass 2C pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "df8dc92cbc889c201ff0b1f67bf702bba2c9a5f3f695c18d3b6ea89dee786da8"]
+[VersionToken "df8dc92cbc889c201ff0b1f67bf702bba2c9a5f3f695c18d3b6ea89dee786da8"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -135,7 +135,7 @@ Of course if East had been clever enough to lead a \H originally this Deal would
 2H 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ad72454895313755c9b9188b08b7e388f9cb424c9cf3af5cd6ed2de144a633ad"]
+[VersionToken "ad72454895313755c9b9188b08b7e388f9cb424c9cf3af5cd6ed2de144a633ad"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -177,7 +177,7 @@ If you held up on the first trick you made the contract no matter which Ace West
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "d7ab9ab6daf277343820bbf2724b628b57880398afff4be0b8fc21fd92db32ab"]
+[VersionToken "d7ab9ab6daf277343820bbf2724b628b57880398afff4be0b8fc21fd92db32ab"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]

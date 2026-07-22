@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Establishment
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b1283721b73673d66c4a0430c50616817c1bad42fa28397ad0203cff07bbff57"]
+[VersionToken "b1283721b73673d66c4a0430c50616817c1bad42fa28397ad0203cff07bbff57"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -51,7 +51,7 @@ You had to have the defender's \Ss split 4-3. But in fact you were pretty sure t
 1NT pass 2D pass 2H pass 3NT all pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "fbbdeb56e58a69ef39e97d797d062923367addfe45833efcc4ad91608da8e6c7"]
+[VersionToken "fbbdeb56e58a69ef39e97d797d062923367addfe45833efcc4ad91608da8e6c7"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -81,7 +81,7 @@ None of the other suits were sitting well so overtaking the \H was the way to go
 1C pass 1S pass 2S pass 4NT pass 5H pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "eba7628e76f89365ee225d8f812c9a3f8877aed0c14c0930c5978c989fa1b5e7"]
+[VersionToken "eba7628e76f89365ee225d8f812c9a3f8877aed0c14c0930c5978c989fa1b5e7"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -109,7 +109,7 @@ As long as the \Cs were no worse than 4-2 you can establish the suit.}
 1NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "31b547a37173a5ccc06a21155f116192bbb7add6b08ca828a0372e74e70a7c04"]
+[VersionToken "31b547a37173a5ccc06a21155f116192bbb7add6b08ca828a0372e74e70a7c04"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]

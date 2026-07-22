@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Stayman
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 2C pass 2D pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "f7c64ab5e62b3bba44f73c6cf3bb7545a043b8c5381948e80ce6b60966b1e2e5"]
+[VersionToken "f7c64ab5e62b3bba44f73c6cf3bb7545a043b8c5381948e80ce6b60966b1e2e5"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -44,7 +44,7 @@ There is a lot to be said for bidding 6NT immediately. You could ask for Aces if
 1NT pass 2C pass 2H pass 4NT pass 5H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "900cf08eccf6109a683786f9d3d8237db0c703f0836fc1b2c7d1e18dab0edb61"]
+[VersionToken "900cf08eccf6109a683786f9d3d8237db0c703f0836fc1b2c7d1e18dab0edb61"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -71,7 +71,7 @@ Missing one Ace you bid 6\H.}
 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "bae8d932635ec1a15b7c22e73bd7e990c2d7de05e935256080a8413aa0be176a"]
+[VersionToken "bae8d932635ec1a15b7c22e73bd7e990c2d7de05e935256080a8413aa0be176a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -96,7 +96,7 @@ That is why you used Stayman - to uncover a 4-4 Major suit fit. Having done so y
 1NT pass 2C pass 2D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "73fb2c2e56acef285e864779875b37f499c05473e3f8877cf719a483213f529a"]
+[VersionToken "73fb2c2e56acef285e864779875b37f499c05473e3f8877cf719a483213f529a"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]
@@ -123,7 +123,7 @@ If partner had just 2 \Ss he would have bid 3NT. Since he has 3 \Ss he bids 4\S.
 1NT pass 2C pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "411f1de49f2a04bc96618bfcbaa812f5f868509fbe888a83f76c7a696d461cb9"]
+[VersionToken "411f1de49f2a04bc96618bfcbaa812f5f868509fbe888a83f76c7a696d461cb9"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]
 [SkillPath "bidding_conventions/stayman"]

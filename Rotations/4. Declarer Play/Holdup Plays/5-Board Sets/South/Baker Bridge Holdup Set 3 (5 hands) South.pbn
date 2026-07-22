@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "2885049cd56eb97925e6b7e9447a8b2f1e0406fab3b1a1dd463289a872a969ed"]
+[VersionToken "2885049cd56eb97925e6b7e9447a8b2f1e0406fab3b1a1dd463289a872a969ed"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -51,7 +51,7 @@ Remember: don't hold up when it gives the defenders a good opportunity to switch
 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "df1973f1b463060e914b2427f7d5f16ba5a8356ac3763ce9a2feee9bc2bc3f40"]
+[VersionToken "df1973f1b463060e914b2427f7d5f16ba5a8356ac3763ce9a2feee9bc2bc3f40"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -89,7 +89,7 @@ But it's not enough to just be smart enough to hold up, you must also be able to
 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "033ee45f98b2507c10a66b20b998b1ebcb1aa5d4dc6f2e22750f9e6d1c7e8cc1"]
+[VersionToken "033ee45f98b2507c10a66b20b998b1ebcb1aa5d4dc6f2e22750f9e6d1c7e8cc1"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -123,7 +123,7 @@ At suit contracts the most common reason for a hold-up is to keep the Danger Han
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "d8133be69426aeba061cdc88a5dbbea16169b40812816ad3b112212e6d804635"]
+[VersionToken "d8133be69426aeba061cdc88a5dbbea16169b40812816ad3b112212e6d804635"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
@@ -155,7 +155,7 @@ Compare this Bath Coup to the one in Deal 10.}
 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "e1bcc38bd881532b942c5ef725bf2b11a0aa6eb926835e80fcfab97f99c13475"]
+[VersionToken "e1bcc38bd881532b942c5ef725bf2b11a0aa6eb926835e80fcfab97f99c13475"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]

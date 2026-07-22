@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-Blackwood
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1C pass 1H pass 3H pass 4NT pass 5D pass 5NT pass 7H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "b545d0c40103258c04744f95b822b5881c70bc8e86080e0c14d2efddc6f59425"]
+[VersionToken "b545d0c40103258c04744f95b822b5881c70bc8e86080e0c14d2efddc6f59425"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -45,7 +45,7 @@ supply five tricks so she bids 7\H.}
 1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "5650b831bd611bab2dd659474ba545940b7d7bafad87f006ad616955ae5cd73c"]
+[VersionToken "5650b831bd611bab2dd659474ba545940b7d7bafad87f006ad616955ae5cd73c"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -71,7 +71,7 @@ It turns out that SOUTH might make twelve tricks, depending on the \HK situation
 1D pass 1H pass 2NT pass 4C pass 4NT pass 5C pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "134b6f2c716948ab9fef3b9bb0a36fb2df631ad832ba489a068e32176ed436fe"]
+[VersionToken "134b6f2c716948ab9fef3b9bb0a36fb2df631ad832ba489a068e32176ed436fe"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -97,7 +97,7 @@ When he discovers that SOUTH holds three Aces and one King he can count thirteen
 2C pass 2NT pass 4C pass 4S pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b78caaa351a73fe464119fe4d409dbecb868c8799b9fca5c38f8fb6a56f5b9e2"]
+[VersionToken "b78caaa351a73fe464119fe4d409dbecb868c8799b9fca5c38f8fb6a56f5b9e2"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]

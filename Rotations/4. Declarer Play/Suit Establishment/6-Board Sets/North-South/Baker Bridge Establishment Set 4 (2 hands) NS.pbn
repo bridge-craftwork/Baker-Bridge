@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Establishment
 %bridge-classroom-stable: true
@@ -17,7 +17,7 @@
 2S X pass 2NT pass 3D pass 4D pass 5D pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "b2b37c5b5ab8283813550ddbe4911c65dd1d7d052a4301f661f73d8762fc8f11"]
+[VersionToken "b2b37c5b5ab8283813550ddbe4911c65dd1d7d052a4301f661f73d8762fc8f11"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -55,7 +55,7 @@ Here you needed \S 10 9 x to be with East if you were to make the contract so yo
 pass pass 2C pass 2NT pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "a743ff7cdac7995e4ec4ebf6a1a95b5d3e31c2ede0e240cc1924e0f5695734d8"]
+[VersionToken "a743ff7cdac7995e4ec4ebf6a1a95b5d3e31c2ede0e240cc1924e0f5695734d8"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -11,7 +11,7 @@
 [Dealer "N"]
 [Vulnerable "None"]
 [Deal "N:862.AQJ753.95.A2 JT43.92.AJ87.Q87 K95.T6.KT32.JT54 AQ7.K84.Q64.K963"]
-[BoardVersionToken "a3dd90bc9142c0c9bd27c3243cd125849adc1bf7d4e46e86ca03e1169a0b28ac"]
+[VersionToken "a3dd90bc9142c0c9bd27c3243cd125849adc1bf7d4e46e86ca03e1169a0b28ac"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -32,7 +32,7 @@ Notice that this is the same bidding and same final contract that would have bee
 [Dealer "W"]
 [Vulnerable "NS"]
 [Deal "W:AQT95.T96.KT86.A 73.KQJ.J3.KT8643 KJ2.874.AQ975.Q2 864.A532.42.J975"]
-[BoardVersionToken "54a161c38ba8a5c4ab36c2554eac3be3c7f137d68ce7a6302f7ddb91219e1027"]
+[VersionToken "54a161c38ba8a5c4ab36c2554eac3be3c7f137d68ce7a6302f7ddb91219e1027"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -53,7 +53,7 @@ East always intended to play a \S contract. He now bids 4\S, using Fast Arrival 
 [Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:K92.AK874.KT7.T8 A743.Q.A642.7643 JT6.9.853.KQJ952 Q85.JT6532.QJ9.A"]
-[BoardVersionToken "5bc5b94224c2db49afb7bd921b01f9bb568f205b0bf1e157ecff4ac57e9f69d9"]
+[VersionToken "5bc5b94224c2db49afb7bd921b01f9bb568f205b0bf1e157ecff4ac57e9f69d9"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -73,7 +73,7 @@ South also knows everything mentioned above so he passes.}
 [Dealer "E"]
 [Vulnerable "All"]
 [Deal "E:AK98764.KQ7.K73. T3.984.A9.Q87632 QJ2.J2.QJ862.AKJ 5.AT653.T54.T954"]
-[BoardVersionToken "481c500d3d21408333604badccfb00261deaac9dbc9ce7903e488bbdcea54b9a"]
+[VersionToken "481c500d3d21408333604badccfb00261deaac9dbc9ce7903e488bbdcea54b9a"]
 [Student "S"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

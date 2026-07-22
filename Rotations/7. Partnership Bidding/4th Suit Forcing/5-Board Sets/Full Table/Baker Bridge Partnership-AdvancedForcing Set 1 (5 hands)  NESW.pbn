@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 21:15:17
+%Created: 2026-07-21 22:33:23
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Partnership-AdvancedForcing
 %bridge-classroom-stable: true
@@ -18,7 +18,7 @@
 1H pass 1S pass 1NT pass 2D pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "c2acb146adba29fb27d1eb3a1b60dbd2155a8f4127186201451740ff11992340"]
+[VersionToken "c2acb146adba29fb27d1eb3a1b60dbd2155a8f4127186201451740ff11992340"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -42,7 +42,7 @@
 1H pass 2H pass 3C pass 3H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[BoardVersionToken "4d2d7065695e5639c37c02256f3d3bc810ccdf1972892e701b3803e81a57424c"]
+[VersionToken "4d2d7065695e5639c37c02256f3d3bc810ccdf1972892e701b3803e81a57424c"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -67,7 +67,7 @@ not enough to think of game, so WEST signs off in 3\H.}
 1S pass 2C pass 2H pass 3D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[BoardVersionToken "2a59ccbe921a13ce26ef4c12ff6d54c592bc8f196b662c4f4420fea0b00a6a3f"]
+[VersionToken "2a59ccbe921a13ce26ef4c12ff6d54c592bc8f196b662c4f4420fea0b00a6a3f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -92,7 +92,7 @@ SOUTH does not have a rebiddable suit, but does have \Ds stopped so she bids 3NT
 1D pass 1S pass 1NT pass 2C pass 2NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
-[BoardVersionToken "5b3e8f93adaa4c204330f6b72daa4d5d4078ae63747cc708b5857c5aea332650"]
+[VersionToken "5b3e8f93adaa4c204330f6b72daa4d5d4078ae63747cc708b5857c5aea332650"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
@@ -120,7 +120,7 @@ enough to bid game so she passes.}
 1S pass 2S pass 3D pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[BoardVersionToken "ef75928e9381aba8a5134c8a0368dc30419869ca02c4572e7df656cd16314462"]
+[VersionToken "ef75928e9381aba8a5134c8a0368dc30419869ca02c4572e7df656cd16314462"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/advanced_forcing"]
