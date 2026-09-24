@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -77,11 +77,13 @@ DK
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \SK.
+[showcards W:SK] South is to play 3NT. West leads the \SK.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then choose dummy's card to this trick. [choose-card any:S7,S6]
 
 
+
+[showcards E:S3 S:S2] East follows with the \S3 and you play the \S2.
 
 Winners:   \S = 1    \H = 2  \D = 0    \C = 2 Total = 5
 
@@ -89,7 +91,17 @@ Even if \Hs split 3-3 you could only get 2 extra winners there, so it should be 
 
 Click NEXT. [NEXT]
 
-[PLAY N:SA,N:S7,N:S6,S:S8,S:S2,S:C3]
+[PLAY W:SK,E:S3,S:S2] [showcards W:SQ]
+
+West continues with the \SQ. Which card do you play from dummy? [choose-card any:S7,S6]
+
+[PLAY W:SQ,E:S4,S:S8] [showcards W:SJ]
+
+East follows with the \S4 and you play the \S8. West continues with the \SJ. Which card do you play from dummy? [choose-card SA]
+
+[PLAY W:SJ,E:S9,S:C3]
+
+East follows with the \S9 and you discard the \C3.
 
 
 

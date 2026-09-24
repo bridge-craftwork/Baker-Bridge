@@ -181,6 +181,9 @@ python3 CSV_to_PBN.py BakerBridge.csv
 # Step 2b: Inject the defense-lesson [showcards] dummy-card fixes onto pbns/
 python3 apply_showcards_dummy.py pbns
 
+# Step 2c: Turn declarer-play key decisions into [choose-card] steps (fails on an illegal choice)
+python3 apply_declarer_choose.py pbns
+
 # Step 3: Copy PBN/PDF files to Package folder for distribution
 python3 package_results.py
 
@@ -233,6 +236,7 @@ dealer files and the app in sync — the divergence that caused the 2026-07-14 c
 
 1. **bbparse.py** → Parses HTML, generates `BakerBridge.csv` and debug files in `Tools/Anchors/`
 2. **CSV_to_PBN.py** → Converts CSV to PBN files in `Tools/pbns/`, also generates `Package/toc.json`
+   - **apply_declarer_choose.py** → turns the declarer-play lessons' key decisions into `[choose-card]` steps from `declarer_choose_key.md` (see "Declarer-play `[choose-card]`" below)
    - **apply_showcards_dummy.py** → injects the defense-lesson `[showcards]` dummy-card fixes from `showcards_dummy_key.md` (bbparse can't recover dummy's played card from the HTML; see "Defense `[showcards]` dummy cards" below)
 3. **package_results.py** → Copies all `.pbn` and `.pdf` files from `pbns/` to `Package/`, then merges in curated boards from `Curated/`
 4. **stamp_board_tokens.py** → Stamps `[VersionToken]` on every board in `Package/*.pbn` and backstops the `%bridge-classroom-stable: true` header (see "Board Identity Metadata" below)
@@ -257,6 +261,18 @@ Bridge Classroom uses board-identity + readiness metadata to decide whether Bake
 
 - **`Tools/showcards_dummy_key.md`** — the answer key, one line per board: `<Lesson> <Board> | <FROM directive> => <TO directive>`. Corrected directives (not just "the card") so it also covers dummy-led decision tricks and malformed-directive rebuilds. See BC issues #11/#12; the under-specified boards that need a full display rebuild are deferred to #13.
 - **`apply_showcards_dummy.py`** — a build step (right after `CSV_to_PBN.py`, over `pbns/*.pbn`) that replaces each board's FROM directive with TO, scoped per board (the same directive text recurs across boards with different fixes). Idempotent and re-applied every build. Does **not** affect `[VersionToken]` (the token hashes only the deal + auction, not commentary).
+
+## Declarer-play `[choose-card]`
+
+Bridge Classroom records a board only if it has a `[BID]` or `[choose-card]` step, so the
+declarer-play lessons (all `[NEXT]`) never counted toward progress. **`Tools/declarer_choose_key.md`**
+supplies the lessons' key decisions as per-board exact-text replacements (the prompt reworded,
+the position set up with `[showcards]`/`[PLAY]`, the accepted cards); **`apply_declarer_choose.py`**
+applies it after `apply_showcards_dummy.py`, then replays each keyed board's directives and fails
+the build on any choice that isn't a legal play from that position. The key file's header holds
+the authoring rules. Relies on BC's rules that a choice is answered from the hand holding the
+card (so dummy plays need no syntax) and that a chosen card stays played until the next `[PLAY]`
+gathers it (BC spec R-CP3a). Pilot: Entries 2, Holdup 2, Squeeze 2.
 
 ### Debug Anchor Output
 
