@@ -20,9 +20,9 @@
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \DK.
+[showcards W:DK N:D2 E:D4] South is to play 3NT. West leads the \DK, dummy plays the \D2 and East the \D4.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:D8,D3]
 
 
 
@@ -32,7 +32,15 @@ You need 3 more winners, and they must come from the \H suit. The danger is that
 
 Click NEXT. [NEXT]
 
-[PLAY N:D6,N:D2,N:C3,S:DA,S:D8,S:D3]
+[PLAY W:DK,N:D2,E:D4] [showcards W:DQ N:D6 E:D7]
+
+West continues with the \DQ; dummy plays the \D6 and East the \D7. Which card do you play? [choose-card any:D8,D3]
+
+[PLAY W:DQ,N:D6,E:D7] [showcards W:DJ N:C3 E:D9]
+
+West continues with the \DJ; dummy discards the \C3 and East plays the \D9. Which card do you play? [choose-card DA]
+
+[PLAY W:DJ,N:C3,E:D9]
 
 
 
@@ -148,11 +156,13 @@ pass pass 1NT pass 2C pass 2D pass 3NT pass pass pass
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \S3. East wins the first trick with the \SA and returns the \S8.
+[PLAY W:S3,N:S5,E:SA,S:S4] [showcards E:S8] South is to play 3NT. West leads the \S3. East wins the first trick with the \SA and returns the \S8.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card S9]
 
 
+
+[showcards W:SQ N:ST] West plays the \SQ and dummy the \S10.
 
 Winners:   \S = 1    \H = 2  \D = 1    \C = 3 Total = 7
 
@@ -160,7 +170,11 @@ You can win 3 more \D tricks if the finesse works, but even if it doesn't work y
 
 Click NEXT. [NEXT]
 
-[PLAY N:ST,N:S5,N:H4,S:SK,S:S9,S:S4]
+[PLAY E:S8,W:SQ,N:ST] [showcards W:SJ N:H4 E:S6]
+
+West continues with the \SJ; dummy discards a \H and East plays the \S6. Which card do you play? [choose-card SK]
+
+[PLAY W:SJ,N:H4,E:S6]
 
 
 
@@ -205,9 +219,9 @@ S3
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \DK.
+[showcards W:DK N:D2 E:D6] South is to play 3NT. West leads the \DK, dummy plays the \D2 and East the \D6.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:D8,D3]
 
 
 
@@ -219,7 +233,15 @@ But in the case where East has both the \C A Q you need to make sure he has no \
 
 Click NEXT. [NEXT]
 
-[PLAY N:D7,N:D5,N:D2,S:DA,S:D8,S:D3]
+[PLAY W:DK,N:D2,E:D6] [showcards W:DQ N:D5 E:D9]
+
+West continues with the \DQ; dummy plays the \D5 and East the \D9. Which card do you play? [choose-card any:D8,D3]
+
+[PLAY W:DQ,N:D5,E:D9] [showcards W:DJ N:D7 E:DT]
+
+West continues with the \DJ; dummy plays the \D7 and East the \D10. Which card do you play? [choose-card DA]
+
+[PLAY W:DJ,N:D7,E:DT]
 
 
 
@@ -272,9 +294,9 @@ DK
 [Student "S"]
 {[show NS]
 
-With his 4-3-3-3 distribution North chooses not to bother with Stayman. South is to play 3NT. West leads the \H6. East plays the \HJ.
+With his 4-3-3-3 distribution North chooses not to bother with Stayman. [showcards W:H6 N:H3 E:HJ] South is to play 3NT. West leads the \H6, dummy plays the \H3 and East the \HJ.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card H2]
 
 
 
@@ -286,7 +308,7 @@ East returns the \H9, West takes the \HA and clears the suit.
 
 Click NEXT. [NEXT]
 
-[PLAY N:H7,N:H5,N:H3,S:HK,S:HQ,S:H2]
+[PLAY W:H6,N:H3,E:HJ,E:H9,S:HQ,W:HA,N:H5,W:HT,N:H7,E:C4,S:HK]
 
 
 
@@ -331,9 +353,9 @@ H6
 [Student "S"]
 {[show NS]
 
-With his 4-3-3-3 distribution North chooses not to bother with Stayman. South is to play 3NT. West leads the \H6. East plays the \HJ.
+With his 4-3-3-3 distribution North chooses not to bother with Stayman. [showcards W:H6 N:H3 E:HJ] South is to play 3NT. West leads the \H6, dummy plays the \H3 and East the \HJ.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:HK,HQ]
 
 
 
@@ -345,7 +367,7 @@ You win with your \HK, (keeping West in the dark about who holds the \HQ), enter
 
 Click NEXT. [NEXT]
 
-[PLAY N:SJ,N:H3,N:DA,S:S2,S:HK,S:D4]
+[PLAY W:H6,N:H3,E:HJ,S:D4,W:D3,N:DA,E:D2,N:SJ,E:S5,S:S2,W:SK]
 
 
 
@@ -392,9 +414,9 @@ H6
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \H4. East plays the \H10.
+[showcards W:H4 N:H3 E:HT] South is to play 3NT. West leads the \H4, dummy plays the \H3 and East the \H10.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card HA]
 
 
 
@@ -443,7 +465,7 @@ H4
 [Student "S"]
 {[show NS]
 
-North's 2\C cue-bid shows a limit-raise or better in \Ss. South is to play 4\S. West leads the \C2. East plays the \CK.
+North's 2\C cue-bid shows a limit-raise or better in \Ss. [showcards W:C2 N:C5 E:CK] South is to play 4\S. West leads the \C2, dummy plays the \C5 and East the \CK.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -453,9 +475,7 @@ Losers:   \S = 0    \H = 2  \D = 1    \C = 1 Total = 4
 
 You have one loser too many. If West holds either the \HA or the \DK this will be an easy contract, but East opened the bidding so he probably has most of the high cards. It does look like West holds the \CQ based on his low lead and East's play to trick one.
 
-Having gone through that thought process what is your Plan?
-
-Click NEXT. [NEXT]
+Having gone through that thought process what is your Plan? Play a card from your hand. [choose-card CJ]
 
 
 
@@ -465,7 +485,7 @@ Hold-ups are usually used in notrump hands, but here you use one to prevent the 
 
 Click NEXT. [NEXT]
 
-[PLAY N:C9,N:C5,S:CA,S:CJ]
+[PLAY W:C2,N:C5,E:CK,E:C3,S:CA,W:C4,N:C9]
 
 
 
@@ -512,9 +532,9 @@ C2
 [Student "S"]
 {[show NS]
 
-South's 2NT overcall shows a 1NT opening hand with \Hs stopped. South is to play 3NT. West leads the \H7. East plays the \H10.
+South's 2NT overcall shows a 1NT opening hand with \Hs stopped. [showcards W:H7 N:H8 E:HT] South is to play 3NT. West leads the \H7, dummy plays the \H8 and East the \H10.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:H5,H9]
 
 
 
@@ -526,7 +546,15 @@ If you knew which Ace East held you could make sure you attacked that suit first
 
 Click NEXT. [NEXT]
 
-[PLAY N:HK,N:H8,S:H9,S:H5]
+[PLAY W:H7,N:H8,E:HT] [showcards E:HQ]
+
+East continues with the \HQ. Which card do you play? [choose-card any:H9,H5]
+
+[showcards W:H3]
+
+West follows with the \H3. Which card do you play from dummy? [choose-card HK]
+
+[PLAY E:HQ,W:H3]
 
 
 
@@ -583,9 +611,9 @@ H7
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \HK. East plays the \H6.
+[showcards W:HK N:H2 E:H6] South is to play 3NT. West leads the \HK, dummy plays the \H2 and East the \H6.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card H7]
 
 
 
@@ -634,7 +662,7 @@ HK
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \HJ. You try dummy's \HQ but East plays the \HK.
+[showcards W:HJ N:HQ E:HK] South is to play 3NT. West leads the \HJ. You try dummy's \HQ but East plays the \HK.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -644,9 +672,7 @@ Winners:   \S = 0    \H = 1  \D = 1    \C = 5 Total = 7
 
 Things do not look good. You have only one \H stopper, the \S suit is wide open, and you have to have the \D finesse to get the two extra winners you need.
 
-First problem: Do you hold up the \HA or not?
-
-Click NEXT. [NEXT]
+First problem: Do you hold up the \HA or not? Play a card from your hand. [choose-card HA]
 
 
 
@@ -679,9 +705,9 @@ HJ
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \H6. East plays the \HQ.
+[showcards W:H6 N:H5 E:HQ] South is to play 3NT. West leads the \H6, dummy plays the \H5 and East the \HQ.
 
-Make a Plan, then click . [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:H7,H2]
 
 
 
@@ -691,7 +717,15 @@ Needing only one more winner you decide to hold up on the first \H and also the 
 
 Click . [NEXT]
 
-[PLAY N:H8,N:H5,N:C2,S:HA,S:H7,S:H2]
+[PLAY W:H6,N:H5,E:HQ] [showcards E:HT]
+
+East returns the \H10. Which card do you play? [choose-card any:H7,H2]
+
+[PLAY E:HT,W:HJ,N:H8] [showcards W:H3 N:C2 E:H4]
+
+West wins with the \HJ and continues with the \H3; dummy discards a \C and East plays the \H4. Which card do you play? [choose-card HA]
+
+[PLAY W:H3,N:C2,E:H4]
 
 
 
@@ -699,13 +733,15 @@ You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, 
 
 Click . [NEXT]
 
-[showcards N:S7,C7,C5,C4 S:SK,CK,CJ,C6]
+[clear-commentary] [showcards N:C4 E:C3]
 
-[PLAY N:SQ,N:S4,N:DK,N:DJ,N:DT,N:D3,S:SA,S:S5,S:DA,S:DQ,S:D6,S:D5]
+[PLAY S:DA,W:D2,N:D3,E:D7,S:DQ,W:D4,N:DT,E:D9,S:D5,W:D8,N:DK,E:S2,N:DJ,E:S8,S:D6,W:S9,N:S4,E:ST,S:SA,W:S3,S:S5,W:S6,N:SQ,E:SJ]
 
 
 
 You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, putting you in dummy. Next you play a \C from dummy, and when East plays low you put on . . . which \C?
+
+[choose-card CK]
 
 This is not a guess. If West has the \CA he will get the lead and when he does he will set you with 2 more \H tricks. So you assume that East has the \CA and play your \CK.
 
@@ -738,9 +774,9 @@ H6
 [Student "S"]
 {[show NS]
 
-South is to play 4\S. West leads the \DQ. East plays the \D9.
+[showcards W:DQ N:D3 E:D9] South is to play 4\S. West leads the \DQ, dummy plays the \D3 and East the \D9.
 
-Make a Plan, then click . [NEXT]
+Make a Plan, then play a card from your hand. [choose-card D8]
 
 
 
@@ -752,7 +788,7 @@ To prevent that from happening all you have to do is hold up on the first \D. Yo
 
 Click . [NEXT]
 
-[PLAY N:D5,N:D3,S:DA,S:D8]
+[PLAY W:DQ,N:D3,E:D9,W:DJ,N:D5,E:D2,S:DA]
 
 
 
@@ -789,9 +825,9 @@ DQ
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \HK.
+[showcards W:HK N:H2 E:H6] South is to play 3NT. West leads the \HK, dummy plays the \H2 and East the \H6.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card H7]
 
 
 
@@ -836,7 +872,7 @@ HK
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \S7.
+[showcards W:S7] South is to play 3NT. West leads the \S7.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -844,9 +880,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Winners:   \S = 1    \H = 2  \D = 3    \C = 0 Total = 6
 
-It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that West may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up?
-
-Click NEXT. [NEXT]
+It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that West may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up? Choose dummy's card to this trick. [choose-card SA]
 
 
 

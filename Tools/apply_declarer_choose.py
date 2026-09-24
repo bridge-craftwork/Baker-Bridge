@@ -183,9 +183,11 @@ def apply_to_file(path, boards):
             problems.append(f"board {board} not found")
             continue
         for frm, to in reps:
-            n = parts[i].count(frm)
-            if to in parts[i]:
-                applied += 1  # already applied (checked first: TO may contain FROM)
+            n, n_to = parts[i].count(frm), parts[i].count(to)
+            # Already applied: TO is present and every FROM left is one inside a TO (TO
+            # may contain FROM; TO text may also occur elsewhere in the board).
+            if n_to and n == n_to * to.count(frm):
+                applied += 1
             elif n == 1:
                 parts[i] = parts[i].replace(frm, to)
                 applied += 1
