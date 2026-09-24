@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Entries
 %bridge-classroom-stable: true
@@ -75,7 +75,7 @@ pass pass 2NT pass 3NT pass pass pass
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \D5. You play the \D9 from dummy and East plays the \D4.
+[showcards W:D5 N:D9 E:D4] South is to play 3NT. West leads the \D5. You play the \D9 from dummy and East plays the \D4.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -87,7 +87,7 @@ The bad news is that you must come up with 4 more winners! The good news is dumm
 
 You can drive out the \CA, then get over to dummy for those \C winners. You will be able to get over to dummy, won't you?
 
-Click [NEXT]
+Which card do you play to this first trick? [choose-card DA]
 
 
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -111,11 +111,11 @@ Play the \S A K and West begins to feel the heat. [NEXT]
 
 [clear-commentary]
 
-On the \SK you discarded dummy's small \H and West also discarded a \H. 
+On the \SK you discarded dummy's small \H and West also discarded a \H. Which card do you lead now? [choose-card CA] 
 
-But now you play the SQUEEZE card, the \CA. West absolutely cannot throw away his \HA, so he discards a \D instead.
+[showcards W:D3] The \CA is the SQUEEZE card. West absolutely cannot throw away his \HA, so he discards a \D instead. Which card do you discard from dummy? [choose-card HQ]
 
-Since he still has the \HA you know dummy's \HQ is useless so you discard it. Dummy's fourth \D has become a winner. [NEXT]
+[showcards E:H9] Since he still has the \HA you know dummy's \HQ is useless, so you discard it; East throws the \H9. Dummy's fourth \D has become a winner. [NEXT]
 
 [PLAY E:SQ,E:HJ,E:H9,E:D8,E:D6,W:HA,W:DJ,W:DT,W:D9,W:D3]
 

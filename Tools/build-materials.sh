@@ -90,6 +90,9 @@ phase_pbn() {
     # Inject the defense-lesson [showcards] dummy-card fixes (answer key; the
     # cards can't be recovered from the source HTML — see apply_showcards_dummy.py).
     python3 apply_showcards_dummy.py pbns
+    # Turn the declarer-play lessons' key decisions into [choose-card] steps (editorial
+    # answer key; fails the build on a choice that isn't a legal play from its position).
+    python3 apply_declarer_choose.py pbns || error "declarer choose-card key failed"
     PBN_COUNT=$(find pbns -name "*.pbn" | wc -l | tr -d ' ')
     echo "Output: pbns/ ($PBN_COUNT PBN files)"
 }
