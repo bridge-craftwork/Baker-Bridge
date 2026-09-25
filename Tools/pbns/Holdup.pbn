@@ -562,7 +562,7 @@ Start on \Ds next, maybe because they are longer. Assume that West holds the \DA
 
 Click NEXT. [NEXT]
 
-[PLAY N:DK,N:D6,N:D5,S:DJ,S:D9,S:D2]
+[PLAY N:DK,E:D3,S:D2,W:D4,N:D6,E:D7,S:DJ,W:D8,S:D9,W:DA,N:D5,E:C2]
 
 
 
@@ -570,13 +570,15 @@ West glares at you, (because he has no \H to lead), and plays the \CQ which you 
 
 Click NEXT. [NEXT]
 
-[showcards N:ST,S6,C8,C7 S:SK,SJ,CK,CT]
+[PLAY W:CQ,N:C3,E:C4,S:CA,S:DT,W:S2,N:DQ,E:H2,N:SQ,E:SA,S:S7,W:S4] [showcards E:H4]
 
-[PLAY N:SQ,N:DQ,N:C5,N:C3,S:S7,S:HA,S:DT,S:CA]
+[clear-commentary]
 
 
 
-East glares at you, (because you still have the \HA), and plays another \H to your Ace. You take your 3 tricks and let West have the last \C.
+East glares at you, (because you still have the \HA), and plays another \H. Which card do you play? [choose-card HA]
+
+[showcards W:S5 N:C5] You take your 3 tricks and let West have the last \C.
 
 Clickfor the complete Deal. [NEXT]
 

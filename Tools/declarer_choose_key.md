@@ -325,6 +325,36 @@ West follows with the \H3. Which card do you play from dummy? [choose-card HK]
 [PLAY E:HQ,W:H3]
 >>>
 
+<<<
+[PLAY N:DK,N:D6,N:D5,S:DJ,S:D9,S:D2]
+===
+[PLAY N:DK,E:D3,S:D2,W:D4,N:D6,E:D7,S:DJ,W:D8,S:D9,W:DA,N:D5,E:C2]
+>>>
+
+The endgame, rebuilt trick by trick from the deal in place of the old eight-card
+[showcards]: the ♣A, the last diamond and the spade to East's ♠A are gathered, then East
+leads a heart to South's ♥A.
+
+<<<
+[showcards N:ST,S6,C8,C7 S:SK,SJ,CK,CT]
+===
+[PLAY W:CQ,N:C3,E:C4,S:CA,S:DT,W:S2,N:DQ,E:H2,N:SQ,E:SA,S:S7,W:S4] [showcards E:H4]
+>>>
+
+<<<
+[PLAY N:SQ,N:DQ,N:C5,N:C3,S:S7,S:HA,S:DT,S:CA]
+===
+[clear-commentary]
+>>>
+
+<<<
+East glares at you, (because you still have the \HA), and plays another \H to your Ace. You take your 3 tricks and let West have the last \C.
+===
+East glares at you, (because you still have the \HA), and plays another \H. Which card do you play? [choose-card HA]
+
+[showcards W:S5 N:C5] You take your 3 tricks and let West have the last \C.
+>>>
+
 ## Holdup 10
 
 Bath coup: duck the ♥K, playing the ♥7 (not the ♥3).
