@@ -131,6 +131,7 @@ def main():
         r"Click\s+to\s+see[^.]*\.",
         r"Click\s*for[^.]*\.",
         r"Clickfor[^.]*\.",
+        r"Click\s*again[^.]*\.",
         r"Click\s*[.?]",
         # A "Click" left alone on its line once its [ROTATE]/[NEXT] tag was stripped
         r"(?m)^[ \t]*Click[ \t]*$",

@@ -26,10 +26,10 @@
   "buildDurations": {
     "pbn": 0,
     "package": 0,
-    "stamp": 0,
+    "stamp": 1,
     "export": 0,
-    "presentation": 1,
-    "rotate": 310,
+    "presentation": 0,
+    "rotate": 309,
     "manifest": 0
   },
   "lessons": [
