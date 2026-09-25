@@ -109,6 +109,7 @@ def check_board(board_text):
     chosen_pending = []   # cards of answered choices not yet gathered
     alternates = set()    # cards of earlier any: lists — played only if the student chose them
     problems = []
+    notes = []  # warnings: questions whose every legal card is accepted
 
     def holding(seat):
         return hands[seat] - played - {c for s, c in trick if s == seat}
@@ -160,17 +161,21 @@ def check_board(board_text):
             if gone or all(c in played for c in cards):
                 problems.append(f"{label}: {gone or cards} already played")
             live = [c for c in cards if c not in played] or cards
+            legal = holding(seat)
             if trick:
                 led = trick[0][1][0]
                 if any(c[0] == led for c in holding(seat)):
                     off = [c for c in cards if c[0] != led]
                     if off:
                         problems.append(f"{label}: {off} don't follow the led suit ({led})")
+                    legal = {c for c in legal if c[0] == led}
+            if legal and legal <= set(cards):
+                notes.append(f"{label}: forced (every legal card is accepted)")
             if len(cards) > 1:
                 alternates.update(cards)
             chosen_pending.append(live[0])
             trick.append((seat, live[0]))
-    return problems
+    return problems, notes
 
 
 def apply_to_file(path, boards):
@@ -194,7 +199,10 @@ def apply_to_file(path, boards):
                 applied += 1
             else:
                 problems.append(f"board {board}: FROM text found {n} times: {frm[:60]!r}")
-        problems += [f"board {board}: {p}" for p in check_board(parts[i])]
+        probs, notes = check_board(parts[i])
+        problems += [f"board {board}: {p}" for p in probs]
+        for n in notes:
+            print(f"  note: {os.path.basename(path)} board {board}: {n}")
     with open(path, "w", encoding="utf-8") as f:
         f.write("".join(parts))
     return applied, problems

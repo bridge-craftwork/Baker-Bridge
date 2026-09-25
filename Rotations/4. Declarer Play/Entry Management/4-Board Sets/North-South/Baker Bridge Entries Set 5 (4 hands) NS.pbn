@@ -22,7 +22,7 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{North is to play 3NT. East leads the \SQ.
+{North is to play 3NT. East leads the \SQ, dummy plays the \S4 and West the \S3.
 
 Winners:   \S=2  \H=1  \D=2  \C=0  Total = 5
 
@@ -65,6 +65,10 @@ The reason the Winners list shows 1 \S is that the defenders are going to have t
 
 So you only need one more winner really, and if you guess the \C finesse right you will have it. Which way will you finesse, and why?
 
+You win the \D in dummy and play the \SK, which the defenders let hold.  
+
+East plays low.  
+
 You will finesse through East. If he has the \CQ you will win all 3 \C tricks, but if West has the \CQ you may win even more. Just watch.
 
 Win the opening \D lead in dummy. Play the \SK which the defenders are not about to take while you have a \C entry to your hand. Now play the \CT and pass it to West. If West takes the \CQ then you will have TWO entries to your hand, one to get there for a \S lead, and the other to reach the \S winners after you have driven out the \SA. But if West DOESN'T take the \CQ, or if East actually has it, then you will have 3 \C tricks and your contract.
@@ -92,13 +96,19 @@ D2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{North is to play 6NT. East leads the \ST.
+{North is to play 6NT. East leads the \ST, dummy plays the \S6 and West the \S3.
 
 Winners:   \S=2  \H=5  \D=2  \C=1  Total = 10
 
 You need two more winners and the best bet is to try to pick up three \C tricks. You will need the \CK and \CQ to lie in different hands, or both of them to be with West. That is about a 75% chance.
 
 But you may need to make 3 finesses, so that means 3 entries to dummy, all of which must be in the \H suit. Can it be done?
+
+You win the \S lead in your hand, then lead the \HK and East plays low.  
+
+West follows with the \H6. 
+
+West plays low.  
 
 Of course it can. Win the \S lead in your hand and play the \HK, overtaking with dummy's \HA. Now play a \C to your \C9, which loses to East's \CK. East plays another \S.
 
@@ -131,7 +141,7 @@ ST
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{Pretty bold bidding by South, but partner DID make a positive response. South is to play 6\S. West leads the \DQ.
+{Pretty bold bidding by South, but partner DID make a positive response.  South is to play 6\S. West leads the \DQ, dummy plays the \D4 and East the \D7.
 
 Losers:   \S=0  \H=0  \D=2  \C=1  Total = 3
 

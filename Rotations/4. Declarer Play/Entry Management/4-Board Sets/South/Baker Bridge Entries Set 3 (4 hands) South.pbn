@@ -22,13 +22,15 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{South is to play 6\C. West leads the \DQ.
+{South is to play 6\C. West leads the \DQ, dummy plays the \D3 and East the \D4.
 
 Losers:   \S=0  \H=2  \D=1  \C=0  Total = 3
 
 Partner's hand didn't turn out to be what you hoped for, you had in mind maybe the \HK and \DQ.
 
 But this is what you got. First, be thankful West led a \D rather than a \H. Second, see if you can find a way to fight yourself over to dummy and those three beautiful \Ss.
+
+West plays the \C10, dummy the \C8 and East the \C2.
 
 You have two possibilities for a \C entry, but you can only try one of them as you will see.
 
@@ -71,6 +73,8 @@ This is the kind of hand that can get really messy if you aren't careful. You co
 
 All in all a much better plan is to use dummy's \C suit after you unblock the Ace. The only flaw with that idea is that when you ruff the \S, unblock the \CA, then play two rounds of trumps ending in dummy, there will still be a trump left out. And the defender might ruff a \C before you can take the discards you need. Do you see a way around this?
 
+West continues with the \SK.  
+
 Do NOT ruff the second \S in dummy, just discard a \D. If West plays a third \S you will ruff in your hand, then unblock the \CA, then pull trumps in 3 rounds ending in dummy. And run all those \C tricks. If West plays a trump or a \C the result will be the same. The defense can get one \D trick if they take it right now, but you still make your contract.
 
 It is an important concept. When you have to use a trump as a later entry you could thwart your own plan by ruffing.}
@@ -96,11 +100,11 @@ SA
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{South is to play 3NT. West leads the \C3, East plays the \CA.
+{South is to play 3NT. West leads the \C3, dummy plays the \C7 and East the \CA.
 
 Winners:   \S=1  \H=2  \D=1  \C=2  Total = 6
 
-You have the possibility of one additional \S winner if West holds the \SK. However, \Ds is your best suit and if East holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?
+You have the possibility of one additional \S winner if West holds the \SK. However, \Ds is your best suit and if East holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?  
 
 Well, you probably do. West's small \C lead probably indicates an honor, and with East playing the \CA you can be pretty sure that West holds the \CJ. So by playing your \CK underneath the \CA you set up a second entry to dummy via the \C finesse.
 
@@ -131,7 +135,7 @@ C3
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{South is to play 3NT. West leads the \D5, East plays the \DQ.
+{South is to play 3NT. West leads the \D5, dummy plays the \D4 and East the \DQ.
 
 Winners:   \S=0  \H=3  \D=1  \C=1  Total = 5
 

@@ -26,9 +26,17 @@
 
 Winners:   \S=1  \H=0  \D=2  \C=3  Total = 6
 
-You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem?
+You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem?  
 
-Don't win the first trick with the \C9, win with the \CK. Then at trick two enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure East has led from the \CQ so you expect this to work. Then play the \ST, underplaying your \S8. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
+Don't win the first trick with the \C9, win with the \CK.
+
+East plays low.  
+
+At trick two you enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure East has led from the \CQ so you expect this to work. 
+
+West plays low.  
+
+Lead the \S10 (or \SQ) and underplay it with your \S8 (or \S9), so you stay in dummy. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
 
 This is another twist on the them of winning with a higher card than necessary.
 
@@ -57,7 +65,7 @@ C4
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{East is to play 3NT. South leads the \SQ.
+{East is to play 3NT. South leads the \SQ, dummy plays the \S4 and North the \S3.
 
 Winners:   \S=2  \H=1  \D=2  \C=0  Total = 5
 
@@ -100,6 +108,10 @@ The reason the Winners list shows 1 \S is that the defenders are going to have t
 
 So you only need one more winner really, and if you guess the \C finesse right you will have it. Which way will you finesse, and why?
 
+You win the \D in dummy and play the \SK, which the defenders let hold.  
+
+East plays low.  
+
 You will finesse through East. If he has the \CQ you will win all 3 \C tricks, but if West has the \CQ you may win even more. Just watch.
 
 Win the opening \D lead in dummy. Play the \SK which the defenders are not about to take while you have a \C entry to your hand. Now play the \CT and pass it to West. If West takes the \CQ then you will have TWO entries to your hand, one to get there for a \S lead, and the other to reach the \S winners after you have driven out the \SA. But if West DOESN'T take the \CQ, or if East actually has it, then you will have 3 \C tricks and your contract.
@@ -127,13 +139,19 @@ D2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{West is to play 6NT. North leads the \ST.
+{West is to play 6NT. North leads the \ST, dummy plays the \S6 and South the \S3.
 
 Winners:   \S=2  \H=5  \D=2  \C=1  Total = 10
 
 You need two more winners and the best bet is to try to pick up three \C tricks. You will need the \CK and \CQ to lie in different hands, or both of them to be with South. That is about a 75% chance.
 
 But you may need to make 3 finesses, so that means 3 entries to dummy, all of which must be in the \H suit. Can it be done?
+
+You win the \S lead in your hand, then lead the \HK and North plays low.  
+
+South follows with the \H6. 
+
+South plays low.  
 
 Of course it can. Win the \S lead in your hand and play the \HK, overtaking with dummy's \HA. Now play a \C to your \C9, which loses to North's \CK. North plays another \S.
 
@@ -166,7 +184,7 @@ ST
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{Pretty bold bidding by North, but partner DID make a positive response. North is to play 6\S. East leads the \DQ.
+{Pretty bold bidding by North, but partner DID make a positive response.  North is to play 6\S. East leads the \DQ, dummy plays the \D4 and West the \D7.
 
 Losers:   \S=0  \H=0  \D=2  \C=1  Total = 3
 

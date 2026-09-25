@@ -22,11 +22,11 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{North is to play 3NT. East leads the \C3, West plays the \CA.
+{North is to play 3NT. East leads the \C3, dummy plays the \C7 and West the \CA.
 
 Winners:   \S=1  \H=2  \D=1  \C=2  Total = 6
 
-You have the possibility of one additional \S winner if East holds the \SK. However, \Ds is your best suit and if West holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?
+You have the possibility of one additional \S winner if East holds the \SK. However, \Ds is your best suit and if West holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?  
 
 Well, you probably do. East's small \C lead probably indicates an honor, and with West playing the \CA you can be pretty sure that East holds the \CJ. So by playing your \CK underneath the \CA you set up a second entry to dummy via the \C finesse.
 
@@ -57,7 +57,7 @@ C3
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{East is to play 3NT. South leads the \D5, North plays the \DQ.
+{East is to play 3NT. South leads the \D5, dummy plays the \D4 and North the \DQ.
 
 Winners:   \S=0  \H=3  \D=1  \C=1  Total = 5
 
@@ -131,7 +131,7 @@ H4
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{West is to play 3NT. North leads the \S9, and South plays the \SK.
+{West is to play 3NT. North leads the \S9, dummy plays the \S10 and South the \SK.
 
 Winners:   \S=3  \H=2  \D=1  \C=0  Total = 6
 
