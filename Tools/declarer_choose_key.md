@@ -2005,3 +2005,563 @@ There is actually a play that is 100% certain, no matter who holds the \CK.
 
 Which card do you lead now? [choose-card CJ]
 >>>
+
+## Establishment 1
+
+Win trick 1 with a dummy honour, saving the ♠Q as the entry; unblock with dummy's ♦Q.
+
+<<<
+South is to play 3NT. West leads the \SJ.
+===
+[showcards W:SJ] South is to play 3NT. West leads the \SJ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card any:SK,SA]
+>>>
+
+<<<
+Winners:   \S = 3
+===
+[showcards E:S5 S:S3] East plays the \S5 and you the \S3.
+
+Winners:   \S = 3
+>>>
+
+<<<
+[PLAY N:SK,S:S3]
+===
+[PLAY W:SJ,E:S5,S:S3]
+
+Which card do you lead from dummy? [choose-card DQ]
+
+[showcards E:D2 S:D4 W:D6]
+>>>
+
+<<<
+Next start playing \Ds, first \DQ, then \DK.
+===
+You start on \Ds with the \DQ, then the \DK.
+>>>
+
+<<<
+[PLAY N:DQ,N:D3,S:DK,S:D4]
+===
+[PLAY E:D2,S:D4,W:D6,N:D3,E:D5,S:DK,W:DA]
+>>>
+
+## Establishment 2
+
+Dummy plays low at trick 1, keeping its trump entries.
+
+<<<
+South is to play 4\S. West leads the \S6, East plays \S4.
+===
+[showcards W:S6] South is to play 4\S. West leads the \S6.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card S2]
+
+[showcards E:S4 S:SA]
+
+East plays the \S4 and you win with the \SA. [NEXT]
+>>>
+
+<<<
+[PLAY N:S2,S:SA]
+===
+[PLAY W:S6,E:S4,S:SA]
+>>>
+
+## Establishment 3
+
+Duck a club: a small one from each hand.
+
+<<<
+South is to play 3NT. West leads the \DJ, East plays \DK.
+===
+[PLAY W:DJ,N:D6,E:DK,S:DA] South is to play 3NT. West leads the \DJ, East plays the \DK and you win with the \DA.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:C6,C2]
+
+[showcards W:C5]
+
+West plays low. Which card do you play from dummy? [choose-card any:C4,C3]
+
+[showcards E:C7]
+
+East wins with the \C7. [NEXT]
+>>>
+
+<<<
+[PLAY N:D6,N:C3,S:DA,S:C2]
+===
+[PLAY W:C5,E:C7]
+>>>
+
+## Establishment 4
+
+Duck a club from dummy at once, keeping a club to reach the long suit.
+
+<<<
+South is to play 3NT. West leads the \H5, East plays the \H2.
+===
+[PLAY W:H5,N:HT,E:H2,S:H3] South is to play 3NT. West leads the \H5, dummy plays the \H10, East the \H2 and you the \H3. Dummy wins.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to lead. [choose-card any:C8,C7,C6,C4,C3]
+
+[showcards E:CJ S:C2 W:C5]
+
+East wins with the \CJ. [NEXT]
+>>>
+
+<<<
+[PLAY N:HT,S:H3]
+===
+[PLAY E:CJ,S:C2,W:C5]
+>>>
+
+## Establishment 5
+
+Win the spade, then duck a diamond from both hands.
+
+<<<
+South is to play 3NT. West leads the \S2, East plays the \SJ.
+===
+[showcards W:S2 N:S4 E:SJ] South is to play 3NT. West leads the \S2, dummy plays the \S4 and East the \SJ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:SK,SA]
+
+[PLAY W:S2,N:S4,E:SJ]
+
+Which card do you lead now? [choose-card any:D7,D6,D3]
+
+[showcards W:D9]
+
+West plays low. Which card do you play from dummy? [choose-card any:D8,D5,D4,D2]
+
+[showcards E:DJ]
+
+East wins with the \DJ. [NEXT]
+>>>
+
+## Establishment 6
+
+Win the ♠K in hand (dummy low), then ♥Q-♥J overtaking the second with dummy's ♥K.
+
+<<<
+South is to play 3NT. West leads the \S2.
+===
+[showcards W:S2] South is to play 3NT. West leads the \S2.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card any:S7,S4]
+
+[showcards E:SJ S:SK]
+
+East plays the \SJ and you win with the \SK. [NEXT]
+
+[PLAY W:S2,E:SJ,S:SK]
+
+Which card do you lead now? [choose-card any:HQ,HJ]
+
+[showcards W:H2]
+
+West plays low. Which card do you play from dummy? [choose-card any:H9,H8,H3]
+
+[showcards E:H5]
+
+East plays low too. [NEXT]
+
+[PLAY W:H2,E:H5]
+
+Which card do you lead now? [choose-card any:HJ,HQ]
+
+[showcards W:H4]
+
+West plays low. Which card do you play from dummy? [choose-card HK]
+
+[showcards E:H6]
+
+East holds up his \HA again. [NEXT]
+>>>
+
+## Establishment 7
+
+Win the ♥A, draw trumps, then start on dummy's clubs.
+
+<<<
+South is to play 6\S. West leads the \HK.
+===
+[showcards W:HK N:H5 E:H3] South is to play 6\S. West leads the \HK, dummy plays the \H5 and East the \H3.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card HA]
+
+[PLAY W:HK,N:H5,E:H3,S:SK,W:S3,N:S4,E:D4,S:SQ,W:ST,N:S6,E:D9]
+
+You win the \HA and draw trumps with the \SK and \SQ. Which card do you lead now? [choose-card any:C5,C2]
+
+[showcards W:C8]
+
+West plays low. [NEXT]
+>>>
+
+## Establishment 8
+
+Attack spades, the suit where the defenders have winners anyway.
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+[PLAY W:D6,N:D5,E:DJ,S:D3,E:DQ,S:D4,W:D2,N:D7,E:D9,S:DA,W:D8,N:C3]
+
+Make a Plan, then play a card from your hand. [choose-card any:SQ,SJ,S5]
+>>>
+
+## Establishment 9
+
+Win the second spade in hand with dummy playing low; unblock the clubs, overtaking with the
+♣A, then lead a club to establish the ♣9 while the ♠Q is still an entry.
+
+<<<
+South is to play 3NT. West leads the \S9, taken by East with the \SA. East next plays the \S4.
+===
+[PLAY W:S9,N:S2,E:SA,S:S7] [showcards E:S4] South is to play 3NT. West leads the \S9, taken by East with the \SA. East next plays the \S4.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+[showcards S:SK W:S3]
+
+You win with the \SK and West plays low. Make a Plan, then choose dummy's card to this trick. [choose-card ST]
+
+[PLAY E:S4,S:SK,W:S3]
+
+Which card do you lead now? [choose-card any:CK,CQ]
+
+[showcards W:C2 N:C3 E:C4]
+
+Everyone follows low. [NEXT]
+
+[PLAY W:C2,N:C3,E:C4]
+
+Which card do you lead now? [choose-card any:CQ,CK]
+
+[showcards W:C6]
+
+West plays low. Which card do you play from dummy? [choose-card CA]
+
+[showcards E:C5]
+
+East follows with the \C5. [NEXT]
+
+[PLAY W:C6,E:C5]
+
+Which card do you lead from dummy? [choose-card any:CT,C9,C8]
+
+[showcards E:CJ]
+
+East wins with the \CJ. [NEXT]
+>>>
+
+## Establishment 10
+
+Win the club and play spades, hoping for a 3-3 split.
+
+<<<
+South is to play 2NT. West leads the \CK.
+===
+[showcards W:CK N:C3 E:C2] South is to play 2NT. West leads the \CK, dummy plays the \C3 and East the \C2.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card CA]
+
+[PLAY W:CK,N:C3,E:C2]
+
+Which card do you lead now? [choose-card any:S7,S6,S3]
+
+[showcards W:S4]
+
+West plays low. [NEXT]
+>>>
+
+## Establishment 11
+
+Win the ♣A and lead the ♠Q at once; win the trump return in dummy; ruff a spade high.
+
+<<<
+South is to play 4\H. West leads the \CK.
+===
+[showcards W:CK N:C3 E:C5] South is to play 4\H. West leads the \CK, dummy plays the \C3 and East the \C5.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card CA]
+
+[PLAY W:CK,N:C3,E:C5]
+
+Which card do you lead now? [choose-card SQ]
+
+[showcards W:S4 N:S2 E:SK]
+
+East wins the \SK. [NEXT]
+
+[PLAY W:S4,N:S2,E:SK] [showcards E:H2 S:H6 W:H3]
+
+East plays a trump, you follow low and West too. Which card do you play from dummy? [choose-card any:HA,HK,HJ]
+
+[NEXT]
+
+[PLAY E:H2,S:H6,W:H3] [showcards N:S3 E:S7]
+
+Dummy leads a \S and East plays low. Which card do you play? [choose-card any:HQ,HT,H9]
+
+[showcards W:ST]
+>>>
+
+## Establishment 12
+
+Win the diamond in dummy and start hearts before drawing trumps.
+
+<<<
+South is to play 7\C. West leads the \DQ.
+===
+[showcards W:DQ] South is to play 7\C. West leads the \DQ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card any:DA,DK]
+
+[showcards E:D2 S:D4]
+
+East plays the \D2 and you the \D4. [NEXT]
+
+[PLAY W:DQ,E:D2,S:D4]
+
+Which card do you lead from dummy? [choose-card any:H8,H7,H5,H3,HK]
+>>>
+
+## Establishment 13
+
+Win the spade and finesse the ♦10, establishing the diamonds.
+
+<<<
+South is to play 3NT. West leads the \S4.
+===
+[showcards W:S4 N:S3 E:SJ] South is to play 3NT. West leads the \S4, dummy plays the \S3 and East the \SJ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:SA,SK]
+
+[PLAY W:S4,N:S3,E:SJ]
+
+Which card do you lead now? [choose-card any:D7,D5,D3]
+
+[showcards W:D4]
+
+West plays low. Which card do you play from dummy? [choose-card DT]
+
+[showcards E:DJ]
+
+East wins with the \DJ. [NEXT]
+>>>
+
+## Establishment 14
+
+Duck West's ♣K in dummy, keeping the ♣A as the entry.
+
+<<<
+What do you do next?
+===
+What do you do next?
+
+[PLAY W:S4,N:S7,E:SA,S:S3,E:S8,S:SQ,W:S2,N:S9] [showcards S:CQ W:CK]
+
+Which card do you play from dummy? [choose-card any:C8,C6,C5,C3]
+
+[showcards E:C4]
+>>>
+
+<<<
+Click NEXT. [NEXT]
+
+[PLAY N:S9,N:S7,S:SQ,S:S3]
+===
+>>>
+
+## Establishment 15
+
+Win with the ♠Q, then duck a heart in dummy.
+
+<<<
+South is to play 3NT. West leads the \S2. East puts on the \SJ.
+===
+[showcards W:S2 N:S4 E:SJ] South is to play 3NT. West leads the \S2, dummy plays the \S4 and East puts on the \SJ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card SQ]
+
+[PLAY W:S2,N:S4,E:SJ]
+
+Which card do you lead now? [choose-card any:H6,H3]
+
+[showcards W:H4]
+
+West plays low. Which card do you play from dummy? [choose-card any:H8,H7,H5]
+
+[showcards E:H9]
+
+East wins with the \H9. [NEXT]
+>>>
+
+## Establishment 16
+
+Ruff the third spade, then lead the ♦Q (dummy low) before touching trumps.
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+[PLAY W:SK,N:S3,E:SA,S:S4,E:S2,S:S7,W:ST,N:S5,W:SQ,N:S6,E:S9,S:H2]
+
+You ruff the third \S. Make a Plan, then play a card from your hand. [choose-card DQ]
+
+[showcards W:D3]
+
+West plays low. Which card do you play from dummy? [choose-card any:D8,D5]
+
+[showcards E:D2]
+
+East ducks. [NEXT]
+>>>
+
+## Establishment 17
+
+Win the first trick with the ♠A to unblock, keeping the ♠QJ as dummy's entry.
+
+<<<
+South is to play 3NT. West leads the \S6, you play dummy's \S9 and  East contributes the \S2.
+===
+[showcards W:S6 N:S9 E:S2] South is to play 3NT. West leads the \S6, you play dummy's \S9 and  East contributes the \S2.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card SA]
+>>>
+
+## Establishment 18
+
+Win the first trick with the ♠A, keeping two spade entries to dummy.
+
+<<<
+South is to play 3NT. West leads the \S2, you play dummy's \S4 and  East plays the \S8.
+===
+[showcards W:S2 N:S4 E:S8] South is to play 3NT. West leads the \S2, you play dummy's \S4 and  East plays the \S8.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card SA]
+>>>
+
+## Establishment 19
+
+Cover the ♠10 with dummy's ♠J; cross to the ♦10; lead the ♠Q to ruff out East's honours.
+
+<<<
+South is to play 5\D. West leads the \ST.
+===
+[showcards W:ST] South is to play 5\D. West leads the \ST.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card SJ]
+
+[showcards E:SK S:D2]
+
+East plays the \SK and you ruff with the \D2. [NEXT]
+
+[PLAY W:ST,E:SK,S:D2]
+
+Which card do you lead now? [choose-card any:D7,D6,D5]
+
+[showcards W:D3]
+
+West plays low. Which card do you play from dummy? [choose-card DT]
+
+[showcards E:S3]
+
+East shows out. [NEXT]
+
+[PLAY W:D3,E:S3]
+
+Which card do you lead from dummy? [choose-card SQ]
+
+[showcards E:SA]
+
+East covers with the \SA. [NEXT]
+>>>
+
+## Establishment 20
+
+After trumps, the top clubs and the ♦A, exit with the ♦5 to make the defenders help you.
+
+<<<
+After pulling trumps, play the \C A K, then \DA. Next exit with a small \D.
+
+Click NEXT to see the position. [NEXT]
+
+[PLAY N:S6,N:S4,N:D8,N:D6,N:C4,N:C3,S:SA,S:SQ,S:DA,S:D5,S:CA,S:CK]
+===
+After pulling trumps, play the \C A K, then \DA.
+
+[PLAY W:S5,N:S4,E:S8,S:SQ,S:SA,W:S3,N:S6,E:S2,S:CA,W:C5,N:C3,E:C2,S:CK,W:CT,N:C4,E:C7,S:DA,W:D2,N:D6,E:D4]
+
+Which card do you lead now? [choose-card D5]
+
+[showcards W:D3 N:D8 E:DT]
+
+You exit with a small \D and East wins. [NEXT]
+>>>

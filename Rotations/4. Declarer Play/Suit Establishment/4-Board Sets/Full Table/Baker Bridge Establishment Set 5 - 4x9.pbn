@@ -22,7 +22,7 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South's 3\D bid was a transfer to \Hs, and his 2NT bid showed exactly 5 \Hs with an invitational strength hand. North is to play 3NT. East leads the \S6, you play dummy's \S9 and  West contributes the \S2.
+{South's 3\D bid was a transfer to \Hs, and his 2NT bid showed exactly 5 \Hs with an invitational strength hand.  North is to play 3NT. East leads the \S6, you play dummy's \S9 and  West contributes the \S2.
 
 Winners:   \S=2  \H=0  \D=1  \C=2  Total = 5
 
@@ -90,7 +90,15 @@ S2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{3NT would have been a lot easier, but you didn't get there. South is to play 5\D. West leads the \ST.
+{3NT would have been a lot easier, but you didn't get there.  South is to play 5\D. West leads the \ST.
+
+East plays the \SK and you ruff with the \D2. 
+
+West plays low.  
+
+East shows out. 
+
+East covers with the \SA. 
 
 Losers:   \S=0  \H=1  \D=0  \C=2  Total = 3
 
@@ -135,7 +143,9 @@ Losers:   \S=0  \H=1  \D=1  \C=0  Total = 2
 
 First pull trumps with the \SA and \SQ, both defenders following. Next you must establish dummy's \C suit to get rid of one of your losers. If the suit splits 3-3 that will be easy since you have two dummy entries, one to get there to ruff the third \C and the other to get there to enjoy playing the winners. But \Cs will probably split 4-2 so the two entries won't be enough. Here's how to make the defenders help you establish the suit.
 
-After pulling trumps, play the \C A K, then \DA. Next exit with a small \D.
+After pulling trumps, play the \C A K, then \DA.
+
+You exit with a small \D and South wins. 
 
 The defender who won the \D trick has a problem. If he plays another \D you will get a ruff-sluff, and if he plays a \H you will play for the \HQ and \HJ to be in different hands. So he will probably play a \C.
 

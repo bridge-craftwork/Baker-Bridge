@@ -24,11 +24,13 @@
 [Student "S"]
 {South is to play 3NT. West leads the \SJ.
 
+ East plays the \S5 and you the \S3.
+
 Winners:   \S=3  \H=1  \D=0  \C=1  Total = 5
 
 You need 4 more winners, and they will come from the \D suit once you have knocked out the \DA. But there is one danger to avoid - if the defenders don't take the \DA on the first round dummy won't have a \D to lead back to your hand. So to make sure you have an entry back you win the first trick with dummy's \SK, saving your \SQ.
 
-Next start playing \Ds, first \DQ, then \DK. Assume the defenders take their \DA on the second round.
+You start on \Ds with the \DQ, then the \DK. Assume the defenders take their \DA on the second round.
 
 Win whatever they now play and come to your hand with the \SQ to enjoy your three established \Ds for 9 tricks total.
 
@@ -57,7 +59,9 @@ SJ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{You were counting on North to have a little better hand than that! South is to play 4\S. West leads the \S6, East plays \S4.
+{You were counting on North to have a little better hand than that!  South is to play 4\S. West leads the \S6.
+
+East plays the \S4 and you win with the \SA. 
 
 Losers:   \S=0  \H=2  \D=0  \C=2  Total = 4
 
@@ -92,7 +96,11 @@ S6
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North's \C bid was Stayman, but he didn't match \Ss. South is to play 3NT. West leads the \DJ, East plays \DK.
+{North's \C bid was Stayman, but he didn't match \Ss.  South is to play 3NT. West leads the \DJ, East plays the \DK and you win with the \DA.
+
+West plays low.  
+
+East wins with the \C7. 
 
 Winners:   \S=2  \H=1  \D=2  \C=3  Total = 8
 
@@ -125,7 +133,9 @@ DJ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 3NT. West leads the \H5, East plays the \H2.
+{South is to play 3NT. West leads the \H5, dummy plays the \H10, East the \H2 and you the \H3. Dummy wins.
+
+East wins with the \CJ. 
 
 Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
 
@@ -154,7 +164,11 @@ H5
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 3NT. West leads the \S2, East plays the \SJ.
+{South is to play 3NT. West leads the \S2, dummy plays the \S4 and East the \SJ.
+
+West plays low.  
+
+East wins with the \DJ. 
 
 Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
 
@@ -189,7 +203,17 @@ S2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North's 3\D bid was a transfer to \Hs. South is to play 3NT. West leads the \S2.
+{North's 3\D bid was a transfer to \Hs.  South is to play 3NT. West leads the \S2.
+
+East plays the \SJ and you win with the \SK. 
+
+West plays low.  
+
+East plays low too. 
+
+West plays low.  
+
+East holds up his \HA again. 
 
 Winners:   \S=2  \H=0  \D=2  \C=1  Total = 5
 
@@ -220,7 +244,11 @@ S2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 6\S. West leads the \HK.
+{South is to play 6\S. West leads the \HK, dummy plays the \H5 and East the \H3.
+
+You win the \HA and draw trumps with the \SK and \SQ.  
+
+West plays low. 
 
 Losers:   \S=0  \H=1  \D=1  \C=0  Total = 2
 
@@ -286,6 +314,16 @@ D6
 [Student "S"]
 {South is to play 3NT. West leads the \S9, taken by East with the \SA. East next plays the \S4.
 
+You win with the \SK and West plays low.  
+
+Everyone follows low. 
+
+West plays low.  
+
+East follows with the \C5. 
+
+East wins with the \CJ. 
+
 Winners:   \S=2  \H=2  \D=1  \C=3  Total = 8
 
 You only need one more winner and if \Ds split 3-3 you can easily establish a trick in that suit. But what if \Ds split 4-2? If the \CJ falls you can get an extra \C trick. In fact, no matter how the \Cs are arranged you can establish your extra trick there.
@@ -315,7 +353,9 @@ S9
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 2NT. West leads the \CK.
+{South is to play 2NT. West leads the \CK, dummy plays the \C3 and East the \C2.
+
+West plays low. 
 
 Winners:   \S=1  \H=3  \D=2  \C=1  Total = 7
 
@@ -346,7 +386,13 @@ CK
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 4\H. West leads the \CK.
+{South is to play 4\H. West leads the \CK, dummy plays the \C3 and East the \C5.
+
+East wins the \SK. 
+
+East plays a trump, you follow low and West too.  
+
+Dummy leads a \S and East plays low.  
 
 Losers:   \S=1  \H=0  \D=2  \C=3  Total = 6
 
@@ -381,6 +427,8 @@ CK
 [Student "S"]
 {South is to play 7\C. West leads the \DQ.
 
+East plays the \D2 and you the \D4. 
+
 Losers:   \S=1  \H=0  \D=0  \C=0  Total = 1
 
 It should be very clear that the only way to get rid of that \S loser is to discard it on dummy's \H suit. So after taking the first trick with dummy's \DA you could pull trumps, then play \HA, \HK and ruff a \H. <b>IF</b> the \Hs split 3-3 you could then enter dummy with the \DK and discard your loser.
@@ -414,7 +462,11 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 3NT. West leads the \S4.
+{South is to play 3NT. West leads the \S4, dummy plays the \S3 and East the \SJ.
+
+West plays low.  
+
+East wins with the \DJ. 
 
 Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
 
@@ -486,7 +538,11 @@ pass pass 1D pass 1H pass 2NT pass 3NT pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 3NT. West leads the \S2. East puts on the \SJ.
+{South is to play 3NT. West leads the \S2, dummy plays the \S4 and East puts on the \SJ.
+
+West plays low.  
+
+East wins with the \H9. 
 
 Winners:   \S=2  \H=1  \D=2  \C=1  Total = 6
 
@@ -521,6 +577,12 @@ S2
 [Student "S"]
 {Some pretty agressive bidding gets you to a challenging game. South is to play 4\H. West leads the \SK, overtaken by East's \SA. East returns a \S to West's \ST, and he then plays the \SQ.
 
+You ruff the third \S.  
+
+West plays low.  
+
+East ducks. 
+
 Losers:   \S=2  \H=0  \D=1  \C=3  Total = 6
 
 With 2 tricks already gone you still have 4 losers. You could consider ruffing the 3 \C losers in dummy but that would just create a trump loser even when trumps are splitting 3-2. So it looks like you will have to establish the \D suit for discards. You could pull trumps and then play your \DQ, hoping the defenders will grab their \DA immediately. But unless they are real novices they will hold it up one round and you'll no longer be able to reach dummy.
@@ -552,7 +614,7 @@ SK
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North's 3\D bid was a transfer to \Hs, and his 2NT bid showed exactly 5 \Hs with an invitational strength hand. South is to play 3NT. West leads the \S6, you play dummy's \S9 and  East contributes the \S2.
+{North's 3\D bid was a transfer to \Hs, and his 2NT bid showed exactly 5 \Hs with an invitational strength hand.  South is to play 3NT. West leads the \S6, you play dummy's \S9 and  East contributes the \S2.
 
 Winners:   \S=2  \H=0  \D=1  \C=2  Total = 5
 
@@ -620,7 +682,15 @@ S2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{3NT would have been a lot easier, but you didn't get there. South is to play 5\D. West leads the \ST.
+{3NT would have been a lot easier, but you didn't get there.  South is to play 5\D. West leads the \ST.
+
+East plays the \SK and you ruff with the \D2. 
+
+West plays low.  
+
+East shows out. 
+
+East covers with the \SA. 
 
 Losers:   \S=0  \H=1  \D=0  \C=2  Total = 3
 
@@ -665,7 +735,9 @@ Losers:   \S=0  \H=1  \D=1  \C=0  Total = 2
 
 First pull trumps with the \SA and \SQ, both defenders following. Next you must establish dummy's \C suit to get rid of one of your losers. If the suit splits 3-3 that will be easy since you have two dummy entries, one to get there to ruff the third \C and the other to get there to enjoy playing the winners. But \Cs will probably split 4-2 so the two entries won't be enough. Here's how to make the defenders help you establish the suit.
 
-After pulling trumps, play the \C A K, then \DA. Next exit with a small \D.
+After pulling trumps, play the \C A K, then \DA.
+
+You exit with a small \D and East wins. 
 
 The defender who won the \D trick has a problem. If he plays another \D you will get a ruff-sluff, and if he plays a \H you will play for the \HQ and \HJ to be in different hands. So he will probably play a \C.
 
