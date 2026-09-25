@@ -757,7 +757,7 @@ You have run the \Ss and \Ds and are in your hand. Which card do you lead? [choo
 
 [showcards W:C6]
 
-West plays low. Which card do you play from dummy? [choose-card CT]
+West plays low. Which card do you play from dummy? [choose-card any:CT,CJ]
 
 [showcards E:CK]
 >>>
@@ -765,7 +765,7 @@ West plays low. Which card do you play from dummy? [choose-card CT]
 <<<
 Lead a small \C and play the \CT if West plays low. Let's say East wins the \CK and returns a \H.
 ===
-A small \C, playing the \C10 when West plays low: the first of your two \C finesses. Let's say East wins the \CK and returns a \H.
+A small \C, playing the \C10 (or \CJ) when West plays low: the first of your two \C finesses. Let's say East wins the \CK and returns a \H.
 >>>
 
 <<<
@@ -989,11 +989,11 @@ Which card do you lead from dummy? [choose-card any:C8,C5,C3,C2]
 
 [showcards E:C4]
 
-East plays low. Which card do you play? [choose-card CT]
+East plays low. Which card do you play? [choose-card any:CT,CJ]
 
 [showcards W:CQ]
 
-You will only be in dummy once more, so you <b>MUST</b> make the first finesse right now: a small \C from dummy to your \C10. West wins with the \CQ and plays another trump.
+You will only be in dummy once more, so you <b>MUST</b> make the first finesse right now: a small \C from dummy to your \C10 (or \CJ). West wins with the \CQ and plays another trump.
 >>>
 
 <<<
@@ -1013,11 +1013,11 @@ Which card do you lead from dummy? [choose-card any:C8,C5,C3,C2]
 
 [showcards E:C7]
 
-East plays low. Which card do you play? [choose-card CJ]
+East plays low. Which card do you play? [choose-card any:CJ,CT]
 
 [showcards W:C6]
 
-A small \C to your \CJ.
+A small \C to your remaining honour.
 >>>
 
 ## Finesse 11
@@ -1064,11 +1064,11 @@ After the spade and diamond winners, try to drop the ♣Q before the heart fines
 <<<
 Now play the \CA, then \CK, hoping the \CQ falls.
 ===
-Which card do you play now? [choose-card CA]
+Which card do you play now? [choose-card any:CA,CT]
 
-[showcards W:C3 N:C9 E:C5]
+[showcards W:C3]
 
-The \CA, then the \CK, hoping the \CQ falls.
+The \CA and \CK (in either order), hoping the \CQ falls.
 >>>
 
 ## Finesse 13
@@ -1151,11 +1151,9 @@ Over to dummy's \HA. [NEXT]
 
 [PLAY W:H3,E:H2]
 
-Which card do you lead from dummy? [choose-card SQ]
+[showcards N:SQ E:S3]
 
-[showcards E:S3]
-
-East plays low. Which card do you play? [choose-card any:SJ,ST]
+You lead the \SQ from dummy and East plays low. Which card do you play? [choose-card any:SJ,ST]
 
 [showcards W:S7]
 
@@ -1165,7 +1163,7 @@ The \SQ from dummy, and the \SJ (or 10) from your hand when East plays low.
 <<<
 [PLAY N:SQ,N:HA,S:ST,S:H4]
 ===
-[PLAY E:S3,W:S7]
+[PLAY N:SQ,E:S3,W:S7]
 >>>
 
 <<<
