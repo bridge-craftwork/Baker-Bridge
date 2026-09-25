@@ -24,11 +24,13 @@
 [Student "S"]
 {North is to play 3NT. East leads the \SJ.
 
+ West plays the \S5 and you the \S3.
+
 Winners:   \S=3  \H=1  \D=0  \C=1  Total = 5
 
 You need 4 more winners, and they will come from the \D suit once you have knocked out the \DA. But there is one danger to avoid - if the defenders don't take the \DA on the first round dummy won't have a \D to lead back to your hand. So to make sure you have an entry back you win the first trick with dummy's \SK, saving your \SQ.
 
-Next start playing \Ds, first \DQ, then \DK. Assume the defenders take their \DA on the second round.
+You start on \Ds with the \DQ, then the \DK. Assume the defenders take their \DA on the second round.
 
 Win whatever they now play and come to your hand with the \SQ to enjoy your three established \Ds for 9 tricks total.
 
@@ -57,7 +59,9 @@ SJ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{You were counting on North to have a little better hand than that! South is to play 4\S. West leads the \S6, East plays \S4.
+{You were counting on North to have a little better hand than that!  South is to play 4\S. West leads the \S6.
+
+East plays the \S4 and you win with the \SA. 
 
 Losers:   \S=0  \H=2  \D=0  \C=2  Total = 4
 
@@ -92,7 +96,11 @@ S6
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South's \C bid was Stayman, but he didn't match \Ss. North is to play 3NT. East leads the \DJ, West plays \DK.
+{South's \C bid was Stayman, but he didn't match \Ss.  North is to play 3NT. East leads the \DJ, West plays the \DK and you win with the \DA.
+
+East plays low.  
+
+West wins with the \C7. 
 
 Winners:   \S=2  \H=1  \D=2  \C=3  Total = 8
 
@@ -125,7 +133,9 @@ DJ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 3NT. West leads the \H5, East plays the \H2.
+{South is to play 3NT. West leads the \H5, dummy plays the \H10, East the \H2 and you the \H3. Dummy wins.
+
+East wins with the \CJ. 
 
 Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
 
@@ -154,7 +164,11 @@ H5
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North is to play 3NT. East leads the \S2, West plays the \SJ.
+{North is to play 3NT. East leads the \S2, dummy plays the \S4 and West the \SJ.
+
+East plays low.  
+
+West wins with the \DJ. 
 
 Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
 

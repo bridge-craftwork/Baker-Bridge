@@ -22,7 +22,17 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South's 3\D bid was a transfer to \Hs. North is to play 3NT. East leads the \S2.
+{South's 3\D bid was a transfer to \Hs.  North is to play 3NT. East leads the \S2.
+
+West plays the \SJ and you win with the \SK. 
+
+East plays low.  
+
+West plays low too. 
+
+East plays low.  
+
+West holds up his \HA again. 
 
 Winners:   \S=2  \H=0  \D=2  \C=1  Total = 5
 
@@ -53,7 +63,11 @@ S2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{East is to play 6\S. South leads the \HK.
+{East is to play 6\S. South leads the \HK, dummy plays the \H5 and North the \H3.
+
+You win the \HA and draw trumps with the \SK and \SQ.  
+
+South plays low. 
 
 Losers:   \S=0  \H=1  \D=1  \C=0  Total = 2
 
@@ -119,6 +133,16 @@ D6
 [Student "S"]
 {West is to play 3NT. North leads the \S9, taken by South with the \SA. South next plays the \S4.
 
+You win with the \SK and North plays low.  
+
+Everyone follows low. 
+
+North plays low.  
+
+South follows with the \C5. 
+
+South wins with the \CJ. 
+
 Winners:   \S=2  \H=2  \D=1  \C=3  Total = 8
 
 You only need one more winner and if \Ds split 3-3 you can easily establish a trick in that suit. But what if \Ds split 4-2? If the \CJ falls you can get an extra \C trick. In fact, no matter how the \Cs are arranged you can establish your extra trick there.
@@ -148,7 +172,9 @@ S9
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North is to play 2NT. East leads the \CK.
+{North is to play 2NT. East leads the \CK, dummy plays the \C3 and West the \C2.
+
+East plays low. 
 
 Winners:   \S=1  \H=3  \D=2  \C=1  Total = 7
 

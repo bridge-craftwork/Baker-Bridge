@@ -22,7 +22,11 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North is to play 3NT. East leads the \S2, West plays the \SJ.
+{North is to play 3NT. East leads the \S2, dummy plays the \S4 and West the \SJ.
+
+East plays low.  
+
+West wins with the \DJ. 
 
 Winners:   \S=2  \H=2  \D=1  \C=2  Total = 7
 
@@ -57,7 +61,17 @@ S2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North's 3\D bid was a transfer to \Hs. South is to play 3NT. West leads the \S2.
+{North's 3\D bid was a transfer to \Hs.  South is to play 3NT. West leads the \S2.
+
+East plays the \SJ and you win with the \SK. 
+
+West plays low.  
+
+East plays low too. 
+
+West plays low.  
+
+East holds up his \HA again. 
 
 Winners:   \S=2  \H=0  \D=2  \C=1  Total = 5
 
@@ -88,7 +102,11 @@ S2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{North is to play 6\S. East leads the \HK.
+{North is to play 6\S. East leads the \HK, dummy plays the \H5 and West the \H3.
+
+You win the \HA and draw trumps with the \SK and \SQ.  
+
+East plays low. 
 
 Losers:   \S=0  \H=1  \D=1  \C=0  Total = 2
 

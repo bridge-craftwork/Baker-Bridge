@@ -22,7 +22,11 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 6\S. West leads the \HK.
+{South is to play 6\S. West leads the \HK, dummy plays the \H5 and East the \H3.
+
+You win the \HA and draw trumps with the \SK and \SQ.  
+
+West plays low. 
 
 Losers:   \S=0  \H=1  \D=1  \C=0  Total = 2
 
@@ -88,6 +92,16 @@ D6
 [Student "S"]
 {South is to play 3NT. West leads the \S9, taken by East with the \SA. East next plays the \S4.
 
+You win with the \SK and West plays low.  
+
+Everyone follows low. 
+
+West plays low.  
+
+East follows with the \C5. 
+
+East wins with the \CJ. 
+
 Winners:   \S=2  \H=2  \D=1  \C=3  Total = 8
 
 You only need one more winner and if \Ds split 3-3 you can easily establish a trick in that suit. But what if \Ds split 4-2? If the \CJ falls you can get an extra \C trick. In fact, no matter how the \Cs are arranged you can establish your extra trick there.
@@ -117,7 +131,9 @@ S9
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 2NT. West leads the \CK.
+{South is to play 2NT. West leads the \CK, dummy plays the \C3 and East the \C2.
+
+West plays low. 
 
 Winners:   \S=1  \H=3  \D=2  \C=1  Total = 7
 
@@ -148,7 +164,13 @@ CK
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
-{South is to play 4\H. West leads the \CK.
+{South is to play 4\H. West leads the \CK, dummy plays the \C3 and East the \C5.
+
+East wins the \SK. 
+
+East plays a trump, you follow low and West too.  
+
+Dummy leads a \S and East plays low.  
 
 Losers:   \S=1  \H=0  \D=2  \C=3  Total = 6
 
@@ -182,6 +204,8 @@ CK
 [SkillPath "declarer_play/suit_establishment"]
 [Student "S"]
 {South is to play 7\C. West leads the \DQ.
+
+East plays the \D2 and you the \D4. 
 
 Losers:   \S=1  \H=0  \D=0  \C=0  Total = 1
 
