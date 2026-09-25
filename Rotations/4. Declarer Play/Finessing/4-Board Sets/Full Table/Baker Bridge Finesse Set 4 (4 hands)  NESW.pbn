@@ -22,7 +22,7 @@
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{North is to play 3NT. East leads the \H3.
+{North is to play 3NT. East leads the \H3, dummy plays the \H4 and West the \HJ.
 
 Winners:   \S=0  \H=2  \D=2  \C=4  Total = 8
 
@@ -30,7 +30,19 @@ First things first. Win the first \H, do not hold up. East's \H3 indicates he ha
 
 You need to get one more winner and it will have to be a \S winner. You could lead toward the \SQ, winning a trick if East holds BOTH the \SA and \SK. Or you could finesse the \ST, gaining a trick if East holds the \SJ. Obviously the second choice is more likely.
 
-Having won the first \H trick in your hand, play a small \S and finesse the \ST. Suppose West wins the \SK and returns a \H. Take your \HA and play another \S, going up with the \SQ if East plays low. If the \SQ wins, take your 9 tricks and run.
+Having won the first \H trick in your hand,  
+
+East plays low.  
+
+West wins the \SK. 
+
+West returns a \H.  
+
+East follows and dummy plays the \H6.  
+
+East plays the \SJ.  
+
+The \SQ wins the trick. If the \SQ wins, take your 9 tricks and run.
 
 Although this doesn't look like a normal A Q finesse it really is about the same.
 
@@ -65,9 +77,21 @@ Losers:   \S = 0 or 1    \H = 0  \D = 3    \C = 0 Total = 3 or 4
 
 Since you have already lost 3 \D tricks you cannot also lose a \S trick. That means North will have to have the \SK and it also means that you will have to be careful with your finessing.
 
-In your hand with a \C you play over to dummy's \HA. Now lead the \SQ from dummy and when North plays low play the \SJ (or 10) from your hand.
+You are in your hand, having won the \C switch.  
 
-The \SQ held the trick so you are still in dummy. Play the \S9, and when North doesn't cover, play your \S8 under it. South shows out on this trick and you are glad you played so carefully. Play one more \S, finessing North's \SK again, then play your \SA and the rest of your winners.
+South plays low.  
+
+Over to dummy's \HA. 
+
+North plays low.  
+
+The \SQ from dummy, and the \SJ (or 10) from your hand when North plays low.
+
+The \SQ held the trick so you are still in dummy.  
+
+North doesn't cover.  
+
+The \S9, playing your \S8 under it. South shows out on this trick and you are glad you played so carefully. Play one more \S, finessing North's \SK again, then play your \SA and the rest of your winners.
 
 If you had played the \SQ and carelessly followed with the \S8 on your first finesse you would have gone down. You would have had to win the second finesse in your hand and would have no dummy entry to let you take the third finesse.
 
@@ -104,7 +128,11 @@ You need one more winner and \Cs is your best suit. If the \CK is in West's hand
 
 Before you put all your eggs in the \C finesse basket there is one thing you should do first.
 
-You should test the \D suit by playing \DQ, \DK, \DA. Both defenders follow three times and your \D6 has become a winner, which you cash.
+You test the \D suit: a small one to dummy's \DQ, then the \DK and \DA. 
+
+Both defenders followed three times, so your last \D is a winner.  
+
+You cash it.
 
 Now you have a problem. You have won 5 tricks so far and you have 4 more winners ready to take. So you can take your 9 tricks and run, or you can finesse the \C trying for 3 overtricks.
 
@@ -135,7 +163,7 @@ H7
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{West is to play 3NT. North leads the \HQ.
+{West is to play 3NT. North leads the \HQ, dummy plays the \H2 and South the \H6.
 
 Winners:   \S=1  \H=2  \D=1  \C=3  Total = 7
 
@@ -143,9 +171,17 @@ You need two more winners and \Ds is your longest combined suit. But you can onl
 
 So you must turn to the \Ss for the extra two winners.
 
-You win the first \H and lead . . . which \S? If you play the \SQ you will go down, even if North has the \SK. He would cover and you would be held to just 2 \S tricks.
+You won the first \H.  
 
-The only way to get 3 tricks from this holding is to play South for the \SK. So play a \S to dummy's \SA and then a small \S back toward your \S Q J. Here South puts the \SK on and you are home-free.
+North plays low.  
+
+Which \S was right? If you play the \SQ you will go down, even if North has the \SK. He would cover and you would be held to just 2 \S tricks.
+
+The only way to get 3 tricks from this holding is to play South for the \SK. So play a \S to dummy's \SA and then a small \S back toward your \S Q J. 
+
+South puts on the \SK.  
+
+You are home-free.
 
 You were a little lucky that South's \SK fell on the second round. 
 

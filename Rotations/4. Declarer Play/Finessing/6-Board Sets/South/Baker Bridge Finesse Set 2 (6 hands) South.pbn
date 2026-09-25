@@ -22,7 +22,7 @@
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 6\S. West leads the \HK.
+{South is to play 6\S. West leads the \HK, dummy plays the \H6 and East the \H3.
 
 Losers:   \S=0  \H=1  \D=2  \C=0  Total = 3
 
@@ -30,7 +30,11 @@ Your only hope for ridding yourself of two of those losers is dummy's \C suit. O
 
 A better plan is a ruffing finesse. Win the first trick with your \HA and pull trumps with your \S K Q. 
 
-Next play your \C7 to dummy's \CA. Then lead the \CQ from dummy. If East plays the \CK you will ruff, enter dummy, and discard two red losers on the \C J 10. If East plays low instead, you discard your \H loser. West may be able to win the trick but you can ruff a \H return, and dummy will have two good \Cs on which you can discard 2 \D losers.
+West plays low.  
+
+Your \C7 to dummy's \CA. 
+
+The \CQ from dummy: a ruffing finesse. If East plays the \CK you will ruff, enter dummy, and discard two red losers on the \C J 10. If East plays low instead, you discard your \H loser. West may be able to win the trick but you can ruff a \H return, and dummy will have two good \Cs on which you can discard 2 \D losers.
 
 Ruffing finesses sometimes provide you the best opportunity, like this time.
 
@@ -57,7 +61,7 @@ HK
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 3NT. West leads the \DK.
+{South is to play 3NT. West leads the \DK, dummy plays the \D3 and East the \D2.
 
 Winners:   \S=1  \H=2  \D=1  \C=4  Total = 8
 
@@ -66,6 +70,14 @@ You only need one more winner. If East has the \SK you can finesse him out of it
 It is an easy choice. The defenders only have 12 HCP and West opened the bidding. So you know he must have both of the cards you are interested in.
 
 Hold up the \DA until the third round just to be safe. Then play four rounds of \Cs ending in your hand.
+
+West continues with the \DQ; dummy plays the \D6 and East the \D8.  
+
+West continues with the \DJ; dummy plays the \D7 and East discards a \S.  
+
+You cash four rounds of \Cs, ending in your hand.  
+
+West covers with the \HQ.  
 
 Now play the \HJ. If West doesn't cover, you will let it ride for your ninth trick. But West does cover so you take dummy's \HA, then your other 2 \H tricks. The \SA  is your ninth trick.
 
@@ -100,7 +112,9 @@ Losers:   \S = ?    \H = 3  \D = 0    \C = 0 Total = 3 ?
 
 You have already lost the 3 \H tricks so you must pick up the trump suit without loss. The odds aren't in your favor, but you have no choice but to play West for the doubleton King.
 
-Lead a small \S from your hand and when West plays low put on the \SJ. When this holds the trick plunk down the \SA and hope.
+West plays low.  
+
+A small \S from your hand, putting on the \SJ when West plays low. When this holds the trick plunk down the \SA and hope.
 
 This position is one that is misplayed very often.
 
@@ -135,9 +149,19 @@ Losers:   \S=0  \H=0  \D=2  \C=2  Total = 4
 
 The status is pretty clear, you've already lost the 2 \Ds so you have to keep your \C losers to just one. You have a good chance of pulling that off by playing for the \CK and \CQ to lie in different hands and taking two finesses.
 
-But you will only be in dummy once more so you <b>MUST</b> make the first finesse right now. Play a small \C from dummy and play the \CT. West wins with the \CQ and plays another trump.
+But you will only be in dummy once more so you <b>MUST</b> make the first finesse right now. 
 
-  In dummy for the last time you must now take your second \C finesse. You play a small \C to your \CJ. When the \CJ wins you pull any leftover trumps and your hand is good.
+East plays low.  
+
+A small \C from dummy to your \C10. West wins with the \CQ and plays another trump.
+
+West leads the \H5.  
+
+  In dummy for the last time you must now take your second \C finesse. 
+
+East plays low.  
+
+A small \C to your \CJ. When the \CJ wins you pull any leftover trumps and your hand is good.
 
 This Deal is an excellent example of how and when to use the Double-Finesse, which gives you a 75% chance of success.
 
@@ -172,7 +196,9 @@ You don't really have 2 \H losers since both of them can be ruffed in dummy. The
 
 In addition to the trumps, dummy has another useful card, the \HJ. You can give yourself a second chance by playing West to hold the \HQ.
 
-Ruff the opening \C lead, pull trumps with the \DK, (they split 1-1), and play a low \H toward the \HJ. West fidgets, then puts on the \HQ and plays another \C which you ruff.
+You ruff the opening \C lead and pull trumps with the \DK (they split 1-1).  
+
+A low \H toward the \HJ. West fidgets, then puts on the \HQ and plays another \C which you ruff.
 
 You are in control now. You play a \H to dummy's \HJ, then a \S back to your \SA. Discard dummy's 2 \S losers on the \H A K and claim your slam.
 
@@ -213,7 +239,7 @@ So which will you choose?
 
 Neither, yet. First take your 8 winners in \Ss and \Ds, hoping somebody discards something to help you. They don't.
 
-Now play the \CA, then \CK, hoping the \CQ falls. If she does you have your thirteenth trick in \Cs. If she doesn't you take the \HK then finesse East for the \HQ. Two chances.
+The \CA, then the \CK, hoping the \CQ falls. If she does you have your thirteenth trick in \Cs. If she doesn't you take the \HK then finesse East for the \HQ. Two chances.
 
 As you see, the \H finesse would have failed. You might have guessed the \CQ correctly, but you might not have.
 

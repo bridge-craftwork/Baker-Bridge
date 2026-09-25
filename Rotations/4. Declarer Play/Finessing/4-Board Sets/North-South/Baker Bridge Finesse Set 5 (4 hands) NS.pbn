@@ -34,7 +34,13 @@ The chance of West holding the \SK is a little greater than 50%. (it is higher t
 
 The chance of \Ds splitting 3-3 is about 40%.
 
-So you should enter dummy with a \H and play a small \S toward your \SQ.
+East plays low.  
+
+You enter dummy with a \H. 
+
+West plays low.  
+
+A small \S toward your \SQ.
 
 Did it work?  
 
@@ -63,7 +69,7 @@ CA
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 3NT. West leads the \DK.
+{South is to play 3NT. West leads the \DK, dummy plays the \D3 and East the \D2.
 
 Winners:   \S=1  \H=2  \D=1  \C=4  Total = 8
 
@@ -73,7 +79,19 @@ There are two problems though. The first one is that if West gets in he may take
 
 Hold up the \DA until the third round to confirm that East has only 2. He does. Then play four rounds of \Cs ending in your hand.
 
-Now play the \HJ. If West doesn't cover, you will let it ride for your ninth trick. But West does cover so you must take dummy's \HA. Next play a small \H from dummy and finesse the \H9, hoping East has the \H10. This is the Backward Finesse.
+West continues with the \DQ; dummy plays the \D6 and East the \D8.  
+
+West continues with the \DJ; dummy plays the \D7 and East discards a \S.  
+
+You cash four rounds of \Cs, ending in your hand.  
+
+West covers with the \HQ.  
+
+Now play the \HJ. If West doesn't cover, you will let it ride for your ninth trick. But West does cover so you must take dummy's \HA. 
+
+East plays low.  
+
+A small \H from dummy, finessing the \H9, hoping East has the \H10. This is the Backward Finesse.
 
 The Backward Finesse if a pretty rare play. It is against the odds so you only try it when you are absolutely certain that a normal finesse is doomed to fail.
 
@@ -102,17 +120,19 @@ pass 1NT pass 3NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{North is to play 3NT. East leads the \S5, West plays the \SQ.
+{North is to play 3NT. East leads the \S5, dummy plays the \S2 and West the \SQ.
 
 Winners:   \S=1  \H=2  \D=2  \C=3  Total = 8
 
-Before worrying about where that one winner is going to come from you need to decide what to do with the opening lead. A good guideline is to hold up unless you fear a switch. Here, with all other suits well protected you would welcome a switch, so you let West win the \SQ. West then plays the \S8. Do you hold up again?
+Before worrying about where that one winner is going to come from you need to decide what to do with the opening lead. A good guideline is to hold up unless you fear a switch. Here, with all other suits well protected you would welcome a switch, so you let West win the \SQ. West then plays the \S8. Do you hold up again?  
 
-It probably doesn't matter, but since you cannot possibly win more than 10 tricks you might just as well hold up again. East wins the \SJ then plays the \S3. West discards a \H on the third \S.
+It probably doesn't matter, but since you cannot possibly win more than 10 tricks you might just as well hold up again. East wins the \SJ then plays the \S3. West discards a \H on the third \S.  
 
 OK, now it is time to figure out where that extra trick is coming from. Not much figuring is needed, it must come from the \D suit. Since you are missing 5 cards including the Queen, the odds favor a finesse over playing for the drop. And, since you have the option of finessing either defender are you going to finesse into the one who can set you or into the safe one?
 
-Silly question. Of course you play the \DK from your hand, then a small \D finessing dummy's \D10, which wins the trick - and the game - and the overtrick.
+You play the \DK from your hand, then a small \D, and East plays low.  
+
+Silly question. Of course you finesse into the safe hand: dummy's \D10 wins the trick - and the game - and the overtrick.
 
 Actually the odds slightly favored West holding the \DQ because West started with only 2 \Ss compared to East's 5 \Ss. Therefore West had 11 spaces which could hold the \DQ whereas East only had 8 spaces.
 
@@ -139,7 +159,7 @@ S5
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 6\S after North's Stayman bid. West leads the \HQ.
+{South is to play 6\S after North's Stayman bid. West leads the \HQ, dummy plays the \H5 and East the \H2.
 
 Losers:   \S=0  \H=1  \D=0  \C=1  Total = 2
 
@@ -147,9 +167,15 @@ This looks like a very simple plan. Since the hands have mirrored distribution t
 
 If West has \C K x or \C K x x then yes, that's all there is to it. But if he has \C K x x x then you won't have enough entries to your hand unless you take the first \C finesse <b>BEFORE</b> you start on trumps.
 
-So win the \HA and immediately play a \C to dummy's \CJ, which holds the trick. Then pull trumps, (it takes 4 rounds), ending in your hand.
+You have won the \HA.  
 
-Next play your \CT, putting on the \C5 from dummy when West plays low again. This lets you stay in your hand to play another \C to the \CQ, picking up all four \C tricks and the slam.
+West plays low.  
+
+The \HA, then immediately a \C to dummy's \CJ, which holds the trick. Then pull trumps, (it takes 4 rounds), ending in your hand.
+
+West plays low again.  
+
+Your \C10, putting on the \C5 from dummy when West plays low again. This lets you stay in your hand to play another \C to the \CQ, picking up all four \C tricks and the slam.
 
 This Deal took a lot of care and attention. As you can see you had to take one \C finesse before you drew trumps because you were in your hand right then and you could only get back one more time.
 
