@@ -28,27 +28,37 @@ Make a Plan, then play a card from your hand. [choose-card any:HK,HA]
 
 Winners:   \S = 0    \H = 2  \D = 4    \C = 1 Total = 7
 
-Needing two more winners you will have to make both the \SK and \SQ. This will only be possible if West holds the \SA. Win the first trick (if you don't West might switch to \Cs) and play a small \S toward dummy's \SQ. Click NEXT. [NEXT]
+Needing two more winners you will have to make both the \SK and \SQ. This will only be possible if West holds the \SA. Win the first trick (if you don't West might switch to \Cs).
 
 [PLAY W:HQ,N:H4,E:H2]
 
-Which card do you lead? [choose-card any:S8,S6,S4]
+Which card do you lead now? [choose-card any:S8,S6,S4]
 
-[showcards W:S2 N:SQ E:S5]
+[showcards W:S2]
 
-West plays low and dummy's \SQ holds the trick.
+West plays low. Which card do you play from dummy? [choose-card any:SQ,SK]
+
+[showcards E:S5]
+
+A small \S toward dummy's honours, and it holds the trick.
+
+Click NEXT. [NEXT]
+
+[PLAY W:S2,E:S5]
 
 
 
-You should take your four \D winners now, being sure to end up in your hand. Then play another small \S toward dummy's \SK. Click NEXT. [NEXT]
+You should take your four \D winners now, being sure to end up in your hand. [PLAY N:D3,E:D4,S:DK,W:D5,S:D2,W:D9,N:DA,E:D6,N:DQ,E:D8,S:DT,W:H8,N:D7,E:C5,S:DJ,W:C3]
 
-[PLAY W:S2,N:SQ,E:S5,N:D3,E:D4,S:DK,W:D5,S:D2,W:D9,N:DA,E:D6,N:DQ,E:D8,S:DT,W:H8,N:D7,E:C5,S:DJ,W:C3]
+Which card do you lead now? [choose-card any:S8,S6,S4]
 
-You are back in your hand after four \D tricks. Which card do you lead? [choose-card any:S8,S6,S4]
+[showcards W:S7]
 
-[showcards W:S7 N:SK E:S9]
+West plays low again. Which card do you play from dummy? [choose-card any:SK,SQ]
 
-West plays low again and dummy's \SK wins.
+[showcards E:S9]
+
+Another small \S toward dummy's remaining honour. This also wins.
 
 
 
@@ -209,11 +219,9 @@ Losers:   \S = 2    \H = 1  \D = 0    \C = 1 Total = 4
 
 West found the best opening lead for his side, exposing your \S losers before you could establish the \C suit for a discard. If you start to pull trumps right away the defense will grab the \HA, then take their two \S tricks and you will still have the \CA that you cannot avoid.
 
-Other than the \DA the only useful card in dummy is the \DQ so you must try to make a winner out of that for a  discard. So win the \SA, lead your singleton \D and finesse the \DQ.
+Other than the \DA the only useful card in dummy is the \DQ so you must try to make a winner out of that for a  discard. [PLAY W:SK,N:S2,E:S5]
 
-[PLAY W:SK,N:S2,E:S5]
-
-Which card do you lead? [choose-card D8]
+You won the \SA. Which card do you lead now? [choose-card D8]
 
 [showcards W:D5]
 
@@ -221,7 +229,7 @@ West plays low. Which card do you play from dummy? [choose-card DQ]
 
 [showcards E:D2]
 
-Your luck has returned, the \DQ wins. [NEXT]
+Win the \SA, lead your singleton \D and finesse the \DQ. Your luck has returned, the \DQ wins. [NEXT]
 
 [PLAY W:D5,E:D2] [showcards N:DA E:D3]
 
@@ -363,7 +371,13 @@ You take it with dummy's \DA. [NEXT]
 
 
 
-You are in dummy for the first, last, and only time. You need to try a finesse right now, but which one? Which card do you lead from dummy? [choose-card any:CJ,CT,C9,C5] At first you might think it makes no difference but, in fact, there is only one reasonable choice. If you finesse the \SK successfully you may still have a \S loser. If you finesse the \HK successfully you will surely still have a \H loser. But if you finesse the \CK successfully you will eliminate your \C loser.
+You are in dummy for the first, last, and only time. You need to try a finesse right now, but which one? Which card do you lead from dummy? [choose-card any:CJ,CT,C9,C5]
+
+[showcards E:C3]
+
+East plays low. Which card do you play? [choose-card CQ]
+
+[showcards W:C2] At first you might think it makes no difference but, in fact, there is only one reasonable choice. If you finesse the \SK successfully you may still have a \S loser. If you finesse the \HK successfully you will surely still have a \H loser. But if you finesse the \CK successfully you will eliminate your \C loser.
 
 Clickfor the complete Deal. [NEXT]
 
@@ -473,7 +487,7 @@ You only need one more winner. If East has the \SK you can finesse him out of it
 
 It is an easy choice. The defenders only have 12 HCP and West opened the bidding. So you know he must have both of the cards you are interested in.
 
-Hold up the \DA until the third round just to be safe. Then play four rounds of \Cs ending in your hand.
+ Then play four rounds of \Cs ending in your hand.
 
 Click NEXT. [NEXT]
 
@@ -484,6 +498,8 @@ West continues with the \DQ; dummy plays the \D6 and East the \D8. Which card do
 [PLAY W:DQ,N:D6,E:D8] [showcards W:DJ N:D7 E:S6]
 
 West continues with the \DJ; dummy plays the \D7 and East discards a \S. Which card do you play? [choose-card DA]
+
+You held up the \DA until the third round just to be safe.
 
 [PLAY W:DJ,N:D7,E:S6,S:C2,W:C4,N:CA,E:C3,N:CK,E:C7,S:C9,W:C8,N:C6,E:CT,S:CJ,W:D5,S:CQ,W:D9,N:C5,E:S7]
 
@@ -540,13 +556,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Losers:   \S = ?    \H = 3  \D = 0    \C = 0 Total = 3 ?
 
-You have already lost the 3 \H tricks so you must pick up the trump suit without loss. The odds aren't in your favor, but you have no choice but to play West for the doubleton King.
-
-Click NEXT. [NEXT]
-
-
-
-Which card do you lead? [choose-card any:S6,S5,S3]
+You have already lost the 3 \H tricks so you must pick up the trump suit without loss. Which card do you lead? [choose-card any:S6,S5,S3]
 
 [showcards W:S2]
 
@@ -554,7 +564,11 @@ West plays low. Which card do you play from dummy? [choose-card SJ]
 
 [showcards E:S8]
 
-A small \S from your hand, putting on the \SJ when West plays low. When this holds the trick plunk down the \SA and hope.
+The odds aren't in your favor, but you have no choice but to play West for the doubleton King.
+
+
+
+So: a small \S from your hand, putting on the \SJ when West plays low. When this holds the trick plunk down the \SA and hope.
 
 Clickfor the complete Deal to see if the \SK dropped or not. [NEXT]
 
@@ -601,7 +615,7 @@ Losers:   \S = 0    \H = 0  \D = 2    \C = 2 Total = 4
 
 The status is pretty clear, you've already lost the 2 \Ds so you have to keep your \C losers to just one. You have a good chance of pulling that off by playing for the \CK and \CQ to lie in different hands and taking two finesses.
 
-But you will only be in dummy once more so you <b>MUST</b> make the first finesse right now. [PLAY W:H3,E:H6,S:H2]
+[PLAY W:H3,E:H6,S:H2]
 
 Which card do you lead from dummy? [choose-card any:C8,C5,C3,C2]
 
@@ -611,7 +625,7 @@ East plays low. Which card do you play? [choose-card CT]
 
 [showcards W:CQ]
 
-A small \C from dummy to your \C10. West wins with the \CQ and plays another trump.
+You will only be in dummy once more, so you <b>MUST</b> make the first finesse right now: a small \C from dummy to your \C10. West wins with the \CQ and plays another trump.
 
   Click NEXT. [NEXT]
 
@@ -678,19 +692,23 @@ Click NEXT. [NEXT]
 
 
 
-In addition to the trumps, dummy has another useful card, the \HJ. You can give yourself a second chance by playing West to hold the \HQ.
+In addition to the trumps, dummy has another useful card, the \HJ. 
 
 [PLAY W:CK,N:C6,E:C3,S:D6,S:DK,W:D5,N:D2,E:D4]
 
 You ruff the opening \C lead and pull trumps with the \DK (they split 1-1). Which card do you lead now? [choose-card any:H7,H5]
 
-[showcards W:HQ N:H6 E:H8]
+[showcards W:HQ]
 
-A low \H toward the \HJ. West fidgets, then puts on the \HQ and plays another \C which you ruff.
+West fidgets, then puts on the \HQ. Which card do you play from dummy? [choose-card H6]
+
+[showcards E:H8]
+
+A low \H toward the \HJ gives you a second chance, by playing West to hold the \HQ. West plays another \C, which you ruff.
 
 Click NEXT. [NEXT]
 
-[PLAY W:HQ,N:H6,E:H8,W:CQ,N:C7,E:C5,S:D3]
+[PLAY W:HQ,E:H8,W:CQ,N:C7,E:C5,S:D3]
 
 
 
@@ -798,15 +816,13 @@ Winners:   \S = 0    \H = 2  \D = 2    \C = 4 Total = 8
 
 First things first. Win the first \H, do not hold up. West's \H3 indicates he has led a 4-card suit so a hold-up wouldn't help you. And if you did hold up they might pocket their \H trick and switch to \Ds, a suit you are no better off in.
 
-You need to get one more winner and it will have to be a \S winner. You could lead toward the \SQ, winning a trick if West holds BOTH the \SA and \SK. Or you could finesse the \ST, gaining a trick if West holds the \SJ. Obviously the second choice is more likely.
-
-Click NEXT. [NEXT]
+You need to get one more winner and it will have to be a \S winner. 
 
 
 
 [PLAY W:H3,N:H4,E:HJ]
 
-Having won the first \H trick in your hand, which card do you lead? [choose-card any:S8,S7,S3]
+Which card do you lead? [choose-card any:S8,S7,S3]
 
 [showcards W:S4]
 
@@ -814,7 +830,7 @@ West plays low. Which card do you play from dummy? [choose-card ST]
 
 [showcards E:SK]
 
-East wins the \SK. [NEXT]
+You could lead toward the \SQ, winning a trick if West holds BOTH the \SA and \SK. Or you could finesse the \S10, gaining a trick if West holds the \SJ. The second is more likely. Suppose East wins the \SK. [NEXT]
 
 [PLAY W:S4,E:SK] [showcards E:H9]
 
@@ -966,17 +982,19 @@ You need one more winner and \Cs is your best suit. If the \CK is in West's hand
 
 Before you put all your eggs in the \C finesse basket there is one thing you should do first.
 
-Click NEXT. [NEXT]
-
 
 
 Which card do you lead? [choose-card any:D6,D5]
 
-[showcards W:D4 N:DQ E:D3]
+[showcards W:D4]
+
+West plays low. Which card do you play from dummy? [choose-card DQ]
+
+[showcards E:D3]
 
 You test the \D suit: a small one to dummy's \DQ, then the \DK and \DA. [NEXT]
 
-[PLAY W:D4,N:DQ,E:D3,N:D2,E:D8,S:DK,W:D9,S:DA,W:DJ,N:D7,E:DT]
+[PLAY W:D4,E:D3,N:D2,E:D8,S:DK,W:D9,S:DA,W:DJ,N:D7,E:DT]
 
 Both defenders followed three times, so your last \D is a winner. Which card do you play? [choose-card any:D6,D5]
 
@@ -1032,8 +1050,6 @@ Winners:   \S = 1    \H = 2  \D = 1    \C = 3 Total = 7
 You need two more winners and \Ds is your longest combined suit. But you can only establish one extra winner in \Ds, and before you could even do that the defenders would have taken a bunch of \H tricks.
 
 So you must turn to the \Ss for the extra two winners.
-
-Click NEXT. [NEXT]
 
 [PLAY W:HQ,N:H2,E:H6]
 
@@ -1187,7 +1203,7 @@ You only need one more winner. If East has the \SK or the \HQ a simple finesse w
 
 There are two problems though. The first one is that if West gets in he may take too many \D tricks. But the bigger problem is that East cannot possibly have either of those two high cards. You and dummy together hold 28 HCP and West must surely hold the other 12 since he opened the bidding. Neither simple finesse will work so you must try what is called a Backward Finesse.
 
-Hold up the \DA until the third round to confirm that East has only 2. He does. Then play four rounds of \Cs ending in your hand.
+ Then play four rounds of \Cs ending in your hand.
 
 Click NEXT. [NEXT]
 
@@ -1198,6 +1214,8 @@ West continues with the \DQ; dummy plays the \D6 and East the \D8. Which card do
 [PLAY W:DQ,N:D6,E:D8] [showcards W:DJ N:D7 E:S6]
 
 West continues with the \DJ; dummy plays the \D7 and East discards a \S. Which card do you play? [choose-card DA]
+
+You held up the \DA until the third round to confirm that East has only 2. He does.
 
 [PLAY W:DJ,N:D7,E:S6,S:C2,W:C4,N:CA,E:C3,N:CK,E:C7,S:C9,W:C8,N:C6,E:CT,S:CJ,W:D5,S:CQ,W:D9,N:C5,E:S7]
 
@@ -1329,12 +1347,6 @@ Losers:   \S = 0    \H = 1  \D = 0    \C = 1 Total = 2
 
 This looks like a very simple plan. Since the hands have mirrored distribution there will be no discards anywhere. That means the \CK <b>MUST</b> be in West's hand or you will go down. But is that all there is to it?
 
-Click NEXT. [NEXT]
-
-
-
-If West has \C K x or \C K x x then yes, that's all there is to it. But if he has \C K x x x then you won't have enough entries to your hand unless you take the first \C finesse <b>BEFORE</b> you start on trumps.
-
 [PLAY W:HQ,N:H5,E:H2]
 
 You have won the \HA. Which card do you lead now? [choose-card any:C9,C4,C3]
@@ -1345,7 +1357,11 @@ West plays low. Which card do you play from dummy? [choose-card CJ]
 
 [showcards E:C6]
 
-The \HA, then immediately a \C to dummy's \CJ, which holds the trick. Then pull trumps, (it takes 4 rounds), ending in your hand.
+
+
+If West has \C K x or \C K x x then yes, that's all there is to it. But if he has \C K x x x then you won't have enough entries to your hand unless you take the first \C finesse <b>BEFORE</b> you start on trumps.
+
+That is why you win the \HA and immediately play a \C to dummy's \CJ, which holds the trick. Then pull trumps, (it takes 4 rounds), ending in your hand.
 
 Click NEXT. [NEXT]
 

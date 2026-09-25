@@ -28,7 +28,7 @@ Make a Plan, then play a card from your hand. [choose-card any:D8,D3]
 
 Winners:   \S = 4    \H = 0  \D = 1    \C = 1 Total = 6
 
-You need 3 more winners, and they must come from the \H suit. The danger is that when you knock out the \HA, West may take too many \Ds. To exhaust East of \Ds you hold-up your \DA until the third round.
+You need 3 more winners, and they must come from the \H suit. The danger is that when you knock out the \HA, West may take too many \Ds. 
 
 Click NEXT. [NEXT]
 
@@ -41,6 +41,8 @@ West continues with the \DQ; dummy plays the \D6 and East the \D7. Which card do
 West continues with the \DJ; dummy discards the \C3 and East plays the \D9. Which card do you play? [choose-card DA]
 
 [PLAY W:DJ,N:C3,E:D9]
+
+You held up your \DA until the third round to exhaust East of \Ds.
 
 
 
@@ -95,7 +97,7 @@ Make a Plan, then choose dummy's card to this trick. [choose-card any:S7,S6]
 
 Winners:   \S = 1    \H = 2  \D = 0    \C = 2 Total = 5
 
-Even if \Hs split 3-3 you could only get 2 extra winners there, so it should be clear that you must establish the \Ds. You will have to drive out the \DA and hope they don't win too many \Ss at that time. You can help your chances by a hold-up of the \SA until the third round.
+Even if \Hs split 3-3 you could only get 2 extra winners there, so it should be clear that you must establish the \Ds. You will have to drive out the \DA and hope they don't win too many \Ss at that time. 
 
 Click NEXT. [NEXT]
 
@@ -109,7 +111,7 @@ East follows with the \S4 and you play the \S8. West continues with the \SJ. Whi
 
 [PLAY W:SJ,E:S9,S:C3]
 
-East follows with the \S9 and you discard the \C3.
+East follows with the \S9 and you discard the \C3. Holding up the \SA until the third round helps your chances.
 
 
 
@@ -166,7 +168,7 @@ Make a Plan, then play a card from your hand. [choose-card S9]
 
 Winners:   \S = 1    \H = 2  \D = 1    \C = 3 Total = 7
 
-You can win 3 more \D tricks if the finesse works, but even if it doesn't work you can still get the 2 that you need. Of course if East does win the \DK it would sure be great if he had no \S to lead. So you duck the second \S and take your \SK when they play a third round.
+You can win 3 more \D tricks if the finesse works, but even if it doesn't work you can still get the 2 that you need. Of course if East does win the \DK it would sure be great if he had no \S to lead. 
 
 Click NEXT. [NEXT]
 
@@ -175,6 +177,8 @@ Click NEXT. [NEXT]
 West continues with the \SJ; dummy discards a \H and East plays the \S6. Which card do you play? [choose-card SK]
 
 [PLAY W:SJ,N:H4,E:S6]
+
+You ducked the second \S and took your \SK on the third round.
 
 
 
@@ -229,7 +233,7 @@ Winners:   \S = 3    \H = 2  \D = 1    \C = 0 Total = 6
 
 You will need some \C tricks to make the contract. If West has 5 \Ds and also the \CA then you will go down. It doesn't matter if he has the \CQ because you can finesse him out of that.
 
-But in the case where East has both the \C A Q you need to make sure he has no \D when he takes his first trick. So hold up the \DA until the third round, everybody following.
+But in the case where East has both the \C A Q you need to make sure he has no \D when he takes his first trick. 
 
 Click NEXT. [NEXT]
 
@@ -242,6 +246,8 @@ West continues with the \DQ; dummy plays the \D5 and East the \D9. Which card do
 West continues with the \DJ; dummy plays the \D7 and East the \D10. Which card do you play? [choose-card DA]
 
 [PLAY W:DJ,N:D7,E:DT]
+
+You held up the \DA until the third round, everybody following.
 
 
 
@@ -532,9 +538,13 @@ C2
 [Student "S"]
 {[show NS]
 
-South's 2NT overcall shows a 1NT opening hand with \Hs stopped. [showcards W:H7 N:H8 E:HT] South is to play 3NT. West leads the \H7, dummy plays the \H8 and East the \H10.
+South's 2NT overcall shows a 1NT opening hand with \Hs stopped. [showcards W:H7] South is to play 3NT. West leads the \H7.
 
-Make a Plan, then play a card from your hand. [choose-card any:H5,H9]
+Make a Plan, then choose dummy's card to this trick. [choose-card H8]
+
+[showcards E:HT]
+
+East plays the \H10. Which card do you play? [choose-card any:H5,H9]
 
 
 
@@ -542,11 +552,11 @@ Winners:   \S = 0    \H = 2  \D = 0    \C = 2 Total = 4
 
 You will need to establish both \S and \D winners. If East holds both these Aces along with 6 \Hs to the Q J then you are going down. But of course East can't have that good a hand, he opened with a Weak-2. So West has one of the Aces.
 
-If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. Let East have the first \H and win the next \H in dummy.
+If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. 
 
 Click NEXT. [NEXT]
 
-[PLAY W:H7,N:H8,E:HT] [showcards E:HQ]
+[PLAY W:H7,E:HT] [showcards E:HQ]
 
 East continues with the \HQ. Which card do you play? [choose-card any:H9,H5]
 
@@ -555,6 +565,8 @@ East continues with the \HQ. Which card do you play? [choose-card any:H9,H5]
 West follows with the \H3. Which card do you play from dummy? [choose-card HK]
 
 [PLAY E:HQ,W:H3]
+
+You let East have the first \H and won the next \H in dummy.
 
 
 
@@ -715,7 +727,7 @@ Make a Plan, then play a card from your hand. [choose-card any:H7,H2]
 
 Winners:   \S = 3    \H = 1  \D = 4    \C = 0 Total = 8
 
-Needing only one more winner you decide to hold up on the first \H and also the \H continuation. You take your \HA on the third round, West having used the \H3 to drive out your \HA.
+You need only one more winner.
 
 Click . [NEXT]
 
@@ -728,6 +740,8 @@ East returns the \H10. Which card do you play? [choose-card any:H7,H2]
 West wins with the \HJ and continues with the \H3; dummy discards a \C and East plays the \H4. Which card do you play? [choose-card HA]
 
 [PLAY W:H3,N:C2,E:H4]
+
+Needing only one more winner, you held up on the first \H and on the continuation, taking your \HA on the third round.
 
 
 
@@ -827,9 +841,13 @@ DQ
 [Student "S"]
 {[show NS]
 
-[showcards W:HK N:H2 E:H6] South is to play 3NT. West leads the \HK, dummy plays the \H2 and East the \H6.
+[showcards W:HK] South is to play 3NT. West leads the \HK.
 
-Make a Plan, then play a card from your hand. [choose-card H7]
+Make a Plan, then choose dummy's card to this trick. [choose-card any:H3,H2]
+
+[showcards E:H6]
+
+East plays the \H6. Which card do you play? [choose-card H7]
 
 
 

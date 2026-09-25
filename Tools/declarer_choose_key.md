@@ -21,6 +21,13 @@ blank-line runs.
 
 ## Authoring rules
 
+- **Ask before telling.** A question never follows text that states its answer: Baker's
+  sentence naming the play moves to after the choice, as its explanation. A plan step that
+  sets up a decision carries the question itself (no NEXT between them). The first
+  decision, when it is at trick 1, is asked on the first step.
+- **Declarer plays both hands.** When the other declarer hand has a card that would be a
+  mistake (dummy's ♠3 instead of an honour, ♥A instead of low in a Bath coup), its card is
+  asked too. Routine follows (spot cards where any will do) stay narrated.
 - **Ask the lesson's decisions, not every card.** A choice goes where Baker's prose teaches
   a play (the hold-up, the unblock, the squeeze discard), before the prose that gives the
   answer away. Routine plays stay narrated.
@@ -50,9 +57,9 @@ South is to play 3NT. West leads the \D5. You play the \D9 from dummy and East p
 >>>
 
 <<<
-Click [NEXT]
+Make a Plan, then click NEXT. [NEXT]
 ===
-Which card do you play to this first trick? [choose-card DA]
+Make a Plan, then play a card from your hand. [choose-card DA]
 >>>
 
 ## Holdup 2
@@ -92,7 +99,12 @@ East follows with the \S4 and you play the \S8. West continues with the \SJ. Whi
 
 [PLAY W:SJ,E:S9,S:C3]
 
-East follows with the \S9 and you discard the \C3.
+East follows with the \S9 and you discard the \C3. Holding up the \SA until the third round helps your chances.
+>>>
+
+<<<
+You can help your chances by a hold-up of the \SA until the third round.
+===
 >>>
 
 ## Squeeze 2
@@ -145,6 +157,13 @@ West continues with the \DQ; dummy plays the \D6 and East the \D7. Which card do
 West continues with the \DJ; dummy discards the \C3 and East plays the \D9. Which card do you play? [choose-card DA]
 
 [PLAY W:DJ,N:C3,E:D9]
+
+You held up your \DA until the third round to exhaust East of \Ds.
+>>>
+
+<<<
+To exhaust East of \Ds you hold-up your \DA until the third round.
+===
 >>>
 
 ## Holdup 3
@@ -179,6 +198,13 @@ Winners:   \S = 1
 West continues with the \SJ; dummy discards a \H and East plays the \S6. Which card do you play? [choose-card SK]
 
 [PLAY W:SJ,N:H4,E:S6]
+
+You ducked the second \S and took your \SK on the third round.
+>>>
+
+<<<
+So you duck the second \S and take your \SK when they play a third round.
+===
 >>>
 
 ## Holdup 4
@@ -209,6 +235,13 @@ West continues with the \DQ; dummy plays the \D5 and East the \D9. Which card do
 West continues with the \DJ; dummy plays the \D7 and East the \D10. Which card do you play? [choose-card DA]
 
 [PLAY W:DJ,N:D7,E:DT]
+
+You held up the \DA until the third round, everybody following.
+>>>
+
+<<<
+So hold up the \DA until the third round, everybody following.
+===
 >>>
 
 ## Holdup 5
@@ -297,24 +330,35 @@ Having gone through that thought process what is your Plan? Play a card from you
 
 ## Holdup 9
 
-Duck the first heart, play low again on the second and win it with dummy's ♥K.
+Dummy plays low to the first heart and you duck; play low again on the second and win it
+with dummy's ♥K. The endgame is rebuilt trick by trick from the deal in place of the old
+eight-card [showcards].
 
 <<<
 South is to play 3NT. West leads the \H7. East plays the \H10.
 ===
-[showcards W:H7 N:H8 E:HT] South is to play 3NT. West leads the \H7, dummy plays the \H8 and East the \H10.
+[showcards W:H7] South is to play 3NT. West leads the \H7.
 >>>
 
 <<<
 Make a Plan, then click NEXT. [NEXT]
 ===
-Make a Plan, then play a card from your hand. [choose-card any:H5,H9]
+Make a Plan, then choose dummy's card to this trick. [choose-card H8]
+
+[showcards E:HT]
+
+East plays the \H10. Which card do you play? [choose-card any:H5,H9]
+>>>
+
+<<<
+Let East have the first \H and win the next \H in dummy.
+===
 >>>
 
 <<<
 [PLAY N:HK,N:H8,S:H9,S:H5]
 ===
-[PLAY W:H7,N:H8,E:HT] [showcards E:HQ]
+[PLAY W:H7,E:HT] [showcards E:HQ]
 
 East continues with the \HQ. Which card do you play? [choose-card any:H9,H5]
 
@@ -323,6 +367,8 @@ East continues with the \HQ. Which card do you play? [choose-card any:H9,H5]
 West follows with the \H3. Which card do you play from dummy? [choose-card HK]
 
 [PLAY E:HQ,W:H3]
+
+You let East have the first \H and won the next \H in dummy.
 >>>
 
 <<<
@@ -330,10 +376,6 @@ West follows with the \H3. Which card do you play from dummy? [choose-card HK]
 ===
 [PLAY N:DK,E:D3,S:D2,W:D4,N:D6,E:D7,S:DJ,W:D8,S:D9,W:DA,N:D5,E:C2]
 >>>
-
-The endgame, rebuilt trick by trick from the deal in place of the old eight-card
-[showcards]: the ♣A, the last diamond and the spade to East's ♠A are gathered, then East
-leads a heart to South's ♥A.
 
 <<<
 [showcards N:ST,S6,C8,C7 S:SK,SJ,CK,CT]
@@ -402,6 +444,12 @@ South is to play 3NT. West leads the \H6. East plays the \HQ.
 >>>
 
 <<<
+Needing only one more winner you decide to hold up on the first \H and also the \H continuation. You take your \HA on the third round, West having used the \H3 to drive out your \HA.
+===
+You need only one more winner.
+>>>
+
+<<<
 Make a Plan, then click . [NEXT]
 ===
 Make a Plan, then play a card from your hand. [choose-card any:H7,H2]
@@ -419,6 +467,8 @@ East returns the \H10. Which card do you play? [choose-card any:H7,H2]
 West wins with the \HJ and continues with the \H3; dummy discards a \C and East plays the \H4. Which card do you play? [choose-card HA]
 
 [PLAY W:H3,N:C2,E:H4]
+
+Needing only one more winner, you held up on the first \H and on the continuation, taking your \HA on the third round.
 >>>
 
 <<<
@@ -470,13 +520,17 @@ Bath coup: duck the ♥K, playing the ♥7 to hide the ♥4.
 <<<
 South is to play 3NT. West leads the \HK.
 ===
-[showcards W:HK N:H2 E:H6] South is to play 3NT. West leads the \HK, dummy plays the \H2 and East the \H6.
+[showcards W:HK] South is to play 3NT. West leads the \HK.
 >>>
 
 <<<
 Make a Plan, then click NEXT. [NEXT]
 ===
-Make a Plan, then play a card from your hand. [choose-card H7]
+Make a Plan, then choose dummy's card to this trick. [choose-card any:H3,H2]
+
+[showcards E:H6]
+
+East plays the \H6. Which card do you play? [choose-card H7]
 >>>
 
 ## Holdup 15
@@ -514,39 +568,49 @@ Make a Plan, then play a card from your hand. [choose-card any:HK,HA]
 >>>
 
 <<<
-It holds the trick.
+Win the first trick (if you don't West might switch to \Cs) and play a small \S toward dummy's \SQ. It holds the trick.
 
 Click NEXT. [NEXT]
 
 [PLAY N:SQ,N:H4,S:S4,S:HK]
 ===
-Click NEXT. [NEXT]
+Win the first trick (if you don't West might switch to \Cs).
 
 [PLAY W:HQ,N:H4,E:H2]
 
-Which card do you lead? [choose-card any:S8,S6,S4]
+Which card do you lead now? [choose-card any:S8,S6,S4]
 
-[showcards W:S2 N:SQ E:S5]
+[showcards W:S2]
 
-West plays low and dummy's \SQ holds the trick.
+West plays low. Which card do you play from dummy? [choose-card any:SQ,SK]
+
+[showcards E:S5]
+
+A small \S toward dummy's honours, and it holds the trick.
+
+Click NEXT. [NEXT]
+
+[PLAY W:S2,E:S5]
 >>>
 
 <<<
-This also wins.
+Then play another small \S toward dummy's \SK. This also wins.
 
 Click NEXT. [NEXT]
 
 [PLAY N:SK,N:DA,N:DQ,N:D7,N:D3,S:S6,S:DK,S:DJ,S:DT,S:D2]
 ===
-Click NEXT. [NEXT]
+[PLAY N:D3,E:D4,S:DK,W:D5,S:D2,W:D9,N:DA,E:D6,N:DQ,E:D8,S:DT,W:H8,N:D7,E:C5,S:DJ,W:C3]
 
-[PLAY W:S2,N:SQ,E:S5,N:D3,E:D4,S:DK,W:D5,S:D2,W:D9,N:DA,E:D6,N:DQ,E:D8,S:DT,W:H8,N:D7,E:C5,S:DJ,W:C3]
+Which card do you lead now? [choose-card any:S8,S6,S4]
 
-You are back in your hand after four \D tricks. Which card do you lead? [choose-card any:S8,S6,S4]
+[showcards W:S7]
 
-[showcards W:S7 N:SK E:S9]
+West plays low again. Which card do you play from dummy? [choose-card any:SK,SQ]
 
-West plays low again and dummy's \SK wins.
+[showcards E:S9]
+
+Another small \S toward dummy's remaining honour. This also wins.
 >>>
 
 ## Finesse 2
@@ -648,11 +712,9 @@ Make a Plan, then play a card from your hand. [choose-card SA]
 <<<
 So win the \SA, lead your singleton \D and finesse the \DQ. Your luck has returned, the \DQ wins and you discard one of your \S losers on the \DA.
 ===
-So win the \SA, lead your singleton \D and finesse the \DQ.
-
 [PLAY W:SK,N:S2,E:S5]
 
-Which card do you lead? [choose-card D8]
+You won the \SA. Which card do you lead now? [choose-card D8]
 
 [showcards W:D5]
 
@@ -660,7 +722,7 @@ West plays low. Which card do you play from dummy? [choose-card DQ]
 
 [showcards E:D2]
 
-Your luck has returned, the \DQ wins. [NEXT]
+Win the \SA, lead your singleton \D and finesse the \DQ. Your luck has returned, the \DQ wins. [NEXT]
 
 [PLAY W:D5,E:D2] [showcards N:DA E:D3]
 
@@ -768,6 +830,12 @@ You take it with dummy's \DA. [NEXT]
 You need to try a finesse right now, but which one?
 ===
 You need to try a finesse right now, but which one? Which card do you lead from dummy? [choose-card any:CJ,CT,C9,C5]
+
+[showcards E:C3]
+
+East plays low. Which card do you play? [choose-card CQ]
+
+[showcards W:C2]
 >>>
 
 ## Finesse 7
@@ -839,6 +907,8 @@ West continues with the \DQ; dummy plays the \D6 and East the \D8. Which card do
 
 West continues with the \DJ; dummy plays the \D7 and East discards a \S. Which card do you play? [choose-card DA]
 
+You held up the \DA until the third round just to be safe.
+
 [PLAY W:DJ,N:D7,E:S6,S:C2,W:C4,N:CA,E:C3,N:CK,E:C7,S:C9,W:C8,N:C6,E:CT,S:CJ,W:D5,S:CQ,W:D9,N:C5,E:S7]
 
 You cash four rounds of \Cs, ending in your hand. Which card do you lead now? [choose-card HJ]
@@ -848,6 +918,11 @@ You cash four rounds of \Cs, ending in your hand. Which card do you lead now? [c
 West covers with the \HQ. Which card do you play from dummy? [choose-card HA]
 
 [showcards E:H2]
+>>>
+
+<<<
+Hold up the \DA until the third round just to be safe.
+===
 >>>
 
 ## Finesse 9
@@ -861,7 +936,9 @@ Lead a small spade and finesse the ♠J, playing West for the doubleton ♠K.
 >>>
 
 <<<
-Lead a small \S from your hand and when West plays low put on the \SJ. When this holds the trick plunk down the \SA and hope.
+The odds aren't in your favor, but you have no choice but to play West for the doubleton King.
+
+Click NEXT. [NEXT]
 ===
 Which card do you lead? [choose-card any:S6,S5,S3]
 
@@ -871,7 +948,13 @@ West plays low. Which card do you play from dummy? [choose-card SJ]
 
 [showcards E:S8]
 
-A small \S from your hand, putting on the \SJ when West plays low. When this holds the trick plunk down the \SA and hope.
+The odds aren't in your favor, but you have no choice but to play West for the doubleton King.
+>>>
+
+<<<
+Lead a small \S from your hand and when West plays low put on the \SJ. When this holds the trick plunk down the \SA and hope.
+===
+So: a small \S from your hand, putting on the \SJ when West plays low. When this holds the trick plunk down the \SA and hope.
 >>>
 
 ## Finesse 10
@@ -898,7 +981,7 @@ Make a Plan, then choose dummy's card to this trick. [choose-card any:HQ,HA]
 >>>
 
 <<<
-Play a small \C from dummy and play the \CT. West wins with the \CQ and plays another trump.
+But you will only be in dummy once more so you <b>MUST</b> make the first finesse right now. Play a small \C from dummy and play the \CT. West wins with the \CQ and plays another trump.
 ===
 [PLAY W:H3,E:H6,S:H2]
 
@@ -910,7 +993,7 @@ East plays low. Which card do you play? [choose-card CT]
 
 [showcards W:CQ]
 
-A small \C from dummy to your \C10. West wins with the \CQ and plays another trump.
+You will only be in dummy once more, so you <b>MUST</b> make the first finesse right now: a small \C from dummy to your \C10. West wins with the \CQ and plays another trump.
 >>>
 
 <<<
@@ -942,21 +1025,30 @@ A small \C to your \CJ.
 Ruff, draw trumps, then lead a low heart toward dummy's ♥J before trying the spade finesse.
 
 <<<
+You can give yourself a second chance by playing West to hold the \HQ.
+===
+>>>
+
+<<<
 Ruff the opening \C lead, pull trumps with the \DK, (they split 1-1), and play a low \H toward the \HJ. West fidgets, then puts on the \HQ and plays another \C which you ruff.
 ===
 [PLAY W:CK,N:C6,E:C3,S:D6,S:DK,W:D5,N:D2,E:D4]
 
 You ruff the opening \C lead and pull trumps with the \DK (they split 1-1). Which card do you lead now? [choose-card any:H7,H5]
 
-[showcards W:HQ N:H6 E:H8]
+[showcards W:HQ]
 
-A low \H toward the \HJ. West fidgets, then puts on the \HQ and plays another \C which you ruff.
+West fidgets, then puts on the \HQ. Which card do you play from dummy? [choose-card H6]
+
+[showcards E:H8]
+
+A low \H toward the \HJ gives you a second chance, by playing West to hold the \HQ. West plays another \C, which you ruff.
 >>>
 
 <<<
 [PLAY N:H6,N:D2,N:C7,N:C6,S:H5,S:DK,S:D6,S:D3]
 ===
-[PLAY W:HQ,N:H6,E:H8,W:CQ,N:C7,E:C5,S:D3]
+[PLAY W:HQ,E:H8,W:CQ,N:C7,E:C5,S:D3]
 >>>
 
 ## Finesse 12
@@ -996,11 +1088,18 @@ Make a Plan, then play a card from your hand. [choose-card any:HK,HA]
 >>>
 
 <<<
+You could lead toward the \SQ, winning a trick if West holds BOTH the \SA and \SK. Or you could finesse the \ST, gaining a trick if West holds the \SJ. Obviously the second choice is more likely.
+
+Click NEXT. [NEXT]
+===
+>>>
+
+<<<
 Having won the first \H trick in your hand, play a small \S and finesse the \ST. Suppose East wins the \SK and returns a \H. Take your \HA and play another \S, going up with the \SQ if West plays low.
 ===
 [PLAY W:H3,N:H4,E:HJ]
 
-Having won the first \H trick in your hand, which card do you lead? [choose-card any:S8,S7,S3]
+Which card do you lead? [choose-card any:S8,S7,S3]
 
 [showcards W:S4]
 
@@ -1008,7 +1107,7 @@ West plays low. Which card do you play from dummy? [choose-card ST]
 
 [showcards E:SK]
 
-East wins the \SK. [NEXT]
+You could lead toward the \SQ, winning a trick if West holds BOTH the \SA and \SK. Or you could finesse the \S10, gaining a trick if West holds the \SJ. The second is more likely. Suppose East wins the \SK. [NEXT]
 
 [PLAY W:S4,E:SK] [showcards E:H9]
 
@@ -1099,11 +1198,15 @@ You should test the \D suit by playing \DQ, \DK, \DA. Both defenders follow thre
 ===
 Which card do you lead? [choose-card any:D6,D5]
 
-[showcards W:D4 N:DQ E:D3]
+[showcards W:D4]
+
+West plays low. Which card do you play from dummy? [choose-card DQ]
+
+[showcards E:D3]
 
 You test the \D suit: a small one to dummy's \DQ, then the \DK and \DA. [NEXT]
 
-[PLAY W:D4,N:DQ,E:D3,N:D2,E:D8,S:DK,W:D9,S:DA,W:DJ,N:D7,E:DT]
+[PLAY W:D4,E:D3,N:D2,E:D8,S:DK,W:D9,S:DA,W:DJ,N:D7,E:DT]
 
 Both defenders followed three times, so your last \D is a winner. Which card do you play? [choose-card any:D6,D5]
 
@@ -1116,6 +1219,14 @@ You cash it.
 [PLAY N:DQ,N:D7,N:D2,N:C5,S:DA,S:DK,S:D6,S:D5]
 ===
 [PLAY W:S4,N:C5,E:S2]
+>>>
+
+<<<
+Before you put all your eggs in the \C finesse basket there is one thing you should do first.
+
+Click NEXT. [NEXT]
+===
+Before you put all your eggs in the \C finesse basket there is one thing you should do first.
 >>>
 
 ## Finesse 16
@@ -1135,8 +1246,14 @@ Make a Plan, then play a card from your hand. [choose-card any:HA,HK]
 >>>
 
 <<<
+So you must turn to the \Ss for the extra two winners.
+
+Click NEXT. [NEXT]
+
 [PLAY N:H2,S:HK]
 ===
+So you must turn to the \Ss for the extra two winners.
+
 [PLAY W:HQ,N:H2,E:H6]
 >>>
 
@@ -1235,6 +1352,8 @@ West continues with the \DQ; dummy plays the \D6 and East the \D8. Which card do
 
 West continues with the \DJ; dummy plays the \D7 and East discards a \S. Which card do you play? [choose-card DA]
 
+You held up the \DA until the third round to confirm that East has only 2. He does.
+
 [PLAY W:DJ,N:D7,E:S6,S:C2,W:C4,N:CA,E:C3,N:CK,E:C7,S:C9,W:C8,N:C6,E:CT,S:CJ,W:D5,S:CQ,W:D9,N:C5,E:S7]
 
 You cash four rounds of \Cs, ending in your hand. Which card do you lead now? [choose-card HJ]
@@ -1260,6 +1379,11 @@ East plays low. Which card do you play? [choose-card H9]
 [showcards W:H3]
 
 A small \H from dummy, finessing the \H9, hoping East has the \H10.
+>>>
+
+<<<
+Hold up the \DA until the third round to confirm that East has only 2. He does.
+===
 >>>
 
 ## Finesse 19
@@ -1342,8 +1466,12 @@ Make a Plan, then play a card from your hand. [choose-card HA]
 >>>
 
 <<<
-So win the \HA and immediately play a \C to dummy's \CJ, which holds the trick.
+But is that all there is to it?
+
+Click NEXT. [NEXT]
 ===
+But is that all there is to it?
+
 [PLAY W:HQ,N:H5,E:H2]
 
 You have won the \HA. Which card do you lead now? [choose-card any:C9,C4,C3]
@@ -1353,8 +1481,12 @@ You have won the \HA. Which card do you lead now? [choose-card any:C9,C4,C3]
 West plays low. Which card do you play from dummy? [choose-card CJ]
 
 [showcards E:C6]
+>>>
 
-The \HA, then immediately a \C to dummy's \CJ, which holds the trick.
+<<<
+So win the \HA and immediately play a \C to dummy's \CJ, which holds the trick.
+===
+That is why you win the \HA and immediately play a \C to dummy's \CJ, which holds the trick.
 >>>
 
 <<<
@@ -1376,3 +1508,4 @@ West plays low again. Which card do you play from dummy? [choose-card C5]
 
 Your \C10, putting on the \C5 from dummy when West plays low again.
 >>>
+

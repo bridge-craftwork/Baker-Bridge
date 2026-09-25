@@ -104,17 +104,21 @@ C2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{South's 2NT overcall shows a 1NT opening hand with \Hs stopped.  South is to play 3NT. West leads the \H7, dummy plays the \H8 and East the \H10.
+{South's 2NT overcall shows a 1NT opening hand with \Hs stopped.  South is to play 3NT. West leads the \H7.
+
+East plays the \H10.  
 
 Winners:   \S=0  \H=2  \D=0  \C=2  Total = 4
 
 You will need to establish both \S and \D winners. If East holds both these Aces along with 6 \Hs to the Q J then you are going down. But of course East can't have that good a hand, he opened with a Weak-2. So West has one of the Aces.
 
-If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. Let East have the first \H and win the next \H in dummy.
+If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. 
 
 East continues with the \HQ.  
 
 West follows with the \H3.  
+
+You let East have the first \H and won the next \H in dummy.
 
 Start on \Ds next, maybe because they are longer. Assume that West holds the \DA and takes it on the third round of the suit.
 
@@ -227,11 +231,13 @@ HJ
 
 Winners:   \S=3  \H=1  \D=4  \C=0  Total = 8
 
-Needing only one more winner you decide to hold up on the first \H and also the \H continuation. You take your \HA on the third round, South having used the \H3 to drive out your \HA.
+You need only one more winner.
 
 North returns the \H10.  
 
 South wins with the \HJ and continues with the \H3; dummy discards a \C and North plays the \H4.  
+
+Needing only one more winner, you held up on the first \H and on the continuation, taking your \HA on the third round.
 
 You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, putting you in dummy. Next you play a \C from dummy, and when North plays low you put on . . . which \C?
 
