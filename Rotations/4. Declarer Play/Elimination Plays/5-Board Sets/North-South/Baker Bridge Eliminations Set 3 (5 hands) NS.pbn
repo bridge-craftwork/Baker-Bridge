@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -79,8 +79,6 @@ Play the \DA and \DK.
 
 Conveniently in dummy, you play a \C and insert the \CT if East plays low.
 
-[showcards N:HA,H6,C7,C6 S:HK,HQ,CA,CQ]
-
 West will probably win this trick. If he wins with the \CK then your hand is good. If he wins with the \CJ then he is end-played, forced to either lead a \C into your \C A Q or to give you a ruff-sluff.
 
 You probably noticed that you could have finessed your \CQ on the first \C play and pulled off the end-play just as effectively. But there is an advantage to making the first finesse with the \CT.
@@ -152,8 +150,6 @@ Next eliminate \Hs from you and dummy by playing the \HK.
 Now play four rounds of \Cs to eliminate that suit. If a defender decides to ruff one of these \Cs with the master trump he will be end-played, forced to either play a \D or to give you a ruff-sluff. So assume that all four \Cs win tricks.
 
 Now you administer the coup de gras, you lead a trump.
-
-[showcards N:ST,DJ,D5,D4 S:SJ,DQ,D8,D7]
 
 One of the defenders has won the \SQ. Too bad for him. If he now plays a \D you will make either the \DQ or \DJ. If he plays a \H you will ruff in one hand and discard a \D loser from the other.
 

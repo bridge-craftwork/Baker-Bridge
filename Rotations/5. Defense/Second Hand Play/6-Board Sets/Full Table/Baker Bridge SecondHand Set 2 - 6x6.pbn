@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:DJ]
-
-You are West. The bidding has been as shown, (wild).
+{You are West. The bidding has been as shown, (wild).
 
 Partner led the \DJ; \DQ from dummy, \DK from you and ruffed by North.
 
@@ -62,9 +60,7 @@ DJ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:C9]
-
-You are South. The bidding has been as shown.
+{You are South. The bidding has been as shown.
 
 You lead the \D5; \D3, \D10 and won by East with \DK. East now leads the \C9 from his hand 
 
@@ -97,9 +93,7 @@ D5
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:DT]
-
-You are East. The bidding has been as shown.
+{You are East. The bidding has been as shown.
 
 Partner led the \H4, won by South's \H8.
 
@@ -134,9 +128,7 @@ H4
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:C6]
-
-You are North. The bidding has been as shown.
+{You are North. The bidding has been as shown.
 
 You lead the \S7; \S3, \S2 and won by West with \SQ.
 
@@ -171,9 +163,7 @@ S7
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:S6]
-
-You are West. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and North won the \DA.
+{You are West. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and North won the \DA.
 
 North then played low to dummy's \SK, and led dummy's \S6. Your decision is not whether to play high or low, but whether to ruff or not, which amounts to the same thing.
 
@@ -206,9 +196,7 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:H4]
-
-You are South. The bidding has been as shown.
+{You are South. The bidding has been as shown.
 
 You lead the \CK and continue with the \CJ then \CQ, taken by East's \CA. To trick 4 East plays the \H4. What do you play?
 

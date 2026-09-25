@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -31,8 +31,6 @@ In addition to the two \Ss already lost you have a potential loser in each minor
 Ruff the \SA with dummy's \H10 and pull trumps (three rounds).
 
 Eliminate \Ds by playing \DK, \DA, \DJ. If you are REALLY lucky the \DQ will fall doubleton, but more than likely a defender will win the third \D. He won't be happy about it, though.
-
-[showcards N:H8,CK,CT,C2 S:HJ,CA,CJ,C4]
 
 Whichever defender wins the \DQ is end-played. If he plays a \D or a \S you will ruff in one hand and discard a \C loser from the other. But if he leads a \C instead you no longer have a \C loser.
 
@@ -236,8 +234,6 @@ Play another \H to dummy's \H10 and ruff the last \S.
 Play the \DA and \DK.
 
 Conveniently in dummy, you play a \C and insert the \CT if East plays low.
-
-[showcards N:HA,H6,C7,C6 S:HK,HQ,CA,CQ]
 
 West will probably win this trick. If he wins with the \CK then your hand is good. If he wins with the \CJ then he is end-played, forced to either lead a \C into your \C A Q or to give you a ruff-sluff.
 

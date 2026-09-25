@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:S5]
-
-You are West. The bidding has been as shown. The 2\H bid was a transfer. The 5NT bid meant to choose either 6\S or 6NT. North liked the suit. Partner led the \S5, won by North's \SQ. North pulls one more trump with his \SA, then wins three high \Ds. Next comes dummy's \HA on which he plays the \H3 and East plays the \H9. Then he leads dummy's \H6 which you win with the \HQ. On this trick North drops the \HJ and East the \H2. It is your play.
+{You are West. The bidding has been as shown. The 2\H bid was a transfer. The 5NT bid meant to choose either 6\S or 6NT. North liked the suit. Partner led the \S5, won by North's \SQ. North pulls one more trump with his \SA, then wins three high \Ds. Next comes dummy's \HA on which he plays the \H3 and East plays the \H9. Then he leads dummy's \H6 which you win with the \HQ. On this trick North drops the \HJ and East the \H2. It is your play.
 
 Play the \HK.
 
@@ -56,9 +54,7 @@ S5
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards W:CA E:C2 S:C9 N:C4]
-
-You are South. The bidding has been as shown. You led the \CA, North played the \C2 and East the \C9. What should you play to the second trick?
+{You are South. The bidding has been as shown. You led the \CA, North played the \C2 and East the \C9. What should you play to the second trick?
 
 Play the \C6.
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -22,7 +22,7 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{With his 4-3-3-3 distribution South chooses not to bother with Stayman. North is to play 3NT. East leads the \H6. West plays the \HJ.
+{With his 4-3-3-3 distribution South chooses not to bother with Stayman.  North is to play 3NT. East leads the \H6, dummy plays the \H3 and West the \HJ.
 
 Winners:   \S=1  \H=1  \D=3  \C=2  Total = 7
 
@@ -59,7 +59,7 @@ H6
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{With his 4-3-3-3 distribution North chooses not to bother with Stayman. South is to play 3NT. West leads the \H6. East plays the \HJ.
+{With his 4-3-3-3 distribution North chooses not to bother with Stayman.  South is to play 3NT. West leads the \H6, dummy plays the \H3 and East the \HJ.
 
 Winners:   \S=1  \H=1  \D=3  \C=2  Total = 7
 
@@ -98,7 +98,7 @@ H6
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{North is to play 3NT. East leads the \H4. West plays the \H10.
+{North is to play 3NT. East leads the \H4, dummy plays the \H3 and West the \H10.
 
 Winners:   \S=1  \H=1  \D=3  \C=1  Total = 6
 
@@ -137,13 +137,13 @@ H4
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{North's 2\C cue-bid shows a limit-raise or better in \Ss. South is to play 4\S. West leads the \C2. East plays the \CK.
+{North's 2\C cue-bid shows a limit-raise or better in \Ss.  South is to play 4\S. West leads the \C2, dummy plays the \C5 and East the \CK.
 
 Losers:   \S=0  \H=2  \D=1  \C=1  Total = 4
 
 You have one loser too many. If West holds either the \HA or the \DK this will be an easy contract, but East opened the bidding so he probably has most of the high cards. It does look like West holds the \CQ based on his low lead and East's play to trick one.
 
-Having gone through that thought process what is your Plan?
+Having gone through that thought process what is your Plan?  
 
 You will need to discard a loser on dummy's fourth \D, but you must do so without ever letting West gain the lead since West is the defender who can lead through dummy's \HK. And the only card that West can get the lead with is the \CQ.
 

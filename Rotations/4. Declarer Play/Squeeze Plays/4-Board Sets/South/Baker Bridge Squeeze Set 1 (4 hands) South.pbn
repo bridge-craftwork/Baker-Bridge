@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -81,11 +81,11 @@ With everybody down to 7 cards this is the position. East's hand is important on
 
 Play the \S A K and West begins to feel the heat. 
 
-On the \SK you discarded dummy's small \H and West also discarded a \H. 
+On the \SK you discarded dummy's small \H and West also discarded a \H.   
 
-But now you play the SQUEEZE card, the \CA. West absolutely cannot throw away his \HA, so he discards a \D instead.
+ The \CA is the SQUEEZE card. West absolutely cannot throw away his \HA, so he discards a \D instead.  
 
-Since he still has the \HA you know dummy's \HQ is useless so you discard it. Dummy's fourth \D has become a winner. 
+ Since he still has the \HA you know dummy's \HQ is useless, so you discard it; East throws the \H9. Dummy's fourth \D has become a winner. 
 
 This type of squeeze is called a <i><b>positional squeeze</b></i> because it only operates against one of the defenders. Suppose the EW hands were switched as shown below. When you were ready to play the Squeeze Card the hands would have looked like this.
 
@@ -168,8 +168,6 @@ Next play off your 4 \D winners, discarding a small \H from your hand.
 You are now zeroing in on West.
 
 Play the \CK, \CJ, then over to your \CQ. 
-
-[showcards N:S7,S4,HA,H3 E:S9,S8,S6,C8 S:SA,SJ,H7,CA W:SQ,ST,HJ,H9]
 
 Here is the layout after the 3 \C plays. Everybody followed suit except West who discarded a \H (unhappily, it seemed). 
 

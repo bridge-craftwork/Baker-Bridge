@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:CQ]
-
-You are East. The bidding has been as shown.
+{You are East. The bidding has been as shown.
 
 You lead the \CQ, West plays low and North wins the \CA.
 
@@ -62,9 +60,7 @@ CQ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:HJ]
-
-You are North. The bidding has been as shown.
+{You are North. The bidding has been as shown.
 
 South led the \SK, won by East's \SA. East played a small \C to dummy's \CA, then led dummy's \HJ.
 
@@ -99,9 +95,7 @@ SK
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:H2 E:HA,H3,DJ S:S3,HK,H6,D6]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You decide a trump lead is called for and lead the \H2. Your partner wins with the \HA and plays the \DJ. South lets this go to dummy's \DK, (but you know he has \DQ), then plays a trump back to his \HK, pulling the 2 outstanding trumps from West and East.
 
@@ -136,9 +130,7 @@ H2
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:S6]
-
-You are South. The bidding has been as shown.
+{You are South. The bidding has been as shown.
 
 Partner led the \H3, you play \H10 and West wins the \HA. West pulls the last two trumps by leading low to dummy's \HQ. He now calls for the \S6. Will you play your \SA or not?
 
@@ -173,9 +165,7 @@ H3
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:DJ]
-
-You are East. The bidding has been as shown.
+{You are East. The bidding has been as shown.
 
 You lead the \DJ and dummy's \DA wins the first trick. Declarer pulls trumps with dummy's \SK, then his \SA. He then plays his \DK and follows with \CQ, \CK and \CA, discarding a \H from his hand on the last.
 

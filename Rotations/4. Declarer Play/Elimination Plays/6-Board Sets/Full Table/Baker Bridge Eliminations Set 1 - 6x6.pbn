@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -226,8 +226,6 @@ Play your \SA, leaving North with the master \SQ. Then eliminate \Ds by playing 
 Now eliminate \Hs by playing \HA, \HK, and ruffing a \H.
 
 You are ready for the throw-in. Play a \S to North's \SQ.
-
-[showcards N:ST,CK,CT,C2 S:S8,CA,CJ,C7]
 
 North has just taken the defender's first trick. First and only. Because if he now plays a red card you will ruff in one hand and discard a losing \C from the other. And if he plays a \C you will no longer have a \C loser.
 

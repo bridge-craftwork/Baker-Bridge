@@ -1,6 +1,6 @@
 {
   "collection": "Baker Bridge",
-  "generatedAt": "2026-07-14T19:59:38Z",
+  "generatedAt": "2026-08-30T20:37:38Z",
   "lessonCount": 50,
   "boards": {
     "total": 1173,
@@ -29,7 +29,7 @@
     "stamp": 0,
     "export": 0,
     "presentation": 1,
-    "rotate": 295,
+    "rotate": 310,
     "manifest": 0
   },
   "lessons": [

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Jacoby
 %bridge-classroom-stable: true
@@ -312,7 +312,7 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/jacoby_2nt_splinters"]
 [Student "S"]
-{Click back to Deal 12 for a quick comparison between the two hands. Almost identical, but this time your singleton is the \SK. Since it is not advisable to Splinter with a singleton Ace, King or Queen you just bid 2NT instead. Partner jumps to 4\H and you pass.
+{Look back at Deal 12 for a quick comparison between the two hands. Almost identical, but this time your singleton is the \SK. Since it is not advisable to Splinter with a singleton Ace, King or Queen you just bid 2NT instead. Partner jumps to 4\H and you pass.
 
 Note that in this hand the three points you credited for your \SK are completely wasted. And although partner has the same hand as he did in Deal 12, this time there is no chance of making slam. This shows why you don't Splinter with singleton Honors.}
 [Play "E"]

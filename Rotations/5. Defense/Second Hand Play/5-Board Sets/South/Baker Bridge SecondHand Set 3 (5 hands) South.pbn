@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:S6]
-
-You are East. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and South won the \DA.
+{You are East. The bidding has been as shown. Partner led the \DQ, you signaled with the \D8 and South won the \DA.
 
 South then played low to dummy's \SK, and led dummy's \S6. Your decision is not whether to play high or low, but whether to ruff or not, which amounts to the same thing.
 
@@ -58,9 +56,7 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:H4]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You lead the \CK and continue with the \CJ then \CQ, taken by South's \CA. To trick 4 South plays the \H4. What do you play?
 
@@ -91,11 +87,9 @@ CK
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:C3]
+{You are East. The bidding has been as shown.
 
-You are East. The bidding has been as shown.
-
-Partner led the \H10, won by dummy's \HA. At trick 2 South calls for dummy's \C3. Which card do you play?
+Partner led the \H10, won by dummy's \HA. At trick 2 South calls for dummy's \C3. 
 
 Play the \C6.
 
@@ -126,9 +120,7 @@ HT
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:C2]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You lead the \SJ, the \SK is played from dummy and holds the trick. Next come dummy's \HK, then another trump to South's \HA.
 
@@ -161,9 +153,7 @@ SJ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:D2]
-
-You are East. The bidding has been as shown.
+{You are East. The bidding has been as shown.
 
 Partner led the \S6. You won the \SA and returned the \S9, won by South's \SQ.
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:DA N:D3]
-
-You are East. The bidding has been as shown. Partner led the \DA, dummy played the \D3 
+{You are East. The bidding has been as shown. Partner led the \DA, dummy played the \D3 
 
 Play the \D2.
 
@@ -54,9 +52,7 @@ DA
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards W:HA E:HQ S:H5 N:H6]
-
-You are West. The bidding has been as shown. You led the \HA, East puts on the \HQ. It's your play. 
+{You are West. The bidding has been as shown. You led the \HA, East puts on the \HQ. It's your play. 
 
 Play the \H2.
 
@@ -85,9 +81,7 @@ HA
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:DA N:D2]
-
-You are East. The bidding has been as shown. West led the \DA, dummy played the \D2 
+{You are East. The bidding has been as shown. West led the \DA, dummy played the \D2 
 
 Play the \DQ.
 
@@ -120,9 +114,7 @@ DA
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards S:CT]
-
-You are West. The bidding has been as shown. You led the \S5, East plays the \ST and South wins the \SK. To the second trick South plays the \CT and you must discard something. 
+{You are West. The bidding has been as shown. You led the \S5, East plays the \ST and South wins the \SK. To the second trick South plays the \CT and you must discard something. 
 
 Play the \SJ.
 
@@ -153,9 +145,7 @@ S5
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:SK N:S9]
-
-You are East. The bidding has been as shown. Partner led the \SA, dummy played the \S2 and you signal with your \ST. West next plays the \SQ and you drop the \S4, completing your doubleton signal. West then plays the \SK and it turns out you don't have to ruff after all. So what are you going to play?
+{You are East. The bidding has been as shown. Partner led the \SA, dummy played the \S2 and you signal with your \ST. West next plays the \SQ and you drop the \S4, completing your doubleton signal. West then plays the \SK and it turns out you don't have to ruff after all. So what are you going to play?
 
 Play the \C9.
 

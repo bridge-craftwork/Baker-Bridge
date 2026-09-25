@@ -27,7 +27,8 @@ def fix_winner_loser_spacing(match):
 
     return f"{label}: {''.join(fixed_parts)}{tail}"
     
-def strip_phrases(file_path, regex_control_tags, regex_prompts, literal_fragments, lesson_name=None):
+def strip_phrases(file_path, regex_control_tags, regex_prompts, literal_fragments, lesson_name=None,
+                  regex_rewords=()):
     """
     Cleans PBN commentary for presentation/rotation use:
       Pass 1: Remove bridge-classroom control tags (case-sensitive regex).
@@ -53,6 +54,10 @@ def strip_phrases(file_path, regex_control_tags, regex_prompts, literal_fragment
     # Pass 1: Remove bridge-classroom control tags (case-sensitive)
     for pat in regex_control_tags:
         content = re.sub(pat, "", content)
+
+    # Pass 1b: Reword app wording that stays on paper (case-insensitive)
+    for pat, repl in regex_rewords:
+        content = re.sub(pat, repl, content, flags=re.IGNORECASE)
 
     # Pass 2: Remove UI prompt sentences (case-insensitive)
     for pat in regex_prompts:
@@ -91,19 +96,30 @@ def main():
     regex_control_tags = [
         r"\[BID[^\]]*\]",
         r"\[bid[^\]]*\]",
+        r"\[Bid[^\]]*\]",
         r"\[NEXT\]",
         r"\[ROTATE\]",
         r"\[show\s+[A-Z]+\]",
         r"\[PLAY\s+[^\]]*\]",
         r"\[RESET\]",
         r"\[clear-commentary\]",
-        r"\[showcards\]",
+        r"\[showcards[^\]]*\]",
         r"\[choose-card[^\]]*\]",
+        r"\[SHOW_LEAD\]",
+        r"\[AUCTION[^\]]*\]",
+        r"\[ACCEPT[^\]]*\]",
+    ]
+
+    # --- Pass 1b: App wording that stays, reworded for paper (case-insensitive) ---
+    regex_rewords = [
+        (r"Click back to Deal (\d+)", r"Look back at Deal \1"),
     ]
 
     # --- Pass 2: UI prompt sentences (case-insensitive, after tags stripped) ---
     regex_prompts = [
-        # "Decide what you would say/bid, then click on BID above." (all variants)
+        # "Decide what you would say/bid, then click on BID above." (all variants, incl.
+        # "Decide how you would answer partner's Gerber 4\C, ..." and an empty image label)
+        r"Decide (?:what|how) you would [^.]*?then click on [^.]*?above\.?",
         r"Decide what you would \w+[^.]*(?:BID|<b>BID</b>)[^.]*\.",
         # Navigation / action prompts
         r"Make a Plan[^.]*\.",
@@ -115,7 +131,13 @@ def main():
         r"Click\s+to\s+see[^.]*\.",
         r"Click\s*for[^.]*\.",
         r"Clickfor[^.]*\.",
-        r"Click\s*\.",
+        r"Click\s*[.?]",
+        # A "Click" left alone on its line once its [ROTATE]/[NEXT] tag was stripped
+        r"(?m)^[ \t]*Click[ \t]*$",
+        # [choose-card] prompts (the question is asked in the app, not on paper)
+        r"Play a card from your hand\.",
+        r"Choose dummy's card to this trick\.",
+        r"Which card do you (?:play|lead|discard)[^?]*\?",
         # Scene-setting prompts
         r"The bidding has gone as shown\.",
         r"The bidding is shown\.",
@@ -193,7 +215,8 @@ def main():
                 files_copied += 1
 
                 # Process the copied .pbn file
-                strip_phrases(dst_pbn, regex_control_tags, regex_prompts, literal_fragments, file_base)
+                strip_phrases(dst_pbn, regex_control_tags, regex_prompts, literal_fragments, file_base,
+                              regex_rewords)
                 # Check for an associated PDF file with the same base name + "_Intro.pdf"
                 pdf_filename = f"{file_base}_Intro.pdf"
                 src_pdf = os.path.join(package_dir, pdf_filename)

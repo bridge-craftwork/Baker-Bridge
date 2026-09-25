@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 100Deals
 %bridge-classroom-stable: true
@@ -168,7 +168,7 @@ Losers: \S 2 : \H 0 : \D 0 : \C 0 : Total = 2
 
 You expect trumps to split 3-2 so you would lose 2 trumps. You have no other losers so you decide to pull trumps. You win the \HA and play the \SA. East plays the \SK!
 
-Do you change your Plan? Click? 
+Do you change your Plan?  
 
 Do you change your <b>PLAN</b>?
 

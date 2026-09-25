@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -28,7 +28,7 @@ Winners:   \S=0  \H=1  \D=1  \C=5  Total = 7
 
 Things do not look good. You have only one \H stopper, the \S suit is wide open, and you have to have the \D finesse to get the two extra winners you need.
 
-First problem: Do you hold up the \HA or not?
+First problem: Do you hold up the \HA or not?  
 
 No, don't hold up. If you do they might take 4 \S tricks immediately, then go back to \Hs. Since your only hope of making this contract is the \D finesse you should grab the \HA, play 5 rounds of \Cs then finesse for the \DK.
 
@@ -57,15 +57,17 @@ HJ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{East is to play 3NT. South leads the \H6. North plays the \HQ.
+{East is to play 3NT. South leads the \H6, dummy plays the \H5 and North the \HQ.
 
 Winners:   \S=3  \H=1  \D=4  \C=0  Total = 8
 
 Needing only one more winner you decide to hold up on the first \H and also the \H continuation. You take your \HA on the third round, South having used the \H3 to drive out your \HA.
 
-You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, putting you in dummy. Next you play a \C from dummy, and when North plays low you put on . . . which \C?
+North returns the \H10.  
 
-[showcards N:S7,C7,C5,C4 S:SK,CK,CJ,C6]
+South wins with the \HJ and continues with the \H3; dummy discards a \C and North plays the \H4.  
+
+You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, putting you in dummy. Next you play a \C from dummy, and when North plays low you put on . . . which \C?
 
 You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, putting you in dummy. Next you play a \C from dummy, and when North plays low you put on . . . which \C?
 
@@ -96,7 +98,7 @@ H6
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{South is to play 4\S. West leads the \DQ. East plays the \D9.
+{South is to play 4\S. West leads the \DQ, dummy plays the \D3 and East the \D9.
 
 Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
 
@@ -131,7 +133,7 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{West is to play 3NT. North leads the \HK.
+{West is to play 3NT. North leads the \HK, dummy plays the \H2 and South the \H6.
 
 Winners:   \S=3  \H=1  \D=0  \C=4  Total = 8
 
@@ -168,7 +170,7 @@ HK
 
 Winners:   \S=1  \H=2  \D=3  \C=0  Total = 6
 
-It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that East may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up?
+It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that East may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up?  
 
 To answer that question you must think about East's lead. Since he did not lead the \SK you know he doesn't have a suit headed by K Q J. So you can visualize West sitting there with a doubleton honor in \Ss. It might be \S K x, \S Q x or \S J x, but it is surely one of those three.
 

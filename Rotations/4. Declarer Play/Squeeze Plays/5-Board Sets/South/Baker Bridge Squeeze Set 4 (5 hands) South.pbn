@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -107,8 +107,6 @@ West can afford to discard the \S9 and the \H5.
 
 East can spare his two \Ss. 
 
-[showcards N:SJ,HK,H7,DJ E:HJ,HT,H2,DQ S:HA,H6,H3,C8 W:SQ,HQ,H9,H8]
-
 You are there. Play your \C8. 
 
 West cannot throw the \SQ, so he gives up the \H8. Dummy's \SJ is of no further value so you dump it.
@@ -153,8 +151,6 @@ It doesn't matter which defender takes the \D, since either one is going to do t
 He will then play the \SK, which you must ruff in your hand. 
 
 Now play a small \D to dummy's \DK. 
-
-[showcards N:HJ,D7,C8,C6 E:DQ,DJ,CJ,CT S:DA,D8,CQ,C4 W:SJ,S8,S6,S5]
 
 You are in dummy, ready for the squeeze.
 
@@ -208,8 +204,6 @@ You are closing in. Play the \HJ, then the \H9.
 Discard the \ST and \D7 from dummy.
 
 West discards the \SQ and \S9. 
-
-[showcards N:SK,DA,D8 E:SJ,S8,D4 S:H5,DJ,D6 W:SA,DQ,DT]
 
 At last you play the \H5, and West is done, he just doesn't know it yet.
 
@@ -267,8 +261,6 @@ Overtake dummy's \ST and run three more \Ss.
 Discard all three \Ds from dummy.
 
 East will discard his 2 \Hs, the \D9 and the \C6. 
-
-[showcards N:CA,CJ,C4 E:DK,CK,CT S:S2,DJ,CQ W:D6,C9,C8]
 
 And now the moment you have been waiting for all these 20 Deals.
 

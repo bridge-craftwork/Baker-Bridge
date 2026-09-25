@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -227,8 +227,6 @@ Now eliminate \Hs by playing \HA, \HK, and ruffing a \H.
 
 You are ready for the throw-in. Play a \S to East's \SQ.
 
-[showcards N:ST,CK,CT,C2 S:S8,CA,CJ,C7]
-
 East has just taken the defender's first trick. First and only. Because if he now plays a red card you will ruff in one hand and discard a losing \C from the other. And if he plays a \C you will no longer have a \C loser.
 
 Most elimination plays work on the same principle. The biggest difference is usually the technique you have to use to complete the eliminations. 
@@ -265,8 +263,6 @@ In addition to the two \Ss already lost you have a potential loser in each minor
 Ruff the \SA with dummy's \H10 and pull trumps (three rounds).
 
 Eliminate \Ds by playing \DK, \DA, \DJ. If you are REALLY lucky the \DQ will fall doubleton, but more than likely a defender will win the third \D. He won't be happy about it, though.
-
-[showcards N:H8,CK,CT,C2 S:HJ,CA,CJ,C4]
 
 Whichever defender wins the \DQ is end-played. If he plays a \D or a \S you will ruff in one hand and discard a \C loser from the other. But if he leads a \C instead you no longer have a \C loser.
 
@@ -471,8 +467,6 @@ Play the \DA and \DK.
 
 Conveniently in dummy, you play a \C and insert the \CT if East plays low.
 
-[showcards N:HA,H6,C7,C6 S:HK,HQ,CA,CQ]
-
 West will probably win this trick. If he wins with the \CK then your hand is good. If he wins with the \CJ then he is end-played, forced to either lead a \C into your \C A Q or to give you a ruff-sluff.
 
 You probably noticed that you could have finessed your \CQ on the first \C play and pulled off the end-play just as effectively. But there is an advantage to making the first finesse with the \CT.
@@ -544,8 +538,6 @@ Next eliminate \Hs from you and dummy by playing the \HK.
 Now play four rounds of \Cs to eliminate that suit. If a defender decides to ruff one of these \Cs with the master trump he will be end-played, forced to either play a \D or to give you a ruff-sluff. So assume that all four \Cs win tricks.
 
 Now you administer the coup de gras, you lead a trump.
-
-[showcards N:ST,DJ,D5,D4 S:SJ,DQ,D8,D7]
 
 One of the defenders has won the \SQ. Too bad for him. If he now plays a \D you will make either the \DQ or \DJ. If he plays a \H you will ruff in one hand and discard a \D loser from the other.
 
@@ -785,8 +777,6 @@ Play the \HA, then ruff a \H in dummy. Play a trump to your \SA and ruff your la
 
 You are in dummy, just where you want to be. Play the \DK, and when East plays the \DA don't ruff but instead discard a \C from your hand. You knew all along that he held the \DA.
 
-[showcards N:SJ,CK,C5,C3 S:S6,S3,C7,C6]
-
 East is end-played, forced to either break the \Cs and give you a \C trick, or give you a ruff-sluff.
 
 This was the toughest hand so far and the end-play depended upon your correct reading that East must hold the \DA.
@@ -863,11 +853,7 @@ Next play 3 \H winners. West follows twice, then discards a \S.
 
 Now play your 2 \D winners. East and West both follow.
 
-[showcards N:SA,S7,S2 S:SQ,S9,S4]
-
 Keeping your fingers crossed that West must win the next trick you play the \S9. West puts on the \ST, you play low in dummy, and East (thankfully) discards a \H. 
-
-[showcards N:SA,S7 S:SQ,S4]
 
 West has been thrown in and he has nothing left but the \S K J. Whichever one he plays you will take the last two tricks.
 
@@ -905,8 +891,6 @@ The good news is that East started with three trumps, and since he already used 
 Eliminate \Cs by playing \CA, \CK, and ruffing a \C. Both defenders follow to all three \Cs.
 
 So far West has followed suit to every trick, meaning he has not discarded a single \S. Since you know he started with 6 \Ss, his final 5 cards consist of 4 \Ss and one other. You play to the \DA and West follows suit again.
-
-[showcards N:S7,HQ,D5,D4 S:S8,HK,HT,D7]
 
 Play dummy's \S7. West will win, but he has nothing left but \Ss. When he plays another \S you discard your \D loser and ruff in dummy.
 

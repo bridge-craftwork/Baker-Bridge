@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S2 N:S3]
-
-The bidding has been as shown. Partner led the \S2, dummy played the \S3 
+{The bidding has been as shown. Partner led the \S2, dummy played the \S3 
 
 Play the \SQ. This is a perfect example of why you should USUALLY play Third-hand-high.
 
@@ -52,9 +50,7 @@ S2
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HQ N:H4]
-
-The bidding has been as shown. Partner led the \HQ, dummy played the \H4 
+{The bidding has been as shown. Partner led the \HQ, dummy played the \H4 
 
 Play the \HA. You dare not play low for fear declarer might win a singleton \HK.
 
@@ -85,9 +81,7 @@ HQ
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:C4 N:C3]
-
-The bidding has been as shown. Partner led the \C4, dummy played the \C3 
+{The bidding has been as shown. Partner led the \C4, dummy played the \C3 
 
 Third-hand-high is usually a good plan to follow, certainly that is true in this deal. But that doesn't mean you should blindly play your HIGHEST card, rather you should play the LOWEST of high-equals.
 
@@ -116,9 +110,7 @@ C4
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S3 N:S4]
-
-The bidding has been as shown. Partner led the \S3, dummy played the \S4 
+{The bidding has been as shown. Partner led the \S3, dummy played the \S4 
 
 Play the \ST.
 
@@ -151,9 +143,7 @@ S3
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S7 N:S3]
-
-The bidding has been as shown. Partner led the \S7, dummy played the \S3 
+{The bidding has been as shown. Partner led the \S7, dummy played the \S3 
 
 Play the \S2.
 
@@ -186,9 +176,7 @@ S7
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H8 N:H6]
-
-The bidding has been as shown. West's 2\H bid shows good \S support with at least 10 points.
+{The bidding has been as shown. West's 2\H bid shows good \S support with at least 10 points.
 
 Partner led the \H8, dummy played the \H6 
 
@@ -221,9 +209,7 @@ H8
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HQ N:H4]
-
-The bidding has been as shown. Partner led the \HQ, dummy played the \H4 
+{The bidding has been as shown. Partner led the \HQ, dummy played the \H4 
 
 Play the \HK.
 
@@ -254,9 +240,7 @@ HQ
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H2 N:HA]
-
-The bidding has been as shown. Partner led the \H2, dummy played the \HA 
+{The bidding has been as shown. Partner led the \H2, dummy played the \HA 
 
 Play the \HQ (or \HK).
 
@@ -289,9 +273,7 @@ H2
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S5 N:S2]
-
-The bidding has been as shown. Partner led the \S5, dummy played the \S2 
+{The bidding has been as shown. Partner led the \S5, dummy played the \S2 
 
 Play the \S7.
 
@@ -324,9 +306,7 @@ S5
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H5 N:H8]
-
-The bidding has been as shown. Partner led the \H5, dummy played the \H8 
+{The bidding has been as shown. Partner led the \H5, dummy played the \H8 
 
 Play the \HQ.
 
@@ -361,9 +341,7 @@ H5
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HQ N:H6]
-
-The bidding has been as shown. Partner led the \HQ, dummy played the \H6 
+{The bidding has been as shown. Partner led the \HQ, dummy played the \H6 
 
 Overtake with the \HK.
 
@@ -394,9 +372,7 @@ HQ
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:SK N:SJ]
-
-The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
+{The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
 
 Ruff partner's \SK.
 
@@ -427,9 +403,7 @@ SA
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H8 N:HJ]
-
-The bidding has been as shown. Partner led the \H8, dummy played the \HJ 
+{The bidding has been as shown. Partner led the \H8, dummy played the \HJ 
 
 Play the \H9. North played dummy's \HJ to tempt you to cover. Don't fall for it.
 
@@ -462,9 +436,7 @@ H8
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:C9 N:CT]
-
-The bidding has been as shown. Partner led the \C9, dummy played the \CT 
+{The bidding has been as shown. Partner led the \C9, dummy played the \CT 
 
 Play the \C6.
 
@@ -497,9 +469,7 @@ C9
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HT N:HJ]
-
-The bidding has been as shown. Partner led the \H10, dummy played the \HJ 
+{The bidding has been as shown. Partner led the \H10, dummy played the \HJ 
 
 Play the \H6.
 
@@ -530,9 +500,7 @@ HT
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:SQ N:S2]
-
-The bidding has been as shown. Partner led the \SQ, a low card was played from dummy, 
+{The bidding has been as shown. Partner led the \SQ, a low card was played from dummy, 
 
 Play the \SK.
 
@@ -565,9 +533,7 @@ SQ
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S9 N:S6]
-
-The bidding has been as shown. Partner led the \S9, dummy played the \S6 
+{The bidding has been as shown. Partner led the \S9, dummy played the \S6 
 
 Play the \S8 (to signal encouragement).
 
@@ -602,9 +568,7 @@ S9
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:CK N:C2]
-
-The bidding has been as shown. Partner led the \CK, dummy played low 
+{The bidding has been as shown. Partner led the \CK, dummy played low 
 
 Overtake partner's \CK with the \CA.
 
@@ -635,9 +599,7 @@ CK
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:CK N:C7]
-
-The bidding has been as shown. Partner led the \CK, dummy played the \C7 
+{The bidding has been as shown. Partner led the \CK, dummy played the \C7 
 
 Overtake with your \CA.
 
@@ -668,9 +630,7 @@ CK
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:DK N:D2]
-
-The bidding has been as shown. Partner led the \DK, dummy played low 
+{The bidding has been as shown. Partner led the \DK, dummy played low 
 
 Play the \DJ.
 

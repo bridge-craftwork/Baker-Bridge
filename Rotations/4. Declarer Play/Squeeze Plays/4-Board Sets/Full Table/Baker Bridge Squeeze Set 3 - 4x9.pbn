@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -72,8 +72,6 @@ On the last 2 \Cs South discards a \D and a \H.
 Now come to your hand with the \SA and play the \S K Q.
 
 You discard a small \H from dummy while South follows suit three times. 
-
-[showcards N:HA,HK,H8,D9 E:S9,HJ,H4,D6 S:SJ,H9,H5,H3 W:HQ,HT,H7,DT]
 
 It is time.
 

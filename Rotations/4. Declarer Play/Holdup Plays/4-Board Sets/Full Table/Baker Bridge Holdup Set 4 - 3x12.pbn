@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -22,7 +22,7 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{North is to play 4\S. East leads the \DQ. West plays the \D9.
+{North is to play 4\S. East leads the \DQ, dummy plays the \D3 and West the \D9.
 
 Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
 
@@ -57,7 +57,7 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{East is to play 3NT. South leads the \HK.
+{East is to play 3NT. South leads the \HK, dummy plays the \H2 and North the \H6.
 
 Winners:   \S=3  \H=1  \D=0  \C=4  Total = 8
 
@@ -94,7 +94,7 @@ HK
 
 Winners:   \S=1  \H=2  \D=3  \C=0  Total = 6
 
-It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that West may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up?
+It's pretty clear that your extra tricks are going to have to come from the \C suit. The danger here is that West may have a 5-card \S suit that he can establish and the \CA as an entry. So what is the best approach, hold up or not hold up?  
 
 To answer that question you must think about West's lead. Since he did not lead the \SK you know he doesn't have a suit headed by K Q J. So you can visualize East sitting there with a doubleton honor in \Ss. It might be \S K x, \S Q x or \S J x, but it is surely one of those three.
 
