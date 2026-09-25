@@ -22,13 +22,19 @@
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 3NT. West leads the \HQ.
+{South is to play 3NT. West leads the \HQ, dummy plays the \H4 and East the \H2.
 
 Winners:   \S=0  \H=2  \D=4  \C=1  Total = 7
 
-Needing two more winners you will have to make both the \SK and \SQ. This will only be possible if West holds the \SA. Win the first trick (if you don't West might switch to \Cs) and play a small \S toward dummy's \SQ. It holds the trick.
+Needing two more winners you will have to make both the \SK and \SQ. This will only be possible if West holds the \SA. Win the first trick (if you don't West might switch to \Cs) and play a small \S toward dummy's \SQ.  
 
-You should take your four \D winners now, being sure to end up in your hand. Then play another small \S toward dummy's \SK. This also wins.
+West plays low and dummy's \SQ holds the trick.
+
+You should take your four \D winners now, being sure to end up in your hand. Then play another small \S toward dummy's \SK.  
+
+You are back in your hand after four \D tricks.  
+
+West plays low again and dummy's \SK wins.
 
 You have now won 7 tricks so don't mess around now. Take your two Aces and let them have the last four tricks.
 
@@ -59,11 +65,17 @@ HQ
 [Student "S"]
 {South is to play 3NT. West leads the \D3.
 
+ East plays the \D10 and you the \D2.
+
 Winners:   \S=1  \H=5  \D=1  \C=1  Total = 8
 
 You need just one more winner. Since West probably has 4 \Ds you will not be able to establish a trick in that suit, so your only hope is the \SQ. You win the first \D so they don't get a chance to switch to \Cs, a suit you are worse off in. Then take your 5 \H tricks, ending in dummy.
 
-You can't put it off any longer so play a small \S from dummy and put the \SQ on. If it wins you will make your contract, if it loses you won't.
+You can't put it off any longer.  
+
+East plays low.  
+
+A small \S from dummy, putting the \SQ on. If it wins you will make your contract, if it loses you won't.
 
 East held the \SK so you were lucky this time.
 
@@ -90,13 +102,17 @@ pass pass 2NT pass 3C pass 3D pass 3NT pass pass pass
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 3NT. West leads the \HQ.
+{South is to play 3NT. West leads the \HQ, dummy plays the \H2 and East the \H3.
 
 Winners:   \S=0  \H=2  \D=2  \C=4  Total = 8
 
 Needing one more winner you should see right away that it cannot come from \Hs, \Ds, or \Cs. That means you must hope that East has the \SA. Win the first \H, then play your 4 \C winners ending in dummy.
 
-The moment of truth. You lead a small \S from dummy. East plays low and you play the \SK.
+The moment of truth.  
+
+East plays low.  
+
+A small \S from dummy, and the \SK when East plays low.
 
 Unfortunately West takes your \SK with the \SA. He then plays another \H and you at least make 8 tricks but have no hope for a ninth one so you go down 1.
 
@@ -125,13 +141,21 @@ HQ
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 4\H. West leads the \SK.
+{South is to play 4\H. West leads the \SK, dummy plays the \S2 and East the \S5.
 
 Losers:   \S=2  \H=1  \D=0  \C=1  Total = 4
 
 West found the best opening lead for his side, exposing your \S losers before you could establish the \C suit for a discard. If you start to pull trumps right away the defense will grab the \HA, then take their two \S tricks and you will still have the \CA that you cannot avoid.
 
-Other than the \DA the only useful card in dummy is the \DQ so you must try to make a winner out of that for a  discard. So win the \SA, lead your singleton \D and finesse the \DQ. Your luck has returned, the \DQ wins and you discard one of your \S losers on the \DA.
+Other than the \DA the only useful card in dummy is the \DQ so you must try to make a winner out of that for a  discard. So win the \SA, lead your singleton \D and finesse the \DQ.
+
+West plays low.  
+
+Your luck has returned, the \DQ wins. 
+
+Dummy leads the \DA and East follows.  
+
+You discard one of your \S losers on the \DA.
 
 At this point you have not lost any tricks, and you can see that you have only 3 losers remaining in your hand. So you start pulling trumps and establishing the \Cs.
 
@@ -166,7 +190,13 @@ Winners:   \S=4  \H=1  \D=5  \C=1  Total = 11
 
 You need one more winner from the \H or \C suit. The straight finesse of the \HK offers a 50% chance of success. The double finesse of the \C K Q offers a 75% chance of success. It's a no-brainer. Run 4 \Ss and 5 \Ds ending in your hand. Be very careful not to discard a \C from your hand.
 
-Lead a small \C and play the \CT if West plays low. Let's say East wins the \CK and returns a \H.
+You have run the \Ss and \Ds and are in your hand.  
+
+West plays low.  
+
+A small \C, playing the \C10 when West plays low: the first of your two \C finesses. Let's say East wins the \CK and returns a \H.
+
+East returns the \HJ.  
 
 <b>DO NOT FINESSE THE \H.</b>Stick with your original 75% plan. Take the \HA and play your small \C, finessing the \CJ. This is why you couldn't discard a \C earlier.
 

@@ -28,7 +28,13 @@ Winners:   \S=4  \H=1  \D=5  \C=1  Total = 11
 
 You need one more winner from the \H or \C suit. The straight finesse of the \HK offers a 50% chance of success. The double finesse of the \C K Q offers a 75% chance of success. It's a no-brainer. Run 4 \Ss and 5 \Ds ending in your hand. Be very careful not to discard a \C from your hand.
 
-Lead a small \C and play the \CT if East plays low. Let's say West wins the \CK and returns a \H.
+You have run the \Ss and \Ds and are in your hand.  
+
+East plays low.  
+
+A small \C, playing the \C10 when East plays low: the first of your two \C finesses. Let's say West wins the \CK and returns a \H.
+
+West returns the \HJ.  
 
 <b>DO NOT FINESSE THE \H.</b>Stick with your original 75% plan. Take the \HA and play your small \C, finessing the \CJ. This is why you couldn't discard a \C earlier.
 
@@ -59,11 +65,17 @@ S3
 [Student "S"]
 {East is to play 4\S. South leads the \DK.
 
+ North plays the \D2 and you the \D4.
+
 Losers:   \S=1  \H=1  \D=1  \C=1  Total = 4
 
-South has made another great lead. Any other suit would have given you a free finesse. You should duck the first \D. It is very possible that South has led from \D K Q 10 and will be afraid to continue for fear you have the \DJ in your hand. You'd be very happy to see him switch to any other suit. But he doesn't, he continues with the \DQ which you take with dummy's \DA.
+South has made another great lead. Any other suit would have given you a free finesse. You should duck the first \D. It is very possible that South has led from \D K Q 10 and will be afraid to continue for fear you have the \DJ in your hand. You'd be very happy to see him switch to any other suit. But he doesn't. 
 
-You are in dummy for the first, last, and only time. You need to try a finesse right now, but which one? At first you might think it makes no difference but, in fact, there is only one reasonable choice. If you finesse the \SK successfully you may still have a \S loser. If you finesse the \HK successfully you will surely still have a \H loser. But if you finesse the \CK successfully you will eliminate your \C loser.
+South continues with the \DQ.  
+
+You take it with dummy's \DA. 
+
+You are in dummy for the first, last, and only time. You need to try a finesse right now, but which one?   At first you might think it makes no difference but, in fact, there is only one reasonable choice. If you finesse the \SK successfully you may still have a \S loser. If you finesse the \HK successfully you will surely still have a \H loser. But if you finesse the \CK successfully you will eliminate your \C loser.
 
 What a great layout! Three possible finesses and every one of them would work.
 
@@ -90,7 +102,7 @@ DK
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{South is to play 6\S. West leads the \HK.
+{South is to play 6\S. West leads the \HK, dummy plays the \H6 and East the \H3.
 
 Losers:   \S=0  \H=1  \D=2  \C=0  Total = 3
 
@@ -98,7 +110,11 @@ Your only hope for ridding yourself of two of those losers is dummy's \C suit. O
 
 A better plan is a ruffing finesse. Win the first trick with your \HA and pull trumps with your \S K Q. 
 
-Next play your \C7 to dummy's \CA. Then lead the \CQ from dummy. If East plays the \CK you will ruff, enter dummy, and discard two red losers on the \C J 10. If East plays low instead, you discard your \H loser. West may be able to win the trick but you can ruff a \H return, and dummy will have two good \Cs on which you can discard 2 \D losers.
+West plays low.  
+
+Your \C7 to dummy's \CA. 
+
+The \CQ from dummy: a ruffing finesse. If East plays the \CK you will ruff, enter dummy, and discard two red losers on the \C J 10. If East plays low instead, you discard your \H loser. West may be able to win the trick but you can ruff a \H return, and dummy will have two good \Cs on which you can discard 2 \D losers.
 
 Ruffing finesses sometimes provide you the best opportunity, like this time.
 
@@ -125,7 +141,7 @@ HK
 [Difficulty "beginner"]
 [SkillPath "declarer_play/finessing"]
 [Student "S"]
-{West is to play 3NT. North leads the \DK.
+{West is to play 3NT. North leads the \DK, dummy plays the \D3 and South the \D2.
 
 Winners:   \S=1  \H=2  \D=1  \C=4  Total = 8
 
@@ -134,6 +150,14 @@ You only need one more winner. If South has the \SK you can finesse him out of i
 It is an easy choice. The defenders only have 12 HCP and North opened the bidding. So you know he must have both of the cards you are interested in.
 
 Hold up the \DA until the third round just to be safe. Then play four rounds of \Cs ending in your hand.
+
+North continues with the \DQ; dummy plays the \D6 and South the \D8.  
+
+North continues with the \DJ; dummy plays the \D7 and South discards a \S.  
+
+You cash four rounds of \Cs, ending in your hand.  
+
+North covers with the \HQ.  
 
 Now play the \HJ. If North doesn't cover, you will let it ride for your ninth trick. But North does cover so you take dummy's \HA, then your other 2 \H tricks. The \SA  is your ninth trick.
 
