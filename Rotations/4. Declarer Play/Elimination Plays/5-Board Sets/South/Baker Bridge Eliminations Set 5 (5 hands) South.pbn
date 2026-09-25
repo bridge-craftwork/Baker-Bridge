@@ -22,7 +22,11 @@
 [Difficulty "advanced"]
 [SkillPath "declarer_play/elimination_plays"]
 [Student "S"]
-{After hearing a limit raise, South's leap to 6\H is, well, bold let's say. South plays 6\H. West leads the \S5, East plays the \SK.
+{After hearing a limit raise, South's leap to 6\H is, well, bold let's say.  South plays 6\H. West leads the \S5, dummy plays the \S6 and East the \SK.
+
+Dummy wins the \DK. 
+
+Dummy leads the \DA and East follows.  
 
 Very bold in fact. The opening lead has exposed a \S loser in addition to your two \C losers. On the plus side dummy has an extra \D trick. You are going to have to try to throw West in with the \C suit, but you will have to be very careful with dummy's entries.
 
@@ -71,7 +75,11 @@ Next play 3 \H winners. West follows twice, then discards a \S.
 
 Now play your 2 \D winners. East and West both follow.
 
-Keeping your fingers crossed that West must win the next trick you play the \S9. West puts on the \ST, you play low in dummy, and East (thankfully) discards a \H. 
+Keeping your fingers crossed that West must win the next trick,  
+
+West puts on the \S10.  
+
+East (thankfully) discards a \H. 
 
 West has been thrown in and he has nothing left but the \S K J. Whichever one he plays you will take the last two tricks.
 
@@ -110,7 +118,7 @@ Eliminate \Cs by playing \CA, \CK, and ruffing a \C. Both defenders follow to al
 
 So far East has followed suit to every trick, meaning he has not discarded a single \S. Since you know he started with 6 \Ss, his final 5 cards consist of 4 \Ss and one other. You play to the \DA and East follows suit again.
 
-Play dummy's \S7. East will win, but he has nothing left but \Ss. When he plays another \S you discard your \D loser and ruff in dummy.
+Dummy's \S7: East wins, but he has nothing left but \Ss. When he plays another \S you discard your \D loser and ruff in dummy.
 
 This is called a Partial Elimination because all of the \Ds were not eliminated.  
 
@@ -196,7 +204,7 @@ Win the \SA and pull trumps with the \CA and \CQ. They split 2-1.
 
 Play the \DA, just in case there is a singleton \DQ somewhere. There isn't. Then eliminate \Hs by playing \HA and ruff a \H.
 
-Now play a low \S from both hands. West doesn't follow suit as East wins with a small card.
+A low \S from both hands. West doesn't follow suit as East wins with a small card.
 
 East is end-played. He has no \Cs. If he plays a \D it will be into dummy's \D K J. If he plays a \H you will discard a \D from your hand and ruff in dummy. If he plays the \SK you will ruff, and dummy's \SQ will be promoted. If he plays a small \S you will let it ride to dummy's \SQ.
 

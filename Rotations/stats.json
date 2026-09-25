@@ -25,12 +25,12 @@
   },
   "buildDurations": {
     "pbn": 0,
-    "package": 1,
+    "package": 0,
     "stamp": 0,
-    "export": 1,
-    "presentation": 0,
-    "rotate": 411,
-    "manifest": 1
+    "export": 0,
+    "presentation": 1,
+    "rotate": 479,
+    "manifest": 0
   },
   "lessons": [
     {

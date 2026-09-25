@@ -108,6 +108,7 @@ def check_board(board_text):
     trick = []            # [(seat, card)] on the table, in order put there
     chosen_pending = []   # cards of answered choices not yet gathered
     alternates = set()    # cards of earlier any: lists — played only if the student chose them
+    asked = set()         # every card offered by an earlier choice
     problems = []
     notes = []  # warnings: questions whose every legal card is accepted
 
@@ -126,7 +127,9 @@ def check_board(board_text):
             for seat, card in seat_cards(value):
                 if card not in hands[seat]:
                     problems.append(f"[PLAY] {seat}:{card} is not in {seat}'s hand")
-                elif card in played:
+                elif card in played and card not in asked:
+                    # A [PLAY] may name the student's own earlier card (e.g. both small
+                    # hearts after an any: exit); the app strikes it once.
                     problems.append(f"[PLAY] {seat}:{card} was already played")
                 played.add(card)
             trick = [(s, c) for s, c in trick if c not in played]
@@ -171,6 +174,7 @@ def check_board(board_text):
                     legal = {c for c in legal if c[0] == led}
             if legal and legal <= set(cards):
                 notes.append(f"{label}: forced (every legal card is accepted)")
+            asked.update(cards)
             if len(cards) > 1:
                 alternates.update(cards)
             chosen_pending.append(live[0])
