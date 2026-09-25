@@ -57,7 +57,7 @@ H4
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{East is to play 3NT. South leads the \S9, and North plays the \SK.
+{East is to play 3NT. South leads the \S9, dummy plays the \S10 and North the \SK.
 
 Winners:   \S=3  \H=2  \D=1  \C=0  Total = 6
 
@@ -139,9 +139,17 @@ H3
 
 Winners:   \S=1  \H=0  \D=2  \C=3  Total = 6
 
-You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem?
+You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem?  
 
-Don't win the first trick with the \C9, win with the \CK. Then at trick two enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure North has led from the \CQ so you expect this to work. Then play the \ST, underplaying your \S8. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
+Don't win the first trick with the \C9, win with the \CK.
+
+North plays low.  
+
+At trick two you enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure North has led from the \CQ so you expect this to work. 
+
+South plays low.  
+
+Lead the \S10 (or \SQ) and underplay it with your \S8 (or \S9), so you stay in dummy. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
 
 This is another twist on the them of winning with a higher card than necessary.
 

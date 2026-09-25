@@ -28,7 +28,7 @@ Winners:   \S=3  \H=1  \D=1  \C=2  Total = 7
 
 Needing two winners you will naturally consider your 5-card \C suit. After unblocking the \C A K you will need two entries to your hand; one to lead the \CJ and drive out the \CQ, then a second to enjoy your good \Cs.
 
-The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?
+The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?  
 
 No, for two reasons. Firstly the \HQ only gives you a 50% chance of being an entry. But more importantly, you already have your two sure entries in \Ss. As long as you take the first trick with dummy's \SA both your \SK and  \SJ can be entries.
 
@@ -63,7 +63,7 @@ pass pass 2NT pass 3NT pass pass pass
 
 Winners:   \S = 1    \H = 1  \D = 4?    \C = 3 Total = 9
 
-Although you have 4 \D winners, getting to the last couple might not be so easy. You can make 3 \D tricks simply by winning your \DA, then overtaking your \DJ with dummy's \DQ. But you need that fourth \D winner. Can you get it?
+Although you have 4 \D winners, getting to the last couple might not be so easy. You can make 3 \D tricks simply by winning your \DA, then overtaking your \DJ with dummy's \DQ. But you need that fourth \D winner. Can you get it?  
 
 Sure you can, by creating an entry in \Cs. It is likely from the opening lead, (and North's play of a small card), that South has led from \C Q 10 7 5. If you win the first trick cheaply then you will still make your \C A K for three \C tricks in all.
 
@@ -106,6 +106,8 @@ So you will have to get 3 extra \C winners, which means the \C finesse absolutel
 
 In addition to lucky, you are going to have to be pretty good, too. You will surely have to finesse the \Cs at least twice; that means you need two dummy entries. Can you find them?
 
+You won the second \S.  
+
 Maybe in \Ds. Play the \DK, then \DQ, watching the defender's cards carefully. When both follow twice you know there is only a single \D left out, so you play the \DJ to dummy's \DA. Now take the \C finesse. It works! Next play your \D5 to dummy's \D6 and take another \C finesse. Both defenders follow so your \Cs are good.
 
 If the \Ds split 4-1 you would have found out when you cashed the \D K Q.
@@ -133,13 +135,15 @@ SQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{West is to play 6\C. North leads the \DQ.
+{West is to play 6\C. North leads the \DQ, dummy plays the \D3 and South the \D4.
 
 Losers:   \S=0  \H=2  \D=1  \C=0  Total = 3
 
 Partner's hand didn't turn out to be what you hoped for, you had in mind maybe the \HK and \DQ.
 
 But this is what you got. First, be thankful North led a \D rather than a \H. Second, see if you can find a way to fight yourself over to dummy and those three beautiful \Ss.
+
+North plays the \C10, dummy the \C8 and South the \C2.
 
 You have two possibilities for a \C entry, but you can only try one of them as you will see.
 
@@ -181,6 +185,8 @@ Losers:   \S = 1    \H = 0  \D = 3?    \C = 0 Total = 4?
 This is the kind of hand that can get really messy if you aren't careful. You could ruff the \S, then try to ruff some \Ds, but the defense can prevent you by leading trumps when you give up the \D tricks. 
 
 All in all a much better plan is to use dummy's \C suit after you unblock the Ace. The only flaw with that idea is that when you ruff the \S, unblock the \CA, then play two rounds of trumps ending in dummy, there will still be a trump left out. And the defender might ruff a \C before you can take the discards you need. Do you see a way around this?
+
+East continues with the \SK.  
 
 Do NOT ruff the second \S in dummy, just discard a \D. If East plays a third \S you will ruff in your hand, then unblock the \CA, then pull trumps in 3 rounds ending in dummy. And run all those \C tricks. If East plays a trump or a \C the result will be the same. The defense can get one \D trick if they take it right now, but you still make your contract.
 

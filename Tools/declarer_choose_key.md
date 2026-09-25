@@ -1507,3 +1507,501 @@ West plays low again. Which card do you play from dummy? [choose-card C5]
 Your \C10, putting on the \C5 from dummy when West plays low again.
 >>>
 
+
+## Entries 1
+
+Win the opening club with dummy's ♣K to keep the ♣A as the entry to the spades.
+
+<<<
+South is to play 3NT. West leads the \C3.
+===
+[showcards W:C3] South is to play 3NT. West leads the \C3.
+>>>
+
+<<<
+So what should you do?
+
+Click [NEXT]
+===
+So what should you do? Which card do you play from dummy? [choose-card CK]
+>>>
+
+<<<
+It's easy once you think about it.
+===
+[showcards E:C9 S:C2]
+
+It's easy once you think about it.
+>>>
+
+## Entries 3
+
+Jump up with dummy's ♣A; then ♦A and the ♦10 overtaken, with no finesse.
+
+<<<
+South is to play 3NT. West leads the \C4.
+===
+[showcards W:C4] South is to play 3NT. West leads the \C4.
+>>>
+
+<<<
+So what is your first key move?
+
+Click NEXT. [NEXT]
+===
+So what is your first key move? Which card do you play from dummy? [choose-card CA]
+>>>
+
+<<<
+The \C situation is exactly the same
+===
+[showcards E:C5 S:C3]
+
+The \C situation is exactly the same
+>>>
+
+<<<
+Having done that, are your problems (and thinking) over?
+
+Click NEXT. [NEXT]
+===
+Having done that, are your problems (and thinking) over?
+
+[PLAY W:C4,E:C5,S:C3]
+
+Which card do you lead from dummy? [choose-card DA]
+
+[showcards E:D2 S:D3 W:D5]
+
+Everyone follows low. [NEXT]
+
+[PLAY E:D2,S:D3,W:D5]
+
+Which card do you lead from dummy now? [choose-card DT]
+
+[showcards E:D4]
+
+East plays low. Which card do you play? [choose-card any:DQ,DJ]
+
+[showcards W:D6]
+>>>
+
+## Entries 4
+
+Ruff the third club high, saving the ♥5 as the second trump entry to dummy.
+
+<<<
+That won't be a problem, will it?
+
+Click NEXT. [NEXT]
+===
+That won't be a problem, will it?
+
+[PLAY W:CA,N:C4,E:C5,S:C2,W:CK,N:C9,E:C7,S:C6] [showcards W:CQ N:CJ E:CT]
+
+West continues with the \CQ; dummy plays the \CJ and East the \C10. Which card do you play? [choose-card any:HK,HQ,HJ,H9,H8]
+>>>
+
+## Entries 5
+
+Unblock the clubs, starting with one of dummy's high ones and keeping the ♣5 for last.
+
+<<<
+Is there any other pitfall you might need to worry about?
+
+Click NEXT. [NEXT]
+===
+Is there any other pitfall you might need to worry about?
+
+[PLAY W:S5,N:SA,E:S8,S:S3]
+
+You win the \SA. Which card do you lead from dummy? [choose-card any:CQ,C8,C7]
+>>>
+
+## Entries 6
+
+Win the first trick with dummy's ♠A so both ♠K and ♠J are entries.
+
+<<<
+South is to play 3NT. West leads the \S5.
+===
+[showcards W:S5] South is to play 3NT. West leads the \S5.
+>>>
+
+<<<
+The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?
+
+Click NEXT. [NEXT]
+===
+The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry? Which card do you play from dummy? [choose-card SA]
+>>>
+
+<<<
+No, for two reasons.
+===
+[showcards E:S3 S:S4]
+
+No, for two reasons.
+>>>
+
+## Entries 7
+
+Win the first club with a top honour, not cheaply, to make a club entry to dummy.
+
+<<<
+South is to play 3NT. West leads the \C5. You play low from dummy and East plays the \C6.
+===
+[showcards W:C5 N:C2 E:C6] South is to play 3NT. West leads the \C5. You play low from dummy and East plays the \C6.
+>>>
+
+<<<
+But you need that fourth \D winner. Can you get it?
+
+Click NEXT. [NEXT]
+===
+But you need that fourth \D winner. Can you get it? Which card do you play to this first trick? [choose-card any:CA,CK]
+>>>
+
+## Entries 8
+
+Cash the diamond honours from hand, keeping the ♦5 to reach dummy's ♦6 for a second finesse.
+
+<<<
+Can you find them?
+
+Click NEXT. [NEXT]
+===
+Can you find them?
+
+[PLAY W:SQ,N:S3,E:SK,S:S6,E:S2,S:SA,W:S5,N:S8]
+
+You won the second \S. Which card do you lead now? [choose-card any:DK,DQ,DJ]
+>>>
+
+## Entries 9
+
+Win the diamond; lead a low club toward dummy's ♣9-8 for a sure entry.
+
+<<<
+South is to play 6\C. West leads the \DQ.
+===
+[showcards W:DQ N:D3 E:D4] South is to play 6\C. West leads the \DQ, dummy plays the \D3 and East the \D4.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:DA,DK]
+>>>
+
+<<<
+see if you can find a way to fight yourself over to dummy and those three beautiful \Ss.
+
+Click NEXT. [NEXT]
+===
+see if you can find a way to fight yourself over to dummy and those three beautiful \Ss.
+
+[PLAY W:DQ,N:D3,E:D4]
+
+Which card do you lead now? [choose-card any:C7,C5,C4]
+
+[showcards W:CT N:C8 E:C2]
+
+West plays the \C10, dummy the \C8 and East the \C2.
+>>>
+
+## Entries 10
+
+Discard a diamond from dummy on the second spade instead of ruffing.
+
+<<<
+Do you see a way around this?
+
+Click NEXT. [NEXT]
+===
+Do you see a way around this?
+
+[PLAY W:SA,N:S9,E:S2,S:S3] [showcards W:SK]
+
+West continues with the \SK. Which card do you play from dummy? [choose-card any:D6,D5]
+>>>
+
+## Entries 11
+
+Unblock the ♣K under East's ♣A, making the ♣10 a second entry to dummy.
+
+<<<
+South is to play 3NT. West leads the \C3, East plays the \CA.
+===
+[showcards W:C3 N:C7 E:CA] South is to play 3NT. West leads the \C3, dummy plays the \C7 and East the \CA.
+>>>
+
+<<<
+Do you have them?
+
+Click NEXT. [NEXT]
+===
+Do you have them? Which card do you play to this first trick? [choose-card CK]
+>>>
+
+## Entries 12
+
+Take the ♦K at once; then use both heart honours as dummy entries.
+
+<<<
+South is to play 3NT. West leads the \D5, East plays the \DQ.
+===
+[showcards W:D5 N:D4 E:DQ] South is to play 3NT. West leads the \D5, dummy plays the \D4 and East the \DQ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card DK]
+>>>
+
+<<<
+You need dummy entries, and they must be in \Hs.
+
+Click NEXT. [NEXT]
+===
+You need dummy entries, and they must be in \Hs.
+
+[PLAY W:D5,N:D4,E:DQ]
+
+Which card do you lead now? [choose-card any:HJ,HK]
+>>>
+
+## Entries 13
+
+Win the first heart with the ♥A, keeping the ♥Q-10 as a later entry to dummy.
+
+<<<
+South is to play 3NT. West leads the \H4, you play low in dummy and East plays the \H8.
+===
+[showcards W:H4 N:H3 E:H8] South is to play 3NT. West leads the \H4, you play low in dummy and East plays the \H8.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card HA]
+>>>
+
+## Entries 14
+
+Duck the first spade to keep the ♠A as the entry to the clubs.
+
+<<<
+South is to play 3NT. West leads the \S9, and East plays the \SK.
+===
+[showcards W:S9 N:ST E:SK] South is to play 3NT. West leads the \S9, dummy plays the \S10 and East the \SK.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:S4,S3]
+>>>
+
+## Entries 15
+
+Take the ♥K now; test the diamonds from the top before using dummy's ♦A.
+
+<<<
+South is to play 3NT. West leads the \H3, you play dummy's \HJ and East plays the \HQ.
+===
+[showcards W:H3 N:HJ E:HQ] South is to play 3NT. West leads the \H3, you play dummy's \HJ and East plays the \HQ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card HK]
+>>>
+
+<<<
+Got it?
+
+Click NEXT. [NEXT]
+===
+Got it?
+
+[PLAY W:H3,N:HJ,E:HQ]
+
+Which card do you lead now? [choose-card any:DK,DQ]
+>>>
+
+## Entries 16
+
+Win the first club with the ♣K; cross with the ♣9 to the ♣J; lead the ♠10 underplaying the ♠8.
+
+<<<
+South is to play 3NT. West leads the \C4, you play dummy's \C5 and East plays the \C7.
+===
+[showcards W:C4 N:C5 E:C7] South is to play 3NT. West leads the \C4, you play dummy's \C5 and East plays the \C7.
+>>>
+
+<<<
+Do you see a way to avoid the problem?
+
+Click NEXT. [NEXT]
+===
+Do you see a way to avoid the problem? Which card do you play to this first trick? [choose-card CK]
+>>>
+
+<<<
+Don't win the first trick with the \C9, win with the \CK. Then at trick two enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure West has led from the \CQ so you expect this to work. Then play the \ST, underplaying your \S8. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
+===
+Don't win the first trick with the \C9, win with the \CK.
+
+[PLAY W:C4,N:C5,E:C7]
+
+Which card do you lead now? [choose-card C9]
+
+[showcards W:C8]
+
+West plays low. Which card do you play from dummy? [choose-card CJ]
+
+[showcards E:C2]
+
+At trick two you enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure West has led from the \CQ so you expect this to work. [NEXT]
+
+[PLAY W:C8,E:C2]
+
+Which card do you lead from dummy? [choose-card any:ST,SQ]
+
+[showcards E:S2]
+
+East plays low. Which card do you play? [choose-card any:S8,S9]
+
+[showcards W:S4]
+
+Lead the \S10 (or \SQ) and underplay it with your \S8 (or \S9), so you stay in dummy. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
+>>>
+
+## Entries 17
+
+Win the spade, then unblock the ♥A or lead the ♦J before touching the diamond winners.
+
+<<<
+South is to play 3NT. West leads the \SQ.
+===
+[showcards W:SQ N:S4 E:S3] South is to play 3NT. West leads the \SQ, dummy plays the \S4 and East the \S3.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:SA,SK]
+>>>
+
+<<<
+Can you work those two possibilities into a strategy?
+
+Click NEXT. [NEXT]
+===
+Can you work those two possibilities into a strategy?
+
+[PLAY W:SQ,N:S4,E:S3]
+
+Which card do you lead now? [choose-card any:HA,DJ]
+>>>
+
+## Entries 18
+
+Win the diamond in dummy, cash the ♠K, then run the ♣10 through East.
+
+<<<
+South is to play 3NT. West leads the \D2.
+===
+[showcards W:D2] South is to play 3NT. West leads the \D2.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card any:DA,DK,DQ]
+>>>
+
+<<<
+Which way will you finesse, and why?
+
+Click NEXT. [NEXT]
+===
+Which way will you finesse, and why?
+
+[PLAY W:D2,E:D3,S:D4,N:SK,E:S2,S:S3,W:S4]
+
+You win the \D in dummy and play the \SK, which the defenders let hold. Which card do you lead from dummy? [choose-card CT]
+
+[showcards E:C2]
+
+East plays low. Which card do you play? [choose-card C3]
+
+[showcards W:CQ]
+>>>
+
+## Entries 19
+
+Overtake the ♥K with dummy's ♥A to save heart entries, then finesse the ♣9.
+
+<<<
+South is to play 6NT. West leads the \ST.
+===
+[showcards W:ST N:S6 E:S3] South is to play 6NT. West leads the \ST, dummy plays the \S6 and East the \S3.
+>>>
+
+<<<
+Can it be done?
+
+Click NEXT. [NEXT]
+===
+Can it be done?
+
+[PLAY W:ST,N:S6,E:S3,S:SA] [showcards S:HK W:H2]
+
+You win the \S lead in your hand, then lead the \HK and West plays low. Which card do you play from dummy? [choose-card HA]
+
+[showcards E:H6]
+
+East follows with the \H6. [NEXT]
+
+[PLAY S:HK,W:H2,E:H6]
+
+Which card do you lead from dummy? [choose-card any:C6,C4,C2]
+
+[showcards E:C3]
+
+East plays low. Which card do you play? [choose-card C9]
+
+[showcards W:CK]
+>>>
+
+## Entries 20
+
+Win the diamond and lay down the ♣J: either way you reach dummy's hearts.
+
+<<<
+South is to play 6\S. West leads the \DQ.
+===
+[showcards W:DQ N:D4 E:D7] South is to play 6\S. West leads the \DQ, dummy plays the \D4 and East the \D7.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:DA,DK]
+>>>
+
+<<<
+There is actually a play that is 100% certain, no matter who holds the \CK.
+
+Click NEXT. [NEXT]
+===
+There is actually a play that is 100% certain, no matter who holds the \CK.
+
+[PLAY W:DQ,N:D4,E:D7]
+
+Which card do you lead now? [choose-card CJ]
+>>>

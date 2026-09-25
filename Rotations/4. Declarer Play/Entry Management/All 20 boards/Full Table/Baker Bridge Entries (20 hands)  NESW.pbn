@@ -28,7 +28,7 @@ Winners:   \S=0  \H=5  \D=1  \C=2  Total = 8
 
 You only need one more winner and your \S K Q will provide it. So, is there anything that could go wrong? - - Like could you mess up your entry?
 
-Suppose you play the \CJ from dummy on the first trick. And then suppose East puts the \CQ on. If you take your \CA you have used your entry to the \S K Q before you established one of them. But if you don't take the trick West will play another \C to remove dummy's \CK with the same effect. So what should you do?
+Suppose you play the \CJ from dummy on the first trick. And then suppose East puts the \CQ on. If you take your \CA you have used your entry to the \S K Q before you established one of them. But if you don't take the trick West will play another \C to remove dummy's \CK with the same effect. So what should you do?  
 
 It's easy once you think about it. Just win the opening lead with dummy's \CK. Then, while it's fresh in your mind play to your \S K Q to establish the one extra winner you need. Then it's just a question of taking your winners.
 
@@ -98,11 +98,15 @@ D5
 
 Winners:   \S=2  \H=0  \D=1  \C=1  Total = 4
 
-Looks like you're going to need some \D tricks. Lots of them. And it also looks like you are going to have to be very careful with entries, which shouldn't surprise you at this time. So what is your first key move?
+Looks like you're going to need some \D tricks. Lots of them. And it also looks like you are going to have to be very careful with entries, which shouldn't surprise you at this time. So what is your first key move?  
 
 The \C situation is exactly the same as the \Ds in Deal 2, but flipped North to South. And you must handle it exactly the same way - jump up with the \CA right away to preserve the \C Q J combination as a sure entry to your hand.
 
 Having done that, are your problems (and thinking) over?
+
+Everyone follows low. 
+
+East plays low.  
 
 Not quite, there is one more hurdle to hurdle. You must put all thought of a \D finesse far out of your mind. Play \DA, then \D10, overtaking with \DJ and continuing the suit until the King appears. Now you should be able to come to 9 tricks unless there is a very unfortunate distribution which lets the defenders score 3 \H tricks along with their 1 \C and 1 \D.
 
@@ -136,6 +140,8 @@ Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
 There is nothing to be done about the 2 \Cs you've already lost, and the \D loser is also inescapable. So you cannot afford a \S loser which means you will have to find the \SK with South and finesse him out of it.
 
 That won't be a problem, will it?
+
+North continues with the \CQ; dummy plays the \CJ and South the \C10.  
 
 No, no problem. You will probably have to finesse twice so you will need two dummy entries, but the trump suit will provide both of those, the \HA and \H7, as long as you saved your \H5 for the second entry. Wait a minute, you surely didn't ruff that \C with your \H5 did you? Surely you ruffed with the \H8?
 
@@ -172,6 +178,8 @@ Winners:   \S=1  \H=2  \D=1  \C=5  Total = 9
 
 Wow! The winners add up to 9 already. We have assumed that \Cs will split no worse than 3-1, which is exactly how they do split. Is there any other pitfall you might need to worry about?
 
+You win the \SA.  
+
 Just one minor problem. The \Cs will block if you are not careful! So you win the \SA, then play dummy's \CQ. Next you play dummy's \C8 to your \CK. Then your \CA on which you put dummy's \C7. Aha! Now when you play your \C6 you will be able to keep the lead.
 
 If the \C5 and \C6 were swapped around the contract could not be made.
@@ -205,7 +213,7 @@ Winners:   \S=3  \H=1  \D=1  \C=2  Total = 7
 
 Needing two winners you will naturally consider your 5-card \C suit. After unblocking the \C A K you will need two entries to your hand; one to lead the \CJ and drive out the \CQ, then a second to enjoy your good \Cs.
 
-The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?
+The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?  
 
 No, for two reasons. Firstly the \HQ only gives you a 50% chance of being an entry. But more importantly, you already have your two sure entries in \Ss. As long as you take the first trick with dummy's \SA both your \SK and  \SJ can be entries.
 
@@ -240,7 +248,7 @@ pass pass 2NT pass 3NT pass pass pass
 
 Winners:   \S = 1    \H = 1  \D = 4?    \C = 3 Total = 9
 
-Although you have 4 \D winners, getting to the last couple might not be so easy. You can make 3 \D tricks simply by winning your \DA, then overtaking your \DJ with dummy's \DQ. But you need that fourth \D winner. Can you get it?
+Although you have 4 \D winners, getting to the last couple might not be so easy. You can make 3 \D tricks simply by winning your \DA, then overtaking your \DJ with dummy's \DQ. But you need that fourth \D winner. Can you get it?  
 
 Sure you can, by creating an entry in \Cs. It is likely from the opening lead, (and East's play of a small card), that West has led from \C Q 10 7 5. If you win the first trick cheaply then you will still make your \C A K for three \C tricks in all.
 
@@ -283,6 +291,8 @@ So you will have to get 3 extra \C winners, which means the \C finesse absolutel
 
 In addition to lucky, you are going to have to be pretty good, too. You will surely have to finesse the \Cs at least twice; that means you need two dummy entries. Can you find them?
 
+You won the second \S.  
+
 Maybe in \Ds. Play the \DK, then \DQ, watching the defender's cards carefully. When both follow twice you know there is only a single \D left out, so you play the \DJ to dummy's \DA. Now take the \C finesse. It works! Next play your \D5 to dummy's \D6 and take another \C finesse. Both defenders follow so your \Cs are good.
 
 If the \Ds split 4-1 you would have found out when you cashed the \D K Q.
@@ -310,13 +320,15 @@ SQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{North is to play 6\C. East leads the \DQ.
+{North is to play 6\C. East leads the \DQ, dummy plays the \D3 and West the \D4.
 
 Losers:   \S=0  \H=2  \D=1  \C=0  Total = 3
 
 Partner's hand didn't turn out to be what you hoped for, you had in mind maybe the \HK and \DQ.
 
 But this is what you got. First, be thankful East led a \D rather than a \H. Second, see if you can find a way to fight yourself over to dummy and those three beautiful \Ss.
+
+East plays the \C10, dummy the \C8 and West the \C2.
 
 You have two possibilities for a \C entry, but you can only try one of them as you will see.
 
@@ -359,6 +371,8 @@ This is the kind of hand that can get really messy if you aren't careful. You co
 
 All in all a much better plan is to use dummy's \C suit after you unblock the Ace. The only flaw with that idea is that when you ruff the \S, unblock the \CA, then play two rounds of trumps ending in dummy, there will still be a trump left out. And the defender might ruff a \C before you can take the discards you need. Do you see a way around this?
 
+South continues with the \SK.  
+
 Do NOT ruff the second \S in dummy, just discard a \D. If South plays a third \S you will ruff in your hand, then unblock the \CA, then pull trumps in 3 rounds ending in dummy. And run all those \C tricks. If South plays a trump or a \C the result will be the same. The defense can get one \D trick if they take it right now, but you still make your contract.
 
 It is an important concept. When you have to use a trump as a later entry you could thwart your own plan by ruffing.}
@@ -384,11 +398,11 @@ SA
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{South is to play 3NT. West leads the \C3, East plays the \CA.
+{South is to play 3NT. West leads the \C3, dummy plays the \C7 and East the \CA.
 
 Winners:   \S=1  \H=2  \D=1  \C=2  Total = 6
 
-You have the possibility of one additional \S winner if West holds the \SK. However, \Ds is your best suit and if East holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?
+You have the possibility of one additional \S winner if West holds the \SK. However, \Ds is your best suit and if East holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?  
 
 Well, you probably do. West's small \C lead probably indicates an honor, and with East playing the \CA you can be pretty sure that West holds the \CJ. So by playing your \CK underneath the \CA you set up a second entry to dummy via the \C finesse.
 
@@ -419,7 +433,7 @@ C3
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{West is to play 3NT. North leads the \D5, South plays the \DQ.
+{West is to play 3NT. North leads the \D5, dummy plays the \D4 and South the \DQ.
 
 Winners:   \S=0  \H=3  \D=1  \C=1  Total = 5
 
@@ -493,7 +507,7 @@ H4
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{East is to play 3NT. South leads the \S9, and North plays the \SK.
+{East is to play 3NT. South leads the \S9, dummy plays the \S10 and North the \SK.
 
 Winners:   \S=3  \H=2  \D=1  \C=0  Total = 6
 
@@ -575,9 +589,17 @@ H3
 
 Winners:   \S=1  \H=0  \D=2  \C=3  Total = 6
 
-You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem?
+You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem?  
 
-Don't win the first trick with the \C9, win with the \CK. Then at trick two enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure North has led from the \CQ so you expect this to work. Then play the \ST, underplaying your \S8. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
+Don't win the first trick with the \C9, win with the \CK.
+
+North plays low.  
+
+At trick two you enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure North has led from the \CQ so you expect this to work. 
+
+South plays low.  
+
+Lead the \S10 (or \SQ) and underplay it with your \S8 (or \S9), so you stay in dummy. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
 
 This is another twist on the them of winning with a higher card than necessary.
 
@@ -606,7 +628,7 @@ C4
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{North is to play 3NT. East leads the \SQ.
+{North is to play 3NT. East leads the \SQ, dummy plays the \S4 and West the \S3.
 
 Winners:   \S=2  \H=1  \D=2  \C=0  Total = 5
 
@@ -649,6 +671,10 @@ The reason the Winners list shows 1 \S is that the defenders are going to have t
 
 So you only need one more winner really, and if you guess the \C finesse right you will have it. Which way will you finesse, and why?
 
+You win the \D in dummy and play the \SK, which the defenders let hold.  
+
+North plays low.  
+
 You will finesse through North. If he has the \CQ you will win all 3 \C tricks, but if South has the \CQ you may win even more. Just watch.
 
 Win the opening \D lead in dummy. Play the \SK which the defenders are not about to take while you have a \C entry to your hand. Now play the \CT and pass it to South. If South takes the \CQ then you will have TWO entries to your hand, one to get there for a \S lead, and the other to reach the \S winners after you have driven out the \SA. But if South DOESN'T take the \CQ, or if North actually has it, then you will have 3 \C tricks and your contract.
@@ -676,13 +702,19 @@ D2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{South is to play 6NT. West leads the \ST.
+{South is to play 6NT. West leads the \ST, dummy plays the \S6 and East the \S3.
 
 Winners:   \S=2  \H=5  \D=2  \C=1  Total = 10
 
 You need two more winners and the best bet is to try to pick up three \C tricks. You will need the \CK and \CQ to lie in different hands, or both of them to be with East. That is about a 75% chance.
 
 But you may need to make 3 finesses, so that means 3 entries to dummy, all of which must be in the \H suit. Can it be done?
+
+You win the \S lead in your hand, then lead the \HK and West plays low.  
+
+East follows with the \H6. 
+
+East plays low.  
 
 Of course it can. Win the \S lead in your hand and play the \HK, overtaking with dummy's \HA. Now play a \C to your \C9, which loses to West's \CK. West plays another \S.
 
@@ -715,7 +747,7 @@ ST
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{Pretty bold bidding by West, but partner DID make a positive response. West is to play 6\S. North leads the \DQ.
+{Pretty bold bidding by West, but partner DID make a positive response.  West is to play 6\S. North leads the \DQ, dummy plays the \D4 and South the \D7.
 
 Losers:   \S=0  \H=0  \D=2  \C=1  Total = 3
 

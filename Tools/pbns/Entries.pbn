@@ -20,7 +20,7 @@
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \C3.
+[showcards W:C3] South is to play 3NT. West leads the \C3.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -34,11 +34,11 @@ Click [NEXT]
 
 
 
-Suppose you play the \CJ from dummy on the first trick. And then suppose West puts the \CQ on. If you take your \CA you have used your entry to the \S K Q before you established one of them. But if you don't take the trick East will play another \C to remove dummy's \CK with the same effect. So what should you do?
-
-Click [NEXT]
+Suppose you play the \CJ from dummy on the first trick. And then suppose West puts the \CQ on. If you take your \CA you have used your entry to the \S K Q before you established one of them. But if you don't take the trick East will play another \C to remove dummy's \CK with the same effect. So what should you do? Which card do you play from dummy? [choose-card CK]
 
 
+
+[showcards E:C9 S:C2]
 
 It's easy once you think about it. Just win the opening lead with dummy's \CK. Then, while it's fresh in your mind play to your \S K Q to establish the one extra winner you need. Then it's just a question of taking your winners.
 
@@ -124,7 +124,7 @@ D5
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \C4.
+[showcards W:C4] South is to play 3NT. West leads the \C4.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -132,17 +132,33 @@ Make a Plan, then click NEXT. [NEXT]
 
 Winners:   \S = 2    \H = 0  \D = 1    \C = 1 Total = 4
 
-Looks like you're going to need some \D tricks. Lots of them. And it also looks like you are going to have to be very careful with entries, which shouldn't surprise you at this time. So what is your first key move?
-
-Click NEXT. [NEXT]
+Looks like you're going to need some \D tricks. Lots of them. And it also looks like you are going to have to be very careful with entries, which shouldn't surprise you at this time. So what is your first key move? Which card do you play from dummy? [choose-card CA]
 
 
+
+[showcards E:C5 S:C3]
 
 The \C situation is exactly the same as the \Ds in Deal 2, but flipped North to South. And you must handle it exactly the same way - jump up with the \CA right away to preserve the \C Q J combination as a sure entry to your hand.
 
 Having done that, are your problems (and thinking) over?
 
-Click NEXT. [NEXT]
+[PLAY W:C4,E:C5,S:C3]
+
+Which card do you lead from dummy? [choose-card DA]
+
+[showcards E:D2 S:D3 W:D5]
+
+Everyone follows low. [NEXT]
+
+[PLAY E:D2,S:D3,W:D5]
+
+Which card do you lead from dummy now? [choose-card DT]
+
+[showcards E:D4]
+
+East plays low. Which card do you play? [choose-card any:DQ,DJ]
+
+[showcards W:D6]
 
 
 
@@ -189,7 +205,9 @@ There is nothing to be done about the 2 \Cs you've already lost, and the \D lose
 
 That won't be a problem, will it?
 
-Click NEXT. [NEXT]
+[PLAY W:CA,N:C4,E:C5,S:C2,W:CK,N:C9,E:C7,S:C6] [showcards W:CQ N:CJ E:CT]
+
+West continues with the \CQ; dummy plays the \CJ and East the \C10. Which card do you play? [choose-card any:HK,HQ,HJ,H9,H8]
 
 
 
@@ -236,7 +254,9 @@ Winners:   \S = 1    \H = 2  \D = 1    \C = 5 Total = 9
 
 Wow! The winners add up to 9 already. We have assumed that \Cs will split no worse than 3-1, which is exactly how they do split. Is there any other pitfall you might need to worry about?
 
-Click NEXT. [NEXT]
+[PLAY W:S5,N:SA,E:S8,S:S3]
+
+You win the \SA. Which card do you lead from dummy? [choose-card any:CQ,C8,C7]
 
 
 
@@ -273,7 +293,7 @@ S5
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \S5. 
+[showcards W:S5] South is to play 3NT. West leads the \S5. 
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -283,11 +303,11 @@ Winners:   \S = 3    \H = 1  \D = 1    \C = 2 Total = 7
 
 Needing two winners you will naturally consider your 5-card \C suit. After unblocking the \C A K you will need two entries to your hand; one to lead the \CJ and drive out the \CQ, then a second to enjoy your good \Cs.
 
-The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry?
-
-Click NEXT. [NEXT]
+The \S suit will provide one entry easily, but should you depend on the \HQ for the second entry? Which card do you play from dummy? [choose-card SA]
 
 
+
+[showcards E:S3 S:S4]
 
 No, for two reasons. Firstly the \HQ only gives you a 50% chance of being an entry. But more importantly, you already have your two sure entries in \Ss. As long as you take the first trick with dummy's \SA both your \SK and  \SJ can be entries.
 
@@ -324,7 +344,7 @@ pass pass 2NT pass 3NT pass pass pass
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \C5. You play low from dummy and East plays the \C6. 
+[showcards W:C5 N:C2 E:C6] South is to play 3NT. West leads the \C5. You play low from dummy and East plays the \C6. 
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -332,9 +352,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Winners:   \S = 1    \H = 1  \D = 4?    \C = 3 Total = 9
 
-Although you have 4 \D winners, getting to the last couple might not be so easy. You can make 3 \D tricks simply by winning your \DA, then overtaking your \DJ with dummy's \DQ. But you need that fourth \D winner. Can you get it?
-
-Click NEXT. [NEXT]
+Although you have 4 \D winners, getting to the last couple might not be so easy. You can make 3 \D tricks simply by winning your \DA, then overtaking your \DJ with dummy's \DQ. But you need that fourth \D winner. Can you get it? Which card do you play to this first trick? [choose-card any:CA,CK]
 
 
 
@@ -389,7 +407,9 @@ So you will have to get 3 extra \C winners, which means the \C finesse absolutel
 
 In addition to lucky, you are going to have to be pretty good, too. You will surely have to finesse the \Cs at least twice; that means you need two dummy entries. Can you find them?
 
-Click NEXT. [NEXT]
+[PLAY W:SQ,N:S3,E:SK,S:S6,E:S2,S:SA,W:S5,N:S8]
+
+You won the second \S. Which card do you lead now? [choose-card any:DK,DQ,DJ]
 
 
 
@@ -426,9 +446,9 @@ SQ
 [Student "S"]
 {[show NS]
 
-South is to play 6\C. West leads the \DQ.
+[showcards W:DQ N:D3 E:D4] South is to play 6\C. West leads the \DQ, dummy plays the \D3 and East the \D4.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:DA,DK]
 
 
 
@@ -438,7 +458,13 @@ Partner's hand didn't turn out to be what you hoped for, you had in mind maybe t
 
 But this is what you got. First, be thankful West led a \D rather than a \H. Second, see if you can find a way to fight yourself over to dummy and those three beautiful \Ss.
 
-Click NEXT. [NEXT]
+[PLAY W:DQ,N:D3,E:D4]
+
+Which card do you lead now? [choose-card any:C7,C5,C4]
+
+[showcards W:CT N:C8 E:C2]
+
+West plays the \C10, dummy the \C8 and East the \C2.
 
 
 
@@ -493,7 +519,9 @@ This is the kind of hand that can get really messy if you aren't careful. You co
 
 All in all a much better plan is to use dummy's \C suit after you unblock the Ace. The only flaw with that idea is that when you ruff the \S, unblock the \CA, then play two rounds of trumps ending in dummy, there will still be a trump left out. And the defender might ruff a \C before you can take the discards you need. Do you see a way around this?
 
-Click NEXT. [NEXT]
+[PLAY W:SA,N:S9,E:S2,S:S3] [showcards W:SK]
+
+West continues with the \SK. Which card do you play from dummy? [choose-card any:D6,D5]
 
 
 
@@ -528,7 +556,7 @@ SA
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \C3, East plays the \CA.
+[showcards W:C3 N:C7 E:CA] South is to play 3NT. West leads the \C3, dummy plays the \C7 and East the \CA.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -536,9 +564,7 @@ Make a Plan, then click NEXT. [NEXT]
 
 Winners:   \S = 1    \H = 2  \D = 1    \C = 2 Total = 6
 
-You have the possibility of one additional \S winner if West holds the \SK. However, \Ds is your best suit and if East holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them?
-
-Click NEXT. [NEXT]
+You have the possibility of one additional \S winner if West holds the \SK. However, \Ds is your best suit and if East holds the \DK you could gain all three winners that you need from that suit. But of course you need perhaps 2 dummy entries. Do you have them? Which card do you play to this first trick? [choose-card CK]
 
 
 
@@ -577,9 +603,9 @@ C3
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \D5, East plays the \DQ.
+[showcards W:D5 N:D4 E:DQ] South is to play 3NT. West leads the \D5, dummy plays the \D4 and East the \DQ.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card DK]
 
 
 
@@ -591,7 +617,9 @@ It's a shame about that solid \S suit, but if you try to win even a single \S th
 
 So you are going to have to win a lot of \C tricks, and do so without losing the lead. You need dummy entries, and they must be in \Hs.
 
-Click NEXT. [NEXT]
+[PLAY W:D5,N:D4,E:DQ]
+
+Which card do you lead now? [choose-card any:HJ,HK]
 
 
 
@@ -630,9 +658,9 @@ D5
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \H4, you play low in dummy and East plays the \H8.
+[showcards W:H4 N:H3 E:H8] South is to play 3NT. West leads the \H4, you play low in dummy and East plays the \H8.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card HA]
 
 
 
@@ -679,9 +707,9 @@ H4
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \S9, and East plays the \SK.
+[showcards W:S9 N:ST E:SK] South is to play 3NT. West leads the \S9, dummy plays the \S10 and East the \SK.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:S4,S3]
 
 
 
@@ -726,9 +754,9 @@ S9
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \H3, you play dummy's \HJ and East plays the \HQ.
+[showcards W:H3 N:HJ E:HQ] South is to play 3NT. West leads the \H3, you play dummy's \HJ and East plays the \HQ.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card HK]
 
 
 
@@ -736,7 +764,9 @@ Winners:   \S = 0    \H = 1  \D = 4    \C = 1 Total = 6
 
 Unless you want to go down really, really early you had better take your \HK right now. And unless you want to go down almost as early you'd better stay completely away from the \S suit. So that only leaves you the \C suit to get 3 more winners in. East will have to have \CK so you can finesse it. You are also going to have to be smart with entries. Got it?
 
-Click NEXT. [NEXT]
+[PLAY W:H3,N:HJ,E:HQ]
+
+Which card do you lead now? [choose-card any:DK,DQ]
 
 
 
@@ -781,7 +811,7 @@ H3
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \C4, you play dummy's \C5 and East plays the \C7.
+[showcards W:C4 N:C5 E:C7] South is to play 3NT. West leads the \C4, you play dummy's \C5 and East plays the \C7.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -789,13 +819,35 @@ Make a Plan, then click NEXT. [NEXT]
 
 Winners:   \S = 1    \H = 0  \D = 2    \C = 3 Total = 6
 
-You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem?
-
-Click NEXT. [NEXT]
+You'd really like to find 3 winners without broaching that \H suit, so you decide to pin your hopes on the \S finesse. But you have a problem. When you win the first trick with the \C9 your only safe entry to dummy is by leading your \CK to the \CA. And this uses up one of your \C winners! Do you see a way to avoid the problem? Which card do you play to this first trick? [choose-card CK]
 
 
 
-Don't win the first trick with the \C9, win with the \CK. Then at trick two enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure West has led from the \CQ so you expect this to work. Then play the \ST, underplaying your \S8. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
+Don't win the first trick with the \C9, win with the \CK.
+
+[PLAY W:C4,N:C5,E:C7]
+
+Which card do you lead now? [choose-card C9]
+
+[showcards W:C8]
+
+West plays low. Which card do you play from dummy? [choose-card CJ]
+
+[showcards E:C2]
+
+At trick two you enter dummy by playing your \C9 and finessing the \CJ! You are pretty sure West has led from the \CQ so you expect this to work. [NEXT]
+
+[PLAY W:C8,E:C2]
+
+Which card do you lead from dummy? [choose-card any:ST,SQ]
+
+[showcards E:S2]
+
+East plays low. Which card do you play? [choose-card any:S8,S9]
+
+[showcards W:S4]
+
+Lead the \S10 (or \SQ) and underplay it with your \S8 (or \S9), so you stay in dummy. You had better cash the \CA next, then the \SQ, letting it ride if not covered. Finally, one last \S finesse gives you 4 \S winners.
 
 Clickfor the complete Deal. [NEXT]
 
@@ -830,9 +882,9 @@ C4
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \SQ.
+[showcards W:SQ N:S4 E:S3] South is to play 3NT. West leads the \SQ, dummy plays the \S4 and East the \S3.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:SA,SK]
 
 
 
@@ -840,7 +892,9 @@ Winners:   \S = 2    \H = 1  \D = 2    \C = 0 Total = 5
 
 There they are, four perfectly good \H tricks and no straightforward way to reach them. On the other hand, (I should say "In the other hand"), you have the possibility of 6 \D tricks, if the \DQ drops, in which case you won't need the \H tricks at all. Can you work those two possibilities into a strategy?
 
-Click NEXT. [NEXT]
+[PLAY W:SQ,N:S4,E:S3]
+
+Which card do you lead now? [choose-card any:HA,DJ]
 
 
 
@@ -879,9 +933,9 @@ SQ
 [Student "S"]
 {[show NS]
 
-South is to play 3NT. West leads the \D2.
+[showcards W:D2] South is to play 3NT. West leads the \D2.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then choose dummy's card to this trick. [choose-card any:DA,DK,DQ]
 
 
 
@@ -891,7 +945,15 @@ The reason the Winners list shows 1 \S is that the defenders are going to have t
 
 So you only need one more winner really, and if you guess the \C finesse right you will have it. Which way will you finesse, and why?
 
-Click NEXT. [NEXT]
+[PLAY W:D2,E:D3,S:D4,N:SK,E:S2,S:S3,W:S4]
+
+You win the \D in dummy and play the \SK, which the defenders let hold. Which card do you lead from dummy? [choose-card CT]
+
+[showcards E:C2]
+
+East plays low. Which card do you play? [choose-card C3]
+
+[showcards W:CQ]
 
 
 
@@ -928,7 +990,7 @@ D2
 [Student "S"]
 {[show NS]
 
-South is to play 6NT. West leads the \ST.
+[showcards W:ST N:S6 E:S3] South is to play 6NT. West leads the \ST, dummy plays the \S6 and East the \S3.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -940,7 +1002,23 @@ You need two more winners and the best bet is to try to pick up three \C tricks.
 
 But you may need to make 3 finesses, so that means 3 entries to dummy, all of which must be in the \H suit. Can it be done?
 
-Click NEXT. [NEXT]
+[PLAY W:ST,N:S6,E:S3,S:SA] [showcards S:HK W:H2]
+
+You win the \S lead in your hand, then lead the \HK and West plays low. Which card do you play from dummy? [choose-card HA]
+
+[showcards E:H6]
+
+East follows with the \H6. [NEXT]
+
+[PLAY S:HK,W:H2,E:H6]
+
+Which card do you lead from dummy? [choose-card any:C6,C4,C2]
+
+[showcards E:C3]
+
+East plays low. Which card do you play? [choose-card C9]
+
+[showcards W:CK]
 
 
 
@@ -981,9 +1059,9 @@ ST
 [Student "S"]
 {[show NS]
 
-Pretty bold bidding by South, but partner DID make a positive response. South is to play 6\S. West leads the \DQ.
+Pretty bold bidding by South, but partner DID make a positive response. [showcards W:DQ N:D4 E:D7] South is to play 6\S. West leads the \DQ, dummy plays the \D4 and East the \D7.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card any:DA,DK]
 
 
 
@@ -997,7 +1075,9 @@ How about playing \CA an a small \C, planning on ruffing your third \C to get to
 
 There is actually a play that is 100% certain, no matter who holds the \CK.
 
-Click NEXT. [NEXT]
+[PLAY W:DQ,N:D4,E:D7]
+
+Which card do you lead now? [choose-card CJ]
 
 
 

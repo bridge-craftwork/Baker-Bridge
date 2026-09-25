@@ -22,13 +22,19 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{North is to play 6NT. East leads the \ST.
+{North is to play 6NT. East leads the \ST, dummy plays the \S6 and West the \S3.
 
 Winners:   \S=2  \H=5  \D=2  \C=1  Total = 10
 
 You need two more winners and the best bet is to try to pick up three \C tricks. You will need the \CK and \CQ to lie in different hands, or both of them to be with West. That is about a 75% chance.
 
 But you may need to make 3 finesses, so that means 3 entries to dummy, all of which must be in the \H suit. Can it be done?
+
+You win the \S lead in your hand, then lead the \HK and East plays low.  
+
+West follows with the \H6. 
+
+West plays low.  
 
 Of course it can. Win the \S lead in your hand and play the \HK, overtaking with dummy's \HA. Now play a \C to your \C9, which loses to East's \CK. East plays another \S.
 
@@ -61,7 +67,7 @@ ST
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/entry_management"]
 [Student "S"]
-{Pretty bold bidding by East, but partner DID make a positive response. East is to play 6\S. South leads the \DQ.
+{Pretty bold bidding by East, but partner DID make a positive response.  East is to play 6\S. South leads the \DQ, dummy plays the \D4 and North the \D7.
 
 Losers:   \S=0  \H=0  \D=2  \C=1  Total = 3
 
