@@ -28,7 +28,13 @@ Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
 
 The \C lead was terrible for you as it exposes your 2 \C losers before you can establish a \D for a discard. If you start to pull trumps now the defense will grab their \SA, their 2 \Cs and their \DA.   
 
-If you try to establish a \D they will do the same thing, just in a different order. What does that leave you? 
+If you try to establish a \D they will do the same thing, just in a different order. What does that leave you?
+
+You win the \CA in dummy.  
+
+Everyone follows low. 
+
+East plays low.  
 
 Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
 
@@ -67,9 +73,13 @@ pass 1H pass 2H pass 4H pass pass pass
 [Student "S"]
 {South is to play 4\H. West leads the \H3.
 
+ East discards a \S and you play the \H2.
+
 Losers:   \S=0  \H=0  \D=2  \C=3  Total = 5
 
-If East has the \DK, one \D loser can be eliminated by a finesse. And, if East also has the \CA one more loser can be eliminated by leading toward your \CK. The chance of both cards being held by East isn't very good, only about 25%. But dummy has some nice \Ss. Can you use them?   
+If East has the \DK, one \D loser can be eliminated by a finesse. And, if East also has the \CA one more loser can be eliminated by leading toward your \CK. The chance of both cards being held by East isn't very good, only about 25%. But dummy has some nice \Ss. Can you use them?
+
+East plays low.  
 
 Yes, you can establish 2 \S winners for discards, and most importantly, you can do it without letting East into the lead. This is important because if East gets in and plays a \C through your \C K 7 5 it might be a disaster.
 
@@ -102,7 +112,13 @@ pass 1S pass 1NT pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Losers:   \S=0  \H=1  \D=0  \C=3  Total = 4
+{South is to play 4\S. West leads the \HK, dummy plays the \H2 and East the \H3.  
+
+You win the \HA and cash the \SA.  
+
+West plays low. 
+
+Losers:   \S=0  \H=1  \D=0  \C=3  Total = 4
 
 This is a very easy problem to be up here at number 18! Clearly you have to discard one of those 4 losers on the only card dummy has, the \DK.
 
@@ -135,13 +151,19 @@ HK
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{North's 6\H response to Blackwood showed one Ace and a \S void. South is to play 6\H. West leads the \SQ.
+{North's 6\H response to Blackwood showed one Ace and a \S void.  South is to play 6\H. West leads the \SQ.
+
+ East plays the \S8 and you the \S2.
 
 Losers:   \S = ??    \H = 1  \D = 0    \C = 0 Total = 1 ??
 
 Of course you ruff the \S in dummy. West wouldn't underlead an Ace at a slam contract, and since you have a certain trump loser you cannot afford to lose a trick to East's \SA.
 
-Dummy has some great \Ds, but you can't expect to run them unless you have pulled all the trumps. But if you play \H A K 4 the defenders will take their trump trick and immediately set the contract with the \SA. There <b>IS</b> a way around the problem.  
+Dummy has some great \Ds, but you can't expect to run them unless you have pulled all the trumps. But if you play \H A K 4 the defenders will take their trump trick and immediately set the contract with the \SA. There <b>IS</b> a way around the problem.
+
+East plays low.  
+
+West wins with the \HJ.
 
 First off, you must get a 3-2 split in trumps because if they don't split 3-2 you will have two trump losers. So you assume that they are split just like you need them to be.
 
@@ -178,7 +200,7 @@ Losers:   \S=0  \H=0  \D=0  \C=4  Total = 4
 
 There really aren't 4 \C losers since they can be ruffed in dummy. In fact you should see that this is an ideal cross-ruff hand, ruffing \Cs in dummy and \Ds in your hand. Since neither hand can be over-ruffed you expect to make all 8 trumps.
 
-Remember, when playing a cross ruff, you need to take any side suit winners first, otherwise a defender may be able to discard that suit while you are ruffing. So you win the \SA, then take the \SK, then . . . what? 
+Remember, when playing a cross ruff, you need to take any side suit winners first, otherwise a defender may be able to discard that suit while you are ruffing. So you win the \SA, then take the \SK, then . . . what?
 
 Losers:   \S=0  \H=0  \D=0  \C=4  Total = 4
 

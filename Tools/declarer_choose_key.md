@@ -2565,3 +2565,458 @@ Which card do you lead now? [choose-card D5]
 
 You exit with a small \D and East wins. [NEXT]
 >>>
+
+## Trumpmgmt 1
+
+Grab the ♣A at trick 2 and draw trumps, rather than risk the club finesse and ruffs.
+
+<<<
+South is to play 4\S. West leads the \DK. East overtakes with the \DA and returns the \C4.
+===
+[PLAY W:DK,N:D6,E:DA,S:D2] [showcards E:C4] South is to play 4\S. West leads the \DK. East overtakes with the \DA and returns the \C4.
+>>>
+
+<<<
+What could go wrong? [NEXT]
+===
+What could go wrong? Which card do you play? [choose-card CA]
+>>>
+
+<<<
+What could go wrong is that
+===
+[showcards W:C6 N:C3]
+
+What could go wrong is that
+>>>
+
+## Trumpmgmt 2
+
+Win the club and give up a heart at once, before any trumps.
+
+<<<
+The most important question right now is how many rounds of trumps to pull before you give up a \H? [NEXT]
+===
+The most important question right now is how many rounds of trumps to pull before you give up a \H?
+
+[PLAY W:CQ,N:C3,E:C2,S:CA]
+
+You win the \CA. Which card do you lead now? [choose-card any:HQ,HT,H7]
+>>>
+
+## Trumpmgmt 3
+
+From dummy, lead a spade toward your hand at once and put up an honour.
+
+<<<
+South is to play 4\H. West leads the \H7.
+===
+[showcards W:H7 N:HA E:H4 S:H2] South is to play 4\H. West leads the \H7, won by dummy's \HA.
+>>>
+
+<<<
+You are in dummy right now, and you are only going to be in dummy once more. [NEXT]
+===
+You are in dummy right now, and you are only going to be in dummy once more.
+
+[PLAY W:H7,N:HA,E:H4,S:H2]
+
+Which card do you lead from dummy? [choose-card any:S8,S7,S3,S2]
+
+[showcards E:S6]
+
+East plays low. Which card do you play? [choose-card any:SK,SQ]
+
+[showcards W:S5]
+>>>
+
+## Trumpmgmt 4
+
+Lead your spade toward dummy's honours before touching trumps.
+
+<<<
+South is to play 5\D. West leads the \CT. You play dummy's \CJ and East puts on the \CK.
+===
+[showcards W:CT N:CJ E:CK S:CA] South is to play 5\D. West leads the \CT. You play dummy's \CJ and East puts on the \CK; you win the \CA.
+>>>
+
+<<<
+Anything you can think of to do about that? [NEXT]
+===
+Anything you can think of to do about that?
+
+[PLAY W:CT,N:CJ,E:CK,S:CA]
+
+Which card do you lead now? [choose-card S8]
+
+[showcards W:S2]
+
+West plays low. Which card do you play from dummy? [choose-card any:SK,SQ]
+
+[showcards E:SA]
+>>>
+
+## Trumpmgmt 5
+
+Cash the ♦A and ♦K without finessing, keeping trumps in dummy for the cross-ruff.
+
+<<<
+Try something else. [NEXT]
+===
+Try something else.
+
+[PLAY W:CJ,N:C2,E:C3,S:CA,S:D3,W:D2,N:DA,E:DT] [showcards N:D4 E:D6]
+
+You win the \C and cash the \DA. Dummy leads the \D4 and East plays low. Which card do you play? [choose-card DK]
+
+[showcards W:D9]
+>>>
+
+## Trumpmgmt 6
+
+Duck the ♥Q and the ♥J; after three rounds of trumps, leave West's master trump out and
+switch to clubs.
+
+<<<
+South is to play 4\S. West leads the \HQ.
+===
+[showcards W:HQ] South is to play 4\S. West leads the \HQ.
+>>>
+
+<<<
+Do you cover the \HQ or not? [NEXT]
+===
+Do you cover the \HQ or not? Which card do you play from dummy? [choose-card any:H6,H5]
+
+[showcards E:H2 S:H4]
+
+East plays the \H2 and you the \H4. [NEXT]
+
+[PLAY W:HQ,E:H2,S:H4] [showcards W:HJ]
+
+West continues with the \HJ. Which card do you play from dummy? [choose-card any:H6,H5]
+
+[showcards E:H7 S:H9]
+>>>
+
+<<<
+But don't give it to him now!
+===
+[PLAY W:HJ,E:H7,S:H9,W:HT,N:HK,E:HA,S:S4,S:S7,W:S3,N:SA,E:S6,N:S2,E:D7,S:SK,W:S5,S:SQ,W:ST,N:S8,E:D9]
+
+Which card do you lead now? [choose-card any:CA,CK,C6]
+
+[showcards W:C3]
+
+But don't give it to him now!
+>>>
+
+## Trumpmgmt 7
+
+Unblock the ♥A before trumps, then lead small trumps toward dummy's ♠10-8.
+
+<<<
+Can you? [NEXT]
+===
+Can you?
+
+[PLAY W:DQ,N:D2,E:D5,S:DA]
+
+You win the \DA. Which card do you lead now? [choose-card HA]
+
+[showcards W:H2 N:H6 E:H3]
+
+Everyone follows. [NEXT]
+
+[PLAY W:H2,N:H6,E:H3]
+
+Which card do you lead now? [choose-card any:S5,S3]
+
+[showcards W:S4 N:S8 E:SJ]
+
+East wins the \SJ.
+>>>
+
+## Trumpmgmt 8
+
+Win trick 1 in dummy, then lead a heart for the deep finesse of the ♥9.
+
+<<<
+South is to play 5\C. West leads the \SJ.
+===
+[showcards W:SJ N:SQ E:S2 S:S9] South is to play 5\C. West leads the \SJ; dummy wins with the \SQ, East plays the \S2 and you the \S9.
+>>>
+
+<<<
+Should you pull trumps right away? [NEXT]
+===
+Should you pull trumps right away?
+
+[PLAY W:SJ,N:SQ,E:S2,S:S9]
+
+Which card do you lead from dummy? [choose-card any:H6,H4,H3]
+
+[showcards E:H2]
+
+East plays low. Which card do you play? [choose-card H9]
+
+[showcards W:HQ]
+>>>
+
+## Trumpmgmt 9
+
+After West shows out in trumps, drive out East's trump winners with small trumps.
+
+<<<
+Time for a change in plans? [NEXT]
+===
+Time for a change in plans?
+
+[PLAY W:DK,N:DA,E:D2,S:D6,N:H6,E:H2,S:HA,W:H4,S:HK,W:D3,N:H8,E:HT]
+
+Which card do you lead now? [choose-card any:H9,H7,H5,H3]
+>>>
+
+## Trumpmgmt 10
+
+Win the ♣A and lead toward the diamonds twice before touching trumps.
+
+<<<
+So after you win your \CA do you play a trump? [NEXT]
+===
+So after you win your \CA do you play a trump?
+
+[PLAY W:CJ,N:C4,E:C2,S:CA]
+
+Which card do you lead now? [choose-card any:D7,D4]
+
+[showcards W:D5]
+
+West plays low. Which card do you play from dummy? [choose-card any:DQ,DK]
+
+[showcards E:D2]
+>>>
+
+## Trumpmgmt 11
+
+Dummy reversal: ruff dummy's spades high in your hand.
+
+<<<
+South is to play 4\H. West leads the \SK, taken by dummy's \SA.
+===
+[showcards W:SK N:SA E:S4 S:ST] South is to play 4\H. West leads the \SK, taken by dummy's \SA.
+>>>
+
+<<<
+If you don't see a better Plan than these two, just put yourself in Dummy's seat and pretend you are playing 4\H from that side of the table. [NEXT]
+===
+If you don't see a better Plan than these two, just put yourself in Dummy's seat and pretend you are playing 4\H from that side of the table.
+
+[PLAY W:SK,N:SA,E:S4,S:ST] [showcards N:S2 E:S8]
+
+Dummy leads a \S and East plays low. Which card do you play? [choose-card any:HA,HK,HJ]
+
+[showcards W:S3]
+>>>
+
+## Trumpmgmt 12
+
+Win the ♦A and lead a club from hand at once: no finesse, no trumps.
+
+<<<
+What else might you try? [NEXT]
+===
+What else might you try?
+
+[PLAY W:DK,N:D2,E:D3,S:DA]
+
+You win the \DA. Which card do you lead now? [choose-card any:CQ,CJ,CA]
+>>>
+
+## Trumpmgmt 13
+
+Ruff your third diamond with dummy's ♥A, not the ♥5.
+
+<<<
+Next play your \D3. East plays the \DQ and you do what? [NEXT]
+===
+[PLAY W:CK,N:CA,E:C3,S:C5,N:DK,E:D5,S:D2,W:D4,N:D8,E:DJ,S:DA,W:D7] [showcards S:D3 W:DQ]
+
+Next you play your \D3 and West plays the \DQ. Which card do you play from dummy? [choose-card HA]
+
+[showcards E:C7]
+>>>
+
+## Trumpmgmt 14
+
+Ruff the fourth club with dummy's ♠9, over West's ♠7.
+
+<<<
+So you should plan to ruff the fourth \C in dummy.   [NEXT]
+===
+So you should plan to ruff the fourth \C in dummy.
+
+[PLAY W:HA,N:H3,E:H6,S:HJ,W:HK,N:H5,E:H7,S:HQ,W:HT,N:H9,E:H8,S:ST,S:CA,W:C9,N:C2,E:C5,S:CK,W:CQ,N:C4,E:C8,S:C3,W:H4,N:C7,E:CJ] [showcards E:CT S:C6 W:S7]
+
+You ruff the third \H, cash the \C A K and give up a \C to East, West discarding a \H. East leads his last \C, you follow and West ruffs with the \S7. Which card do you play from dummy? [choose-card S9]
+>>>
+
+## Trumpmgmt 15
+
+Ruff the third heart and duck a club before drawing two rounds of trumps.
+
+<<<
+So you should plan to ruff the fourth \C in dummy.   [NEXT]
+===
+So you should plan to ruff the fourth \C in dummy.
+
+[PLAY W:HA,N:H3,E:H6,S:HJ,W:HK,N:H5,E:H7,S:HQ,W:HT,N:H9,E:H8,S:ST]
+
+You ruff the third \H. Which card do you lead now? [choose-card any:C6,C3]
+
+[showcards W:C9 N:C2 E:C5]
+
+West wins with the \C9.
+>>>
+
+## Trumpmgmt 16
+
+Win the ♣A in dummy, cash the ♥K, then finesse the ♥J for a club discard.
+
+<<<
+What does that leave you? [NEXT]
+===
+What does that leave you?
+
+[PLAY W:CK,N:CA,E:C7,S:C4]
+
+You win the \CA in dummy. Which card do you lead from dummy? [choose-card HK]
+
+[showcards E:H3 S:H2 W:H4]
+
+Everyone follows low. [NEXT]
+
+[PLAY E:H3,S:H2,W:H4]
+
+Which card do you lead from dummy? [choose-card H6]
+
+[showcards E:H8]
+
+East plays low. Which card do you play? [choose-card HJ]
+
+[showcards W:H5]
+>>>
+
+## Trumpmgmt 17
+
+Win the heart in dummy, lead a spade honour and discard a club loser on it.
+
+<<<
+South is to play 4\H. West leads the \H3.
+===
+[showcards W:H3] South is to play 4\H. West leads the \H3.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card any:HQ,HJ]
+>>>
+
+<<<
+Losers:
+===
+[showcards E:S2 S:H2] East discards a \S and you play the \H2.
+
+Losers:
+>>>
+
+<<<
+But dummy has some nice \Ss. Can you use them?   [NEXT]
+===
+But dummy has some nice \Ss. Can you use them?
+
+[PLAY W:H3,E:S2,S:H2]
+
+Which card do you lead from dummy? [choose-card any:SQ,SJ,ST]
+
+[showcards E:S4]
+
+East plays low. Which card do you play? [choose-card any:C7,C5]
+
+[showcards W:SA]
+>>>
+
+## Trumpmgmt 18
+
+Win the ♥A, cash one trump, and unblock the ♦A-Q before crossing to dummy's ♠K.
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+[showcards W:HK N:H2 E:H3] South is to play 4\S. West leads the \HK, dummy plays the \H2 and East the \H3. Make a Plan, then play a card from your hand. [choose-card HA]
+
+[PLAY W:HK,N:H2,E:H3,S:SA,W:S3,N:S6,E:S2]
+
+You win the \HA and cash the \SA. Which card do you lead now? [choose-card any:DA,DQ]
+
+[showcards W:D4]
+
+West plays low. [NEXT]
+>>>
+
+## Trumpmgmt 19
+
+Ruff the spade in dummy, then duck a round of trumps.
+
+<<<
+South is to play 6\H. West leads the \SQ.
+===
+[showcards W:SQ] South is to play 6\H. West leads the \SQ.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card any:HT,H9,H6]
+>>>
+
+<<<
+Losers:
+===
+[showcards E:S8 S:S2] East plays the \S8 and you the \S2.
+
+Losers:
+>>>
+
+<<<
+There <b>IS</b> a way around the problem.  [NEXT]
+===
+There <b>IS</b> a way around the problem.
+
+[PLAY W:SQ,E:S8,S:S2]
+
+Which card do you lead from dummy? [choose-card any:HT,H9,H6]
+
+[showcards E:H5]
+
+East plays low. Which card do you play? [choose-card any:H8,H7,H4]
+
+[showcards W:HJ]
+
+West wins with the \HJ.
+>>>
+
+## Trumpmgmt 20
+
+Take only the two top spades you need, then the minor aces, before the cross-ruff.
+
+<<<
+So you win the \SA, then take the \SK, then . . . what? [NEXT]
+===
+So you win the \SA, then take the \SK, then . . . what?
+
+[PLAY W:SJ,N:SA,E:S5,S:S2,N:SK,E:S6,S:S4,W:S3]
+
+Which card do you lead from dummy? [choose-card any:DA,C5]
+>>>
