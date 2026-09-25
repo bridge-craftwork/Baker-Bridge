@@ -86,6 +86,13 @@ get_partnership_name() {
     esac
 }
 
+# html2pdf stamps each PDF with the wall-clock time, so every run rewrote all ~50 intros.
+# Pin the stamps to the epoch, the date the rest of the build's PDFs carry. Same length,
+# so the PDF's byte offsets are untouched.
+pin_pdf_dates() {
+    perl -0777 -pi -e 's/(\/(?:Creation|Mod)Date \(D:)\d{14}/${1}19700101000000/g' "$1"
+}
+
 # Create temp directory for preprocessed files
 TEMP_DIR=$(mktemp -d)
 trap "rm -rf $TEMP_DIR" EXIT
@@ -151,8 +158,13 @@ SVGEOF
         s|<img src=\"\.\./tvs\.gif\"[^/]*/?>|${BAR_SVG}|g
     " "$html_file" > "$temp_file"
 
+    # 5. Drop the old website's usage instructions ("click BID", "the next page", ...),
+    #    which aren't true in the app or on paper (issue #56)
+    python3 "$SCRIPT_DIR/strip_intro_usage.py" "$temp_file"
+
     # Convert using html2pdf with background printing enabled
     if html2pdf "$temp_file" -o "$pdf_path" --background --paper Letter 2>/dev/null; then
+        pin_pdf_dates "$pdf_path"
         converted=$((converted + 1))
     else
         echo "  Warning: Failed to convert $html_file"
@@ -211,6 +223,7 @@ if [[ -d "$BIDPRACTICE_DIR" ]]; then
         " "$review_file" > "$temp_file"
 
         if html2pdf "$temp_file" -o "$pdf_path" --background --paper Letter 2>/dev/null; then
+            pin_pdf_dates "$pdf_path"
             bp_converted=$((bp_converted + 1))
         else
             echo "    Warning: Failed to convert $review_file"
