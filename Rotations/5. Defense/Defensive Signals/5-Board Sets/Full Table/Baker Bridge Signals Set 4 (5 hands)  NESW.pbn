@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:CK N:CJ]
-
-You are West. The bidding has been as shown. Partner led the \CK, dummy's singleton was played 
+{You are West. The bidding has been as shown. Partner led the \CK, dummy's singleton was played 
 
 Play the \C9.
 
@@ -58,9 +56,7 @@ CK
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:DA N:D3]
-
-You are North. The bidding has been as shown. Partner led the \CA. Seeing your \C3 he next played the \DA. What will you play on this trick?
+{You are North. The bidding has been as shown. Partner led the \CA. Seeing your \C3 he next played the \DA. What will you play on this trick?
 
 Play the \D2.
 
@@ -89,9 +85,7 @@ CA
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards S:CQ]
-
-You are East. The bidding has been as shown. Partner led the \H5, you put on the \HJ, South won with the \HA. The second trick was \DA, \D2, \D3, \D5. The third trick was \DJ, \D6, \D8, \D7. South then put the \CQ on the table.
+{You are East. The bidding has been as shown. Partner led the \H5, you put on the \HJ, South won with the \HA. The second trick was \DA, \D2, \D3, \D5. The third trick was \DJ, \D6, \D8, \D7. South then put the \CQ on the table.
 
 Play the \CA.
 
@@ -122,9 +116,7 @@ H5
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:S5]
-
-You are South. The bidding has been as shown. The 2\H bid was a transfer. The 5NT bid meant to choose either 6\S or 6NT. West liked the suit. Partner led the \S5, won by West's \SQ. West pulls one more trump with his \SA, then wins three high \Ds. Next comes dummy's \HA on which he plays the \H3 and North plays the \H9. Then he leads dummy's \H6 which you win with the \HQ. On this trick West drops the \HJ and North the \H2. It is your play.
+{You are South. The bidding has been as shown. The 2\H bid was a transfer. The 5NT bid meant to choose either 6\S or 6NT. West liked the suit. Partner led the \S5, won by West's \SQ. West pulls one more trump with his \SA, then wins three high \Ds. Next comes dummy's \HA on which he plays the \H3 and North plays the \H9. Then he leads dummy's \H6 which you win with the \HQ. On this trick West drops the \HJ and North the \H2. It is your play.
 
 Play the \HK.
 
@@ -155,9 +147,7 @@ S5
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards W:CA E:C2 S:C9 N:C4]
-
-You are East. The bidding has been as shown. You led the \CA, West played the \C2 and North the \C9. What should you play to the second trick?
+{You are East. The bidding has been as shown. You led the \CA, West played the \C2 and North the \C9. What should you play to the second trick?
 
 Play the \C6.
 

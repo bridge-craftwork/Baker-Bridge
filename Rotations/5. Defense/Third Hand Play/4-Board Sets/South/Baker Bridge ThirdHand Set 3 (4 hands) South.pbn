@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S5 N:S2]
-
-The bidding has been as shown. Partner led the \S5, dummy played the \S2 
+{The bidding has been as shown. Partner led the \S5, dummy played the \S2 
 
 Play the \S7.
 
@@ -58,9 +56,7 @@ S5
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H5 N:H8]
-
-The bidding has been as shown. Partner led the \H5, dummy played the \H8 
+{The bidding has been as shown. Partner led the \H5, dummy played the \H8 
 
 Play the \HQ.
 
@@ -95,9 +91,7 @@ H5
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HQ N:H6]
-
-The bidding has been as shown. Partner led the \HQ, dummy played the \H6 
+{The bidding has been as shown. Partner led the \HQ, dummy played the \H6 
 
 Overtake with the \HK.
 
@@ -128,9 +122,7 @@ HQ
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:SK N:SJ]
-
-The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
+{The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
 
 Ruff partner's \SK.
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:S6]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 Partner led the \H3, you play \H10 and North wins the \HA. North pulls the last two trumps by leading low to dummy's \HQ. He now calls for the \S6. Will you play your \SA or not?
 
@@ -60,9 +58,7 @@ H3
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards W:DJ]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You lead the \DJ and dummy's \DA wins the first trick. Declarer pulls trumps with dummy's \SK, then his \SA. He then plays his \DK and follows with \CQ, \CK and \CA, discarding a \H from his hand on the last.
 

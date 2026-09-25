@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:H5 N:HT]
-
-You are West. The bidding has been as shown. Partner led the \H5, dummy played the \H10 
+{You are West. The bidding has been as shown. Partner led the \H5, dummy played the \H10 
 
 Play the \D3 (or the \S2).
 
@@ -85,9 +83,7 @@ H4
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:DA N:D3]
-
-You are West. The bidding has been as shown. Partner led the \DA, dummy played the \D3 
+{You are West. The bidding has been as shown. Partner led the \DA, dummy played the \D3 
 
 Play the \D2.
 
@@ -116,9 +112,7 @@ DA
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards W:HA E:HQ S:H5 N:H6]
-
-You are West. The bidding has been as shown. You led the \HA, East puts on the \HQ. It's your play. 
+{You are West. The bidding has been as shown. You led the \HA, East puts on the \HQ. It's your play. 
 
 Play the \H2.
 

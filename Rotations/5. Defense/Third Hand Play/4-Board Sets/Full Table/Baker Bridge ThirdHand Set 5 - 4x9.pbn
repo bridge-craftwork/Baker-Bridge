@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S9 N:S6]
-
-The bidding has been as shown. Partner led the \S9, dummy played the \S6 
+{The bidding has been as shown. Partner led the \S9, dummy played the \S6 
 
 Play the \S8 (to signal encouragement).
 
@@ -60,9 +58,7 @@ S9
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:CK N:C2]
-
-The bidding has been as shown. Partner led the \CK, dummy played low 
+{The bidding has been as shown. Partner led the \CK, dummy played low 
 
 Overtake partner's \CK with the \CA.
 
@@ -93,9 +89,7 @@ CK
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:CK N:C7]
-
-The bidding has been as shown. Partner led the \CK, dummy played the \C7 
+{The bidding has been as shown. Partner led the \CK, dummy played the \C7 
 
 Overtake with your \CA.
 
@@ -126,9 +120,7 @@ CK
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:DK N:D2]
-
-The bidding has been as shown. Partner led the \DK, dummy played low 
+{The bidding has been as shown. Partner led the \DK, dummy played low 
 
 Play the \DJ.
 

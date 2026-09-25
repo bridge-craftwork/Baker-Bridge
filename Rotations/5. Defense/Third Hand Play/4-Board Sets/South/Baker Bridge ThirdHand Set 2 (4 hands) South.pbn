@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:S7 N:S3]
-
-The bidding has been as shown. Partner led the \S7, dummy played the \S3 
+{The bidding has been as shown. Partner led the \S7, dummy played the \S3 
 
 Play the \S2.
 
@@ -58,9 +56,7 @@ S7
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H8 N:H6]
-
-The bidding has been as shown. North's 2\H bid shows good \S support with at least 10 points.
+{The bidding has been as shown. North's 2\H bid shows good \S support with at least 10 points.
 
 Partner led the \H8, dummy played the \H6 
 
@@ -93,9 +89,7 @@ H8
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HQ N:H4]
-
-The bidding has been as shown. Partner led the \HQ, dummy played the \H4 
+{The bidding has been as shown. Partner led the \HQ, dummy played the \H4 
 
 Play the \HK.
 
@@ -126,9 +120,7 @@ HQ
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H2 N:HA]
-
-The bidding has been as shown. Partner led the \H2, dummy played the \HA 
+{The bidding has been as shown. Partner led the \H2, dummy played the \HA 
 
 Play the \HQ (or \HK).
 

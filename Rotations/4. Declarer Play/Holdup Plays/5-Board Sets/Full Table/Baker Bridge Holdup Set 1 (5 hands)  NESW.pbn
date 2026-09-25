@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Holdup
 %bridge-classroom-stable: true
@@ -22,11 +22,15 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{North is to play 3NT. East leads the \DK.
+{North is to play 3NT. East leads the \DK, dummy plays the \D2 and West the \D4.
 
 Winners:   \S=4  \H=0  \D=1  \C=1  Total = 6
 
 You need 3 more winners, and they must come from the \H suit. The danger is that when you knock out the \HA, East may take too many \Ds. To exhaust West of \Ds you hold-up your \DA until the third round.
+
+East continues with the \DQ; dummy plays the \D6 and West the \D7.  
+
+East continues with the \DJ; dummy discards the \C3 and West plays the \D9.  
 
 Next you start on \Hs by playing \HK, then overtaking the \H10. Assume that West wins the second \H.
 
@@ -59,9 +63,17 @@ DK
 [Student "S"]
 {East is to play 3NT. South leads the \SK.
 
+ North follows with the \S3 and you play the \S2.
+
 Winners:   \S=1  \H=2  \D=0  \C=2  Total = 5
 
 Even if \Hs split 3-3 you could only get 2 extra winners there, so it should be clear that you must establish the \Ds. You will have to drive out the \DA and hope they don't win too many \Ss at that time. You can help your chances by a hold-up of the \SA until the third round.
+
+South continues with the \SQ.  
+
+North follows with the \S4 and you play the \S8. South continues with the \SJ.  
+
+North follows with the \S9 and you discard the \C3.
 
 Having just taken the third \S trick you now work on \Ds by first playing the \DK, then continuing the suit. North wins the third one with his \DA. And now the good news - he has no \S left to reach his partner's good tricks. So North plays the \HQ.
 
@@ -96,9 +108,13 @@ pass pass 1NT pass 2C pass 2D pass 3NT pass pass pass
 [Student "S"]
 {South is to play 3NT. West leads the \S3. East wins the first trick with the \SA and returns the \S8.
 
+ West plays the \SQ and dummy the \S10.
+
 Winners:   \S=1  \H=2  \D=1  \C=3  Total = 7
 
 You can win 3 more \D tricks if the finesse works, but even if it doesn't work you can still get the 2 that you need. Of course if East does win the \DK it would sure be great if he had no \S to lead. So you duck the second \S and take your \SK when they play a third round.
+
+West continues with the \SJ; dummy discards a \H and East plays the \S6.  
 
 After winning the \SK you are conveniently in your hand, so you play the \DQ and let it ride when West plays a low card. Alas, East takes the trick with his \DK.
 
@@ -129,13 +145,17 @@ S3
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{West is to play 3NT. North leads the \DK.
+{West is to play 3NT. North leads the \DK, dummy plays the \D2 and South the \D6.
 
 Winners:   \S=3  \H=2  \D=1  \C=0  Total = 6
 
 You will need some \C tricks to make the contract. If North has 5 \Ds and also the \CA then you will go down. It doesn't matter if he has the \CQ because you can finesse him out of that.
 
 But in the case where South has both the \C A Q you need to make sure he has no \D when he takes his first trick. So hold up the \DA until the third round, everybody following.
+
+North continues with the \DQ; dummy plays the \D5 and South the \D9.  
+
+North continues with the \DJ; dummy plays the \D7 and South the \D10.  
 
 Now start on the \Cs. Play your \C9 and let it ride. South wins the \CQ and returns a \S. Good, he didn't have the fourth \D.
 
@@ -168,7 +188,7 @@ DK
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{With his 4-3-3-3 distribution South chooses not to bother with Stayman. North is to play 3NT. East leads the \H6. West plays the \HJ.
+{With his 4-3-3-3 distribution South chooses not to bother with Stayman.  North is to play 3NT. East leads the \H6, dummy plays the \H3 and West the \HJ.
 
 Winners:   \S=1  \H=1  \D=3  \C=2  Total = 7
 

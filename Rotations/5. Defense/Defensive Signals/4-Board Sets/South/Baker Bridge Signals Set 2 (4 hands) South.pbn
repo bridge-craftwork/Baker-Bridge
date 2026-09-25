@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:CA N:C2]
-
-You are East. The bidding has been as shown. Partner led the \CA, dummy played the \C2 
+{You are East. The bidding has been as shown. Partner led the \CA, dummy played the \C2 
 
 Play the \C3.
 
@@ -83,9 +81,7 @@ SA
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards S:DJ W:D2 N:D4]
-
-You are East. The bidding has been as shown. Partner led the \HQ, you played low and South won the \HA.
+{You are East. The bidding has been as shown. Partner led the \HQ, you played low and South won the \HA.
 
 South now plays the \DJ on which West plays the \D2. What do you play now, and what is your plan.
 
@@ -118,9 +114,7 @@ HQ
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards S:ST]
-
-You are West. The bidding has been as shown. You led the \H4, East plays the \HJ, won by South with \HA.
+{You are West. The bidding has been as shown. You led the \H4, East plays the \HJ, won by South with \HA.
 
 South plays the \SJ, you follow with \S5, dummy \S3 and East plays the \S2. South continues with the \ST 
 

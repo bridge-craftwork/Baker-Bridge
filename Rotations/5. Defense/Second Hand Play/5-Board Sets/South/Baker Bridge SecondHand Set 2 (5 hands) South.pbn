@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:C3]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You lead the \ST; low cards from North and East, won by South with the \SA.
 
@@ -60,9 +58,7 @@ ST
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards W:DJ]
-
-You are East. The bidding has been as shown, (wild).
+{You are East. The bidding has been as shown, (wild).
 
 Partner led the \DJ; \DQ from dummy, \DK from you and ruffed by South.
 
@@ -99,9 +95,7 @@ DJ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:C9]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You lead the \D5; \D3, \D10 and won by South with \DK. South now leads the \C9 from his hand 
 
@@ -134,9 +128,7 @@ D5
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:DT]
-
-You are East. The bidding has been as shown.
+{You are East. The bidding has been as shown.
 
 Partner led the \H4, won by South's \H8.
 
@@ -171,9 +163,7 @@ H4
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:C6]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You lead the \S7; \S3, \S2 and won by South with \SQ.
 

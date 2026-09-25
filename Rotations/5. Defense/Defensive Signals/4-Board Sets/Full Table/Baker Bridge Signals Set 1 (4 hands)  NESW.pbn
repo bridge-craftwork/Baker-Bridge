@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Signals
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards W:SK E:S7 S:S5 N:S3]
-
-You are East. The bidding has been as shown. You led the \SK, West played the \S7 and North the \S5.
+{You are East. The bidding has been as shown. You led the \SK, West played the \S7 and North the \S5.
 
 What do you play to the second trick?
 
@@ -58,9 +56,7 @@ SK
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards W:SK E:S7 S:S8 N:S3]
-
-You are South. The bidding has been as shown. You led the \SK, North played the \S7 and East the \S8.
+{You are South. The bidding has been as shown. You led the \SK, North played the \S7 and East the \S8.
 
 What do you play to the second trick?
 
@@ -93,9 +89,7 @@ SK
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "E"]
-{[showcards W:CA N:C4]
-
-You are East. The bidding has been as shown. Partner led the \CA, dummy played the \C4 
+{You are East. The bidding has been as shown. Partner led the \CA, dummy played the \C4 
 
 Play the \C8 to encourage a continuation. West will play the \CQ on which you will play the \C2.
 
@@ -124,9 +118,7 @@ CA
 [Difficulty "intermediate"]
 [SkillPath "defense/defensive_signals"]
 [Student "W"]
-{[showcards S:CQ]
-
-You are North. The bidding has been as shown. You led the \D5, South wins the \DQ and returns the \D7. West holds up his \DA until the third round. He then plays the \CQ  
+{You are North. The bidding has been as shown. You led the \D5, South wins the \DQ and returns the \D7. West holds up his \DA until the third round. He then plays the \CQ  
 
 Play the \C8.
 

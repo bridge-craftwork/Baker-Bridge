@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -83,8 +83,6 @@ Then take your 3 \C winners, ending in your hand.
 
 Now play \DQ, \DJ, \D9. Discard the \S5 from dummy on the third \D.  
 
-[showcards N:SQ,HA,H8 E:SJ,S9,H9 S:HJ,H7,D7 W:SK,HQ,HT]
-
 South could afford to throw 2 \Ss and a \H on your \D plays.
 
 But when you play the \D7 he is squeezed.
@@ -134,8 +132,6 @@ With 6 cards left to be played you are ready to apply pressure to East.
 
 Play the \H 9 8, discarding \Ds from dummy. East is not troubled yet, he can discard the \DJ and the \S3. 
 
-[showcards N:SA,SK,SJ,D6 E:SQ,ST,S9,DK S:S8,S7,H6,DQ W:S6,S5,D9,D8]
-
 East is now looking a little nervous, like he has a big target on his back!
 
 Play the \H6 and throw dummy's \D6.
@@ -184,8 +180,6 @@ In case the squeeze becomes necessary you should rectify the count, so you win t
 North takes the \H trick and plays the \D9 which you win with your \DQ.
 
 You now make the key play of taking dummy's \SA before running three rounds of \Cs. 
-
-[showcards N:S2,DA,DK,D8 E:SK,DJ,DT,D7 S:SQ,D5,D4,C7 W:SJ,ST,HQ,D2]
 
 Unblocking the \SA to create a Threat out of your \SQ is the Vienna Coup.
 

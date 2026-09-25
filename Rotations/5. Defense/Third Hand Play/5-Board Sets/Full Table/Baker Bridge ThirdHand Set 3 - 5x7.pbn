@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent ThirdHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HQ N:H6]
-
-The bidding has been as shown. Partner led the \HQ, dummy played the \H6 
+{The bidding has been as shown. Partner led the \HQ, dummy played the \H6 
 
 Overtake with the \HK.
 
@@ -56,9 +54,7 @@ HQ
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:SK N:SJ]
-
-The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
+{The bidding has been as shown. Partner led the \SA, then the \SK. Dummy follows suit and it is your play to the second trick.
 
 Ruff partner's \SK.
 
@@ -89,9 +85,7 @@ SA
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:H8 N:HJ]
-
-The bidding has been as shown. Partner led the \H8, dummy played the \HJ 
+{The bidding has been as shown. Partner led the \H8, dummy played the \HJ 
 
 Play the \H9. South played dummy's \HJ to tempt you to cover. Don't fall for it.
 
@@ -124,9 +118,7 @@ H8
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:C9 N:CT]
-
-The bidding has been as shown. Partner led the \C9, dummy played the \CT 
+{The bidding has been as shown. Partner led the \C9, dummy played the \CT 
 
 Play the \C6.
 
@@ -159,9 +151,7 @@ C9
 [Difficulty "beginner"]
 [SkillPath "defense/third_hand_play"]
 [Student "E"]
-{[showcards W:HT N:HJ]
-
-The bidding has been as shown. Partner led the \H10, dummy played the \HJ 
+{The bidding has been as shown. Partner led the \H10, dummy played the \HJ 
 
 Play the \H6.
 

@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent 2over1
 %bridge-classroom-stable: true
@@ -339,7 +339,7 @@ S3
 [SkillPath "bidding_conventions/two_over_one"]
 [Auction "W"]
 1H Pass 2D Pass 2H Pass 4H Pass Pass Pass
-{How do you start this action? [Bid 1H]
+{How do you start this action? 
 You open 1\H and partner responds 2\D.  What do you rebid? 
 Partner's 2 over 1 bid sets up a game force.
 You have a good-looking hand, but you need to find a trump suit before showing extra strength, so she bids just 2\H.  You are in a game forcing auction, so partner won't pass you.

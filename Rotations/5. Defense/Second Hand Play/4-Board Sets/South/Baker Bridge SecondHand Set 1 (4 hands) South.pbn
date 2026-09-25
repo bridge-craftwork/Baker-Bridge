@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent SecondHand
 %bridge-classroom-stable: true
@@ -23,9 +23,7 @@
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:D5]
-
-You are East. The bidding has been as shown.
+{You are East. The bidding has been as shown.
 
 Partner led the \SJ, won by dummy's \SQ. The \D5 is now played from dummy. What do you play?
 
@@ -54,9 +52,7 @@ SJ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:H2]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 Your lead of the \CJ was won by South with the \CA. South then played the \H2 and you must decide whether to split your honors.
 
@@ -87,9 +83,7 @@ CJ
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "E"]
-{[showcards N:HJ]
-
-You are East. The bidding has been as shown.
+{You are East. The bidding has been as shown.
 
 Partner led the \CK, and you played the \C9 to encourage him. He continued with the \CQ, then a small card to your \CA. You then exit with the \D10, taken by dummy's \DK.
 
@@ -122,9 +116,7 @@ CK
 [Difficulty "intermediate"]
 [SkillPath "defense/second_hand_play"]
 [Student "W"]
-{[showcards S:S4]
-
-You are West. The bidding has been as shown.
+{You are West. The bidding has been as shown.
 
 You lead the \HJ, covered by dummy's \HQ and won by East's \HK. East wins the \HA at the second trick and continues with a small \H ruffed by South.
 

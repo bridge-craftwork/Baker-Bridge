@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Squeeze
 %bridge-classroom-stable: true
@@ -132,8 +132,6 @@ Your \S7 is now worthless so you throw it.
 
 West has no problem, (yet), he discards the \H10. 
 
-[showcards N:S5,HJ,CK,C7 E:SJ,ST,CQ,CT S:SK,CA,C8,C4 W:HQ,CJ,C9,C5]
-
 It is now time to pressure West. 
 
 Play dummy's \S5 to your \SK.
@@ -183,8 +181,6 @@ East guards the \Cs. West guards the \Ss. Nobody can guard the \Hs.
 
 Play 4 rounds of \Ds. 
 
-[showcards N:S9,H6,D4,C8 E:HQ,H9,H8,CJ S:S7,HA,HK,H5 W:SJ,HJ,HT,H7]
-
 On the fourth \D East had to discard a \H. You discarded a small \S. West discarded a \S on the third \D and a \H on the fourth.
 
 Play dummy's \D4. East cannot throw the \CJ or he will set up dummy's \C8, so he discards a \H.
@@ -233,8 +229,6 @@ Play dummy's \HQ and \H10, then ruff a \S, then pull the last trump.
 Now play the \DA, \DK, and \DQ, discarding the \C3 from your hand.
 
 Then lead dummy's \C7 to your \CK. 
-
-[showcards N:ST,CA,C9 E:DJ,D9,CJ S:HA,C8,C6 W:SJ,CQ,CT]
 
 Here you are in your hand.
 

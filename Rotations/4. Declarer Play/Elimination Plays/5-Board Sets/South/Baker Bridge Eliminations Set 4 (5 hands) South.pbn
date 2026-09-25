@@ -1,5 +1,5 @@
 %Creator: CSVtoPBN Version 1.04
-%Created: 2026-07-14 19:59:38
+%Created: 2026-08-30 20:37:38
 %sourcefilename BakerBridgeFull.csv
 %HRTitleEvent Eliminations
 %bridge-classroom-stable: true
@@ -189,8 +189,6 @@ Too bad, the \DA did not fall so dummy's \DK is not a winner. But it will still 
 Play the \HA, then ruff a \H in dummy. Play a trump to your \SA and ruff your last \H.
 
 You are in dummy, just where you want to be. Play the \DK, and when East plays the \DA don't ruff but instead discard a \C from your hand. You knew all along that he held the \DA.
-
-[showcards N:SJ,CK,C5,C3 S:S6,S3,C7,C6]
 
 East is end-played, forced to either break the \Cs and give you a \C trick, or give you a ruff-sluff.
 
