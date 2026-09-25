@@ -32,7 +32,9 @@ Can you see how the squeeze is going to work?
 
 If you try to run your \Ds right away you will have a problem with your \CQ later on. It will be no good as a Threat card because you will have no entry back to your hand.
 
-The solution is the Vienna Coup. Play a \C to the \CA at trick 3.
+East plays low.  
+
+The solution is the Vienna Coup: a \C to the \CA at trick 3.
 
 Then start running the \D suit. 
 
@@ -40,7 +42,9 @@ This is the situation after you have unblocked dummy's \CA and then played 5 \D 
 
 So far neither defender is hurting, but that is about to change.
 
-You play your \D3 and discard dummy's \CT.
+East discards.  
+
+You play your \D3 and discard dummy's \C10.
 
 West is squeezed. He can't throw his \CK without letting your \CQ become a winner. But if he discards a \S dummy's \S5 will win the last trick. This is soooo much fun.}
 [Play "E"]
@@ -77,6 +81,8 @@ Play 5 \H winners and the \SK.
 
 Drum roll please.
 
+South discards.  
+
 Play your \H2 and dump dummy's \D6.
 
 North has no answer.}
@@ -102,7 +108,7 @@ pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{South is to play 7NT. West leads the \HK.
+{South is to play 7NT. West leads the \HK, dummy plays the \H6 and East the \H2.
 
 With 12 obvious tricks your first thought should be that perhaps the \Ss will split 3-3.
 
@@ -125,6 +131,8 @@ But now a completely new possibility shows up. Say to yourself, over and over, "
 You start playing dummy's \D winners. 
 
 With one more \D in dummy, things look like this. 
+
+East discards the \C6.  
 
 When you play the \D5 East must keep both \Ss to guard against your \S7. So he discards the \C6, hoping partner can stop that suit.
 
@@ -183,7 +191,9 @@ Play 4 rounds of \Ds.
 
 On the fourth \D South had to discard a \H. You discarded a small \S. North discarded a \S on the third \D and a \H on the fourth.
 
-Play dummy's \D4. South cannot throw the \CJ or he will set up dummy's \C8, so he discards a \H.
+South discards a \H.  
+
+You play dummy's \D4. South cannot throw the \CJ or he will set up dummy's \C8, so he discards a \H.
 
 You discard the \S7.
 
@@ -224,7 +234,9 @@ Of course you ruffed the \SK.
 
 The big problem with trying to squeeze East in the black suits right now is that West actually holds a \S guard. But you can fix that.
 
-Play dummy's \HQ and \H10, then ruff a \S, then pull the last trump.  
+You draw two rounds of trumps with dummy's \HQ and \H10.  
+
+West plays the \SQ and you ruff. Then you pull the last trump.  
 
 Now play the \DA, \DK, and \DQ, discarding the \C3 from your hand.
 
@@ -234,7 +246,9 @@ Here you are in your hand.
 
 Only East can guard dummy's \ST, and only East can guard dummy's\C9.
 
-So you play your \HA and East must give up one of his guards. If he holds on to the \SJ then you toss dummy's useless \ST. If he throws the \SJ then you toss dummy's \C9.}
+East discards the \C10, holding on to the \SJ.  
+
+You play your \HA and East must give up one of his guards. If he holds on to the \SJ then you toss dummy's useless \ST. If he throws the \SJ then you toss dummy's \C9.}
 [Play "E"]
 SA
 

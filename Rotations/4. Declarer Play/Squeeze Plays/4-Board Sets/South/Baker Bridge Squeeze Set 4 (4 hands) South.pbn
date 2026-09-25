@@ -22,7 +22,7 @@ pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{South is to play 7NT. West leads the \HK.
+{South is to play 7NT. West leads the \HK, dummy plays the \H6 and East the \H2.
 
 With 12 obvious tricks your first thought should be that perhaps the \Ss will split 3-3.
 
@@ -45,6 +45,8 @@ But now a completely new possibility shows up. Say to yourself, over and over, "
 You start playing dummy's \D winners. 
 
 With one more \D in dummy, things look like this. 
+
+East discards the \C6.  
 
 When you play the \D5 East must keep both \Ss to guard against your \S7. So he discards the \C6, hoping partner can stop that suit.
 
@@ -103,7 +105,9 @@ Play 4 rounds of \Ds.
 
 On the fourth \D East had to discard a \H. You discarded a small \S. West discarded a \S on the third \D and a \H on the fourth.
 
-Play dummy's \D4. East cannot throw the \CJ or he will set up dummy's \C8, so he discards a \H.
+East discards a \H.  
+
+You play dummy's \D4. East cannot throw the \CJ or he will set up dummy's \C8, so he discards a \H.
 
 You discard the \S7.
 
@@ -144,7 +148,9 @@ Of course you ruffed the \SK.
 
 The big problem with trying to squeeze West in the black suits right now is that East actually holds a \S guard. But you can fix that.
 
-Play dummy's \HQ and \H10, then ruff a \S, then pull the last trump.  
+You draw two rounds of trumps with dummy's \HQ and \H10.  
+
+East plays the \SQ and you ruff. Then you pull the last trump.  
 
 Now play the \DA, \DK, and \DQ, discarding the \C3 from your hand.
 
@@ -154,7 +160,9 @@ Here you are in your hand.
 
 Only West can guard dummy's \ST, and only West can guard dummy's\C9.
 
-So you play your \HA and West must give up one of his guards. If he holds on to the \SJ then you toss dummy's useless \ST. If he throws the \SJ then you toss dummy's \C9.}
+West discards the \C10, holding on to the \SJ.  
+
+You play your \HA and West must give up one of his guards. If he holds on to the \SJ then you toss dummy's useless \ST. If he throws the \SJ then you toss dummy's \C9.}
 [Play "W"]
 SA
 
@@ -183,7 +191,9 @@ From the opening lead of \S3 and East's play of \S5 you should have deduced that
 
 You have 8 winners, and if East holds 4+ \Hs AND 3+ \Ds then only he can guard the two suits.
 
-But how can you squeeze him? 
+But how can you squeeze him?
+
+Dummy's \S10 won the first trick.  
 
 The answer to that question is that <b>YOU</b> cannot squeeze him.
 
@@ -194,6 +204,8 @@ At trick 2 you play a \S.
 Of course West will win this with his \SK.
 
 And he will no doubt continue with the \SA and \S9.
+
+West continues with the \SA and the \S9; dummy discards two \Ds.  
 
 You discard 2 \Ds from dummy and a \C from your hand.
 
@@ -207,7 +219,9 @@ You and dummy both discard a \C and East also must discard a \C.
 
 It doesn't matter what West plays next, lets say it is a \C. 
 
-In your hand with the \CK, you now play the \CA.
+You are in your hand with the \CK.  
+
+You play the \CA.
 
 East is truly squeezed. If he discards a \H, dummy's \H5 will become a winner. but if he discards a \D then you will get a third \D trick and the contract.
 

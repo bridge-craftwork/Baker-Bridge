@@ -3652,3 +3652,728 @@ A low \S from both hands. West doesn't follow suit as East wins with a small car
 ===
 [PLAY E:S6,S:S4,W:H4]
 >>>
+
+## Squeeze 1
+
+The squeeze card: the ♣A.
+
+<<<
+Now you play the \CA.
+===
+Which card do you lead now? [choose-card CA]
+
+[showcards W:C8 N:C4 E:S8]
+
+Now you play the \CA.
+>>>
+
+<<<
+[PLAY E:SJ,E:ST,E:S9,E:S8,E:HJ,W:S7,W:S6,W:CJ,W:C9,W:C8]
+===
+[PLAY E:SJ,E:ST,E:S9,E:S8,E:HJ,W:S7,W:S6,W:CJ,W:C9,W:C8,N:C4]
+>>>
+
+## Squeeze 3
+
+Rectify the count by ducking the ♣K; then the squeeze card ♥A with dummy's club discard.
+
+<<<
+The problem is that you have to <b>RECTIFY THE COUNT</b>. [NEXT]
+===
+The problem is that you have to <b>RECTIFY THE COUNT</b>. Which card do you play from dummy? [choose-card any:C8,C6]
+
+[showcards E:C7 S:C5]
+>>>
+
+<<<
+[PLAY N:CA,N:C6,E:C7,E:C3,S:CT,S:C5,W:CK,W:CQ]
+===
+[PLAY N:CA,E:C7,E:C3,S:CT,S:C5,W:CK,W:CQ]
+>>>
+
+<<<
+Here is the situation just as you are about to play the Squeeze Card, the \HA.
+===
+Here is the situation. Which card do you lead? [choose-card HA]
+
+[showcards W:HT]
+
+West follows. Which card do you play from dummy? [choose-card any:C8,C6]
+
+[showcards E:D4]
+
+The Squeeze Card is the \HA.
+>>>
+
+<<<
+You will toss dummy's \C8 and East
+===
+You toss dummy's last small \C and East
+>>>
+
+## Squeeze 4
+
+Duck the ♠K to rectify the count; then the squeeze card ♣A, dummy discarding a spade.
+
+<<<
+South is to play 6NT. West leads the \SK.
+===
+[showcards W:SK N:S2 E:S5] South is to play 6NT. West leads the \SK, dummy plays the \S2 and East the \S5.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card S3]
+>>>
+
+<<<
+[showcards N:S7,S4,HA,H3 E:S9,S8,S6,C8 S:SA,SJ,H7,CA W:SQ,ST,HJ,H9]
+===
+>>>
+
+<<<
+When you now play your \CA, discarding a \S from dummy, West is squeezed.
+===
+Which card do you lead now? [choose-card CA]
+
+[showcards W:H9]
+
+West discards the \H9. Which card do you play from dummy? [choose-card any:S7,S4]
+
+[showcards E:C8]
+
+When you play your \CA, discarding a \S from dummy, West is squeezed.
+>>>
+
+## Squeeze 5
+
+Duck the ♥K to rectify the count; then the squeeze card, dummy's ♦J.
+
+<<<
+South is to play 6NT. West leads the \HK.
+===
+[showcards W:HK N:H2 E:H5] South is to play 6NT. West leads the \HK, dummy plays the \H2 and East the \H5.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card any:H8,HT]
+>>>
+
+<<<
+[PLAY N:H4,N:H2,E:H5,E:D2,S:HA,S:H8,W:HK,W:HQ]
+===
+[PLAY N:H4,N:H2,E:H5,E:D2,S:HA,W:HK,W:HQ]
+>>>
+
+<<<
+Now for the squeeze. Play dummy's \DJ and discard your \H10.
+===
+Now for the squeeze. Which card do you lead from dummy? [choose-card DJ]
+
+[showcards E:C4]
+
+East discards. Which card do you play? [choose-card any:HT,H8]
+
+[showcards W:H9]
+
+Play dummy's \DJ and discard your last small \H.
+>>>
+
+## Squeeze 6
+
+Let the ♥K hold; then the squeeze card ♦7, discarding dummy's useless ♠Q.
+
+<<<
+South is to play 6\D. West leads the \HK.
+===
+[showcards W:HK] South is to play 6\D. West leads the \HK.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then choose dummy's card to this trick. [choose-card any:H8,H2]
+>>>
+
+<<<
+[PLAY N:H2,N:D4,E:H3,E:DT,S:H4,S:DA,W:HK,W:D2]
+===
+[PLAY N:D4,E:H3,E:DT,S:H4,S:DA,W:HK,W:D2]
+>>>
+
+<<<
+[showcards N:SQ,HA,H8 E:SJ,S9,H9 S:HJ,H7,D7 W:SK,HQ,HT]
+===
+>>>
+
+<<<
+But when you play the \D7 he is squeezed.
+===
+Which card do you lead now? [choose-card D7]
+
+[showcards W:HT]
+
+West discards the \H10. Which card do you play from dummy? [choose-card SQ]
+
+[showcards E:S9]
+
+When you play the \D7 he is squeezed.
+>>>
+
+## Squeeze 7
+
+The Vienna Coup (dummy's ♦A first); then the squeeze card ♥6, discarding dummy's ♦6.
+
+<<<
+You plan to squeeze East by running the long \Hs in your hand, but the problem is that the \DQ is not a Threat card yet. To make it a Threat you need to unblock dummy's \DA. So play the \DA, then pull trumps with the \H A Q.
+===
+You plan to squeeze East by running the long \Hs in your hand. Which card do you lead from dummy? [choose-card DA]
+
+[showcards E:DT S:D7 W:D3]
+
+The \DQ was not a Threat card yet: to make it a Threat you had to unblock dummy's \DA. Then you pull trumps with the \H A Q.
+>>>
+
+<<<
+[showcards N:SA,SK,SJ,D6 E:SQ,ST,S9,DK S:S8,S7,H6,DQ W:S6,S5,D9,D8]
+===
+>>>
+
+<<<
+Play the \H6 and throw dummy's \D6.
+===
+Which card do you lead now? [choose-card H6]
+
+[showcards W:D8]
+
+West discards. Which card do you play from dummy? [choose-card D6]
+
+[showcards E:S9]
+
+Play the \H6 and throw dummy's \D6.
+>>>
+
+## Squeeze 8
+
+Give up a heart to rectify the count; the Vienna Coup with dummy's ♠A; the squeeze card ♣7.
+
+<<<
+In case the squeeze becomes necessary you should rectify the count, so you win the first trick, pull trumps in two rounds, then give up a \H trick. [NEXT]
+===
+[PLAY W:HK,N:H3,E:H2,S:HA,S:C3,W:C4,N:CK,E:S3,N:CQ,E:S4,S:C2,W:C8]
+
+You win the first trick and pull trumps in two rounds, ending in dummy. Which card do you lead from dummy? [choose-card H9]
+
+[showcards E:HT S:H4 W:HJ]
+
+In case the squeeze becomes necessary you rectify the count by giving up a \H.
+>>>
+
+<<<
+[PLAY N:H9,N:H3,N:CK,N:CQ,E:S4,E:S3,E:HT,E:H2,S:HA,S:H4,S:C3,S:C2,W:HK,W:HJ,W:C8,W:C4]
+===
+[PLAY E:HT,S:H4,W:HJ]
+>>>
+
+<<<
+You now make the key play of taking dummy's \SA before running three rounds of \Cs.
+===
+[PLAY W:D9,N:D6,E:D3,S:DQ]
+
+Which card do you lead now? [choose-card S7]
+
+[showcards W:S5]
+
+West plays low. Which card do you play from dummy? [choose-card SA]
+
+[showcards E:S8]
+
+The key play: taking dummy's \SA before running three rounds of \Cs.
+>>>
+
+<<<
+[showcards N:S2,DA,DK,D8 E:SK,DJ,DT,D7 S:SQ,D5,D4,C7 W:SJ,ST,HQ,D2]
+===
+>>>
+
+<<<
+[PLAY N:SA,N:D6,N:CT,N:C6,N:C5,E:S9,E:S8,E:H8,E:H6,E:D3,S:S7,S:DQ,S:CA,S:CJ,S:C9,W:S6,W:S5,W:H7,W:H5,W:D9]
+===
+[PLAY N:SA,N:CT,N:C6,N:C5,E:S9,E:S8,E:H8,E:H6,S:S7,S:CA,S:CJ,S:C9,W:S6,W:S5,W:H7,W:H5]
+>>>
+
+<<<
+As you see, East was able to find discards on your first three trump leads, but when you play the \C7 and discard dummy's \S2 he is squeezed.
+===
+Which card do you lead now? [choose-card C7]
+
+[showcards W:SJ]
+
+West discards. Which card do you play from dummy? [choose-card S2]
+
+[showcards E:SK]
+
+East was able to find discards on your first three trump leads, but when you play the \C7 and discard dummy's \S2 he is squeezed.
+>>>
+
+## Squeeze 9
+
+Test the clubs before the spades; then the squeeze card ♦A.
+
+<<<
+Win the \DK and (<b>IMPORTANT!</b>) test the \Cs first by playing \C A K Q.
+===
+[PLAY W:DQ,N:D5,E:D8,S:DK]
+
+You win the \DK. Which card do you lead now? [choose-card any:CA,CK,CQ]
+
+[showcards W:C7 N:C3 E:C4]
+
+Win the \DK and (<b>IMPORTANT!</b>) test the \Cs first by playing \C A K Q.
+>>>
+
+<<<
+[PLAY N:S2,N:D5,N:C6,N:C3,E:D8,E:C9,E:C8,E:C4,S:DK,S:CA,S:CK,S:CQ,W:DQ,W:D2,W:CT,W:C7]
+===
+[PLAY N:S2,N:C6,N:C3,E:C9,E:C8,E:C4,S:CA,S:CK,S:CQ,W:D2,W:CT,W:C7]
+>>>
+
+<<<
+Play your \DA. East must give up.
+===
+Which card do you lead now? [choose-card DA]
+
+[showcards W:D4 N:D7 E:S6]
+
+Play your \DA. East must give up.
+>>>
+
+## Squeeze 10
+
+Take the clubs first; then the squeeze card ♠J, discarding dummy's ♦9 when West keeps the ♦10.
+
+<<<
+You are going to now run your black suit winners, but take the \Cs first so you can be playing winners from your hand when you squeeze West.
+===
+Which card do you lead now? [choose-card any:CT,C8,C7,C4]
+
+[showcards W:C3]
+
+You are going to run your black suit winners, taking the \Cs first so you can be playing winners from your hand when you squeeze West.
+>>>
+
+<<<
+[showcards N:HA,HK,H8,D9 E:S9,HJ,H4,D6 S:SJ,H9,H5,H3 W:HQ,HT,H7,DT]
+===
+>>>
+
+<<<
+Play your \SJ and watch what West discards.
+===
+Which card do you lead now? [choose-card SJ]
+
+[showcards W:H7]
+
+West discards the \H7, holding on to the \D10. Which card do you play from dummy? [choose-card D9]
+
+[showcards E:S9]
+
+Play your \SJ and watch what West discards.
+>>>
+
+## Squeeze 11
+
+The Vienna Coup (a club to dummy's ♣A); then the squeeze card ♦3, discarding dummy's ♣10.
+
+<<<
+The solution is the Vienna Coup. Play a \C to the \CA at trick 3.
+===
+Which card do you lead now? [choose-card any:C8,C3]
+
+[showcards W:C6]
+
+West plays low. Which card do you play from dummy? [choose-card CA]
+
+[showcards E:C2]
+
+The solution is the Vienna Coup: a \C to the \CA at trick 3.
+>>>
+
+<<<
+You play your \D3 and discard dummy's \CT.
+===
+Which card do you lead now? [choose-card D3]
+
+[showcards W:HT]
+
+West discards. Which card do you play from dummy? [choose-card CT]
+
+[showcards E:S6]
+
+You play your \D3 and discard dummy's \C10.
+>>>
+
+## Squeeze 12
+
+The squeeze card ♥2, discarding dummy's ♦6.
+
+<<<
+Play your \H2 and dump dummy's \D6.
+===
+Which card do you lead now? [choose-card H2]
+
+[showcards W:D9]
+
+West discards. Which card do you play from dummy? [choose-card D6]
+
+[showcards E:C3]
+
+Play your \H2 and dump dummy's \D6.
+>>>
+
+## Squeeze 13
+
+Win the ♥A; discard the useless ♠7 on dummy's last diamond; then dummy's ♠5 to your ♠K.
+
+<<<
+South is to play 7NT. West leads the \HK.
+===
+[showcards W:HK N:H6 E:H2] South is to play 7NT. West leads the \HK, dummy plays the \H6 and East the \H2.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card HA]
+>>>
+
+<<<
+When you play the \D5 East must keep both \Ss to guard against your \S7.
+===
+Which card do you lead from dummy? [choose-card D5]
+
+[showcards E:C6]
+
+East discards the \C6. Which card do you play? [choose-card S7]
+
+[showcards W:HT]
+
+When you play the \D5 East must keep both \Ss to guard against your \S7.
+>>>
+
+<<<
+[showcards N:S5,HJ,CK,C7 E:SJ,ST,CQ,CT S:SK,CA,C8,C4 W:HQ,CJ,C9,C5]
+===
+>>>
+
+<<<
+Play dummy's \S5 to your \SK.
+===
+Which card do you lead from dummy? [choose-card S5]
+
+[showcards E:ST S:SK W:C5]
+
+Play dummy's \S5 to your \SK.
+>>>
+
+## Squeeze 14
+
+Dummy's ♦4 squeezes East, and your ♠7 discard then squeezes West.
+
+<<<
+[showcards N:S9,H6,D4,C8 E:HQ,H9,H8,CJ S:S7,HA,HK,H5 W:SJ,HJ,HT,H7]
+===
+>>>
+
+<<<
+Play dummy's \D4.
+===
+Which card do you lead from dummy? [choose-card D4]
+
+[showcards E:H8]
+
+East discards a \H. Which card do you play? [choose-card S7]
+
+[showcards W:H7]
+
+You play dummy's \D4.
+>>>
+
+## Squeeze 15
+
+Ruff a spade to transfer the guard to West; then the squeeze card ♥A, dummy discarding
+whichever black card is useless.
+
+<<<
+Play dummy's \HQ and \H10, then ruff a \S, then pull the last trump.
+===
+[PLAY N:HQ,E:H2,S:H8,W:H4,N:HT,E:H5,S:H9,W:H6]
+
+You draw two rounds of trumps with dummy's \HQ and \H10. Which card do you lead from dummy? [choose-card S8]
+
+[showcards E:SQ S:HJ W:S9]
+
+East plays the \SQ and you ruff. Then you pull the last trump.
+>>>
+
+<<<
+[PLAY N:S8,N:HQ,N:HT,N:C5,E:SQ,E:H7,E:H5,E:H2,S:HK,S:HJ,S:H9,S:H8,W:S9,W:S4,W:H6,W:H4]
+===
+[PLAY N:S8,N:C5,E:SQ,E:H7,S:HK,S:HJ,W:S9,W:S4]
+>>>
+
+<<<
+[showcards N:ST,CA,C9 E:DJ,D9,CJ S:HA,C8,C6 W:SJ,CQ,CT]
+===
+>>>
+
+<<<
+So you play your \HA and West must give up one of his guards.
+===
+Which card do you lead now? [choose-card HA]
+
+[showcards W:CT]
+
+West discards the \C10, holding on to the \SJ. Which card do you play from dummy? [choose-card ST]
+
+[showcards E:D9]
+
+You play your \HA and West must give up one of his guards.
+>>>
+
+## Squeeze 16
+
+Lead a spade back at trick 2 (the suicide squeeze); discard clubs; then the squeeze card ♣A.
+
+<<<
+But how can you squeeze him? [NEXT]
+===
+But how can you squeeze him?
+
+[PLAY N:ST,E:S5,S:S4,W:S3]
+
+Dummy's \S10 won the first trick. Which card do you lead from dummy? [choose-card SQ]
+
+[showcards E:S6 S:S7 W:SK]
+>>>
+
+<<<
+[PLAY N:ST,E:S5,S:S4,W:S3]
+
+[clear-commentary]
+
+The answer
+===
+[clear-commentary]
+
+The answer
+>>>
+
+<<<
+You discard 2 \Ds from dummy and a \C from your hand.
+===
+[PLAY W:SA,N:D6,E:S8,S:SJ] [showcards W:S9 N:D3 E:C9]
+
+West continues with the \SA and the \S9; dummy discards two \Ds. Which card do you discard? [choose-card any:C7,C3]
+
+You discard 2 \Ds from dummy and a \C from your hand.
+>>>
+
+<<<
+[PLAY N:D6,N:D3,E:S8,E:C9,S:SJ,S:C3,W:SA,W:S9]
+===
+[PLAY W:S9,N:D3,E:C9]
+>>>
+
+<<<
+In your hand with the \CK, you now play the \CA.
+===
+You are in your hand with the \CK. Which card do you lead now? [choose-card CA]
+
+[showcards W:C6 N:C8 E:D4]
+
+You play the \CA.
+>>>
+
+## Squeeze 17
+
+Ruff a diamond to make the ♦J a threat; then the squeeze card ♣8, discarding dummy's ♠J.
+
+<<<
+Think squeeze instead. Ruff a \D. This turns the \DJ into a Threat card against East's \DQ.
+===
+Think squeeze instead. Which card do you lead from dummy? [choose-card any:D8,D7]
+
+[showcards E:DT S:C7 W:S6]
+
+You ruff a \D. This turns the \DJ into a Threat card against East's \DQ.
+>>>
+
+<<<
+[PLAY N:D7,E:DT,S:C7,W:S6]
+===
+[PLAY E:DT,S:C7,W:S6] [showcards S:CJ W:S9]
+
+You play your \CJ. Which card do you play from dummy? [choose-card any:D8,D7]
+
+[showcards E:ST]
+>>>
+
+<<<
+[showcards N:SJ,HK,H7,DJ E:HJ,HT,H2,DQ S:HA,H6,H3,C8 W:SQ,HQ,H9,H8]
+===
+>>>
+
+<<<
+[PLAY N:H4,N:D8,E:ST,E:S7,S:CJ,S:C9,W:S9,W:H5]
+===
+[PLAY N:H4,E:ST,E:S7,S:CJ,S:C9,W:S9,W:H5]
+>>>
+
+<<<
+You are there. Play your \C8.
+===
+You are there. Which card do you lead now? [choose-card C8]
+
+[showcards W:H8]
+
+West gives up the \H8. Which card do you play from dummy? [choose-card SJ]
+
+[showcards E:H2]
+
+Your \C8 does it.
+>>>
+
+## Squeeze 18
+
+Duck a diamond to rectify the count; a diamond to dummy's ♦K; then dummy's ♥J squeezes East.
+
+<<<
+So you play a low \D from each hand.
+===
+Which card do you lead now? [choose-card any:D6,D3]
+
+[showcards W:DT]
+
+West plays the \D10. Which card do you play from dummy? [choose-card any:D7,D5]
+
+[showcards E:D4]
+
+So you play a low \D from each hand.
+>>>
+
+<<<
+[PLAY N:D5,E:D4,S:D3,W:DT]
+===
+[PLAY E:D4,W:DT]
+>>>
+
+<<<
+Now play a small \D to dummy's \DK. [NEXT]
+===
+Which card do you lead now? [choose-card any:D6,D3]
+
+[showcards W:S3]
+
+West discards. Which card do you play from dummy? [choose-card DK]
+
+[showcards E:D9]
+
+A small \D to dummy's \DK. [NEXT]
+>>>
+
+<<<
+[showcards N:HJ,D7,C8,C6 E:DQ,DJ,CJ,CT S:DA,D8,CQ,C4 W:SJ,S8,S6,S5]
+===
+>>>
+
+<<<
+[PLAY N:DK,E:D9,S:D6,W:S3]
+===
+[PLAY E:D9,W:S3]
+>>>
+
+<<<
+Play dummy's \HJ.
+===
+Which card do you lead from dummy? [choose-card HJ]
+
+You play dummy's \HJ.
+>>>
+
+## Squeeze 19
+
+Let West hold the first trick; then the squeeze card ♥5, discarding dummy's ♠K.
+
+<<<
+What is your first act? [NEXT]
+===
+What is your first act? Which card do you play from dummy? [choose-card any:D8,D5]
+
+[showcards E:D9 S:D3]
+>>>
+
+<<<
+[PLAY N:H4,N:D5,E:H2,E:D9,S:HQ,S:D3,W:H3,W:DK]
+===
+[PLAY N:H4,E:H2,E:D9,S:HQ,S:D3,W:H3,W:DK]
+>>>
+
+<<<
+[showcards N:SK,DA,D8 E:SJ,S8,D4 S:H5,DJ,D6 W:SA,DQ,DT]
+===
+>>>
+
+<<<
+At last you play the \H5, and West is done, he just doesn't know it yet.
+===
+Which card do you lead now? [choose-card H5]
+
+[showcards W:DT]
+
+West bares his \DQ. Which card do you play from dummy? [choose-card SK]
+
+[showcards E:S8]
+
+At last you play the \H5, and West is done, he just doesn't know it yet.
+>>>
+
+## Squeeze 20
+
+The Vienna Coup (dummy's ♦A); then the squeeze card ♠2, discarding dummy's ♣4.
+
+<<<
+You do that by playing the \DA immediately, a Vienna Coup.
+===
+Which card do you lead now? [choose-card D3]
+
+[showcards W:D4]
+
+West plays low. Which card do you play from dummy? [choose-card DA]
+
+[showcards E:D8]
+
+You play the \DA immediately, a Vienna Coup.
+>>>
+
+<<<
+[showcards N:CA,CJ,C4 E:DK,CK,CT S:S2,DJ,CQ W:D6,C9,C8]
+===
+>>>
+
+<<<
+Play your \S2 and discard dummy's \C4.
+===
+Which card do you lead now? [choose-card S2]
+
+[showcards W:C8]
+
+West discards. Which card do you play from dummy? [choose-card C4]
+
+[showcards E:CT]
+
+Play your \S2 and discard dummy's \C4.
+>>>
