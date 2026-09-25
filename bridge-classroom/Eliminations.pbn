@@ -47,11 +47,15 @@ Click NEXT. [NEXT]
 
 
 
-With all the eliminations completed you are ready for the throw-in. Lead a \H from either hand. One of the defenders will win, (you don't care which), and will be end-played.
+With all the eliminations completed you are in your hand. Which card do you lead? [choose-card H3]
+
+[showcards W:HJ N:H6 E:HK]
+
+The throw-in: a \H from either hand. One of the defenders wins (you don't care which), and is end-played.
 
 Click NEXT. [NEXT]
 
-[PLAY N:H6,S:H3]
+[PLAY W:HJ,N:H6,E:HK]
 
 
 
@@ -113,11 +117,15 @@ Click NEXT. [NEXT]
 
 
 
-The eliminations are complete and it is time for the throw-in. Play the small \H from whichever hand you are in. This will be taken by one of the defenders.
+The eliminations are complete and you are in your hand. Which card do you lead? [choose-card H3]
+
+[showcards W:HJ N:H6 E:HK]
+
+It is time for the throw-in: the small \H, taken by one of the defenders.
 
 Click NEXT. [NEXT]
 
-[PLAY N:H6,S:H3]
+[PLAY W:HJ,N:H6,E:HK]
 
 
 
@@ -129,7 +137,7 @@ Click to see the full deal. [NEXT]
 
 [show NESW]
 
-[PLAY S:D6]
+
 
 [clear-commentary]
 
@@ -171,7 +179,7 @@ Win the first trick and play \SA, \SK. Trumps split 2-1.
 
 Click NEXT. [NEXT]
 
-[PLAY N:SK,N:S4,N:H4,N:CK,N:C2,S:SA,S:S3,S:HA,S:CQ]
+[PLAY N:SK,N:S4,N:H4,S:SA,S:S3,S:HA]
 
 
 
@@ -179,15 +187,19 @@ Play three rounds of \Cs to eliminate the suit from you and dummy.
 
 Click NEXT. [NEXT]
 
-[PLAY N:CQ,N:CJ,N:C8,S:CA,S:CK,S:C5]
+[PLAY N:CK,N:C8,N:C2,S:CA,S:CQ,S:C5]
 
 
 
-Now execute the throw-in by leading a \H from either hand.
+You are in your hand. Which card do you lead now? [choose-card H3]
+
+[showcards W:HJ N:H6 E:HK]
+
+You execute the throw-in by leading a \H.
 
 Click NEXT. [NEXT]
 
-[PLAY N:H6,S:H3]
+[PLAY W:HJ,N:H6,E:HK]
 
 
 
@@ -247,11 +259,15 @@ Click NEXT. [NEXT]
 
 
 
-Execute the throw-in by leading a \S.
+Which card do you lead now? [choose-card any:S8,S6,S5]
+
+[showcards W:S4 N:S3 E:ST]
+
+You execute the throw-in by leading a \S.
 
 Click NEXT. [NEXT]
 
-[PLAY N:S3,S:S5]
+[PLAY W:S4,N:S3,E:ST]
 
 
 
@@ -307,11 +323,15 @@ Click NEXT. [NEXT]
 
 
 
-Now exit with a \H. The defenders win this and take another \H trick, leaving this position.
+Which card do you lead now? [choose-card any:HT,H4]
+
+[showcards W:H5 N:H7 E:HK]
+
+You exit with a \H. The defenders win this and take another \H trick, leaving this position.
 
 Click NEXT. [NEXT]
 
-[PLAY N:HQ,N:H7,S:HT,S:H4]
+[PLAY N:HQ,N:H7,S:HT,S:H4,W:H5,E:HK]
 
 
 
@@ -385,13 +405,17 @@ Click NEXT. [NEXT]
 
 
 
-You are ready for the throw-in. Play a \S to East's \SQ.
+You are ready for the throw-in. Which card do you lead? [choose-card any:S8,S7]
+
+[showcards W:C3 N:S6 E:SQ]
+
+A \S to East's \SQ.
 
 Click NEXT. [NEXT]
 
-[showcards N:ST,CK,CT,C2 S:S8,CA,CJ,C7]
 
-[PLAY N:S6,S:S7]
+
+[PLAY W:C3,N:S6,E:SQ]
 
 
 
@@ -449,13 +473,19 @@ Click NEXT. [NEXT]
 
 
 
-Eliminate \Ds by playing \DK, \DA, \DJ. If you are REALLY lucky the \DQ will fall doubleton, but more than likely a defender will win the third \D. He won't be happy about it, though.
+[PLAY N:DK,S:D7,N:D5,S:DA]
+
+You cash the \DK and \DA. Which card do you lead now? [choose-card DJ]
+
+[showcards W:DQ N:D9 E:D4]
+
+You eliminate \Ds with the \DK, \DA and \DJ. If you are REALLY lucky the \DQ will fall doubleton, but more than likely a defender will win the third \D. He won't be happy about it, though.
 
 Click NEXT. [NEXT]
 
-[showcards N:H8,CK,CT,C2 S:HJ,CA,CJ,C4]
 
-[PLAY N:DK,N:D9,N:D5,S:DA,S:DJ,S:D7]
+
+[PLAY W:DQ,N:D9,E:D4]
 
 
 
@@ -529,7 +559,15 @@ Click NEXT. [NEXT]
 
 
 
-At last it is time to play \Cs. Lead a \C from your hand and play dummy's \C9 if West plays low. East will win the trick but will be end-played, forced to either play a \C back to dummy's \C A Q, or give you a ruff-sluff. 
+At last it is time to play \Cs. Which card do you lead? [choose-card any:C7,C6,C4,C3]
+
+[showcards W:C5]
+
+West plays low. Which card do you play from dummy? [choose-card C9]
+
+[showcards E:CT]
+
+A \C from your hand, playing dummy's \C9 when West plays low. East will win the trick but will be end-played, forced to either play a \C back to dummy's \C A Q, or give you a ruff-sluff. 
 
 If West puts on either the \CT or \CJ you play dummy's \CQ. If East can win with the \CK he will once again be end-played, forced to either play a \C back to dummy's \CA 9, or give you a ruff-sluff.
 
@@ -589,11 +627,15 @@ Click NEXT. [NEXT]
 
 
 
-The stage is now set for the throw-in. Be <b>SURE</b> to lead a \D for the throw-in, not a \S.
+The stage is now set for the throw-in. Which card do you lead? [choose-card any:D8,D5]
+
+[showcards W:DT N:D2 E:D3]
+
+Be <b>SURE</b> to lead a \D for the throw-in, not a \S.
 
 Click NEXT. [NEXT]
 
-[PLAY N:D2,S:D5]
+[PLAY W:DT,N:D2,E:D3]
 
 
 
@@ -657,15 +699,23 @@ Click NEXT. [NEXT]
 
 
 
-You want to play the first \C from dummy, so enter dummy with a trump.
+You want to play the first \C from dummy. Which card do you lead? [choose-card any:DT,D8]
+
+[showcards W:H8 N:DJ E:S3]
+
+You enter dummy with a trump.
 
 Click NEXT. [NEXT]
 
-[PLAY N:DJ,S:D8]
+[PLAY W:H8,N:DJ,E:S3] [showcards N:CT E:C6]
 
 
 
-Play the \CT from dummy and let it ride if East does not produce the \CQ or \CK. West will win with one of the honors but will have to return another \C or give you a ruff-sluff.
+Dummy leads the \C10 and East plays low. Which card do you play? [choose-card any:C9,C3]
+
+[showcards W:CQ]
+
+Play the \C10 from dummy and let it ride if East does not produce the \CQ or \CK. West will win with one of the honors but will have to return another \C or give you a ruff-sluff.
 
 Clickfor the full deal. [NEXT]
 
@@ -735,11 +785,15 @@ Click NEXT. [NEXT]
 
 
 
-You have done all the eliminating, time to throw in somebody. Play a \C.
+You have done all the eliminating, time to throw in somebody. Which card do you lead from dummy? [choose-card any:C8,CJ,CQ]
+
+[showcards E:H2 S:C6 W:CK]
+
+You play a \C to throw West in.
 
 Click NEXT. [NEXT]
 
-[PLAY N:C8,S:C6]
+[PLAY E:H2,S:C6,W:CK]
 
 
 
@@ -821,13 +875,21 @@ Click NEXT. [NEXT]
 
 
 
-Conveniently in dummy, you play a \C and insert the \CT if East plays low.
+Conveniently you are in dummy. Which card do you lead from dummy? [choose-card any:C7,C6,C3]
+
+[showcards E:C2]
+
+East plays low. Which card do you play? [choose-card CT]
+
+[showcards W:CJ]
+
+You play a \C from dummy and insert the \C10 when East plays low.
 
 Click NEXT. [NEXT]
 
-[showcards N:HA,H6,C7,C6 S:HK,HQ,CA,CQ]
 
-[PLAY N:C3,S:CT]
+
+[PLAY E:C2,W:CJ]
 
 
 
@@ -883,11 +945,19 @@ Click NEXT. [NEXT]
 
 
 
-You now play the \SJ from dummy and let it ride when East follows with a low card. (If East had covered you would win the Ace then set up a second trick in the suit.)West wins with the \SQ, and guess what?
+Which card do you lead from dummy? [choose-card any:SJ,ST]
+
+[showcards E:S3]
+
+East plays low. Which card do you play? [choose-card any:S9,S6]
+
+[showcards W:SQ]
+
+You play the \SJ from dummy and let it ride when East follows with a low card. (If East had covered you would win the Ace then set up a second trick in the suit.)West wins with the \SQ, and guess what?
 
 Click NEXT. [NEXT]
 
-[PLAY N:SJ,S:S6]
+[PLAY E:S3,W:SQ]
 
 
 
@@ -957,13 +1027,17 @@ Click NEXT. [NEXT]
 
 
 
-Now you administer the coup de gras, you lead a trump.
+Now you administer the coup de grace. Which card do you lead from dummy? [choose-card any:ST,S7]
+
+[showcards E:H3 S:S6 W:SQ]
+
+You lead a trump.
 
 Click NEXT. [NEXT]
 
-[showcards N:ST,DJ,D5,D4 S:SJ,DQ,D8,D7]
 
-[PLAY N:S7,S:S6]
+
+[PLAY E:H3,S:S6,W:SQ]
 
 
 
@@ -1037,13 +1111,23 @@ Click NEXT. [NEXT]
 
 
 
-Now execute the throw-in by leading a \S. If West wins the trick he will have to play \Ds for you or give you a ruff-sluff. So if these are competent defenders they will make sure that it is <b>EAST</b> who wins the \S trick. So he does, and he plays a small \D.
+Which card do you lead now? [choose-card S4]
+
+[showcards W:S2 N:S5 E:S8]
+
+You execute the throw-in by leading a \S. If West wins the trick he will have to play \Ds for you or give you a ruff-sluff. So if these are competent defenders they will make sure that it is <b>EAST</b> who wins the \S trick. So he does, and he plays a small \D.
 
 Click NEXT. [NEXT]
 
-[PLAY N:S5,S:S4]
+[PLAY W:S2,N:S5,E:S8]
 
 
+
+[showcards E:D5]
+
+East leads a small \D. Which card do you play? [choose-card D3]
+
+[showcards W:DQ]
 
 <b>DO NOT PLAY THE JACK!</b> If the finesse is going to work now it will still work one trick later. By playing low you take advantage of the possibility that East held the \D10 and West will have to put on the \DQ to prevent you taking a trick with dummy's \D9.
 
@@ -1091,11 +1175,17 @@ Click NEXT. [NEXT]
 
 
 
-Now eliminate \Hs from your hand and dummy by playing \HK, \HA, \HJ.<b>BUT BE CAREFUL!</b> On the \HJ you must discard a \D from dummy so both of you will be out of \Ds at the throw-in.
+[PLAY N:HK,S:H5,N:HQ,S:HA] [showcards S:HJ W:H8]
+
+You eliminate the \Hs: the \HK, the \HQ overtaken by your \HA, then the \HJ. Which card do you play from dummy? [choose-card any:D9,D8]
+
+[showcards E:H6]
+
+<b>BE CAREFUL!</b> On the \HJ you must discard a \D from dummy so both of you will be out of \Ds at the throw-in.
 
 Click NEXT. [NEXT]
 
-[PLAY N:HK,N:HQ,N:D8,S:HA,S:HJ,S:H5]
+[PLAY S:HJ,W:H8,E:H6]
 
 
 
@@ -1177,7 +1267,15 @@ Click NEXT. [NEXT]
 
 
 
-Now, West is still on lead, and he has nothing in his hand but good \Hs. So he leads one of them, and you <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your own hand. West has now taken his side's third trick. He plays another good \H, and you ruff in dummy and discard the last \D loser from your hand. You can now cross-ruff for the rest of the tricks.
+Now, West is still on lead, and he has nothing in his hand but good \Hs. [showcards W:HQ]
+
+So he leads the \HQ. Which card do you play from dummy? [choose-card C6]
+
+[showcards E:C2]
+
+Which card do you play? [choose-card any:D4,D3]
+
+You <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your hand. West has now taken his side's third trick. He plays another good \H, and you ruff in dummy and discard the last \D loser from your hand. You can now cross-ruff for the rest of the tricks.
 
 Click to see all the hands. [NEXT]
 
@@ -1237,7 +1335,15 @@ Click NEXT. [NEXT]
 
 
 
-So here you are in dummy. Do you finesse the \H now? Of course not. You play the \DJ and discard a small \H from your hand. West wins his \DQ (which his opening lead told you he held) and is end-played. He must lead a \H to your tenace or give you a ruff-sluff.
+So here you are in dummy. Do you finesse the \H now? Which card do you lead from dummy? [choose-card DJ]
+
+[showcards E:D4]
+
+East plays low. Which card do you play? [choose-card H3]
+
+[showcards W:DQ]
+
+Of course not. You play the \DJ and discard a small \H from your hand. West wins his \DQ (which his opening lead told you he held) and is end-played. He must lead a \H to your tenace or give you a ruff-sluff.
 
 Clickfor a view of all four hands. [NEXT]
 
@@ -1299,11 +1405,17 @@ Click NEXT. [NEXT]
 
 Lead a \H to dummy's \HQ. West shows out. Play dummy's last \S. East is now void, so if he ruffs you over-ruff. Otherwise you ruff with a small trump.
 
-Now throw West in (you hope!) with the \CT.
+[PLAY N:S8,N:HQ,S:H5,S:H2]
+
+You are back in your hand. Which card do you lead now? [choose-card CT]
+
+[showcards W:CJ N:C8 E:C2]
+
+Now throw West in (you hope!) with the \C10.
 
 Click NEXT. [NEXT]
 
-[PLAY N:S8,N:HQ,N:C8,S:H5,S:H2,S:CT]
+[PLAY W:CJ,N:C8,E:C2]
 
 
 
@@ -1341,7 +1453,19 @@ CK
 
 South is to play 4\S. West leads the \DQ.  
 
-Make a Plan, then click NEXT. [NEXT]
+[showcards W:DQ] Make a Plan, then choose dummy's card to this trick. [choose-card any:D6,D3]
+
+[showcards E:D2 S:D7]
+
+East plays the \D2 and you the \D7. [NEXT]
+
+[PLAY W:DQ,E:D2,S:D7] [showcards W:DJ]
+
+West continues with the \DJ. Which card do you play from dummy? [choose-card any:D6,D3]
+
+[showcards E:D5 S:SQ]
+
+East plays low and you ruff with the \SQ.
 
 [clear-commentary]
 
@@ -1349,7 +1473,7 @@ Unless West is real beginner East will hold the \DA so you should not try the \D
 
 Click NEXT. [NEXT]
 
-[PLAY N:D6,N:D3,S:SQ,S:D7]
+[PLAY W:DJ,E:D5,S:SQ]
 
 
 
@@ -1373,13 +1497,21 @@ Click NEXT. [NEXT]
 
 
 
-You are in dummy, just where you want to be. Play the \DK, and when East plays the \DA don't ruff but instead discard a \C from your hand. You knew all along that he held the \DA.
+You are in dummy, just where you want to be. Which card do you lead from dummy? [choose-card DK]
+
+[showcards E:DA]
+
+East plays the \DA. Which card do you play? [choose-card any:C7,C6,C4]
+
+[showcards W:DT]
+
+Play the \DK, and when East plays the \DA don't ruff but instead discard a \C from your hand. You knew all along that he held the \DA.
 
 Click NEXT. [NEXT]
 
-[showcards N:SJ,CK,C5,C3 S:S6,S3,C7,C6]
 
-[PLAY N:DK,S:C4]
+
+[PLAY E:DA,W:DT]
 
 
 
@@ -1417,9 +1549,23 @@ DQ
 [Student "S"]
 {[show NS]
 
-After hearing a limit raise, South's leap to 6\H is, well, bold let's say. South plays 6\H. West leads the \S5, East plays the \SK.
+After hearing a limit raise, South's leap to 6\H is, well, bold let's say. [showcards W:S5 N:S6 E:SK] South plays 6\H. West leads the \S5, dummy plays the \S6 and East the \SK.
 
-Make a Plan, then click NEXT. [NEXT]
+Make a Plan, then play a card from your hand. [choose-card SA]
+
+[PLAY W:S5,N:S6,E:SK]
+
+Which card do you lead now? [choose-card DJ]
+
+[showcards W:D7 N:DK E:D2]
+
+Dummy wins the \DK. [NEXT]
+
+[PLAY W:D7,N:DK,E:D2] [showcards N:DA E:D3]
+
+Dummy leads the \DA and East follows. Which card do you play? [choose-card SJ]
+
+[showcards W:D9]
 
 [clear-commentary]
 
@@ -1429,7 +1575,7 @@ Win the \SA, play the \DJ to dummy's \DK and discard the \SJ on dummy's \DA.
 
 Click NEXT. [NEXT]
 
-[PLAY N:S6,N:DA,N:DK,S:SA,S:SJ,S:DJ]
+[PLAY N:DA,E:D3,W:D9]
 
 
 
@@ -1511,19 +1657,27 @@ Now play your 2 \D winners. East and West both follow.
 
 Click NEXT. [NEXT]
 
-[showcards N:SA,S7,S2 S:SQ,S9,S4]
+
 
 [PLAY N:D7,N:D5,S:DA,S:DQ]
 
 
 
-Keeping your fingers crossed that West must win the next trick you play the \S9. West puts on the \ST, you play low in dummy, and East (thankfully) discards a \H. 
+Keeping your fingers crossed that West must win the next trick, which card do you lead? [choose-card any:S9,S4]
+
+[showcards W:ST]
+
+West puts on the \S10. Which card do you play from dummy? [choose-card any:S7,S2]
+
+[showcards E:H2]
+
+East (thankfully) discards a \H. 
 
 Click NEXT. [NEXT]
 
-[showcards N:SA,S7 S:SQ,S4]
 
-[PLAY N:S2,S:S9]
+
+[PLAY W:ST,E:H2]
 
 
 
@@ -1591,13 +1745,17 @@ So far East has followed suit to every trick, meaning he has not discarded a sin
 
 Click NEXT. [NEXT]
 
-[showcards N:S7,HQ,D5,D4 S:S8,HK,HT,D7]
+
 
 [PLAY N:DA,S:D2]
 
 
 
-Play dummy's \S7. East will win, but he has nothing left but \Ss. When he plays another \S you discard your \D loser and ruff in dummy.
+Which card do you lead from dummy? [choose-card S7]
+
+[showcards E:S9 S:S8 W:CT]
+
+Dummy's \S7: East wins, but he has nothing left but \Ss. When he plays another \S you discard your \D loser and ruff in dummy.
 
 Clickfor the complete deal. [NEXT]
 
@@ -1653,11 +1811,15 @@ Click NEXT. [NEXT]
 
 
 
+Which card do you lead from dummy? [choose-card any:DA,D2]
+
+[showcards E:D4]
+
 Next eliminate \Ds by playing \DA then another \D. This does the elimination and throw-in at the same time.
 
 Click NEXT. [NEXT]
 
-[PLAY N:DA,N:D2,S:DQ,S:D7]
+[PLAY N:DA,N:D2,S:DQ,S:D7,E:D4]
 
 
 
@@ -1727,11 +1889,15 @@ Click NEXT. [NEXT]
 
 
 
-Now play a low \S from both hands. West doesn't follow suit as East wins with a small card.
+Which card do you lead from dummy? [choose-card any:S5,S2]
+
+[showcards E:S6 S:S4 W:H4]
+
+A low \S from both hands. West doesn't follow suit as East wins with a small card.
 
 Click NEXT. [NEXT]
 
-[PLAY N:S2,S:S4]
+[PLAY E:S6,S:S4,W:H4]
 
 
 

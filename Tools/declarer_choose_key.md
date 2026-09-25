@@ -3020,3 +3020,635 @@ So you win the \SA, then take the \SK, then . . . what?
 
 Which card do you lead from dummy? [choose-card any:DA,C5]
 >>>
+
+## Eliminations 1
+
+The throw-in: after eliminating clubs, lead a heart.
+
+<<<
+With all the eliminations completed you are ready for the throw-in. Lead a \H from either hand. One of the defenders will win, (you don't care which), and will be end-played.
+===
+With all the eliminations completed you are in your hand. Which card do you lead? [choose-card H3]
+
+[showcards W:HJ N:H6 E:HK]
+
+The throw-in: a \H from either hand. One of the defenders wins (you don't care which), and is end-played.
+>>>
+
+<<<
+[PLAY N:H6,S:H3]
+===
+[PLAY W:HJ,N:H6,E:HK]
+>>>
+
+## Eliminations 2
+
+The throw-in: after eliminating clubs, lead the small heart.
+
+<<<
+The eliminations are complete and it is time for the throw-in. Play the small \H from whichever hand you are in. This will be taken by one of the defenders.
+===
+The eliminations are complete and you are in your hand. Which card do you lead? [choose-card H3]
+
+[showcards W:HJ N:H6 E:HK]
+
+It is time for the throw-in: the small \H, taken by one of the defenders.
+>>>
+
+<<<
+[PLAY N:H6,S:H3]
+===
+[PLAY W:HJ,N:H6,E:HK]
+>>>
+
+The reveal's [PLAY S:D6] names a card South doesn't hold (source data); it goes.
+
+<<<
+[PLAY S:D6]
+===
+>>>
+
+## Eliminations 3
+
+The throw-in with a heart. The source's [PLAY] lists named cards the hands don't hold, so
+the trump and club tricks are corrected.
+
+<<<
+[PLAY N:SK,N:S4,N:H4,N:CK,N:C2,S:SA,S:S3,S:HA,S:CQ]
+===
+[PLAY N:SK,N:S4,N:H4,S:SA,S:S3,S:HA]
+>>>
+
+<<<
+[PLAY N:CQ,N:CJ,N:C8,S:CA,S:CK,S:C5]
+===
+[PLAY N:CK,N:C8,N:C2,S:CA,S:CQ,S:C5]
+>>>
+
+<<<
+Now execute the throw-in by leading a \H from either hand.
+===
+You are in your hand. Which card do you lead now? [choose-card H3]
+
+[showcards W:HJ N:H6 E:HK]
+
+You execute the throw-in by leading a \H.
+>>>
+
+<<<
+[PLAY N:H6,S:H3]
+===
+[PLAY W:HJ,N:H6,E:HK]
+>>>
+
+## Eliminations 4
+
+The throw-in: lead a spade.
+
+<<<
+Execute the throw-in by leading a \S.
+===
+Which card do you lead now? [choose-card any:S8,S6,S5]
+
+[showcards W:S4 N:S3 E:ST]
+
+You execute the throw-in by leading a \S.
+>>>
+
+<<<
+[PLAY N:S3,S:S5]
+===
+[PLAY W:S4,N:S3,E:ST]
+>>>
+
+## Eliminations 5
+
+Exit with a heart rather than guessing the clubs.
+
+<<<
+Now exit with a \H. The defenders win this and take another \H trick, leaving this position.
+===
+Which card do you lead now? [choose-card any:HT,H4]
+
+[showcards W:H5 N:H7 E:HK]
+
+You exit with a \H. The defenders win this and take another \H trick, leaving this position.
+>>>
+
+<<<
+[PLAY N:HQ,N:H7,S:HT,S:H4]
+===
+[PLAY N:HQ,N:H7,S:HT,S:H4,W:H5,E:HK]
+>>>
+
+## Eliminations 6
+
+The throw-in: a spade to East's master ♠Q.
+
+<<<
+You are ready for the throw-in. Play a \S to East's \SQ.
+===
+You are ready for the throw-in. Which card do you lead? [choose-card any:S8,S7]
+
+[showcards W:C3 N:S6 E:SQ]
+
+A \S to East's \SQ.
+>>>
+
+<<<
+[showcards N:ST,CK,CT,C2 S:S8,CA,CJ,C7]
+===
+>>>
+
+<<<
+[PLAY N:S6,S:S7]
+===
+[PLAY W:C3,N:S6,E:SQ]
+>>>
+
+## Eliminations 7
+
+After the ♦K and ♦A, lead the ♦J as the throw-in.
+
+<<<
+Eliminate \Ds by playing \DK, \DA, \DJ.
+===
+[PLAY N:DK,S:D7,N:D5,S:DA]
+
+You cash the \DK and \DA. Which card do you lead now? [choose-card DJ]
+
+[showcards W:DQ N:D9 E:D4]
+
+You eliminate \Ds with the \DK, \DA and \DJ.
+>>>
+
+<<<
+[showcards N:H8,CK,CT,C2 S:HJ,CA,CJ,C4]
+===
+>>>
+
+<<<
+[PLAY N:DK,N:D9,N:D5,S:DA,S:DJ,S:D7]
+===
+[PLAY W:DQ,N:D9,E:D4]
+>>>
+
+## Eliminations 8
+
+Lead a club from hand and play dummy's ♣9 when West plays low.
+
+<<<
+At last it is time to play \Cs. Lead a \C from your hand and play dummy's \C9 if West plays low.
+===
+At last it is time to play \Cs. Which card do you lead? [choose-card any:C7,C6,C4,C3]
+
+[showcards W:C5]
+
+West plays low. Which card do you play from dummy? [choose-card C9]
+
+[showcards E:CT]
+
+A \C from your hand, playing dummy's \C9 when West plays low.
+>>>
+
+## Eliminations 9
+
+The throw-in must be a diamond, not a spade.
+
+<<<
+The stage is now set for the throw-in. Be <b>SURE</b> to lead a \D for the throw-in, not a \S.
+===
+The stage is now set for the throw-in. Which card do you lead? [choose-card any:D8,D5]
+
+[showcards W:DT N:D2 E:D3]
+
+Be <b>SURE</b> to lead a \D for the throw-in, not a \S.
+>>>
+
+<<<
+[PLAY N:D2,S:D5]
+===
+[PLAY W:DT,N:D2,E:D3]
+>>>
+
+## Eliminations 10
+
+Enter dummy with a trump, then let dummy's ♣10 ride.
+
+<<<
+You want to play the first \C from dummy, so enter dummy with a trump.
+===
+You want to play the first \C from dummy. Which card do you lead? [choose-card any:DT,D8]
+
+[showcards W:H8 N:DJ E:S3]
+
+You enter dummy with a trump.
+>>>
+
+<<<
+[PLAY N:DJ,S:D8]
+===
+[PLAY W:H8,N:DJ,E:S3] [showcards N:CT E:C6]
+>>>
+
+<<<
+Play the \CT from dummy and let it ride if East does not produce the \CQ or \CK.
+===
+Dummy leads the \C10 and East plays low. Which card do you play? [choose-card any:C9,C3]
+
+[showcards W:CQ]
+
+Play the \C10 from dummy and let it ride if East does not produce the \CQ or \CK.
+>>>
+
+## Eliminations 11
+
+The throw-in: a club from dummy.
+
+<<<
+You have done all the eliminating, time to throw in somebody. Play a \C.
+===
+You have done all the eliminating, time to throw in somebody. Which card do you lead from dummy? [choose-card any:C8,CJ,CQ]
+
+[showcards E:H2 S:C6 W:CK]
+
+You play a \C to throw West in.
+>>>
+
+<<<
+[PLAY N:C8,S:C6]
+===
+[PLAY E:H2,S:C6,W:CK]
+>>>
+
+## Eliminations 12
+
+From dummy, lead a club and insert the ♣10.
+
+<<<
+Conveniently in dummy, you play a \C and insert the \CT if East plays low.
+===
+Conveniently you are in dummy. Which card do you lead from dummy? [choose-card any:C7,C6,C3]
+
+[showcards E:C2]
+
+East plays low. Which card do you play? [choose-card CT]
+
+[showcards W:CJ]
+
+You play a \C from dummy and insert the \C10 when East plays low.
+>>>
+
+<<<
+[showcards N:HA,H6,C7,C6 S:HK,HQ,CA,CQ]
+===
+>>>
+
+<<<
+[PLAY N:C3,S:CT]
+===
+[PLAY E:C2,W:CJ]
+>>>
+
+## Eliminations 13
+
+Lead dummy's ♠J and let it ride: West wins and is endplayed.
+
+<<<
+You now play the \SJ from dummy and let it ride when East follows with a low card.
+===
+Which card do you lead from dummy? [choose-card any:SJ,ST]
+
+[showcards E:S3]
+
+East plays low. Which card do you play? [choose-card any:S9,S6]
+
+[showcards W:SQ]
+
+You play the \SJ from dummy and let it ride when East follows with a low card.
+>>>
+
+<<<
+[PLAY N:SJ,S:S6]
+===
+[PLAY E:S3,W:SQ]
+>>>
+
+## Eliminations 14
+
+The throw-in with the master trump: lead a trump.
+
+<<<
+Now you administer the coup de gras, you lead a trump.
+===
+Now you administer the coup de grace. Which card do you lead from dummy? [choose-card any:ST,S7]
+
+[showcards E:H3 S:S6 W:SQ]
+
+You lead a trump.
+>>>
+
+<<<
+[showcards N:ST,DJ,D5,D4 S:SJ,DQ,D8,D7]
+===
+>>>
+
+<<<
+[PLAY N:S7,S:S6]
+===
+[PLAY E:H3,S:S6,W:SQ]
+>>>
+
+## Eliminations 15
+
+The throw-in with a spade; then don't play the ♦J on East's diamond lead.
+
+<<<
+Now execute the throw-in by leading a \S.
+===
+Which card do you lead now? [choose-card S4]
+
+[showcards W:S2 N:S5 E:S8]
+
+You execute the throw-in by leading a \S.
+>>>
+
+<<<
+[PLAY N:S5,S:S4]
+===
+[PLAY W:S2,N:S5,E:S8]
+>>>
+
+<<<
+<b>DO NOT PLAY THE JACK!</b>
+===
+[showcards E:D5]
+
+East leads a small \D. Which card do you play? [choose-card D3]
+
+[showcards W:DQ]
+
+<b>DO NOT PLAY THE JACK!</b>
+>>>
+
+## Eliminations 16
+
+On the ♥J, discard a diamond from dummy so both hands are out of diamonds.
+
+<<<
+Now eliminate \Hs from your hand and dummy by playing \HK, \HA, \HJ.<b>BUT BE CAREFUL!</b> On the \HJ you must discard a \D from dummy so both of you will be out of \Ds at the throw-in.
+===
+[PLAY N:HK,S:H5,N:HQ,S:HA] [showcards S:HJ W:H8]
+
+You eliminate the \Hs: the \HK, the \HQ overtaken by your \HA, then the \HJ. Which card do you play from dummy? [choose-card any:D9,D8]
+
+[showcards E:H6]
+
+<b>BE CAREFUL!</b> On the \HJ you must discard a \D from dummy so both of you will be out of \Ds at the throw-in.
+>>>
+
+<<<
+[PLAY N:HK,N:HQ,N:D8,S:HA,S:HJ,S:H5]
+===
+[PLAY S:HJ,W:H8,E:H6]
+>>>
+
+## Eliminations 17
+
+Don't ruff West's good heart: discard a club from dummy and a diamond from hand.
+
+<<<
+So he leads one of them, and you <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your own hand.
+===
+[showcards W:HQ]
+
+So he leads the \HQ. Which card do you play from dummy? [choose-card C6]
+
+[showcards E:C2]
+
+Which card do you play? [choose-card any:D4,D3]
+
+You <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your hand.
+>>>
+
+## Eliminations 18
+
+From dummy, lead the ♦J and discard a heart: West wins and is endplayed.
+
+<<<
+So here you are in dummy. Do you finesse the \H now? Of course not. You play the \DJ and discard a small \H from your hand.
+===
+So here you are in dummy. Do you finesse the \H now? Which card do you lead from dummy? [choose-card DJ]
+
+[showcards E:D4]
+
+East plays low. Which card do you play? [choose-card H3]
+
+[showcards W:DQ]
+
+Of course not. You play the \DJ and discard a small \H from your hand.
+>>>
+
+## Eliminations 19
+
+Throw West in with the ♣10.
+
+<<<
+Now throw West in (you hope!) with the \CT.
+===
+[PLAY N:S8,N:HQ,S:H5,S:H2]
+
+You are back in your hand. Which card do you lead now? [choose-card CT]
+
+[showcards W:CJ N:C8 E:C2]
+
+Now throw West in (you hope!) with the \C10.
+>>>
+
+<<<
+[PLAY N:S8,N:HQ,N:C8,S:H5,S:H2,S:CT]
+===
+[PLAY W:CJ,N:C8,E:C2]
+>>>
+
+## Eliminations 20
+
+Duck the diamonds in dummy; at the end, discard a club on the ♦A instead of ruffing.
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+[showcards W:DQ] Make a Plan, then choose dummy's card to this trick. [choose-card any:D6,D3]
+
+[showcards E:D2 S:D7]
+
+East plays the \D2 and you the \D7. [NEXT]
+
+[PLAY W:DQ,E:D2,S:D7] [showcards W:DJ]
+
+West continues with the \DJ. Which card do you play from dummy? [choose-card any:D6,D3]
+
+[showcards E:D5 S:SQ]
+
+East plays low and you ruff with the \SQ.
+>>>
+
+<<<
+[PLAY N:D6,N:D3,S:SQ,S:D7]
+===
+[PLAY W:DJ,E:D5,S:SQ]
+>>>
+
+<<<
+You are in dummy, just where you want to be. Play the \DK, and when East plays the \DA don't ruff but instead discard a \C from your hand.
+===
+You are in dummy, just where you want to be. Which card do you lead from dummy? [choose-card DK]
+
+[showcards E:DA]
+
+East plays the \DA. Which card do you play? [choose-card any:C7,C6,C4]
+
+[showcards W:DT]
+
+Play the \DK, and when East plays the \DA don't ruff but instead discard a \C from your hand.
+>>>
+
+<<<
+[showcards N:SJ,CK,C5,C3 S:S6,S3,C7,C6]
+===
+>>>
+
+<<<
+[PLAY N:DK,S:C4]
+===
+[PLAY E:DA,W:DT]
+>>>
+
+## Eliminations 21
+
+Win the ♠A, cross with the ♦J to the ♦K, and discard the ♠J on the ♦A.
+
+<<<
+South plays 6\H. West leads the \S5, East plays the \SK.
+===
+[showcards W:S5 N:S6 E:SK] South plays 6\H. West leads the \S5, dummy plays the \S6 and East the \SK.
+>>>
+
+<<<
+Make a Plan, then click NEXT. [NEXT]
+===
+Make a Plan, then play a card from your hand. [choose-card SA]
+
+[PLAY W:S5,N:S6,E:SK]
+
+Which card do you lead now? [choose-card DJ]
+
+[showcards W:D7 N:DK E:D2]
+
+Dummy wins the \DK. [NEXT]
+
+[PLAY W:D7,N:DK,E:D2] [showcards N:DA E:D3]
+
+Dummy leads the \DA and East follows. Which card do you play? [choose-card SJ]
+
+[showcards W:D9]
+>>>
+
+<<<
+[PLAY N:S6,N:DA,N:DK,S:SA,S:SJ,S:DJ]
+===
+[PLAY N:DA,E:D3,W:D9]
+>>>
+
+## Eliminations 22
+
+Lead a spade and duck West's ♠10 in dummy: West must lead into the ♠A-Q.
+
+<<<
+[showcards N:SA,S7,S2 S:SQ,S9,S4]
+===
+>>>
+
+<<<
+Keeping your fingers crossed that West must win the next trick you play the \S9. West puts on the \ST, you play low in dummy, and East (thankfully) discards a \H.
+===
+Keeping your fingers crossed that West must win the next trick, which card do you lead? [choose-card any:S9,S4]
+
+[showcards W:ST]
+
+West puts on the \S10. Which card do you play from dummy? [choose-card any:S7,S2]
+
+[showcards E:H2]
+
+East (thankfully) discards a \H.
+>>>
+
+<<<
+[showcards N:SA,S7 S:SQ,S4]
+===
+>>>
+
+<<<
+[PLAY N:S2,S:S9]
+===
+[PLAY W:ST,E:H2]
+>>>
+
+## Eliminations 23
+
+The throw-in: dummy's ♠7 to East, who has only spades left.
+
+<<<
+[showcards N:S7,HQ,D5,D4 S:S8,HK,HT,D7]
+===
+>>>
+
+<<<
+Play dummy's \S7. East will win, but he has nothing left but \Ss.
+===
+Which card do you lead from dummy? [choose-card S7]
+
+[showcards E:S9 S:S8 W:CT]
+
+Dummy's \S7: East wins, but he has nothing left but \Ss.
+>>>
+
+## Eliminations 24
+
+Eliminate and throw in with the diamonds from dummy.
+
+<<<
+Next eliminate \Ds by playing \DA then another \D. This does the elimination and throw-in at the same time.
+===
+Which card do you lead from dummy? [choose-card any:DA,D2]
+
+[showcards E:D4]
+
+Next eliminate \Ds by playing \DA then another \D. This does the elimination and throw-in at the same time.
+>>>
+
+<<<
+[PLAY N:DA,N:D2,S:DQ,S:D7]
+===
+[PLAY N:DA,N:D2,S:DQ,S:D7,E:D4]
+>>>
+
+## Eliminations 25
+
+The throw-in: a low spade from both hands, won by East.
+
+<<<
+Now play a low \S from both hands. West doesn't follow suit as East wins with a small card.
+===
+Which card do you lead from dummy? [choose-card any:S5,S2]
+
+[showcards E:S6 S:S4 W:H4]
+
+A low \S from both hands. West doesn't follow suit as East wins with a small card.
+>>>
+
+<<<
+[PLAY N:S2,S:S4]
+===
+[PLAY E:S6,S:S4,W:H4]
+>>>
