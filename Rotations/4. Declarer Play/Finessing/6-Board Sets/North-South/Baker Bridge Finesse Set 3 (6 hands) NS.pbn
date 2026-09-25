@@ -28,13 +28,11 @@ Winners:   \S=0  \H=2  \D=2  \C=4  Total = 8
 
 First things first. Win the first \H, do not hold up. East's \H3 indicates he has led a 4-card suit so a hold-up wouldn't help you. And if you did hold up they might pocket their \H trick and switch to \Ds, a suit you are no better off in.
 
-You need to get one more winner and it will have to be a \S winner. You could lead toward the \SQ, winning a trick if East holds BOTH the \SA and \SK. Or you could finesse the \ST, gaining a trick if East holds the \SJ. Obviously the second choice is more likely.
-
-Having won the first \H trick in your hand,  
+You need to get one more winner and it will have to be a \S winner. 
 
 East plays low.  
 
-West wins the \SK. 
+You could lead toward the \SQ, winning a trick if East holds BOTH the \SA and \SK. Or you could finesse the \S10, gaining a trick if East holds the \SJ. The second is more likely. Suppose West wins the \SK. 
 
 West returns a \H.  
 
@@ -127,6 +125,8 @@ Winners:   \S=3  \H=1  \D=3  \C=1  Total = 8
 You need one more winner and \Cs is your best suit. If the \CK is in East's hand you can finesse it for 12 tricks. But if the \CK is in West's hand you will lose that trick and at least 4 \Hs.
 
 Before you put all your eggs in the \C finesse basket there is one thing you should do first.
+
+East plays low.  
 
 You test the \D suit: a small one to dummy's \DQ, then the \DK and \DA. 
 
@@ -265,11 +265,13 @@ You only need one more winner. If East has the \SK or the \HQ a simple finesse w
 
 There are two problems though. The first one is that if West gets in he may take too many \D tricks. But the bigger problem is that East cannot possibly have either of those two high cards. You and dummy together hold 28 HCP and West must surely hold the other 12 since he opened the bidding. Neither simple finesse will work so you must try what is called a Backward Finesse.
 
-Hold up the \DA until the third round to confirm that East has only 2. He does. Then play four rounds of \Cs ending in your hand.
+ Then play four rounds of \Cs ending in your hand.
 
 West continues with the \DQ; dummy plays the \D6 and East the \D8.  
 
 West continues with the \DJ; dummy plays the \D7 and East discards a \S.  
+
+You held up the \DA until the third round to confirm that East has only 2. He does.
 
 You cash four rounds of \Cs, ending in your hand.  
 

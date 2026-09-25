@@ -57,7 +57,9 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{East is to play 3NT. South leads the \HK, dummy plays the \H2 and North the \H6.
+{East is to play 3NT. South leads the \HK.
+
+North plays the \H6.  
 
 Winners:   \S=3  \H=1  \D=0  \C=4  Total = 8
 

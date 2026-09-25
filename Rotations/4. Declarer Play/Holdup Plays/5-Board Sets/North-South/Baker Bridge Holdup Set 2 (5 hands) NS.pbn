@@ -143,17 +143,21 @@ C2
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{South's 2NT overcall shows a 1NT opening hand with \Hs stopped.  South is to play 3NT. West leads the \H7, dummy plays the \H8 and East the \H10.
+{South's 2NT overcall shows a 1NT opening hand with \Hs stopped.  South is to play 3NT. West leads the \H7.
+
+East plays the \H10.  
 
 Winners:   \S=0  \H=2  \D=0  \C=2  Total = 4
 
 You will need to establish both \S and \D winners. If East holds both these Aces along with 6 \Hs to the Q J then you are going down. But of course East can't have that good a hand, he opened with a Weak-2. So West has one of the Aces.
 
-If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. Let East have the first \H and win the next \H in dummy.
+If you knew which Ace East held you could make sure you attacked that suit first but unfortunately you have no way of knowing that. So instead you resort to a hold-up. 
 
 East continues with the \HQ.  
 
 West follows with the \H3.  
+
+You let East have the first \H and won the next \H in dummy.
 
 Start on \Ds next, maybe because they are longer. Assume that West holds the \DA and takes it on the third round of the suit.
 

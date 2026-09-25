@@ -28,11 +28,13 @@ Losers:   \S=2  \H=2  \D=0  \C=0  Total = 4
 
 You don't really have 2 \H losers since both of them can be ruffed in dummy. The 2 \S losers are real, though, and must be dealt with. If West holds the \SK then a simple finesse will win the contract for you. A 50% chance. But there is more to this Deal than a simple finesse, look at it carefully.
 
-In addition to the trumps, dummy has another useful card, the \HJ. You can give yourself a second chance by playing East to hold the \HQ.
+In addition to the trumps, dummy has another useful card, the \HJ. 
 
 You ruff the opening \C lead and pull trumps with the \DK (they split 1-1).  
 
-A low \H toward the \HJ. East fidgets, then puts on the \HQ and plays another \C which you ruff.
+East fidgets, then puts on the \HQ.  
+
+A low \H toward the \HJ gives you a second chance, by playing East to hold the \HQ. East plays another \C, which you ruff.
 
 You are in control now. You play a \H to dummy's \HJ, then a \S back to your \SA. Discard dummy's 2 \S losers on the \H A K and claim your slam.
 
@@ -108,13 +110,11 @@ Winners:   \S=0  \H=2  \D=2  \C=4  Total = 8
 
 First things first. Win the first \H, do not hold up. West's \H3 indicates he has led a 4-card suit so a hold-up wouldn't help you. And if you did hold up they might pocket their \H trick and switch to \Ds, a suit you are no better off in.
 
-You need to get one more winner and it will have to be a \S winner. You could lead toward the \SQ, winning a trick if West holds BOTH the \SA and \SK. Or you could finesse the \ST, gaining a trick if West holds the \SJ. Obviously the second choice is more likely.
-
-Having won the first \H trick in your hand,  
+You need to get one more winner and it will have to be a \S winner. 
 
 West plays low.  
 
-East wins the \SK. 
+You could lead toward the \SQ, winning a trick if West holds BOTH the \SA and \SK. Or you could finesse the \S10, gaining a trick if West holds the \SJ. The second is more likely. Suppose East wins the \SK. 
 
 East returns a \H.  
 
@@ -207,6 +207,8 @@ Winners:   \S=3  \H=1  \D=3  \C=1  Total = 8
 You need one more winner and \Cs is your best suit. If the \CK is in East's hand you can finesse it for 12 tricks. But if the \CK is in West's hand you will lose that trick and at least 4 \Hs.
 
 Before you put all your eggs in the \C finesse basket there is one thing you should do first.
+
+East plays low.  
 
 You test the \D suit: a small one to dummy's \DQ, then the \DK and \DA. 
 

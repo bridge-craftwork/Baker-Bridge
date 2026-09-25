@@ -61,11 +61,13 @@ HJ
 
 Winners:   \S=3  \H=1  \D=4  \C=0  Total = 8
 
-Needing only one more winner you decide to hold up on the first \H and also the \H continuation. You take your \HA on the third round, West having used the \H3 to drive out your \HA.
+You need only one more winner.
 
 East returns the \H10.  
 
 West wins with the \HJ and continues with the \H3; dummy discards a \C and East plays the \H4.  
+
+Needing only one more winner, you held up on the first \H and on the continuation, taking your \HA on the third round.
 
 You need one trick from the \C suit, so you win 4 \D tricks, then the \SA, \SQ, putting you in dummy. Next you play a \C from dummy, and when East plays low you put on . . . which \C?
 
@@ -133,7 +135,9 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/holdup_plays"]
 [Student "S"]
-{South is to play 3NT. West leads the \HK, dummy plays the \H2 and East the \H6.
+{South is to play 3NT. West leads the \HK.
+
+East plays the \H6.  
 
 Winners:   \S=3  \H=1  \D=0  \C=4  Total = 8
 
