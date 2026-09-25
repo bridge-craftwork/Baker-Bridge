@@ -22,7 +22,7 @@
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{South is to play 6NT. West leads the \HK.
+{South is to play 6NT. West leads the \HK, dummy plays the \H2 and East the \H5.
 
 As usual, you have 11 winners; 3 \Ss, 1 \H, 4 \Ds and 3 \Cs. If \Ss split 3-3 dummy's \S6  will become trick #12. If \Ss don't split though, you will have the chance of a squeeze if the defender with long \Ss also has 4 or more \Cs.
 
@@ -40,7 +40,11 @@ Play the \DA, then \D K Q.
 
 East will follow to all three \Ds.  
 
-Now for the squeeze. Play dummy's \DJ and discard your \H10.
+Now for the squeeze.  
+
+East discards.  
+
+Play dummy's \DJ and discard your last small \H.
 
 If East discards the \SJ you will cash dummy's \S6, then win the last 3 \C tricks. 
 
@@ -85,7 +89,9 @@ Now play \DQ, \DJ, \D9. Discard the \S5 from dummy on the third \D.
 
 West could afford to throw 2 \Ss and a \H on your \D plays.
 
-But when you play the \D7 he is squeezed.
+West discards the \H10.  
+
+When you play the \D7 he is squeezed.
 
 He cannot dump his \SK because you would throw the \H8 and dummy would be high.
 
@@ -124,7 +130,9 @@ You are in dummy, having won their trump exit with the \HK.
 
 Since you need all the tricks the count is already rectified.
 
-You plan to squeeze East by running the long \Hs in your hand, but the problem is that the \DQ is not a Threat card yet. To make it a Threat you need to unblock dummy's \DA. So play the \DA, then pull trumps with the \H A Q. 
+You plan to squeeze East by running the long \Hs in your hand.  
+
+The \DQ was not a Threat card yet: to make it a Threat you had to unblock dummy's \DA. Then you pull trumps with the \H A Q. 
 
 Unblocking the \DA to make your \DQ a squeeze Threat is called the Vienna Coup.
 
@@ -133,6 +141,8 @@ With 6 cards left to be played you are ready to apply pressure to East.
 Play the \H 9 8, discarding \Ds from dummy. East is not troubled yet, he can discard the \DJ and the \S3. 
 
 East is now looking a little nervous, like he has a big target on his back!
+
+West discards.  
 
 Play the \H6 and throw dummy's \D6.
 
@@ -175,15 +185,21 @@ CJ
 
 You have 11 top tricks and hope for a 3-3 \D split to give you one more. If they don't split you can hope that the defender with 4 \Ds also holds the \SK and that a squeeze will be possible.
 
-In case the squeeze becomes necessary you should rectify the count, so you win the first trick, pull trumps in two rounds, then give up a \H trick. 
+You win the first trick and pull trumps in two rounds, ending in dummy.  
+
+In case the squeeze becomes necessary you rectify the count by giving up a \H.
 
 West takes the \H trick and plays the \D9 which you win with your \DQ.
 
-You now make the key play of taking dummy's \SA before running three rounds of \Cs. 
+West plays low.  
+
+The key play: taking dummy's \SA before running three rounds of \Cs. 
 
 Unblocking the \SA to create a Threat out of your \SQ is the Vienna Coup.
 
-As you see, East was able to find discards on your first three trump leads, but when you play the \C7 and discard dummy's \S2 he is squeezed.
+West discards.  
+
+East was able to find discards on your first three trump leads, but when you play the \C7 and discard dummy's \S2 he is squeezed.
 
 He can see that if he discards a \D dummy will be high, so he will probably throw the \SK in hopes that his partner holds the \SQ. But you have that card and you make the slam. 
 

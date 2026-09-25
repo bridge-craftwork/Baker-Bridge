@@ -27,9 +27,9 @@
     "pbn": 0,
     "package": 0,
     "stamp": 0,
-    "export": 0,
-    "presentation": 1,
-    "rotate": 479,
+    "export": 1,
+    "presentation": 0,
+    "rotate": 395,
     "manifest": 0
   },
   "lessons": [

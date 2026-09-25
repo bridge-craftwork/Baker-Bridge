@@ -122,7 +122,7 @@ You have 11 winners, 3 \Ss, 4 \Hs, 3 \Ds and 1 \C. If either \Ss or \Ds split 3-
 
 As you see, neither of them splits. However since one defender, West in this case, holds both Guards you should be able to squeeze him. 
 
-Visualize what would happen, though, if you win the first trick and then play your 4 \H winners. West would play his 3 \Cs and 2 \Hs on those 5 tricks and he would not be squeezed. The problem is that you have to <b>RECTIFY THE COUNT</b>. 
+Visualize what would happen, though, if you win the first trick and then play your 4 \H winners. West would play his 3 \Cs and 2 \Hs on those 5 tricks and he would not be squeezed. The problem is that you have to <b>RECTIFY THE COUNT</b>.  
 
 To rectify the count you have to lose all the tricks you can afford to lose, which in this hand is exactly one trick. So you duck the \CK and win the next trick when East continues with the \CQ. 
 
@@ -130,9 +130,13 @@ AHA! The count is rectified, so now you play your \H winners.
 
 West has no problems on the first 3, he just plays his 2 \Hs and 1 \C. 
 
-Here is the situation just as you are about to play the Squeeze Card, the \HA.
+Here is the situation.  
 
-You will toss dummy's \C8 and West will have to decide whether it is better for him to throw a \S or a \D. He doesn't know that discarding either one is going to hand you the contract, so he will probably discard a \D.  }
+East follows.  
+
+The Squeeze Card is the \HA.
+
+You toss dummy's last small \C and West will have to decide whether it is better for him to throw a \S or a \D. He doesn't know that discarding either one is going to hand you the contract, so he will probably discard a \D.  }
 [Play "E"]
 CK
 
@@ -155,7 +159,7 @@ CK
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{South is to play 6NT. West leads the \SK.
+{South is to play 6NT. West leads the \SK, dummy plays the \S2 and East the \S5.
 
 You have 11 winners; 1 \S, 2 \Hs, 4 \Ds and 4 \Cs. If you can make a trick with the \SJ all will be well. But if not, as long as West holds the \SQ, which is almost a certainty, you will be able to squeeze him in \Ss and \Hs. 
 
@@ -171,7 +175,9 @@ Play the \CK, \CJ, then over to your \CQ.
 
 Here is the layout after the 3 \C plays. Everybody followed suit except West who discarded a \H (unhappily, it seemed). 
 
-When you now play your \CA, discarding a \S from dummy, West is squeezed.
+West discards the \H9.  
+
+When you play your \CA, discarding a \S from dummy, West is squeezed.
 
 If he discards the \ST, then his \SQ will fall underneath your \SA, establishing your \SJ.
 

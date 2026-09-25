@@ -272,7 +272,7 @@ applies it after `apply_showcards_dummy.py`, then replays each keyed board's dir
 the build on any choice that isn't a legal play from that position. The key file's header holds
 the authoring rules. Relies on BC's rules that a choice is answered from the hand holding the
 card (so dummy plays need no syntax) and that a chosen card stays played until the next `[PLAY]`
-gathers it (BC spec R-CP3a). Done: Holdup, Finesse, Entries, Establishment, Trumpmgmt, Eliminations; pilot board Squeeze 2. The build prints a note for any question whose every legal card is accepted (a forced click).
+gathers it (BC spec R-CP3a). Done: all seven declarer lessons (Holdup, Finesse, Entries, Establishment, Trumpmgmt, Eliminations, Squeeze). The build prints a note for any question whose every legal card is accepted (a forced click).
 
 ### Debug Anchor Output
 
