@@ -22,13 +22,17 @@
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{South's 2\D bid was New Minor Forcing, asking if North has 3 \Ss. North's 2\S response said "Yes, I have."South is to play 4\S. West leads the \HQ.
+{South's 2\D bid was New Minor Forcing, asking if North has 3 \Ss. North's 2\S response said "Yes, I have." South is to play 4\S. West leads the \HQ.
 
 Losers:   \S = ?    \H = 2  \D = 1    \C = 0 Total = 3?
 
 If the \Ss split 3-2 as they should, you have no \S loser and your plan will merely be to pull trumps and play winners. So what you do in that case is start figuring how to deal with a 4-1 split.
 
-But first you should deal with the \HK situation. Do you cover the \HQ or not? 
+But first you should deal with the \HK situation. Do you cover the \HQ or not?  
+
+East plays the \H2 and you the \H4. 
+
+West continues with the \HJ.  
 
 Competent defenders do not underlead Aces at suit contracts. So if you are playing against a competent West you certainly don't cover. You play low on this trick and on the \HJ continuation, hoping East started with a doubleton \HA. But he didn't, and he plays it on the third \H which you ruff. 
 
@@ -67,7 +71,13 @@ Losers:   \S = 0 or 1    \H = 0  \D = 1    \C = 1 Total = 2 or 3
 
 You probably do not have a trump loser because they will probably split 3-2. Still, a 4-1 split is certainly not out of the question.
 
-But those two minor suit losers are definite <b>UNLESS</b> you can somehow get to dummy's \H K Q. Can you? 
+But those two minor suit losers are definite <b>UNLESS</b> you can somehow get to dummy's \H K Q. Can you?
+
+You win the \DA.  
+
+Everyone follows. 
+
+East wins the \SJ.
 
 Yes you can get to dummy, in the trump suit. Win the opening \D lead. Unblock the \HA before touching trumps. Play a <b>SMALL</b> trump toward dummy. A defender will surely take his \SJ here, and play another \D. Win that trick and play another small \S. This one will get you into dummy. And by the way, West discards a \D so it turns out you were going to lose a trump in any case. Play dummy's \H K Q, discarding your two minor losers. Ruff a \H to return to your hand, pull trumps and claim.
 
@@ -98,13 +108,15 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{South is to play 5\C. West leads the \SJ.
+{South is to play 5\C. West leads the \SJ; dummy wins with the \SQ, East plays the \S2 and you the \S9.
 
 Losers:   \S=0  \H=2  \D=1  \C=0  Total = 3
 
 You have no way to get rid of the Fast \D loser, but you might be able to eliminate one of the \H losers. If East holds either \H K 10 x or \H Q 10 x then a Deep Finesse would save one loser.
 
-Should you pull trumps right away? 
+Should you pull trumps right away?
+
+East plays low.  
 
 No, you cannot pull trumps yet. For the Deep Finesse to work you must lead twice from dummy. The only way to get into dummy twice is in the \S suit and one of those times must be at trick 1.
 
@@ -143,7 +155,7 @@ Losers:   \S = 2    \H = 1 or 2  \D = 0    \C = 0 Total = 3 or 4
 
 In fact if trumps split 5-0 you could have 3 losers in the suit and a disaster. So we won't worry about that possibility. Since the most likely scenario is a 3-2 split you should plan on taking the \H A K, then driving out their master trump so you can run dummy's \Cs without somebody ruffing in.
 
-Bad news. West discards a \D on the second \H lead. Time for a change in plans? 
+Bad news. West discards a \D on the second \H lead. Time for a change in plans?
 
 Actually, no. East has 2 master trumps at this point but you still have \H 9 7 5 3. So use one of your little ones to drive out East's \HJ. He will probably force you to ruff a \D, leaving you with \H 9 7. Use one of them to force out East's \HQ. You still have a trump left to stop their \Ds, and as soon as you get the lead you can now run dummy's \C suit safely.
 
@@ -176,7 +188,9 @@ DK
 
 Losers:   \S=2  \H=0  \D=1  \C=1  Total = 4
 
-Unless the defense slips you are going to lose the Ace and King of trumps. And the \DA is a Fast loser that they can take whenever they want to, so that means you must try to dispose of your \C loser. The only realistic hope is that West holds the \DA and you can lead through it twice. So after you win your \CA do you play a trump? 
+Unless the defense slips you are going to lose the Ace and King of trumps. And the \DA is a Fast loser that they can take whenever they want to, so that means you must try to dispose of your \C loser. The only realistic hope is that West holds the \DA and you can lead through it twice. So after you win your \CA do you play a trump?
+
+West plays low.  
 
 As much as you'd like to get the trumps out you must work on the \Ds first. Because if you play even one trump the defense will win it and force out your remaining \C stopper before you have established a \D winner for the discard.
 

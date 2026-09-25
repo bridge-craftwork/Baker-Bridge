@@ -26,7 +26,7 @@
 
 Losers:   \S=0  \H=0  \D=2  \C=1  Total = 3
 
-This looks like a walk in the park. If West has the \CK you can let that \C4 ride around to dummy and end up making 12 tricks! What could go wrong? 
+This looks like a walk in the park. If West has the \CK you can let that \C4 ride around to dummy and end up making 12 tricks! What could go wrong?  
 
 What could go wrong is that East could win the \CK and return a \C which West ruffs. West could then play a \D back to East's \DQ, who could play another \C which West could again ruff. You could go down 2. That's what could go wrong. 
 
@@ -63,7 +63,9 @@ pass pass 1S pass 2S pass 4S pass pass pass
 
 Losers:   \S=0  \H=3  \D=0  \C=1  Total = 4
 
-You can't help the \C loser, but the \H loser can be ruffed in dummy. The most important question right now is how many rounds of trumps to pull before you give up a \H? 
+You can't help the \C loser, but the \H loser can be ruffed in dummy. The most important question right now is how many rounds of trumps to pull before you give up a \H?
+
+You win the \CA.  
 
 None would be the correct answer. Suppose you decide to go over to dummy with the \SQ so as to lead a \H toward your \H Q 10 7. When West won the trick he would probably play another trump. Then when you gave up a second \H dummy's final trump might be removed.
 
@@ -94,11 +96,13 @@ CQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{North is to play 4\H. East leads the \H7.
+{North is to play 4\H. East leads the \H7, won by dummy's \HA.
 
 Losers:   \S=2  \H=0  \D=1  \C=1  Total = 4
 
-You need to find West with the \SA to avoid two losers in the suit. But even if he has the card you must still be careful. You are in dummy right now, and you are only going to be in dummy once more. 
+You need to find West with the \SA to avoid two losers in the suit. But even if he has the card you must still be careful. You are in dummy right now, and you are only going to be in dummy once more.
+
+West plays low.  
 
 Right now you must lead a \S toward your hand and put up the \SK when West plays low. When this wins the trick return to dummy with a trump and play another \S toward the \SQ. When this also wins you can pull trumps, not before.
 
@@ -127,13 +131,15 @@ H7
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{South is to play 5\D. West leads the \CT. You play dummy's \CJ and East puts on the \CK.
+{South is to play 5\D. West leads the \CT. You play dummy's \CJ and East puts on the \CK; you win the \CA.
 
 Losers:   \S=1  \H=0  \D=1  \C=1  Total = 3
 
 The \S loser and \D loser are "fast" losers, meaning your opponents can take them whenever they are in the lead. The \C loser is a "slow" loser, meaning you might have some time to dispose of it.
 
-But here is the problem. If you start to draw trumps, a defender will take the \DA and play another \C, forcing out your \CQ. Then, when you play a \S they will jump in with the \SA and take their \C trick. Anything you can think of to do about that? 
+But here is the problem. If you start to draw trumps, a defender will take the \DA and play another \C, forcing out your \CQ. Then, when you play a \S they will jump in with the \SA and take their \C trick. Anything you can think of to do about that?
+
+West plays low.  
 
 Once you recognize the problem, the solution is easier to see. Don't play trumps next!
 
@@ -176,7 +182,9 @@ That loser count may be technically correct but actually it's wonky. As long as 
 
 Suppose you tried it like this: Win the \C, play \DA, then a \D to the \DJ, then pull the last trump with your \DK. That would only leave one trump in dummy for ruffing \S losers, but you could make the slam.
 
-But suppose the \D finesse lost to East. And further suppose that East then played another \D. Since only 1 \S could be ruffed you'd be down 1. Try something else. 
+But suppose the \D finesse lost to East. And further suppose that East then played another \D. Since only 1 \S could be ruffed you'd be down 1. Try something else.
+
+You win the \C and cash the \DA. Dummy leads the \D4 and West plays low.  
 
 Win the \C. Play the \DA and \DK, forgetting about even trying the finesse. If the \DQ falls that's good, but if it doesn't, no problem, just leave it out there. Then start on your other high cards. Take 2 more \Cs, 2 \Ss, and 2 \Hs. Then start cross-ruffing the last 4 \Ss and \Hs. The \DQ guy can trump in whenever he likes but you will make 12 tricks.
 

@@ -30,7 +30,9 @@ That loser count may be technically correct but actually it's wonky. As long as 
 
 Suppose you tried it like this: Win the \C, play \DA, then a \D to the \DJ, then pull the last trump with your \DK. That would only leave one trump in dummy for ruffing \S losers, but you could make the slam.
 
-But suppose the \D finesse lost to West. And further suppose that West then played another \D. Since only 1 \S could be ruffed you'd be down 1. Try something else. 
+But suppose the \D finesse lost to West. And further suppose that West then played another \D. Since only 1 \S could be ruffed you'd be down 1. Try something else.
+
+You win the \C and cash the \DA. Dummy leads the \D4 and East plays low.  
 
 Win the \C. Play the \DA and \DK, forgetting about even trying the finesse. If the \DQ falls that's good, but if it doesn't, no problem, just leave it out there. Then start on your other high cards. Take 2 more \Cs, 2 \Ss, and 2 \Hs. Then start cross-ruffing the last 4 \Ss and \Hs. The \DQ guy can trump in whenever he likes but you will make 12 tricks.
 
@@ -69,13 +71,17 @@ CJ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{South's 2\D bid was New Minor Forcing, asking if North has 3 \Ss. North's 2\S response said "Yes, I have."South is to play 4\S. West leads the \HQ.
+{South's 2\D bid was New Minor Forcing, asking if North has 3 \Ss. North's 2\S response said "Yes, I have." South is to play 4\S. West leads the \HQ.
 
 Losers:   \S = ?    \H = 2  \D = 1    \C = 0 Total = 3?
 
 If the \Ss split 3-2 as they should, you have no \S loser and your plan will merely be to pull trumps and play winners. So what you do in that case is start figuring how to deal with a 4-1 split.
 
-But first you should deal with the \HK situation. Do you cover the \HQ or not? 
+But first you should deal with the \HK situation. Do you cover the \HQ or not?  
+
+East plays the \H2 and you the \H4. 
+
+West continues with the \HJ.  
 
 Competent defenders do not underlead Aces at suit contracts. So if you are playing against a competent West you certainly don't cover. You play low on this trick and on the \HJ continuation, hoping East started with a doubleton \HA. But he didn't, and he plays it on the third \H which you ruff. 
 
@@ -114,7 +120,13 @@ Losers:   \S = 0 or 1    \H = 0  \D = 1    \C = 1 Total = 2 or 3
 
 You probably do not have a trump loser because they will probably split 3-2. Still, a 4-1 split is certainly not out of the question.
 
-But those two minor suit losers are definite <b>UNLESS</b> you can somehow get to dummy's \H K Q. Can you? 
+But those two minor suit losers are definite <b>UNLESS</b> you can somehow get to dummy's \H K Q. Can you?
+
+You win the \DA.  
+
+Everyone follows. 
+
+East wins the \SJ.
 
 Yes you can get to dummy, in the trump suit. Win the opening \D lead. Unblock the \HA before touching trumps. Play a <b>SMALL</b> trump toward dummy. A defender will surely take his \SJ here, and play another \D. Win that trick and play another small \S. This one will get you into dummy. And by the way, West discards a \D so it turns out you were going to lose a trump in any case. Play dummy's \H K Q, discarding your two minor losers. Ruff a \H to return to your hand, pull trumps and claim.
 
@@ -145,13 +157,15 @@ DQ
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{South is to play 5\C. West leads the \SJ.
+{South is to play 5\C. West leads the \SJ; dummy wins with the \SQ, East plays the \S2 and you the \S9.
 
 Losers:   \S=0  \H=2  \D=1  \C=0  Total = 3
 
 You have no way to get rid of the Fast \D loser, but you might be able to eliminate one of the \H losers. If East holds either \H K 10 x or \H Q 10 x then a Deep Finesse would save one loser.
 
-Should you pull trumps right away? 
+Should you pull trumps right away?
+
+East plays low.  
 
 No, you cannot pull trumps yet. For the Deep Finesse to work you must lead twice from dummy. The only way to get into dummy twice is in the \S suit and one of those times must be at trick 1.
 

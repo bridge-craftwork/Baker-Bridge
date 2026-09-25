@@ -30,7 +30,7 @@ You could come to your hand with the \DA and finesse East for the \HK. The probl
 
 A better idea is to stay away from trumps until you ruff a \D loser in dummy. So you play the \DK and everybody follows with small cards. Then play the \D8, covered by West's \DJ, taken by your \DA.
 
-Next play your \D3. West plays the \DQ and you do what? 
+Next you play your \D3 and East plays the \DQ.  
 
 You ruff of course, that was the whole point of playing \Ds before trumps. But which card will you ruff with? Suppose you ruff with the \H5 and West follows with another \D. You could then play \SA and ruff a \S to get to your hand, then ruff your last \D with dummy's \HA. You would lose only the trump King and one \C, making an overtrick.
 
@@ -65,7 +65,9 @@ CK
 
 Losers:   \S=0  \H=2  \D=0  \C=2  Total = 4
 
-The 2 \Hs are already lost, so you put your mind to the 2 \Cs. If the suit splits 3-3 the problem goes away, but a 4-2 split is more likely. So you should plan to ruff the fourth \C in dummy.   
+The 2 \Hs are already lost, so you put your mind to the 2 \Cs. If the suit splits 3-3 the problem goes away, but a 4-2 split is more likely. So you should plan to ruff the fourth \C in dummy.
+
+You ruff the third \H, cash the \C A K and give up a \C to East, West discarding a \H. East leads his last \C, you follow and West ruffs with the \S7.  
 
 Ruff the third \H. Then play \C A K 3. West discards a \H on the third \C which East wins. East will probably return his last \C at this point, hoping West can ruff higher than dummy's \S9. But he cannot, so you ruff in dummy, pull trumps and claim the rest.
 
@@ -98,7 +100,11 @@ HA
 
 Losers:   \S=0  \H=2  \D=0  \C=2  Total = 4
 
-The 2 \Hs are already lost, so you put your mind to the 2 \Cs. If the suit splits 3-3 the problem goes away, but a 4-2 split is more likely. So you should plan to ruff the fourth \C in dummy.   
+The 2 \Hs are already lost, so you put your mind to the 2 \Cs. If the suit splits 3-3 the problem goes away, but a 4-2 split is more likely. So you should plan to ruff the fourth \C in dummy.
+
+You ruff the third \H.  
+
+East wins with the \C9.
 
 You cannot use the same method that worked in Deal 14 because with this hand when you ruffed the fourth \C with dummy's \S4 it would surely get over-ruffed. This time you are going to have to be very lucky and find the defender with only two \Cs to also have only two \Ss.
 
@@ -137,7 +143,13 @@ Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
 
 The \C lead was terrible for you as it exposes your 2 \C losers before you can establish a \D for a discard. If you start to pull trumps now the defense will grab their \SA, their 2 \Cs and their \DA.   
 
-If you try to establish a \D they will do the same thing, just in a different order. What does that leave you? 
+If you try to establish a \D they will do the same thing, just in a different order. What does that leave you?
+
+You win the \CA in dummy.  
+
+Everyone follows low. 
+
+East plays low.  
 
 Losers:   \S=1  \H=0  \D=1  \C=2  Total = 4
 
@@ -176,9 +188,13 @@ pass 1H pass 2H pass 4H pass pass pass
 [Student "S"]
 {North is to play 4\H. East leads the \H3.
 
+ West discards a \S and you play the \H2.
+
 Losers:   \S=0  \H=0  \D=2  \C=3  Total = 5
 
-If West has the \DK, one \D loser can be eliminated by a finesse. And, if West also has the \CA one more loser can be eliminated by leading toward your \CK. The chance of both cards being held by West isn't very good, only about 25%. But dummy has some nice \Ss. Can you use them?   
+If West has the \DK, one \D loser can be eliminated by a finesse. And, if West also has the \CA one more loser can be eliminated by leading toward your \CK. The chance of both cards being held by West isn't very good, only about 25%. But dummy has some nice \Ss. Can you use them?
+
+West plays low.  
 
 Yes, you can establish 2 \S winners for discards, and most importantly, you can do it without letting West into the lead. This is important because if West gets in and plays a \C through your \C K 7 5 it might be a disaster.
 
@@ -211,7 +227,13 @@ pass 1S pass 1NT pass 4S pass pass pass
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/trump_management"]
 [Student "S"]
-{Losers:   \S=0  \H=1  \D=0  \C=3  Total = 4
+{South is to play 4\S. West leads the \HK, dummy plays the \H2 and East the \H3.  
+
+You win the \HA and cash the \SA.  
+
+West plays low. 
+
+Losers:   \S=0  \H=1  \D=0  \C=3  Total = 4
 
 This is a very easy problem to be up here at number 18! Clearly you have to discard one of those 4 losers on the only card dummy has, the \DK.
 
