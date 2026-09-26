@@ -129,6 +129,14 @@ Since he still has the \HA you know dummy's \HQ is useless so you discard it. Du
 [showcards E:H9] Since he still has the \HA you know dummy's \HQ is useless, so you discard it; East throws the \H9. Dummy's fourth \D has become a winner. [NEXT]
 >>>
 
+The closing step gathers only the squeeze trick, so all four hands end on the same trick.
+
+<<<
+[PLAY E:SQ,E:HJ,E:H9,E:D8,E:D6,W:HA,W:DJ,W:DT,W:D9,W:D3]
+===
+[PLAY W:D3,E:H9]
+>>>
+
 ## Holdup 1
 
 Hold up the ♦A until the third round.
@@ -3041,6 +3049,17 @@ The throw-in: a \H from either hand. One of the defenders wins (you don't care w
 [PLAY W:HJ,N:H6,E:HK]
 >>>
 
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
+>>>
+
 ## Eliminations 2
 
 The throw-in: after eliminating clubs, lead the small heart.
@@ -3139,6 +3158,17 @@ You exit with a \H. The defenders win this and take another \H trick, leaving th
 [PLAY N:HQ,N:H7,S:HT,S:H4]
 ===
 [PLAY N:HQ,N:H7,S:HT,S:H4,W:H5,E:HK]
+>>>
+
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
 >>>
 
 ## Eliminations 6
@@ -3391,6 +3421,17 @@ East leads a small \D. Which card do you play? [choose-card D3]
 <b>DO NOT PLAY THE JACK!</b>
 >>>
 
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
+>>>
+
 ## Eliminations 16
 
 On the ♥J, discard a diamond from dummy so both hands are out of diamonds.
@@ -3413,6 +3454,17 @@ You eliminate the \Hs: the \HK, the \HQ overtaken by your \HA, then the \HJ. Whi
 [PLAY S:HJ,W:H8,E:H6]
 >>>
 
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
+>>>
+
 ## Eliminations 17
 
 Don't ruff West's good heart: discard a club from dummy and a diamond from hand.
@@ -3431,6 +3483,17 @@ Which card do you play? [choose-card any:D4,D3]
 You <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your hand.
 >>>
 
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
+>>>
+
 ## Eliminations 18
 
 From dummy, lead the ♦J and discard a heart: West wins and is endplayed.
@@ -3447,6 +3510,17 @@ East plays low. Which card do you play? [choose-card H3]
 [showcards W:DQ]
 
 Of course not. You play the \DJ and discard a small \H from your hand.
+>>>
+
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
 >>>
 
 ## Eliminations 19
@@ -3469,6 +3543,17 @@ Now throw West in (you hope!) with the \C10.
 [PLAY N:S8,N:HQ,N:C8,S:H5,S:H2,S:CT]
 ===
 [PLAY W:CJ,N:C8,E:C2]
+>>>
+
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
 >>>
 
 ## Eliminations 20
@@ -3560,6 +3645,17 @@ Dummy leads the \DA and East follows. Which card do you play? [choose-card SJ]
 [PLAY N:DA,E:D3,W:D9]
 >>>
 
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
+>>>
+
 ## Eliminations 22
 
 Lead a spade and duck West's ♠10 in dummy: West must lead into the ♠A-Q.
@@ -3633,6 +3729,17 @@ Next eliminate \Ds by playing \DA then another \D. This does the elimination and
 [PLAY N:DA,N:D2,S:DQ,S:D7,E:D4]
 >>>
 
+The full-deal reveal restores the original deal: only declarer's side is tracked during
+the play, so without [RESET] the reveal showed North-South's cards struck and East-West's not.
+
+<<<
+[show NESW]
+===
+[RESET]
+
+[show NESW]
+>>>
+
 ## Eliminations 25
 
 The throw-in: a low spade from both hands, won by East.
@@ -3670,7 +3777,7 @@ Now you play the \CA.
 <<<
 [PLAY E:SJ,E:ST,E:S9,E:S8,E:HJ,W:S7,W:S6,W:CJ,W:C9,W:C8]
 ===
-[PLAY E:SJ,E:ST,E:S9,E:S8,E:HJ,W:S7,W:S6,W:CJ,W:C9,W:C8,N:C4]
+[PLAY W:C8,N:C4,E:S8]
 >>>
 
 ## Squeeze 3
@@ -4016,6 +4123,12 @@ West discards. Which card do you play from dummy? [choose-card CT]
 You play your \D3 and discard dummy's \C10.
 >>>
 
+<<<
+[PLAY N:DT,N:D7,N:D2,N:CA,N:C7,N:C5,E:H8,E:H4,E:D5,E:C9,E:C4,E:C2,S:DA,S:DK,S:DQ,S:DJ,S:D9,S:C3,W:H9,W:H6,W:D8,W:D6,W:D4,W:C6]
+===
+[PLAY N:DT,N:D7,N:D2,N:CA,N:C7,N:C5,E:H8,E:H4,E:D5,E:C9,E:C4,E:C2,S:DA,S:DK,S:DQ,S:DJ,S:D9,W:H9,W:H6,W:D8,W:D6,W:D4,W:C6]
+>>>
+
 ## Squeeze 12
 
 The squeeze card ♥2, discarding dummy's ♦6.
@@ -4196,6 +4309,22 @@ You are in your hand with the \CK. Which card do you lead now? [choose-card CA]
 [showcards W:C6 N:C8 E:D4]
 
 You play the \CA.
+>>>
+
+<<<
+You and dummy both discard a \C and East also must discard a \C.
+===
+[showcards W:S2 N:C5 E:CQ]
+
+West cashes the \S2; dummy discards a \C and East the \CQ. Which card do you discard? [choose-card any:C7,C3]
+
+You and dummy both discard a \C and East also must discard a \C.
+>>>
+
+<<<
+[PLAY N:C5,N:C2,E:CQ,E:CT,S:CK,S:C7,W:S2,W:C4]
+===
+[PLAY W:S2,N:C5,E:CQ,W:C4,N:C2,E:CT,S:CK]
 >>>
 
 ## Squeeze 17

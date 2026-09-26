@@ -62,6 +62,8 @@ The defender who won the last trick cannot lead a trump because he has none. If 
 
 Click NEXT to see all the hands. [NEXT]
 
+[RESET]
+
 [show NESW]
 
 [clear-commentary]
@@ -333,6 +335,8 @@ Click NEXT. [NEXT]
 They must now break the \C suit for you or give you a ruff-sluff. Of course you would ruff in dummy and discard a \C from the 3-card holding in your hand.
 
 Click to see all four hands. [NEXT]
+
+[RESET]
 
 [show NESW]
 
@@ -1118,6 +1122,8 @@ East leads a small \D. Which card do you play? [choose-card D3]
 
 Click to see the Deal. [NEXT]
 
+[RESET]
+
 [show NESW]
 
 [clear-commentary]
@@ -1176,6 +1182,8 @@ Click NEXT. [NEXT]
 <b>NOW</b> you can execute the throw-in. Play your \D, which eliminates \Ds from both you and dummy and at the same time throws in one of the defenders. Whoever it is will be forced to lead a \S and eliminate your guess for the \SQ or else give you a ruff-sluff, allowing you to ruff in dummy and discard a \S loser from your hand.
 
 Click for the Deal. [NEXT]
+
+[RESET]
 
 [show NESW]
 
@@ -1262,6 +1270,8 @@ You <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your h
 
 Click to see all the hands. [NEXT]
 
+[RESET]
+
 [show NESW]
 
 [clear-commentary]
@@ -1328,6 +1338,8 @@ East plays low. Which card do you play? [choose-card H3]
 Of course not. You play the \DJ and discard a small \H from your hand. West wins his \DQ (which his opening lead told you he held) and is end-played. He must lead a \H to your tenace or give you a ruff-sluff.
 
 Clickfor a view of all four hands. [NEXT]
+
+[RESET]
 
 [show NESW]
 
@@ -1403,6 +1415,8 @@ Click NEXT. [NEXT]
 Fortunately West has to take the \CT. Since he has nothing left but \Cs and \Ds he must lead one or the other. A \D lead will give you a trick with your \DK and a \C lead will allow you to ruff in dummy (East still has a \C) and discard a \D from your hand.
 
 Click to see all hands. [NEXT]
+
+[RESET]
 
 [show NESW]
 
@@ -1577,6 +1591,8 @@ Click NEXT. [NEXT]
 It would be great if you could ruff dummy's last \D, then get back to dummy with a trump so you could lead a \C from dummy and finesse. But check your trumps. If you do that you will have no more trumps in your hand and West won't be endplayed because you have no ruff-sluff. The only thing you can do is to go ahead and play \Cs now, finessing into West and HOPING he has no more \Ds!
 
 Click to see if you made the slam. [NEXT]
+
+[RESET]
 
 [show NESW]
 
@@ -1808,6 +1824,8 @@ If it is East who won the \DK you still have a chance. He will lead a \H and you
 In other words, played this way you make the contract whenever West holds the \DK <b>OR</b> East holds the \HK.
 
 Click to see all the hands.. [NEXT]
+
+[RESET]
 
 [show NESW]
 

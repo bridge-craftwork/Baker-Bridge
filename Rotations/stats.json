@@ -27,10 +27,10 @@
     "pbn": 0,
     "package": 0,
     "stamp": 0,
-    "export": 1,
+    "export": 0,
     "presentation": 0,
-    "rotate": 395,
-    "manifest": 0
+    "rotate": 282,
+    "manifest": 1
   },
   "lessons": [
     {

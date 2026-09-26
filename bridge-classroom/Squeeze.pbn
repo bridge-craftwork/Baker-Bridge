@@ -57,7 +57,7 @@ Of course if East had discarded his \HJ you would have cashed your \H2 and then 
 
 You just executed a Squeeze Play and you didn't even have to try. [NEXT]
 
-[PLAY E:SJ,E:ST,E:S9,E:S8,E:HJ,W:S7,W:S6,W:CJ,W:C9,W:C8,N:C4]
+[PLAY W:C8,N:C4,E:S8]
 
 [clear-commentary]
 
@@ -121,7 +121,7 @@ On the \SK you discarded dummy's small \H and West also discarded a \H. Which ca
 
 [showcards E:H9] Since he still has the \HA you know dummy's \HQ is useless, so you discard it; East throws the \H9. Dummy's fourth \D has become a winner. [NEXT]
 
-[PLAY E:SQ,E:HJ,E:H9,E:D8,E:D6,W:HA,W:DJ,W:DT,W:D9,W:D3]
+[PLAY W:D3,E:H9]
 
 [clear-commentary]
 
@@ -773,7 +773,7 @@ The solution is the Vienna Coup: a \C to the \CA at trick 3.
 
 Then start running the \D suit. [NEXT]
 
-[PLAY N:DT,N:D7,N:D2,N:CA,N:C7,N:C5,E:H8,E:H4,E:D5,E:C9,E:C4,E:C2,S:DA,S:DK,S:DQ,S:DJ,S:D9,S:C3,W:H9,W:H6,W:D8,W:D6,W:D4,W:C6]
+[PLAY N:DT,N:D7,N:D2,N:CA,N:C7,N:C5,E:H8,E:H4,E:D5,E:C9,E:C4,E:C2,S:DA,S:DK,S:DQ,S:DJ,S:D9,W:H9,W:H6,W:D8,W:D6,W:D4,W:C6]
 
 [clear-commentary]
 
@@ -1177,11 +1177,15 @@ East cannot spare either a \H or a \D so he also throws a \C. [NEXT]
 
 West will almost surely cash his \S2.
 
+[showcards W:S2 N:C5 E:CQ]
+
+West cashes the \S2; dummy discards a \C and East the \CQ. Which card do you discard? [choose-card any:C7,C3]
+
 You and dummy both discard a \C and East also must discard a \C.
 
 It doesn't matter what West plays next, lets say it is a \C. [NEXT]
 
-[PLAY N:C5,N:C2,E:CQ,E:CT,S:CK,S:C7,W:S2,W:C4]
+[PLAY W:S2,N:C5,E:CQ,W:C4,N:C2,E:CT,S:CK]
 
 [clear-commentary]
 
