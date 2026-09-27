@@ -604,6 +604,22 @@ def inject_final_show(analysis):
 
     return analysis
 
+def fix_click_prompts(analysis):
+    """Restore the NEXT button text Baker's pages showed as an image.
+
+    The parser drops the button image, leaving "Clickfor the complete Deal.", "Click .",
+    "Click [NEXT]", or a bare "for the full deal. [NEXT]" line. These read as typos in the app.
+    """
+    analysis = re.sub(r'\bClick\s*for\b', 'Click NEXT for', analysis)
+    analysis = re.sub(r'\bClick to see\b', 'Click NEXT to see', analysis)
+    analysis = re.sub(r'\bClick \.', 'Click NEXT.', analysis)
+    analysis = re.sub(r'\bClick \[NEXT\]', 'Click NEXT. [NEXT]', analysis)
+    # A prompt line that lost its "Click" along with the image: only lines ending in [NEXT],
+    # so prose that happens to start "for the ..." is left alone.
+    analysis = re.sub(r'(?m)^[ \t]*((?:for|to see) [^.\n\[]*\.)[ \t]*\[NEXT\]',
+                      r'Click NEXT \1 [NEXT]', analysis)
+    return analysis
+
 # Function to process analysis field
 def process_analysis(analysis, student=None, declarer=None, subfolder=None, auction_str=None, dealer=None):
     if analysis:
@@ -617,6 +633,7 @@ def process_analysis(analysis, student=None, declarer=None, subfolder=None, auct
         analysis = re.sub(r'!([A-Z])', r'! \1', analysis)
         analysis = analysis.replace('\\n', '\\n\\n')    # double the line breaks - somehow BridgeComposer doesn't handle single breaks well
         analysis = "\n".join(analysis.split("\\n"))  # Ensure proper newline conversion
+        analysis = fix_click_prompts(analysis)
 
         # Inject visibility directives only if not already present from bbparse
         # bbparse.py now generates initial [show ...] based on actual HTML visibility

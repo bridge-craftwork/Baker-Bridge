@@ -19,7 +19,7 @@
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:CQ]
 
 Never mind the bidding. South is to play 7NT. West leads the \CQ.
 
@@ -85,7 +85,7 @@ CQ
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:HK]
 
 South is to play 7\C. West leads the \HK.
 
@@ -153,7 +153,7 @@ HK
 [Student "S"]
 {[show NS]
 
-South is to play 6NT. West leads the \CK.
+[showcards W:CK] South is to play 6NT. West leads the \CK.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -427,7 +427,7 @@ HK
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:CJ]
 
 South is to play 4\H. West leads the \CJ. East wins \C A K Q then switches to a trump.
 
@@ -665,7 +665,7 @@ pass 1NT pass 2C pass 2S pass 6NT pass pass pass
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:DJ]
 
 South is to play 6NT. West leads the \DJ. East takes the \DA and returns the \D2.
 
@@ -739,7 +739,7 @@ DJ
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:HJ]
 
 South is to play 6NT. West leads the \HJ. East wins the \HA and returns the \H2.
 
@@ -811,7 +811,7 @@ HJ
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:SQ]
 
 South is to play 6\H. West leads the \SQ. East wins the \SA and plays the \DK.
 
@@ -969,7 +969,7 @@ HK
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:SQ]
 
 South is to play 7NT. West leads the \SQ.
 
@@ -1045,7 +1045,7 @@ SQ
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:SA]
 
 South is to play 6\H. West leads the \SA, then \SK.
 
@@ -1227,7 +1227,7 @@ S3
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:SK]
 
 South is to play 7\C. West leads the \SK.
 
@@ -1311,7 +1311,7 @@ SK
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:SA]
 
 South is to play 6\H. West leads the \SA.
 
@@ -1397,7 +1397,7 @@ SA
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:DK]
 
 South is to play 6\H. West leads the \DK. Perhaps you wouldn't have bid slam with North's cards, but he has been watching you pull off some fantastic squeeze plays and he has every confidence you will do it again.
 
@@ -1479,7 +1479,7 @@ DK
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]
 [Student "S"]
-{[show NS]
+{[show NS] [showcards W:HA]
 
 North's 2\H cue-bid shows \S support and at least a limit-raise or better. South is to play 4\S. West leads the \HA, then a \H to East's \HK. East plays a third round of \Hs.
 
