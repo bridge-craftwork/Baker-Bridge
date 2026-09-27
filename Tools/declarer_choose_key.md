@@ -137,6 +137,15 @@ The closing step gathers only the squeeze trick, so all four hands end on the sa
 [PLAY W:D3,E:H9]
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:HK]
+>>>
+
 ## Holdup 1
 
 Hold up the ♦A until the third round.
@@ -1529,7 +1538,7 @@ South is to play 3NT. West leads the \C3.
 <<<
 So what should you do?
 
-Click [NEXT]
+Click NEXT. [NEXT]
 ===
 So what should you do? Which card do you play from dummy? [choose-card CK]
 >>>
@@ -2785,6 +2794,14 @@ Time for a change in plans?
 Which card do you lead now? [choose-card any:H9,H7,H5,H3]
 >>>
 
+"Actually, no." answered Baker's own question, but after the choice it read as a rebuke (#71).
+
+<<<
+Actually, no. East has 2 master trumps
+===
+No change of plan is needed. East has 2 master trumps
+>>>
+
 ## Trumpmgmt 10
 
 Win the ♣A and lead toward the diamonds twice before touching trumps.
@@ -2803,6 +2820,28 @@ Which card do you lead now? [choose-card any:D7,D4]
 West plays low. Which card do you play from dummy? [choose-card any:DQ,DK]
 
 [showcards E:D2]
+
+Dummy's \D honour holds the trick. [NEXT]
+
+[PLAY W:D5,E:D2]
+
+Which card do you lead from dummy? [choose-card any:H5,H2,HJ]
+
+[showcards E:H4]
+
+East plays low. Which card do you play? [choose-card any:HA,HK]
+
+[showcards W:H3]
+
+You are back in your hand. [NEXT]
+
+[PLAY E:H4,W:H3]
+
+Which card do you lead now? [choose-card any:D7,D4]
+
+[showcards W:DA]
+
+West takes his \DA.
 >>>
 
 ## Trumpmgmt 11
@@ -3085,6 +3124,14 @@ The reveal's [PLAY S:D6] names a card South doesn't hold (source data); it goes.
 <<<
 [PLAY S:D6]
 ===
+>>>
+
+The trump [PLAY] also struck South's ♦5, which isn't played (source data; #67).
+
+<<<
+[PLAY N:SK,N:S4,N:H4,S:SA,S:S3,S:HA,S:D5]
+===
+[PLAY N:SK,N:S4,N:H4,S:SA,S:S3,S:HA]
 >>>
 
 ## Eliminations 3
@@ -3780,6 +3827,15 @@ Now you play the \CA.
 [PLAY W:C8,N:C4,E:S8]
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:CQ]
+>>>
+
 ## Squeeze 3
 
 Rectify the count by ducking the ♣K; then the squeeze card ♥A with dummy's club discard.
@@ -3816,6 +3872,14 @@ The Squeeze Card is the \HA.
 You will toss dummy's \C8 and East
 ===
 You toss dummy's last small \C and East
+>>>
+
+West's opening ♣K goes on the table from the first step (#70).
+
+<<<
+South is to play 6NT. West leads the \CK.
+===
+[showcards W:CK] South is to play 6NT. West leads the \CK.
 >>>
 
 ## Squeeze 4
@@ -3963,6 +4027,15 @@ West discards. Which card do you play from dummy? [choose-card D6]
 Play the \H6 and throw dummy's \D6.
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:CJ]
+>>>
+
 ## Squeeze 8
 
 Give up a heart to rectify the count; the Vienna Coup with dummy's ♠A; the squeeze card ♣7.
@@ -4091,6 +4164,15 @@ West discards the \H7, holding on to the \D10. Which card do you play from dummy
 Play your \SJ and watch what West discards.
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:DJ]
+>>>
+
 ## Squeeze 11
 
 The Vienna Coup (a club to dummy's ♣A); then the squeeze card ♦3, discarding dummy's ♣10.
@@ -4129,6 +4211,15 @@ You play your \D3 and discard dummy's \C10.
 [PLAY N:DT,N:D7,N:D2,N:CA,N:C7,N:C5,E:H8,E:H4,E:D5,E:C9,E:C4,E:C2,S:DA,S:DK,S:DQ,S:DJ,S:D9,W:H9,W:H6,W:D8,W:D6,W:D4,W:C6]
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:HJ]
+>>>
+
 ## Squeeze 12
 
 The squeeze card ♥2, discarding dummy's ♦6.
@@ -4145,6 +4236,15 @@ West discards. Which card do you play from dummy? [choose-card D6]
 [showcards E:C3]
 
 Play your \H2 and dump dummy's \D6.
+>>>
+
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:SQ]
 >>>
 
 ## Squeeze 13
@@ -4215,6 +4315,15 @@ East discards a \H. Which card do you play? [choose-card S7]
 You play dummy's \D4.
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:SQ]
+>>>
+
 ## Squeeze 15
 
 Ruff a spade to transfer the guard to West; then the squeeze card ♥A, dummy discarding
@@ -4255,6 +4364,15 @@ West discards the \C10, holding on to the \SJ. Which card do you play from dummy
 [showcards E:D9]
 
 You play your \HA and West must give up one of his guards.
+>>>
+
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:SA]
 >>>
 
 ## Squeeze 16
@@ -4376,6 +4494,15 @@ West gives up the \H8. Which card do you play from dummy? [choose-card SJ]
 Your \C8 does it.
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:SK]
+>>>
+
 ## Squeeze 18
 
 Duck a diamond to rectify the count; a diamond to dummy's ♦K; then dummy's ♥J squeezes East.
@@ -4433,6 +4560,15 @@ Which card do you lead from dummy? [choose-card HJ]
 You play dummy's \HJ.
 >>>
 
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:SA]
+>>>
+
 ## Squeeze 19
 
 Let West hold the first trick; then the squeeze card ♥5, discarding dummy's ♠K.
@@ -4468,6 +4604,15 @@ West bares his \DQ. Which card do you play from dummy? [choose-card SK]
 [showcards E:S8]
 
 At last you play the \H5, and West is done, he just doesn't know it yet.
+>>>
+
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:DK]
 >>>
 
 ## Squeeze 20
@@ -4506,3 +4651,13 @@ West discards. Which card do you play from dummy? [choose-card C4]
 
 Play your \S2 and discard dummy's \C4.
 >>>
+
+West's opening lead goes on the table from the first step: all four hands are shown before
+the first trick is played, so it otherwise sat unplayed in his hand (#70).
+
+<<<
+[show NS]
+===
+[show NS] [showcards W:HA]
+>>>
+

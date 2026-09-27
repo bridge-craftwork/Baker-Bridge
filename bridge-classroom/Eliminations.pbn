@@ -107,7 +107,7 @@ Win the first trick and play \SA, \SK. Trumps split 2-1.
 
 Click NEXT. [NEXT]
 
-[PLAY N:SK,N:S4,N:H4,S:SA,S:S3,S:HA,S:D5]
+[PLAY N:SK,N:S4,N:H4,S:SA,S:S3,S:HA]
 
 
 
@@ -133,7 +133,7 @@ Click NEXT. [NEXT]
 
 No matter which defender wins the \H he is end-played. A \H or a \C will give you a ruff-sluff, but if he leads a \D you cannot be prevented from establishing either your \DQ or \DJ as a winner.
 
-Click to see the full deal. [NEXT]
+Click NEXT to see the full deal. [NEXT]
 
 [RESET]
 
@@ -339,7 +339,7 @@ Click NEXT. [NEXT]
 
 They must now break the \C suit for you or give you a ruff-sluff. Of course you would ruff in dummy and discard a \C from the 3-card holding in your hand.
 
-Click to see all four hands. [NEXT]
+Click NEXT to see all four hands. [NEXT]
 
 [RESET]
 
@@ -495,7 +495,7 @@ Click NEXT. [NEXT]
 
 Whichever defender wins the \DQ is end-played. If he plays a \D or a \S you will ruff in one hand and discard a \C loser from the other. But if he leads a \C instead you no longer have a \C loser.
 
-Clickfor the complete deal. [NEXT]
+Click NEXT for the complete deal. [NEXT]
 
 [RESET]
 
@@ -575,7 +575,7 @@ A \C from your hand, playing dummy's \C9 when West plays low. East will win the 
 
 If West puts on either the \CT or \CJ you play dummy's \CQ. If East can win with the \CK he will once again be end-played, forced to either play a \C back to dummy's \CA 9, or give you a ruff-sluff.
 
-Click for the full deal. [NEXT]
+Click NEXT for the full deal. [NEXT]
 
 [RESET]
 
@@ -645,7 +645,7 @@ Click NEXT. [NEXT]
 
 The defense will win the \D and can then take another \D trick if they like. But then they will have to play a \S (or give you a ruff-sluff). And as long as they start the \Ss you are assured that you will lose only one \S trick, the \SA.
 
-Clickfor the complete deal. [NEXT]
+Click NEXT for the complete deal. [NEXT]
 
 [RESET]
 
@@ -721,7 +721,7 @@ Dummy leads the \C10 and East plays low. Which card do you play? [choose-card an
 
 Play the \C10 from dummy and let it ride if East does not produce the \CQ or \CK. West will win with one of the honors but will have to return another \C or give you a ruff-sluff.
 
-Clickfor the full deal. [NEXT]
+Click NEXT for the full deal. [NEXT]
 
 [RESET]
 
@@ -803,7 +803,7 @@ Click NEXT. [NEXT]
 
 Whichever defender had the \CK is now on lead, but wishes he wasn't. If he plays a \H  you get a free finesse. If he plays anything else you get a ruff-sluff.
 
-Clickfor the complete deal. [NEXT]
+Click NEXT for the complete deal. [NEXT]
 
 [RESET]
 
@@ -899,7 +899,7 @@ Click NEXT. [NEXT]
 
 West will probably win this trick. If he wins with the \CK then your hand is good. If he wins with the \CJ then he is end-played, forced to either lead a \C into your \C A Q or to give you a ruff-sluff.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -1135,7 +1135,7 @@ East leads a small \D. Which card do you play? [choose-card D3]
 
 <b>DO NOT PLAY THE JACK!</b> If the finesse is going to work now it will still work one trick later. By playing low you take advantage of the possibility that East held the \D10 and West will have to put on the \DQ to prevent you taking a trick with dummy's \D9.
 
-Click to see the Deal. [NEXT]
+Click NEXT to see the Deal. [NEXT]
 
 [RESET]
 
@@ -1197,7 +1197,7 @@ Click NEXT. [NEXT]
 
 <b>NOW</b> you can execute the throw-in. Play your \D, which eliminates \Ds from both you and dummy and at the same time throws in one of the defenders. Whoever it is will be forced to lead a \S and eliminate your guess for the \SQ or else give you a ruff-sluff, allowing you to ruff in dummy and discard a \S loser from your hand.
 
-Click for the Deal. [NEXT]
+Click NEXT for the Deal. [NEXT]
 
 [RESET]
 
@@ -1285,7 +1285,7 @@ Which card do you play? [choose-card any:D4,D3]
 
 You <b>DO NOT RUFF</b>. Instead you discard a \C from dummy and a \D from your hand. West has now taken his side's third trick. He plays another good \H, and you ruff in dummy and discard the last \D loser from your hand. You can now cross-ruff for the rest of the tricks.
 
-Click to see all the hands. [NEXT]
+Click NEXT to see all the hands. [NEXT]
 
 [RESET]
 
@@ -1355,7 +1355,7 @@ East plays low. Which card do you play? [choose-card H3]
 
 Of course not. You play the \DJ and discard a small \H from your hand. West wins his \DQ (which his opening lead told you he held) and is end-played. He must lead a \H to your tenace or give you a ruff-sluff.
 
-Clickfor a view of all four hands. [NEXT]
+Click NEXT for a view of all four hands. [NEXT]
 
 [RESET]
 
@@ -1433,7 +1433,7 @@ Click NEXT. [NEXT]
 
 Fortunately West has to take the \CT. Since he has nothing left but \Cs and \Ds he must lead one or the other. A \D lead will give you a trick with your \DK and a \C lead will allow you to ruff in dummy (East still has a \C) and discard a \D from your hand.
 
-Click to see all hands. [NEXT]
+Click NEXT to see all hands. [NEXT]
 
 [RESET]
 
@@ -1531,7 +1531,7 @@ Click NEXT. [NEXT]
 
 East is end-played, forced to either break the \Cs and give you a \C trick, or give you a ruff-sluff.
 
-Click for the full deal. [NEXT]
+Click NEXT for the full deal. [NEXT]
 
 [RESET]
 
@@ -1611,7 +1611,7 @@ Click NEXT. [NEXT]
 
 It would be great if you could ruff dummy's last \D, then get back to dummy with a trump so you could lead a \C from dummy and finesse. But check your trumps. If you do that you will have no more trumps in your hand and West won't be endplayed because you have no ruff-sluff. The only thing you can do is to go ahead and play \Cs now, finessing into West and HOPING he has no more \Ds!
 
-Click to see if you made the slam. [NEXT]
+Click NEXT to see if you made the slam. [NEXT]
 
 [RESET]
 
@@ -1699,7 +1699,7 @@ Click NEXT. [NEXT]
 
 West has been thrown in and he has nothing left but the \S K J. Whichever one he plays you will take the last two tricks.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -1773,7 +1773,7 @@ Which card do you lead from dummy? [choose-card S7]
 
 Dummy's \S7: East wins, but he has nothing left but \Ss. When he plays another \S you discard your \D loser and ruff in dummy.
 
-Clickfor the complete deal. [NEXT]
+Click NEXT for the complete deal. [NEXT]
 
 [RESET]
 
@@ -1847,7 +1847,7 @@ If it is East who won the \DK you still have a chance. He will lead a \H and you
 
 In other words, played this way you make the contract whenever West holds the \DK <b>OR</b> East holds the \HK.
 
-Click to see all the hands.. [NEXT]
+Click NEXT to see all the hands.. [NEXT]
 
 [RESET]
 
@@ -1921,7 +1921,7 @@ Click NEXT. [NEXT]
 
 East is end-played. He has no \Cs. If he plays a \D it will be into dummy's \D K J. If he plays a \H you will discard a \D from your hand and ruff in dummy. If he plays the \SK you will ruff, and dummy's \SQ will be promoted. If he plays a small \S you will let it ride to dummy's \SQ.
 
-Click to see the complete Deal. [NEXT]
+Click NEXT to see the complete Deal. [NEXT]
 
 [RESET]
 

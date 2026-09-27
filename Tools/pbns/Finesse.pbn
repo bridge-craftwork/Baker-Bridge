@@ -247,7 +247,7 @@ Click NEXT. [NEXT]
 
 At this point you have not lost any tricks, and you can see that you have only 3 losers remaining in your hand. So you start pulling trumps and establishing the \Cs.
 
-Clickfor the complete deal. [NEXT]
+Click NEXT for the complete deal. [NEXT]
 
 [RESET]
 
@@ -379,7 +379,7 @@ East plays low. Which card do you play? [choose-card CQ]
 
 [showcards W:C2] At first you might think it makes no difference but, in fact, there is only one reasonable choice. If you finesse the \SK successfully you may still have a \S loser. If you finesse the \HK successfully you will surely still have a \H loser. But if you finesse the \CK successfully you will eliminate your \C loser.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -444,7 +444,7 @@ Which card do you lead from dummy? [choose-card CQ]
 
 The \CQ from dummy: a ruffing finesse. If East plays the \CK you will ruff, enter dummy, and discard two red losers on the \C J 10. If East plays low instead, you discard your \H loser. West may be able to win the trick but you can ruff a \H return, and dummy will have two good \Cs on which you can discard 2 \D losers.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -515,7 +515,7 @@ West covers with the \HQ. Which card do you play from dummy? [choose-card HA]
 
 Now play the \HJ. If West doesn't cover, you will let it ride for your ninth trick. But West does cover so you take dummy's \HA, then your other 2 \H tricks. The \SA  is your ninth trick.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -570,7 +570,7 @@ The odds aren't in your favor, but you have no choice but to play West for the d
 
 So: a small \S from your hand, putting on the \SJ when West plays low. When this holds the trick plunk down the \SA and hope.
 
-Clickfor the complete Deal to see if the \SK dropped or not. [NEXT]
+Click NEXT for the complete Deal to see if the \SK dropped or not. [NEXT]
 
 [RESET]
 
@@ -647,7 +647,7 @@ East plays low. Which card do you play? [choose-card any:CJ,CT]
 
 A small \C to your remaining honour. When the \CJ wins you pull any leftover trumps and your hand is good.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -848,7 +848,7 @@ West plays the \SJ. Which card do you play from dummy? [choose-card SQ]
 
 The \SQ wins the trick. If the \SQ wins, take your 9 tricks and run.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -933,7 +933,7 @@ East doesn't cover. Which card do you play? [choose-card S8]
 
 The \S9, playing your \S8 under it. West shows out on this trick and you are glad you played so carefully. Play one more \S, finessing East's \SK again, then play your \SA and the rest of your winners.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -1077,7 +1077,7 @@ East puts on the \SK. Which card do you play? [choose-card any:S7,S4]
 
 You are home-free.
 
-Clickfor the full Deal. [NEXT]
+Click NEXT for the full Deal. [NEXT]
 
 [RESET]
 
@@ -1239,7 +1239,7 @@ East plays low. Which card do you play? [choose-card H9]
 
 A small \H from dummy, finessing the \H9, hoping East has the \H10. This is the Backward Finesse.
 
-Clickfor the complete Deal to see if it worked. [NEXT]
+Click NEXT for the complete Deal to see if it worked. [NEXT]
 
 [RESET]
 
@@ -1304,7 +1304,7 @@ You play the \DK from your hand, then a small \D, and West plays low. Which card
 
 Silly question. Of course you finesse into the safe hand: dummy's \D10 wins the trick - and the game - and the overtrick.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
@@ -1377,7 +1377,7 @@ West plays low again. Which card do you play from dummy? [choose-card C5]
 
 Your \C10, putting on the \C5 from dummy when West plays low again. This lets you stay in your hand to play another \C to the \CQ, picking up all four \C tricks and the slam.
 
-Clickfor the complete Deal. [NEXT]
+Click NEXT for the complete Deal. [NEXT]
 
 [RESET]
 
