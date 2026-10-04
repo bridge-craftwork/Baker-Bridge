@@ -47,16 +47,16 @@ PUBLISH_DIR="${BB_PUBLISH_DIR:-/Users/rick/Library/CloudStorage/GoogleDrive-brid
 DEALS_CSV="$SCRIPT_DIR/BakerBridgeFull.csv"
 
 # Tool paths
-DEALER_PATH="$HOME/Development/GitHub/dealer3/target/release/dealer"
-BRIDGE_WRANGLER_PATH="$HOME/Development/GitHub/bridge-wrangler/target/release/bridge-wrangler"
+DEALER_PATH="/Volumes/Express2T/Development/GitHub/dealer3/target/release/dealer"
+BRIDGE_WRANGLER_PATH="/Volumes/Express2T/Development/GitHub/bridge-wrangler/target/release/bridge-wrangler"
 # Shared (collection-agnostic) tools from bridge-lesson-packaging: the mixed-use materials
 # packager (rotate/slice/handouts — replaces the retired local rotate_lesson_collection.sh)
 # and the lesson-statistics tool. Clone github.com/bridge-craftwork/bridge-lesson-packaging,
 # or override these paths.
 export BRIDGE_WRANGLER_PATH   # package.sh renders its PDFs with the binary we check here
-PACKAGER="${PACKAGER:-$HOME/Development/GitHub/bridge-lesson-packaging/package.sh}"
-STATS_TOOL="${STATS_TOOL:-$HOME/Development/GitHub/bridge-lesson-packaging/stats.py}"
-MANIFEST_TOOL="${MANIFEST_TOOL:-$HOME/Development/GitHub/bridge-lesson-packaging/rotations_manifest.py}"
+PACKAGER="${PACKAGER:-/Volumes/Express2T/Development/GitHub/bridge-lesson-packaging/package.sh}"
+STATS_TOOL="${STATS_TOOL:-/Volumes/Express2T/Development/GitHub/bridge-lesson-packaging/stats.py}"
+MANIFEST_TOOL="${MANIFEST_TOOL:-/Volumes/Express2T/Development/GitHub/bridge-lesson-packaging/rotations_manifest.py}"
 
 # Build timestamp. Pinned to the deal set rather than the clock so that re-running the
 # packaging half reproduces byte-identical output; see resolve_build_time() in

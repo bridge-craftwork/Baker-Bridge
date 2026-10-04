@@ -17,14 +17,14 @@ Usage:
 
 Writes a per-board CSV next to Package/ (audit_passers_results.csv) and prints a
 per-lesson summary + offender list. Requires the native Mac bba-cli:
-    ~/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli
+    /Volumes/Express2T/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli
 """
 import glob, os, re, subprocess, sys, csv, tempfile
 from collections import defaultdict
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BBA = os.environ.get("BBA_CLI",
-        os.path.expanduser("~/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli"))
+        os.path.expanduser("/Volumes/Express2T/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli"))
 CONV = os.path.join(REPO, "Tools", "BAKER-BRIDGE.bbsa")
 MISSING_BIDS = os.path.join(REPO, "Tools", "missing_bids.csv")
 OUT_CSV = os.path.join(REPO, "Tools", "audit_passers_results.csv")

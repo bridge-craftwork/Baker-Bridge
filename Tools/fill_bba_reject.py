@@ -31,7 +31,7 @@ from collections import Counter
 
 import audit_passers as ap
 
-DEALER = os.path.expanduser("~/Development/GitHub/dealer3/target/release/dealer")
+DEALER = os.path.expanduser("/Volumes/Express2T/Development/GitHub/dealer3/target/release/dealer")
 OUT_DIR = os.path.join(ap.REPO, "Tools", "bba_reject_out")
 SEATS = ["N", "E", "S", "W"]
 BATCH = 24          # candidates drawn per dealer3 call

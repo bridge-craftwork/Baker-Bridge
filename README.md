@@ -64,8 +64,8 @@ Baker-Bridge/
 ## Prerequisites
 
 - Python 3.x with BeautifulSoup4 (`pip install beautifulsoup4`)
-- **dealer3** (Rust) — generates/deals constrained hands (`~/Development/GitHub/dealer3`)
-- **bba-cli** (Rust, native Mac BBA/EPBot) — the passer-fill BBA-reject backend, with `--auction-prefix` (`~/Development/GitHub/BBA-tools/bba-cli`)
+- **dealer3** (Rust) — generates/deals constrained hands (`/Volumes/Express2T/Development/GitHub/dealer3`)
+- **bba-cli** (Rust, native Mac BBA/EPBot) — the passer-fill BBA-reject backend, with `--auction-prefix` (`/Volumes/Express2T/Development/GitHub/BBA-tools/bba-cli`)
 - **bridge-wrangler**, **pdf-handouts** (Rust) — PBN-to-PDF, hand rotations, and handout rendering for the `rotate` phase
 - html2pdf (optional) — for regenerating lesson intro pages: `brew install ilaborie/tap/html2pdf`
 

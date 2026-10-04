@@ -103,7 +103,7 @@ but a biddable passer (Problem 1) is disruptive regardless.
 
 ## Available tooling (all confirmed working)
 
-- **Native Mac BBA CLI**: `~/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli`
+- **Native Mac BBA CLI**: `/Volumes/Express2T/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli`
   (Rust/NativeAOT, no .NET, no SSH). Interface:
   ```
   bba-cli --input <in.pbn> --output <out.pbn> \
@@ -258,6 +258,6 @@ Tools: `Tools/passer_reroll.py` + `Tools/passer_cache.csv` · write-up: `Tools/p
 - `Tools/missing_bids.csv` — per-deal `BidSequence` → label.
 - `Tools/constructed_hands.csv`, `Tools/BakerBridgeFull.csv` — the fill cache (+ `-windows`).
 - `Tools/BAKER-BRIDGE.bbsa` — BBA convention card.
-- BBA CLI: `~/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli`
-- dealer3: `~/Development/GitHub/dealer3/target/release/dealer` (per `fill_hands.py`).
+- BBA CLI: `/Volumes/Express2T/Development/GitHub/BBA-tools/bba-cli/target/release/bba-cli`
+- dealer3: `/Volumes/Express2T/Development/GitHub/dealer3/target/release/dealer` (per `fill_hands.py`).
 - Smoke test command (proof section) reproduces the board-3 overcall.
