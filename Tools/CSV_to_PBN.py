@@ -426,7 +426,11 @@ CATEGORY_ORDER = [
     'Partnership Bidding'
 ]
 
-def generate_toc_json(output_dir="../Package"):
+# Baker-Bridge/Package, wherever the script is run from. A bare "../Package"
+# meant the folder next to the repo when run from the repo root.
+DEFAULT_PACKAGE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Package")
+
+def generate_toc_json(output_dir=DEFAULT_PACKAGE_DIR):
     """
     Generate toc.json from BAKER_BRIDGE_TAXONOMY.
     This file is consumed by Bridge-Classroom for lesson navigation.
@@ -843,6 +847,6 @@ if __name__ == "__main__":
     convert_csv_to_pbn(*sys.argv[1:])
 
     # Generate toc.json for Bridge-Classroom.
-    # BB_PACKAGE_DIR (env) overrides the default orphaned ../Package so the build can
+    # BB_PACKAGE_DIR (env) overrides the default orphaned Package/ so the build can
     # target the new bridge-classroom/ contracted-files folder (issue #21, Phase B).
-    generate_toc_json(os.environ.get("BB_PACKAGE_DIR") or "../Package")
+    generate_toc_json(os.environ.get("BB_PACKAGE_DIR") or DEFAULT_PACKAGE_DIR)
