@@ -57,6 +57,13 @@ def copy_pdf_with_intro(src_pattern, dest_dir):
 # clean whole-lesson PDF is the one package.sh renders into Rotations' All/ folder.
 copy_files(os.path.join(pbn_dir, "**", "*.pbn"), package_dir)
 
+# Prune stale lesson-level PDFs (anything but *_Intro.pdf) left in a reused package dir by
+# builds that still rendered them: they carry the raw control tags ([showcards], [PLAY], ...).
+for stale_pdf in glob.glob(os.path.join(package_dir, "*.pdf")):
+    if not stale_pdf.endswith("_Intro.pdf"):
+        print(f"Removing stale lesson PDF {stale_pdf}")
+        os.remove(stale_pdf)
+
 # Copy all .pdf files from the pdfs directory (including subfolders) to the package directory, appending _Intro to the filename
 copy_pdf_with_intro(os.path.join(pdf_dir, "**", "*.pdf"), package_dir)
 
