@@ -199,7 +199,7 @@ python3 generate_manifest.py
 **The build is two scripts** (split at `BakerBridgeFull.csv`, the deal set of record).
 `build-deals.sh` turns the HTML into that CSV and is **not reproducible** — `bb_fill`'s E/W
 assignment is an unseeded shuffle, so a re-run can change deals and therefore
-`[VersionToken]`s, which BC keys mastery and problem reports off. `build-materials.sh` turns
+`[VersionToken]`s and the board numbers BC keys on (see ADR-0001 below). `build-materials.sh` turns
 the CSV into the published trees and **is** idempotent: the same CSV yields byte-identical
 output, so re-running it on an unchanged deal set leaves a clean `git status`. Packaging
 work uses `build-materials.sh` only. (`build-mac.sh` is a shim forwarding to it; its old
@@ -244,12 +244,12 @@ dealer files and the app in sync — the divergence that caused the 2026-07-14 c
 
 ## Board Identity Metadata (Bridge Classroom)
 
-Bridge Classroom uses board-identity + readiness metadata to decide whether Baker boards count toward mastery and to match "Report a Problem" reports across rotations.
+Bridge Classroom's board identity is **positional** — `(collection, subfolder, board number)` — per Bridge-Classroom `documentation/adr/0001-positional-board-identity.md`. Mastery, exercises and observations key on position; each observation embeds the full deal it was played on, so editing a board never corrupts history. The token below is **not** an identity: re-tokening a board (a re-dealt passer, a corrected auction) needs no coordination. What does: **renumbering, removing or reordering stable boards** (position is the key), and a replacement for a stable board must itself be stable and of similar difficulty.
 
 - **`%bridge-classroom-stable: true`** — a file-level header comment. Present ⇒ that file's boards count toward mastery; absent/`false` ⇒ BC treats them as prerelease (recorded + navigable, but excluded from mastery/stats). Emitted by `CSV_to_PBN.py` next to `%bridge-context:`, and backstopped by `stamp_board_tokens.py` so curated-only files can't slip through. (Collection is **not** a PBN concern — BC sources `collection_id` from its own config.)
   - To mark a single board under active revision inside an otherwise-stable file, add a board-level override `[Stable "false"]`.
-- **`[VersionToken "…"]`** — a 64-char lowercase sha256 hex per board, stamped by `stamp_board_tokens.py`. It is a **rotation-canonical** hash of the deal + auction: the deal is rotated so the ♠A holder becomes North, then `sha256(canonicalDeal + "|" + canonicalAuction)`. Identical across all rotational variants of a deal. **BC treats it as opaque** (records/echoes only).
-  - **The normalization is frozen.** Changing it changes every token and breaks BC's ability to match previously-recorded tokens. See the module docstring in `stamp_board_tokens.py` for the exact rules; any new scheme must be a versioned, additive change.
+- **`[VersionToken "…"]`** — a 64-char lowercase sha256 hex per board, stamped by `stamp_board_tokens.py`. It is a **rotation-canonical** hash of the deal + auction: the deal is rotated so the ♠A holder becomes North, then `sha256(canonicalDeal + "|" + canonicalAuction)`. Identical across all rotational variants of a deal. **BC treats it as opaque**: it records it on each observation and includes it in "Report a Problem" text, but never keys on, verifies or compares it (ADR-0001 §3). Its job is the producer's: finding every rotational variant of a reported deal.
+  - **The normalization is frozen.** Changing it changes every token, so tokens in reports already received would no longer match the boards they name. See the module docstring in `stamp_board_tokens.py` for the exact rules; any new scheme must be a versioned, additive change.
 
 `stamp_board_tokens.py` runs **after** the curated merge so generated, merged, and any future pure-curated boards are all stamped from their final released content. It fails the build (exit 1) if any board can't be tokenized or has a blank/`uncategorized` `[SkillPath]`.
 
@@ -331,7 +331,7 @@ https://raw.githubusercontent.com/bridge-craftwork/Baker-Bridge/main/Package/{le
 ```
 (Issue #21, Phase B moved the build's output to a new `bridge-classroom/` folder; `Package/`
 is a frozen orphan. Once BC repoints its props at `bridge-classroom/{lesson}.pbn`, update the
-URL above. The re-rolled boards carry new `[VersionToken]`s — a board-identity change BC
-coordinates per the producer contract.)
+URL above. The re-rolled boards carry new `[VersionToken]`s; board identity is positional
+(ADR-0001), so that doesn't touch students' progress.)
 
 The app's `pbnParser.js` parses these directives and `useDealPractice.js` tracks state to control UI visibility.
