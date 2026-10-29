@@ -43,10 +43,10 @@ D6
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 1NT pass 2C pass 2D pass 3NT all pass pass pass
+1D pass 1S pass 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "f690149921f3f8288977ac249fb01bd3f08d214d391fcf6cecc054f431412260"]
+[VersionToken "753bccdbeb4ae29985edc3d7b312130c473075c64c5cead6fb971dcd44011724"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]

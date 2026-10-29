@@ -405,7 +405,9 @@ HQ
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-2C pass 2H pass 3H pass 4H pass 4NT pass 5D pass 6H pass pass pass
+2C pass 2H pass 3H pass 4H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -537,7 +539,7 @@ S8
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2H pass 3H pass 4C pass 4D pass 6H all pass pass pass
+2C pass 2D pass 2H pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -572,7 +574,7 @@ SQ
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2H pass 2S pass 2NT pass 3S pass 4S all pass pass pass
+2C pass 2D pass 2H pass 2S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -607,7 +609,9 @@ DK
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2S pass 4NT pass 5H pass 7NT pass pass pass
+2C pass 2S pass 4NT =1= pass 5H =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

@@ -144,9 +144,9 @@ S6
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 3NT all pass pass pass
+1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
-[VersionToken "85fcffdb5dc20cd2010991650f5ddcfa4a11af4aa66fee69d2ac2392e23883fa"]
+[VersionToken "16843217c5ee8495f255c608cb1611c69866aae81699cbf4f9a0ac52a4d526be"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -306,9 +306,9 @@ S2
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D pass 2H pass 3NT all pass pass pass
+1NT pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
-[VersionToken "fbbdeb56e58a69ef39e97d797d062923367addfe45833efcc4ad91608da8e6c7"]
+[VersionToken "51fea4d0fe5bc0147a2815595fc46972eacf6d056ac911cde0f8ee9ec1002e63"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -376,7 +376,9 @@ S2
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 2S pass 4NT pass 5H pass 6S pass pass pass
+1C pass 1S pass 2S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [VersionToken "eba7628e76f89365ee225d8f812c9a3f8877aed0c14c0930c5978c989fa1b5e7"]
 [Category "Declarer Play"]
@@ -658,7 +660,11 @@ CK
 [Contract "7C"]
 [Result ""]
 [Auction "S"]
-2C pass 2H pass 3C pass 3NT pass 4NT pass 5D pass 5NT pass 6H pass 7C pass pass pass
+2C pass 2H pass 3C pass 3NT pass 4NT =1= pass 5D =2= pass 5NT =3= pass 6H =4= pass 7C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
+[Note "3:asks for kings"]
+[Note "4:2 kings"]
 [BCFlags "1f"]
 [VersionToken "ccb6415a2625f929ae286376c01c340eac5662b216c2cdd2f5e33e09cc8e6706"]
 [Category "Declarer Play"]
@@ -1102,7 +1108,9 @@ ST
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-pass pass 2C pass 2NT pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+pass pass 2C pass 2NT pass 3S pass 4S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [VersionToken "a743ff7cdac7995e4ec4ebf6a1a95b5d3e31c2ede0e240cc1924e0f5695734d8"]
 [Category "Declarer Play"]

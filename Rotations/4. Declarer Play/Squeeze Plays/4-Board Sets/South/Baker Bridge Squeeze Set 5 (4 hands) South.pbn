@@ -14,7 +14,11 @@
 [Contract "7C"]
 [Result ""]
 [Auction "S"]
-2C pass 3D pass 4NT pass 5D pass 5NT pass 6D pass 7C pass pass pass
+2C pass 3D pass 4NT =1= pass 5D =2= pass 5NT =3= pass 6D =4= pass 7C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
+[Note "3:asks for kings"]
+[Note "4:1 king"]
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [VersionToken "e71b40e5c33b4458280cdcea1ab5e9128301b3fcad20ab11e93677741e91eadc"]

@@ -222,7 +222,9 @@ ST
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
+2C pass 2H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -257,7 +259,9 @@ SJ
 [Contract "7S"]
 [Result ""]
 [Auction "S"]
-2C pass 2S pass 3S pass 4C pass 4D pass 4NT pass 5S pass 7S all pass pass pass
+2C pass 2S pass 3S pass 4C pass 4D pass 4NT =1= pass 5S =2= pass 7S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:3 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -492,7 +496,9 @@ S5
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2C pass 2S pass 3H pass 4H pass 4NT pass 5H pass 6H pass pass pass
+2C pass 2S pass 3H pass 4H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -589,14 +595,14 @@ C7
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-2C pass 2H pass 2S pass 3H pass 6H pass pass all pass pass pass
+2C pass 2H pass 2S pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
 [Student "S"]
 {[show S]
-[BID 2!C] [BID 2!S] [BID 6!H] [BID Pass]
+[BID 2!C] [BID 2!S] [BID 6!H]
 [show NS]
 SOUTH opens 2\C and NORTH, with 8 points should bid 2\H. 
  
@@ -715,7 +721,7 @@ S4
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2NT pass 3C pass 3S pass 4S all pass pass pass
+2C pass 2D pass 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -753,7 +759,7 @@ S4
 [Contract "7NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 4C pass 4S pass 5C pass 5H pass 7NT all pass pass pass
+2C pass 2NT pass 4C pass 4S pass 5C pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
@@ -789,7 +795,9 @@ H6
 [Contract "6D"]
 [Result ""]
 [Auction "S"]
-2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
+2C pass 3D pass 4NT =1= pass 5D =2= pass 6D pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]

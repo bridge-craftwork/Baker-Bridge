@@ -88,10 +88,10 @@ S6
 [Contract "3NT"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2S pass 3NT all pass pass pass
+1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[VersionToken "85fcffdb5dc20cd2010991650f5ddcfa4a11af4aa66fee69d2ac2392e23883fa"]
+[VersionToken "16843217c5ee8495f255c608cb1611c69866aae81699cbf4f9a0ac52a4d526be"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]

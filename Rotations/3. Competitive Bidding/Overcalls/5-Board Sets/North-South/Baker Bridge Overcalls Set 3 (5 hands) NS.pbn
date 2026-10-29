@@ -122,10 +122,10 @@ DK
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1C 1H pass 1S pass 2S pass 4S all pass pass pass
+1C 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[VersionToken "7b3f04af2543eebdd61186411c9baa8d73658948683b3fce515b2f370a52c30d"]
+[VersionToken "cc7de9561eee288c0dab292375b60ab167e2ffc1ae80dbd3ae028a314013ef2b"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]

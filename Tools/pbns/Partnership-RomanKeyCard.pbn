@@ -13,7 +13,9 @@
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 3S pass 4S pass 4NT pass 5H pass 6S pass pass pass
+2C pass 2NT pass 3S pass 4S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards without the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -40,7 +42,9 @@ HQ
 [Contract "5H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4NT pass 5D pass 5H pass pass pass
+1H pass 3H pass 4NT =1= pass 5D =2= pass 5H pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:0 or 3 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -72,7 +76,9 @@ CT
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1H pass 1S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+1H pass 1S pass 4S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:0 or 3 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -109,7 +115,9 @@ C7
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4NT pass 5S pass 6H pass pass pass
+1H pass 3H pass 4NT =1= pass 5S =2= pass 6H pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards with the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -173,7 +181,9 @@ H4
 [Contract "6D"]
 [Result ""]
 [Auction "S"]
-1H pass 2D pass 4NT pass 5S pass 6D pass pass pass
+1H pass 2D pass 4NT =1= pass 5S =2= pass 6D pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards with the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -206,7 +216,9 @@ C7
 [Contract "5C"]
 [Result ""]
 [Auction "S"]
-1H pass 2C pass 4NT pass 5C pass pass pass
+1H pass 2C pass 4NT =1= pass 5C =2= pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:1 or 4 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -307,7 +319,9 @@ DA
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1NT pass 3H pass 4NT pass 5S pass 6H pass pass pass
+1NT pass 3H pass 4NT =1= pass 5S =2= pass 6H pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards with the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -341,7 +355,9 @@ D5
 [Contract "7NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2S pass 3S pass 4NT pass 5D pass 5H pass 6C pass 7NT pass pass pass
+2C pass 2S pass 3S pass 4NT =1= pass 5D =2= pass 5H pass 6C pass 7NT pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:0 or 3 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -374,7 +390,9 @@ H6
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1NT pass 3S pass 4S pass 4NT pass 5S pass 6S pass pass pass
+1NT pass 3S pass 4S pass 4NT =1= pass 5S =2= pass 6S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards with the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -403,7 +421,9 @@ HK
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1NT pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+1NT pass 3S pass 4S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:0 or 3 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -436,7 +456,9 @@ CQ
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-3H pass 4NT pass 5H pass 7NT pass pass pass
+3H pass 4NT =1= pass 5H =2= pass 7NT pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards without the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -469,7 +491,9 @@ SQ
 [Contract "5S"]
 [Result ""]
 [Auction "N"]
-1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
+1S pass 3S pass 4NT =1= pass 5C =2= pass 5S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:1 or 4 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -562,7 +586,9 @@ CK
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 4NT pass 5S pass 6S pass pass pass
+1NT pass 2C pass 2S pass 4NT =1= pass 5S =2= pass 6S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards with the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -596,7 +622,9 @@ DJ
 [Contract "5S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 4NT pass 5H pass 5S pass pass pass
+1NT pass 2C pass 2S pass 4NT =1= pass 5H =2= pass 5S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards without the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -660,7 +688,9 @@ DQ
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2S pass 3S pass 4NT pass 5H pass 6S pass pass pass
+2C pass 2D pass 2S pass 3S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards without the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -689,7 +719,9 @@ S9
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5D pass 6H pass pass pass
+2C pass 2D pass 2H pass 3H pass 4NT =1= pass 5C =2= pass 5D pass 6H pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:1 or 4 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -722,7 +754,9 @@ CJ
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5D pass 6H pass pass pass
+2C pass 2D pass 2H pass 3H pass 4NT =1= pass 5C =2= pass 5D pass 6H pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:1 or 4 key cards"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -755,7 +789,9 @@ CJ
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 2S pass 3C pass 3H pass 4H pass 4NT pass 5S pass 6H pass pass pass
+1H pass 2S pass 3C pass 3H pass 4H pass 4NT =1= pass 5S =2= pass 6H pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards with the trump queen"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]

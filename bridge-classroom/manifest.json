@@ -1026,7 +1026,7 @@
         {
           "number": 69,
           "stable": true,
-          "boardVersionToken": "d269d9799b0d86189f60650aebb135127e3d9efc25ce8cf832e747e33a45ae44",
+          "boardVersionToken": "d0463fee27d47e2fa6dbed4cbaec7ca7c1b06aaffb59d9dc42cd5b719819163c",
           "skillPath": "practice_deals/100_notrump"
         },
         {
@@ -1044,7 +1044,7 @@
         {
           "number": 72,
           "stable": true,
-          "boardVersionToken": "ccd8e12955dfdea9d68a4154cb801687d62116d20ec9e9c220561b003e0900ba",
+          "boardVersionToken": "8df151788911cb1b90525eaba27b184c55dbd9767631acdaedb139aeee107861",
           "skillPath": "practice_deals/100_notrump"
         },
         {
@@ -1092,7 +1092,7 @@
         {
           "number": 80,
           "stable": true,
-          "boardVersionToken": "5c50305402a0c48514d42ae209c3bab22ddabf358cc78bd153f37436af30b3e9",
+          "boardVersionToken": "81305e570a853057467bb81c5fe588dd6a253aab81998ebedd3feebb2f9b991e",
           "skillPath": "practice_deals/100_notrump"
         },
         {
@@ -1194,7 +1194,7 @@
         {
           "number": 97,
           "stable": true,
-          "boardVersionToken": "84bf20a8116d759b4994731054acdb5cc90819602ac7228e2f9e637c059b735c",
+          "boardVersionToken": "6d210ec907c4c2f53245d7e311857fd8910c1c242a56a158c10bc1e6fa39df9f",
           "skillPath": "practice_deals/100_notrump"
         },
         {
@@ -1322,13 +1322,13 @@
         {
           "number": 17,
           "stable": true,
-          "boardVersionToken": "5c42dde8f3a20fc9ed93d36bb6756a6259f3a07a0dc7d04618478ec1a081dd44",
+          "boardVersionToken": "e0453cd8233d95bab9d0f16c3a86acb47992102db861439aafa402eed47e02a6",
           "skillPath": "bidding_conventions/strong_2c"
         },
         {
           "number": 18,
           "stable": true,
-          "boardVersionToken": "0158a684ee2abdbc66eef24efd75aa6b1ce3db32e1852cebc506924a722c1bad",
+          "boardVersionToken": "4cedbaf297aeb53b18eba0fa570d187474d8816af5fdc4ac66f760beb5463071",
           "skillPath": "bidding_conventions/strong_2c"
         },
         {
@@ -1572,7 +1572,7 @@
         {
           "number": 8,
           "stable": true,
-          "boardVersionToken": "437f9690585dcc41eec5b4f1eb48610103f2d3e8cac2d0deb6b1d4f482515ad0",
+          "boardVersionToken": "3b604d32168e8663dfba8437640b6afb612aa572d1d867f917c7f9ff554169c0",
           "skillPath": "bidding_conventions/blackwood"
         },
         {
@@ -2208,7 +2208,7 @@
         {
           "number": 3,
           "stable": true,
-          "boardVersionToken": "85fcffdb5dc20cd2010991650f5ddcfa4a11af4aa66fee69d2ac2392e23883fa",
+          "boardVersionToken": "16843217c5ee8495f255c608cb1611c69866aae81699cbf4f9a0ac52a4d526be",
           "skillPath": "declarer_play/suit_establishment"
         },
         {
@@ -2226,7 +2226,7 @@
         {
           "number": 6,
           "stable": true,
-          "boardVersionToken": "fbbdeb56e58a69ef39e97d797d062923367addfe45833efcc4ad91608da8e6c7",
+          "boardVersionToken": "51fea4d0fe5bc0147a2815595fc46972eacf6d056ac911cde0f8ee9ec1002e63",
           "skillPath": "declarer_play/suit_establishment"
         },
         {
@@ -2354,7 +2354,7 @@
         {
           "number": 6,
           "stable": true,
-          "boardVersionToken": "333935c04299af90f8c22cd36eddfbd740e98f9a339693655f489735b9b38b5e",
+          "boardVersionToken": "6038a57fb6ea4f2a63386d704b6e14869e66e08dfe0b4d2425431366e50cd0b4",
           "skillPath": "bidding_conventions/fourth_suit_forcing"
         },
         {
@@ -2378,7 +2378,7 @@
         {
           "number": 10,
           "stable": true,
-          "boardVersionToken": "d4b59169a8967174d1cd5c65c17bb60d763bed57561eb6f93ecc95ec1503762a",
+          "boardVersionToken": "03028b15a6acc3234221f5e9f88f1f7e0f6e658f615847292883115439de8da4",
           "skillPath": "bidding_conventions/fourth_suit_forcing"
         },
         {
@@ -2390,7 +2390,7 @@
         {
           "number": 12,
           "stable": true,
-          "boardVersionToken": "93d931e350ae4ccf1245f8a870025abf0608dded8228128bf55eaa4e756cc1df",
+          "boardVersionToken": "5939aa31a9387bbecb85ed69d4b4ae9f7a91e155e8890baf0f1b5059eaeec32f",
           "skillPath": "bidding_conventions/fourth_suit_forcing"
         },
         {
@@ -2402,7 +2402,7 @@
         {
           "number": 14,
           "stable": true,
-          "boardVersionToken": "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc",
+          "boardVersionToken": "9ba3609dc31f81355ef176d038dbb3f5057a95b491c3f41f8161d68a07187d69",
           "skillPath": "bidding_conventions/fourth_suit_forcing"
         }
       ],
@@ -2598,7 +2598,7 @@
         {
           "number": 10,
           "stable": true,
-          "boardVersionToken": "d162386884406e2f11de365448cbe36dfbaf4389dd100a47abc6e854da351d93",
+          "boardVersionToken": "3ab1e911ea31cb308f56f0e0e2cba0357bd814704a152db83942801ee3e40476",
           "skillPath": "bidding_conventions/help_suit_game_try"
         }
       ],
@@ -3080,7 +3080,7 @@
         {
           "number": 15,
           "stable": true,
-          "boardVersionToken": "a0435a9b730d4ea1ba41de1d5f0c046afc610aaa25c380111ccc447689267d3f",
+          "boardVersionToken": "2055912797293c961c782df52a76e025199fe40eadb2d3ca92006df72adce46d",
           "skillPath": "basic_bidding/major_suit_openings"
         },
         {
@@ -3270,7 +3270,7 @@
         {
           "number": 4,
           "stable": true,
-          "boardVersionToken": "1ccdd400f45b24e47d8d83593ef66ec10464d575f69c336601ce64d349a1d7c7",
+          "boardVersionToken": "7c70a24759058c53c7f6ccbf64bc6c8d4964cfe6bb3ee63766e5df500f4608e7",
           "skillPath": "basic_bidding/minor_suit_openings"
         },
         {
@@ -3386,7 +3386,7 @@
         {
           "number": 2,
           "stable": true,
-          "boardVersionToken": "180778ab9a3848ce2095c357cf40b9d245fcceba09cc220cda143e2045e65f39",
+          "boardVersionToken": "d837a2171648e3ab54efbb771749fcee0701bc3273734d78cb0943cdbf53ecb7",
           "skillPath": "bidding_conventions/new_minor_forcing"
         },
         {
@@ -3398,7 +3398,7 @@
         {
           "number": 4,
           "stable": true,
-          "boardVersionToken": "4ce286d8301eb5977f77793ef6dcfabdf4d58884cb050a3e573a13d627ed3d9f",
+          "boardVersionToken": "8526e8feb9611e0a18dd180862f53ffdaba9f2dcf766529d7cc09f54552f6bc7",
           "skillPath": "bidding_conventions/new_minor_forcing"
         },
         {
@@ -3410,7 +3410,7 @@
         {
           "number": 6,
           "stable": true,
-          "boardVersionToken": "17486b9f8879fe94005ef75de4521a4d5c1430f76cb8665cdf06bf13a4f250ef",
+          "boardVersionToken": "5821869d99053e437af5e733d389a120a4d47d61dd857d716b159bb039c8793c",
           "skillPath": "bidding_conventions/new_minor_forcing"
         },
         {
@@ -3434,7 +3434,7 @@
         {
           "number": 10,
           "stable": true,
-          "boardVersionToken": "773446eb3d8e95370f616f31afdb521b1d73384b74122f3c76205f90ea0830e3",
+          "boardVersionToken": "3f381c36ef6558213106ed5265b4b75f67cc6dee7415f2676c580fe771a7ffd6",
           "skillPath": "bidding_conventions/new_minor_forcing"
         },
         {
@@ -3446,7 +3446,7 @@
         {
           "number": 12,
           "stable": true,
-          "boardVersionToken": "c667accebc38b99850e05d026c53cf12dbe22ad0d2667fd5c186006dcdbf04ee",
+          "boardVersionToken": "a0a4c6f7e83562384a605f50755bd99e2762e84b505a6c1a03d7b5a7d29b2415",
           "skillPath": "bidding_conventions/new_minor_forcing"
         },
         {
@@ -3458,7 +3458,7 @@
         {
           "number": 14,
           "stable": true,
-          "boardVersionToken": "f690149921f3f8288977ac249fb01bd3f08d214d391fcf6cecc054f431412260",
+          "boardVersionToken": "753bccdbeb4ae29985edc3d7b312130c473075c64c5cead6fb971dcd44011724",
           "skillPath": "bidding_conventions/new_minor_forcing"
         }
       ],
@@ -3660,7 +3660,7 @@
         {
           "number": 11,
           "stable": true,
-          "boardVersionToken": "5855c671f7616b691d8b4ea6aa896369913e3fc9d7b4af8c87ec7f7fae834b43",
+          "boardVersionToken": "e2f19b7af8cc61f74e5d55c64306346a527153a934c38a2c4a97e58b104c2890",
           "skillPath": "basic_bidding/notrump_openings"
         },
         {
@@ -4038,7 +4038,7 @@
         {
           "number": 15,
           "stable": true,
-          "boardVersionToken": "7b3f04af2543eebdd61186411c9baa8d73658948683b3fce515b2f370a52c30d",
+          "boardVersionToken": "cc7de9561eee288c0dab292375b60ab167e2ffc1ae80dbd3ae028a314013ef2b",
           "skillPath": "competitive_bidding/overcalls"
         },
         {
@@ -4050,7 +4050,7 @@
         {
           "number": 17,
           "stable": true,
-          "boardVersionToken": "de4b90477e6aeb1af455c65419699c8928cae46e15c8145a33ff40f954c36735",
+          "boardVersionToken": "19d5eee35afa8797e1710626aa948eeb7d9faf5e91d97916d4bf6ba1270e6f32",
           "skillPath": "competitive_bidding/overcalls"
         },
         {
@@ -4062,7 +4062,7 @@
         {
           "number": 19,
           "stable": true,
-          "boardVersionToken": "a605a0ae37f137cab3da833cb27ce0d74b1de66019d9302eba84787047a11f51",
+          "boardVersionToken": "beefe534300e6c73c10c36f36c628a4e26fa4f1aeff2b1ebe35c4232911b7865",
           "skillPath": "competitive_bidding/overcalls"
         },
         {
@@ -4786,7 +4786,7 @@
         {
           "number": 17,
           "stable": true,
-          "boardVersionToken": "4f41e58d21ba776770863561e51e2ae03911f3ed9a01cba4fc28db565fb71e61",
+          "boardVersionToken": "a27eb7c15faac9752c5f1e6b770106153f69df55c08b71569a4b5f788e6c224d",
           "skillPath": "partnership_bidding/blackwood"
         },
         {
@@ -4968,7 +4968,7 @@
         {
           "number": 22,
           "stable": true,
-          "boardVersionToken": "cd7c0f45c87c89df06a31b1f975b5ab31ccec0bb13db78b27e0ba24c219e732b",
+          "boardVersionToken": "1988e549d9c21f98b0845c84dc754f389c5cd5ef28477176a3d14bd4bd234b5e",
           "skillPath": "partnership_bidding/jacoby_2nt"
         },
         {
@@ -5644,7 +5644,7 @@
         {
           "number": 8,
           "stable": true,
-          "boardVersionToken": "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681",
+          "boardVersionToken": "aff141249aaaf5da9522d33e0c9d2a564ad889e972569f456b32fa991b61bd07",
           "skillPath": "partnership_bidding/two_club"
         },
         {
@@ -5704,7 +5704,7 @@
         {
           "number": 18,
           "stable": true,
-          "boardVersionToken": "70bbdd9a2b755e255e0bc407d55cd4b048da1526de6a1039bbe4540220083a13",
+          "boardVersionToken": "f8a62b445c79fb5b51bad79742b4b2efe47bb2112be81ffb5c956a7c58ebcffe",
           "skillPath": "partnership_bidding/two_club"
         },
         {
@@ -5728,13 +5728,13 @@
         {
           "number": 22,
           "stable": true,
-          "boardVersionToken": "d79a7bda5f5f01df2316a50b090e0c113bd27cbca7bc7008cef5a9051d85388b",
+          "boardVersionToken": "2a3c3d3c6adf6b0692a696298e169c07a63b0b7af764a14ea0719e87638c9406",
           "skillPath": "partnership_bidding/two_club"
         },
         {
           "number": 23,
           "stable": true,
-          "boardVersionToken": "a6170f9334002978ef14c6609c5dafbf381683edb5646b066be8239337113071",
+          "boardVersionToken": "778d3bd4b88912fa363c4908d2063ebe46c47eb778e85f85e5eb0e81ad5914ad",
           "skillPath": "partnership_bidding/two_club"
         },
         {
@@ -5992,7 +5992,7 @@
         {
           "number": 2,
           "stable": true,
-          "boardVersionToken": "26f6fdcba8b783849953a3915a245b65171da544215e280ff873cbed33ebc3fd",
+          "boardVersionToken": "d72c400a455f3861b1d308653511c5478295f0ee56174e012c93002cb08ddffc",
           "skillPath": "bidding_conventions/reverse_bids"
         },
         {
@@ -6102,7 +6102,7 @@
         {
           "number": 5,
           "stable": true,
-          "boardVersionToken": "afa7baa1e854fdf0bffcfa36673dd5bf963d60219042ac7322507fcf207414c1",
+          "boardVersionToken": "2b8c3d3d85d5e7b53656eab95c90256e36a024c002d33e6e56c137f52b8a1191",
           "skillPath": "bidding_conventions/roman_keycard"
         },
         {
@@ -6174,19 +6174,19 @@
         {
           "number": 17,
           "stable": true,
-          "boardVersionToken": "84068150aad48225b9c48147d2113465e089e5aa32c916f5df7c11831561d7a9",
+          "boardVersionToken": "8c999576010d92ddb2a5e2f8bd04174e684ac7dc374ae98ab169a50ddb74994f",
           "skillPath": "bidding_conventions/roman_keycard"
         },
         {
           "number": 18,
           "stable": true,
-          "boardVersionToken": "daed4548148381aa25c9961c0a423c0dbea37fa5e0e41747ccbfdfbdfec37cb6",
+          "boardVersionToken": "4186f480271365cc08cb18ce320a15a81478cb62fee3e1c966ff069910b50348",
           "skillPath": "bidding_conventions/roman_keycard"
         },
         {
           "number": 19,
           "stable": true,
-          "boardVersionToken": "ca84fb59020a08229eeb4f94cc1c71a59f8b10386df904c9f26f94680bf4f3fa",
+          "boardVersionToken": "1ed85f3236c1d169d830466a0c6d15c947a55241e5cb0bcfd44db5e607b31a44",
           "skillPath": "bidding_conventions/roman_keycard"
         },
         {
@@ -6212,7 +6212,7 @@
         {
           "number": 2,
           "stable": true,
-          "boardVersionToken": "c3d4d230afc9b65e7aeb6829de2968537566dbf5eb1af45ab45062616e89dbbf",
+          "boardVersionToken": "658dd0a5359b6d8af46be44f699111333fed82b8fe282012f51a7208ea428cf0",
           "skillPath": "defense/second_hand_play"
         },
         {
@@ -6486,7 +6486,7 @@
         {
           "number": 5,
           "stable": true,
-          "boardVersionToken": "8ae93f3d069591845d429611e04dafba0d671a90bb09a5177ca6ccc8ff3ae0d4",
+          "boardVersionToken": "90b2f72216abc2b31dfc1b9eff356c763bb0eedb3cec354674b41aa774c7225c",
           "skillPath": "declarer_play/squeeze_plays"
         },
         {
@@ -7142,7 +7142,7 @@
         {
           "number": 19,
           "stable": true,
-          "boardVersionToken": "d47989381a251976a82c05494feaa37802b1d4a3061fd82e01ea1f74b620878a",
+          "boardVersionToken": "3a02c985e57a5b23f3be6daf3bbe8ca1c161f481eac129ab57e76c4c81821335",
           "skillPath": "bidding_conventions/jacoby_transfers"
         },
         {

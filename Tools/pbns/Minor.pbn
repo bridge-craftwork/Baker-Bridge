@@ -112,7 +112,7 @@ DK
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 3S pass 4S all pass pass pass
+1C pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -213,7 +213,9 @@ S5
 [Contract "6C"]
 [Result ""]
 [Auction "S"]
-1C pass 3C pass 4NT pass 5D pass 6C pass pass pass
+1C pass 3C pass 4NT =1= pass 5D =2= pass 6C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
@@ -611,7 +613,9 @@ CK
 [Contract "5S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
+1C pass 1S pass 3S pass 4NT =1= pass 5C =2= pass 5S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:0 or 4 aces"]
 [BCFlags "1f"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]

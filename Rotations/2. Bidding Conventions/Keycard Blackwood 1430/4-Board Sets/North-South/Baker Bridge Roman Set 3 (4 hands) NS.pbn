@@ -15,7 +15,9 @@
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-2C pass 2H pass 4NT pass 5C pass 6H pass pass pass
+2C pass 2H pass 4NT =1= pass 5C =2= pass 6H pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:1 or 4 key cards"]
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [VersionToken "0934b5d8716b16b59031e4d45eca90c2b24e1525470f453f2cd9952f18f0a8c5"]
@@ -40,7 +42,9 @@ CA
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1S pass 3H pass 3S pass 4NT pass 5S pass 6S pass pass pass
+1S pass 3H pass 3S pass 4NT =1= pass 5S =2= pass 6S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards with the trump queen"]
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [VersionToken "1ad2597114a02cd7342dfe9a90d14a664414779cf73e06083c23ae36b3d9c908"]
@@ -92,7 +96,9 @@ CA
 [Contract "5S"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 4NT pass 5C pass 5D pass 5S pass pass pass
+1NT pass 2C pass 2S pass 4NT =1= pass 5C =2= pass 5D pass 5S pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:1 or 4 key cards"]
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [VersionToken "171538e8fcdbebb22dc1572ece0df278be7b72abba093fa6e0efaaeff70f7d97"]

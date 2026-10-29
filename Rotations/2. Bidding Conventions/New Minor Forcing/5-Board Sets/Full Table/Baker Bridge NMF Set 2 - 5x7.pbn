@@ -14,10 +14,10 @@
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1NT pass 2D pass 3H pass 4H all pass pass pass
+1C pass 1H pass 1NT pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[VersionToken "17486b9f8879fe94005ef75de4521a4d5c1430f76cb8665cdf06bf13a4f250ef"]
+[VersionToken "5821869d99053e437af5e733d389a120a4d47d61dd857d716b159bb039c8793c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -130,10 +130,10 @@ H7
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1D pass 1S pass 1NT pass 2C pass 3H pass 4H all pass pass pass
+1D pass 1S pass 1NT pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[VersionToken "773446eb3d8e95370f616f31afdb521b1d73384b74122f3c76205f90ea0830e3"]
+[VersionToken "3f381c36ef6558213106ed5265b4b75f67cc6dee7415f2676c580fe771a7ffd6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]

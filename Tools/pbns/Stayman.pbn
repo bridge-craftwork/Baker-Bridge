@@ -204,7 +204,9 @@ C7
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2C pass 2H pass 4NT pass 5H pass 6H pass pass pass
+1NT pass 2C pass 2H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]

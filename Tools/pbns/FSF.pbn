@@ -178,7 +178,7 @@ D7
 [Contract "5C"]
 [Result ""]
 [Auction "S"]
-1H pass 1S pass 2C pass 2D pass 3C pass 5C all pass pass pass
+1H pass 1S pass 2C pass 2D pass 3C pass 5C pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -308,7 +308,7 @@ CK
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 2C pass 2H pass 2S pass 4S all pass pass pass
+1D pass 1S pass 2C pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -376,7 +376,7 @@ HK
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1C pass 1D pass 1H pass 1S pass 2S pass 4S all pass pass pass
+1C pass 1D pass 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
@@ -440,7 +440,7 @@ CT
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1S pass 2D pass 3H pass 4H all pass pass pass
+1C pass 1H pass 1S pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

@@ -41,7 +41,7 @@ H8
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 1NT pass 3NT all pass pass pass
+1C pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

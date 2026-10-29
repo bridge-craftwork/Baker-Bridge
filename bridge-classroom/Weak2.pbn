@@ -521,7 +521,9 @@ CK
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-2S pass 4NT pass 5D pass 6S pass pass pass
+2S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [VersionToken "f4a8f2f6a22630cadaa38cf0a5527590f9ee6b5781bcde7267dbf9ddfe7a0774"]
 [Category "Bidding Conventions"]

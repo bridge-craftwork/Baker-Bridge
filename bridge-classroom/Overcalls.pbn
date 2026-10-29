@@ -442,9 +442,9 @@ DK
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1C 1H pass 1S pass 2S pass 4S all pass pass pass
+1C 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
-[VersionToken "7b3f04af2543eebdd61186411c9baa8d73658948683b3fce515b2f370a52c30d"]
+[VersionToken "cc7de9561eee288c0dab292375b60ab167e2ffc1ae80dbd3ae028a314013ef2b"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
@@ -506,9 +506,9 @@ S6
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1S 2C pass 2S pass 2NT pass 3NT all pass pass pass
+1S 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[VersionToken "de4b90477e6aeb1af455c65419699c8928cae46e15c8145a33ff40f954c36735"]
+[VersionToken "19d5eee35afa8797e1710626aa948eeb7d9faf5e91d97916d4bf6ba1270e6f32"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
@@ -566,9 +566,9 @@ CK
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1C 2D pass 2NT pass 3H pass 3NT all pass pass pass
+1C 2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
-[VersionToken "a605a0ae37f137cab3da833cb27ce0d74b1de66019d9302eba84787047a11f51"]
+[VersionToken "beefe534300e6c73c10c36f36c628a4e26fa4f1aeff2b1ebe35c4232911b7865"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]

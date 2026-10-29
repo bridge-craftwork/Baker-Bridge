@@ -127,10 +127,12 @@ S7
 [Contract "6C"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 3C pass 4C pass 4NT pass 5D pass 6C all pass pass pass
+pass 1NT pass 3C pass 4C pass 4NT =1= pass 5D =2= pass 6C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "5855c671f7616b691d8b4ea6aa896369913e3fc9d7b4af8c87ec7f7fae834b43"]
+[VersionToken "e2f19b7af8cc61f74e5d55c64306346a527153a934c38a2c4a97e58b104c2890"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/notrump_openings"]

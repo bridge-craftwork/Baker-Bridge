@@ -14,10 +14,10 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1S 2C pass 2S pass 2NT pass 3NT all pass pass pass
+1S 2C pass 2S pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[VersionToken "de4b90477e6aeb1af455c65419699c8928cae46e15c8145a33ff40f954c36735"]
+[VersionToken "19d5eee35afa8797e1710626aa948eeb7d9faf5e91d97916d4bf6ba1270e6f32"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]
@@ -66,10 +66,10 @@ CK
 [Contract "3NT"]
 [Result ""]
 [Auction "W"]
-1C 2D pass 2NT pass 3H pass 3NT all pass pass pass
+1C 2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "a605a0ae37f137cab3da833cb27ce0d74b1de66019d9302eba84787047a11f51"]
+[VersionToken "beefe534300e6c73c10c36f36c628a4e26fa4f1aeff2b1ebe35c4232911b7865"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]

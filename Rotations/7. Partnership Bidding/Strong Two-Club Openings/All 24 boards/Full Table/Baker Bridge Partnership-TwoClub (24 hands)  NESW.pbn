@@ -196,7 +196,9 @@ ST
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 4NT pass 5D pass 6H pass pass pass
+2C pass 2H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 7, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [VersionToken "4e0f6d926108303f7dc55d506e1a21f0a87bd72dc75ed9233165ce2f37923acd"]
@@ -226,10 +228,12 @@ SJ
 [Contract "7S"]
 [Result ""]
 [Auction "E"]
-2C pass 2S pass 3S pass 4C pass 4D pass 4NT pass 5S pass 7S all pass pass pass
+2C pass 2S pass 3S pass 4C pass 4D pass 4NT =1= pass 5S =2= pass 7S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:3 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 8, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[VersionToken "f4c4f8f48644c7f7c9eaa8c624c1415d564bac9270b84ef6dbd5ebd8ceee4681"]
+[VersionToken "aff141249aaaf5da9522d33e0c9d2a564ad889e972569f456b32fa991b61bd07"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -432,7 +436,9 @@ S5
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-2C pass 2S pass 3H pass 4H pass 4NT pass 5H pass 6H pass pass pass
+2C pass 2S pass 3H pass 4H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 15, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [VersionToken "6b5c4cfd3b78b0abf85792daf4a9070e16b3763025ce166432c1e252478766c3"]
@@ -518,10 +524,10 @@ C7
 [Contract "6H"]
 [Result ""]
 [Auction "W"]
-2C pass 2H pass 2S pass 3H pass 6H pass pass all pass pass pass
+2C pass 2H pass 2S pass 3H pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 18, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[VersionToken "70bbdd9a2b755e255e0bc407d55cd4b048da1526de6a1039bbe4540220083a13"]
+[VersionToken "f8a62b445c79fb5b51bad79742b4b2efe47bb2112be81ffb5c956a7c58ebcffe"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -632,10 +638,10 @@ S4
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-2C pass 2D pass 2NT pass 3C pass 3S pass 4S all pass pass pass
+2C pass 2D pass 2NT pass 3C pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 22, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[VersionToken "d79a7bda5f5f01df2316a50b090e0c113bd27cbca7bc7008cef5a9051d85388b"]
+[VersionToken "2a3c3d3c6adf6b0692a696298e169c07a63b0b7af764a14ea0719e87638c9406"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -663,10 +669,10 @@ S4
 [Contract "7NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 4C pass 4S pass 5C pass 5H pass 7NT all pass pass pass
+2C pass 2NT pass 4C pass 4S pass 5C pass 5H pass 7NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 23, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "a6170f9334002978ef14c6609c5dafbf381683edb5646b066be8239337113071"]
+[VersionToken "778d3bd4b88912fa363c4908d2063ebe46c47eb778e85f85e5eb0e81ad5914ad"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/two_club"]
@@ -694,7 +700,9 @@ H6
 [Contract "6D"]
 [Result ""]
 [Auction "E"]
-2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
+2C pass 3D pass 4NT =1= pass 5D =2= pass 6D pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 24, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
 [VersionToken "95490a29956197eac5dd5c354a5365e4d1ab93003bd98cd50ad65761d3452309"]

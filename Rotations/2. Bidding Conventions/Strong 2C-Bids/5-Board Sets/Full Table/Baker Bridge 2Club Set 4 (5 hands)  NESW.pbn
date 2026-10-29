@@ -40,10 +40,10 @@ S8
 [Contract "6H"]
 [Result ""]
 [Auction "E"]
-2C pass 2D pass 2H pass 3H pass 4C pass 4D pass 6H all pass pass pass
+2C pass 2D pass 2H pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[VersionToken "5c42dde8f3a20fc9ed93d36bb6756a6259f3a07a0dc7d04618478ec1a081dd44"]
+[VersionToken "e0453cd8233d95bab9d0f16c3a86acb47992102db861439aafa402eed47e02a6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -67,10 +67,10 @@ SQ
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-2C pass 2D pass 2H pass 2S pass 2NT pass 3S pass 4S all pass pass pass
+2C pass 2D pass 2H pass 2S pass 2NT pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "0158a684ee2abdbc66eef24efd75aa6b1ce3db32e1852cebc506924a722c1bad"]
+[VersionToken "4cedbaf297aeb53b18eba0fa570d187474d8816af5fdc4ac66f760beb5463071"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/strong_2c"]
@@ -94,7 +94,9 @@ DK
 [Contract "7NT"]
 [Result ""]
 [Auction "W"]
-2C pass 2S pass 4NT pass 5H pass 7NT pass pass pass
+2C pass 2S pass 4NT =1= pass 5H =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
 [VersionToken "ada9e16dcb0b02774d68e11395a424ee19bd944b75c2000b388a43305b564ce5"]

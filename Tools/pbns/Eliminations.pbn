@@ -1293,7 +1293,9 @@ HK
 [Contract "6S"]
 [Result ""]
 [Auction "E"]
-pass 1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
+pass 1S pass 3S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1850,7 +1852,9 @@ C2
 [Contract "6C"]
 [Result ""]
 [Auction "E"]
-2S 3C pass 4NT pass 5H pass 6C pass pass pass
+2S 3C pass 4NT =1= pass 5H =2= pass 6C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]

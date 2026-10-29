@@ -142,7 +142,7 @@ S6
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2S pass 3NT all pass pass pass
+1NT pass 2C pass 2S pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -301,7 +301,7 @@ S2
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D pass 2H pass 3NT all pass pass pass
+1NT pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -370,7 +370,9 @@ S2
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 2S pass 4NT pass 5H pass 6S pass pass pass
+1C pass 1S pass 2S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -647,7 +649,11 @@ CK
 [Contract "7C"]
 [Result ""]
 [Auction "S"]
-2C pass 2H pass 3C pass 3NT pass 4NT pass 5D pass 5NT pass 6H pass 7C pass pass pass
+2C pass 2H pass 3C pass 3NT pass 4NT =1= pass 5D =2= pass 5NT =3= pass 6H =4= pass 7C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
+[Note "3:asks for kings"]
+[Note "4:2 kings"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
@@ -1083,7 +1089,9 @@ ST
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-pass pass 2C pass 2NT pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+pass pass 2C pass 2NT pass 3S pass 4S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]

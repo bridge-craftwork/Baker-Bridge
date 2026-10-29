@@ -236,7 +236,9 @@ S9
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-3H pass 4NT pass 5D pass 6H pass pass pass
+3H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [VersionToken "ab3ad96f038dc2e97d6aecfff8039e3ab2f36355bc73ddb6f825e2abf836e4dd"]
 [Category "Partnership Bidding"]

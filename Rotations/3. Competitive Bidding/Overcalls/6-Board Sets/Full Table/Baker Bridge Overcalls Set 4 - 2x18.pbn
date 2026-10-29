@@ -14,10 +14,10 @@
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1C 2D pass 2NT pass 3H pass 3NT all pass pass pass
+1C 2D pass 2NT pass 3H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[VersionToken "a605a0ae37f137cab3da833cb27ce0d74b1de66019d9302eba84787047a11f51"]
+[VersionToken "beefe534300e6c73c10c36f36c628a4e26fa4f1aeff2b1ebe35c4232911b7865"]
 [Category "Competitive Bidding"]
 [Difficulty "beginner"]
 [SkillPath "competitive_bidding/overcalls"]

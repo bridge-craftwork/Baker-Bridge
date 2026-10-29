@@ -15,7 +15,9 @@
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1H pass 2S pass 4NT pass 5D pass 6S pass pass pass
+1H pass 2S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [VersionToken "521d52bbc9c1210f53030e7da2450ce48fbe8a4f66e77f544d38d13050cd504c"]
@@ -45,10 +47,12 @@ CK
 [Contract "7S"]
 [Result ""]
 [Auction "E"]
-1S pass 2NT pass 4C pass 4NT pass 5H pass 7S all pass pass pass
+1S pass 2NT pass 4C pass 4NT =1= pass 5H =2= pass 7S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[VersionToken "cd7c0f45c87c89df06a31b1f975b5ab31ccec0bb13db78b27e0ba24c219e732b"]
+[VersionToken "1988e549d9c21f98b0845c84dc754f389c5cd5ef28477176a3d14bd4bd234b5e"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
 [SkillPath "partnership_bidding/jacoby_2nt"]
@@ -104,7 +108,9 @@ D2
 [Contract "6S"]
 [Result ""]
 [Auction "W"]
-1S pass 2NT pass 3C pass 3H pass 4NT pass 5H pass 6S pass pass pass
+1S pass 2NT pass 3C pass 3H pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: S, basisKind:Declarer, nOption:3, nBasis: 2, nRot: 1, useStandardVul: true"]
 [VersionToken "9ae2fd6f320bba706218d0ae3c533bb460c744555cba7702ee83b0cca94f8178"]

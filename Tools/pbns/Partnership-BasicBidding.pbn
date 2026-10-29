@@ -360,7 +360,9 @@ H4
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1S pass 4NT pass 5H pass 6S pass pass pass
+1S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "beginner"]

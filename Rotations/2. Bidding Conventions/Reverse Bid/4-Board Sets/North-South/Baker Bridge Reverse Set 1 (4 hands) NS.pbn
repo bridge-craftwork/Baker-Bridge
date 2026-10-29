@@ -41,10 +41,10 @@ H8
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 1NT pass 3NT all pass pass pass
+1C pass 1S pass 1NT pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "26f6fdcba8b783849953a3915a245b65171da544215e280ff873cbed33ebc3fd"]
+[VersionToken "d72c400a455f3861b1d308653511c5478295f0ee56174e012c93002cb08ddffc"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/reverse_bids"]

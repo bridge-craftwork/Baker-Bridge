@@ -40,10 +40,10 @@ DQ
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1S pass 2S pass 3D pass 3H pass 4S all pass pass pass
+1S pass 2S pass 3D pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[VersionToken "d162386884406e2f11de365448cbe36dfbaf4389dd100a47abc6e854da351d93"]
+[VersionToken "3ab1e911ea31cb308f56f0e0e2cba0357bd814704a152db83942801ee3e40476"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/help_suit_game_try"]

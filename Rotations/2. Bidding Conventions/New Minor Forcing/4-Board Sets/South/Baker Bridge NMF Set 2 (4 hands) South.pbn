@@ -41,10 +41,10 @@ CJ
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1C pass 1H pass 1NT pass 2D pass 3H pass 4H all pass pass pass
+1C pass 1H pass 1NT pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "17486b9f8879fe94005ef75de4521a4d5c1430f76cb8665cdf06bf13a4f250ef"]
+[VersionToken "5821869d99053e437af5e733d389a120a4d47d61dd857d716b159bb039c8793c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]

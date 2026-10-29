@@ -66,7 +66,10 @@ H5
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2NT pass 4C pass 4NT pass 5C pass 5NT pass 7NT pass pass pass
+2NT pass 4C pass 4NT =1= pass 5C =2= pass 5NT =3= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:0 or 4 aces"]
+[Note "3:asks for kings"]
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [VersionToken "af3166413186295305f492502db4285b0339e8b2631f595d620fdd8f34b075bb"]

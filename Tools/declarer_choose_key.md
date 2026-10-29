@@ -762,6 +762,12 @@ Run the spades and diamonds keeping both clubs; take the first club finesse; tak
 not the heart finesse. The old eight-card end-position [showcards] is rebuilt trick by trick.
 
 <<<
+South is to play 6NT. West leads the \S3.
+===
+[showcards W:S3] South is to play 6NT. West leads the \S3.
+>>>
+
+<<<
 [showcards N:H9,CA,CJ,CT S:HA,HQ,C8,C3]
 ===
 [PLAY W:S3,N:SJ,E:S4,S:S5,N:SQ,E:S6,S:S9,W:S7,N:SA,E:H4,S:H2,W:S8,N:S2,E:H5,S:SK,W:ST,S:D7,W:D2,N:DA,E:D3,N:DK,E:D4,S:D8,W:D6,N:D5,E:D9,S:DQ,W:H3,S:DJ,W:C4,N:H7,E:HT,S:DT,W:C9,N:H6,E:C2]

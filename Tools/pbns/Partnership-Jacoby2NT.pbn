@@ -129,7 +129,9 @@ DA
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3C pass 3D pass 4NT pass 5H pass 6S pass pass pass
+1S pass 2NT pass 3C pass 3D pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -161,7 +163,9 @@ H2
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 2NT pass 3H pass 4NT pass 5H pass 6H pass pass pass
+1H pass 2NT pass 3H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -335,7 +339,9 @@ CK
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT pass 5H pass 6S pass pass pass
+1S pass 2NT pass 3NT pass 4C pass 4H pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -391,7 +397,9 @@ H6
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H pass 3S pass 4C pass 4D pass 4NT pass 5H pass 6H pass pass pass
+1H pass 3S pass 4C pass 4D pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -450,7 +458,9 @@ D9
 [Contract "5H"]
 [Result ""]
 [Auction "S"]
-1H pass 2NT pass 3S pass 4C pass 4NT pass 5H pass pass pass
+1H pass 2NT pass 3S pass 4C pass 4NT =1= pass 5H =2= pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -539,7 +549,9 @@ H2
 [Contract "5S"]
 [Result ""]
 [Auction "N"]
-1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5D pass 5S pass pass pass
+1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT =1= pass 5D =2= pass 5S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -601,7 +613,9 @@ DK
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1H pass 2S pass 4NT pass 5D pass 6S pass pass pass
+1H pass 2S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -634,7 +648,9 @@ CK
 [Contract "7S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 4C pass 4NT pass 5H pass 7S all pass pass pass
+1S pass 2NT pass 4C pass 4NT =1= pass 5H =2= pass 7S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]
@@ -699,7 +715,9 @@ D2
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3C pass 3H pass 4NT pass 5H pass 6S pass pass pass
+1S pass 2NT pass 3C pass 3H pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Partnership Bidding"]
 [Difficulty "advanced"]

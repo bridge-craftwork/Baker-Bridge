@@ -48,7 +48,9 @@ SJ
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1S pass 3D pass 3H pass 3NT pass 4H pass 4NT pass 5H pass 6H all pass pass pass
+1S pass 3D pass 3H pass 3NT pass 4H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -524,7 +526,9 @@ HT
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4NT pass 5C pass 6H pass pass pass
+1H pass 3H pass 4NT =1= pass 5C =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:0 or 4 aces"]
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]
@@ -731,7 +735,9 @@ H2
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 3H pass 4NT pass 5D pass 6H pass pass pass
+1H pass 3H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "intermediate"]

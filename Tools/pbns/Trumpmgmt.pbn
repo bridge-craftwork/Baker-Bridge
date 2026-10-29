@@ -1155,7 +1155,9 @@ SQ
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1D pass 1H pass 4NT pass 5D pass 6H pass pass pass
+1D pass 1H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]

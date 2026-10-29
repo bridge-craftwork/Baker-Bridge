@@ -53,10 +53,10 @@ S2
 [Contract "3NT"]
 [Result ""]
 [Auction "E"]
-1NT pass 2D pass 2H pass 3NT all pass pass pass
+1NT pass 2D pass 2H pass 3NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[VersionToken "fbbdeb56e58a69ef39e97d797d062923367addfe45833efcc4ad91608da8e6c7"]
+[VersionToken "51fea4d0fe5bc0147a2815595fc46972eacf6d056ac911cde0f8ee9ec1002e63"]
 [Category "Declarer Play"]
 [Difficulty "intermediate"]
 [SkillPath "declarer_play/suit_establishment"]
@@ -94,7 +94,9 @@ S2
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 2S pass 4NT pass 5H pass 6S pass pass pass
+1C pass 1S pass 2S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [VersionToken "eba7628e76f89365ee225d8f812c9a3f8877aed0c14c0930c5978c989fa1b5e7"]

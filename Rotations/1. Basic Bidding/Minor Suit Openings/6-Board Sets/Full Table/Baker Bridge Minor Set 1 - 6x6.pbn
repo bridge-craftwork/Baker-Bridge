@@ -102,10 +102,10 @@ DK
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1C pass 1S pass 3S pass 4S all pass pass pass
+1C pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: W, chBasis: N, basisKind:Declarer, nOption:3, nBasis: 0, nRot: 3, useStandardVul: true"]
-[VersionToken "1ccdd400f45b24e47d8d83593ef66ec10464d575f69c336601ce64d349a1d7c7"]
+[VersionToken "7c70a24759058c53c7f6ccbf64bc6c8d4964cfe6bb3ee63766e5df500f4608e7"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]

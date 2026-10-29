@@ -41,10 +41,14 @@ S5
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 2H pass 3H pass 4NT pass 5C pass 5NT pass 6H pass 7NT all pass pass pass
+2C pass 2D pass 2H pass 3H pass 4NT =1= pass 5C =2= pass 5NT =3= pass 6H =4= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:0 or 4 aces"]
+[Note "3:asks for kings"]
+[Note "4:2 kings"]
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "4f41e58d21ba776770863561e51e2ae03911f3ed9a01cba4fc28db565fb71e61"]
+[VersionToken "a27eb7c15faac9752c5f1e6b770106153f69df55c08b71569a4b5f788e6c224d"]
 [Category "Partnership Bidding"]
 [Difficulty "intermediate"]
 [SkillPath "partnership_bidding/blackwood"]
@@ -99,7 +103,9 @@ ST
 [Contract "5D"]
 [Result ""]
 [Auction "S"]
-1D pass 3D pass 4C pass 4S pass 4NT pass 5D pass pass pass
+1D pass 3D pass 4C pass 4S pass 4NT =1= pass 5D =2= pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 4, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [VersionToken "685558c21f46e2ce32ef2691832bede6d7becddd6cdbcea152240a19c9a9c1bd"]
@@ -125,7 +131,9 @@ C7
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1S pass 2H pass 3H pass 4NT pass 5H pass 6H pass pass pass
+1S pass 2H pass 3H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
 [VersionToken "de0b16bc5596b09e9fc4df98281805af148e15f6b4a14d2e8578dc69e6c74838"]

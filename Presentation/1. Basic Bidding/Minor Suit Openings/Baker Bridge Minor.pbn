@@ -91,9 +91,9 @@ DK
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 3S pass 4S all pass pass pass
+1C pass 1S pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[VersionToken "1ccdd400f45b24e47d8d83593ef66ec10464d575f69c336601ce64d349a1d7c7"]
+[VersionToken "7c70a24759058c53c7f6ccbf64bc6c8d4964cfe6bb3ee63766e5df500f4608e7"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/minor_suit_openings"]
@@ -169,7 +169,9 @@ S5
 [Contract "6C"]
 [Result ""]
 [Auction "S"]
-1C pass 3C pass 4NT pass 5D pass 6C pass pass pass
+1C pass 3C pass 4NT =1= pass 5D =2= pass 6C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [VersionToken "fbf171d01244c85f99d615a159fba2dc066c5cf62ecd3bbab5b75da093b658fd"]
 [Category "Basic Bidding"]
@@ -463,7 +465,9 @@ CK
 [Contract "5S"]
 [Result ""]
 [Auction "N"]
-1C pass 1S pass 3S pass 4NT pass 5C pass 5S pass pass pass
+1C pass 1S pass 3S pass 4NT =1= pass 5C =2= pass 5S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:0 or 4 aces"]
 [BCFlags "1f"]
 [VersionToken "3d9b8c407077e40e8ca214eed825e2ff523e9e3bba2709b10d16fdebbef1db9d"]
 [Category "Basic Bidding"]

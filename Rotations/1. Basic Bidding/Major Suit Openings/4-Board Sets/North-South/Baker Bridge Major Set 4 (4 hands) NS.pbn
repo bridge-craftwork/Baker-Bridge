@@ -69,10 +69,12 @@ H4
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1S pass 2C pass 2D pass 4S pass 4NT pass 5D pass 6S all pass pass pass
+1S pass 2C pass 2D pass 4S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[VersionToken "a0435a9b730d4ea1ba41de1d5f0c046afc610aaa25c380111ccc447689267d3f"]
+[VersionToken "2055912797293c961c782df52a76e025199fe40eadb2d3ca92006df72adce46d"]
 [Category "Basic Bidding"]
 [Difficulty "beginner"]
 [SkillPath "basic_bidding/major_suit_openings"]

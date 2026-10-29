@@ -576,7 +576,7 @@ H7
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2D pass 3H pass 4C pass 4D pass 6H all pass pass pass
+1NT pass 2D pass 3H pass 4C pass 4D pass 6H pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "beginner"]

@@ -12,7 +12,9 @@
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 3D pass 3S pass 4NT pass 5D pass 7NT pass pass pass
+2C pass 2D pass 3D pass 3S pass 4NT =1= pass 5D =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -77,7 +79,9 @@ CQ
 [Contract "7C"]
 [Result ""]
 [Auction "S"]
-2C pass 2D pass 3C pass 3H pass 4NT pass 5C pass 7C pass pass pass
+2C pass 2D pass 3C pass 3H pass 4NT =1= pass 5C =2= pass 7C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:0 or 4 aces"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -274,7 +278,7 @@ SK
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1C 2H X pass 2NT pass 6NT all pass pass pass
+1C 2H X pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -722,7 +726,9 @@ DJ
 [Contract "6NT"]
 [Result ""]
 [Auction "N"]
-1C pass 2D pass 2S pass 4NT pass 5H pass 6NT pass pass pass
+1C pass 2D pass 2S pass 4NT =1= pass 5H =2= pass 6NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -850,7 +856,9 @@ SQ
 [Contract "7NT"]
 [Result ""]
 [Auction "E"]
-pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
+pass 1NT pass 3D pass 4D pass 4NT =1= pass 5H =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -949,7 +957,9 @@ HK
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 3D pass 4NT pass 5D pass 7NT pass pass pass
+2C pass 3D pass 4NT =1= pass 5D =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1024,7 +1034,9 @@ SQ
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H 1S 2C pass 3H pass 4H pass 4NT pass 5D pass 6H pass pass pass
+1H 1S 2C pass 3H pass 4H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
@@ -1204,7 +1216,11 @@ S3
 [Contract "7C"]
 [Result ""]
 [Auction "S"]
-2C pass 3D pass 4NT pass 5D pass 5NT pass 6D pass 7C pass pass pass
+2C pass 3D pass 4NT =1= pass 5D =2= pass 5NT =3= pass 6D =4= pass 7C pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
+[Note "3:asks for kings"]
+[Note "4:1 king"]
 [BCFlags "1f"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]

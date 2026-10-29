@@ -257,7 +257,9 @@ H6
 [Contract "6D"]
 [Result ""]
 [Auction "S"]
-1D pass 2C pass 3D pass 4NT pass 5D pass 6D pass pass pass
+1D pass 2C pass 3D pass 4NT =1= pass 5D =2= pass 6D pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]
@@ -549,7 +551,9 @@ H3
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1D pass 1S pass 3D pass 3S pass 4S pass 4NT pass 5D pass 6S pass pass pass
+1D pass 1S pass 3D pass 3S pass 4S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [Category "Defense"]
 [Difficulty "beginner"]

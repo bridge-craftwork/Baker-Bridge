@@ -14,7 +14,9 @@
 [Contract "7NT"]
 [Result ""]
 [Auction "W"]
-pass 1NT pass 3D pass 4D pass 4NT pass 5H pass 7NT pass pass pass
+pass 1NT pass 3D pass 4D pass 4NT =1= pass 5H =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [VersionToken "7e5a05fd38fdd7b0b3586e2952c94e4ea70132c3c8c61de2a0319ff31fb126ba"]
@@ -77,7 +79,9 @@ HK
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 3D pass 4NT pass 5D pass 7NT pass pass pass
+2C pass 3D pass 4NT =1= pass 5D =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
 [VersionToken "7202b0029d1efd40d9bb92459da730ad13e416caa3e9719e87d1b6d179f59339"]
@@ -128,7 +132,9 @@ SQ
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H 1S 2C pass 3H pass 4H pass 4NT pass 5D pass 6H pass pass pass
+1H 1S 2C pass 3H pass 4H pass 4NT =1= pass 5D =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [VersionToken "835eda48a403a4bd440de8ddd439a077be66e8a880b1b6536c48c7a38a15e1c1"]

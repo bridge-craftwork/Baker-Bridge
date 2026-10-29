@@ -303,7 +303,9 @@ C4
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1H pass 2NT pass 3H pass 3S pass 4NT pass 5H pass 6H pass pass pass
+1H pass 2NT pass 3H pass 3S pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [VersionToken "0b6f26566f8594f8986c943e5b89e194672fbe14cf18fad1895b22c101e33ef0"]
 [Category "Bidding Conventions"]
@@ -339,7 +341,9 @@ CK
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 4NT pass 5S pass 7NT pass pass pass
+1S pass 2NT pass 4NT =1= pass 5S =2= pass 7NT pass pass pass
+[Note "1:Blackwood"]
+[Note "2:3 aces"]
 [BCFlags "1f"]
 [VersionToken "a7c732f2b06d2a843273210e3160b61149797324ed941985815ef091ada7fa74"]
 [Category "Bidding Conventions"]
@@ -465,7 +469,9 @@ H3
 [Contract "5H"]
 [Result ""]
 [Auction "S"]
-1H pass 4C pass 4NT pass 5D pass 5H pass pass pass
+1H pass 4C pass 4NT =1= pass 5D =2= pass 5H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [VersionToken "4f51a6b0b6b4418986629d57a003449b6b7aaf3e04d5eb0f2dbad89ad24e7bfa"]
 [Category "Bidding Conventions"]
@@ -589,7 +595,9 @@ HK
 [Contract "7S"]
 [Result ""]
 [Auction "S"]
-1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT pass 5S pass 7S pass pass pass
+1S pass 2NT pass 3NT pass 4D pass 4H pass 4NT =1= pass 5S =2= pass 7S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:3 aces"]
 [BCFlags "1f"]
 [VersionToken "026cf7953abcfd48ad6b552f92dd06f335e74775762234e73b94a04ca9eebf55"]
 [Category "Bidding Conventions"]
@@ -657,7 +665,9 @@ SK
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1H pass 4C pass 4NT pass 5H pass 6H pass pass pass
+1H pass 4C pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [VersionToken "277a7f1e970e148a112764caf8f0547599256213edd721426780cad99e6516fa"]
 [Category "Bidding Conventions"]
@@ -721,7 +731,9 @@ D4
 [Contract "5H"]
 [Result ""]
 [Auction "S"]
-1H pass 2NT pass 3H pass 3S pass 4NT pass 5D pass 5H pass pass pass
+1H pass 2NT pass 3H pass 3S pass 4NT =1= pass 5D =2= pass 5H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [VersionToken "372a774b86db25a4b53ef4350bb31a86232f745fc951e891471fe498640edd10"]
 [Category "Bidding Conventions"]
@@ -757,7 +769,9 @@ DA
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1S pass 2NT pass 4D pass 4NT pass 5H pass 6S pass pass pass
+1S pass 2NT pass 4D pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [VersionToken "6273957b4cec394bcdb5ec40836c28192273fb7a66e700212f39de6fa1a9668c"]
 [Category "Bidding Conventions"]

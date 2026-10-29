@@ -183,7 +183,9 @@ H5
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-1NT pass 2H pass 3S pass 4NT pass 5D pass 6S pass pass pass
+1NT pass 2H pass 3S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [RotationNote "Board 5, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
 [VersionToken "241e5cefc6c6ac47be18676c57e5f2e999631d6b46ffa9a4e9f39578c3c7e299"]
@@ -3039,10 +3041,12 @@ ST
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-1NT pass 2D pass 3H pass 4NT pass 5S pass 6H all pass pass pass
+1NT pass 2D pass 3H pass 4NT =1= pass 5S =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:3 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 69, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[VersionToken "d269d9799b0d86189f60650aebb135127e3d9efc25ce8cf832e747e33a45ae44"]
+[VersionToken "d0463fee27d47e2fa6dbed4cbaec7ca7c1b06aaffb59d9dc42cd5b719819163c"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -3176,10 +3180,12 @@ HQ
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2H pass 4NT pass 5H pass 6H all pass pass pass
+1NT pass 2C pass 2H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 72, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "ccd8e12955dfdea9d68a4154cb801687d62116d20ec9e9c220561b003e0900ba"]
+[VersionToken "8df151788911cb1b90525eaba27b184c55dbd9767631acdaedb139aeee107861"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -3530,10 +3536,10 @@ H5
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1NT 2H 2NT pass 3C pass 3H pass 3S pass 4S all pass pass pass
+1NT 2H 2NT pass 3C pass 3H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 80, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "5c50305402a0c48514d42ae209c3bab22ddabf358cc78bd153f37436af30b3e9"]
+[VersionToken "81305e570a853057467bb81c5fe588dd6a253aab81998ebedd3feebb2f9b991e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]
@@ -4313,10 +4319,12 @@ HQ
 [Contract "6H"]
 [Result ""]
 [Auction "N"]
-2NT pass 3D pass 4H pass 4NT pass 5S pass 6H all pass pass pass
+2NT pass 3D pass 4H pass 4NT =1= pass 5S =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:3 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 97, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[VersionToken "84bf20a8116d759b4994731054acdb5cc90819602ac7228e2f9e637c059b735c"]
+[VersionToken "6d210ec907c4c2f53245d7e311857fd8910c1c242a56a158c10bc1e6fa39df9f"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

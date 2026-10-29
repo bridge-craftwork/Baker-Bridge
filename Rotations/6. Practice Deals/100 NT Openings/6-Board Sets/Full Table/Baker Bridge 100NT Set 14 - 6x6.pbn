@@ -56,10 +56,10 @@ H5
 [Contract "4S"]
 [Result ""]
 [Auction "E"]
-1NT 2H 2NT pass 3C pass 3H pass 3S pass 4S all pass pass pass
+1NT 2H 2NT pass 3C pass 3H pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
-[VersionToken "5c50305402a0c48514d42ae209c3bab22ddabf358cc78bd153f37436af30b3e9"]
+[VersionToken "81305e570a853057467bb81c5fe588dd6a253aab81998ebedd3feebb2f9b991e"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

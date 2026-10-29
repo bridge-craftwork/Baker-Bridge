@@ -14,10 +14,10 @@
 [Contract "6NT"]
 [Result ""]
 [Auction "S"]
-1C 2H X pass 2NT pass 6NT all pass pass pass
+1C 2H X pass 2NT pass 6NT pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "8ae93f3d069591845d429611e04dafba0d671a90bb09a5177ca6ccc8ff3ae0d4"]
+[VersionToken "90b2f72216abc2b31dfc1b9eff356c763bb0eedb3cec354674b41aa774c7225c"]
 [Category "Declarer Play"]
 [Difficulty "advanced"]
 [SkillPath "declarer_play/squeeze_plays"]

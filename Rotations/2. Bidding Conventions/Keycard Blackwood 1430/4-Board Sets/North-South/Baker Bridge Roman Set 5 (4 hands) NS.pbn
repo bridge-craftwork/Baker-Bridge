@@ -15,10 +15,12 @@
 [Contract "7NT"]
 [Result ""]
 [Auction "S"]
-2C pass 2NT pass 3D pass 4D pass 4NT pass 5C pass 5H pass 5S pass 7NT all pass pass pass
+2C pass 2NT pass 3D pass 4D pass 4NT =1= pass 5C =2= pass 5H pass 5S pass 7NT pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:1 or 4 key cards"]
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: S, basisKind:Declarer, nOption:0, nBasis: 2, nRot: 2, useStandardVul: true"]
-[VersionToken "84068150aad48225b9c48147d2113465e089e5aa32c916f5df7c11831561d7a9"]
+[VersionToken "8c999576010d92ddb2a5e2f8bd04174e684ac7dc374ae98ab169a50ddb74994f"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -44,10 +46,10 @@ HK
 [Contract "6H"]
 [Result ""]
 [Auction "W"]
-pass 2C pass 2H pass 3H pass 3S pass 4NT pass 6H all pass pass pass
+pass 2C pass 2H pass 3H pass 3S pass 4NT pass 6H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "daed4548148381aa25c9961c0a423c0dbea37fa5e0e41747ccbfdfbdfec37cb6"]
+[VersionToken "4186f480271365cc08cb18ce320a15a81478cb62fee3e1c966ff069910b50348"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]
@@ -71,10 +73,13 @@ DT
 [Contract "7NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 2S pass 3S pass 4NT pass 5H pass 5NT pass 6D pass 7NT all pass pass pass
+2C pass 2H pass 2S pass 3S pass 4NT =1= pass 5H =2= pass 5NT =3= pass 6D pass 7NT pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards without the trump queen"]
+[Note "3:asks for kings"]
 [BCFlags "1f"]
 [RotationNote "Board 3, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[VersionToken "ca84fb59020a08229eeb4f94cc1c71a59f8b10386df904c9f26f94680bf4f3fa"]
+[VersionToken "1ed85f3236c1d169d830466a0c6d15c947a55241e5cb0bcfd44db5e607b31a44"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]

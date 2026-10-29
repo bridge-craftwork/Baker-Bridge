@@ -270,7 +270,7 @@ DQ
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1S pass 2S pass 3D pass 3H pass 4S all pass pass pass
+1S pass 2S pass 3D pass 3H pass 4S pass pass pass
 [BCFlags "1f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]

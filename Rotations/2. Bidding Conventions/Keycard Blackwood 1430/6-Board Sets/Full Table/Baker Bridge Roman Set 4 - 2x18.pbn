@@ -15,10 +15,13 @@
 [Contract "7NT"]
 [Result ""]
 [Auction "N"]
-2C pass 2H pass 2S pass 3S pass 4NT pass 5H pass 5NT pass 6D pass 7NT all pass pass pass
+2C pass 2H pass 2S pass 3S pass 4NT =1= pass 5H =2= pass 5NT =3= pass 6D pass 7NT pass pass pass
+[Note "1:Roman Key Card Blackwood"]
+[Note "2:2 key cards without the trump queen"]
+[Note "3:asks for kings"]
 [BCFlags "1f"]
 [RotationNote "Board 1, chOption: N, chBasis: N, basisKind:Declarer, nOption:0, nBasis: 0, nRot: 0, useStandardVul: true"]
-[VersionToken "ca84fb59020a08229eeb4f94cc1c71a59f8b10386df904c9f26f94680bf4f3fa"]
+[VersionToken "1ed85f3236c1d169d830466a0c6d15c947a55241e5cb0bcfd44db5e607b31a44"]
 [Category "Bidding Conventions"]
 [Difficulty "advanced"]
 [SkillPath "bidding_conventions/roman_keycard"]

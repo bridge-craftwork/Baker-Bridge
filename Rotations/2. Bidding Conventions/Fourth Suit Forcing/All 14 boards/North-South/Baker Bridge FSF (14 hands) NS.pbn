@@ -152,10 +152,10 @@ D7
 [Contract "5C"]
 [Result ""]
 [Auction "S"]
-1H pass 1S pass 2C pass 2D pass 3C pass 5C all pass pass pass
+1H pass 1S pass 2C pass 2D pass 3C pass 5C pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 6, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "333935c04299af90f8c22cd36eddfbd740e98f9a339693655f489735b9b38b5e"]
+[VersionToken "6038a57fb6ea4f2a63386d704b6e14869e66e08dfe0b4d2425431366e50cd0b4"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -262,10 +262,10 @@ CK
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1D pass 1S pass 2C pass 2H pass 2S pass 4S all pass pass pass
+1D pass 1S pass 2C pass 2H pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 10, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "d4b59169a8967174d1cd5c65c17bb60d763bed57561eb6f93ecc95ec1503762a"]
+[VersionToken "03028b15a6acc3234221f5e9f88f1f7e0f6e658f615847292883115439de8da4"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -318,10 +318,10 @@ HK
 [Contract "4S"]
 [Result ""]
 [Auction "N"]
-1C pass 1D pass 1H pass 1S pass 2S pass 4S all pass pass pass
+1C pass 1D pass 1H pass 1S pass 2S pass 4S pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 12, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "93d931e350ae4ccf1245f8a870025abf0608dded8228128bf55eaa4e756cc1df"]
+[VersionToken "5939aa31a9387bbecb85ed69d4b4ae9f7a91e155e8890baf0f1b5059eaeec32f"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]
@@ -372,10 +372,10 @@ CT
 [Contract "4H"]
 [Result ""]
 [Auction "N"]
-1C pass 1H pass 1S pass 2D pass 3H pass 4H all pass pass pass
+1C pass 1H pass 1S pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 14, chOption: S, chBasis: N, basisKind:Declarer, nOption:2, nBasis: 0, nRot: 2, useStandardVul: true"]
-[VersionToken "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc"]
+[VersionToken "9ba3609dc31f81355ef176d038dbb3f5057a95b491c3f41f8161d68a07187d69"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]

@@ -42,10 +42,10 @@ CT
 [Contract "4H"]
 [Result ""]
 [Auction "W"]
-1C pass 1H pass 1S pass 2D pass 3H pass 4H all pass pass pass
+1C pass 1H pass 1S pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: N, basisKind:Declarer, nOption:1, nBasis: 0, nRot: 1, useStandardVul: true"]
-[VersionToken "72b0dbdcb46f4bb387694888dafc935ce913f4ae5f89d0669aaaff453f1c97bc"]
+[VersionToken "9ba3609dc31f81355ef176d038dbb3f5057a95b491c3f41f8161d68a07187d69"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/fourth_suit_forcing"]

@@ -283,7 +283,7 @@ SK
 [Student "S"]
 {[show NS]
 
-South is to play 6NT. West leads the \S3.
+[showcards W:S3] South is to play 6NT. West leads the \S3.
 
 Make a Plan, then click NEXT. [NEXT]
 
@@ -408,7 +408,9 @@ DK
 [Contract "6S"]
 [Result ""]
 [Auction "S"]
-1S pass 3S pass 4NT pass 5H pass 6S pass pass pass
+1S pass 3S pass 4NT =1= pass 5H =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [VersionToken "c514a5ac18f5652910797098f178f31a16af1283bf8f19629863f99834f28450"]
 [Category "Declarer Play"]
@@ -1346,7 +1348,9 @@ S5
 [Contract "6S"]
 [Result ""]
 [Auction "N"]
-2C pass 2NT pass 3C pass 3S pass 4NT pass 5D pass 6S pass pass pass
+2C pass 2NT pass 3C pass 3S pass 4NT =1= pass 5D =2= pass 6S pass pass pass
+[Note "1:Blackwood"]
+[Note "2:1 ace"]
 [BCFlags "1f"]
 [VersionToken "bb85d60d9aba624bdb5258bcc4836bf7b1525bdf65aadc644c5c7f9245ca9c35"]
 [Category "Declarer Play"]

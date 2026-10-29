@@ -60,10 +60,12 @@ HQ
 [Contract "6H"]
 [Result ""]
 [Auction "S"]
-1NT pass 2C pass 2H pass 4NT pass 5H pass 6H all pass pass pass
+1NT pass 2C pass 2H pass 4NT =1= pass 5H =2= pass 6H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:2 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: S, chBasis: S, basisKind:Declarer, nOption:2, nBasis: 2, nRot: 0, useStandardVul: true"]
-[VersionToken "ccd8e12955dfdea9d68a4154cb801687d62116d20ec9e9c220561b003e0900ba"]
+[VersionToken "8df151788911cb1b90525eaba27b184c55dbd9767631acdaedb139aeee107861"]
 [Category "Practice Deals"]
 [Difficulty "mixed"]
 [SkillPath "practice_deals/100_notrump"]

@@ -46,9 +46,9 @@ H6
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT all pass pass pass
+1D pass 1S pass 1NT pass 2C pass 2NT pass 3NT pass pass pass
 [BCFlags "1f"]
-[VersionToken "180778ab9a3848ce2095c357cf40b9d245fcceba09cc220cda143e2045e65f39"]
+[VersionToken "d837a2171648e3ab54efbb771749fcee0701bc3273734d78cb0943cdbf53ecb7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -114,9 +114,9 @@ CJ
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 1NT pass 2C pass 2H pass 4H all pass pass pass
+1D pass 1S pass 1NT pass 2C pass 2H pass 4H pass pass pass
 [BCFlags "1f"]
-[VersionToken "4ce286d8301eb5977f77793ef6dcfabdf4d58884cb050a3e573a13d627ed3d9f"]
+[VersionToken "8526e8feb9611e0a18dd180862f53ffdaba9f2dcf766529d7cc09f54552f6bc7"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -184,9 +184,9 @@ CJ
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1C pass 1H pass 1NT pass 2D pass 3H pass 4H all pass pass pass
+1C pass 1H pass 1NT pass 2D pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[VersionToken "17486b9f8879fe94005ef75de4521a4d5c1430f76cb8665cdf06bf13a4f250ef"]
+[VersionToken "5821869d99053e437af5e733d389a120a4d47d61dd857d716b159bb039c8793c"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -328,9 +328,9 @@ H7
 [Contract "4H"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 1NT pass 2C pass 3H pass 4H all pass pass pass
+1D pass 1S pass 1NT pass 2C pass 3H pass 4H pass pass pass
 [BCFlags "1f"]
-[VersionToken "773446eb3d8e95370f616f31afdb521b1d73384b74122f3c76205f90ea0830e3"]
+[VersionToken "3f381c36ef6558213106ed5265b4b75f67cc6dee7415f2676c580fe771a7ffd6"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -398,9 +398,9 @@ H8
 [Contract "4S"]
 [Result ""]
 [Auction "S"]
-1C pass 1S pass 2NT pass 3D pass 3S pass 4S all pass pass pass
+1C pass 1S pass 2NT pass 3D pass 3S pass 4S pass pass pass
 [BCFlags "1f"]
-[VersionToken "c667accebc38b99850e05d026c53cf12dbe22ad0d2667fd5c186006dcdbf04ee"]
+[VersionToken "a0a4c6f7e83562384a605f50755bd99e2762e84b505a6c1a03d7b5a7d29b2415"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]
@@ -470,9 +470,9 @@ D6
 [Contract "3NT"]
 [Result ""]
 [Auction "S"]
-1D pass 1S pass 1NT pass 2C pass 2D pass 3NT all pass pass pass
+1D pass 1S pass 1NT pass 2C pass 2D pass 3NT pass pass pass
 [BCFlags "1f"]
-[VersionToken "f690149921f3f8288977ac249fb01bd3f08d214d391fcf6cecc054f431412260"]
+[VersionToken "753bccdbeb4ae29985edc3d7b312130c473075c64c5cead6fb971dcd44011724"]
 [Category "Bidding Conventions"]
 [Difficulty "intermediate"]
 [SkillPath "bidding_conventions/new_minor_forcing"]

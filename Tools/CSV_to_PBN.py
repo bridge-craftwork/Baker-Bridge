@@ -7,6 +7,7 @@ import re
 import json
 
 from lesson_context import render as render_bridge_context
+from lesson_context import LESSONS as LESSON_CONTEXT
 
 VERSION = "1.04"
 
@@ -700,12 +701,74 @@ def process_lead(lead, declarer):
         return f"[Play \"{lead_position}\"]\n{lead}"
     return ""
 
-# Function to clean and format auction
-def process_auction(auction, dealer):
+# Normalize a CSV auction to plain calls. bbparse keeps the HTML's "All Pass" cell as
+# two words and then pads to three trailing passes, giving "3NT all pass pass pass";
+# expand it to three passes and keep exactly three after the last bid.
+def normalize_auction(auction):
+    calls = [c for c in auction.split() if c != "|"]
+    out = []
+    i = 0
+    while i < len(calls):
+        if calls[i].lower() == "all" and i + 1 < len(calls) and calls[i + 1].lower() == "pass":
+            out.extend(["pass"] * 3)
+            i += 2
+        else:
+            out.append(calls[i])
+            i += 1
+    trailing = 0
+    for c in reversed(out):
+        if c.lower() != "pass":
+            break
+        trailing += 1
+    if trailing > 3 and len(out) > trailing:
+        out = out[:len(out) - (trailing - 3)]
+    return " ".join(out)
+
+# Blackwood alerts. 4NT is alerted when partner answers it at the five level in a suit
+# (so a quantitative 4NT, answered by pass or 6NT, is left alone); 5NT is alerted when the
+# same player follows up a Blackwood 4NT. The meanings follow the lesson's declared
+# system (lesson_context): RKCB 1430 or plain Blackwood. Note markers don't change the
+# [VersionToken] -- the token's call normalization drops "=N=".
+ACE_RESPONSES = {"5C": "0 or 4 aces", "5D": "1 ace", "5H": "2 aces", "5S": "3 aces"}
+KEYCARD_RESPONSES = {"5C": "1 or 4 key cards", "5D": "0 or 3 key cards",
+                     "5H": "2 key cards without the trump queen",
+                     "5S": "2 key cards with the trump queen"}
+KING_RESPONSES = {"6C": "0 kings", "6D": "1 king", "6H": "2 kings", "6S": "3 kings"}
+
+def blackwood_notes(calls, subfolder):
+    """Return {call index: note text} for the Blackwood calls in an auction."""
+    context = LESSON_CONTEXT.get(subfolder, "")
+    keycard = "1430" in context
+    specific_kings = "Specific Kings" in context
+    notes = {}
+    asker = None  # index of the last alerted 4NT
+    for i, call in enumerate(calls):
+        bid = call.upper()
+        partner = calls[i + 2].upper() if i + 2 < len(calls) else None
+        overcall = calls[i + 1].lower() != "pass" if i + 1 < len(calls) else True
+        if bid == "4NT" and not overcall and partner in ACE_RESPONSES:
+            notes[i] = "Roman Key Card Blackwood" if keycard else "Blackwood"
+            notes[i + 2] = (KEYCARD_RESPONSES if keycard else ACE_RESPONSES)[partner]
+            asker = i
+        elif bid == "5NT" and asker is not None and (i - asker) % 4 == 0 and not overcall:
+            notes[i] = "asks for specific kings" if specific_kings else "asks for kings"
+            if not keycard and not specific_kings and partner in KING_RESPONSES:
+                notes[i + 2] = KING_RESPONSES[partner]
+    return notes
+
+# Function to clean and format auction; returns the auction line(s) plus any [Note] tags
+def process_auction(auction, dealer, subfolder=""):
     if auction:
-        auction = re.sub(r'\s*\|\s*', ' ', auction)  # Remove vertical bars and extra spaces
-        auction = re.sub(r'\s+', ' ', auction).strip()  # Compress whitespace
-        return auction
+        calls = auction.split()
+        notes = blackwood_notes(calls, subfolder)
+        out, note_tags = [], []
+        for i, call in enumerate(calls):
+            out.append(call)
+            if i in notes:
+                n = len(note_tags) + 1
+                out.append(f"={n}=")
+                note_tags.append(f"[Note \"{n}:{notes[i]}\"]")
+        return "\n".join([" ".join(out)] + note_tags)
     return ""
 
 # Extract South's bids from an auction string
@@ -777,8 +840,9 @@ def convert_csv_to_pbn(csv_filename, header_filename=None, source_filename=None)
             declarer = abbreviate_position(row.get("Declarer", ""))
             contract = row.get("Contract", "")
             student = abbreviate_position(row.get("Student", ""))
+            auction = normalize_auction(row.get("Auction", ""))
             analysis = process_analysis(row.get("Analysis", ""), student, declarer,
-                                       subfolder, row.get("Auction", ""), dealer)
+                                       subfolder, auction, dealer)
             lead = process_lead(row.get("Lead", ""), declarer)
             
             if "/" in subfolder:
@@ -827,7 +891,7 @@ def convert_csv_to_pbn(csv_filename, header_filename=None, source_filename=None)
 
             # Optional tags (alphabetical order)
             pbn_content.append(f"[Auction \"{dealer}\"]")
-            pbn_content.append(process_auction(row.get("Auction", ""), dealer))
+            pbn_content.append(process_auction(auction, dealer, subfolder))
             pbn_content.append("[BCFlags \"1f\"]")
             pbn_content.append(f"[Category \"{taxonomy['category']}\"]")
             pbn_content.append(f"[Difficulty \"{taxonomy['difficulty']}\"]")

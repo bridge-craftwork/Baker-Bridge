@@ -62,7 +62,9 @@ DQ
 [Contract "5H"]
 [Result ""]
 [Auction "N"]
-pass 1H pass 3H pass 4NT pass 5C pass 5H pass pass pass
+pass 1H pass 3H pass 4NT =1= pass 5C =2= pass 5H pass pass pass
+[Note "1:Blackwood"]
+[Note "2:0 or 4 aces"]
 [BCFlags "1f"]
 [RotationNote "Board 2, chOption: E, chBasis: S, basisKind:Declarer, nOption:1, nBasis: 2, nRot: 3, useStandardVul: true"]
 [VersionToken "0dfd9bd8315bf21c0c524fd688e6f4415757794182068df2eaa4539e1dedc18f"]
