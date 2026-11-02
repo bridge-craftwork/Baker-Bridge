@@ -131,7 +131,7 @@ D9
 Pass 1S Pass 2H Pass 3H Pass 4H Pass Pass Pass
 {[show S]
 What do you open with this hand?[BID 1S]
-You opens 1\S and North, responds 2\H. Note that this promises a 5-card or longer \H suit.  (2 of a minor only promises 4+).
+You open 1\S and North, responds 2\H. Note that this promises a 5-card or longer \H suit.  (2 of a minor only promises 4+).
 What do you rebid?[BID 3H]
 Knowing that North has 5, you bid 3\H to confirm the trump suit.
 North bids 4\h.  What do you bid now?[BID pass]
@@ -576,14 +576,13 @@ H5
 [Note "6:none below \H s"]
 {[show S]
 How do you start the bidding? [bid 1s]
-You opens 1\S. Partner bids 2\H.   What do you bid now? [bid 3h]
+You open 1\S. Partner bids 2\H.   What do you bid now? [bid 3h]
 Your priority on your first rebid is to agree trumps if possible. Knowing North has at least a 5-card suit, you raise to 3\H.  You are in a Game Forcing auction, so you know partner will continue bidding.
 North now bids 4\c.  What do you bid? [BID 4D]
 North's 4\c bid shows first or second round control in clubs, and shows slam interest.  You cooperate by bidding your next control up suit order - 4\d.  This doesn't promise extra values, it's just following partner's path.
 North asks for keycards using 1430.  What is your reply? [bid 5H]
 You show two keycards without the trump queen.  Partner is excited about this and bids 5NT - what's your bid now? [bid 6H]
 Partner's 5NT is asking for specific kings.  Since we don't have any kings lower than the trump suit, we have to bid 6\h.
- and gets two. He decides to find out about Kings, if South happens to have three he will bid 7NT. When South shows just one North settles for 6\H. This should be a good slam, needing only a decent \S break.
 [show NS]}
 [Play "E"]
 CJ
