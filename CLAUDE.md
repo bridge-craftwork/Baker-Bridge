@@ -232,6 +232,21 @@ replaced `Package/`'s old role — `Package/` is a frozen orphan). Two committed
 Sourcing Presentation from `Collection/` (not the orphan `Package/`) is what keeps the
 dealer files and the app in sync — the divergence that caused the 2026-07-14 class problem.
 
+**`[ROTATE]` boards are emitted in two frames, and Bridge Classroom compensates.** `bbparse.py`
+turns the deal when a lesson rotates, so `[Deal]`/`[Auction]`/`[Declarer]` come out already
+turned while `[Student]` and `[PLAY]` stay in the bidding frame. Bridge Classroom turns such a
+board back into the `[Student]` frame (Bridge-Classroom#400), detecting the case by whether the
+pre-rotate `[BID]` targets bind at the student's seat or partner's. If this build is ever
+changed to emit these boards straight, including by calling `rotate_seat_180_degrees()` on the
+directives, the detection handles it, but say so on the Bridge Classroom side so the
+compensation can be retired rather than left as dead weight.
+
+The turn is a **full 180°**, N↔S *and* E↔W, not a partner swap, despite the
+`rotate_hand_180_degrees(hands, rotate_ew=False)` call: that flag is only there because the
+parser reads E/W from the post-rotation deal, where they are already turned. `100NT` board 70
+settles it: the auction is `1H 1NT pass pass pass` with partner overcalling, and only a
+whole-table turn preserves that order (W opens, N overcalls, E passes, S passes).
+
 ### What Each Step Does
 
 1. **bbparse.py** → Parses HTML, generates `BakerBridge.csv` and debug files in `Tools/Anchors/`
