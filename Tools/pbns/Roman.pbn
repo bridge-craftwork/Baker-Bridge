@@ -23,7 +23,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 5\S]
+The bidding has gone as shown. [BID 5\S]
 
 [show NS]
 
@@ -52,7 +52,7 @@ CK
 [Student "S"]
 {[show S]
 
-Partner's jump to 4\S indicates he is prepared to play at game even if you have as few as 6 points. So he must have 20 points or so. With your 14 that puts you in slam range. Decide what you would say next, then click on <b>BID</b> above. [BID 5\C]
+Partner's jump to 4\S indicates he is prepared to play at game even if you have as few as 6 points. So he must have 20 points or so. With your 14 that puts you in slam range. [BID 5\C]
 
 
 
@@ -87,7 +87,7 @@ DK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 5\D]
+The bidding has gone as shown. [BID 5\D]
 
 [show NS]
 
@@ -116,7 +116,7 @@ H2
 [Student "S"]
 {[show S]
 
-Your partnership plays Jacoby 2NT convention, so partner's 2NT shows a game-forcing raise in \Ss. Your 3NT bid indicates a 5-card suit and "extra values". Partner's 4\H is a control-bid showing the \HA. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
+Your partnership plays Jacoby 2NT convention, so partner's 2NT shows a game-forcing raise in \Ss. Your 3NT bid indicates a 5-card suit and "extra values". Partner's 4\H is a control-bid showing the \HA. [BID 4NT]
 
 
 
@@ -149,7 +149,7 @@ C4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\D]
+The bidding has gone as shown. [BID 4\D]
 
 
 
@@ -182,7 +182,7 @@ C8
 [Student "S"]
 {[show S]
 
-Your partner's 3\H is a limit-raise, 11-12 points with \H support. Decide what you would say next, then click on <b>BID</b> above. [BID 4\C]
+Your partner's 3\H is a limit-raise, 11-12 points with \H support. [BID 4\C]
 
 
 
@@ -217,7 +217,7 @@ S7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Your 4\D bid is a Splinter Bid, showing opening hand strength, at least 4 \Ss, and a singleton or void in \Ds. Partner bids 4NT. Decide what you would say, then click on <b>BID</b> above. [BID 5NT]
+The bidding has gone as shown. Your 4\D bid is a Splinter Bid, showing opening hand strength, at least 4 \Ss, and a singleton or void in \Ds. Partner bids 4NT. [BID 5NT]
 
 [show NS]
 
@@ -248,7 +248,7 @@ DK
 [Student "S"]
 {[show S]
 
-Your partner's 2NT opener is 20-21 points and the 3\C bid is Stayman. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
+Your partner's 2NT opener is 20-21 points and the 3\C bid is Stayman. [BID 4NT]
 
 
 
@@ -281,7 +281,7 @@ S3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 
 
@@ -314,7 +314,7 @@ CA
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
+The bidding has been as shown. [BID 4NT]
 
 
 
@@ -345,7 +345,7 @@ DJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 
 
@@ -378,7 +378,7 @@ CA
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
+The bidding has been as shown. [BID 4NT]
 
 
 
@@ -415,7 +415,7 @@ pass 1D pass 1S pass 2H pass 4NT =1= pass 5C =2= pass 5D pass 5H pass 6H pass pa
 [Student "S"]
 {[show S]
 
-Your 2\H bid is a Reverse, showing 17+ points. Decide what you would say, then click on <b>BID</b> above. [BID 5\C]
+Your 2\H bid is a Reverse, showing 17+ points. [BID 5\C]
 
 
 
@@ -449,7 +449,7 @@ S4
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Yes, you could have jump-shifted on your first bid. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
+The bidding has been as shown. Yes, you could have jump-shifted on your first bid. [BID 4NT]
 
 
 
@@ -484,7 +484,7 @@ CJ
 [Student "S"]
 {[show S]
 
-Your 3\S bid is a Splinter, agreeing \Hs as trump, and showing opening hand strength with a singleton or void in \Ss. Decide what you would say next, then click on <b>BID</b> above. [BID 6\H]
+Your 3\S bid is a Splinter, agreeing \Hs as trump, and showing opening hand strength with a singleton or void in \Ss. [BID 6\H]
 
 [show NS]
 
@@ -511,7 +511,7 @@ pass 1S pass 4D pass 4NT pass 6D pass 7S pass pass pass
 [Student "S"]
 {[show S]
 
-Partner's 4\D bid is a Splinter Bid. It shows opening hand strength, at least 4-card \S support, and a singleton or void in \Ds. Decide what you would say next, then click on <b>BID</b> above. [BID 4NT]
+Partner's 4\D bid is a Splinter Bid. It shows opening hand strength, at least 4-card \S support, and a singleton or void in \Ds. [BID 4NT]
 
 
 
@@ -544,7 +544,7 @@ H3
 [Student "S"]
 {[show S]
 
-Your 2NT response shows 8+ points, with no 5-card biddable suit. Decide what you would say next, then click on <b>BID</b> above. [BID 4\D]
+Your 2NT response shows 8+ points, with no 5-card biddable suit. [BID 4\D]
 
 
 
@@ -579,7 +579,7 @@ pass 2C pass 2H pass 3H pass 3S pass 4NT pass 6H pass pass pass
 [Student "S"]
 {[show S]
 
-Partner's 2\H is a positive response, 8+ points with a 5+ card suit. Decide what you would say next, then click on <b>BID</b> above. [BID 3\H]
+Partner's 2\H is a positive response, 8+ points with a 5+ card suit. [BID 3\H]
 
 
 
@@ -613,7 +613,7 @@ DT
 [Student "S"]
 {[show S]
 
-Your 2\H response shows 8+ points, with at least 5 \Hs. Decide what you would say next, then click on <b>BID</b> above. [BID 3\S]
+Your 2\H response shows 8+ points, with at least 5 \Hs. [BID 3\S]
 
 
 
@@ -648,7 +648,7 @@ pass 1S pass 3S pass 4C pass 4H pass 6S pass pass pass
 [Student "S"]
 {[show S]
 
-Partner's 3\S is a limit raise, 11-12 points and good \S support. Decide what you would say next, then click on <b>BID</b> above. [BID 4\C]
+Partner's 3\S is a limit raise, 11-12 points and good \S support. [BID 4\C]
 
 
 

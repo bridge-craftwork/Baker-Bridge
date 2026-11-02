@@ -20,7 +20,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 [show NS]
 
@@ -49,7 +49,7 @@ H8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1NT]
+The bidding has gone as shown. [BID 1NT]
 
 [show NS]
 
@@ -76,7 +76,7 @@ D8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. At your first turn you bid your \H suit, up-the-line. Decide what you would say next, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. At your first turn you bid your \H suit, up-the-line. [BID 2NT]
 
 [show NS]
 
@@ -105,7 +105,7 @@ S2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 With 18 points you have enough to make a Reverse. So you bid 2\D. Partner now says 3\S. What do you bid? [BID 3NT]
 
@@ -132,7 +132,7 @@ H6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\H]
+The bidding has gone as shown. [BID 4\H]
 
 [show NS]
 
@@ -161,7 +161,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+You are the dealer. [BID 1\S]
 
 It may be tempting to open 1\H, planning on Reversing in \S at your second turn to show your big hand.
 
@@ -194,7 +194,7 @@ S9
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 [show NS]
 
@@ -225,7 +225,7 @@ DJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -250,7 +250,7 @@ C4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 With 17 points you have a perfect hand for a Reverse. So you bid 2\D. Partner then says 3\C. What do you say? [BID pass]
 
@@ -279,7 +279,7 @@ SJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 [show NS]
 
@@ -304,7 +304,7 @@ S4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 You have an ideal hand for a Reverse, so you bid 2\H.
 
@@ -335,7 +335,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 With 18 points you have enough to make a Reverse. So you bid 2\D. Partner now says 3\S. What do you bid? [BID 4\S]
 
@@ -366,7 +366,7 @@ H4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\D]
+The bidding has gone as shown. [BID 4\D]
 
 [show NS]
 
@@ -391,7 +391,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1NT]
+The bidding has gone as shown. [BID 1NT]
 
 [show NS]
 

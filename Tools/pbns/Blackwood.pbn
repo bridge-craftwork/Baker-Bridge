@@ -23,7 +23,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Your 3\H bid showed 11-12 points. Decide how you would answer partner's Blackwood 4NT, then click on <b>BID</b> above. [BID 5\D]
+The bidding has gone as shown. Your 3\H bid showed 11-12 points. [BID 5\D]
 
 [show NS]
 
@@ -50,7 +50,7 @@ pass 1NT pass 4C pass 4S pass 6NT pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Your 1NT bid showed 15-17 points and a balanced hand. Decide how you would answer partner's Gerber 4\C, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. Your 1NT bid showed 15-17 points and a balanced hand. [BID 4\S]
 
 [show NS]
 
@@ -77,7 +77,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\C]
+The bidding has gone as shown. [BID 4\C]
 
 
 
@@ -110,7 +110,7 @@ pass 2NT pass 4C pass 4S pass 6NT pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 
 
@@ -143,7 +143,7 @@ H7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4NT]
+The bidding has gone as shown. [BID 4NT]
 
 
 
@@ -176,7 +176,7 @@ S2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
+The bidding has gone as shown. [BID 1\H]
 
 
 
@@ -211,7 +211,7 @@ C2
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You dealt this hand. [BID 1\D]
 
 
 
@@ -250,7 +250,7 @@ H8
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+You dealt this hand. [BID 1\S]
 
 
 
@@ -289,7 +289,7 @@ D2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4NT]
+The bidding has gone as shown. [BID 4NT]
 
 
 
@@ -320,7 +320,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 
 
@@ -351,7 +351,7 @@ S6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 
 
@@ -388,7 +388,7 @@ D7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 
 
@@ -423,7 +423,7 @@ HA
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+You dealt this hand. [BID 1\S]
 
 
 
@@ -458,7 +458,7 @@ pass 1NT pass 4NT pass 6NT pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 1NT]
+The bidding has gone as shown. [BID 1NT]
 
 
 
@@ -491,7 +491,7 @@ C5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4NT]
+The bidding has gone as shown. [BID 4NT]
 
 
 
@@ -524,7 +524,7 @@ S2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 
 
@@ -561,7 +561,7 @@ C7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\D]
+The bidding has gone as shown. [BID 3\D]
 
 
 
@@ -596,7 +596,7 @@ CA
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would say, then click on <b>BID</b> above. [BID 3\S]
+You dealt this hand. [BID 3\S]
 
 
 
@@ -627,7 +627,7 @@ C4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\C]
+The bidding has gone as shown. [BID 4\C]
 
 
 
@@ -658,7 +658,7 @@ S2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Your 4\C bid is a Splinter Bid, showing an opening hand with good \H support and either a singleton or a void in \Cs. Decide what you would reply to partner's 4NT, then click on <b>BID</b> above. [BID 5NT]
+The bidding has gone as shown. Your 4\C bid is a Splinter Bid, showing an opening hand with good \H support and either a singleton or a void in \Cs. [BID 5NT]
 
 [show NS]
 

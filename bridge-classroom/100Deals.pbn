@@ -22,7 +22,7 @@
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 [show NS]
 
@@ -78,7 +78,7 @@ S4
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 A jump to 2NT would be descriptive, but your first goal is to seek a Major suit fit. When you have two 4-card Majors you should respond "up-the-line" so you bid 1\H. Partner says 2\H. What do you bid now? [BID 4\H]
 
@@ -136,7 +136,7 @@ DT
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 [show NS]
 
@@ -194,7 +194,7 @@ S4
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 Don't think of passing. With 11 HCP and 2 length points you open 1\S. Partner responds 2\H. What is your next bid? [BID 2\S]
 
@@ -248,7 +248,7 @@ pass 1NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 [show NS]
 
@@ -298,7 +298,7 @@ HJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID pass]
+You are South and it is your bid. [BID pass]
 
 [show NS]
 
@@ -356,7 +356,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You have a nice hand, but 20 points is not strong enough to open 2\C. 
 
@@ -412,7 +412,7 @@ pass 1C pass 1D pass 1NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
+You are South and it is your bid. [BID 1\D]
 
 With 16 points as Responder you are not quite strong enough for a jump-shift to 2 \D. That requires at least 17 points. A jump to 3NT fits the point range (16-18) but promises a stopper in all unbid suits. So instead you bid 1\D, knowing partner is forced to keep the bidding alive. He now replies 1NT. What is your next bid? [BID 3NT]
 
@@ -472,7 +472,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 3\H]
+You are South and it is your bid. [BID 3\H]
 
 [show NS]
 
@@ -538,7 +538,7 @@ SK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 Partner has opened and you have 14 points. You know you belong in game but there is no need to jump and use up bidding space. You respond 1\S.
 
@@ -606,7 +606,7 @@ pass 1NT pass 2NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 Aces and Spaces is the description you often hear about this hand. But the REAL description is 16 points, balanced. So you open 1NT. Partner replies 2NT. What do you bid now? [BID 3NT]
 
@@ -660,7 +660,7 @@ C2
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\C]
+You are South and it is your bid. [BID 2\C]
 
 Despite the great \C suit, you have a 4-card Major. It is your duty to first seek an 8-card Major fit, so you bid 2\C (Stayman). Partner replies 2\S. What do you bid? [BID 3NT]
 
@@ -724,7 +724,7 @@ DJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 [show NS]
 
@@ -786,7 +786,7 @@ HK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>.
+You are South and it is your bid.
 
 <i>You and partner do NOT play Jacoby Transfer Bids</i>. [BID 3\H]
 
@@ -846,7 +846,7 @@ SJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 [show NS]
 
@@ -900,7 +900,7 @@ SK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\C]
+You are South and it is your bid. [BID 2\C]
 
 It is tempting to bid 3NT and hope partner can use your \C suit. But you have something very important in your hand - a 4-card \H suit.
 
@@ -972,7 +972,7 @@ pass 1C pass 1S pass 2NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\C]
+You are South and it is your bid. [BID 1\C]
 
 This sure looks like an opening 1NT hand, except for one little thing - it is too strong. Make sure you open 1NT <b>ONLY</b> with hands containing 15-17 points. For this one you open 1\C. Partner responds 1\S. What do you bid next? [BID 2NT]
 
@@ -1028,7 +1028,7 @@ H5
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 [show NS]
 
@@ -1086,7 +1086,7 @@ DA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You open 1\S and partner jumps to 3\S.
 
@@ -1152,7 +1152,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 With 13 points and 4 of partner's minor suit you may be tempted to say 2NT or 3\D. Both these temptations should be resisted - your first obligation is to show a 4-card Major if you have one. As poor as the suit is, you still respond 1\S. 
 
@@ -1214,7 +1214,7 @@ pass 2C pass 2D pass 2S pass 2NT pass 3S pass 4S pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\C]
+You are South and it is your bid. [BID 2\C]
 
 With 22 points you are too strong to open with a 1-bid.
 
@@ -1282,7 +1282,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 There are three legitimate choices, 1\D, 1\S or 1NT.
 
@@ -1342,7 +1342,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
+You are South and it is your bid. [BID 1\D]
 
 You are too strong to open 1NT. With two 4-card minors the correct opening bid is 1\D. Partner responds 2\C.
 
@@ -1396,7 +1396,7 @@ H7
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 Well, you're pretty sure you have a \C fit. But before you show partner your fine \C support you have an obligation to show a 4-card Major.
 
@@ -1462,7 +1462,7 @@ HK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 Of course you open 1\S. Partner responds 2\C. What do you bid now? [BID 3\S]
 
@@ -1514,7 +1514,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID pass]
+You are South and it is your bid. [BID pass]
 
 [show NS]
 
@@ -1574,7 +1574,7 @@ C4
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You have an easy choice, you open 1\S.
 
@@ -1630,7 +1630,7 @@ CQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You open 1\S. Partner responds 2\S. What is your bid? [BID pass]
 
@@ -1686,7 +1686,7 @@ pass 1D pass 1H pass 1NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
+You are South and it is your bid. [BID 1\D]
 
 With 14 points you will naturally open the bidding. You should open a 4-card \D suit rather than a 3-card \C suit. Partner responds 1\H. What do you bid now? [BID 1NT]
 
@@ -1748,7 +1748,7 @@ CK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You have an easy 1\S opening bid.
 
@@ -1810,7 +1810,7 @@ DA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 There is an excellent bidding guideline which tells you how to respond with two 4-card Majors. You bid them "up-the-line". That means you bid 1\H.
 
@@ -1876,7 +1876,7 @@ pass 1NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 [show NS]
 
@@ -1930,7 +1930,7 @@ pass 1C pass 3C pass 5C pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\C]
+You are South and it is your bid. [BID 1\C]
 
 Is there any doubt? Although you only have 11 HCP your 6-card suit adds 2 more. And with 13 points you should always open. So you open 1\C. 
 
@@ -1994,7 +1994,7 @@ pass 1H pass 3H pass 4NT =1= pass 5C =2= pass 5H pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You have a very good hand. But not good enough to open 2\C, so you open 1\H.
 
@@ -2050,7 +2050,7 @@ ST
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
+You are South and it is your bid. [BID 1\D]
 
 With 19 points you are too strong to open 1NT so you open 1\D. Partner responds 2\D. What do you bid? [BID 3NT]
 
@@ -2104,7 +2104,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 4\S]
+You are South and it is your bid. [BID 4\S]
 
 [show NS]
 
@@ -2164,7 +2164,7 @@ DJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 A jump to 2NT would not be a terrible bid. But it is more important to show your 4-card Major.
 
@@ -2226,7 +2226,7 @@ HK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 With 17 points and a balanced hand you naturally open 1NT. West overcalls 2\S. Your partner then bids 2NT. What do you bid now? [BID 3NT]
 
@@ -2282,7 +2282,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID pass]
+You are South and it is your bid. [BID pass]
 
 [show NS]
 
@@ -2340,7 +2340,7 @@ HA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID pass]
+You are South and it is your bid. [BID pass]
 
 [show NS]
 
@@ -2398,7 +2398,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2NT]
+You are South and it is your bid. [BID 2NT]
 
 [show NS]
 
@@ -2452,7 +2452,7 @@ HJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 With 19 points and a 5-card \H suit you open 1\H.
 
@@ -2504,7 +2504,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\C]
+You are South and it is your bid. [BID 2\C]
 
 Because you have an invitational hand with a 4-card Major (\Ss) you use Stayman.
 
@@ -2564,7 +2564,7 @@ pass 1D pass 1H pass 2NT pass 3D pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
+You are South and it is your bid. [BID 1\D]
 
 You have 19 points, too much for 1NT. With two 4-card minors you should open 1\D, regardless of strength. Partner responds 1\H. What do you bid next? [BID 2NT]
 
@@ -2630,7 +2630,7 @@ S5
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 An easy one. You bid 1\S. Partner responds 1NT.
 
@@ -2682,7 +2682,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\D]
+You are South and it is your bid. [BID 2\D]
 
 When responding to a takeout double use these guidelines:0-8 points: bid a suit cheaply9-11 points: bid a suit with a jump12 or more points: cue-bid the opponent's suit
 
@@ -2736,7 +2736,7 @@ pass 1D pass 2C pass 2NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
+You are South and it is your bid. [BID 1\D]
 
 You have 13 points so you will definitely open the bidding. You don't open with a 4-card Major and you don't open with a 2-card \C suit. So this is the one distribution where you open a 3-card \D suit. Partner responds 2\C and it is your bid. [BID 2NT]
 
@@ -2790,7 +2790,7 @@ pass pass pass 1S 2H 4S pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 [show NS]
 
@@ -2840,7 +2840,7 @@ HA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 Your first bid is easy, you say 1\H. But what do you say after partner's 2\H response? [BID 3\C]
 
@@ -2900,7 +2900,7 @@ SK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You don't quite have the strength for a jump-shift, and in any case sometimes it is better to proceed slowly. So you respond 1\S, knowing partner must bid again. 
 
@@ -2972,7 +2972,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 4\H]
+You are South and it is your bid. [BID 4\H]
 
 [show NS]
 
@@ -3036,7 +3036,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\S]
+You are South and it is your bid. [BID 2\S]
 
 With 6 points you must respond. And with 3 \Ss you can support partner's suit.
 
@@ -3102,7 +3102,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\C]
+You are South and it is your bid. [BID 1\C]
 
 When you are dealt 13 points and only one biddable suit things are simple. After you open 1\C partner responds 1\D. What now? [BID 1NT]
 
@@ -3158,7 +3158,7 @@ S6
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 With 20 points and 5-3-3-2 distribution you could correctly open 2NT.
 
@@ -3220,7 +3220,7 @@ DQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 [show NS]
 
@@ -3272,7 +3272,7 @@ CQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 Balanced, 17 points. You open 1NT. Partner's response is 2\C. What do you bid? [BID 2\D]
 
@@ -3328,7 +3328,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 3\H]
+You are South and it is your bid. [BID 3\H]
 
 [show NS]
 
@@ -3382,7 +3382,7 @@ SK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2NT]
+You are South and it is your bid. [BID 2NT]
 
 With 9 points opposite an opening 2\C bid you are too strong for a negative response.
 
@@ -3442,7 +3442,7 @@ SJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 6NT]
+You are South and it is your bid. [BID 6NT]
 
 [show NS]
 
@@ -3504,7 +3504,7 @@ SJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You open 1\S and partner responds 2\H.
 
@@ -3562,7 +3562,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\C]
+You are South and it is your bid. [BID 2\C]
 
 You certainly have a Notrump type hand, but you are too strong to open 2NT.
 
@@ -3632,7 +3632,7 @@ C2
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2NT]
+You are South and it is your bid. [BID 2NT]
 
 [show NS]
 
@@ -3690,7 +3690,7 @@ H7
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
+You are South and it is your bid. [BID 1\D]
 
 You open 1\D and partner responds 1\H.
 
@@ -3756,7 +3756,7 @@ CJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\C]
+You are South and it is your bid. [BID 2\C]
 
 This is definitely a 2\C opening bid.
 
@@ -3820,7 +3820,7 @@ CJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 3\C]
+You are South and it is your bid. [BID 3\C]
 
 Partner has 20-21 points, so with your 6 you belong in game. But which game?
 
@@ -3888,7 +3888,7 @@ DA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 Don't even think of jumping to 2\H. That would show 17+ points. Instead you just bid 1\H, knowing partner is forced to bid again.
 
@@ -3950,7 +3950,7 @@ S2
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2NT]
+You are South and it is your bid. [BID 2NT]
 
 You were probably stunned when you picked up this hand and even more stunned when partner bid.
 
@@ -4018,7 +4018,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\H]
+You are South and it is your bid. [BID 2\H]
 
 With 11 points you would probably have bid 3\H, a limit raise, if East hadn't overcalled.
 
@@ -4090,7 +4090,7 @@ DA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 3\C]
+You are South and it is your bid. [BID 3\C]
 
 With 9 points you have enough strength to make a positive response. And with a good 5-card suit you respond 3\C.
 
@@ -4160,7 +4160,7 @@ DT
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 5\C]
+You are South and it is your bid. [BID 5\C]
 
 [show NS]
 
@@ -4226,7 +4226,7 @@ DA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You have a straightforward 1\H opening bid.
 
@@ -4288,7 +4288,7 @@ CA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\S]
+You are South and it is your bid. [BID 2\S]
 
 [show NS]
 
@@ -4344,7 +4344,7 @@ HK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You open 1\H, partner responds 3\H.
 
@@ -4402,7 +4402,7 @@ C4
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 3\H]
+You are South and it is your bid. [BID 3\H]
 
 [show NS]
 
@@ -4464,7 +4464,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 With 15 points and a balanced hand of course you open 1NT.
 
@@ -4526,7 +4526,7 @@ D2
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You have a good hand, a very good hand. But not good enough to open 2\C.
 
@@ -4588,7 +4588,7 @@ DJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You open 1\S and partner responds 2\S.
 
@@ -4646,7 +4646,7 @@ CQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 3\S]
+You are South and it is your bid. [BID 3\S]
 
 [show NS]
 
@@ -4710,7 +4710,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You certainly want to show a Major suit so you respond 1\H.
 
@@ -4768,7 +4768,7 @@ pass 1NT pass 2NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 With a balanced hand and 16 points you open 1NT. In the Bridge dictionary under "Opening 1NT Bid" they probably have a picture of this hand. Partner responds 2NT. What do you bid? [BID 3NT]
 
@@ -4840,7 +4840,7 @@ S6
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You surely want to compete and must choose between a Takeout Double and an overcall.
 
@@ -4900,7 +4900,7 @@ SA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 Make a choice. With 20 points you are strong enough to open 2NT. But, with two doubletons you can't really call this a balanced hand. So you should open 1\S.
 
@@ -4958,7 +4958,7 @@ HA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You have an easy 1\H opening bid.
 
@@ -5028,7 +5028,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 With 10 points you aren't strong enough to respond at the 2-level, particularly with that weak \D suit.
 
@@ -5100,7 +5100,7 @@ HK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\D]
+You are South and it is your bid. [BID 2\D]
 
 With 11 points and a beautiful 6-card suit this is the perfect hand for a Weak-2 opener. So you open 2\D. Partner responds 2NT. [BID 3NT]
 
@@ -5176,7 +5176,7 @@ SJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You open 1\H, West overcalls 1\S and partner passes.
 
@@ -5232,7 +5232,7 @@ SQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You respond 1\S, your 5-card Major. Partner jumps to 3\H.
 
@@ -5296,7 +5296,7 @@ CK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You respond with your 5-card Major, 1\S.
 
@@ -5362,7 +5362,7 @@ CA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 4\H]
+You are South and it is your bid. [BID 4\H]
 
 [show NS]
 
@@ -5418,7 +5418,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 4NT]
+You are South and it is your bid. [BID 4NT]
 
 [show NS]
 
@@ -5484,7 +5484,7 @@ S3
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You are very close to the 22 points needed to open 2\C.
 
@@ -5546,7 +5546,7 @@ CQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You have a real bare-bones 13 points. No matter, you don't pass with 13. So you open 1\S.
 
@@ -5606,7 +5606,7 @@ CJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\H]
+You are South and it is your bid. [BID 2\H]
 
 Two choices come to mind - 2NT or 2\H.
 
@@ -5672,7 +5672,7 @@ CJ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
+You are South and it is your bid. [BID 1\H]
 
 You have a valid opening 1NT bid. You also have a valid opening 1\H bid. It is up to you and your partner to agree on whether you will open 1NT when you hold a 5-card Major.
 
@@ -5736,7 +5736,7 @@ pass 1C pass 1S pass 1NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\C]
+You are South and it is your bid. [BID 1\C]
 
 With 14 points and only one biddable suit this was a snap. You open 1\C. Partner responds with 1\S. What do you bid? [BID 1NT]
 
@@ -5790,7 +5790,7 @@ DT
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 2\C]
+You are South and it is your bid. [BID 2\C]
 
 You have 23 points. You must open 2\C.
 
@@ -5856,7 +5856,7 @@ DQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 4\H]
+You are South and it is your bid. [BID 4\H]
 
 [show NS]
 
@@ -5914,7 +5914,7 @@ DQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 3\H]
+You are South and it is your bid. [BID 3\H]
 
 [show NS]
 
@@ -5970,7 +5970,7 @@ SA
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1NT]
+You are South and it is your bid. [BID 1NT]
 
 With a balanced, 17 point hand you open 1NT. Partner responds 2NT. What do you bid? [BID 3NT]
 
@@ -6026,7 +6026,7 @@ S5
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
+You are South and it is your bid. [BID 1\S]
 
 You have a nice hand, but can only open 1\S.
 

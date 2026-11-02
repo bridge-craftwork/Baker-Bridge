@@ -21,7 +21,7 @@
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
+You dealt this hand. [BID 2\D]
 
 
 
@@ -52,7 +52,7 @@ CT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -79,7 +79,7 @@ CT
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\S]
+You dealt this hand. [BID 2\S]
 
 
 
@@ -110,7 +110,7 @@ DK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 [show NS]
 
@@ -137,7 +137,7 @@ H9
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
+You dealt this hand. [BID 2\H]
 
 
 
@@ -168,7 +168,7 @@ C3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -195,7 +195,7 @@ HK
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above.
+You dealt this hand.
 
 
 
@@ -230,7 +230,7 @@ S5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -257,7 +257,7 @@ DK
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
+You dealt this hand. [BID 2\D]
 
 
 
@@ -288,7 +288,7 @@ H2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -315,7 +315,7 @@ D4
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
+You dealt this hand. [BID 2\H]
 
 
 
@@ -346,7 +346,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 
 
@@ -377,7 +377,7 @@ D2
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\D]
+You dealt this hand. [BID 2\D]
 
 
 
@@ -408,7 +408,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 
 
@@ -439,7 +439,7 @@ D2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 
 
@@ -470,7 +470,7 @@ DJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 
 
@@ -501,7 +501,7 @@ pass pass pass 1S pass 3S pass 4S pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 
 
@@ -534,7 +534,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4NT]
+The bidding has gone as shown. [BID 4NT]
 
 
 
@@ -565,7 +565,7 @@ HQ
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 2\H]
+You dealt this hand. [BID 2\H]
 
 
 
@@ -596,7 +596,7 @@ C7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 
 

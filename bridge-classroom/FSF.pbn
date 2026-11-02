@@ -22,7 +22,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
+The bidding has gone as shown. [BID 1\H]
 
 With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\H. Partner rebids 1\S. What do you bid now? [BID 2\D]
 
@@ -56,7 +56,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 With 13 points you open 1\D. Partner responds 1\H. What do you bid now? [BID 1\S]
 
@@ -90,7 +90,7 @@ C7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
+The bidding has gone as shown. [BID 1\H]
 
 With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\H. Partner rebids 1\S. What do you bid now? [BID 2\D]
 
@@ -124,7 +124,7 @@ DK
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 You open your 5-card suit, 1\D. Partner responds 1\S. What do you bid now? [BID 2\C]
 
@@ -160,7 +160,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 You show your 4-card Major. Bid 1\S. Partner rebids 2\C. What do you say next? [BID 3NT]
 
@@ -192,7 +192,7 @@ D7
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
+You are the dealer. [BID 1\H]
 
 You open 1\H. As expected, partner responds 1\S. What do you bid now? [BID 2\C]
 
@@ -228,7 +228,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 You have 15 points and you respond 1\S. Partner rebids 2\D. What do you say next? [BID 3\C]
 
@@ -260,7 +260,7 @@ CK
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 With both 4-card minors you open 1\D. Partner responds 1\S. What do you bid next? [BID 2\C]
 
@@ -296,7 +296,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 You have a totally square 13 points. Still, you don't want to ignore a 4-card \S suit so you respond 1\S. Partner rebids 2\D. What do you say next? [BID 4\H]
 
@@ -326,7 +326,7 @@ CK
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 With both 4-card minors you open 1\D. Partner responds 1\S. What do you bid now? [BID 2\C]
 
@@ -360,7 +360,7 @@ D3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 You respond 2\C. Partner rebids 2\D. What is your next bid? [BID 2\S]
 
@@ -396,7 +396,7 @@ HK
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\C]
+You are the dealer. [BID 1\C]
 
 There is only one possibility; you open 1\C. Partner responds 1\D. What do you bid now? [BID 1\H]
 
@@ -430,7 +430,7 @@ C8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 You have 13 points and you respond 1\S. Partner rebids 2\C. What is your next bid? [BID 2\D]
 
@@ -462,7 +462,7 @@ CT
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\C]
+You are the dealer. [BID 1\C]
 
 You have 15 points and you open 1\C. Partner responds 1\H. What do you bid now? [BID 1\S]
 

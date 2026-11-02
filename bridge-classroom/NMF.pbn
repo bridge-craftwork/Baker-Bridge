@@ -21,7 +21,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 With 14 points you will insist on game, but you aren't strong enough to jump shift. So you bid 1\S. Partner rebids 1NT. What do you bid now? [BID 2\D]
 
@@ -55,7 +55,7 @@ H6
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 With 13 points and 4 cards in each minor suit you should open 1\D. Partner responds 1\S. What do you bid now? [BID 1NT]
 
@@ -89,7 +89,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
+The bidding has gone as shown. [BID 1\H]
 
 With 12 points you know game is likely, but for now you bid 1\H. Partner rebids 1NT. What do you say next? [BID 2\C]
 
@@ -123,7 +123,7 @@ CJ
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 With 13 points you open your 4-card minor, 1\D. Partner responds 1\S. What do you bid now? [BID 1NT]
 
@@ -159,7 +159,7 @@ C3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
+The bidding has gone as shown. [BID 1\H]
 
 With 12 points you know game is likely, but for now you bid 1\H. Partner rebids 1NT. What do you say next? [BID 2\C]
 
@@ -193,7 +193,7 @@ CJ
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\C]
+You are the dealer. [BID 1\C]
 
 With 14 points you open your 4-card minor, 1\C. Partner responds 1\H. What do you bid now? [BID 1NT]
 
@@ -229,7 +229,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 You have 12 points and you respond 1\S. Partner rebids 1NT. What do you say next? [BID 2\D]
 
@@ -265,7 +265,7 @@ DQ
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 This 14 point hand is almost good enough to open 1NT, but you bid 1\D. Partner responds 1\H. What do you bid next? [BID 1NT]
 
@@ -301,7 +301,7 @@ S4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\H]
+The bidding has gone as shown. [BID 1\H]
 
 With 15 points you are going to insist on game. First you respond 1\H. Partner rebids 1NT. What do you say next? [BID 2\C]
 
@@ -337,7 +337,7 @@ H7
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 You have 14 points and you open 1\D. Partner responds 1\S. What do you bid now? [BID 1NT]
 
@@ -371,7 +371,7 @@ H5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 You have 14 points and you respond 1\S. Partner rebids 1NT. What is your next bid? [BID 2\D]
 
@@ -407,7 +407,7 @@ H8
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\C]
+You are the dealer. [BID 1\C]
 
 You are too strong for 1NT so you open 1\C. Partner responds 1\S. What do you bid now? [BID 2NT]
 
@@ -443,7 +443,7 @@ H5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1\S]
+The bidding has gone as shown. [BID 1\S]
 
 You have 16 points and you respond 1\S. Partner rebids 2NT. What is your next bid? [BID 3\C]
 
@@ -479,7 +479,7 @@ D6
 [Student "S"]
 {[show S]
 
-You are the dealer. Decide what you would say, then click on <b>BID</b> above. [BID 1\D]
+You are the dealer. [BID 1\D]
 
 You have 13 points and you open 1\D. Partner responds 1\S. What do you bid now? [BID 1NT]
 

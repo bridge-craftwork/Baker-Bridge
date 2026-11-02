@@ -22,7 +22,7 @@
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would say, then click BID above. [BID 1\D]
+You dealt this hand. [BID 1\D]
 
 
 
@@ -372,7 +372,7 @@ DK
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 1\S]
+The bidding is shown. [BID 1\S]
 
 
 
@@ -406,7 +406,7 @@ S2
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 1\H]
+The bidding is shown. [BID 1\H]
 
 
 
@@ -440,7 +440,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 1\H]
+The bidding is shown. [BID 1\H]
 
 
 
@@ -474,7 +474,7 @@ C3
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 2NT]
+The bidding is shown. [BID 2NT]
 
 [show NS]
 
@@ -506,7 +506,7 @@ S8
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 1\H]
+The bidding is shown. [BID 1\H]
 
 
 
@@ -540,7 +540,7 @@ D9
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 3\D]
+The bidding is shown. [BID 3\D]
 
 
 
@@ -574,7 +574,7 @@ H3
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 1\S]
+The bidding is shown. [BID 1\S]
 
 
 
@@ -608,7 +608,7 @@ D4
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 1\H]
+The bidding is shown. [BID 1\H]
 
 
 
@@ -642,7 +642,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 1\S]
+The bidding is shown. [BID 1\S]
 
 
 
@@ -680,7 +680,7 @@ C6
 [Student "S"]
 {[show S]
 
-The bidding is shown. Decide what you would say, then click BID. [BID 2\D]
+The bidding is shown. [BID 2\D]
 
 
 

@@ -625,6 +625,23 @@ def fix_click_prompts(analysis):
                       r'Click NEXT \1 [NEXT]', analysis)
     return analysis
 
+# "Decide what you would say, then click on BID [above]." The app's bidding box is the
+# prompt, and BID isn't a button in it. Same patterns as package_presentation.py's paper
+# pass, except they can't run through a tag: here the control tags are still in the text.
+BID_PROMPT_RE = re.compile(
+    r"Decide (?:what|how) you would [^.\[\]]*?then click on [^.\[\]]*?above\.?"
+    r"|Decide what you would \w+[^.\[\]]*BID[^.\[\]]*\.",
+    re.IGNORECASE)
+
+
+def strip_bid_prompts(analysis):
+    def gap(m):
+        before, after = m.string[m.start() - 1:m.start()], m.string[m.end():m.end() + 1]
+        return " " if before.strip() and after.strip() else ""
+    return re.sub(r"[ \t]*(?:" + BID_PROMPT_RE.pattern + r")[ \t]*", gap, analysis,
+                  flags=re.IGNORECASE)
+
+
 # Function to process analysis field
 def process_analysis(analysis, student=None, declarer=None, subfolder=None, auction_str=None, dealer=None):
     if analysis:
@@ -639,6 +656,7 @@ def process_analysis(analysis, student=None, declarer=None, subfolder=None, auct
         analysis = analysis.replace('\\n', '\\n\\n')    # double the line breaks - somehow BridgeComposer doesn't handle single breaks well
         analysis = "\n".join(analysis.split("\\n"))  # Ensure proper newline conversion
         analysis = fix_click_prompts(analysis)
+        analysis = strip_bid_prompts(analysis)
 
         # Inject visibility directives only if not already present from bbparse
         # bbparse.py now generates initial [show ...] based on actual HTML visibility

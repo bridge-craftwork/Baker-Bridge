@@ -22,7 +22,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 [show NS]
 
@@ -50,7 +50,7 @@ D5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -78,7 +78,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 You have a limit raise in \Hs; if East had not overcalled you would have bid 3\H. 
 
@@ -110,7 +110,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -138,7 +138,7 @@ CJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\S]
+The bidding has gone as shown. [BID 3\S]
 
 [show NS]
 
@@ -168,7 +168,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 [show NS]
 
@@ -196,7 +196,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 You have 14 points in support of \Ss; however, partner's overcall does not promise more than 9 points or so. 
 
@@ -230,7 +230,7 @@ H4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4NT]
+The bidding has gone as shown. [BID 4NT]
 
 Partner has a limit raise or better  in \Ss, 11 points or more. 
 
@@ -262,7 +262,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 You have 12 points in support of \Hs; however, partner's overcall does not promise more than 9 points or so. 
 
@@ -294,7 +294,7 @@ C2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 You have about 15 points in support of \Hs so you cue-bid 3\C, showing a limit raise or better and forcing partner to bid again. Partner bids 4\H. What do you say? [BID 5\C]
 
