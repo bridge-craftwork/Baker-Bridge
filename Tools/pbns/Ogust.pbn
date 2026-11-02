@@ -21,7 +21,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 [show NS]
 
@@ -48,7 +48,7 @@ pass 2H pass 2NT pass 3C pass 3H pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 With four top tricks it is tempting to go straight to 4\H.
 
@@ -79,7 +79,7 @@ CJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\D]
+The bidding has gone as shown. [BID 3\D]
 
 [show NS]
 
@@ -106,7 +106,7 @@ pass 2S pass 2NT pass 3H pass 4S pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 With three top tricks it is tempting to go straight to 4\S.
 
@@ -137,7 +137,7 @@ C7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 [show NS]
 
@@ -162,7 +162,7 @@ pass 2D pass 2NT pass 3D pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 You could just guess between pass, 3NT, or 5\D.
 
@@ -193,7 +193,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -218,7 +218,7 @@ pass 2H pass 2NT pass 3NT pass 4H pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 This is a perfect hand for Ogust - when you're not sure what to do! So you bid 2NT. Partner responds 3NT. What do you bid next? [BID 4\H]
 
@@ -247,7 +247,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\S]
+The bidding has gone as shown. [BID 3\S]
 
 [show NS]
 
@@ -272,7 +272,7 @@ pass 2S pass 2NT pass 3S pass 6S pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 Before you read this lesson you might have just jumped to a Blackwood 4NT. But now you bid an Ogust 2NT. Partner rebids 3\S. What do you bid next? [BID 6\S]
 

@@ -21,7 +21,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -78,7 +78,7 @@ S6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 In the pre-transfer days you would have bid 2\S with this hand and partner would have passed. Now you make partner bid the \Ss first by saying 2\H. Partner dutifully replies 2\S. What do you say? [BID pass]
 
@@ -149,7 +149,7 @@ C2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 Partner's 2\C is Stayman convention. With no 4-card Major suit your response is 2\D. Partner now bids 2NT. What do you say? [BID 3NT]
 
@@ -210,7 +210,7 @@ S7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -283,7 +283,7 @@ H5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\S]
+The bidding has gone as shown. [BID 3\S]
 
 Partner's 2\H bid is a transfer; he expects you to bid 2\S. However, with such great \S support and an outside doubleton your hand now revalues to 18 points - more than an opening 1NT. You indicate this with a jump to 3\S. This is called a "Super-Accept".  Partner now bids 4NT. What do you answer? [BID 5\D]
 
@@ -342,7 +342,7 @@ CT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 With 10 points and a 6-card \H suit you want to transfer. You say 2\D and partner bids 2\H. What do you bid now? [BID 4\H]
 
@@ -413,7 +413,7 @@ DK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 In response to partner's Stayman bid you show your 4-card \S suit. Partner now bids 2NT. What do you say? [BID 3NT]
 
@@ -472,7 +472,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 [show NS]
 
@@ -539,7 +539,7 @@ C2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\D]
+The bidding has gone as shown. [BID 3\D]
 
 Partner's 3\C bid is Stayman; with no 4-card Major you respond 3\D. Partner now bids 4\D. What do you bid? [BID 5\D]
 
@@ -608,7 +608,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 You have 12 points and a 4-card \S suit. To find a possible 4-4 fit you bid 2\C, the Stayman convention. Partner bids 2\H. What do you bid now? [BID 3NT]
 
@@ -679,7 +679,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 You are thinking slam; your first step is a jump to 3\C.
 
@@ -752,7 +752,7 @@ HT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 This situation comes up a lot. You don't have enough points to advance partner's 1NT opening, but you have a "long suit" that might play better than notrump. If "long suit" is 6 \Hs or 6 \Ss then pretty clearly you should transfer partner to that suit and then pass. But with only 5 of the Major it is tougher to say that 1NT would be an inferior contract. Here's a suggestion - with fewer than 9 points and a 5-card Major, transfer to that suit when you have a singleton or void, otherwise pass 1NT. So here you bid 2\D and partner says 2\H. What do you bid now? [BID pass]
 
@@ -825,7 +825,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 Partner's 3\C bid is Stayman; with 4 cards in both Majors you respond 3\H. Partner now bids 3NT.  What do you bid? [BID 4\S]
 
@@ -894,7 +894,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID double]
+The bidding has gone as shown. [BID double]
 
 Sometimes the opponents make overcalls which disrupt the smooth flow of your side's bidding. You and your partner need to have ways of dealing with these disruptions. One possibility is the <b>lebensohl</b> convention which is used a few times in these 100 Deals. There are lots of other methods out there, and you may not care for lebensohl. One of the big reasons we use it is that it includes a penalty double - some other methods use the double for other reasons.
 
@@ -941,7 +941,7 @@ SJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 6NT]
+The bidding has gone as shown. [BID 6NT]
 
 [show NS]
 
@@ -1004,7 +1004,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 [show NS]
 
@@ -1073,7 +1073,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 In response to partner's Stayman bid you show your 4-card \S suit. Partner now bids 2NT. What do you say? [BID 3NT]
 
@@ -1138,7 +1138,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 With 12 points and a 4-card Major suit you automatically use Stayman; bid 2\C. Partner responds 2\D. What do you bid now? [BID 3NT]
 
@@ -1211,7 +1211,7 @@ H6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 In response to partner's Stayman bid you bid 2\D to indicate no 4-card Major. Partner now bids 2\H. What do you say? [BID 3NT]
 
@@ -1278,7 +1278,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 With your 6-card Major suit you naturally use a transfer; bid 3\H. Partner responds 3\S. What do you bid now? [BID 4\S]
 
@@ -1349,7 +1349,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 Partner's 2\D bid is a transfer so you bid 2\H. Partner now bids 2NT. What do you say? [BID pass]
 
@@ -1414,7 +1414,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -1483,7 +1483,7 @@ S6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 With both Majors, the correct response to Stayman is 2\H. Partner now bids 3NT. What do you say? [BID 4\S]
 
@@ -1546,7 +1546,7 @@ CA
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 With 9 points you are in the game-invitational range. And with a 4-card \H suit you should use Stayman. You bid 2\C and partner says 2\D. What is your next bid? [BID 2NT]
 
@@ -1613,7 +1613,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -1678,7 +1678,7 @@ H3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 Who knows whether you should use a transfer or just bid 4\H yourself. Assume you decide on the transfer and bid 2\D. Partner bids 2\H (of course). What do you say now? [BID 4\H]
 
@@ -1753,7 +1753,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 [show NS]
 
@@ -1816,7 +1816,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 You could either use a transfer or you could jump to 3\S. You decide on the transfer and bid 2\H. Partner jumps to 3\S! What do you say now? [BID 6\S]
 
@@ -1889,7 +1889,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -1956,7 +1956,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 You decide to use a transfer so the lead will be into whatever holding partner has in the minor suits. You bid 2\H and partner bids  2\S. What do you say now? [BID 4\S]
 
@@ -2027,7 +2027,7 @@ CT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 Partner's 2\H bid is a transfer so you bid 2\S. Partner now bids 4\S and you pass. [NEXT]
 
@@ -2086,7 +2086,7 @@ pass 1NT pass 2S pass 3C pass pass pass
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 Many people play Jacoby Transfer convention. Not all of them play that an initial response of 2\S asks partner to bid  3\C. You use that here and reply 3\C. Everybody passes.
 
@@ -2147,7 +2147,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 6NT]
+The bidding has gone as shown. [BID 6NT]
 
 [show NS]
 
@@ -2206,7 +2206,7 @@ C9
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 With 9 points you have just enough to respond. And with a 4-card Major suit you should use Stayman so you bid 2\C. Partner duly replies 2\S. What do you say now? [BID 2NT]
 
@@ -2281,7 +2281,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1NT]
+The bidding has gone as shown. [BID 1NT]
 
 [show NS]
 
@@ -2342,7 +2342,7 @@ H8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\H]
+The bidding has gone as shown. [BID 4\H]
 
 [show NS]
 
@@ -2401,7 +2401,7 @@ ST
 [Student "S"]
 {[show S]
 
-You are the Dealer. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+You are the Dealer. [BID 2NT]
 
 [show NS]
 
@@ -2458,7 +2458,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -2523,7 +2523,7 @@ S4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 With no 4-card Major suit you respond 2\D to partner's Stayman bid. Partner now bids 2NT. What do you say? [BID 3NT]
 
@@ -2590,7 +2590,7 @@ S6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 When you are 5-5 in the Majors you can transfer to either suit. Most will say transfer first to \Hs when you have invitational strength. So you bid 2\D.
 
@@ -2657,7 +2657,7 @@ H5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -2718,7 +2718,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 Partner's 2NT opening shows 20-21 points so you know you want to be in game. To find out which game you bid a Stayman 3\C. Partner replies 3\D. What do you say now? [BID 3NT]
 
@@ -2791,7 +2791,7 @@ S3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 Partner's 3\D bid is a transfer; you dutifully reply 3\H. Partner now bids 3NT. What do you say? [BID pass]
 
@@ -2854,7 +2854,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 You have 9 points, an invitational strength hand. With 6 \Hs you transfer partner by bidding 2\D. Partner replies 2\H. What do you say now? [BID 3\H]
 
@@ -2927,7 +2927,7 @@ DJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 6NT]
+The bidding has gone as shown. [BID 6NT]
 
 [show NS]
 
@@ -2994,7 +2994,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\S]
+The bidding has gone as shown. [BID 3\S]
 
 [show NS]
 
@@ -3065,7 +3065,7 @@ HT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 [show NS]
 
@@ -3130,7 +3130,7 @@ H9
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 [show NS]
 
@@ -3197,7 +3197,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 Partner's 2\H bid is a transfer; you respond 2\S. Partner now bids 3\S.  What do you bid? [BID 4\S]
 
@@ -3266,7 +3266,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 6NT]
+The bidding has gone as shown. [BID 6NT]
 
 [show NS]
 
@@ -3337,7 +3337,7 @@ DT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 Partner's 2\D bid is a transfer; you respond 2\H. Partner now bids 3NT.  What do you bid? [BID 4\H]
 
@@ -3400,7 +3400,7 @@ CJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 [show NS]
 
@@ -3463,7 +3463,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -3522,7 +3522,7 @@ S5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\C]
+The bidding has gone as shown. [BID 4\C]
 
 There would be nothing wrong with a transfer bid here, but probably no advantage either. What you really want to know is how many Aces partner has. So you ask him with a Gerber 4\C bid.
 
@@ -3591,7 +3591,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 Partner's 2NT is the lebensohl convention. He requests that you bid 3\C as a relay, which you do. Partner now bids 3NT. What do you say? [BID pass]
 
@@ -3656,7 +3656,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 <b><i></i></b>The question is: Do you use Transfers after a 1NT OVERCALL? And in particular, can you bid the opponent's suit and have it mean a transfer instead of a cue-bid? This is something you and your partner need to agree on - as for me and my partner, we think 2\D is a transfer. Partner replies 2\H. What do you say now? [BID 3NT]
 
@@ -3729,7 +3729,7 @@ D9
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 In the old days (before transfer bids) you could have just bid a "drop-dead" 2\D. But those days are gone so you must improvise. You bid 2\S, transferring partner to \Cs.
 
@@ -3796,7 +3796,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 With 9 points and a 5-card Major suit you should definitely transfer, so you bid 2\H. Partner replies 2\S. What do you say now? [BID 2NT]
 
@@ -3869,7 +3869,7 @@ H6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -3944,7 +3944,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -4015,7 +4015,7 @@ C2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 Wow. You can tell that this is going to be tough to bid scientifically. You decide to start with a transfer bid, 2\H. Partner replies 2\S. What do you say now? [BID 6\S]
 
@@ -4090,7 +4090,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 When using lebensohl, a 2NT bid over an enemy overcall asks partner to bid 3\C. So partner replies 3\C. What do you say now? [BID 3NT]
 
@@ -4163,7 +4163,7 @@ DK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -4224,7 +4224,7 @@ C6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 7NT]
+The bidding has gone as shown. [BID 7NT]
 
 [show NS]
 
@@ -4293,7 +4293,7 @@ HT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 Surely this hand will play better in \Ss than in notrump. So you transfer with 2\H and partner bids 2\S. What do you say now? [BID pass]
 
@@ -4364,7 +4364,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 First find out about Major suit fits by bidding Stayman. So bid 3\C and partner says 3\H. What now? [BID 6\H]
 
@@ -4435,7 +4435,7 @@ S8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 Never mind trying to decide how to show the \C suit; with a 4-card Major your obligation is to use Stayman.
 
@@ -4510,7 +4510,7 @@ DK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -4585,7 +4585,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 Your partnership may play that a jump to 3\H shows a 6-card suit with slam interest, in other words, this very hand. If you do, then bid it. If you don't, use a transfer first. Let's say you bid 2\D. Partner jumps to 3\H. Now what do you bid? [BID 4NT]
 
@@ -4660,7 +4660,7 @@ CT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -4729,7 +4729,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 With no 4-card Major suit you respond 2\D to partner's Stayman bid. Partner now bids 2NT. What do you say? [BID 3NT]
 
@@ -4796,7 +4796,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 Did you consider bidding 6NT? You are balanced, and the points are right. But with two 4-card Majors you should use Stayman, so you bid 2\C. Partner bids 2\H. Now what do say next? [BID 4NT]
 
@@ -4873,7 +4873,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 When the opponents overcall your 1NT opener a 2NT bid by partner is lebensohl. You have been instructed to make a relay bid of 3\C, and you do so. Partner now bids 3\H. What do you say? [BID pass]
 
@@ -4940,7 +4940,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 Partner bids Stayman; with no 4-card Major you respond 2\D. Partner now bids 3\S.  What do you bid? [BID 3NT]
 
@@ -5007,7 +5007,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 Partner's 2NT is lebensohl, requesting that you bid 3\C. You obey and partner now bids 3\H. What do you say? [BID 3NT]
 
@@ -5066,7 +5066,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -5135,7 +5135,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 Partner's 2\H bid is a transfer; you respond 2\S. Partner now bids 3\S.  What do you bid? [BID pass]
 
@@ -5198,7 +5198,7 @@ DJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 With 12 points and a 5-card Major you transfer partner to that Major. You bid 2\H. Partner bids 2\S. Now what do say next? [BID 3NT]
 
@@ -5267,7 +5267,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 Partner's 2\H is a transfer, so you bid 2\S. Partner now bids 2NT. What do you say? [BID 3NT]
 
@@ -5328,7 +5328,7 @@ H5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 You need to find out if partner has 4 \Ss. Using lebensohl the way to do that is to first bid 2NT. Partner bids 2\C, the relay bid. What do say next? [BID 3\H]
 
@@ -5401,7 +5401,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\D]
+The bidding has gone as shown. [BID 3\D]
 
 With 17 points and a 6-card suit you are definitely thinking about slam. The way to suggest slam to partner is to jump in a suit, so you bid 3\D.
 
@@ -5476,7 +5476,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 [show NS]
 
@@ -5535,7 +5535,7 @@ HT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 You have a bad hand. Bad, bad, bad hand. But you think playing in \Ss, \Hs or \Ds would be better than playing 1NT. Can you get partner to bid one of those suits? Sure, you just say 2\C. Partner says 2\S. Your call. [BID pass]
 
@@ -5604,7 +5604,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -5673,7 +5673,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 [show NS]
 
@@ -5732,7 +5732,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 [show NS]
 
@@ -5805,7 +5805,7 @@ H3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 1NT]
+The bidding has gone as shown. [BID 1NT]
 
 A takeout double would not be a terrible bid. But if you don't overcall 1NT right now it will be hard to later convince partner that you have 17 points balanced. So you bite the bullet and say 1NT. Partner now bids 2NT. What do you say? [BID 3NT]
 
@@ -5868,7 +5868,7 @@ S8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 With two 5-card Major suits you can transfer to either one first. A good system is to use the "weaker" transfer to show an invitational hand, the "stronger" to show a forcing to game hand.
 
@@ -5937,7 +5937,7 @@ H2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -6008,7 +6008,7 @@ HJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 It is good to be a little bold with your overcalls. But with a suit this tattered and only two outside Queens this is not good enough for a 2-level overcall. So you pass. Then you hear partner say 1NT. What do you bid now? [BID 2NT]
 
@@ -6081,7 +6081,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 When you have 4 cards in both Majors you respond 2\H to a Stayman request. Partner now bids 3NT.  What do you bid? [BID 4\S]
 
@@ -6144,7 +6144,7 @@ H2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2NT]
+The bidding has gone as shown. [BID 2NT]
 
 [show NS]
 
@@ -6213,7 +6213,7 @@ SQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 It is tempting to just bid 3NT and hope the \Ds come in. But not when you have a 4-card Major suit. Instead you bid a Stayman 2\C. Partner says 2\S; what do you bid next? [BID 4\S]
 
@@ -6286,7 +6286,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 Yes, you have a 6-card \H suit. But you also have 4 \Ss, so you start with a Stayman 2\C.
 
@@ -6361,7 +6361,7 @@ CJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3NT]
+The bidding has gone as shown. [BID 3NT]
 
 [show NS]
 
@@ -6424,7 +6424,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 You have an invitational strength hand with a 6-card Major suit. It's a no-brainer; you transfer with a 2\H bid. Partner says 2\S; what do you bid next? [BID 3\S]
 
@@ -6497,7 +6497,7 @@ HQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\D]
+The bidding has gone as shown. [BID 3\D]
 
 You know you may be in slam territory, but first you need to establish trumps. So you bid 3\D as a transfer and almost faint when partner jumps to 4\H, showing a super-accept. Now what do you bid? [BID 4NT]
 
@@ -6576,7 +6576,7 @@ D8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 4\C]
+The bidding has gone as shown. [BID 4\C]
 
 You have 16 points and partner has 20-21. If you bid 7NT right now just because it is something you always wanted to do, then I don't blame you. But if you're cautious you'll use Gerber 4\C. Partner bids 4\S;  what do you bid next? [BID 7NT]
 
@@ -6645,7 +6645,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 Partner's bid is a transfer asking you to bid 2\S, so you do. Partner now bids 3\H;  what do you bid next? [BID 4\H]
 
@@ -6714,7 +6714,7 @@ CJ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 With 10 points and two 4-card Majors you bid 2\C Stayman. Partner says 2\H;  what do you bid next? [BID 4\H]
 

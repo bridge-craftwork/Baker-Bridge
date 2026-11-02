@@ -12,7 +12,7 @@
 [Auction "S"]
 2S pass 2NT pass 3H pass 3S pass pass pass
 {[show S]
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above.[BID 2S]
+You dealt this hand. [BID 2S]
 You open with a Weak 2-Bid, 2\S. Partner responds 2NT. What do you say next?[BID 3H]
 The 2NT bid is forcing. You have 11 points so you cannot reply 3\S. And your suit is not A K Q x x x so you cannot reply 3NT. That means you must bid a "feature" and your \HQ is the best you have. You bid 3\H and partner says 3\S. What do you say?[BID pass]
 [show NS]
@@ -34,7 +34,7 @@ DT
 [Auction "W"]
 1H 2S 3H 4S X pass pass pass
 {[show S]
-The bidding has gone as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 [show NS]
 You should jump to 4\S, hoping to shut them out of their \H slam. As you can see they have at most one \S loser. Down 4 doubled for your side is much better than letting them bid and make a slam. Of course we know they should have continued bidding, but opponents sometimes make mistakes.}
 [Play "E"]

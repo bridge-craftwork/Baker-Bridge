@@ -22,7 +22,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 With 10 HCP and 10 red cards you have a good enough hand for an immediate DONT bid. So you bid 2\D, promising that suit and a Major.
 
@@ -54,7 +54,7 @@ H3
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 You have a terrible hand but you still cannot pass partner's double. He is requesting you to bid 2\C as a relay bid so he can name his suit.
 
@@ -86,7 +86,7 @@ H4
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\H]
+The bidding has gone as shown. [BID 2\H]
 
 OK, you only have 4 HCP. But you have 10 cards in the Majors. And, you are in the balancing seat. If East is willing to let it die at 1NT your partner must have some strength. So you should use DONT. Youbid 2\H, showing both Major suits.
 
@@ -118,7 +118,7 @@ S2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 Your hand is too balanced to intervene over East's 1NT so you pass.
 
@@ -152,7 +152,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID double]
+The bidding has gone as shown. [BID double]
 
 With 10 HCP and a solid 6-card suit this is an ideal DONT bid. You double and partner follows procedure by saying 2\C.
 
@@ -184,7 +184,7 @@ CT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 [show NS]
 
@@ -212,7 +212,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID double]
+The bidding has gone as shown. [BID double]
 
 In the balancing seat it is distribution that counts, not point count. With a 6-card Major suit and a singleton you should not let them play 1NT. Youdouble.
 
@@ -244,7 +244,7 @@ SK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 You don't have a 6-card suit, nor do you have a 5-4 pair of suits. So even with a singleton you don't want to use DONT here. So you pass.
 
@@ -278,7 +278,7 @@ C8
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID double]
+The bidding has gone as shown. [BID double]
 
 You only have 8 HCP but with such a good 6-card suit you should interfere with a DONT bid. You double and partner surprises you by saying 2\H.
 
@@ -310,7 +310,7 @@ H5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 [show NS]
 
@@ -340,7 +340,7 @@ C6
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 You have only 7 HCP but expect partner to have a reasonable hand since East could not keep the bidding open. With your black 2-suiter you bid the lowest one, 2\C.
 
@@ -374,7 +374,7 @@ CA
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 You would have opened 1NT but East beat you to it. You cannot double for penalties when you use DONT, so you pass.
 
@@ -408,7 +408,7 @@ CA
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID double]
+The bidding has gone as shown. [BID double]
 
 This is a perfect hand with which to Disturb the Opponent's No Trump. You double and partner bids 2\C, the relay bid.
 
@@ -440,7 +440,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\D]
+The bidding has gone as shown. [BID 2\D]
 
 [show NS]
 
@@ -470,7 +470,7 @@ DT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\C]
+The bidding has gone as shown. [BID 2\C]
 
 You have 12 HCP, certainly enough to use DONT in either seat. With your black 2-suiter you bid the lowest one, 2\C.
 
@@ -504,7 +504,7 @@ H2
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 You would have opened 1\D but after East opens 1NT you must pass.
 
@@ -538,7 +538,7 @@ S5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 [show NS]
 
@@ -566,7 +566,7 @@ CT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -596,7 +596,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 [show NS]
 
@@ -624,7 +624,7 @@ SA
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 You would have opened 1\D but after East opens 1NT you must pass.
 

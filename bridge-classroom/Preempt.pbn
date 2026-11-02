@@ -21,7 +21,7 @@
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\D]
+You dealt this hand. [BID 3\D]
 
 [show NS]
 
@@ -49,7 +49,7 @@ CQ
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
+The bidding has been as shown. [BID pass]
 
 [show NS]
 
@@ -79,7 +79,7 @@ HA
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\H]
+You dealt this hand. [BID 3\H]
 
 
 
@@ -111,7 +111,7 @@ DK
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\H]
+The bidding has been as shown. [BID 4\H]
 
 [show NS]
 
@@ -141,7 +141,7 @@ DK
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 4\S]
+You dealt this hand. [BID 4\S]
 
 [show NS]
 
@@ -173,7 +173,7 @@ CT
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 6\S]
+The bidding has been as shown. [BID 6\S]
 
 [show NS]
 
@@ -203,7 +203,7 @@ CJ
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\H]
+You dealt this hand. [BID 3\H]
 
 
 
@@ -235,7 +235,7 @@ HK
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\D]
+The bidding has been as shown. [BID 4\D]
 
 [show NS]
 
@@ -263,7 +263,7 @@ SA
 [Student "S"]
 {[show S]
 
-You dealt this hand. Decide what you would bid, then click on <b>BID</b> above. [BID 3\D]
+You dealt this hand. [BID 3\D]
 
 
 
@@ -297,7 +297,7 @@ S9
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID pass]
+The bidding has been as shown. [BID pass]
 
 [show NS]
 
@@ -329,7 +329,7 @@ DA
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 3\S]
+The bidding has been as shown. [BID 3\S]
 
 [show NS]
 
@@ -359,7 +359,7 @@ H2
 [Student "S"]
 {[show S]
 
-The bidding has been as shown. Decide what you would bid, then click on <b>BID</b> above. [BID 4\H]
+The bidding has been as shown. [BID 4\H]
 
 [show NS]
 

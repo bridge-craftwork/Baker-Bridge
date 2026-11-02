@@ -21,7 +21,7 @@
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID pass]
+The bidding has gone as shown. [BID pass]
 
 [show NS]
 
@@ -48,7 +48,7 @@ D7
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on  <b>BID</b>  above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -75,7 +75,7 @@ S5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -102,7 +102,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 [show NS]
 
@@ -133,7 +133,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\C]
+The bidding has gone as shown. [BID 3\C]
 
 
 
@@ -164,7 +164,7 @@ DT
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4\S]
+The bidding has gone as shown. [BID 4\S]
 
 [show NS]
 
@@ -191,7 +191,7 @@ CK
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\D]
+The bidding has gone as shown. [BID 3\D]
 
 [show NS]
 
@@ -220,7 +220,7 @@ C5
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 4\H]
+The bidding has gone as shown. [BID 4\H]
 
 [show NS]
 
@@ -249,7 +249,7 @@ ST
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 2\S]
+The bidding has gone as shown. [BID 2\S]
 
 [show NS]
 
@@ -278,7 +278,7 @@ DQ
 [Student "S"]
 {[show S]
 
-The bidding has gone as shown. Decide what you would say next, then click on <b>BID</b> above. [BID 3\H]
+The bidding has gone as shown. [BID 3\H]
 
 [show NS]
 
