@@ -71,6 +71,22 @@ def deals_commit(repo_dir):
             or _git(repo_dir, "rev-parse", "HEAD"))
 
 
+def iso_build_date(value):
+    """Normalize a BB_BUILD_DATE to the ISO 8601 form generatedAt promises.
+
+    The same instant is spelled with a space in the PBNs' %Created stamp and with a T
+    here, so accept either, plus a trailing Z. Refuses anything else rather than
+    writing it into the manifest.
+    """
+    text = value.strip()
+    utc = text[-1:] in ("Z", "z")
+    try:
+        parsed = datetime.datetime.fromisoformat(text[:-1] if utc else text)
+    except ValueError:
+        raise SystemExit(f"BB_BUILD_DATE is not a date and time: {value!r}")
+    return parsed.isoformat(timespec="seconds") + ("Z" if utc else "")
+
+
 def build_timestamp(repo_dir):
     """BB_BUILD_DATE, else the deal set's last commit date, else now.
 
@@ -79,7 +95,7 @@ def build_timestamp(repo_dir):
     """
     override = os.environ.get("BB_BUILD_DATE")
     if override:
-        return override
+        return iso_build_date(override)
     stamp = _git(repo_dir, "log", "-1", "--format=%cd",
                  "--date=format:%Y-%m-%dT%H:%M:%S", "--", f"Tools/{DEALS_CSV}")
     return stamp or datetime.datetime.now().isoformat()
