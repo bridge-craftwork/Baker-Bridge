@@ -203,6 +203,10 @@ def apply_to_file(path, boards):
                 applied += 1
             else:
                 problems.append(f"board {board}: FROM text found {n} times: {frm[:60]!r}")
+        # The replay only validates choices. A bidding-only fix can land on a [ROTATE]
+        # board, whose [PLAY] tags aren't in the same frame as its [Deal] (see CLAUDE.md).
+        if "[choose-card" not in parts[i]:
+            continue
         probs, notes = check_board(parts[i])
         problems += [f"board {board}: {p}" for p in probs]
         for n in notes:
