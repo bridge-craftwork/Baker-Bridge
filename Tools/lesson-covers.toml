@@ -1,0 +1,163 @@
+# What each lesson covers: the conventions, natural methods and skills its
+# boards practise, as IDs from bridge-common-conventions
+# (https://github.com/bridge-craftwork/bridge-common-conventions).
+#
+# generate_manifest.py writes these into the manifest as each lesson's
+# `covers`, and check_covers.py checks every ID is defined there. A lesson
+# whose own skill path is such an ID covers it; a lesson set (the
+# Partnership series, the two practice sets, the two lessons that teach a
+# pair of conventions) names what it draws on.
+#
+# First written 2026-11-16 from what bridge-common-conventions recorded about
+# each lesson set, then trimmed by hand. An empty list is a lesson nobody has
+# described yet. Correct these here: this file is where they are kept.
+
+[lessons."100Deals"]
+covers = []
+
+[lessons."100NT"]
+covers = []
+
+[lessons."2Club"]
+covers = ["bidding_conventions/strong_2c"]
+
+[lessons."2over1"]
+covers = ["bidding_conventions/two_over_one"]
+
+[lessons."Blackwood"]
+covers = ["bidding_conventions/blackwood"]
+
+[lessons."Cue-bid"]
+covers = ["competitive_bidding/support_cuebids"]
+
+[lessons."DONT"]
+covers = ["competitive_bidding/dont"]
+
+[lessons."Drury"]
+covers = ["bidding_conventions/reverse_drury"]
+
+[lessons."Eliminations"]
+covers = ["declarer_play/elimination_plays"]
+
+[lessons."Entries"]
+covers = ["declarer_play/entry_management"]
+
+[lessons."Establishment"]
+covers = ["declarer_play/suit_establishment"]
+
+[lessons."FSF"]
+covers = ["bidding_conventions/fourth_suit_forcing"]
+
+[lessons."Finesse"]
+covers = ["declarer_play/finessing"]
+
+[lessons."Help"]
+covers = ["bidding_conventions/help_suit_game_try"]
+
+[lessons."Holdup"]
+covers = ["declarer_play/holdup_plays"]
+
+[lessons."Jacoby"]
+covers = ["bidding_conventions/jacoby_2nt", "bidding_conventions/splinters"]
+
+[lessons."Leben"]
+covers = ["competitive_bidding/lebensohl"]
+
+[lessons."Major"]
+covers = ["basic_bidding/major_suit_openings"]
+
+[lessons."Michaels"]
+covers = ["competitive_bidding/michaels", "competitive_bidding/unusual_notrump"]
+
+[lessons."Minor"]
+covers = ["basic_bidding/minor_suit_openings"]
+
+[lessons."NMF"]
+covers = ["bidding_conventions/new_minor_forcing"]
+
+[lessons."Negative"]
+covers = ["competitive_bidding/negative_doubles"]
+
+[lessons."Notrump"]
+covers = ["basic_bidding/notrump_openings"]
+
+[lessons."OLead"]
+covers = ["defense/opening_leads"]
+
+[lessons."Ogust"]
+covers = ["bidding_conventions/ogust"]
+
+[lessons."Overcalls"]
+covers = ["competitive_bidding/overcalls"]
+
+[lessons."Partnership-AdvancedForcing"]
+covers = []
+
+[lessons."Partnership-BasicBidding"]
+covers = ["basic_bidding/major_suit_openings", "basic_bidding/minor_suit_openings", "basic_bidding/responses_to_suit_openings"]
+
+[lessons."Partnership-BasicMajor"]
+covers = ["basic_bidding/major_suit_openings", "basic_bidding/responses_to_suit_openings"]
+
+[lessons."Partnership-BasicNotrump"]
+covers = ["basic_bidding/notrump_openings", "bidding_conventions/stayman", "bidding_conventions/jacoby_transfers"]
+
+[lessons."Partnership-Blackwood"]
+covers = ["bidding_conventions/blackwood"]
+
+[lessons."Partnership-Jacoby2NT"]
+covers = ["bidding_conventions/jacoby_2nt"]
+
+[lessons."Partnership-NegativeDoubles"]
+covers = ["competitive_bidding/negative_doubles", "competitive_bidding/after_their_overcall"]
+
+[lessons."Partnership-Overcalls"]
+covers = ["competitive_bidding/overcalls", "competitive_bidding/notrump_overcalls"]
+
+[lessons."Partnership-RomanKeyCard"]
+covers = ["bidding_conventions/roman_keycard"]
+
+[lessons."Partnership-StaymanTransfers"]
+covers = ["bidding_conventions/stayman", "bidding_conventions/jacoby_transfers"]
+
+[lessons."Partnership-TwoClub"]
+covers = ["bidding_conventions/strong_2c"]
+
+[lessons."Partnership-WeakTwos"]
+covers = ["bidding_conventions/weak_2s"]
+
+[lessons."Preempt"]
+covers = ["bidding_conventions/preemptive_bids"]
+
+[lessons."Reverse"]
+covers = ["bidding_conventions/reverse_bids"]
+
+[lessons."Roman"]
+covers = ["bidding_conventions/roman_keycard"]
+
+[lessons."SecondHand"]
+covers = ["defense/second_hand_play"]
+
+[lessons."Signals"]
+covers = ["defense/defensive_signals"]
+
+[lessons."Squeeze"]
+covers = ["declarer_play/squeeze_plays"]
+
+[lessons."Stayman"]
+covers = ["bidding_conventions/stayman"]
+
+[lessons."Takeout"]
+covers = ["competitive_bidding/takeout_doubles"]
+
+[lessons."ThirdHand"]
+covers = ["defense/third_hand_play"]
+
+[lessons."Transfers"]
+covers = ["bidding_conventions/jacoby_transfers"]
+
+[lessons."Trumpmgmt"]
+covers = ["declarer_play/trump_management"]
+
+[lessons."Weak2"]
+covers = ["bidding_conventions/weak_2s"]

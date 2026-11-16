@@ -1,10 +1,11 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "generatedAtCommit": "0b56765c6fc11060fb46b00b4cdc2aa81195fee4",
   "generatedAt": "2026-08-30T20:37:38",
   "lessons": {
     "100Deals": {
       "skillPath": "practice_deals/100_miscellaneous",
+      "covers": [],
       "boardCount": 100,
       "stableBoardCount": 100,
       "boards": [
@@ -612,6 +613,7 @@
     },
     "100NT": {
       "skillPath": "practice_deals/100_notrump",
+      "covers": [],
       "boardCount": 100,
       "stableBoardCount": 100,
       "boards": [
@@ -1220,6 +1222,9 @@
     },
     "2Club": {
       "skillPath": "bidding_conventions/strong_2c",
+      "covers": [
+        "bidding_conventions/strong_2c"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -1348,6 +1353,9 @@
     },
     "2over1": {
       "skillPath": "bidding_conventions/two_over_one",
+      "covers": [
+        "bidding_conventions/two_over_one"
+      ],
       "boardCount": 28,
       "stableBoardCount": 28,
       "boards": [
@@ -1524,6 +1532,9 @@
     },
     "Blackwood": {
       "skillPath": "bidding_conventions/blackwood",
+      "covers": [
+        "bidding_conventions/blackwood"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -1652,6 +1663,9 @@
     },
     "Cue-bid": {
       "skillPath": "competitive_bidding/support_cuebids",
+      "covers": [
+        "competitive_bidding/support_cuebids"
+      ],
       "boardCount": 10,
       "stableBoardCount": 10,
       "boards": [
@@ -1720,6 +1734,9 @@
     },
     "DONT": {
       "skillPath": "competitive_bidding/dont",
+      "covers": [
+        "competitive_bidding/dont"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -1848,6 +1865,9 @@
     },
     "Drury": {
       "skillPath": "bidding_conventions/reverse_drury",
+      "covers": [
+        "bidding_conventions/reverse_drury"
+      ],
       "boardCount": 8,
       "stableBoardCount": 8,
       "boards": [
@@ -1904,6 +1924,9 @@
     },
     "Eliminations": {
       "skillPath": "declarer_play/elimination_plays",
+      "covers": [
+        "declarer_play/elimination_plays"
+      ],
       "boardCount": 25,
       "stableBoardCount": 25,
       "boards": [
@@ -2062,6 +2085,9 @@
     },
     "Entries": {
       "skillPath": "declarer_play/entry_management",
+      "covers": [
+        "declarer_play/entry_management"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -2190,6 +2216,9 @@
     },
     "Establishment": {
       "skillPath": "declarer_play/suit_establishment",
+      "covers": [
+        "declarer_play/suit_establishment"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -2318,6 +2347,9 @@
     },
     "FSF": {
       "skillPath": "bidding_conventions/fourth_suit_forcing",
+      "covers": [
+        "bidding_conventions/fourth_suit_forcing"
+      ],
       "boardCount": 14,
       "stableBoardCount": 14,
       "boards": [
@@ -2410,6 +2442,9 @@
     },
     "Finesse": {
       "skillPath": "declarer_play/finessing",
+      "covers": [
+        "declarer_play/finessing"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -2538,6 +2573,9 @@
     },
     "Help": {
       "skillPath": "bidding_conventions/help_suit_game_try",
+      "covers": [
+        "bidding_conventions/help_suit_game_try"
+      ],
       "boardCount": 10,
       "stableBoardCount": 10,
       "boards": [
@@ -2606,6 +2644,9 @@
     },
     "Holdup": {
       "skillPath": "declarer_play/holdup_plays",
+      "covers": [
+        "declarer_play/holdup_plays"
+      ],
       "boardCount": 15,
       "stableBoardCount": 15,
       "boards": [
@@ -2704,6 +2745,10 @@
     },
     "Jacoby": {
       "skillPath": "bidding_conventions/jacoby_2nt_splinters",
+      "covers": [
+        "bidding_conventions/jacoby_2nt",
+        "bidding_conventions/splinters"
+      ],
       "boardCount": 25,
       "stableBoardCount": 25,
       "boards": [
@@ -2862,6 +2907,9 @@
     },
     "Leben": {
       "skillPath": "competitive_bidding/lebensohl",
+      "covers": [
+        "competitive_bidding/lebensohl"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -2990,6 +3038,9 @@
     },
     "Major": {
       "skillPath": "basic_bidding/major_suit_openings",
+      "covers": [
+        "basic_bidding/major_suit_openings"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -3118,6 +3169,10 @@
     },
     "Michaels": {
       "skillPath": "competitive_bidding/michaels_unusual",
+      "covers": [
+        "competitive_bidding/michaels",
+        "competitive_bidding/unusual_notrump"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -3246,6 +3301,9 @@
     },
     "Minor": {
       "skillPath": "basic_bidding/minor_suit_openings",
+      "covers": [
+        "basic_bidding/minor_suit_openings"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -3374,6 +3432,9 @@
     },
     "NMF": {
       "skillPath": "bidding_conventions/new_minor_forcing",
+      "covers": [
+        "bidding_conventions/new_minor_forcing"
+      ],
       "boardCount": 14,
       "stableBoardCount": 14,
       "boards": [
@@ -3466,6 +3527,9 @@
     },
     "Negative": {
       "skillPath": "competitive_bidding/negative_doubles",
+      "covers": [
+        "competitive_bidding/negative_doubles"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -3594,6 +3658,9 @@
     },
     "Notrump": {
       "skillPath": "basic_bidding/notrump_openings",
+      "covers": [
+        "basic_bidding/notrump_openings"
+      ],
       "boardCount": 25,
       "stableBoardCount": 25,
       "boards": [
@@ -3752,6 +3819,9 @@
     },
     "OLead": {
       "skillPath": "defense/opening_leads",
+      "covers": [
+        "defense/opening_leads"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -3880,6 +3950,9 @@
     },
     "Ogust": {
       "skillPath": "bidding_conventions/ogust",
+      "covers": [
+        "bidding_conventions/ogust"
+      ],
       "boardCount": 10,
       "stableBoardCount": 10,
       "boards": [
@@ -3948,6 +4021,9 @@
     },
     "Overcalls": {
       "skillPath": "competitive_bidding/overcalls",
+      "covers": [
+        "competitive_bidding/overcalls"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -4076,6 +4152,7 @@
     },
     "Partnership-AdvancedForcing": {
       "skillPath": "partnership_bidding/advanced_forcing",
+      "covers": [],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -4228,6 +4305,11 @@
     },
     "Partnership-BasicBidding": {
       "skillPath": "partnership_bidding/basic_bidding",
+      "covers": [
+        "basic_bidding/major_suit_openings",
+        "basic_bidding/minor_suit_openings",
+        "basic_bidding/responses_to_suit_openings"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -4380,6 +4462,10 @@
     },
     "Partnership-BasicMajor": {
       "skillPath": "partnership_bidding/basic_major",
+      "covers": [
+        "basic_bidding/major_suit_openings",
+        "basic_bidding/responses_to_suit_openings"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -4532,6 +4618,11 @@
     },
     "Partnership-BasicNotrump": {
       "skillPath": "partnership_bidding/basic_notrump",
+      "covers": [
+        "basic_bidding/notrump_openings",
+        "bidding_conventions/stayman",
+        "bidding_conventions/jacoby_transfers"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -4684,6 +4775,9 @@
     },
     "Partnership-Blackwood": {
       "skillPath": "partnership_bidding/blackwood",
+      "covers": [
+        "bidding_conventions/blackwood"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -4836,6 +4930,9 @@
     },
     "Partnership-Jacoby2NT": {
       "skillPath": "partnership_bidding/jacoby_2nt",
+      "covers": [
+        "bidding_conventions/jacoby_2nt"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -4988,6 +5085,10 @@
     },
     "Partnership-NegativeDoubles": {
       "skillPath": "partnership_bidding/negative_doubles",
+      "covers": [
+        "competitive_bidding/negative_doubles",
+        "competitive_bidding/after_their_overcall"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -5140,6 +5241,10 @@
     },
     "Partnership-Overcalls": {
       "skillPath": "partnership_bidding/overcalls",
+      "covers": [
+        "competitive_bidding/overcalls",
+        "competitive_bidding/notrump_overcalls"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -5292,6 +5397,9 @@
     },
     "Partnership-RomanKeyCard": {
       "skillPath": "partnership_bidding/roman_key_card",
+      "covers": [
+        "bidding_conventions/roman_keycard"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -5444,6 +5552,10 @@
     },
     "Partnership-StaymanTransfers": {
       "skillPath": "partnership_bidding/stayman_transfers",
+      "covers": [
+        "bidding_conventions/stayman",
+        "bidding_conventions/jacoby_transfers"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -5596,6 +5708,9 @@
     },
     "Partnership-TwoClub": {
       "skillPath": "partnership_bidding/two_club",
+      "covers": [
+        "bidding_conventions/strong_2c"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -5748,6 +5863,9 @@
     },
     "Partnership-WeakTwos": {
       "skillPath": "partnership_bidding/weak_twos",
+      "covers": [
+        "bidding_conventions/weak_2s"
+      ],
       "boardCount": 24,
       "stableBoardCount": 24,
       "boards": [
@@ -5900,6 +6018,9 @@
     },
     "Preempt": {
       "skillPath": "bidding_conventions/preemptive_bids",
+      "covers": [
+        "bidding_conventions/preemptive_bids"
+      ],
       "boardCount": 12,
       "stableBoardCount": 12,
       "boards": [
@@ -5980,6 +6101,9 @@
     },
     "Reverse": {
       "skillPath": "bidding_conventions/reverse_bids",
+      "covers": [
+        "bidding_conventions/reverse_bids"
+      ],
       "boardCount": 14,
       "stableBoardCount": 14,
       "boards": [
@@ -6072,6 +6196,9 @@
     },
     "Roman": {
       "skillPath": "bidding_conventions/roman_keycard",
+      "covers": [
+        "bidding_conventions/roman_keycard"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -6200,6 +6327,9 @@
     },
     "SecondHand": {
       "skillPath": "defense/second_hand_play",
+      "covers": [
+        "defense/second_hand_play"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -6328,6 +6458,9 @@
     },
     "Signals": {
       "skillPath": "defense/defensive_signals",
+      "covers": [
+        "defense/defensive_signals"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -6456,6 +6589,9 @@
     },
     "Squeeze": {
       "skillPath": "declarer_play/squeeze_plays",
+      "covers": [
+        "declarer_play/squeeze_plays"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -6584,6 +6720,9 @@
     },
     "Stayman": {
       "skillPath": "bidding_conventions/stayman",
+      "covers": [
+        "bidding_conventions/stayman"
+      ],
       "boardCount": 25,
       "stableBoardCount": 25,
       "boards": [
@@ -6742,6 +6881,9 @@
     },
     "Takeout": {
       "skillPath": "competitive_bidding/takeout_doubles",
+      "covers": [
+        "competitive_bidding/takeout_doubles"
+      ],
       "boardCount": 25,
       "stableBoardCount": 25,
       "boards": [
@@ -6900,6 +7042,9 @@
     },
     "ThirdHand": {
       "skillPath": "defense/third_hand_play",
+      "covers": [
+        "defense/third_hand_play"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -7028,6 +7173,9 @@
     },
     "Transfers": {
       "skillPath": "bidding_conventions/jacoby_transfers",
+      "covers": [
+        "bidding_conventions/jacoby_transfers"
+      ],
       "boardCount": 25,
       "stableBoardCount": 25,
       "boards": [
@@ -7186,6 +7334,9 @@
     },
     "Trumpmgmt": {
       "skillPath": "declarer_play/trump_management",
+      "covers": [
+        "declarer_play/trump_management"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [
@@ -7314,6 +7465,9 @@
     },
     "Weak2": {
       "skillPath": "bidding_conventions/weak_2s",
+      "covers": [
+        "bidding_conventions/weak_2s"
+      ],
       "boardCount": 20,
       "stableBoardCount": 20,
       "boards": [

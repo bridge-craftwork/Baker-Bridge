@@ -241,6 +241,7 @@ dealer files and the app in sync — the divergence that caused the 2026-07-14 c
 3. **package_results.py** → Copies all `.pbn` and `.pdf` files from `pbns/` to `Package/`, then merges in curated boards from `Curated/`
 4. **stamp_board_tokens.py** → Stamps `[VersionToken]` on every board in `Package/*.pbn` and backstops the `%bridge-classroom-stable: true` header (see "Board Identity Metadata" below)
 5. **generate_manifest.py** → Emits `Package/manifest.json`, the build-generated collection manifest (producer-contract R5); reads the fully-stamped `Package/*.pbn`
+   Each lesson's `covers` (manifest schema 4) comes from **`Tools/lesson-covers.toml`**: the conventions, natural methods and skills the lesson practises, as IDs from [bridge-common-conventions](https://github.com/bridge-craftwork/bridge-common-conventions). A new lesson needs an entry there, or the manifest step fails; `Tools/check_covers.py` (and CI) checks every ID is defined in that repo's published snapshot.
 
 ## Board Identity Metadata (Bridge Classroom)
 
