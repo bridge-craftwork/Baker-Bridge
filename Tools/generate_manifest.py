@@ -20,6 +20,7 @@ Schema (shared v2 format; see Bridge-Classroom design/collection-manifest doc):
       "lessons": {
         "<PbnBasename>": {                 # key = PBN basename = deal_subfolder
           "skillPath": "...",              # lesson-level default
+          "covers": ["..."],               # v4: what the lesson practises
           "boardCount": 25,               # = len(boards)
           "stableBoardCount": 25,
           "boards": [
@@ -45,7 +46,20 @@ import re
 import subprocess
 import sys
 
-SCHEMA_VERSION = 3  # v3: optional per-lesson "intro" (companion _Intro.pdf), additive
+SCHEMA_VERSION = 4  # v3: optional per-lesson "intro" (companion _Intro.pdf), additive
+                    # v4: per-lesson "covers", additive: the conventions, natural methods and
+                    #     skills the lesson practises, as bridge-common-conventions IDs
+                    #     (Tools/lesson-covers.toml; Tools/check_covers.py checks them)
+
+COVERS_TOML = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lesson-covers.toml")
+
+
+def load_covers(path=COVERS_TOML):
+    """{lesson basename: [ID]} from Tools/lesson-covers.toml."""
+    import tomllib
+    with open(path, "rb") as fh:
+        doc = tomllib.load(fh)
+    return {name: list(entry.get("covers", [])) for name, entry in doc.get("lessons", {}).items()}
 
 
 # Provenance is taken from the *deal set* that produced this manifest, not from the clock or
@@ -151,6 +165,7 @@ def lesson_skill_path(boards):
 
 def build_manifest(package_dir):
     pbn_files = sorted(glob.glob(os.path.join(package_dir, "*.pbn")))
+    covers = load_covers()
     lessons = {}
     for path in pbn_files:
         basename, boards = parse_file(path)
@@ -158,6 +173,8 @@ def build_manifest(package_dir):
             continue
         lesson = {
             "skillPath": lesson_skill_path(boards),
+            # None when the lesson is not in lesson-covers.toml: main() refuses that.
+            "covers": covers.get(basename),
             "boardCount": len(boards),
             "stableBoardCount": sum(1 for b in boards if b["stable"]),
             "boards": boards,
@@ -196,6 +213,8 @@ def main():
     # are R3/R4 prerequisites the manifest must faithfully report.
     problems = []
     for name, lesson in manifest["lessons"].items():
+        if lesson["covers"] is None:
+            problems.append(f"{name}: not in Tools/lesson-covers.toml (add it, with what it covers)")
         for b in lesson["boards"]:
             if not isinstance(b["number"], int):
                 problems.append(f"{name}: board with missing/non-integer number "

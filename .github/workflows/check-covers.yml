@@ -1,0 +1,36 @@
+name: Check what the lessons cover
+
+# Tools/lesson-covers.toml names, for each lesson, the conventions, natural
+# methods and skills it practises, as IDs from
+# bridge-craftwork/bridge-common-conventions. Fail when an ID is not defined
+# there, a lesson has no entry, or the manifest's `covers` is out of date.
+# The check fetches that repo's published snapshot.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Tools/lesson-covers.toml'
+      - 'Tools/check_covers.py'
+      - 'bridge-classroom/manifest.json'
+      - '.github/workflows/check-covers.yml'
+  pull_request:
+    paths:
+      - 'Tools/lesson-covers.toml'
+      - 'Tools/check_covers.py'
+      - 'bridge-classroom/manifest.json'
+      - '.github/workflows/check-covers.yml'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Every ID a lesson covers is defined in bridge-common-conventions
+        run: python3 Tools/check_covers.py
