@@ -27,13 +27,13 @@ You are East. The bidding has been as shown.
 
 Partner led the \SJ, won by dummy's \SQ. The \D5 is now played from dummy. What do you play?
 
-When you have made your choice click NEXT. [choose-card D2] [NEXT]
+When you have made your choice click NEXT. [choose-card any:D7,D2] [NEXT]
 
 [show NESW]
 
 [clear-commentary]
 
-Play the \D2. Considering that South opened 1NT, he must have the \DQ for this play to make sense. 
+Play low. The \D7 is the normal card, giving partner count (high from an even number), though the \D2 is fine too: what matters is not rising with the \DA. Considering that South opened 1NT, he must have the \DQ for this play to make sense. 
 
 So if you put on your \DA, South will have TWO \D winners established. If instead you play low, then South cannot get a second \D trick and will have to look elsewhere for his ninth trick. As you can see, he is not going to be able to find it.}
 [Play "W"]

@@ -2034,6 +2034,12 @@ Which card do you lead now? [choose-card CJ]
 Win trick 1 with a dummy honour, saving the ♠Q as the entry; unblock with dummy's ♦Q.
 
 <<<
+Click NEXT to see the hands. [NEXT]
+===
+Click NEXT to see how this plays out. [NEXT]
+>>>
+
+<<<
 South is to play 3NT. West leads the \SJ.
 ===
 [showcards W:SJ] South is to play 3NT. West leads the \SJ.
@@ -4667,3 +4673,122 @@ the first trick is played, so it otherwise sat unplayed in his hand (#70).
 [show NS] [showcards W:HA]
 >>>
 
+---
+
+# Corrections outside the declarer-play lessons
+
+The same out-of-band mechanism fixes single boards in other lessons, so BakerBridgeFull.csv
+stays untouched (its commit date is the %Created stamp of every PBN). These boards are not
+declarer-play and the authoring rules above don't apply to them.
+
+## Negative 4
+
+Partner's 2♠ is a close call: score an invitational 3♠ as a defensible alternative. The tag
+goes after the [BID]: text before it belongs to the previous bid's explanation.
+
+<<<
+[BID pass]
+===
+[BID pass] [ACCEPT 3S]
+>>>
+
+## SecondHand 1
+
+Playing low to declarer's lead, the normal card is a count signal: the ♦7 is the main answer
+and the ♦2 is still allowed. East holds ♦AJ72.
+
+<<<
+[choose-card D2]
+===
+[choose-card any:D7,D2]
+>>>
+
+<<<
+Play the \D2.
+===
+Play low. The \D7 is the normal card, giving partner count (high from an even number), though the \D2 is fine too: what matters is not rising with the \DA.
+>>>
+
+## 100Deals 7
+
+bbparse lost the first call. South bids 1♥, then 4♥.
+
+<<<
+[BID 4\H]
+
+You have a nice hand
+===
+[BID 1\H]
+
+You have a nice hand
+>>>
+
+<<<
+What do you bid now? [BID pass]
+===
+What do you bid now? [BID 4\H]
+>>>
+
+## 100Deals 8
+
+bbparse wrote pass for both calls; the student bids 1♦, then 3NT. A [ROTATE] board: the
+stored auction is the turned one, and the app turns it back when these targets bind at
+partner's seat (see CLAUDE.md).
+
+<<<
+[BID pass]
+
+With 16 points as Responder
+===
+[BID 1\D]
+
+With 16 points as Responder
+>>>
+
+<<<
+What is your next bid? [BID pass]
+===
+What is your next bid? [BID 3NT]
+>>>
+
+## 100Deals 25
+
+bbparse wrote pass for the opening bid, which the prose gives as 1♠.
+
+<<<
+[BID pass]
+===
+[BID 1\S]
+>>>
+
+## Roman 6
+
+bbparse wrote pass for the first decision, which the prose gives as 4♣.
+
+<<<
+[BID pass]
+===
+[BID 4\C]
+>>>
+
+## OLead 20
+
+The first guess is deliberately free: Baker comments on it before the real question. No card
+can be clicked on this step, so the prompt must not read like a choice.
+
+<<<
+When you have made your choice click NEXT. [NEXT]
+===
+Decide what you would lead. Click NEXT when you are ready. [NEXT]
+>>>
+
+## ThirdHand 18
+
+The answer is East's ♣A overtaking partner's ♣K; the ♣K is West's card, so nothing could be
+clicked.
+
+<<<
+[choose-card CK]
+===
+[choose-card CA]
+>>>

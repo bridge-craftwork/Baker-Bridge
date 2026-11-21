@@ -349,11 +349,11 @@ HQ
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 4\H]
+You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\H]
 
 You have a nice hand, but 20 points is not strong enough to open 2\C. 
 
-So you open 1\H. Partner raises to 2\H. What do you bid now? [BID pass]
+So you open 1\H. Partner raises to 2\H. What do you bid now? [BID 4\H]
 
 [show NS]
 
@@ -404,9 +404,9 @@ pass 1C pass 1D pass 1NT pass 3NT pass pass pass
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID pass]
+You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\D]
 
-With 16 points as Responder you are not quite strong enough for a jump-shift to 2 \D. That requires at least 17 points. A jump to 3NT fits the point range (16-18) but promises a stopper in all unbid suits. So instead you bid 1\D, knowing partner is forced to keep the bidding alive. He now replies 1NT. What is your next bid? [BID pass]
+With 16 points as Responder you are not quite strong enough for a jump-shift to 2 \D. That requires at least 17 points. A jump to 3NT fits the point range (16-18) but promises a stopper in all unbid suits. So instead you bid 1\D, knowing partner is forced to keep the bidding alive. He now replies 1NT. What is your next bid? [BID 3NT]
 
 [show NS]
 
@@ -1437,7 +1437,7 @@ HK
 [Student "S"]
 {[show S]
 
-You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID pass]
+You are South and it is your bid. Decide what you would say, then click on <b>BID</b>. [BID 1\S]
 
 Of course you open 1\S. Partner responds 2\C. What do you bid now? [BID 3\S]
 
